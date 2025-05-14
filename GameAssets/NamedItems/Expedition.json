@@ -8,7 +8,7 @@
     "ExpeditionType": "Expedition.Land",
     "IsPermanent": true,
     "ResearchCost": 15,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_craftingrun_short_t01.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_CraftingRun_Short_T01.uasset"
   },
   "Expedition:expedition_sea_supplyrun_medium_t02": {
     "Type": "Expedition",
@@ -19,7 +19,7 @@
     "ExpeditionType": "Expedition.Sea",
     "IsPermanent": true,
     "ResearchCost": 50,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_sea_supplyrun_medium_t02.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_Sea_SupplyRun_Medium_T02.uasset"
   },
   "Expedition:expedition_traprun_short_t02": {
     "Type": "Expedition",
@@ -30,7 +30,7 @@
     "ExpeditionType": "Expedition.Land",
     "IsPermanent": true,
     "ResearchCost": 25,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_traprun_short_t02.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_TrapRun_Short_T02.uasset"
   },
   "Expedition:expedition_resourcerun_wood_short": {
     "Type": "Expedition",
@@ -41,7 +41,7 @@
     "ExpeditionType": "Expedition.Land",
     "IsPermanent": true,
     "ResearchCost": 15,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_resourcerun_wood_short.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_ResourceRun_Wood_Short.uasset"
   },
   "Expedition:expedition_traprun_long_t03": {
     "Type": "Expedition",
@@ -52,7 +52,7 @@
     "ExpeditionType": "Expedition.Land",
     "IsPermanent": true,
     "ResearchCost": 75,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_traprun_long_t03.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_TrapRun_Long_T03.uasset"
   },
   "Expedition:expedition_air_supplyrun_long_t04": {
     "Type": "Expedition",
@@ -63,7 +63,7 @@
     "ExpeditionType": "Expedition.Air",
     "IsPermanent": true,
     "ResearchCost": 125,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_air_supplyrun_long_t04.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_Air_SupplyRun_Long_T04.uasset"
   },
   "Expedition:expedition_traprun_short_t01": {
     "Type": "Expedition",
@@ -74,7 +74,7 @@
     "ExpeditionType": "Expedition.Land",
     "IsPermanent": true,
     "ResearchCost": 15,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_traprun_short_t01.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_TrapRun_Short_T01.uasset"
   },
   "Expedition:expedition_air_supplyrun_medium_t02": {
     "Type": "Expedition",
@@ -85,7 +85,7 @@
     "ExpeditionType": "Expedition.Air",
     "IsPermanent": true,
     "ResearchCost": 25,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_air_supplyrun_medium_t02.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_Air_SupplyRun_Medium_T02.uasset"
   },
   "Expedition:expedition_peoplerun_medium_t00": {
     "Type": "Expedition",
@@ -96,7 +96,7 @@
     "ExpeditionType": "Expedition.Land",
     "IsPermanent": true,
     "ResearchCost": 125,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_peoplerun_medium_t00.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_PeopleRun_Medium_T00.uasset"
   },
   "Expedition:expedition_rare_air_heroes_t04": {
     "Type": "Expedition",
@@ -108,7 +108,7 @@
     "IsPermanent": true,
     "Rarity": "Rare",
     "ResearchCost": 250,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_rare_air_heroes_t04.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_Rare_Air_Heroes_T04.uasset"
   },
   "Expedition:expedition_resourcerun_woodstone_medium": {
     "Type": "Expedition",
@@ -119,7 +119,7 @@
     "ExpeditionType": "Expedition.Land",
     "IsPermanent": true,
     "ResearchCost": 25,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_resourcerun_woodstone_medium.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_ResourceRun_WoodStone_Medium.uasset"
   },
   "Expedition:expedition_rare_traps_t03": {
     "Type": "Expedition",
@@ -131,7 +131,7 @@
     "IsPermanent": true,
     "Rarity": "Rare",
     "ResearchCost": 175,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_rare_traps_t03.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_Rare_Traps_T03.uasset"
   },
   "Expedition:expedition_resourcerun_wood_medium": {
     "Type": "Expedition",
@@ -142,7 +142,7 @@
     "ExpeditionType": "Expedition.Land",
     "IsPermanent": true,
     "ResearchCost": 25,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_resourcerun_wood_medium.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_ResourceRun_Wood_Medium.uasset"
   },
   "Expedition:expedition_sea_survivorscouting_medium_t02": {
     "Type": "Expedition",
@@ -153,7 +153,7 @@
     "ExpeditionType": "Expedition.Sea",
     "IsPermanent": true,
     "ResearchCost": 75,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_sea_survivorscouting_medium_t02.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_Sea_SurvivorScouting_Medium_T02.uasset"
   },
   "Expedition:expedition_rare_air_weapons_t05": {
     "Type": "Expedition",
@@ -165,7 +165,7 @@
     "IsPermanent": true,
     "Rarity": "Epic",
     "ResearchCost": 400,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_rare_air_weapons_t05.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_Rare_Air_Weapons_T05.uasset"
   },
   "Expedition:expedition_supplyrun_long_t02": {
     "Type": "Expedition",
@@ -176,7 +176,7 @@
     "ExpeditionType": "Expedition.Land",
     "IsPermanent": true,
     "ResearchCost": 50,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_supplyrun_long_t02.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_SupplyRun_Long_T02.uasset"
   },
   "Expedition:expedition_sea_supplyrun_long_t04": {
     "Type": "Expedition",
@@ -187,7 +187,7 @@
     "ExpeditionType": "Expedition.Sea",
     "IsPermanent": true,
     "ResearchCost": 125,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_sea_supplyrun_long_t04.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_Sea_SupplyRun_Long_T04.uasset"
   },
   "Expedition:expedition_resourcerun_stone_medium": {
     "Type": "Expedition",
@@ -198,7 +198,7 @@
     "ExpeditionType": "Expedition.Land",
     "IsPermanent": true,
     "ResearchCost": 50,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_resourcerun_stone_medium.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_ResourceRun_Stone_Medium.uasset"
   },
   "Expedition:expedition_rare_air_managers_t04": {
     "Type": "Expedition",
@@ -210,7 +210,7 @@
     "IsPermanent": true,
     "Rarity": "Rare",
     "ResearchCost": 250,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_rare_air_managers_t04.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_Rare_Air_Managers_T04.uasset"
   },
   "Expedition:expedition_miningore_t00": {
     "Type": "Expedition",
@@ -221,7 +221,7 @@
     "ExpeditionType": "Expedition.Land",
     "IsPermanent": true,
     "ResearchCost": 0,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_miningore_t00.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_MiningOre_T00.uasset"
   },
   "Expedition:expedition_craftingrun_medium_t02": {
     "Type": "Expedition",
@@ -232,7 +232,7 @@
     "ExpeditionType": "Expedition.Land",
     "IsPermanent": true,
     "ResearchCost": 50,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_craftingrun_medium_t02.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_CraftingRun_Medium_T02.uasset"
   },
   "Expedition:expedition_traprun_sea_medium_t03": {
     "Type": "Expedition",
@@ -243,7 +243,7 @@
     "ExpeditionType": "Expedition.Sea",
     "IsPermanent": true,
     "ResearchCost": 50,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_traprun_sea_medium_t03.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_TrapRun_Sea_Medium_T03.uasset"
   },
   "Expedition:expedition_rare_sea_traps_t05": {
     "Type": "Expedition",
@@ -255,7 +255,7 @@
     "IsPermanent": true,
     "Rarity": "Epic",
     "ResearchCost": 400,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_rare_sea_traps_t05.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_Rare_Sea_Traps_T05.uasset"
   },
   "Expedition:expedition_supplyrun_short_t00": {
     "Type": "Expedition",
@@ -266,7 +266,7 @@
     "ExpeditionType": "Expedition.Land",
     "IsPermanent": true,
     "ResearchCost": 15,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_supplyrun_short_t00.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_SupplyRun_Short_T00.uasset"
   },
   "Expedition:expedition_supplyrun_long_t03": {
     "Type": "Expedition",
@@ -277,7 +277,7 @@
     "ExpeditionType": "Expedition.Land",
     "IsPermanent": true,
     "ResearchCost": 75,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_supplyrun_long_t03.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_SupplyRun_Long_T03.uasset"
   },
   "Expedition:expedition_resourcerun_metal_short": {
     "Type": "Expedition",
@@ -288,7 +288,7 @@
     "ExpeditionType": "Expedition.Land",
     "IsPermanent": true,
     "ResearchCost": 15,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_resourcerun_metal_short.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_ResourceRun_Metal_Short.uasset"
   },
   "Expedition:expedition_supplyrun_short_t03": {
     "Type": "Expedition",
@@ -299,7 +299,7 @@
     "ExpeditionType": "Expedition.Land",
     "IsPermanent": true,
     "ResearchCost": 25,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_supplyrun_short_t03.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_SupplyRun_Short_T03.uasset"
   },
   "Expedition:expedition_rare_weapons_t04": {
     "Type": "Expedition",
@@ -311,7 +311,7 @@
     "IsPermanent": true,
     "Rarity": "Rare",
     "ResearchCost": 250,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_rare_weapons_t04.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_Rare_Weapons_T04.uasset"
   },
   "Expedition:expedition_rare_sea_weapons_t04": {
     "Type": "Expedition",
@@ -323,7 +323,7 @@
     "IsPermanent": true,
     "Rarity": "Rare",
     "ResearchCost": 250,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_rare_sea_weapons_t04.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_Rare_Sea_Weapons_T04.uasset"
   },
   "Expedition:expedition_craftingrun_medium_t03": {
     "Type": "Expedition",
@@ -334,7 +334,7 @@
     "ExpeditionType": "Expedition.Land",
     "IsPermanent": true,
     "ResearchCost": 75,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_craftingrun_medium_t03.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_CraftingRun_Medium_T03.uasset"
   },
   "Expedition:expedition_rare_sea_traps_t04": {
     "Type": "Expedition",
@@ -346,7 +346,7 @@
     "IsPermanent": true,
     "Rarity": "Rare",
     "ResearchCost": 250,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_rare_sea_traps_t04.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_Rare_Sea_Traps_T04.uasset"
   },
   "Expedition:expedition_rare_traps_t02": {
     "Type": "Expedition",
@@ -358,7 +358,7 @@
     "IsPermanent": true,
     "Rarity": "Rare",
     "ResearchCost": 125,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_rare_traps_t02.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_Rare_Traps_T02.uasset"
   },
   "Expedition:expedition_rare_air_traps_t04": {
     "Type": "Expedition",
@@ -370,7 +370,7 @@
     "IsPermanent": true,
     "Rarity": "Rare",
     "ResearchCost": 250,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_rare_air_traps_t04.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_Rare_Air_Traps_T04.uasset"
   },
   "Expedition:expedition_resourcerun_metal_medium": {
     "Type": "Expedition",
@@ -381,7 +381,7 @@
     "ExpeditionType": "Expedition.Land",
     "IsPermanent": true,
     "ResearchCost": 25,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_resourcerun_metal_medium.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_ResourceRun_Metal_Medium.uasset"
   },
   "Expedition:expedition_supplyrun_short_t02": {
     "Type": "Expedition",
@@ -392,7 +392,7 @@
     "ExpeditionType": "Expedition.Land",
     "IsPermanent": true,
     "ResearchCost": 25,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_supplyrun_short_t02.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_SupplyRun_Short_T02.uasset"
   },
   "Expedition:expedition_air_survivorscouting_long_t04": {
     "Type": "Expedition",
@@ -403,7 +403,7 @@
     "ExpeditionType": "Expedition.Air",
     "IsPermanent": true,
     "ResearchCost": 125,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_air_survivorscouting_long_t04.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_Air_SurvivorScouting_Long_T04.uasset"
   },
   "Expedition:expedition_craftingrun_short_t00": {
     "Type": "Expedition",
@@ -414,7 +414,7 @@
     "ExpeditionType": "Expedition.Land",
     "IsPermanent": true,
     "ResearchCost": 15,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_craftingrun_short_t00.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_CraftingRun_Short_T00.uasset"
   },
   "Expedition:expedition_traprun_long_t04": {
     "Type": "Expedition",
@@ -425,7 +425,7 @@
     "ExpeditionType": "Expedition.Land",
     "IsPermanent": true,
     "ResearchCost": 125,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_traprun_long_t04.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_TrapRun_Long_T04.uasset"
   },
   "Expedition:expedition_traprun_medium_t04": {
     "Type": "Expedition",
@@ -436,7 +436,7 @@
     "ExpeditionType": "Expedition.Land",
     "IsPermanent": true,
     "ResearchCost": 75,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_traprun_medium_t04.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_TrapRun_Medium_T04.uasset"
   },
   "Expedition:expedition_rare_sea_managers_t04": {
     "Type": "Expedition",
@@ -448,7 +448,7 @@
     "IsPermanent": true,
     "Rarity": "Rare",
     "ResearchCost": 250,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_rare_sea_managers_t04.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_Rare_Sea_Managers_T04.uasset"
   },
   "Expedition:expedition_sea_supplyrun_short_t01": {
     "Type": "Expedition",
@@ -459,7 +459,7 @@
     "ExpeditionType": "Expedition.Sea",
     "IsPermanent": true,
     "ResearchCost": 25,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_sea_supplyrun_short_t01.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_Sea_SupplyRun_Short_T01.uasset"
   },
   "Expedition:expedition_craftingrun_short_t03": {
     "Type": "Expedition",
@@ -470,7 +470,7 @@
     "ExpeditionType": "Expedition.Land",
     "IsPermanent": true,
     "ResearchCost": 50,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_craftingrun_short_t03.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_CraftingRun_Short_T03.uasset"
   },
   "Expedition:expedition_peoplerun_short_t00": {
     "Type": "Expedition",
@@ -481,7 +481,7 @@
     "ExpeditionType": "Expedition.Land",
     "IsPermanent": true,
     "ResearchCost": 75,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_peoplerun_short_t00.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_PeopleRun_Short_T00.uasset"
   },
   "Expedition:expedition_air_supplyrun_long_t02": {
     "Type": "Expedition",
@@ -492,7 +492,7 @@
     "ExpeditionType": "Expedition.Air",
     "IsPermanent": true,
     "ResearchCost": 50,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_air_supplyrun_long_t02.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_Air_SupplyRun_Long_T02.uasset"
   },
   "Expedition:expedition_air_survivorscouting_medium_t03": {
     "Type": "Expedition",
@@ -503,7 +503,7 @@
     "ExpeditionType": "Expedition.Air",
     "IsPermanent": true,
     "ResearchCost": 75,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_air_survivorscouting_medium_t03.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_Air_SurvivorScouting_Medium_T03.uasset"
   },
   "Expedition:expedition_resourcerun_all_medium": {
     "Type": "Expedition",
@@ -514,7 +514,7 @@
     "ExpeditionType": "Expedition.Land",
     "IsPermanent": true,
     "ResearchCost": 25,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_resourcerun_all_medium.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_ResourceRun_All_Medium.uasset"
   },
   "Expedition:expedition_rare_sea_heroes_t05": {
     "Type": "Expedition",
@@ -526,7 +526,7 @@
     "IsPermanent": true,
     "Rarity": "Epic",
     "ResearchCost": 400,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_rare_sea_heroes_t05.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_Rare_Sea_Heroes_T05.uasset"
   },
   "Expedition:expedition_rare_managers_t04": {
     "Type": "Expedition",
@@ -538,7 +538,7 @@
     "IsPermanent": true,
     "Rarity": "Rare",
     "ResearchCost": 250,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_rare_managers_t04.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_Rare_Managers_T04.uasset"
   },
   "Expedition:expedition_craftingrun_medium_t01": {
     "Type": "Expedition",
@@ -549,7 +549,7 @@
     "ExpeditionType": "Expedition.Land",
     "IsPermanent": true,
     "ResearchCost": 25,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_craftingrun_medium_t01.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_CraftingRun_Medium_T01.uasset"
   },
   "Expedition:expedition_air_survivorscouting_long_t02": {
     "Type": "Expedition",
@@ -560,7 +560,7 @@
     "ExpeditionType": "Expedition.Air",
     "IsPermanent": true,
     "ResearchCost": 50,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_air_survivorscouting_long_t02.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_Air_SurvivorScouting_Long_T02.uasset"
   },
   "Expedition:expedition_choppingwood_t00": {
     "Type": "Expedition",
@@ -571,7 +571,7 @@
     "ExpeditionType": "Expedition.Land",
     "IsPermanent": true,
     "ResearchCost": 0,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_choppingwood_t00.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_ChoppingWood_T00.uasset"
   },
   "Expedition:expedition_resourcerun_woodstone_short": {
     "Type": "Expedition",
@@ -582,7 +582,7 @@
     "ExpeditionType": "Expedition.Land",
     "IsPermanent": true,
     "ResearchCost": 15,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_resourcerun_woodstone_short.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_ResourceRun_WoodStone_Short.uasset"
   },
   "Expedition:expedition_supplyrun_medium_t02": {
     "Type": "Expedition",
@@ -593,7 +593,7 @@
     "ExpeditionType": "Expedition.Land",
     "IsPermanent": true,
     "ResearchCost": 25,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_supplyrun_medium_t02.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_SupplyRun_Medium_T02.uasset"
   },
   "Expedition:expedition_sea_survivorscouting_long_t04": {
     "Type": "Expedition",
@@ -604,7 +604,7 @@
     "ExpeditionType": "Expedition.Sea",
     "IsPermanent": true,
     "ResearchCost": 125,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_sea_survivorscouting_long_t04.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_Sea_SurvivorScouting_Long_T04.uasset"
   },
   "Expedition:expedition_rare_heroes_t04": {
     "Type": "Expedition",
@@ -616,7 +616,7 @@
     "IsPermanent": true,
     "Rarity": "Rare",
     "ResearchCost": 250,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_rare_heroes_t04.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_Rare_Heroes_T04.uasset"
   },
   "Expedition:expedition_traprun_sea_long_t04": {
     "Type": "Expedition",
@@ -627,7 +627,7 @@
     "ExpeditionType": "Expedition.Sea",
     "IsPermanent": true,
     "ResearchCost": 125,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_traprun_sea_long_t04.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_TrapRun_Sea_Long_T04.uasset"
   },
   "Expedition:expedition_craftingrun_short_t02": {
     "Type": "Expedition",
@@ -638,7 +638,7 @@
     "ExpeditionType": "Expedition.Land",
     "IsPermanent": true,
     "ResearchCost": 25,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_craftingrun_short_t02.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_CraftingRun_Short_T02.uasset"
   },
   "Expedition:expedition_traprun_short_t04": {
     "Type": "Expedition",
@@ -649,7 +649,7 @@
     "ExpeditionType": "Expedition.Land",
     "IsPermanent": true,
     "ResearchCost": 75,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_traprun_short_t04.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_TrapRun_Short_T04.uasset"
   },
   "Expedition:expedition_sea_supplyrun_long_t03": {
     "Type": "Expedition",
@@ -660,7 +660,7 @@
     "ExpeditionType": "Expedition.Sea",
     "IsPermanent": true,
     "ResearchCost": 50,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_sea_supplyrun_long_t03.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_Sea_SupplyRun_Long_T03.uasset"
   },
   "Expedition:expedition_air_supplyrun_long_t03": {
     "Type": "Expedition",
@@ -671,7 +671,7 @@
     "ExpeditionType": "Expedition.Air",
     "IsPermanent": true,
     "ResearchCost": 75,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_air_supplyrun_long_t03.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_Air_SupplyRun_Long_T03.uasset"
   },
   "Expedition:expedition_rare_sea_heroes_t04": {
     "Type": "Expedition",
@@ -683,7 +683,7 @@
     "IsPermanent": true,
     "Rarity": "Rare",
     "ResearchCost": 250,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_rare_sea_heroes_t04.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_Rare_Sea_Heroes_T04.uasset"
   },
   "Expedition:expedition_rare_sea_weapons_t05": {
     "Type": "Expedition",
@@ -695,7 +695,7 @@
     "IsPermanent": true,
     "Rarity": "Epic",
     "ResearchCost": 400,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_rare_sea_weapons_t05.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_Rare_Sea_Weapons_T05.uasset"
   },
   "Expedition:expedition_traprun_air_long_t04": {
     "Type": "Expedition",
@@ -706,7 +706,7 @@
     "ExpeditionType": "Expedition.Air",
     "IsPermanent": true,
     "ResearchCost": 125,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_traprun_air_long_t04.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_TrapRun_Air_Long_T04.uasset"
   },
   "Expedition:expedition_traprun_short_t03": {
     "Type": "Expedition",
@@ -717,7 +717,7 @@
     "ExpeditionType": "Expedition.Land",
     "IsPermanent": true,
     "ResearchCost": 50,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_traprun_short_t03.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_TrapRun_Short_T03.uasset"
   },
   "Expedition:expedition_resourcerun_stone_short": {
     "Type": "Expedition",
@@ -728,7 +728,7 @@
     "ExpeditionType": "Expedition.Land",
     "IsPermanent": true,
     "ResearchCost": 50,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_resourcerun_stone_short.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_ResourceRun_Stone_Short.uasset"
   },
   "Expedition:expedition_rare_air_traps_t05": {
     "Type": "Expedition",
@@ -740,7 +740,7 @@
     "IsPermanent": true,
     "Rarity": "Epic",
     "ResearchCost": 400,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_rare_air_traps_t05.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_Rare_Air_Traps_T05.uasset"
   },
   "Expedition:expedition_traprun_medium_t01": {
     "Type": "Expedition",
@@ -751,7 +751,7 @@
     "ExpeditionType": "Expedition.Land",
     "IsPermanent": true,
     "ResearchCost": 15,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_traprun_medium_t01.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_TrapRun_Medium_T01.uasset"
   },
   "Expedition:expedition_supplyrun_medium_t03": {
     "Type": "Expedition",
@@ -762,7 +762,7 @@
     "ExpeditionType": "Expedition.Land",
     "IsPermanent": true,
     "ResearchCost": 50,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_supplyrun_medium_t03.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_SupplyRun_Medium_T03.uasset"
   },
   "Expedition:expedition_rare_air_managers_t05": {
     "Type": "Expedition",
@@ -774,7 +774,7 @@
     "IsPermanent": true,
     "Rarity": "Epic",
     "ResearchCost": 400,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_rare_air_managers_t05.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_Rare_Air_Managers_T05.uasset"
   },
   "Expedition:expedition_sea_survivorscouting_short_t01": {
     "Type": "Expedition",
@@ -785,7 +785,7 @@
     "ExpeditionType": "Expedition.Sea",
     "IsPermanent": true,
     "ResearchCost": 50,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_sea_survivorscouting_short_t01.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_Sea_SurvivorScouting_Short_T01.uasset"
   },
   "Expedition:expedition_rare_air_heroes_t05": {
     "Type": "Expedition",
@@ -797,7 +797,7 @@
     "IsPermanent": true,
     "Rarity": "Epic",
     "ResearchCost": 400,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_rare_air_heroes_t05.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_Rare_Air_Heroes_T05.uasset"
   },
   "Expedition:expedition_craftingrun_long_t03": {
     "Type": "Expedition",
@@ -808,7 +808,7 @@
     "ExpeditionType": "Expedition.Land",
     "IsPermanent": true,
     "ResearchCost": 50,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_craftingrun_long_t03.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_CraftingRun_Long_T03.uasset"
   },
   "Expedition:expedition_survivorscouting_long_t04": {
     "Type": "Expedition",
@@ -819,7 +819,7 @@
     "ExpeditionType": "Expedition.Land",
     "IsPermanent": true,
     "ResearchCost": 100,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_survivorscouting_long_t04.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_SurvivorScouting_Long_T04.uasset"
   },
   "Expedition:expedition_survivorscouting_long_t03": {
     "Type": "Expedition",
@@ -830,7 +830,7 @@
     "ExpeditionType": "Expedition.Land",
     "IsPermanent": true,
     "ResearchCost": 50,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_survivorscouting_long_t03.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_SurvivorScouting_Long_T03.uasset"
   },
   "Expedition:expedition_sea_survivorscouting_medium_t03": {
     "Type": "Expedition",
@@ -841,7 +841,7 @@
     "ExpeditionType": "Expedition.Sea",
     "IsPermanent": true,
     "ResearchCost": 125,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_sea_survivorscouting_medium_t03.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_Sea_SurvivorScouting_Medium_T03.uasset"
   },
   "Expedition:expedition_traprun_medium_t03": {
     "Type": "Expedition",
@@ -852,7 +852,7 @@
     "ExpeditionType": "Expedition.Land",
     "IsPermanent": true,
     "ResearchCost": 50,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_traprun_medium_t03.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_TrapRun_Medium_T03.uasset"
   },
   "Expedition:expedition_survivorscouting_short_t01": {
     "Type": "Expedition",
@@ -863,7 +863,7 @@
     "ExpeditionType": "Expedition.Land",
     "IsPermanent": true,
     "ResearchCost": 25,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_survivorscouting_short_t01.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_SurvivorScouting_Short_T01.uasset"
   },
   "Expedition:expedition_supplyrun_medium_t01": {
     "Type": "Expedition",
@@ -874,7 +874,7 @@
     "ExpeditionType": "Expedition.Land",
     "IsPermanent": true,
     "ResearchCost": 15,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_supplyrun_medium_t01.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_SupplyRun_Medium_T01.uasset"
   },
   "Expedition:expedition_rare_traps_t04": {
     "Type": "Expedition",
@@ -886,7 +886,7 @@
     "IsPermanent": true,
     "Rarity": "Rare",
     "ResearchCost": 250,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_rare_traps_t04.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_Rare_Traps_T04.uasset"
   },
   "Expedition:expedition_rare_weapons_t03": {
     "Type": "Expedition",
@@ -898,7 +898,7 @@
     "IsPermanent": true,
     "Rarity": "Rare",
     "ResearchCost": 175,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_rare_weapons_t03.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_Rare_Weapons_T03.uasset"
   },
   "Expedition:expedition_traprun_air_medium_t04": {
     "Type": "Expedition",
@@ -909,7 +909,7 @@
     "ExpeditionType": "Expedition.Air",
     "IsPermanent": true,
     "ResearchCost": 75,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_traprun_air_medium_t04.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_TrapRun_Air_Medium_T04.uasset"
   },
   "Expedition:expedition_supplyrun_short_t01": {
     "Type": "Expedition",
@@ -920,7 +920,7 @@
     "ExpeditionType": "Expedition.Land",
     "IsPermanent": true,
     "ResearchCost": 15,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_supplyrun_short_t01.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_SupplyRun_Short_T01.uasset"
   },
   "Expedition:expedition_survivorscouting_medium_t02": {
     "Type": "Expedition",
@@ -931,7 +931,7 @@
     "ExpeditionType": "Expedition.Land",
     "IsPermanent": true,
     "ResearchCost": 50,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_survivorscouting_medium_t02.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_SurvivorScouting_Medium_T02.uasset"
   },
   "Expedition:expedition_traprun_medium_t02": {
     "Type": "Expedition",
@@ -942,7 +942,7 @@
     "ExpeditionType": "Expedition.Land",
     "IsPermanent": true,
     "ResearchCost": 25,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_traprun_medium_t02.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_TrapRun_Medium_T02.uasset"
   },
   "Expedition:expedition_craftingrun_long_t04": {
     "Type": "Expedition",
@@ -953,7 +953,7 @@
     "ExpeditionType": "Expedition.Land",
     "IsPermanent": true,
     "ResearchCost": 75,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_craftingrun_long_t04.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_CraftingRun_Long_T04.uasset"
   },
   "Expedition:expedition_traprun_air_medium_t03": {
     "Type": "Expedition",
@@ -964,7 +964,7 @@
     "ExpeditionType": "Expedition.Air",
     "IsPermanent": true,
     "ResearchCost": 50,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_traprun_air_medium_t03.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_TrapRun_Air_Medium_T03.uasset"
   },
   "Expedition:expedition_rare_sea_managers_t05": {
     "Type": "Expedition",
@@ -976,7 +976,7 @@
     "IsPermanent": true,
     "Rarity": "Epic",
     "ResearchCost": 400,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_rare_sea_managers_t05.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_Rare_Sea_Managers_T05.uasset"
   },
   "Expedition:expedition_rare_heroes_t03": {
     "Type": "Expedition",
@@ -988,7 +988,7 @@
     "IsPermanent": true,
     "Rarity": "Rare",
     "ResearchCost": 175,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_rare_heroes_t03.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_Rare_Heroes_T03.uasset"
   },
   "Expedition:expedition_traprun_sea_medium_t04": {
     "Type": "Expedition",
@@ -999,7 +999,7 @@
     "ExpeditionType": "Expedition.Sea",
     "IsPermanent": true,
     "ResearchCost": 75,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_traprun_sea_medium_t04.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_TrapRun_Sea_Medium_T04.uasset"
   },
   "Expedition:expedition_rare_weapons_t02": {
     "Type": "Expedition",
@@ -1011,7 +1011,7 @@
     "IsPermanent": true,
     "Rarity": "Rare",
     "ResearchCost": 125,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_rare_weapons_t02.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_Rare_Weapons_T02.uasset"
   },
   "Expedition:expedition_rare_managers_t03": {
     "Type": "Expedition",
@@ -1023,7 +1023,7 @@
     "IsPermanent": true,
     "Rarity": "Rare",
     "ResearchCost": 175,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_rare_managers_t03.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_Rare_Managers_T03.uasset"
   },
   "Expedition:expedition_supplyrun_long_t04": {
     "Type": "Expedition",
@@ -1034,7 +1034,7 @@
     "ExpeditionType": "Expedition.Land",
     "IsPermanent": true,
     "ResearchCost": 100,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_supplyrun_long_t04.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_SupplyRun_Long_T04.uasset"
   },
   "Expedition:expedition_rare_air_weapons_t04": {
     "Type": "Expedition",
@@ -1046,7 +1046,7 @@
     "IsPermanent": true,
     "Rarity": "Rare",
     "ResearchCost": 250,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_rare_air_weapons_t04.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_Rare_Air_Weapons_T04.uasset"
   },
   "Expedition:expedition_rare_weapons_t01": {
     "Type": "Expedition",
@@ -1058,7 +1058,7 @@
     "IsPermanent": true,
     "Rarity": "Rare",
     "ResearchCost": 75,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_rare_weapons_t01.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_Rare_Weapons_T01.uasset"
   },
   "Expedition:expedition_resourcerun_all_short": {
     "Type": "Expedition",
@@ -1069,6 +1069,6 @@
     "ExpeditionType": "Expedition.Land",
     "IsPermanent": true,
     "ResearchCost": 15,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/expeditions/expedition_resourcerun_all_short.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Expeditions/Expedition_ResourceRun_All_Short.uasset"
   }
 }

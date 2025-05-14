@@ -6,7 +6,7 @@
     "Description": "A human being worth saving",
     "IsPermanent": true,
     "Rarity": "Mythic",
-    "AssetPath": "fortnitegame/content/items/resourcepickups/survivoritemdata.uasset",
+    "AssetPath": "FortniteGame/Content/Items/ResourcePickups/SurvivorItemData.uasset",
     "ImagePaths": {
       "SmallPreview": "/Game/UI/Icons/Icon-Worker/Icon-Worker-L.Icon-Worker-L",
       "LargePreview": "ExportedImages\\Icon-Worker-L.png"
@@ -19,7 +19,7 @@
     "Description": "Basic resource found throughout the world.",
     "IsPermanent": true,
     "Rarity": "Common",
-    "AssetPath": "fortnitegame/content/items/resourcepickups/golditemdata.uasset",
+    "AssetPath": "FortniteGame/Content/Items/ResourcePickups/GoldItemData.uasset",
     "ImagePaths": {
       "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T-Icon-S-Loot-GoldCurrency.T-Icon-S-Loot-GoldCurrency",
       "LargePreview": "ExportedImages\\T-Icon-S-Loot-GoldCurrency-L.png"
@@ -32,7 +32,7 @@
     "Description": "Basic resource found throughout the world.",
     "IsPermanent": true,
     "Rarity": "Common",
-    "AssetPath": "fortnitegame/content/items/resourcepickups/wooditemdata.uasset",
+    "AssetPath": "FortniteGame/Content/Items/ResourcePickups/WoodItemData.uasset",
     "ImagePaths": {
       "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T-Icon-Logs.T-Icon-Logs",
       "LargePreview": "ExportedImages\\T-Icon-Logs-L.png"
@@ -45,7 +45,7 @@
     "Description": "Basic resource found throughout the world.",
     "IsPermanent": true,
     "Rarity": "Common",
-    "AssetPath": "fortnitegame/content/items/resourcepickups/metalitemdata.uasset",
+    "AssetPath": "FortniteGame/Content/Items/ResourcePickups/MetalItemData.uasset",
     "ImagePaths": {
       "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T-Icon-IBeam.T-Icon-IBeam",
       "LargePreview": "ExportedImages\\T-Icon-IBeam-L.png"
@@ -57,7 +57,7 @@
     "DisplayName": "Permanite",
     "Description": "Permanent resource used to build core of the Keep",
     "IsPermanent": true,
-    "AssetPath": "fortnitegame/content/items/resourcepickups/permaniteitemdata.uasset",
+    "AssetPath": "FortniteGame/Content/Items/ResourcePickups/PermaniteItemData.uasset",
     "ImagePaths": {
       "SmallPreview": "/Game/UI/UI_PlaceholderIcons/Icon_Permanite.Icon_Permanite",
       "LargePreview": "ExportedImages\\Icon_Permanite.png"
@@ -70,7 +70,7 @@
     "Description": "Basic resource found throughout the world.",
     "IsPermanent": true,
     "Rarity": "Common",
-    "AssetPath": "fortnitegame/content/items/resourcepickups/stoneitemdata.uasset",
+    "AssetPath": "FortniteGame/Content/Items/ResourcePickups/StoneItemData.uasset",
     "ImagePaths": {
       "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T-Icon-S-Loot-Stone.T-Icon-S-Loot-Stone",
       "LargePreview": "ExportedImages\\T-Icon-S-Loot-Stone-L.png"

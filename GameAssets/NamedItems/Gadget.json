@@ -6,7 +6,7 @@
     "Description": "Deploys a hovering turret that fires energy rounds [FireRate] at enemies within [Range] tile range for [Duration] seconds. [Explode]",
     "IsPermanent": true,
     "Rarity": "Common",
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/generic/gadgets/bot_turret/g_generic_botturret.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Abilities/Player/Generic/Gadgets/Bot_Turret/G_Generic_BotTurret.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Gadgets/Icon-Gadget-TurretBot-bg-128.Icon-Gadget-TurretBot-bg-128",
       "LargePreview": "ExportedImages\\Icon-Gadget-TurretBot-bg-128.png"
@@ -18,7 +18,7 @@
     "DisplayName": "QuickTower",
     "IsPermanent": true,
     "Rarity": "Common",
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/generic/gadgets/quicktower/g_quicktower.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Abilities/Player/Generic/Gadgets/QuickTower/G_QuickTower.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-HomeBase-L.Icon-HomeBase-L",
       "LargePreview": "ExportedImages\\Icon-HomeBase-L.png"
@@ -30,7 +30,7 @@
     "DisplayName": "Roman Candle",
     "IsPermanent": true,
     "Rarity": "Common",
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/generic/gadgets/romancandle/g_romancandle.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Abilities/Player/Generic/Gadgets/RomanCandle/G_RomanCandle.uasset",
     "ImagePaths": {
       "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T-Icon-S-BottleRocket-Launcher.T-Icon-S-BottleRocket-Launcher",
       "LargePreview": "ExportedImages\\T-Icon-S-BottleRocket-Launcher.png"
@@ -42,7 +42,7 @@
     "DisplayName": "Husk Pheromones",
     "IsPermanent": true,
     "Rarity": "Common",
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/generic/gadgets/taunt/g_generic_taunt.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Abilities/Player/Generic/Gadgets/Taunt/G_Generic_Taunt.uasset",
     "ImagePaths": {
       "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Heroes/Icon-Perk-Missing-M.Icon-Perk-Missing-M",
       "LargePreview": "ExportedImages\\Icon-Perk-Missing-M.png"
@@ -55,7 +55,7 @@
     "Description": "Deploy two teleportation pads up to [Ability.Line1] away from one another. Arms in [Ability.Line2].",
     "IsPermanent": true,
     "Rarity": "Common",
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/generic/gadgets/teleporter/g_teleporter.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Abilities/Player/Generic/Gadgets/Teleporter/G_Teleporter.uasset",
     "ImagePaths": {
       "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Gadgets/Icon-Gadget-Teleporter-bg-128.Icon-Gadget-Teleporter-bg-128",
       "LargePreview": "ExportedImages\\Icon-Gadget-Teleporter-bg-128.png"
@@ -67,7 +67,7 @@
     "DisplayName": "AirStrike",
     "IsPermanent": true,
     "Rarity": "Common",
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/generic/gadgets/onboardingairstrike/g_airstrike_onboarding.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Abilities/Player/Generic/Gadgets/OnboardingAirStrike/G_AirStrike_Onboarding.uasset",
     "ImagePaths": {
       "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Gadgets/Icon-Gadget-Airstrike-bg-128.Icon-Gadget-Airstrike-bg-128",
       "LargePreview": "ExportedImages\\Icon-Gadget-Airstrike-bg-128.png"
@@ -79,7 +79,7 @@
     "DisplayName": "Cart",
     "IsPermanent": true,
     "Rarity": "Common",
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/generic/gadgets/track/g_cart.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Abilities/Player/Generic/Gadgets/Track/G_Cart.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Icons/Gadgets/Teleporter.Teleporter",
       "LargePreview": "ExportedImages\\Teleporter.png"
@@ -91,7 +91,7 @@
     "DisplayName": "GlowTorch White",
     "IsPermanent": true,
     "Rarity": "Common",
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/generic/gadgets/glow_torch/g_generic_glowtorch_white.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Abilities/Player/Generic/Gadgets/Glow_Torch/G_Generic_GlowTorch_White.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Items/T-Icon-GlowStick-Pickup-White.T-Icon-GlowStick-Pickup-White",
       "LargePreview": "ExportedImages\\T-Icon-GlowStick-Pickup-White.png"
@@ -104,7 +104,7 @@
     "Description": "Deploys a Proximity Mine that explodes with a [Range] tile range.",
     "IsPermanent": true,
     "Rarity": "Common",
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/generic/gadgets/proximity_mines/g_generic_proximitymines.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Abilities/Player/Generic/Gadgets/Proximity_Mines/G_Generic_ProximityMines.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Gadgets/Icon-Gadget-ProximityMine-bg-128.Icon-Gadget-ProximityMine-bg-128",
       "LargePreview": "ExportedImages\\Icon-Gadget-ProximityMine-bg-128.png"
@@ -116,7 +116,7 @@
     "DisplayName": "Tracks",
     "IsPermanent": true,
     "Rarity": "Common",
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/generic/gadgets/track/g_track.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Abilities/Player/Generic/Gadgets/Track/G_Track.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Items/T-Icon-Floor-Cart-Track-PickUp.T-Icon-Floor-Cart-Track-PickUp",
       "LargePreview": "ExportedImages\\T-Icon-Floor-Cart-Track-PickUp.png"
@@ -128,7 +128,7 @@
     "DisplayName": "Loot Llama",
     "IsPermanent": true,
     "Rarity": "Common",
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/generic/gadgets/llama/g_outlander_specialfragment_llama.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Abilities/Player/Generic/Gadgets/Llama/g_Outlander_SpecialFragment_Llama.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Icons/Gadgets/Outlander_Fragment-Full-_Special_.Outlander_Fragment-Full-_Special_",
       "LargePreview": "ExportedImages\\Outlander_Fragment-Full-_Special_.png"
@@ -141,7 +141,7 @@
     "Description": "Drops [Ability.MaxStacks] bombs on targets.",
     "IsPermanent": true,
     "Rarity": "Common",
-    "AssetPath": "fortnitegame/content/abilities/player/generic/gadgets/airstrike/g_airstrike.uasset",
+    "AssetPath": "FortniteGame/Content/Abilities/Player/Generic/Gadgets/Airstrike/G_AirStrike.uasset",
     "ImagePaths": {
       "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Gadgets/Icon-Gadget-Airstrike-bg-128.Icon-Gadget-Airstrike-bg-128",
       "LargePreview": "ExportedImages\\Icon-Gadget-Airstrike-bg-128.png"
@@ -153,7 +153,7 @@
     "DisplayName": "GlowTorch Purple",
     "IsPermanent": true,
     "Rarity": "Common",
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/generic/gadgets/glow_torch/g_generic_glowtorch_purple.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Abilities/Player/Generic/Gadgets/Glow_Torch/G_Generic_GlowTorch_Purple.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Items/T-Icon-GlowStick-Pickup-Purple.T-Icon-GlowStick-Pickup-Purple",
       "LargePreview": "ExportedImages\\T-Icon-GlowStick-Pickup-Purple.png"
@@ -166,7 +166,7 @@
     "Description": "Calls in supply drop of [Ability.Line1], [Ability.Line2][Ability.Line3][Ability.Line4][Ability.Line5][SpecialEnd][SpecialStart][SpecialAmount].",
     "IsPermanent": true,
     "Rarity": "Common",
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/generic/gadgets/supplydrop/g_supplydrop.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Abilities/Player/Generic/Gadgets/SupplyDrop/G_SupplyDrop.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Gadgets/Icon-Gadget-SupplyDrop-bg-128.Icon-Gadget-SupplyDrop-bg-128",
       "LargePreview": "ExportedImages\\Icon-Gadget-SupplyDrop-bg-128.png"
@@ -178,7 +178,7 @@
     "DisplayName": "M80",
     "IsPermanent": true,
     "Rarity": "Common",
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/generic/gadgets/m80/g_m80.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Abilities/Player/Generic/Gadgets/M80/G_M80.uasset",
     "ImagePaths": {
       "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T-Icon-S-M80.T-Icon-S-M80",
       "LargePreview": "ExportedImages\\T-Icon-S-M80.png"
@@ -190,7 +190,7 @@
     "DisplayName": "PlasmaBomb",
     "IsPermanent": true,
     "Rarity": "Common",
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/generic/gadgets/plasmabomb/g_plasmabomb.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Abilities/Player/Generic/Gadgets/PlasmaBomb/G_PlasmaBomb.uasset",
     "ImagePaths": {
       "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T-Icon-S-M80.T-Icon-S-M80",
       "LargePreview": "ExportedImages\\T-Icon-S-M80.png"
@@ -203,7 +203,7 @@
     "Description": "Instantly restores [instahealamt] health to you and friendly players in a [Ability.AOERadius] tile range. [Purge] [HOTStart]",
     "IsPermanent": true,
     "Rarity": "Common",
-    "AssetPath": "fortnitegame/content/abilities/player/generic/gadgets/adrenalinerush/g_generic_adrenalinerush.uasset",
+    "AssetPath": "FortniteGame/Content/Abilities/Player/Generic/Gadgets/AdrenalineRush/G_Generic_AdrenalineRush.uasset",
     "ImagePaths": {
       "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Gadgets/Icon-Gadget-AdrenalineRush-bg-128.Icon-Gadget-AdrenalineRush-bg-128",
       "LargePreview": "ExportedImages\\Icon-Gadget-AdrenalineRush-bg-128.png"
@@ -215,7 +215,7 @@
     "DisplayName": "GlowTorch Yellow",
     "IsPermanent": true,
     "Rarity": "Common",
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/generic/gadgets/glow_torch/g_generic_glowtorch_yellow.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Abilities/Player/Generic/Gadgets/Glow_Torch/G_Generic_GlowTorch_Yellow.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Items/T-Icon-GlowStick-Pickup-Yellow.T-Icon-GlowStick-Pickup-Yellow",
       "LargePreview": "ExportedImages\\T-Icon-GlowStick-Pickup-Yellow.png"
@@ -227,7 +227,7 @@
     "DisplayName": "Bottle Rocket",
     "IsPermanent": true,
     "Rarity": "Common",
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/generic/gadgets/bottlerocket/g_bottlerocket.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Abilities/Player/Generic/Gadgets/BottleRocket/G_BottleRocket.uasset",
     "ImagePaths": {
       "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T-Icon-S-BottleRocket-Launcher.T-Icon-S-BottleRocket-Launcher",
       "LargePreview": "ExportedImages\\T-Icon-S-BottleRocket-Launcher.png"
@@ -239,7 +239,7 @@
     "DisplayName": "Hoverboard",
     "IsPermanent": true,
     "Rarity": "Common",
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/generic/gadgets/vehicles/hoverboard/g_hoverboard.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Abilities/Player/Generic/Gadgets/Vehicles/Hoverboard/G_Hoverboard.uasset",
     "ImagePaths": {
       "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Gadgets/Icon-Gadget-SupplyDrop-128.Icon-Gadget-SupplyDrop-128",
       "LargePreview": "ExportedImages\\Icon-Gadget-SupplyDrop-128.png"
@@ -252,7 +252,7 @@
     "Description": "Reduces speed of enemies to [SlowAmount]% in a [Radius] tile range for [Duration] seconds.",
     "IsPermanent": true,
     "Rarity": "Common",
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/generic/gadgets/slowfield/g_generic_slowfield.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Abilities/Player/Generic/Gadgets/SlowField/G_Generic_SlowField.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Gadgets/Icon-Gadget-Slowfield-bg-128.Icon-Gadget-Slowfield-bg-128",
       "LargePreview": "ExportedImages\\Icon-Gadget-Slowfield-bg-128.png"
@@ -264,7 +264,7 @@
     "DisplayName": "HomeBaseLevelScaler",
     "IsPermanent": true,
     "Rarity": "Mythic",
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/generic/gadgets/debug/g_debugattributegain.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Abilities/Player/Generic/Gadgets/Debug/G_DebugAttributeGain.uasset",
     "ImagePaths": {
       "SmallPreview": "/Game/UI/CodeReferenced/KillIcon_Skull.KillIcon_Skull",
       "LargePreview": "ExportedImages\\KillIcon_Skull.png"
@@ -276,7 +276,7 @@
     "DisplayName": "Quick Wall",
     "IsPermanent": true,
     "Rarity": "Common",
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/generic/gadgets/quickbuilder/g_quickbuilder.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Abilities/Player/Generic/Gadgets/QuickBuilder/G_QuickBuilder.uasset",
     "ImagePaths": {
       "SmallPreview": "/Game/UI/Icons/Gadgets/proximity_mine.proximity_mine",
       "LargePreview": "ExportedImages\\proximity_mine.png"
@@ -288,7 +288,7 @@
     "DisplayName": "GlowTorch Green",
     "IsPermanent": true,
     "Rarity": "Common",
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/generic/gadgets/glow_torch/g_generic_glowtorch_green.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Abilities/Player/Generic/Gadgets/Glow_Torch/G_Generic_GlowTorch_Green.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Items/T-Icon-GlowStick-Pickup-Green.T-Icon-GlowStick-Pickup-Green",
       "LargePreview": "ExportedImages\\T-Icon-GlowStick-Pickup-Green.png"
@@ -300,7 +300,7 @@
     "DisplayName": "Seeker",
     "IsPermanent": true,
     "Rarity": "Common",
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/generic/gadgets/seekerbomb/g_seeker.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Abilities/Player/Generic/Gadgets/SeekerBomb/G_Seeker.uasset",
     "ImagePaths": {
       "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T-Icon-S-M80.T-Icon-S-M80",
       "LargePreview": "ExportedImages\\T-Icon-S-M80.png"
@@ -313,7 +313,7 @@
     "Description": "Drops a Banner, healing player buildings\u0027 health to [Ability.Line1] for [Ability.Duration] seconds in a [Ability.AOERadius] tile radius. [Ability.Line2] [Ability.Line4]",
     "IsPermanent": true,
     "Rarity": "Common",
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/generic/gadgets/banner/g_generic_banner.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Abilities/Player/Generic/Gadgets/Banner/G_Generic_Banner.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Gadgets/Icon-Gadget-Banner-bg-128.Icon-Gadget-Banner-bg-128",
       "LargePreview": "ExportedImages\\Icon-Gadget-Banner-bg-128.png"
@@ -325,7 +325,7 @@
     "DisplayName": "GrappleHook",
     "IsPermanent": true,
     "Rarity": "Common",
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/generic/gadgets/grapplehook/g_grapplehook.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Abilities/Player/Generic/Gadgets/GrappleHook/G_GrappleHook.uasset",
     "ImagePaths": {
       "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T-Icon-S-M80.T-Icon-S-M80",
       "LargePreview": "ExportedImages\\T-Icon-S-M80.png"
@@ -337,7 +337,7 @@
     "DisplayName": "GlowTorch",
     "IsPermanent": true,
     "Rarity": "Common",
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/generic/gadgets/glow_torch/g_generic_glowtorch_blue.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Abilities/Player/Generic/Gadgets/Glow_Torch/G_Generic_GlowTorch_Blue.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Items/T-Icon-GlowStick-Pickup-Blue.T-Icon-GlowStick-Pickup-Blue",
       "LargePreview": "ExportedImages\\T-Icon-GlowStick-Pickup-Blue.png"
@@ -349,7 +349,7 @@
     "DisplayName": "GlowTorch Orange",
     "IsPermanent": true,
     "Rarity": "Common",
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/generic/gadgets/glow_torch/g_generic_glowtorch_orange.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Abilities/Player/Generic/Gadgets/Glow_Torch/G_Generic_GlowTorch_Orange.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Items/T-Icon-GlowStick-Pickup-Orange.T-Icon-GlowStick-Pickup-Orange",
       "LargePreview": "ExportedImages\\T-Icon-GlowStick-Pickup-Orange.png"

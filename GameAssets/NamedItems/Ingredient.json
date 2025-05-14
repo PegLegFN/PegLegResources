@@ -6,7 +6,7 @@
     "Description": "Crafting ingredient. Can be found by destroying trees.",
     "IsPermanent": true,
     "Tier": 1,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_twine_t01.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Ingredients/Ingredient_Twine_T01.uasset",
     "ImagePaths": {
       "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T-Icon-Items-Twine-01.T-Icon-Items-Twine-01",
       "LargePreview": "ExportedImages\\T-Icon-Items-Twine-01-L.png"
@@ -18,7 +18,7 @@
     "DisplayName": "Duct Tape",
     "Description": "Refined crafting ingredient. Can be made with other ingredients, and commonly found in chests.",
     "IsPermanent": true,
-    "AssetPath": "fortnitegame/content/items/ingredients/ingredient_duct_tape.uasset",
+    "AssetPath": "FortniteGame/Content/Items/Ingredients/Ingredient_Duct_Tape.uasset",
     "ImagePaths": {
       "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T-Icon-SM-Crafting-Tier1-DuctTape.T-Icon-SM-Crafting-Tier1-DuctTape",
       "LargePreview": "ExportedImages\\T-Icon-SM-Crafting-Tier1-DuctTape-L.png"
@@ -32,7 +32,7 @@
     "IsPermanent": true,
     "Rarity": "Rare",
     "Tier": 2,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_mechanical_parts_t02.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Ingredients/Ingredient_Mechanical_Parts_T02.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Items/T-Icon-Items-MechanicalParts-02.T-Icon-Items-MechanicalParts-02",
       "LargePreview": "ExportedImages\\T-Icon-Items-MechanicalParts-02-L.png"
@@ -46,7 +46,7 @@
     "IsPermanent": true,
     "Rarity": "Epic",
     "Tier": 6,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_ore_spectrolite.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Ingredients/Ingredient_Ore_Spectrolite.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Items/T-Icon-S-Loot-Metal-Spectrolite.T-Icon-S-Loot-Metal-Spectrolite",
       "LargePreview": "ExportedImages\\T-Icon-S-Loot-Metal-Spectrolite-L.png"
@@ -59,7 +59,7 @@
     "Description": "Crafting ingredient. Used to make many quality weapons. Occasionally found in caves and mountains.",
     "IsPermanent": true,
     "Tier": 1,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_crystal_quartz.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Ingredients/Ingredient_Crystal_Quartz.uasset",
     "ImagePaths": {
       "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T-Icon-S-Loot-Crystal-White.T-Icon-S-Loot-Crystal-White",
       "LargePreview": "ExportedImages\\T-Icon-S-Loot-Crystal-White-L.png"
@@ -71,7 +71,7 @@
     "DisplayName": "Yellow Mushroom",
     "Description": "Crafting ingredient. Valued for its varied properties when combined with other ingredients. Found growing on the ground.",
     "IsPermanent": true,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_mushroomyellow.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Ingredients/Ingredient_MushroomYellow.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Items/T-Icon-S-Mushroom01-Loot.T-Icon-S-Mushroom01-Loot",
       "LargePreview": "ExportedImages\\T-Icon-S-Mushroom01-Loot-L.png"
@@ -84,7 +84,7 @@
     "Description": "Crafting ingredient. Found in toolboxes, crates and by destroying mechanical objects.",
     "IsPermanent": true,
     "Rarity": "Common",
-    "AssetPath": "fortnitegame/content/items/ingredients/ingredient_nuts_bolts.uasset",
+    "AssetPath": "FortniteGame/Content/Items/Ingredients/Ingredient_Nuts_Bolts.uasset",
     "ImagePaths": {
       "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T-Icon-SM-Crafting-Tier1-NutBolts.T-Icon-SM-Crafting-Tier1-NutBolts",
       "LargePreview": "ExportedImages\\T-Icon-SM-Crafting-Tier1-NutBolts-L.png"
@@ -98,7 +98,7 @@
     "IsPermanent": true,
     "Rarity": "Rare",
     "Tier": 1,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_mechanical_parts_t01.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Ingredients/Ingredient_Mechanical_Parts_T01.uasset",
     "ImagePaths": {
       "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T-Icon-Items-MechanicalParts-01.T-Icon-Items-MechanicalParts-01",
       "LargePreview": "ExportedImages\\T-Icon-Items-MechanicalParts-01-L.png"
@@ -110,7 +110,7 @@
     "DisplayName": "Blue Mushroom",
     "Description": "Crafting ingredient. Used to make consumable items with energizing properties. Found in caves.",
     "IsPermanent": true,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_mushroomblue.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Ingredients/Ingredient_MushroomBlue.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Items/T-Icon-S-Mushroom03-Loot.T-Icon-S-Mushroom03-Loot",
       "LargePreview": "ExportedImages\\T-Icon-S-Mushroom03-Loot-L.png"
@@ -124,7 +124,7 @@
     "IsPermanent": true,
     "Rarity": "Epic",
     "Tier": 4,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_crystal_shadowshard.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Ingredients/Ingredient_Crystal_ShadowShard.uasset",
     "ImagePaths": {
       "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T-Icon-S-Loot-Crystal-Black.T-Icon-S-Loot-Crystal-Black",
       "LargePreview": "ExportedImages\\T-Icon-S-Loot-Crystal-Black-L.png"
@@ -136,7 +136,7 @@
     "DisplayName": "Red Mushroom",
     "Description": "Crafting ingredient. Used in consumables with healing and strengthening properties. Found in forests.",
     "IsPermanent": true,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_mushroomred.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Ingredients/Ingredient_MushroomRed.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Items/T-Icon-S-Mushroom04-Loot.T-Icon-S-Mushroom04-Loot",
       "LargePreview": "ExportedImages\\T-Icon-S-Mushroom04-Loot-L.png"
@@ -148,7 +148,7 @@
     "DisplayName": "Coal",
     "Description": "Crafting ingredient. Used as a base for explosive ammo and many weapons. Found in caves, mountains and fireplaces.",
     "IsPermanent": true,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_ore_coal.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Ingredients/Ingredient_Ore_Coal.uasset",
     "ImagePaths": {
       "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T-Icon-S-Loot-Metal-Coal.T-Icon-S-Loot-Metal-Coal",
       "LargePreview": "ExportedImages\\T-Icon-S-Loot-Metal-Coal-L.png"
@@ -162,7 +162,7 @@
     "IsPermanent": true,
     "Rarity": "Epic",
     "Tier": 3,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_ore_malachite.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Ingredients/Ingredient_Ore_Malachite.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Items/T-Icon-S-Loot-Metal-Malachite.T-Icon-S-Loot-Metal-Malachite",
       "LargePreview": "ExportedImages\\T-Icon-S-Loot-Metal-Malachite-L.png"
@@ -175,7 +175,7 @@
     "Description": "Crafting ingredient. Found by destroying beehives and searching crops.",
     "IsPermanent": true,
     "Rarity": "Rare",
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_honey.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Ingredients/Ingredient_Honey.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Items/T-Icon-Honeycombs.T-Icon-Honeycombs",
       "LargePreview": "ExportedImages\\T-Icon-Honeycombs-L.png"
@@ -188,7 +188,7 @@
     "Description": "Crafting ingredient. Used in many common items and traps. Found by destroying rocks.",
     "IsPermanent": true,
     "Rarity": "Common",
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_ore_alloy.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Ingredients/Ingredient_Ore_Alloy.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Items/T-Icon-SM-Crafting-Tier2-RareMetal.T-Icon-SM-Crafting-Tier2-RareMetal",
       "LargePreview": "ExportedImages\\T-Icon-SM-Crafting-Tier2-RareMetal-L.png"
@@ -202,7 +202,7 @@
     "IsPermanent": true,
     "Rarity": "Rare",
     "Tier": 3,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_mechanical_parts_t03.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Ingredients/Ingredient_Mechanical_Parts_T03.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Items/T-Icon-Items-MechanicalParts-03.T-Icon-Items-MechanicalParts-03",
       "LargePreview": "ExportedImages\\T-Icon-Items-MechanicalParts-03-L.png"
@@ -215,7 +215,7 @@
     "Description": "Crafting ingredient. Can be found by destroying trees.",
     "IsPermanent": true,
     "Tier": 5,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_twine_t05.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Ingredients/Ingredient_Twine_T05.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Items/T-Icon-Items-Twine-05.T-Icon-Items-Twine-05",
       "LargePreview": "ExportedImages\\T-Icon-Items-Twine-05-L.png"
@@ -229,7 +229,7 @@
     "IsPermanent": true,
     "Rarity": "Epic",
     "Tier": 2,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_ore_silver.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Ingredients/Ingredient_Ore_Silver.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Items/T-Icon-S-Loot-Metal-Silver.T-Icon-S-Loot-Metal-Silver",
       "LargePreview": "ExportedImages\\T-Icon-S-Loot-Metal-Silver-L.png"
@@ -243,7 +243,7 @@
     "IsPermanent": true,
     "Rarity": "Epic",
     "Tier": 5,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_crystal_sunbeam.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Ingredients/Ingredient_Crystal_Sunbeam.uasset",
     "ImagePaths": {
       "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T-Icon-S-Loot-Crystal-Red.T-Icon-S-Loot-Crystal-Red",
       "LargePreview": "ExportedImages\\T-Icon-S-Loot-Crystal-Red-L.png"
@@ -257,7 +257,7 @@
     "IsPermanent": true,
     "Rarity": "Epic",
     "Tier": 5,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_ore_brightcore.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Ingredients/Ingredient_Ore_BrightCore.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Items/T-Icon-S-Loot-Metal-Brightcore.T-Icon-S-Loot-Metal-Brightcore",
       "LargePreview": "ExportedImages\\T-Icon-S-Loot-Metal-Brightcore-L.png"
@@ -271,7 +271,7 @@
     "IsPermanent": true,
     "Rarity": "Rare",
     "Tier": 5,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_mechanical_parts_t05.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Ingredients/Ingredient_Mechanical_Parts_T05.uasset",
     "ImagePaths": {
       "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T-Icon-Items-MechanicalParts-05.T-Icon-Items-MechanicalParts-05",
       "LargePreview": "ExportedImages\\T-Icon-Items-MechanicalParts-05-L.png"
@@ -284,7 +284,7 @@
     "Description": "Crafting ingredient. Found by destroying trees.",
     "IsPermanent": true,
     "Rarity": "Common",
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_planks.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Ingredients/Ingredient_Planks.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Items/T-Icon-S-Planks-Loot.T-Icon-S-Planks-Loot",
       "LargePreview": "ExportedImages\\T-Icon-S-Planks-Loot-L.png"
@@ -297,7 +297,7 @@
     "Description": "Crafting ingredient used for healing stations and duct tape. Found by searching bushes, crops and food storage areas.",
     "IsPermanent": true,
     "Rarity": "Common",
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_herbs.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Ingredients/Ingredient_Herbs.uasset",
     "ImagePaths": {
       "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T-Icon-S-Herbs-Loot.T-Icon-S-Herbs-Loot",
       "LargePreview": "ExportedImages\\T-Icon-S-Herbs-Loot-L.png"
@@ -311,7 +311,7 @@
     "IsPermanent": true,
     "Rarity": "Common",
     "Tier": 5,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_powder_t05.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Ingredients/Ingredient_Powder_T05.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Items/T-Icon-Items-MineralPowder-05.T-Icon-Items-MineralPowder-05",
       "LargePreview": "ExportedImages\\T-Icon-Items-MineralPowder-05-L.png"
@@ -324,7 +324,7 @@
     "Description": "Crafting ingredient. Occasionally found in chests and toolboxes.",
     "IsPermanent": true,
     "Rarity": "Rare",
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_rare_mechanism.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Ingredients/Ingredient_Rare_Mechanism.uasset",
     "ImagePaths": {
       "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T-Icon-Items-RareMechanism.T-Icon-Items-RareMechanism",
       "LargePreview": "ExportedImages\\T-Icon-Items-RareMechanism-L.png"
@@ -338,7 +338,7 @@
     "IsPermanent": true,
     "Rarity": "Common",
     "Tier": 3,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_powder_t03.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Ingredients/Ingredient_Powder_T03.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Items/T-Icon-Items-MineralPowder-03.T-Icon-Items-MineralPowder-03",
       "LargePreview": "ExportedImages\\T-Icon-Items-MineralPowder-03-L.png"
@@ -351,7 +351,7 @@
     "Description": "Crafting ingredient. Can be found by destroying trees.",
     "IsPermanent": true,
     "Tier": 6,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_twine_t06.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Ingredients/Ingredient_Twine_T06.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Items/T-Icon-Items-Twine-06.T-Icon-Items-Twine-06",
       "LargePreview": "ExportedImages\\T-Icon-Items-Twine-06-L.png"
@@ -365,7 +365,7 @@
     "IsPermanent": true,
     "Rarity": "Common",
     "Tier": 1,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_powder_t01.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Ingredients/Ingredient_Powder_T01.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Items/T-Icon-Items-MineralPowder-01.T-Icon-Items-MineralPowder-01",
       "LargePreview": "ExportedImages\\T-Icon-Items-MineralPowder-01-L.png"
@@ -378,7 +378,7 @@
     "Description": "Crafting ingredient. Can be found by destroying trees.",
     "IsPermanent": true,
     "Tier": 4,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_twine_t04.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Ingredients/Ingredient_Twine_T04.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Items/T-Icon-Items-Twine-04.T-Icon-Items-Twine-04",
       "LargePreview": "ExportedImages\\T-Icon-Items-Twine-04-L.png"
@@ -392,7 +392,7 @@
     "IsPermanent": true,
     "Rarity": "Epic",
     "Tier": 4,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_ore_obsidian.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Ingredients/Ingredient_Ore_Obsidian.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Items/T-Icon-S-Loot-Metal-Obsidian.T-Icon-S-Loot-Metal-Obsidian",
       "LargePreview": "ExportedImages\\T-Icon-S-Loot-Metal-Obsidian-L.png"
@@ -405,7 +405,7 @@
     "Description": "Crafting ingredient. Rarely found in strange places and chests.",
     "IsPermanent": true,
     "Rarity": "Epic",
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_rare_powercell.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Ingredients/Ingredient_Rare_PowerCell.uasset",
     "ImagePaths": {
       "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T-Icon-SM-Crafting-Tier2-RarePowercell.T-Icon-SM-Crafting-Tier2-RarePowercell",
       "LargePreview": "ExportedImages\\T-Icon-SM-Crafting-Tier2-RarePowercell-L.png"
@@ -419,7 +419,7 @@
     "IsPermanent": true,
     "Rarity": "Epic",
     "Tier": 6,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_crystal_moonglow.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Ingredients/Ingredient_Crystal_Moonglow.uasset",
     "ImagePaths": {
       "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T-Icon-S-Loot-Crystal-Black.T-Icon-S-Loot-Crystal-Black",
       "LargePreview": "ExportedImages\\T-Icon-S-Loot-Crystal-Black-L.png"
@@ -432,7 +432,7 @@
     "Description": "Crafting ingredient. Used as a base for crafting healing items. Found in plants and bushes.",
     "IsPermanent": true,
     "Rarity": "Common",
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_flowers.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Ingredients/Ingredient_Flowers.uasset",
     "ImagePaths": {
       "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T-Icon-S-FlowerPetals-Loot.T-Icon-S-FlowerPetals-Loot",
       "LargePreview": "ExportedImages\\T-Icon-S-FlowerPetals-Loot-L.png"
@@ -446,7 +446,7 @@
     "IsPermanent": true,
     "Rarity": "Common",
     "Tier": 6,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_powder_t06.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Ingredients/Ingredient_Powder_T06.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Items/T-Icon-Items-MineralPowder-06.T-Icon-Items-MineralPowder-06",
       "LargePreview": "ExportedImages\\T-Icon-Items-MineralPowder-06-L.png"
@@ -458,7 +458,7 @@
     "DisplayName": "Blast Powder",
     "Description": "Refined crafting ingredient. Used as a base for many gadgets and explosive ammunitions. Made from coal.",
     "IsPermanent": true,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_blastpowder.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Ingredients/Ingredient_Blastpowder.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Items/T-Icon-S-Loot-GunPowder.T-Icon-S-Loot-GunPowder",
       "LargePreview": "ExportedImages\\T-Icon-S-Loot-GunPowder-L.png"
@@ -472,7 +472,7 @@
     "IsPermanent": true,
     "Rarity": "Rare",
     "Tier": 4,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_mechanical_parts_t04.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Ingredients/Ingredient_Mechanical_Parts_T04.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Items/T-Icon-Items-MechanicalParts-04.T-Icon-Items-MechanicalParts-04",
       "LargePreview": "ExportedImages\\T-Icon-Items-MechanicalParts-04-L.png"
@@ -485,7 +485,7 @@
     "Description": "Crafting ingredient. Used as a component for powered devices. Found in populated areas and appliances.",
     "IsPermanent": true,
     "Rarity": "Common",
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_batteries.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Ingredients/Ingredient_Batteries.uasset",
     "ImagePaths": {
       "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T-Icon-BatteryPack.T-Icon-BatteryPack",
       "LargePreview": "ExportedImages\\T-Icon-BatteryPack-L.png"
@@ -499,7 +499,7 @@
     "IsPermanent": true,
     "Rarity": "Epic",
     "Tier": 1,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_ore_copper.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Ingredients/Ingredient_Ore_Copper.uasset",
     "ImagePaths": {
       "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T-Icon-S-Loot-Metal-Copper.T-Icon-S-Loot-Metal-Copper",
       "LargePreview": "ExportedImages\\T-Icon-S-Loot-Metal-Copper-L.png"
@@ -512,7 +512,7 @@
     "Description": "Crafting ingredient. Can be found by destroying trees.",
     "IsPermanent": true,
     "Tier": 2,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_twine_t02.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Ingredients/Ingredient_Twine_T02.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Items/T-Icon-Items-Twine-02.T-Icon-Items-Twine-02",
       "LargePreview": "ExportedImages\\T-Icon-Items-Twine-02-L.png"
@@ -524,7 +524,7 @@
     "DisplayName": "Pink Mushroom",
     "Description": "Crafting ingredient. Used to make consumable buffs. Found growing on trees and walls.",
     "IsPermanent": true,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_mushroompink.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Ingredients/Ingredient_MushroomPink.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Items/T-Icon-S-Mushroom02-Loot.T-Icon-S-Mushroom02-Loot",
       "LargePreview": "ExportedImages\\T-Icon-S-Mushroom02-Loot-L.png"
@@ -538,7 +538,7 @@
     "IsPermanent": true,
     "Rarity": "Common",
     "Tier": 4,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_powder_t04.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Ingredients/Ingredient_Powder_T04.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Items/T-Icon-Items-MineralPowder-04.T-Icon-Items-MineralPowder-04",
       "LargePreview": "ExportedImages\\T-Icon-Items-MineralPowder-04-L.png"
@@ -552,7 +552,7 @@
     "IsPermanent": true,
     "Rarity": "Rare",
     "Tier": 6,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_mechanical_parts_t06.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Ingredients/Ingredient_Mechanical_Parts_T06.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Items/T-Icon-Items-MechanicalParts-06.T-Icon-Items-MechanicalParts-06",
       "LargePreview": "ExportedImages\\T-Icon-Items-MechanicalParts-06-L.png"
@@ -566,7 +566,7 @@
     "IsPermanent": true,
     "Rarity": "Epic",
     "Tier": 6,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_crystal_rainbow.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Ingredients/Ingredient_Crystal_Rainbow.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Items/T-Icon-S-Loot-Crystal-Rainbow.T-Icon-S-Loot-Crystal-Rainbow",
       "LargePreview": "ExportedImages\\T-Icon-S-Loot-Crystal-Rainbow-L.png"
@@ -580,7 +580,7 @@
     "IsPermanent": true,
     "Rarity": "Common",
     "Tier": 2,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_powder_t02.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Ingredients/Ingredient_Powder_T02.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Items/T-Icon-Items-MineralPowder-02.T-Icon-Items-MineralPowder-02",
       "LargePreview": "ExportedImages\\T-Icon-Items-MineralPowder-02-L.png"
@@ -593,7 +593,7 @@
     "Description": "Crafting Ingredient. The duct tape of food! Can be found in unique places throughout the world. Crafty farmers have even developed a method of growing it in their fields, in place of... everything.",
     "IsPermanent": true,
     "Rarity": "Common",
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_bacon.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Ingredients/Ingredient_Bacon.uasset",
     "ImagePaths": {
       "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T-Icon-Bacon.T-Icon-Bacon",
       "LargePreview": "ExportedImages\\T-Icon-Bacon-L.png"
@@ -605,7 +605,7 @@
     "DisplayName": "Adhesive Resin",
     "Description": "Crafting ingredient. Found by chopping down trees and searching bushes.",
     "IsPermanent": true,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_resin.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Ingredients/Ingredient_Resin.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Items/T-Icon-S-Resin.T-Icon-S-Resin",
       "LargePreview": "ExportedImages\\T-Icon-S-Resin-L.png"
@@ -618,7 +618,7 @@
     "Description": "Crafting ingredient. Can be found by destroying trees.",
     "IsPermanent": true,
     "Tier": 3,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_twine_t03.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Ingredients/Ingredient_Twine_T03.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Items/T-Icon-Items-Twine-03.T-Icon-Items-Twine-03",
       "LargePreview": "ExportedImages\\T-Icon-Items-Twine-03-L.png"
@@ -630,7 +630,7 @@
     "DisplayName": "White Mushroom",
     "Description": "Crafting ingredient. Used to enhance the strength of consumable items. Found in mountains.",
     "IsPermanent": true,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_mushroomwhite.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Ingredients/Ingredient_MushroomWhite.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Items/T-Icon-S-Mushroom05-Loot.T-Icon-S-Mushroom05-Loot",
       "LargePreview": "ExportedImages\\T-Icon-S-Mushroom05-Loot-L.png"

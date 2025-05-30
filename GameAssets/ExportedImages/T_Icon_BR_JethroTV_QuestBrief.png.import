@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://mhr6kkwhn2ks"
-path="res://.godot/imported/transparant.png-562f686f03650ff60902041e8d2f7645.ctex"
+uid="uid://bubtlkitin24o"
+path="res://.godot/imported/T_Icon_BR_JethroTV_QuestBrief.png-9dda2dca805e72c41126193b334fbefb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://PegLegResources/Themes/builtin_blank/transparant.png"
-dest_files=["res://.godot/imported/transparant.png-562f686f03650ff60902041e8d2f7645.ctex"]
+source_file="res://PegLegResources/GameAssets/ExportedImages/T_Icon_BR_JethroTV_QuestBrief.png"
+dest_files=["res://.godot/imported/T_Icon_BR_JethroTV_QuestBrief.png-9dda2dca805e72c41126193b334fbefb.ctex"]
 
 [params]
 

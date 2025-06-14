@@ -1262,7 +1262,7 @@
     "DisplayName": "Feel The BASE",
     "Description": "Eliminating enemies standing on structures affected by B.A.S.E. charges B.A.S.E. After 30 charges B.A.S.E. emits an explosion which knocks back enemies and deals 39 base Energy Damage in a 3 tile Radius.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Abilities/Player/Perks/Hero/FeelTheBase/Kit_Perk_H_FeelTheBASE_T01.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Abilities/Player/Perks/Hero/FeelTheBASE/Kit_Perk_H_FeelTheBASE_T01.uasset",
     "ImagePaths": {
       "Icon": "ExportedImages\\Icon-Constructor-FeelTheBASE-128.png"
     }
@@ -2170,7 +2170,7 @@
     "DisplayName": "Feel The BASE \u002B",
     "Description": "Eliminating enemies standing on structures affected by B.A.S.E. charges B.A.S.E. After 30 charges B.A.S.E. emits an explosion which knocks back enemies and deals 89 base Energy Damage in a 5 tile Radius.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Abilities/Player/Perks/Hero/FeelTheBase/Kit_Perk_H_FeelTheBASE_T02.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Abilities/Player/Perks/Hero/FeelTheBASE/Kit_Perk_H_FeelTheBASE_T02.uasset",
     "ImagePaths": {
       "Icon": "ExportedImages\\Icon-Constructor-FeelTheBASE-128.png"
     }

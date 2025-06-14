@@ -2101,7 +2101,7 @@
     "Rarity": "Epic",
     "Tier": 1,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Sniper/Steampunk/WID_Sniper_Steampunk_VR_Ore_T01.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Sniper/SteamPunk/WID_Sniper_Steampunk_VR_Ore_T01.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-SteampunkSniper.T-Icon-Weapons-SK-SteampunkSniper",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-SteampunkSniper-L.png"
@@ -3378,7 +3378,7 @@
     "Rarity": "Legendary",
     "Tier": 1,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Sniper/Steampunk/WID_Sniper_Steampunk_SR_Ore_T01.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Sniper/SteamPunk/WID_Sniper_Steampunk_SR_Ore_T01.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-SteampunkSniper.T-Icon-Weapons-SK-SteampunkSniper",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-SteampunkSniper-L.png"
@@ -3827,7 +3827,7 @@
     "Rarity": "Epic",
     "Tier": 5,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/HandCannon/WID_Pistol_Handcannon_VR_Ore_T05.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/Handcannon/WID_Pistol_Handcannon_VR_Ore_T05.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Magnum.T-Icon-Weapons-SK-Magnum",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Magnum-L.png"
@@ -5496,7 +5496,7 @@
     "Rarity": "Legendary",
     "Tier": 5,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/HandCannon/WID_Pistol_Handcannon_SR_Crystal_T05.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/Handcannon/WID_Pistol_Handcannon_SR_Crystal_T05.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Magnum.T-Icon-Weapons-SK-Magnum",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Magnum-L.png"
@@ -5568,7 +5568,7 @@
     "Rarity": "Legendary",
     "Tier": 5,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Shotgun/Steampunk/WID_Shotgun_Steampunk_SR_Crystal_T05.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Shotgun/SteamPunk/WID_Shotgun_Steampunk_SR_Crystal_T05.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Shotgun-Steampunk.T-Icon-Weapons-Shotgun-Steampunk",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Shotgun-Steampunk-L.png"
@@ -5719,7 +5719,7 @@
     "Rarity": "Epic",
     "Tier": 5,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/HandCannon/WID_Pistol_Handcannon_Founders_VR_Ore_T05.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/Handcannon/WID_Pistol_Handcannon_Founders_VR_Ore_T05.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Magnum.T-Icon-Weapons-SK-Magnum",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Magnum-L.png"
@@ -7939,7 +7939,7 @@
     "Rarity": "Mythic",
     "Tier": 4,
     "TriggerType": "Automatic",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/Stormking/WID_Pistol_Stormking_SR_Ore_T04.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/StormKing/WID_Pistol_Stormking_SR_Ore_T04.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-StormKingPistol.T-Icon-Weapons-StormKingPistol",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-StormKingPistol-L.png"
@@ -10222,7 +10222,7 @@
     "Rarity": "Legendary",
     "Tier": 5,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/Steampunk/WID_Pistol_Steampunk_SR_Crystal_T05.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/SteamPunk/WID_Pistol_Steampunk_SR_Crystal_T05.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Steampunk-Revolver.T-Icon-Weapons-SK-Steampunk-Revolver",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Steampunk-Revolver-L.png"
@@ -12632,7 +12632,7 @@
     "Rarity": "Epic",
     "Tier": 1,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/Steampunk/WID_Pistol_Steampunk_VR_Ore_T01.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/SteamPunk/WID_Pistol_Steampunk_VR_Ore_T01.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Steampunk-Revolver.T-Icon-Weapons-SK-Steampunk-Revolver",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Steampunk-Revolver-L.png"
@@ -14475,7 +14475,7 @@
     "Rarity": "Epic",
     "Tier": 5,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Shotgun/Steampunk/WID_Shotgun_Steampunk_VR_Crystal_T05.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Shotgun/SteamPunk/WID_Shotgun_Steampunk_VR_Crystal_T05.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Shotgun-Steampunk.T-Icon-Weapons-Shotgun-Steampunk",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Shotgun-Steampunk-L.png"
@@ -15180,7 +15180,7 @@
     "Rarity": "Legendary",
     "Tier": 1,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/Steampunk/WID_Pistol_Steampunk_SR_Ore_T01.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/SteamPunk/WID_Pistol_Steampunk_SR_Ore_T01.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Steampunk-Revolver.T-Icon-Weapons-SK-Steampunk-Revolver",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Steampunk-Revolver-L.png"
@@ -15335,7 +15335,7 @@
     "Rarity": "Epic",
     "Tier": 4,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/Steampunk/WID_Pistol_Steampunk_VR_Crystal_T04.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/SteamPunk/WID_Pistol_Steampunk_VR_Crystal_T04.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Steampunk-Revolver.T-Icon-Weapons-SK-Steampunk-Revolver",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Steampunk-Revolver-L.png"
@@ -16255,7 +16255,7 @@
     "Rarity": "Legendary",
     "Tier": 2,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/HandCannon/WID_Pistol_Handcannon_SR_Ore_T02.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/Handcannon/WID_Pistol_Handcannon_SR_Ore_T02.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Magnum.T-Icon-Weapons-SK-Magnum",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Magnum-L.png"
@@ -16818,7 +16818,7 @@
     "Rarity": "Mythic",
     "Tier": 1,
     "TriggerType": "OnRelease",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Launcher/Stormking/WID_Explosive_Stormking_SR_Ore_T01.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Launcher/StormKing/WID_Explosive_Stormking_SR_Ore_T01.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-StormKing-Launcher.T-Icon-Weapons-StormKing-Launcher",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-StormKing-Launcher-L.png"
@@ -17369,7 +17369,7 @@
     "Rarity": "Epic",
     "Tier": 2,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Sniper/Steampunk/WID_Sniper_Steampunk_VR_Ore_T02.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Sniper/SteamPunk/WID_Sniper_Steampunk_VR_Ore_T02.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-SteampunkSniper.T-Icon-Weapons-SK-SteampunkSniper",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-SteampunkSniper-L.png"
@@ -18083,7 +18083,7 @@
     "Rarity": "Legendary",
     "Tier": 2,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Sniper/Steampunk/WID_Sniper_Steampunk_SR_Ore_T02.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Sniper/SteamPunk/WID_Sniper_Steampunk_SR_Ore_T02.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-SteampunkSniper.T-Icon-Weapons-SK-SteampunkSniper",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-SteampunkSniper-L.png"
@@ -18971,7 +18971,7 @@
     "Rarity": "Epic",
     "Tier": 4,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/HandCannon/WID_Pistol_Handcannon_Founders_VR_Crystal_T04.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/Handcannon/WID_Pistol_Handcannon_Founders_VR_Crystal_T04.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Magnum.T-Icon-Weapons-SK-Magnum",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Magnum-L.png"
@@ -21604,7 +21604,7 @@
     "Rarity": "Epic",
     "Tier": 4,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/HandCannon/WID_Pistol_Handcannon_VR_Ore_T04.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/Handcannon/WID_Pistol_Handcannon_VR_Ore_T04.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Magnum.T-Icon-Weapons-SK-Magnum",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Magnum-L.png"
@@ -22571,7 +22571,7 @@
     "Rarity": "Legendary",
     "Tier": 3,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/HandCannon/WID_Pistol_Handcannon_VT_SR_Ore_T03.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/Handcannon/WID_Pistol_Handcannon_VT_SR_Ore_T03.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-VinderTech-Revolver.T-Icon-Weapons-SK-VinderTech-Revolver",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-VinderTech-Revolver-L.png"
@@ -30735,7 +30735,7 @@
     "Rarity": "Rare",
     "Tier": 4,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/HandCannon/WID_Pistol_Handcannon_R_Crystal_T04.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/Handcannon/WID_Pistol_Handcannon_R_Crystal_T04.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Magnum.T-Icon-Weapons-SK-Magnum",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Magnum-L.png"
@@ -32334,7 +32334,7 @@
     "Rarity": "Legendary",
     "Tier": 4,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/HandCannon/WID_Pistol_Handcannon_VT_SR_Crystal_T04.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/Handcannon/WID_Pistol_Handcannon_VT_SR_Crystal_T04.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-VinderTech-Revolver.T-Icon-Weapons-SK-VinderTech-Revolver",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-VinderTech-Revolver-L.png"
@@ -33054,7 +33054,7 @@
     "Rarity": "Legendary",
     "Tier": 1,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/HandCannon/WID_Pistol_Handcannon_SR_Ore_T01.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/Handcannon/WID_Pistol_Handcannon_SR_Ore_T01.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Magnum.T-Icon-Weapons-SK-Magnum",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Magnum-L.png"
@@ -36893,7 +36893,7 @@
     "Rarity": "Epic",
     "Tier": 3,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/HandCannon/WID_Pistol_Handcannon_Founders_VR_Ore_T03.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/Handcannon/WID_Pistol_Handcannon_Founders_VR_Ore_T03.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Magnum.T-Icon-Weapons-SK-Magnum",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Magnum-L.png"
@@ -37990,7 +37990,7 @@
     "Rarity": "Epic",
     "Tier": 4,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Shotgun/Steampunk/WID_Shotgun_Steampunk_VR_Ore_T04.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Shotgun/SteamPunk/WID_Shotgun_Steampunk_VR_Ore_T04.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Shotgun-Steampunk.T-Icon-Weapons-Shotgun-Steampunk",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Shotgun-Steampunk-L.png"
@@ -41787,7 +41787,7 @@
     "Rarity": "Mythic",
     "Tier": 4,
     "TriggerType": "Automatic",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/Stormking/WID_Pistol_Stormking_SR_Crystal_T04.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/StormKing/WID_Pistol_Stormking_SR_Crystal_T04.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-StormKingPistol.T-Icon-Weapons-StormKingPistol",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-StormKingPistol-L.png"
@@ -43587,7 +43587,7 @@
     "Rarity": "Epic",
     "Tier": 3,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/Steampunk/WID_Pistol_Steampunk_VR_Ore_T03.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/SteamPunk/WID_Pistol_Steampunk_VR_Ore_T03.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Steampunk-Revolver.T-Icon-Weapons-SK-Steampunk-Revolver",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Steampunk-Revolver-L.png"
@@ -45579,7 +45579,7 @@
     "Rarity": "Legendary",
     "Tier": 3,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/Steampunk/WID_Pistol_Steampunk_SR_Ore_T03.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/SteamPunk/WID_Pistol_Steampunk_SR_Ore_T03.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Steampunk-Revolver.T-Icon-Weapons-SK-Steampunk-Revolver",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Steampunk-Revolver-L.png"
@@ -46464,7 +46464,7 @@
     "Rarity": "Epic",
     "Tier": 4,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Sniper/Steampunk/WID_Sniper_Steampunk_VR_Crystal_T04.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Sniper/SteamPunk/WID_Sniper_Steampunk_VR_Crystal_T04.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-SteampunkSniper.T-Icon-Weapons-SK-SteampunkSniper",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-SteampunkSniper-L.png"
@@ -47501,7 +47501,7 @@
     "Rarity": "Rare",
     "Tier": 2,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/HandCannon/WID_Pistol_Handcannon_R_Ore_T02.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/Handcannon/WID_Pistol_Handcannon_R_Ore_T02.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Magnum.T-Icon-Weapons-SK-Magnum",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Magnum-L.png"
@@ -48326,7 +48326,7 @@
     "Rarity": "Legendary",
     "Tier": 4,
     "TriggerType": "Automatic",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Launcher/Steampunk/WID_Explosive_Steampunk_SR_Ore_T04.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Launcher/SteamPunk/WID_Explosive_Steampunk_SR_Ore_T04.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Steampunk-Launcher.T-Icon-Weapons-SK-Steampunk-Launcher",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Steampunk-Launcher-L.png"
@@ -52935,7 +52935,7 @@
     "Rarity": "Legendary",
     "Tier": 5,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/HandCannon/WID_Pistol_Handcannon_VT_SR_Ore_T05.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/Handcannon/WID_Pistol_Handcannon_VT_SR_Ore_T05.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-VinderTech-Revolver.T-Icon-Weapons-SK-VinderTech-Revolver",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-VinderTech-Revolver-L.png"
@@ -54804,7 +54804,7 @@
     "Rarity": "Epic",
     "Tier": 2,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/HandCannon/WID_Pistol_Handcannon_VR_Ore_T02.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/Handcannon/WID_Pistol_Handcannon_VR_Ore_T02.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Magnum.T-Icon-Weapons-SK-Magnum",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Magnum-L.png"
@@ -55316,7 +55316,7 @@
     "Rarity": "Epic",
     "Tier": 5,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Shotgun/Steampunk/WID_Shotgun_Steampunk_VR_Ore_T05.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Shotgun/SteamPunk/WID_Shotgun_Steampunk_VR_Ore_T05.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Shotgun-Steampunk.T-Icon-Weapons-Shotgun-Steampunk",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Shotgun-Steampunk-L.png"
@@ -60584,7 +60584,7 @@
     "Rarity": "Rare",
     "Tier": 1,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/HandCannon/WID_Pistol_Handcannon_R_Ore_T01.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/Handcannon/WID_Pistol_Handcannon_R_Ore_T01.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Magnum.T-Icon-Weapons-SK-Magnum",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Magnum-L.png"
@@ -60989,7 +60989,7 @@
     "Rarity": "Epic",
     "Tier": 5,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Sniper/Steampunk/WID_Sniper_Steampunk_VR_Ore_T05.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Sniper/SteamPunk/WID_Sniper_Steampunk_VR_Ore_T05.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-SteampunkSniper.T-Icon-Weapons-SK-SteampunkSniper",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-SteampunkSniper-L.png"
@@ -61467,7 +61467,7 @@
     "Rarity": "Epic",
     "Tier": 4,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/HandCannon/WID_Pistol_Handcannon_VR_Crystal_T04.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/Handcannon/WID_Pistol_Handcannon_VR_Crystal_T04.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Magnum.T-Icon-Weapons-SK-Magnum",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Magnum-L.png"
@@ -61683,7 +61683,7 @@
     "Rarity": "Legendary",
     "Tier": 5,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Sniper/Steampunk/WID_Sniper_Steampunk_SR_Ore_T05.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Sniper/SteamPunk/WID_Sniper_Steampunk_SR_Ore_T05.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-SteampunkSniper.T-Icon-Weapons-SK-SteampunkSniper",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-SteampunkSniper-L.png"
@@ -66539,7 +66539,7 @@
     "Rarity": "Epic",
     "Tier": 1,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/HandCannon/WID_Pistol_Handcannon_Founders_VR_Ore_T01.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/Handcannon/WID_Pistol_Handcannon_Founders_VR_Ore_T01.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Magnum.T-Icon-Weapons-SK-Magnum",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Magnum-L.png"
@@ -69268,7 +69268,7 @@
     "Rarity": "Mythic",
     "Tier": 5,
     "TriggerType": "OnRelease",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Launcher/Stormking/WID_Explosive_Stormking_SR_Ore_T05.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Launcher/StormKing/WID_Explosive_Stormking_SR_Ore_T05.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-StormKing-Launcher.T-Icon-Weapons-StormKing-Launcher",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-StormKing-Launcher-L.png"
@@ -69965,7 +69965,7 @@
     "Rarity": "Legendary",
     "Tier": 2,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Shotgun/Steampunk/WID_Shotgun_Steampunk_SR_Ore_T02.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Shotgun/SteamPunk/WID_Shotgun_Steampunk_SR_Ore_T02.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Shotgun-Steampunk.T-Icon-Weapons-Shotgun-Steampunk",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Shotgun-Steampunk-L.png"
@@ -70037,7 +70037,7 @@
     "Rarity": "Epic",
     "Tier": 1,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/HandCannon/WID_Pistol_Handcannon_VR_Ore_T01.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/Handcannon/WID_Pistol_Handcannon_VR_Ore_T01.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Magnum.T-Icon-Weapons-SK-Magnum",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Magnum-L.png"
@@ -73968,7 +73968,7 @@
     "Rarity": "Rare",
     "Tier": 4,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/HandCannon/WID_Pistol_Handcannon_R_Ore_T04.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/Handcannon/WID_Pistol_Handcannon_R_Ore_T04.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Magnum.T-Icon-Weapons-SK-Magnum",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Magnum-L.png"
@@ -74079,7 +74079,7 @@
     "Rarity": "Legendary",
     "Tier": 4,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Sniper/Steampunk/WID_Sniper_Steampunk_SR_Crystal_T04.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Sniper/SteamPunk/WID_Sniper_Steampunk_SR_Crystal_T04.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-SteampunkSniper.T-Icon-Weapons-SK-SteampunkSniper",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-SteampunkSniper-L.png"
@@ -76678,7 +76678,7 @@
     "Rarity": "Mythic",
     "Tier": 1,
     "TriggerType": "Automatic",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Assault/Stormking/WID_Assault_Stormking_SR_Ore_T01.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Assault/StormKing/WID_Assault_Stormking_SR_Ore_T01.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Storm-King-Rifle.T-Icon-Weapons-Storm-King-Rifle",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Storm-King-Rifle-L.png"
@@ -83960,7 +83960,7 @@
     "Rarity": "Legendary",
     "Tier": 1,
     "TriggerType": "Automatic",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Launcher/Steampunk/WID_Explosive_Steampunk_SR_Ore_T01.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Launcher/SteamPunk/WID_Explosive_Steampunk_SR_Ore_T01.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Steampunk-Launcher.T-Icon-Weapons-SK-Steampunk-Launcher",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Steampunk-Launcher-L.png"
@@ -84799,7 +84799,7 @@
     "Rarity": "Legendary",
     "Tier": 4,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/Steampunk/WID_Pistol_Steampunk_SR_Crystal_T04.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/SteamPunk/WID_Pistol_Steampunk_SR_Crystal_T04.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Steampunk-Revolver.T-Icon-Weapons-SK-Steampunk-Revolver",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Steampunk-Revolver-L.png"
@@ -87219,7 +87219,7 @@
     "Rarity": "Epic",
     "Tier": 2,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/Steampunk/WID_Pistol_Steampunk_VR_Ore_T02.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/SteamPunk/WID_Pistol_Steampunk_VR_Ore_T02.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Steampunk-Revolver.T-Icon-Weapons-SK-Steampunk-Revolver",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Steampunk-Revolver-L.png"
@@ -87291,7 +87291,7 @@
     "Rarity": "Epic",
     "Tier": 3,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Shotgun/Steampunk/WID_Shotgun_Steampunk_VR_Ore_T03.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Shotgun/SteamPunk/WID_Shotgun_Steampunk_VR_Ore_T03.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Shotgun-Steampunk.T-Icon-Weapons-Shotgun-Steampunk",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Shotgun-Steampunk-L.png"
@@ -89882,7 +89882,7 @@
     "Rarity": "Legendary",
     "Tier": 2,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/Steampunk/WID_Pistol_Steampunk_SR_Ore_T02.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/SteamPunk/WID_Pistol_Steampunk_SR_Ore_T02.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Steampunk-Revolver.T-Icon-Weapons-SK-Steampunk-Revolver",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Steampunk-Revolver-L.png"
@@ -92045,7 +92045,7 @@
     "Rarity": "Rare",
     "Tier": 3,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/HandCannon/WID_Pistol_Handcannon_R_Ore_T03.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/Handcannon/WID_Pistol_Handcannon_R_Ore_T03.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Magnum.T-Icon-Weapons-SK-Magnum",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Magnum-L.png"
@@ -92556,7 +92556,7 @@
     "Rarity": "Epic",
     "Tier": 3,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Sniper/Steampunk/WID_Sniper_Steampunk_VR_Ore_T03.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Sniper/SteamPunk/WID_Sniper_Steampunk_VR_Ore_T03.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-SteampunkSniper.T-Icon-Weapons-SK-SteampunkSniper",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-SteampunkSniper-L.png"
@@ -93289,7 +93289,7 @@
     "Rarity": "Legendary",
     "Tier": 3,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Sniper/Steampunk/WID_Sniper_Steampunk_SR_Ore_T03.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Sniper/SteamPunk/WID_Sniper_Steampunk_SR_Ore_T03.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-SteampunkSniper.T-Icon-Weapons-SK-SteampunkSniper",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-SteampunkSniper-L.png"
@@ -94403,7 +94403,7 @@
     "Rarity": "Mythic",
     "Tier": 2,
     "TriggerType": "Automatic",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Assault/Stormking/WID_Assault_Stormking_SR_Ore_T02.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Assault/StormKing/WID_Assault_Stormking_SR_Ore_T02.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Storm-King-Rifle.T-Icon-Weapons-Storm-King-Rifle",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Storm-King-Rifle-L.png"
@@ -98784,7 +98784,7 @@
     "Rarity": "Mythic",
     "Tier": 1,
     "TriggerType": "Automatic",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/Stormking/WID_Pistol_Stormking_SR_Ore_T01.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/StormKing/WID_Pistol_Stormking_SR_Ore_T01.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-StormKingPistol.T-Icon-Weapons-StormKingPistol",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-StormKingPistol-L.png"
@@ -100041,7 +100041,7 @@
     "Rarity": "Mythic",
     "Tier": 4,
     "TriggerType": "Automatic",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Assault/Stormking/WID_Assault_Stormking_SR_Crystal_T04.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Assault/StormKing/WID_Assault_Stormking_SR_Crystal_T04.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Storm-King-Rifle.T-Icon-Weapons-Storm-King-Rifle",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Storm-King-Rifle-L.png"
@@ -108046,7 +108046,7 @@
     "Rarity": "Legendary",
     "Tier": 1,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Shotgun/Steampunk/WID_Shotgun_Steampunk_SR_Ore_T01.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Shotgun/SteamPunk/WID_Shotgun_Steampunk_SR_Ore_T01.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Shotgun-Steampunk.T-Icon-Weapons-Shotgun-Steampunk",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Shotgun-Steampunk-L.png"
@@ -110319,7 +110319,7 @@
     "Rarity": "Legendary",
     "Tier": 4,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Shotgun/Steampunk/WID_Shotgun_Steampunk_SR_Crystal_T04.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Shotgun/SteamPunk/WID_Shotgun_Steampunk_SR_Crystal_T04.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Shotgun-Steampunk.T-Icon-Weapons-Shotgun-Steampunk",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Shotgun-Steampunk-L.png"
@@ -116047,7 +116047,7 @@
     "Rarity": "Mythic",
     "Tier": 4,
     "TriggerType": "Automatic",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Assault/Stormking/WID_Assault_Stormking_SR_Ore_T04.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Assault/StormKing/WID_Assault_Stormking_SR_Ore_T04.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Storm-King-Rifle.T-Icon-Weapons-Storm-King-Rifle",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Storm-King-Rifle-L.png"
@@ -118207,7 +118207,7 @@
     "Rarity": "Mythic",
     "Tier": 5,
     "TriggerType": "Automatic",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/Stormking/WID_Pistol_Stormking_SR_Crystal_T05.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/StormKing/WID_Pistol_Stormking_SR_Crystal_T05.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-StormKingPistol.T-Icon-Weapons-StormKingPistol",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-StormKingPistol-L.png"
@@ -119011,7 +119011,7 @@
     "Rarity": "Epic",
     "Tier": 4,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Shotgun/Steampunk/WID_Shotgun_Steampunk_VR_Crystal_T04.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Shotgun/SteamPunk/WID_Shotgun_Steampunk_VR_Crystal_T04.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Shotgun-Steampunk.T-Icon-Weapons-Shotgun-Steampunk",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Shotgun-Steampunk-L.png"
@@ -120498,7 +120498,7 @@
     "Rarity": "Legendary",
     "Tier": 3,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/HandCannon/WID_Pistol_Handcannon_SR_Ore_T03.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/Handcannon/WID_Pistol_Handcannon_SR_Ore_T03.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Magnum.T-Icon-Weapons-SK-Magnum",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Magnum-L.png"
@@ -133281,7 +133281,7 @@
     "Rarity": "Mythic",
     "Tier": 3,
     "TriggerType": "Automatic",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/Stormking/WID_Pistol_Stormking_SR_Ore_T03.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/StormKing/WID_Pistol_Stormking_SR_Ore_T03.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-StormKingPistol.T-Icon-Weapons-StormKingPistol",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-StormKingPistol-L.png"
@@ -133569,7 +133569,7 @@
     "Rarity": "Legendary",
     "Tier": 4,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/HandCannon/WID_Pistol_Handcannon_SR_Crystal_T04.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/Handcannon/WID_Pistol_Handcannon_SR_Crystal_T04.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Magnum.T-Icon-Weapons-SK-Magnum",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Magnum-L.png"
@@ -134893,7 +134893,7 @@
     "Rarity": "Mythic",
     "Tier": 5,
     "TriggerType": "Automatic",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Assault/Stormking/WID_Assault_Stormking_SR_Ore_T05.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Assault/StormKing/WID_Assault_Stormking_SR_Ore_T05.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Storm-King-Rifle.T-Icon-Weapons-Storm-King-Rifle",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Storm-King-Rifle-L.png"
@@ -148553,7 +148553,7 @@
     "Rarity": "Legendary",
     "Tier": 4,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Shotgun/Steampunk/WID_Shotgun_Steampunk_SR_Ore_T04.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Shotgun/SteamPunk/WID_Shotgun_Steampunk_SR_Ore_T04.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Shotgun-Steampunk.T-Icon-Weapons-Shotgun-Steampunk",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Shotgun-Steampunk-L.png"
@@ -154829,7 +154829,7 @@
     "Rarity": "Legendary",
     "Tier": 5,
     "TriggerType": "Automatic",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Launcher/Steampunk/WID_Explosive_Steampunk_SR_Ore_T05.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Launcher/SteamPunk/WID_Explosive_Steampunk_SR_Ore_T05.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Steampunk-Launcher.T-Icon-Weapons-SK-Steampunk-Launcher",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Steampunk-Launcher-L.png"
@@ -161728,7 +161728,7 @@
     "Rarity": "Mythic",
     "Tier": 3,
     "TriggerType": "OnRelease",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Launcher/Stormking/WID_Explosive_Stormking_SR_Ore_T03.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Launcher/StormKing/WID_Explosive_Stormking_SR_Ore_T03.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-StormKing-Launcher.T-Icon-Weapons-StormKing-Launcher",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-StormKing-Launcher-L.png"
@@ -162784,7 +162784,7 @@
     "Rarity": "Epic",
     "Tier": 3,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/HandCannon/WID_Pistol_Handcannon_VR_Ore_T03.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/Handcannon/WID_Pistol_Handcannon_VR_Ore_T03.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Magnum.T-Icon-Weapons-SK-Magnum",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Magnum-L.png"
@@ -165112,7 +165112,7 @@
     "Rarity": "Mythic",
     "Tier": 5,
     "TriggerType": "Automatic",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/Stormking/WID_Pistol_Stormking_SR_Ore_T05.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/StormKing/WID_Pistol_Stormking_SR_Ore_T05.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-StormKingPistol.T-Icon-Weapons-StormKingPistol",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-StormKingPistol-L.png"
@@ -166833,7 +166833,7 @@
     "Rarity": "Legendary",
     "Tier": 5,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Shotgun/Steampunk/WID_Shotgun_Steampunk_SR_Ore_T05.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Shotgun/SteamPunk/WID_Shotgun_Steampunk_SR_Ore_T05.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Shotgun-Steampunk.T-Icon-Weapons-Shotgun-Steampunk",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Shotgun-Steampunk-L.png"
@@ -170517,7 +170517,7 @@
     "Rarity": "Epic",
     "Tier": 5,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/HandCannon/WID_Pistol_Handcannon_VR_Crystal_T05.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/Handcannon/WID_Pistol_Handcannon_VR_Crystal_T05.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Magnum.T-Icon-Weapons-SK-Magnum",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Magnum-L.png"
@@ -172159,7 +172159,7 @@
     "Rarity": "Epic",
     "Tier": 5,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/Steampunk/WID_Pistol_Steampunk_VR_Crystal_T05.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/SteamPunk/WID_Pistol_Steampunk_VR_Crystal_T05.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Steampunk-Revolver.T-Icon-Weapons-SK-Steampunk-Revolver",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Steampunk-Revolver-L.png"
@@ -175565,7 +175565,7 @@
     "Rarity": "Epic",
     "Tier": 5,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/HandCannon/WID_Pistol_Handcannon_Founders_VR_Crystal_T05.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/Handcannon/WID_Pistol_Handcannon_Founders_VR_Crystal_T05.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Magnum.T-Icon-Weapons-SK-Magnum",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Magnum-L.png"
@@ -177064,7 +177064,7 @@
     "Rarity": "Legendary",
     "Tier": 3,
     "TriggerType": "Automatic",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Launcher/Steampunk/WID_Explosive_Steampunk_SR_Ore_T03.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Launcher/SteamPunk/WID_Explosive_Steampunk_SR_Ore_T03.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Steampunk-Launcher.T-Icon-Weapons-SK-Steampunk-Launcher",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Steampunk-Launcher-L.png"
@@ -179051,7 +179051,7 @@
     "Rarity": "Mythic",
     "Tier": 2,
     "TriggerType": "OnRelease",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Launcher/Stormking/WID_Explosive_Stormking_SR_Ore_T02.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Launcher/StormKing/WID_Explosive_Stormking_SR_Ore_T02.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-StormKing-Launcher.T-Icon-Weapons-StormKing-Launcher",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-StormKing-Launcher-L.png"
@@ -179497,7 +179497,7 @@
     "Rarity": "Legendary",
     "Tier": 2,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/HandCannon/WID_Pistol_Handcannon_VT_SR_Ore_T02.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/Handcannon/WID_Pistol_Handcannon_VT_SR_Ore_T02.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-VinderTech-Revolver.T-Icon-Weapons-SK-VinderTech-Revolver",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-VinderTech-Revolver-L.png"
@@ -183781,7 +183781,7 @@
     "Rarity": "Epic",
     "Tier": 5,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/Steampunk/WID_Pistol_Steampunk_VR_Ore_T05.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/SteamPunk/WID_Pistol_Steampunk_VR_Ore_T05.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Steampunk-Revolver.T-Icon-Weapons-SK-Steampunk-Revolver",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Steampunk-Revolver-L.png"
@@ -185819,7 +185819,7 @@
     "Rarity": "Legendary",
     "Tier": 5,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/Steampunk/WID_Pistol_Steampunk_SR_Ore_T05.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/SteamPunk/WID_Pistol_Steampunk_SR_Ore_T05.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Steampunk-Revolver.T-Icon-Weapons-SK-Steampunk-Revolver",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Steampunk-Revolver-L.png"
@@ -193727,7 +193727,7 @@
     "Rarity": "Legendary",
     "Tier": 2,
     "TriggerType": "Automatic",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Launcher/Steampunk/WID_Explosive_Steampunk_SR_Ore_T02.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Launcher/SteamPunk/WID_Explosive_Steampunk_SR_Ore_T02.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Steampunk-Launcher.T-Icon-Weapons-SK-Steampunk-Launcher",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Steampunk-Launcher-L.png"
@@ -194239,7 +194239,7 @@
     "Rarity": "Epic",
     "Tier": 4,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/HandCannon/WID_Pistol_Handcannon_Founders_VR_Ore_T04.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/Handcannon/WID_Pistol_Handcannon_Founders_VR_Ore_T04.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Magnum.T-Icon-Weapons-SK-Magnum",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Magnum-L.png"
@@ -197001,7 +197001,7 @@
     "Rarity": "Epic",
     "Tier": 2,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Shotgun/Steampunk/WID_Shotgun_Steampunk_VR_Ore_T02.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Shotgun/SteamPunk/WID_Shotgun_Steampunk_VR_Ore_T02.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Shotgun-Steampunk.T-Icon-Weapons-Shotgun-Steampunk",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Shotgun-Steampunk-L.png"
@@ -199545,7 +199545,7 @@
     "Rarity": "Legendary",
     "Tier": 5,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/HandCannon/WID_Pistol_Handcannon_SR_Ore_T05.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/Handcannon/WID_Pistol_Handcannon_SR_Ore_T05.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Magnum.T-Icon-Weapons-SK-Magnum",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Magnum-L.png"
@@ -200115,7 +200115,7 @@
     "Rarity": "Mythic",
     "Tier": 4,
     "TriggerType": "OnRelease",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Launcher/Stormking/WID_Explosive_Stormking_SR_Ore_T04.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Launcher/StormKing/WID_Explosive_Stormking_SR_Ore_T04.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-StormKing-Launcher.T-Icon-Weapons-StormKing-Launcher",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-StormKing-Launcher-L.png"
@@ -200627,7 +200627,7 @@
     "Rarity": "Legendary",
     "Tier": 3,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Shotgun/Steampunk/WID_Shotgun_Steampunk_SR_Ore_T03.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Shotgun/SteamPunk/WID_Shotgun_Steampunk_SR_Ore_T03.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Shotgun-Steampunk.T-Icon-Weapons-Shotgun-Steampunk",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Shotgun-Steampunk-L.png"
@@ -204232,7 +204232,7 @@
     "Rarity": "Epic",
     "Tier": 5,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Sniper/Steampunk/WID_Sniper_Steampunk_VR_Crystal_T05.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Sniper/SteamPunk/WID_Sniper_Steampunk_VR_Crystal_T05.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-SteampunkSniper.T-Icon-Weapons-SK-SteampunkSniper",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-SteampunkSniper-L.png"
@@ -210289,7 +210289,7 @@
     "Rarity": "Mythic",
     "Tier": 5,
     "TriggerType": "Automatic",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Assault/Stormking/WID_Assault_Stormking_SR_Crystal_T05.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Assault/StormKing/WID_Assault_Stormking_SR_Crystal_T05.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Storm-King-Rifle.T-Icon-Weapons-Storm-King-Rifle",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Storm-King-Rifle-L.png"
@@ -211718,7 +211718,7 @@
     "Rarity": "Legendary",
     "Tier": 4,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/HandCannon/WID_Pistol_Handcannon_VT_SR_Ore_T04.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/Handcannon/WID_Pistol_Handcannon_VT_SR_Ore_T04.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-VinderTech-Revolver.T-Icon-Weapons-SK-VinderTech-Revolver",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-VinderTech-Revolver-L.png"
@@ -212131,7 +212131,7 @@
     "Rarity": "Mythic",
     "Tier": 2,
     "TriggerType": "Automatic",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/Stormking/WID_Pistol_Stormking_SR_Ore_T02.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/StormKing/WID_Pistol_Stormking_SR_Ore_T02.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-StormKingPistol.T-Icon-Weapons-StormKingPistol",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-StormKingPistol-L.png"
@@ -216256,7 +216256,7 @@
     "Rarity": "Legendary",
     "Tier": 4,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/HandCannon/WID_Pistol_Handcannon_SR_Ore_T04.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/Handcannon/WID_Pistol_Handcannon_SR_Ore_T04.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Magnum.T-Icon-Weapons-SK-Magnum",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Magnum-L.png"
@@ -219792,7 +219792,7 @@
     "Rarity": "Epic",
     "Tier": 4,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Sniper/Steampunk/WID_Sniper_Steampunk_VR_Ore_T04.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Sniper/SteamPunk/WID_Sniper_Steampunk_VR_Ore_T04.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-SteampunkSniper.T-Icon-Weapons-SK-SteampunkSniper",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-SteampunkSniper-L.png"
@@ -220693,7 +220693,7 @@
     "Rarity": "Legendary",
     "Tier": 4,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Sniper/Steampunk/WID_Sniper_Steampunk_SR_Ore_T04.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Sniper/SteamPunk/WID_Sniper_Steampunk_SR_Ore_T04.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-SteampunkSniper.T-Icon-Weapons-SK-SteampunkSniper",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-SteampunkSniper-L.png"
@@ -220910,7 +220910,7 @@
     "Rarity": "Legendary",
     "Tier": 5,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/HandCannon/WID_Pistol_Handcannon_VT_SR_Crystal_T05.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/Handcannon/WID_Pistol_Handcannon_VT_SR_Crystal_T05.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-VinderTech-Revolver.T-Icon-Weapons-SK-VinderTech-Revolver",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-VinderTech-Revolver-L.png"
@@ -224330,7 +224330,7 @@
     "Rarity": "Mythic",
     "Tier": 3,
     "TriggerType": "Automatic",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Assault/Stormking/WID_Assault_Stormking_SR_Ore_T03.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Assault/StormKing/WID_Assault_Stormking_SR_Ore_T03.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Storm-King-Rifle.T-Icon-Weapons-Storm-King-Rifle",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Storm-King-Rifle-L.png"
@@ -225412,7 +225412,7 @@
     "Rarity": "Legendary",
     "Tier": 1,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/HandCannon/WID_Pistol_Handcannon_VT_SR_Ore_T01.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/Handcannon/WID_Pistol_Handcannon_VT_SR_Ore_T01.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-VinderTech-Revolver.T-Icon-Weapons-SK-VinderTech-Revolver",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-VinderTech-Revolver-L.png"
@@ -226758,7 +226758,7 @@
     "Rarity": "Epic",
     "Tier": 2,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/HandCannon/WID_Pistol_Handcannon_Founders_VR_Ore_T02.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/Handcannon/WID_Pistol_Handcannon_Founders_VR_Ore_T02.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Magnum.T-Icon-Weapons-SK-Magnum",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Magnum-L.png"
@@ -230365,7 +230365,7 @@
     "Rarity": "Epic",
     "Tier": 4,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/Steampunk/WID_Pistol_Steampunk_VR_Ore_T04.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/SteamPunk/WID_Pistol_Steampunk_VR_Ore_T04.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Steampunk-Revolver.T-Icon-Weapons-SK-Steampunk-Revolver",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Steampunk-Revolver-L.png"
@@ -232554,7 +232554,7 @@
     "Rarity": "Legendary",
     "Tier": 4,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/Steampunk/WID_Pistol_Steampunk_SR_Ore_T04.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Pistol/SteamPunk/WID_Pistol_Steampunk_SR_Ore_T04.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Steampunk-Revolver.T-Icon-Weapons-SK-Steampunk-Revolver",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Steampunk-Revolver-L.png"
@@ -233898,7 +233898,7 @@
     "Rarity": "Legendary",
     "Tier": 5,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Sniper/Steampunk/WID_Sniper_Steampunk_SR_Crystal_T05.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Sniper/SteamPunk/WID_Sniper_Steampunk_SR_Crystal_T05.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-SteampunkSniper.T-Icon-Weapons-SK-SteampunkSniper",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-SteampunkSniper-L.png"
@@ -235277,7 +235277,7 @@
     "Rarity": "Epic",
     "Tier": 1,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Shotgun/Steampunk/WID_Shotgun_Steampunk_VR_Ore_T01.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Weapons/Ranged/Shotgun/SteamPunk/WID_Shotgun_Steampunk_VR_Ore_T01.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Shotgun-Steampunk.T-Icon-Weapons-Shotgun-Steampunk",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Shotgun-Steampunk-L.png"

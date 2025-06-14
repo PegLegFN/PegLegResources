@@ -156,7 +156,7 @@
   "ZoneTheme:bp_zt_tp_plank_island_c": {
     "Type": "ZoneTheme",
     "Name": "BP_ZT_TP_Plank_Island_C",
-    "DisplayName": "Tropical",
+    "DisplayName": "Lakeside",
     "Description": "Living on Island Time",
     "AssetPath": "FortniteGame/Plugins/GameFeatures/STW/STW_Zones/Content/World/ZoneThemes/ZT_TP/BP_ZT_TP_Plank_Island",
     "ImagePaths": {
@@ -438,7 +438,7 @@
     "Name": "BP_ZT_VindermansLab_C",
     "DisplayName": "Grasslands",
     "Description": "Open plains ready for new construction.",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/STW/STW_Zones/Content/World/ZoneThemes/OnBoarding/BP_ZT_VindermansLab",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/STW/STW_Zones/Content/World/ZoneThemes/Onboarding/BP_ZT_VindermansLab",
     "ImagePaths": {}
   },
   "ZoneTheme:bp_zt_onboarding_grasslands_a_c": {
@@ -446,7 +446,7 @@
     "Name": "BP_ZT_Onboarding_Grasslands_a_C",
     "DisplayName": "Grasslands",
     "Description": "Open plains ready for new construction.",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/STW/STW_Zones/Content/World/ZoneThemes/OnBoarding/BP_ZT_Onboarding_Grasslands_a",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/STW/STW_Zones/Content/World/ZoneThemes/Onboarding/BP_ZT_Onboarding_Grasslands_a",
     "ImagePaths": {}
   },
   "ZoneTheme:bp_zt_buildthebase_desert_c": {
@@ -600,7 +600,7 @@
     "Name": "BP_ZT_Onboarding_Fort_C",
     "DisplayName": "Onboarding Fort",
     "Description": "Launch the Satellite into Orbit",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/STW/STW_Zones/Content/World/ZoneThemes/OnBoarding/ZT_OnboardingFort/BP_ZT_Onboarding_Fort",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/STW/STW_Zones/Content/World/ZoneThemes/Onboarding/ZT_OnboardingFort/BP_ZT_Onboarding_Fort",
     "ImagePaths": {
       "LoadingScreen": "ExportedImages\\T_Temperate_Grasslands.png"
     }
@@ -719,7 +719,7 @@
     "Name": "BP_ZT_Onboarding_Forest_a_C",
     "DisplayName": "Forest",
     "Description": "A lush green forest.",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/STW/STW_Zones/Content/World/ZoneThemes/OnBoarding/BP_ZT_Onboarding_Forest_a",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/STW/STW_Zones/Content/World/ZoneThemes/Onboarding/BP_ZT_Onboarding_Forest_a",
     "ImagePaths": {}
   },
   "ZoneTheme:bp_zt_thegrasslands_mansion_c": {
@@ -821,7 +821,7 @@
     "Name": "BP_ZT_Onboarding_Suburban_a_C",
     "DisplayName": "The Suburbs",
     "Description": "A charming neighborhood to rummage through.",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/STW/STW_Zones/Content/World/ZoneThemes/OnBoarding/BP_ZT_Onboarding_Suburban_a",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/STW/STW_Zones/Content/World/ZoneThemes/Onboarding/BP_ZT_Onboarding_Suburban_a",
     "ImagePaths": {}
   },
   "ZoneTheme:bp_zt_challengethehorde_canny_vh_c": {
@@ -953,7 +953,7 @@
     "Name": "BP_ZT_BuildOff_C",
     "DisplayName": "The Durr Burger Build-Off",
     "Description": "A truly epic construction contest.",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/STW/STW_Zones/Content/World/ZoneThemes/OnBoarding/BP_ZT_BuildOff",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/STW/STW_Zones/Content/World/ZoneThemes/Onboarding/BP_ZT_BuildOff",
     "ImagePaths": {}
   },
   "ZoneTheme:bp_zt_phoenix_winter_twine2_town_c": {

@@ -40,18 +40,19 @@
     }
   },
   "htr_daily": {
-    "displayName": "Hit The Road",
-    "timer": "Weekly",
+    "displayName": "Daily Hit The Road",
+    "timer": "Daily",
     "eventFlag": "EventFlag.Mayday",
     "predicate": "Quest:MaydayQuest_2019_Daily_Complete"
   },
   "htr_weekly": {
-    "displayName": "Hit The Road",
+    "displayName": "Weekly Hit The Road",
     "timer": "Weekly",
     "showComplete":true,
     "eventFlag": "EventFlag.Mayday",
     "predicate": {
-      "startsWith": "maydayquest_2019_complete"
+      "startsWith": "maydayquest_2019_complete",
+      "exclude": "Quest:maydayquest_2019_completesubmissions"
     }
   },
   "frostnite_daily": {

@@ -10988,7 +10988,7 @@
         "Selectable": false
       }
     ],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Stonewood/StonewoodQuest_Fetch_StormCalls.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Stonewood/stonewoodquest_fetch_stormcalls.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Consumable/Icon-Consumable-Buff-L.Icon-Consumable-Buff-L",
       "LargePreview": "ExportedImages\\Icon-Consumable-Buff-L.png"
@@ -16384,7 +16384,7 @@
         "Selectable": false
       }
     ],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/WeeklyQuest/StormKingHardMode/STW_StormKingHard_Weekly_001.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/WeeklyQuest/StormKingHardmode/STW_StormKingHard_Weekly_001.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Mission/T-Icon-Mimic-128.T-Icon-Mimic-128",
       "LargePreview": "ExportedImages\\T-Icon-Mimic-128.png"
@@ -22500,7 +22500,7 @@
         "Selectable": false
       }
     ],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/WeeklyQuest/StormKingHardMode/STW_StormKingHard_Weekly_002.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/WeeklyQuest/StormKingHardmode/STW_StormKingHard_Weekly_002.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Mission/T-Icon-StormChest-128.T-Icon-StormChest-128",
       "LargePreview": "ExportedImages\\T-Icon-StormChest-128.png"
@@ -28019,7 +28019,7 @@
         "Selectable": false
       }
     ],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Events/Holdfast2019/Superheated/S11_HoldfastQuest_SuperHot_Build.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Events/Holdfast2019/SuperHeated/S11_HoldfastQuest_SuperHot_Build.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-HBBuildings/MyTownBuildingIcon_ManufacturingPlant.MyTownBuildingIcon_ManufacturingPlant",
       "LargePreview": "ExportedImages\\MyTownBuildingIcon_ManufacturingPlant.png"
@@ -28103,7 +28103,7 @@
         "Selectable": false
       }
     ],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/WeeklyQuest/StormKingHardMode/STW_StormKingHard_Weekly_004.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/WeeklyQuest/StormKingHardmode/STW_StormKingHard_Weekly_004.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-QuestCategory/Icon-Quest-HuskExtermination-L.Icon-Quest-HuskExtermination-L",
       "LargePreview": "ExportedImages\\Icon-Quest-HuskExtermination-L.png"
@@ -33750,7 +33750,7 @@
         "Selectable": false
       }
     ],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/WeeklyQuest/StormKingHardMode/STW_StormKingHard_Weekly_005.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/WeeklyQuest/StormKingHardmode/STW_StormKingHard_Weekly_005.uasset",
     "ImagePaths": {
       "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Quest/T-Icon-Rescue-Survivors-128.T-Icon-Rescue-Survivors-128",
       "LargePreview": "ExportedImages\\T-Icon-Rescue-Survivors-128.png"
@@ -54903,7 +54903,7 @@
         "Selectable": false
       }
     ],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/WeeklyQuest/StormKingHardMode/STW_StormKingHard_Weekly_003.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/WeeklyQuest/StormKingHardmode/STW_StormKingHard_Weekly_003.uasset",
     "ImagePaths": {
       "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Mission/T-Icon-Miniboss-128.T-Icon-Miniboss-128",
       "LargePreview": "ExportedImages\\T-Icon-Miniboss-128.png"
@@ -60309,7 +60309,7 @@
         "Selectable": false
       }
     ],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/WeeklyQuest/StormKingHardMode/STW_StormKingHard_Weekly_Showdown.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/WeeklyQuest/StormKingHardmode/STW_StormKingHard_Weekly_Showdown.uasset",
     "ImagePaths": {
       "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Mission/T-Icon-Miniboss-128.T-Icon-Miniboss-128",
       "LargePreview": "ExportedImages\\T-Icon-Miniboss-128.png"
@@ -60614,7 +60614,7 @@
         "Selectable": false
       }
     ],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Events/Holdfast2019/Superheated/S11_HoldfastQuest_SuperHot_Elite.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Events/Holdfast2019/SuperHeated/S11_HoldfastQuest_SuperHot_Elite.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Mission/T-Icon-Elemental-Fire-128.T-Icon-Elemental-Fire-128",
       "LargePreview": "ExportedImages\\T-Icon-Elemental-Fire-128.png"
@@ -67054,7 +67054,7 @@
         "Selectable": false
       }
     ],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/WeeklyQuest/StormKingHardMode/STW_StormKingHard_Weekly_006.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/WeeklyQuest/StormKingHardmode/STW_StormKingHard_Weekly_006.uasset",
     "ImagePaths": {
       "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Mission/T-Icon-Ride-128.T-Icon-Ride-128",
       "LargePreview": "ExportedImages\\T-Icon-Ride-128.png"
@@ -71968,7 +71968,7 @@
         "Selectable": false
       }
     ],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/WeeklyQuest/StormKingHardMode/STW_StormKingHard_Weekly_007.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/WeeklyQuest/StormKingHardmode/STW_StormKingHard_Weekly_007.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Mission/T-Icon-Elemental-Nature-128.T-Icon-Elemental-Nature-128",
       "LargePreview": "ExportedImages\\T-Icon-Elemental-Nature-128.png"
@@ -72931,7 +72931,7 @@
         "Selectable": false
       }
     ],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Stonewood/StonewoodQuest_Fetch_TriangulatingPop.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Stonewood/stonewoodquest_fetch_triangulatingpop.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Consumable/Icon-Consumable-Buff-L.Icon-Consumable-Buff-L",
       "LargePreview": "ExportedImages\\Icon-Consumable-Buff-L.png"
@@ -81417,7 +81417,7 @@
         "Selectable": false
       }
     ],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/CannyValley/Act1/CannyValley_Reactive_tumbleweed.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/CannyValley/Act1/CannyValley_Reactive_Tumbleweed.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Consumable/Icon-Consumable-Buff-L.Icon-Consumable-Buff-L",
       "LargePreview": "ExportedImages\\Icon-Consumable-Buff-L.png"
@@ -82618,7 +82618,7 @@
         "Selectable": false
       }
     ],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Events/Holdfast2019/Superheated/S11_HoldfastQuest_SuperHot_30.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Events/Holdfast2019/SuperHeated/S11_HoldfastQuest_SuperHot_30.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Mission/T-Icon-Elemental-Fire-128.T-Icon-Elemental-Fire-128",
       "LargePreview": "ExportedImages\\T-Icon-Elemental-Fire-128.png"
@@ -85906,7 +85906,7 @@
         "Selectable": false
       }
     ],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Events/Summer2019/Season10A_TimeSignatures/S10_Fetch_Quest_a3.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Events/Summer2019/Season10A_TimeSignatures/S10_Fetch_Quest_A3.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Consumable/Icon-Consumable-Buff-L.Icon-Consumable-Buff-L",
       "LargePreview": "ExportedImages\\Icon-Consumable-Buff-L.png"
@@ -86983,7 +86983,7 @@
         "Selectable": false
       }
     ],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/StormKingHardMode/STW_StormKingHard_KingMe.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/StormKingHardmode/STW_StormKingHard_KingMe.uasset",
     "ImagePaths": {
       "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Mission/T-Icon-Miniboss-128.T-Icon-Miniboss-128",
       "LargePreview": "ExportedImages\\T-Icon-Miniboss-128.png"
@@ -88824,7 +88824,7 @@
         "Selectable": false
       }
     ],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Events/Holdfast2019/Superheated/S11_HoldfastQuest_SuperHot_45.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Events/Holdfast2019/SuperHeated/S11_HoldfastQuest_SuperHot_45.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Mission/T-Icon-Elemental-Fire-128.T-Icon-Elemental-Fire-128",
       "LargePreview": "ExportedImages\\T-Icon-Elemental-Fire-128.png"
@@ -89620,7 +89620,7 @@
         "Selectable": false
       }
     ],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/StormKingHardMode/STW_StormKingHard_FirstTakedown.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/StormKingHardmode/STW_StormKingHard_FirstTakedown.uasset",
     "ImagePaths": {
       "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Mission/T-Icon-Miniboss-128.T-Icon-Miniboss-128",
       "LargePreview": "ExportedImages\\T-Icon-Miniboss-128.png"
@@ -91716,7 +91716,7 @@
         "Selectable": false
       }
     ],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Events/StormKing/DailyChallenges/StormKing_Daily_Landmark_Bossfight.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Events/Stormking/DailyChallenges/StormKing_Daily_Landmark_Bossfight.uasset",
     "ImagePaths": {
       "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Mission/T-Icon-Miniboss-128.T-Icon-Miniboss-128",
       "LargePreview": "ExportedImages\\T-Icon-Miniboss-128.png"

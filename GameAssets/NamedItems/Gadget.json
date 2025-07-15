@@ -239,7 +239,7 @@
     "DisplayName": "Hoverboard",
     "IsPermanent": true,
     "Rarity": "Common",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Abilities/Player/Generic/Gadgets/Vehicles/Hoverboard/G_Hoverboard.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Abilities/Player/Generic/Gadgets/Vehicles/HoverBoard/G_Hoverboard.uasset",
     "ImagePaths": {
       "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Gadgets/Icon-Gadget-SupplyDrop-128.Icon-Gadget-SupplyDrop-128",
       "LargePreview": "ExportedImages\\Icon-Gadget-SupplyDrop-128.png"

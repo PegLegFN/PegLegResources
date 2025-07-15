@@ -9336,11 +9336,9 @@
           ]
         },
         {
-          "AID": "Alteration:aid_g_ranged_headshotstreak_dmgbonus_v2",
+          "AID": "Alteration:aid_g_onhit_execute",
           "ExclusionNames": [
-            "TopLevel.Ranged",
-            "Damage",
-            "HeadshotDamage"
+            "Damage"
           ]
         },
         {
@@ -10138,6 +10136,173 @@
           "ExclusionNames": [
             "TopLevel.Melee",
             "Damage"
+          ]
+        }
+      ],
+      "RequiredLevel": 25,
+      "RequiredRarity": "Legendary"
+    }
+  ],
+  "SlotLoadout.Explicit.Ancient.Launcher": [
+    {
+      "BaseRespecCost": {
+        "AccountResource:reagent_alteration_gameplay_generic": 1
+      },
+      "RawAlterations": [
+        {
+          "AID": "Alteration:aid_g_ontarget_cursemark",
+          "ExclusionNames": [
+            "Damage"
+          ]
+        }
+      ],
+      "RequiredLevel": 5,
+      "RequiredRarity": "Common"
+    },
+    {
+      "RawAlterations": [
+        {
+          "AID": "Alteration:aid_att_damage_physical_t01",
+          "ExclusionNames": [
+            "Ele_Physical"
+          ]
+        },
+        {
+          "AID": "Alteration:aid_ele_energy_t01",
+          "ExclusionNames": [
+            "Ele_Energy"
+          ]
+        }
+      ],
+      "RequiredLevel": 5,
+      "RequiredRarity": "Common"
+    },
+    {
+      "BaseRespecCost": {
+        "AccountResource:reagent_alteration_generic": 1
+      },
+      "RawAlterations": [
+        {
+          "AID": "Alteration:aid_att_maxdurability_t01",
+          "ExclusionNames": [
+            "Durability"
+          ]
+        },
+        {
+          "AID": "Alteration:aid_att_weaponimpact_t01",
+          "ExclusionNames": [
+            "Impact"
+          ]
+        },
+        {
+          "AID": "Alteration:aid_conditional_boss_dmgbonus_t01",
+          "ExclusionNames": [
+            "Damage"
+          ]
+        }
+      ],
+      "RequiredLevel": 10,
+      "RequiredRarity": "Uncommon"
+    },
+    {
+      "BaseRespecCost": {
+        "AccountResource:reagent_alteration_generic": 600
+      },
+      "RawAlterations": [
+        {
+          "AID": "Alteration:aid_att_critchance_t01",
+          "ExclusionNames": [
+            "CriticalChance"
+          ]
+        },
+        {
+          "AID": "Alteration:aid_att_critdamage_t01",
+          "ExclusionNames": [
+            "CriticalDamage"
+          ]
+        },
+        {
+          "AID": "Alteration:aid_att_damage_t01",
+          "ExclusionNames": [
+            "Damage"
+          ]
+        },
+        {
+          "AID": "Alteration:aid_att_weaponimpact_t01",
+          "ExclusionNames": [
+            "Impact"
+          ]
+        },
+        {
+          "AID": "Alteration:aid_att_maxdurability_t01",
+          "ExclusionNames": [
+            "Durability"
+          ]
+        }
+      ],
+      "RequiredLevel": 15,
+      "RequiredRarity": "Rare"
+    },
+    {
+      "BaseRespecCost": {
+        "AccountResource:reagent_alteration_generic": 1
+      },
+      "RawAlterations": [
+        {
+          "AID": "Alteration:aid_att_weaponimpact_t01",
+          "ExclusionNames": [
+            "Impact"
+          ]
+        },
+        {
+          "AID": "Alteration:aid_conditional_boss_dmgbonus_t01",
+          "ExclusionNames": [
+            "Damage"
+          ]
+        },
+        {
+          "AID": "Alteration:aid_att_damage_t01",
+          "ExclusionNames": [
+            "Damage"
+          ]
+        }
+      ],
+      "RequiredLevel": 20,
+      "RequiredRarity": "Epic"
+    },
+    {
+      "BaseRespecCost": {
+        "AccountResource:reagent_alteration_generic": 600
+      },
+      "RawAlterations": [
+        {
+          "AID": "Alteration:aid_att_critchance_t01",
+          "ExclusionNames": [
+            "CriticalChance"
+          ]
+        },
+        {
+          "AID": "Alteration:aid_att_critdamage_t01",
+          "ExclusionNames": [
+            "CriticalDamage"
+          ]
+        },
+        {
+          "AID": "Alteration:aid_att_damage_t01",
+          "ExclusionNames": [
+            "Damage"
+          ]
+        },
+        {
+          "AID": "Alteration:aid_att_weaponimpact_t01",
+          "ExclusionNames": [
+            "Impact"
+          ]
+        },
+        {
+          "AID": "Alteration:aid_att_maxdurability_t01",
+          "ExclusionNames": [
+            "Durability"
           ]
         }
       ],
@@ -57555,11 +57720,9 @@
           ]
         },
         {
-          "AID": "Alteration:aid_g_ranged_headshotstreak_dmgbonus_v2",
+          "AID": "Alteration:aid_g_onhit_execute",
           "ExclusionNames": [
-            "TopLevel.Ranged",
-            "Damage",
-            "HeadshotDamage"
+            "Damage"
           ]
         },
         {
@@ -57764,11 +57927,9 @@
           ]
         },
         {
-          "AID": "Alteration:aid_g_ranged_headshotstreak_dmgbonus_v2",
+          "AID": "Alteration:aid_g_onhit_execute",
           "ExclusionNames": [
-            "TopLevel.Ranged",
-            "Damage",
-            "HeadshotDamage"
+            "Damage"
           ]
         },
         {
@@ -58602,11 +58763,9 @@
           ]
         },
         {
-          "AID": "Alteration:aid_g_ranged_headshotstreak_dmgbonus_v2",
+          "AID": "Alteration:aid_g_onhit_execute",
           "ExclusionNames": [
-            "TopLevel.Ranged",
-            "Damage",
-            "HeadshotDamage"
+            "Damage"
           ]
         },
         {
@@ -58812,11 +58971,9 @@
           ]
         },
         {
-          "AID": "Alteration:aid_g_ranged_headshotstreak_dmgbonus_v2",
+          "AID": "Alteration:aid_g_onhit_execute",
           "ExclusionNames": [
-            "TopLevel.Ranged",
-            "Damage",
-            "HeadshotDamage"
+            "Damage"
           ]
         },
         {

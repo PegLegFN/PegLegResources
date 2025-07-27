@@ -9,6 +9,12 @@
       ]
     }
   },
+  "heroQuests": {
+    "displayName": "Hero Quests",
+    "predicate": {
+      "category": "HeroQuests"
+    }
+  },
   "sideQuests": {
     "displayName": "Side Quests",
     "predicate": {

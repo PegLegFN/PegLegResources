@@ -3,12 +3,19 @@
     "displayName": "Questlines",
     "autoPopulateQuestlines": true
   },
-  "scheduledQuests":{
-    "displayName": "Scheduled Quests",
-    "content":"scheduledQuests.json"
+  "dailyQuests":{
+    "displayName": "Daily Quests",
+    "timer": "Daily",
+    "content":"dailyQuests.json"
+  },
+  "weeklyQuests":{
+    "displayName": "Weekly Quests",
+    "timer": "Weekly",
+    "content":"weeklyQuests.json"
   },
   "eventQuests":{
     "displayName": "Event",
+    "timer": "Event",
     "eventFlags":[
       "EventFlag.Mayday",
       "EventFlag.Starlight",
@@ -19,6 +26,7 @@
   },
   "ventureQuests":{
     "displayName": "Venture Challenge Quests",
+    "timer": "Event",
     "eventFlags":[
       "EventFlag.Phoenix.NewBeginnings",
       "EventFlag.Phoenix.RoadTrip",
@@ -30,6 +38,7 @@
   },
   "cramSession":{
     "displayName": "Cram Session",
+    "timer": "Event",
     "eventFlags":[
       "QuestCategory.STW.Event.CramSession"
     ],

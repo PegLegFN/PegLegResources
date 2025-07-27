@@ -24,9 +24,8 @@
   },
   "htr_weekly": {
     "displayName": "Weekly Hit The Road",
-    "timer": "Weekly",
-    "showComplete":true,
     "eventFlag": "EventFlag.Mayday",
+    "showComplete":true,
     "predicate": {
       "startsWith": "maydayquest_2019_complete",
       "exclude": "Quest:maydayquest_2019_completesubmissions"
@@ -34,9 +33,8 @@
   },
   "sth_weekly": {
     "displayName": "Weekly Survive The Horde",
-    "timer": "Weekly",
-    "showComplete":true,
     "eventFlag": "EventFlag.HordeV3",
+    "showComplete":true,
     "predicate": {
       "startsWith": "hordev3_quest_weekly"
     }

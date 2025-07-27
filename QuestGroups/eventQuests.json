@@ -2,6 +2,7 @@
   "htr": {
     "displayName": "Hit The Road",
     "eventFlag": "EventFlag.Mayday",
+    "showComplete":true,
     "predicate": {
       "category": "ltr_mayday2019",
       "exclude": [
@@ -32,6 +33,7 @@
   "dungeon": {
     "displayName": "Dungeons",
     "eventFlag": "EventFlag.Starlight",
+    "showComplete":true,
     "predicate": {
       "category": "lte_starlight",
       "exclude": {
@@ -70,6 +72,7 @@
   "dungeon_elite": {
     "displayName": "Elite Dungeons",
     "eventFlag": "EventFlag.Starlight",
+    "showComplete":true,
     "predicate": {
       "category": "lte_starlight",
       "endsWith": "_hard"
@@ -78,6 +81,7 @@
   "sth": {
     "displayName": "Survive The Horde",
     "eventFlag": "EventFlag.HordeV3",
+    "showComplete":true,
     "predicate": {
       "union": [
         "Quest:hordev3_quest_event_a01",
@@ -148,6 +152,7 @@
   "frostnite": {
     "displayName": "Frostnite",
     "eventFlag": "EventFlag.Season11.Frostnite",
+    "showComplete":true,
     "predicate": {
       "startsWith": "s11_holdfastquest",
       "exclude": {
@@ -185,6 +190,7 @@
   "forstnite_elite": {
     "displayName": "Elite Frostnite",
     "eventFlag": "EventFlag.Season11.Frostnite",
+    "showComplete":true,
     "predicate": {
       "prefilter": {
         "startsWith": "s11_holdfastquest"

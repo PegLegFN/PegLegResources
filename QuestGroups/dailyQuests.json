@@ -2,8 +2,17 @@
   "birthday": {
     "displayName": "Daily Birthday Llamas",
     "sequence": true,
+    "showProgress": false,
     "predicate": {
-      "startsWith": "birthday_quest_"
+      "union":[
+        "Quest:birthday_quest_collectflamingos",
+        "Quest:birthday_quest_lightfireworks",
+        "Quest:birthday_quest_rescuesurvivors",
+        "Quest:birthday_quest_mistmonsters",
+        "Quest:birthday_quest_collectice",
+        "Quest:birthday_quest_collecttowels",
+        "Quest:birthday_quest_harvestac"
+      ]
     }
   },
   "daily": {

@@ -386,6 +386,17 @@
       "LargePreview": "ExportedImages\\T-Items-Evolverarity-Rare-L.png"
     }
   },
+  "AccountResource:s37_weaponexpertise_expertisepoint_currency": {
+    "Type": "AccountResource",
+    "Name": "S37_WeaponExpertise_ExpertisePoint_Currency",
+    "DisplayName": "Expertise Points",
+    "IsPermanent": true,
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/BattlePassS37_Quests/Content/Items/PersistentResources/S37_WeaponExpertise_ExpertisePoint_Currency.uasset",
+    "ImagePaths": {
+      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_Icon_WeaponExpertise_L.T_UI_Icon_WeaponExpertise_L",
+      "LargePreview": "ExportedImages\\T_UI_Icon_WeaponExpertise_L.png"
+    }
+  },
   "AccountResource:voucher_generic_defender_r": {
     "Type": "AccountResource",
     "Name": "Voucher_Generic_Defender_R",

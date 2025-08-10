@@ -460,14 +460,14 @@
     "Objectives": [
       {
         "BackendName": "quest_stw_daily_earnxp_03_obj0",
-        "Count": 60000,
+        "Count": 90000,
         "Description": "Earn XP in Save the World",
         "HudShortDescription": ""
       }
     ],
     "Rarity": "Common",
     "Rewards": [],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Daily/EarnXP/Quest_STW_Daily_EarnXP_03.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/STW_LoadedInFrontend/Content/Quests/Daily/EarnXP/Quest_STW_Daily_EarnXP_03.uasset"
   },
   "Quest:reactivequest_halloween_killcollect_taker": {
     "Type": "Quest",
@@ -3236,7 +3236,7 @@
       }
     ],
     "Rewards": [],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Onboarding/HomebaseQuest_SlotOutpostDefender.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/OnBoarding/HomebaseQuest_SlotOutpostDefender.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/ItemTypes/T-Icon-Survivor-Assault-128.T-Icon-Survivor-Assault-128",
       "LargePreview": "ExportedImages\\T-Icon-Survivor-Assault-128.png"
@@ -10988,7 +10988,7 @@
         "Selectable": false
       }
     ],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Stonewood/stonewoodquest_fetch_stormcalls.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Stonewood/StonewoodQuest_Fetch_StormCalls.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Consumable/Icon-Consumable-Buff-L.Icon-Consumable-Buff-L",
       "LargePreview": "ExportedImages\\Icon-Consumable-Buff-L.png"
@@ -16384,7 +16384,7 @@
         "Selectable": false
       }
     ],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/WeeklyQuest/StormKingHardmode/STW_StormKingHard_Weekly_001.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/WeeklyQuest/StormKingHardMode/STW_StormKingHard_Weekly_001.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Mission/T-Icon-Mimic-128.T-Icon-Mimic-128",
       "LargePreview": "ExportedImages\\T-Icon-Mimic-128.png"
@@ -17759,14 +17759,14 @@
     "Objectives": [
       {
         "BackendName": "quest_stw_daily_earnxp_02_obj0",
-        "Count": 40000,
+        "Count": 60000,
         "Description": "Earn XP in Save the World",
         "HudShortDescription": ""
       }
     ],
     "Rarity": "Common",
     "Rewards": [],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Daily/EarnXP/Quest_STW_Daily_EarnXP_02.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/STW_LoadedInFrontend/Content/Quests/Daily/EarnXP/Quest_STW_Daily_EarnXP_02.uasset"
   },
   "Quest:wargames_quest_play_challenge": {
     "Type": "Quest",
@@ -18665,7 +18665,7 @@
       }
     ],
     "Rewards": [],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Onboarding/HomebaseQuest_ResearchPurchase.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/OnBoarding/HomebaseQuest_ResearchPurchase.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Quest/T-Icon-Research-64.T-Icon-Research-64",
       "LargePreview": "ExportedImages\\T-Icon-Research-64.png"
@@ -22500,7 +22500,7 @@
         "Selectable": false
       }
     ],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/WeeklyQuest/StormKingHardmode/STW_StormKingHard_Weekly_002.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/WeeklyQuest/StormKingHardMode/STW_StormKingHard_Weekly_002.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Mission/T-Icon-StormChest-128.T-Icon-StormChest-128",
       "LargePreview": "ExportedImages\\T-Icon-StormChest-128.png"
@@ -26072,7 +26072,7 @@
         "Selectable": false
       }
     ],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Stonewood/StonewoodQuest_Fetch_ResearchCrates.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Stonewood/stonewoodquest_fetch_researchcrates.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Consumable/Icon-Consumable-Buff-L.Icon-Consumable-Buff-L",
       "LargePreview": "ExportedImages\\Icon-Consumable-Buff-L.png"
@@ -28019,7 +28019,7 @@
         "Selectable": false
       }
     ],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Events/Holdfast2019/SuperHeated/S11_HoldfastQuest_SuperHot_Build.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Events/Holdfast2019/Superheated/S11_HoldfastQuest_SuperHot_Build.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-HBBuildings/MyTownBuildingIcon_ManufacturingPlant.MyTownBuildingIcon_ManufacturingPlant",
       "LargePreview": "ExportedImages\\MyTownBuildingIcon_ManufacturingPlant.png"
@@ -28103,7 +28103,7 @@
         "Selectable": false
       }
     ],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/WeeklyQuest/StormKingHardmode/STW_StormKingHard_Weekly_004.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/WeeklyQuest/StormKingHardMode/STW_StormKingHard_Weekly_004.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-QuestCategory/Icon-Quest-HuskExtermination-L.Icon-Quest-HuskExtermination-L",
       "LargePreview": "ExportedImages\\Icon-Quest-HuskExtermination-L.png"
@@ -29969,6 +29969,36 @@
       "LargePreview": "ExportedImages\\T-Icon-EliminateAndCollect-128.png"
     }
   },
+  "Quest:stwstarterbundle24_04": {
+    "Type": "Quest",
+    "Name": "STWStarterBundle24_04",
+    "DisplayName": "Hexed \u0026 Haunted Challenge 4",
+    "Category": "StarterBundleQuests24",
+    "Description": "Eligible quests are located under the Daily Quests category of the Quest Log.",
+    "IsPermanent": true,
+    "Objectives": [
+      {
+        "BackendName": "STWStarterBundle24_04_obj0",
+        "Count": 7,
+        "Description": "Complete Daily Quests",
+        "HudShortDescription": "Daily Quests completed"
+      }
+    ],
+    "Rarity": "Legendary",
+    "Rewards": [
+      {
+        "Hidden": false,
+        "Item": "Currency:mtxgiveaway",
+        "Quantity": 400,
+        "Selectable": false
+      }
+    ],
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Rewards/StarterBundles/STWStarterBundle24_04.uasset",
+    "ImagePaths": {
+      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Quest/T-Icon-Daily-128.T-Icon-Daily-128",
+      "LargePreview": "ExportedImages\\T-Icon-Daily-128.png"
+    }
+  },
   "Quest:winterquest_2018_killkrampus": {
     "Type": "Quest",
     "Name": "WinterQuest_2018_KillKrampus",
@@ -31733,7 +31763,7 @@
         "Selectable": false
       }
     ],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Onboarding/HomebaseQuest_CompleteExpedition.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/OnBoarding/HomebaseQuest_CompleteExpedition.uasset",
     "ImagePaths": {
       "SmallPreview": "/Game/UI/Foundation/Textures/Icons/SkillTree/T-Icon-ST-Struck-64.T-Icon-ST-Struck-64",
       "LargePreview": "ExportedImages\\T-Icon-ST-Struck-64.png"
@@ -33750,7 +33780,7 @@
         "Selectable": false
       }
     ],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/WeeklyQuest/StormKingHardmode/STW_StormKingHard_Weekly_005.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/WeeklyQuest/StormKingHardMode/STW_StormKingHard_Weekly_005.uasset",
     "ImagePaths": {
       "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Quest/T-Icon-Rescue-Survivors-128.T-Icon-Rescue-Survivors-128",
       "LargePreview": "ExportedImages\\T-Icon-Rescue-Survivors-128.png"
@@ -35630,14 +35660,14 @@
     "Objectives": [
       {
         "BackendName": "quest_stw_daily_earnxp_01_obj0",
-        "Count": 20000,
+        "Count": 30000,
         "Description": "Earn XP in Save the World",
         "HudShortDescription": ""
       }
     ],
     "Rarity": "Common",
     "Rewards": [],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Daily/EarnXP/Quest_STW_Daily_EarnXP_01.uasset"
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/STW_LoadedInFrontend/Content/Quests/Daily/EarnXP/Quest_STW_Daily_EarnXP_01.uasset"
   },
   "Quest:hordev3_quest_event_a13": {
     "Type": "Quest",
@@ -35928,7 +35958,7 @@
         "Selectable": false
       }
     ],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Events/Summer2019/Season10A_TimeSignatures/S10_Fetch_Quest_a4.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Events/Summer2019/Season10A_TimeSignatures/S10_Fetch_Quest_A4.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Consumable/Icon-Consumable-Buff-L.Icon-Consumable-Buff-L",
       "LargePreview": "ExportedImages\\Icon-Consumable-Buff-L.png"
@@ -37931,7 +37961,7 @@
       }
     ],
     "Rewards": [],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Onboarding/HomebaseQuest_UnlockEMTWorker.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/OnBoarding/HomebaseQuest_UnlockEMTWorker.uasset",
     "ImagePaths": {
       "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Cards/SquadTypes/T-Icon-Hospital-128.T-Icon-Hospital-128",
       "LargePreview": "ExportedImages\\T-Icon-Hospital-128.png"
@@ -39025,7 +39055,7 @@
       }
     ],
     "Rewards": [],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Onboarding/HomebaseQuest_UnlockOutpostDefender.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/OnBoarding/HomebaseQuest_UnlockOutpostDefender.uasset",
     "ImagePaths": {
       "SmallPreview": "/Game/UI/Foundation/Textures/Icons/ItemCategories/T-Icon-Defenders-128.T-Icon-Defenders-128",
       "LargePreview": "ExportedImages\\T-Icon-Defenders-128.png"
@@ -42230,6 +42260,66 @@
     "ImagePaths": {
       "SmallPreview": "/Game/UI/Foundation/Textures/Icons/ItemTypes/T-Icon-Hero-Outlander-128.T-Icon-Hero-Outlander-128",
       "LargePreview": "ExportedImages\\T-Icon-Hero-Outlander-128.png"
+    }
+  },
+  "Quest:stwstarterbundle24_getrewards": {
+    "Type": "Quest",
+    "Name": "STWStarterBundle24_GetRewards",
+    "DisplayName": "Hexed \u0026 Haunted Challenge Pack!",
+    "Category": "StarterBundleQuests24",
+    "Description": "Earn 1500 V-Bucks by completing Daily Quests in Save the World! Complete Homebase Storm Shield Defense 3 to unlock Daily Quests and begin this challenge pack.",
+    "IsPermanent": true,
+    "Objectives": [
+      {
+        "BackendName": "STWStarterBundle24_GetRewards_obj0",
+        "Count": 1,
+        "Description": "Complete Homebase Storm Shield Defense 3",
+        "HudShortDescription": ""
+      }
+    ],
+    "Rarity": "Legendary",
+    "Rewards": [
+      {
+        "Hidden": true,
+        "Item": "Quest:stwstarterbundle24_01",
+        "Quantity": 1,
+        "Selectable": false
+      },
+      {
+        "Hidden": true,
+        "Item": "Quest:stwstarterbundle24_02",
+        "Quantity": 1,
+        "Selectable": false
+      },
+      {
+        "Hidden": true,
+        "Item": "Quest:stwstarterbundle24_03",
+        "Quantity": 1,
+        "Selectable": false
+      },
+      {
+        "Hidden": true,
+        "Item": "Quest:stwstarterbundle24_04",
+        "Quantity": 1,
+        "Selectable": false
+      },
+      {
+        "Hidden": true,
+        "Item": "Quest:stwstarterbundle24_05",
+        "Quantity": 1,
+        "Selectable": false
+      },
+      {
+        "Hidden": false,
+        "Item": "Token:quests_stwstarterbundle24",
+        "Quantity": 1,
+        "Selectable": false
+      }
+    ],
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Rewards/StarterBundles/STWStarterBundle24_GetRewards.uasset",
+    "ImagePaths": {
+      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Quest/T-Icon-Trophy-128.T-Icon-Trophy-128",
+      "LargePreview": "ExportedImages\\T-Icon-Trophy-128.png"
     }
   },
   "Quest:autumnquest_explorezones_7": {
@@ -46218,6 +46308,36 @@
       "LargePreview": "ExportedImages\\T-Icon-Outpost-128.png"
     }
   },
+  "Quest:stwstarterbundle24_05": {
+    "Type": "Quest",
+    "Name": "STWStarterBundle24_05",
+    "DisplayName": "Hexed \u0026 Haunted Challenge 5",
+    "Category": "StarterBundleQuests24",
+    "Description": "Eligible quests are located under the Daily Quests category of the Quest Log.",
+    "IsPermanent": true,
+    "Objectives": [
+      {
+        "BackendName": "STWStarterBundle24_05_obj0",
+        "Count": 9,
+        "Description": "Complete Daily Quests",
+        "HudShortDescription": "Daily Quests completed"
+      }
+    ],
+    "Rarity": "Legendary",
+    "Rewards": [
+      {
+        "Hidden": false,
+        "Item": "Currency:mtxgiveaway",
+        "Quantity": 500,
+        "Selectable": false
+      }
+    ],
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Rewards/StarterBundles/STWStarterBundle24_05.uasset",
+    "ImagePaths": {
+      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Quest/T-Icon-Daily-128.T-Icon-Daily-128",
+      "LargePreview": "ExportedImages\\T-Icon-Daily-128.png"
+    }
+  },
   "Quest:blockbusterquest_2018_killfirehusks_repeatable": {
     "Type": "Quest",
     "Name": "BlockbusterQuest_2018_KillFireHusks_Repeatable",
@@ -47884,7 +48004,7 @@
       }
     ],
     "Rewards": [],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Onboarding/HomebaseQuest_SlotEMTWorker.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/OnBoarding/HomebaseQuest_SlotEMTWorker.uasset",
     "ImagePaths": {
       "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Cards/SquadTypes/T-Icon-Hospital-128.T-Icon-Hospital-128",
       "LargePreview": "ExportedImages\\T-Icon-Hospital-128.png"
@@ -51141,7 +51261,7 @@
       }
     ],
     "Rewards": [],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Onboarding/HomebaseQuest_UnlockFireTeamAlphaWorker.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/OnBoarding/HomebaseQuest_UnlockFireTeamAlphaWorker.uasset",
     "ImagePaths": {
       "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Cards/SquadTypes/T-Icon-Firing-Range-128.T-Icon-Firing-Range-128",
       "LargePreview": "ExportedImages\\T-Icon-Firing-Range-128.png"
@@ -52830,7 +52950,7 @@
         "Selectable": false
       }
     ],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/CannyValley/Act1/CannyValley_Reactive_Glyphs.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/CannyValley/Act1/cannyvalley_reactive_glyphs.uasset",
     "ImagePaths": {
       "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Social/T-Icon-Quest-Journal-64.T-Icon-Quest-Journal-64",
       "LargePreview": "ExportedImages\\T-Icon-Quest-Journal-64.png"
@@ -54903,7 +55023,7 @@
         "Selectable": false
       }
     ],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/WeeklyQuest/StormKingHardmode/STW_StormKingHard_Weekly_003.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/WeeklyQuest/StormKingHardMode/STW_StormKingHard_Weekly_003.uasset",
     "ImagePaths": {
       "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Mission/T-Icon-Miniboss-128.T-Icon-Miniboss-128",
       "LargePreview": "ExportedImages\\T-Icon-Miniboss-128.png"
@@ -55478,7 +55598,7 @@
       }
     ],
     "Rewards": [],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Onboarding/HomebaseQuest_UnlockSquads.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/OnBoarding/HomebaseQuest_UnlockSquads.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/ItemTypes/T-Icon-Survivor-128.T-Icon-Survivor-128",
       "LargePreview": "ExportedImages\\T-Icon-Survivor-128.png"
@@ -56366,6 +56486,36 @@
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Mission/T-Icon-EliminateAndCollect-128.T-Icon-EliminateAndCollect-128",
       "LargePreview": "ExportedImages\\T-Icon-EliminateAndCollect-128.png"
+    }
+  },
+  "Quest:stwstarterbundle24_03": {
+    "Type": "Quest",
+    "Name": "STWStarterBundle24_03",
+    "DisplayName": "Hexed \u0026 Haunted Challenge 3",
+    "Category": "StarterBundleQuests24",
+    "Description": "Eligible quests are located under the Daily Quests category of the Quest Log.",
+    "IsPermanent": true,
+    "Objectives": [
+      {
+        "BackendName": "STWStarterBundle24_03_obj0",
+        "Count": 5,
+        "Description": "Complete Daily Quests",
+        "HudShortDescription": "Daily Quests completed"
+      }
+    ],
+    "Rarity": "Legendary",
+    "Rewards": [
+      {
+        "Hidden": false,
+        "Item": "Currency:mtxgiveaway",
+        "Quantity": 300,
+        "Selectable": false
+      }
+    ],
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Rewards/StarterBundles/STWStarterBundle24_03.uasset",
+    "ImagePaths": {
+      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Quest/T-Icon-Daily-128.T-Icon-Daily-128",
+      "LargePreview": "ExportedImages\\T-Icon-Daily-128.png"
     }
   },
   "Quest:cannyvalley_landmark_rift": {
@@ -58629,7 +58779,7 @@
         "Selectable": false
       }
     ],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Onboarding/HomebaseOnboardingGrantSchematics.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/OnBoarding/HomebaseOnboardingGrantSchematics.uasset",
     "ImagePaths": {
       "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Drilldowns/T-Icon-Outpost-128.T-Icon-Outpost-128",
       "LargePreview": "ExportedImages\\T-Icon-Outpost-128.png"
@@ -60309,7 +60459,7 @@
         "Selectable": false
       }
     ],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/WeeklyQuest/StormKingHardmode/STW_StormKingHard_Weekly_Showdown.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/WeeklyQuest/StormKingHardMode/STW_StormKingHard_Weekly_Showdown.uasset",
     "ImagePaths": {
       "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Mission/T-Icon-Miniboss-128.T-Icon-Miniboss-128",
       "LargePreview": "ExportedImages\\T-Icon-Miniboss-128.png"
@@ -60614,7 +60764,7 @@
         "Selectable": false
       }
     ],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Events/Holdfast2019/SuperHeated/S11_HoldfastQuest_SuperHot_Elite.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Events/Holdfast2019/Superheated/S11_HoldfastQuest_SuperHot_Elite.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Mission/T-Icon-Elemental-Fire-128.T-Icon-Elemental-Fire-128",
       "LargePreview": "ExportedImages\\T-Icon-Elemental-Fire-128.png"
@@ -61609,7 +61759,7 @@
       }
     ],
     "Rewards": [],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Onboarding/HomebaseQuest_WeakPointVision.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/OnBoarding/HomebaseQuest_WeakPointVision.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Mission/T-Icon-Harvesting-128.T-Icon-Harvesting-128",
       "LargePreview": "ExportedImages\\T-Icon-Harvesting-128.png"
@@ -64580,7 +64730,7 @@
       }
     ],
     "Rewards": [],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Onboarding/HomebaseQuest_UnlockMissionDefender.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/OnBoarding/HomebaseQuest_UnlockMissionDefender.uasset",
     "ImagePaths": {
       "SmallPreview": "/Game/UI/Foundation/Textures/Icons/ItemCategories/T-Icon-Defenders-128.T-Icon-Defenders-128",
       "LargePreview": "ExportedImages\\T-Icon-Defenders-128.png"
@@ -65644,6 +65794,36 @@
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Mission/T-Icon-EliminateAndCollect-128.T-Icon-EliminateAndCollect-128",
       "LargePreview": "ExportedImages\\T-Icon-EliminateAndCollect-128.png"
+    }
+  },
+  "Quest:stwstarterbundle24_02": {
+    "Type": "Quest",
+    "Name": "STWStarterBundle24_02",
+    "DisplayName": "Hexed \u0026 Haunted Challenge 2",
+    "Category": "StarterBundleQuests24",
+    "Description": "Eligible quests are located under the Daily Quests category of the Quest Log.",
+    "IsPermanent": true,
+    "Objectives": [
+      {
+        "BackendName": "STWStarterBundle24_02_obj0",
+        "Count": 3,
+        "Description": "Complete Daily Quests",
+        "HudShortDescription": "Daily Quests completed"
+      }
+    ],
+    "Rarity": "Legendary",
+    "Rewards": [
+      {
+        "Hidden": false,
+        "Item": "Currency:mtxgiveaway",
+        "Quantity": 200,
+        "Selectable": false
+      }
+    ],
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Rewards/StarterBundles/STWStarterBundle24_02.uasset",
+    "ImagePaths": {
+      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Quest/T-Icon-Daily-128.T-Icon-Daily-128",
+      "LargePreview": "ExportedImages\\T-Icon-Daily-128.png"
     }
   },
   "Quest:v_fetch_quest_a7": {
@@ -67054,7 +67234,7 @@
         "Selectable": false
       }
     ],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/WeeklyQuest/StormKingHardmode/STW_StormKingHard_Weekly_006.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/WeeklyQuest/StormKingHardMode/STW_StormKingHard_Weekly_006.uasset",
     "ImagePaths": {
       "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Mission/T-Icon-Ride-128.T-Icon-Ride-128",
       "LargePreview": "ExportedImages\\T-Icon-Ride-128.png"
@@ -71968,7 +72148,7 @@
         "Selectable": false
       }
     ],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/WeeklyQuest/StormKingHardmode/STW_StormKingHard_Weekly_007.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/WeeklyQuest/StormKingHardMode/STW_StormKingHard_Weekly_007.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Mission/T-Icon-Elemental-Nature-128.T-Icon-Elemental-Nature-128",
       "LargePreview": "ExportedImages\\T-Icon-Elemental-Nature-128.png"
@@ -75076,7 +75256,7 @@
       }
     ],
     "Rewards": [],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Onboarding/HomebaseQuest_UnlockResearch.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/OnBoarding/HomebaseQuest_UnlockResearch.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Quest/T-Icon-Research-64.T-Icon-Research-64",
       "LargePreview": "ExportedImages\\T-Icon-Research-64.png"
@@ -81734,7 +81914,7 @@
         "Selectable": false
       }
     ],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Onboarding/HomebaseOnboarding.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/OnBoarding/HomebaseOnboarding.uasset",
     "ImagePaths": {
       "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Social/T-Icon-Quest-Journal-64.T-Icon-Quest-Journal-64",
       "LargePreview": "ExportedImages\\T-Icon-Quest-Journal-64.png"
@@ -81822,7 +82002,7 @@
       }
     ],
     "Rewards": [],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Onboarding/HomebaseQuest_SlotMissionDefender.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/OnBoarding/HomebaseQuest_SlotMissionDefender.uasset",
     "ImagePaths": {
       "SmallPreview": "/Game/UI/Foundation/Textures/Icons/ItemCategories/T-Icon-Defenders-128.T-Icon-Defenders-128",
       "LargePreview": "ExportedImages\\T-Icon-Defenders-128.png"
@@ -82618,7 +82798,7 @@
         "Selectable": false
       }
     ],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Events/Holdfast2019/SuperHeated/S11_HoldfastQuest_SuperHot_30.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Events/Holdfast2019/Superheated/S11_HoldfastQuest_SuperHot_30.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Mission/T-Icon-Elemental-Fire-128.T-Icon-Elemental-Fire-128",
       "LargePreview": "ExportedImages\\T-Icon-Elemental-Fire-128.png"
@@ -83194,7 +83374,7 @@
       }
     ],
     "Rewards": [],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Onboarding/HomebaseQuest_SlotFireTeamAlphaWorker.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/OnBoarding/HomebaseQuest_SlotFireTeamAlphaWorker.uasset",
     "ImagePaths": {
       "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Cards/SquadTypes/T-Icon-Firing-Range-128.T-Icon-Firing-Range-128",
       "LargePreview": "ExportedImages\\T-Icon-Firing-Range-128.png"
@@ -83785,7 +83965,7 @@
       }
     ],
     "Rewards": [],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Onboarding/HomebaseOnboardingAfterOutpost.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/OnBoarding/HomebaseOnboardingAfterOutpost.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Quest/T-Icon-StoreLlamaBG-64.T-Icon-StoreLlamaBG-64",
       "LargePreview": "ExportedImages\\T-Icon-StoreLlamaBG-64.png"
@@ -85906,7 +86086,7 @@
         "Selectable": false
       }
     ],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Events/Summer2019/Season10A_TimeSignatures/S10_Fetch_Quest_A3.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Events/Summer2019/Season10A_TimeSignatures/S10_Fetch_Quest_a3.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Consumable/Icon-Consumable-Buff-L.Icon-Consumable-Buff-L",
       "LargePreview": "ExportedImages\\Icon-Consumable-Buff-L.png"
@@ -86983,7 +87163,7 @@
         "Selectable": false
       }
     ],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/StormKingHardmode/STW_StormKingHard_KingMe.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/StormKingHardMode/STW_StormKingHard_KingMe.uasset",
     "ImagePaths": {
       "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Mission/T-Icon-Miniboss-128.T-Icon-Miniboss-128",
       "LargePreview": "ExportedImages\\T-Icon-Miniboss-128.png"
@@ -88824,7 +89004,7 @@
         "Selectable": false
       }
     ],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Events/Holdfast2019/SuperHeated/S11_HoldfastQuest_SuperHot_45.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Events/Holdfast2019/Superheated/S11_HoldfastQuest_SuperHot_45.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Mission/T-Icon-Elemental-Fire-128.T-Icon-Elemental-Fire-128",
       "LargePreview": "ExportedImages\\T-Icon-Elemental-Fire-128.png"
@@ -89620,7 +89800,7 @@
         "Selectable": false
       }
     ],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/StormKingHardmode/STW_StormKingHard_FirstTakedown.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/StormKingHardMode/STW_StormKingHard_FirstTakedown.uasset",
     "ImagePaths": {
       "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Mission/T-Icon-Miniboss-128.T-Icon-Miniboss-128",
       "LargePreview": "ExportedImages\\T-Icon-Miniboss-128.png"
@@ -90302,7 +90482,7 @@
       }
     ],
     "Rewards": [],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Onboarding/HomebaseQuest_UnlockExpeditions.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/OnBoarding/HomebaseQuest_UnlockExpeditions.uasset",
     "ImagePaths": {
       "SmallPreview": "/Game/UI/Foundation/Textures/Icons/SkillTree/T-Icon-ST-Struck-64.T-Icon-ST-Struck-64",
       "LargePreview": "ExportedImages\\T-Icon-ST-Struck-64.png"
@@ -90957,6 +91137,36 @@
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Mission/T-Icon-EliminateAndCollect-128.T-Icon-EliminateAndCollect-128",
       "LargePreview": "ExportedImages\\T-Icon-EliminateAndCollect-128.png"
+    }
+  },
+  "Quest:stwstarterbundle24_01": {
+    "Type": "Quest",
+    "Name": "STWStarterBundle24_01",
+    "DisplayName": "Hexed \u0026 Haunted Challenge 1",
+    "Category": "StarterBundleQuests24",
+    "Description": "Eligible quests are located under the Daily Quests category of the Quest Log.",
+    "IsPermanent": true,
+    "Objectives": [
+      {
+        "BackendName": "STWStarterBundle24_01_obj0",
+        "Count": 1,
+        "Description": "Complete a Daily Quest",
+        "HudShortDescription": "Daily Quest completed"
+      }
+    ],
+    "Rarity": "Legendary",
+    "Rewards": [
+      {
+        "Hidden": false,
+        "Item": "Currency:mtxgiveaway",
+        "Quantity": 100,
+        "Selectable": false
+      }
+    ],
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Rewards/StarterBundles/STWStarterBundle24_01.uasset",
+    "ImagePaths": {
+      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Quest/T-Icon-Daily-128.T-Icon-Daily-128",
+      "LargePreview": "ExportedImages\\T-Icon-Daily-128.png"
     }
   },
   "Quest:starlightquest_daily_complete_d5science": {

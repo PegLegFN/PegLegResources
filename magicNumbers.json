@@ -1,11 +1,6 @@
 {
   "comment": "This file is for any data that Epic doesnt provide in the game files, or that are to inconvenient to extract from the game files",
   "stwXPResetDay": 2,
-  "stwXPResetHour": 15,
-  "creativeXPResetDay": 4,
-  "creativeXPResetHour": 14,
-  "playtimeXPResetDay": 6,
-  "playtimeXPResetHour": 14,
-  "playtimeXPLimit": 4000000,
-  "creativeXPLimit": 4000000
+  "playtimeXPResetDay": 4,
+  "playtimeXPLimit": 4000000
 }

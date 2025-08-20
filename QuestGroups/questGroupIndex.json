@@ -3,6 +3,10 @@
     "displayName": "Questlines",
     "autoPopulateQuestlines": true
   },
+  "tutorialQuests":{
+    "displayName": "Tutorial",
+    "content":"tutorialQuests.json"
+  },
   "dailyQuests":{
     "displayName": "Daily Quests",
     "timer": "Daily",

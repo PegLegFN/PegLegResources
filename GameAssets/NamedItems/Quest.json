@@ -19501,6 +19501,48 @@
       "LargePreview": "ExportedImages\\T-Icon-Safe-128.png"
     }
   },
+  "Quest:cannyvalleyquest_filler_7_d1": {
+    "Type": "Quest",
+    "Name": "CannyValleyQuest_Filler_7_D1",
+    "DisplayName": "Better Safe Than Sorry",
+    "Category": "SideQuests",
+    "Description": "Commander, continue to fight the good fight! Save the world by completing more missions.",
+    "IsPermanent": true,
+    "Objectives": [
+      {
+        "BackendName": "complete_launchballoon_3_diff1",
+        "Count": 3,
+        "Description": "Complete 3 Ride The Lightning, Fight Category 2 Storm, or Repair the Shelter missions in a 46\u002B zone",
+        "HudShortDescription": "",
+        "ZonePowerLevel": 46
+      }
+    ],
+    "Rewards": [
+      {
+        "Hidden": false,
+        "Item": "AccountResource:reagent_alteration_generic",
+        "Quantity": 200,
+        "Selectable": false
+      },
+      {
+        "Hidden": false,
+        "Item": "AccountResource:schematicxp",
+        "Quantity": 4000,
+        "Selectable": false
+      },
+      {
+        "Hidden": true,
+        "Item": "Quest:cannyvalleyquest_filler_8_d1",
+        "Quantity": 1,
+        "Selectable": false
+      }
+    ],
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/CannyValley/CannyValleyQuest_Filler_7_D1.uasset",
+    "ImagePaths": {
+      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Social/T-Icon-Quest-Journal-64.T-Icon-Quest-Journal-64",
+      "LargePreview": "ExportedImages\\T-Icon-Quest-Journal-64.png"
+    }
+  },
   "Quest:summerquest_2019_complete_all": {
     "Type": "Quest",
     "Name": "SummerQuest_2019_Complete_All",
@@ -19606,48 +19648,6 @@
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Mission/T-Icon-Unknown-128.T-Icon-Unknown-128",
       "LargePreview": "ExportedImages\\T-Icon-Unknown-128.png"
-    }
-  },
-  "Quest:cannyvalleyquest_filler_7_d1": {
-    "Type": "Quest",
-    "Name": "CannyValleyQuest_Filler_7_D1",
-    "DisplayName": "Better Safe Than Sorry",
-    "Category": "SideQuests",
-    "Description": "Commander, continue to fight the good fight! Save the world by completing more missions.",
-    "IsPermanent": true,
-    "Objectives": [
-      {
-        "BackendName": "complete_launchballoon_3_diff1",
-        "Count": 3,
-        "Description": "Complete 3 Ride The Lightning, Fight Category 2 Storm, or Repair the Shelter missions in a 46\u002B zone",
-        "HudShortDescription": "",
-        "ZonePowerLevel": 46
-      }
-    ],
-    "Rewards": [
-      {
-        "Hidden": false,
-        "Item": "AccountResource:reagent_alteration_generic",
-        "Quantity": 200,
-        "Selectable": false
-      },
-      {
-        "Hidden": false,
-        "Item": "AccountResource:schematicxp",
-        "Quantity": 4000,
-        "Selectable": false
-      },
-      {
-        "Hidden": true,
-        "Item": "Quest:cannyvalleyquest_filler_8_d1",
-        "Quantity": 1,
-        "Selectable": false
-      }
-    ],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/CannyValley/CannyValleyQuest_Filler_7_D1.uasset",
-    "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Social/T-Icon-Quest-Journal-64.T-Icon-Quest-Journal-64",
-      "LargePreview": "ExportedImages\\T-Icon-Quest-Journal-64.png"
     }
   },
   "Quest:challenge_eldritchabominations_14": {

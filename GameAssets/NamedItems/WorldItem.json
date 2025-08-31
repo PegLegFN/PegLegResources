@@ -1,17 +1,4 @@
 {
-  "WorldItem:survivoritemdata": {
-    "Type": "WorldItem",
-    "Name": "SurvivorItemData",
-    "DisplayName": "Survivor",
-    "Description": "A human being worth saving",
-    "IsPermanent": true,
-    "Rarity": "Mythic",
-    "AssetPath": "FortniteGame/Content/Items/ResourcePickups/SurvivorItemData.uasset",
-    "ImagePaths": {
-      "SmallPreview": "/Game/UI/Icons/Icon-Worker/Icon-Worker-L.Icon-Worker-L",
-      "LargePreview": "ExportedImages\\Icon-Worker-L.png"
-    }
-  },
   "WorldItem:golditemdata": {
     "Type": "WorldItem",
     "Name": "GoldItemData",
@@ -23,19 +10,6 @@
     "ImagePaths": {
       "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T-Icon-S-Loot-GoldCurrency.T-Icon-S-Loot-GoldCurrency",
       "LargePreview": "ExportedImages\\T-Icon-S-Loot-GoldCurrency-L.png"
-    }
-  },
-  "WorldItem:wooditemdata": {
-    "Type": "WorldItem",
-    "Name": "WoodItemData",
-    "DisplayName": "Wood",
-    "Description": "Basic resource found throughout the world.",
-    "IsPermanent": true,
-    "Rarity": "Common",
-    "AssetPath": "FortniteGame/Content/Items/ResourcePickups/WoodItemData.uasset",
-    "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T-Icon-Logs.T-Icon-Logs",
-      "LargePreview": "ExportedImages\\T-Icon-Logs-L.png"
     }
   },
   "WorldItem:metalitemdata": {
@@ -74,6 +48,32 @@
     "ImagePaths": {
       "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T-Icon-S-Loot-Stone.T-Icon-S-Loot-Stone",
       "LargePreview": "ExportedImages\\T-Icon-S-Loot-Stone-L.png"
+    }
+  },
+  "WorldItem:survivoritemdata": {
+    "Type": "WorldItem",
+    "Name": "SurvivorItemData",
+    "DisplayName": "Survivor",
+    "Description": "A human being worth saving",
+    "IsPermanent": true,
+    "Rarity": "Mythic",
+    "AssetPath": "FortniteGame/Content/Items/ResourcePickups/SurvivorItemData.uasset",
+    "ImagePaths": {
+      "SmallPreview": "/Game/UI/Icons/Icon-Worker/Icon-Worker-L.Icon-Worker-L",
+      "LargePreview": "ExportedImages\\Icon-Worker-L.png"
+    }
+  },
+  "WorldItem:wooditemdata": {
+    "Type": "WorldItem",
+    "Name": "WoodItemData",
+    "DisplayName": "Wood",
+    "Description": "Basic resource found throughout the world.",
+    "IsPermanent": true,
+    "Rarity": "Common",
+    "AssetPath": "FortniteGame/Content/Items/ResourcePickups/WoodItemData.uasset",
+    "ImagePaths": {
+      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T-Icon-Logs.T-Icon-Logs",
+      "LargePreview": "ExportedImages\\T-Icon-Logs-L.png"
     }
   }
 }

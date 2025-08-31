@@ -1,11 +1,4 @@
 {
-  "PersonalVehicle:vid_hoverboard_v2": {
-    "Type": "PersonalVehicle",
-    "Name": "VID_Hoverboard_V2",
-    "DisplayName": "\u003CVID_Hoverboard_V2\u003E",
-    "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/HoverboardV2/Content/Vehicle/VID_Hoverboard_V2.uasset"
-  },
   "PersonalVehicle:vid_hoverboard": {
     "Type": "PersonalVehicle",
     "Name": "VID_Hoverboard",
@@ -13,10 +6,17 @@
     "Description": "Explore the zone without depleting energy on your prototype Hoverboard. ",
     "IsPermanent": true,
     "Rarity": "Rare",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/HoverBoard/VID_Hoverboard.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Hoverboard/VID_Hoverboard.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Skydiving/T-Icon_Traveling-S-HoverBoard.T-Icon_Traveling-S-HoverBoard",
       "LargePreview": "ExportedImages\\T-Icon_Traveling-S-HoverBoard-L.png"
     }
+  },
+  "PersonalVehicle:vid_hoverboard_v2": {
+    "Type": "PersonalVehicle",
+    "Name": "VID_Hoverboard_V2",
+    "DisplayName": "\u003CVID_Hoverboard_V2\u003E",
+    "IsPermanent": true,
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/HoverboardV2/Content/Vehicle/VID_Hoverboard_V2.uasset"
   }
 }

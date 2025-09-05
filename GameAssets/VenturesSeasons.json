@@ -3191,732 +3191,6 @@
     "Levels": [
       {
         "IsMajorReward": false,
-        "Rewards": [
-          {
-            "Hidden": false,
-            "Item": "AccountResource:reagent_c_t02",
-            "Quantity": 90,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:fortitude_phoenix",
-            "Quantity": 48,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:fortitude_team_phoenix",
-            "Quantity": 21,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:offense_phoenix",
-            "Quantity": 48,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:offense_team_phoenix",
-            "Quantity": 21,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:resistance_phoenix",
-            "Quantity": 48,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:resistance_team_phoenix",
-            "Quantity": 21,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:technology_phoenix",
-            "Quantity": 48,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:technology_team_phoenix",
-            "Quantity": 21,
-            "Selectable": false
-          }
-        ],
-        "TotalRequiredXP": 1028275
-      },
-      {
-        "IsMajorReward": true,
-        "Rewards": [
-          {
-            "Hidden": false,
-            "Item": "AccountResource:reagent_promotion_weapons",
-            "Quantity": 1,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:fortitude_phoenix",
-            "Quantity": 71,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:fortitude_team_phoenix",
-            "Quantity": 26,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:offense_phoenix",
-            "Quantity": 71,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:offense_team_phoenix",
-            "Quantity": 26,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:resistance_phoenix",
-            "Quantity": 71,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:resistance_team_phoenix",
-            "Quantity": 26,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:technology_phoenix",
-            "Quantity": 71,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:technology_team_phoenix",
-            "Quantity": 26,
-            "Selectable": false
-          }
-        ],
-        "TotalRequiredXP": 1091375
-      },
-      {
-        "IsMajorReward": false,
-        "Rewards": [
-          {
-            "Hidden": false,
-            "Item": "AccountResource:reagent_c_t03",
-            "Quantity": 60,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:fortitude_phoenix",
-            "Quantity": 83,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:fortitude_team_phoenix",
-            "Quantity": 14,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:offense_phoenix",
-            "Quantity": 83,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:offense_team_phoenix",
-            "Quantity": 14,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:resistance_phoenix",
-            "Quantity": 83,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:resistance_team_phoenix",
-            "Quantity": 14,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:technology_phoenix",
-            "Quantity": 83,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:technology_team_phoenix",
-            "Quantity": 14,
-            "Selectable": false
-          }
-        ],
-        "TotalRequiredXP": 1156875
-      },
-      {
-        "IsMajorReward": true,
-        "Rewards": [
-          {
-            "Hidden": false,
-            "Item": "AccountResource:reagent_promotion_survivors",
-            "Quantity": 4,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:fortitude_phoenix",
-            "Quantity": 78,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:fortitude_team_phoenix",
-            "Quantity": 16,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:offense_phoenix",
-            "Quantity": 78,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:offense_team_phoenix",
-            "Quantity": 16,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:resistance_phoenix",
-            "Quantity": 78,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:resistance_team_phoenix",
-            "Quantity": 16,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:technology_phoenix",
-            "Quantity": 78,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:technology_team_phoenix",
-            "Quantity": 16,
-            "Selectable": false
-          }
-        ],
-        "TotalRequiredXP": 1227575
-      },
-      {
-        "IsMajorReward": false,
-        "Rewards": [
-          {
-            "Hidden": false,
-            "Item": "AccountResource:reagent_c_t04",
-            "Quantity": 30,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "HomebaseNode:questreward_evolution4",
-            "Quantity": 1,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:fortitude_phoenix",
-            "Quantity": 75,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:fortitude_team_phoenix",
-            "Quantity": 28,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:offense_phoenix",
-            "Quantity": 75,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:offense_team_phoenix",
-            "Quantity": 28,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:resistance_phoenix",
-            "Quantity": 75,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:resistance_team_phoenix",
-            "Quantity": 28,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:technology_phoenix",
-            "Quantity": 75,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:technology_team_phoenix",
-            "Quantity": 28,
-            "Selectable": false
-          }
-        ],
-        "TotalRequiredXP": 1301150
-      },
-      {
-        "IsMajorReward": true,
-        "Rewards": [
-          {
-            "Hidden": false,
-            "Item": "AccountResource:reagent_promotion_heroes",
-            "Quantity": 1,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:fortitude_phoenix",
-            "Quantity": 74,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:fortitude_team_phoenix",
-            "Quantity": 26,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:offense_phoenix",
-            "Quantity": 74,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:offense_team_phoenix",
-            "Quantity": 26,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:resistance_phoenix",
-            "Quantity": 74,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:resistance_team_phoenix",
-            "Quantity": 26,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:technology_phoenix",
-            "Quantity": 74,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:technology_team_phoenix",
-            "Quantity": 26,
-            "Selectable": false
-          }
-        ],
-        "TotalRequiredXP": 1377550
-      },
-      {
-        "IsMajorReward": false,
-        "Rewards": [
-          {
-            "Hidden": false,
-            "Item": "AccountResource:reagent_alteration_generic",
-            "Quantity": 1200,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:fortitude_phoenix",
-            "Quantity": 55,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:fortitude_team_phoenix",
-            "Quantity": 8,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:offense_phoenix",
-            "Quantity": 55,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:offense_team_phoenix",
-            "Quantity": 8,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:resistance_phoenix",
-            "Quantity": 55,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:resistance_team_phoenix",
-            "Quantity": 8,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:technology_phoenix",
-            "Quantity": 55,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:technology_team_phoenix",
-            "Quantity": 8,
-            "Selectable": false
-          }
-        ],
-        "TotalRequiredXP": 1456775
-      },
-      {
-        "IsMajorReward": true,
-        "Rewards": [
-          {
-            "Hidden": false,
-            "Item": "AccountResource:reagent_promotion_survivors",
-            "Quantity": 5,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:fortitude_phoenix",
-            "Quantity": 52,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:fortitude_team_phoenix",
-            "Quantity": 10,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:offense_phoenix",
-            "Quantity": 52,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:offense_team_phoenix",
-            "Quantity": 10,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:resistance_phoenix",
-            "Quantity": 52,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:resistance_team_phoenix",
-            "Quantity": 10,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:technology_phoenix",
-            "Quantity": 52,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:technology_team_phoenix",
-            "Quantity": 10,
-            "Selectable": false
-          }
-        ],
-        "TotalRequiredXP": 1542350
-      },
-      {
-        "IsMajorReward": false,
-        "Rewards": [
-          {
-            "Hidden": false,
-            "Item": "AccountResource:reagent_alteration_upgrade_sr",
-            "Quantity": 600,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:fortitude_phoenix",
-            "Quantity": 44,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:fortitude_team_phoenix",
-            "Quantity": 19,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:offense_phoenix",
-            "Quantity": 44,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:offense_team_phoenix",
-            "Quantity": 19,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:resistance_phoenix",
-            "Quantity": 44,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:resistance_team_phoenix",
-            "Quantity": 19,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:technology_phoenix",
-            "Quantity": 44,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:technology_team_phoenix",
-            "Quantity": 19,
-            "Selectable": false
-          }
-        ],
-        "TotalRequiredXP": 1631400
-      },
-      {
-        "IsMajorReward": true,
-        "Rewards": [
-          {
-            "Hidden": false,
-            "Item": "AccountResource:reagent_promotion_traps",
-            "Quantity": 1,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:fortitude_phoenix",
-            "Quantity": 67,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:fortitude_team_phoenix",
-            "Quantity": 25,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:offense_phoenix",
-            "Quantity": 67,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:offense_team_phoenix",
-            "Quantity": 25,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:resistance_phoenix",
-            "Quantity": 67,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:resistance_team_phoenix",
-            "Quantity": 25,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:technology_phoenix",
-            "Quantity": 67,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:technology_team_phoenix",
-            "Quantity": 25,
-            "Selectable": false
-          }
-        ],
-        "TotalRequiredXP": 1723950
-      },
-      {
-        "IsMajorReward": true,
-        "Rewards": [
-          {
-            "Hidden": false,
-            "Item": "AccountResource:reagent_promotion_heroes",
-            "Quantity": 1,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:fortitude_phoenix",
-            "Quantity": 64,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:fortitude_team_phoenix",
-            "Quantity": 12,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:offense_phoenix",
-            "Quantity": 64,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:offense_team_phoenix",
-            "Quantity": 12,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:resistance_phoenix",
-            "Quantity": 64,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:resistance_team_phoenix",
-            "Quantity": 12,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:technology_phoenix",
-            "Quantity": 64,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:technology_team_phoenix",
-            "Quantity": 12,
-            "Selectable": false
-          }
-        ],
-        "TotalRequiredXP": 1819950
-      },
-      {
-        "IsMajorReward": true,
-        "Rewards": [
-          {
-            "Hidden": false,
-            "Item": "AccountResource:reagent_promotion_weapons",
-            "Quantity": 1,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:fortitude_phoenix",
-            "Quantity": 119,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:fortitude_team_phoenix",
-            "Quantity": 44,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:offense_phoenix",
-            "Quantity": 119,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:offense_team_phoenix",
-            "Quantity": 44,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:resistance_phoenix",
-            "Quantity": 119,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:resistance_team_phoenix",
-            "Quantity": 44,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:technology_phoenix",
-            "Quantity": 119,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:technology_team_phoenix",
-            "Quantity": 44,
-            "Selectable": false
-          }
-        ],
-        "TotalRequiredXP": 1919450
-      },
-      {
-        "IsMajorReward": false,
         "Rewards": [],
         "TotalRequiredXP": 0
       },
@@ -6307,6 +5581,732 @@
           }
         ],
         "TotalRequiredXP": 967550
+      },
+      {
+        "IsMajorReward": false,
+        "Rewards": [
+          {
+            "Hidden": false,
+            "Item": "AccountResource:reagent_c_t02",
+            "Quantity": 90,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:fortitude_phoenix",
+            "Quantity": 48,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:fortitude_team_phoenix",
+            "Quantity": 21,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:offense_phoenix",
+            "Quantity": 48,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:offense_team_phoenix",
+            "Quantity": 21,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:resistance_phoenix",
+            "Quantity": 48,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:resistance_team_phoenix",
+            "Quantity": 21,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:technology_phoenix",
+            "Quantity": 48,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:technology_team_phoenix",
+            "Quantity": 21,
+            "Selectable": false
+          }
+        ],
+        "TotalRequiredXP": 1028275
+      },
+      {
+        "IsMajorReward": true,
+        "Rewards": [
+          {
+            "Hidden": false,
+            "Item": "AccountResource:reagent_promotion_weapons",
+            "Quantity": 1,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:fortitude_phoenix",
+            "Quantity": 71,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:fortitude_team_phoenix",
+            "Quantity": 26,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:offense_phoenix",
+            "Quantity": 71,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:offense_team_phoenix",
+            "Quantity": 26,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:resistance_phoenix",
+            "Quantity": 71,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:resistance_team_phoenix",
+            "Quantity": 26,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:technology_phoenix",
+            "Quantity": 71,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:technology_team_phoenix",
+            "Quantity": 26,
+            "Selectable": false
+          }
+        ],
+        "TotalRequiredXP": 1091375
+      },
+      {
+        "IsMajorReward": false,
+        "Rewards": [
+          {
+            "Hidden": false,
+            "Item": "AccountResource:reagent_c_t03",
+            "Quantity": 60,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:fortitude_phoenix",
+            "Quantity": 83,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:fortitude_team_phoenix",
+            "Quantity": 14,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:offense_phoenix",
+            "Quantity": 83,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:offense_team_phoenix",
+            "Quantity": 14,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:resistance_phoenix",
+            "Quantity": 83,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:resistance_team_phoenix",
+            "Quantity": 14,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:technology_phoenix",
+            "Quantity": 83,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:technology_team_phoenix",
+            "Quantity": 14,
+            "Selectable": false
+          }
+        ],
+        "TotalRequiredXP": 1156875
+      },
+      {
+        "IsMajorReward": true,
+        "Rewards": [
+          {
+            "Hidden": false,
+            "Item": "AccountResource:reagent_promotion_survivors",
+            "Quantity": 4,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:fortitude_phoenix",
+            "Quantity": 78,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:fortitude_team_phoenix",
+            "Quantity": 16,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:offense_phoenix",
+            "Quantity": 78,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:offense_team_phoenix",
+            "Quantity": 16,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:resistance_phoenix",
+            "Quantity": 78,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:resistance_team_phoenix",
+            "Quantity": 16,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:technology_phoenix",
+            "Quantity": 78,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:technology_team_phoenix",
+            "Quantity": 16,
+            "Selectable": false
+          }
+        ],
+        "TotalRequiredXP": 1227575
+      },
+      {
+        "IsMajorReward": false,
+        "Rewards": [
+          {
+            "Hidden": false,
+            "Item": "AccountResource:reagent_c_t04",
+            "Quantity": 30,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "HomebaseNode:questreward_evolution4",
+            "Quantity": 1,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:fortitude_phoenix",
+            "Quantity": 75,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:fortitude_team_phoenix",
+            "Quantity": 28,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:offense_phoenix",
+            "Quantity": 75,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:offense_team_phoenix",
+            "Quantity": 28,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:resistance_phoenix",
+            "Quantity": 75,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:resistance_team_phoenix",
+            "Quantity": 28,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:technology_phoenix",
+            "Quantity": 75,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:technology_team_phoenix",
+            "Quantity": 28,
+            "Selectable": false
+          }
+        ],
+        "TotalRequiredXP": 1301150
+      },
+      {
+        "IsMajorReward": true,
+        "Rewards": [
+          {
+            "Hidden": false,
+            "Item": "AccountResource:reagent_promotion_heroes",
+            "Quantity": 1,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:fortitude_phoenix",
+            "Quantity": 74,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:fortitude_team_phoenix",
+            "Quantity": 26,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:offense_phoenix",
+            "Quantity": 74,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:offense_team_phoenix",
+            "Quantity": 26,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:resistance_phoenix",
+            "Quantity": 74,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:resistance_team_phoenix",
+            "Quantity": 26,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:technology_phoenix",
+            "Quantity": 74,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:technology_team_phoenix",
+            "Quantity": 26,
+            "Selectable": false
+          }
+        ],
+        "TotalRequiredXP": 1377550
+      },
+      {
+        "IsMajorReward": false,
+        "Rewards": [
+          {
+            "Hidden": false,
+            "Item": "AccountResource:reagent_alteration_generic",
+            "Quantity": 1200,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:fortitude_phoenix",
+            "Quantity": 55,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:fortitude_team_phoenix",
+            "Quantity": 8,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:offense_phoenix",
+            "Quantity": 55,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:offense_team_phoenix",
+            "Quantity": 8,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:resistance_phoenix",
+            "Quantity": 55,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:resistance_team_phoenix",
+            "Quantity": 8,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:technology_phoenix",
+            "Quantity": 55,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:technology_team_phoenix",
+            "Quantity": 8,
+            "Selectable": false
+          }
+        ],
+        "TotalRequiredXP": 1456775
+      },
+      {
+        "IsMajorReward": true,
+        "Rewards": [
+          {
+            "Hidden": false,
+            "Item": "AccountResource:reagent_promotion_survivors",
+            "Quantity": 5,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:fortitude_phoenix",
+            "Quantity": 52,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:fortitude_team_phoenix",
+            "Quantity": 10,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:offense_phoenix",
+            "Quantity": 52,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:offense_team_phoenix",
+            "Quantity": 10,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:resistance_phoenix",
+            "Quantity": 52,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:resistance_team_phoenix",
+            "Quantity": 10,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:technology_phoenix",
+            "Quantity": 52,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:technology_team_phoenix",
+            "Quantity": 10,
+            "Selectable": false
+          }
+        ],
+        "TotalRequiredXP": 1542350
+      },
+      {
+        "IsMajorReward": false,
+        "Rewards": [
+          {
+            "Hidden": false,
+            "Item": "AccountResource:reagent_alteration_upgrade_sr",
+            "Quantity": 600,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:fortitude_phoenix",
+            "Quantity": 44,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:fortitude_team_phoenix",
+            "Quantity": 19,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:offense_phoenix",
+            "Quantity": 44,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:offense_team_phoenix",
+            "Quantity": 19,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:resistance_phoenix",
+            "Quantity": 44,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:resistance_team_phoenix",
+            "Quantity": 19,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:technology_phoenix",
+            "Quantity": 44,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:technology_team_phoenix",
+            "Quantity": 19,
+            "Selectable": false
+          }
+        ],
+        "TotalRequiredXP": 1631400
+      },
+      {
+        "IsMajorReward": true,
+        "Rewards": [
+          {
+            "Hidden": false,
+            "Item": "AccountResource:reagent_promotion_traps",
+            "Quantity": 1,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:fortitude_phoenix",
+            "Quantity": 67,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:fortitude_team_phoenix",
+            "Quantity": 25,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:offense_phoenix",
+            "Quantity": 67,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:offense_team_phoenix",
+            "Quantity": 25,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:resistance_phoenix",
+            "Quantity": 67,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:resistance_team_phoenix",
+            "Quantity": 25,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:technology_phoenix",
+            "Quantity": 67,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:technology_team_phoenix",
+            "Quantity": 25,
+            "Selectable": false
+          }
+        ],
+        "TotalRequiredXP": 1723950
+      },
+      {
+        "IsMajorReward": true,
+        "Rewards": [
+          {
+            "Hidden": false,
+            "Item": "AccountResource:reagent_promotion_heroes",
+            "Quantity": 1,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:fortitude_phoenix",
+            "Quantity": 64,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:fortitude_team_phoenix",
+            "Quantity": 12,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:offense_phoenix",
+            "Quantity": 64,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:offense_team_phoenix",
+            "Quantity": 12,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:resistance_phoenix",
+            "Quantity": 64,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:resistance_team_phoenix",
+            "Quantity": 12,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:technology_phoenix",
+            "Quantity": 64,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:technology_team_phoenix",
+            "Quantity": 12,
+            "Selectable": false
+          }
+        ],
+        "TotalRequiredXP": 1819950
+      },
+      {
+        "IsMajorReward": true,
+        "Rewards": [
+          {
+            "Hidden": false,
+            "Item": "AccountResource:reagent_promotion_weapons",
+            "Quantity": 1,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:fortitude_phoenix",
+            "Quantity": 119,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:fortitude_team_phoenix",
+            "Quantity": 44,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:offense_phoenix",
+            "Quantity": 119,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:offense_team_phoenix",
+            "Quantity": 44,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:resistance_phoenix",
+            "Quantity": 119,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:resistance_team_phoenix",
+            "Quantity": 44,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:technology_phoenix",
+            "Quantity": 119,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:technology_team_phoenix",
+            "Quantity": 44,
+            "Selectable": false
+          }
+        ],
+        "TotalRequiredXP": 1919450
       }
     ],
     "PastLevelXPRequirement": 160000,
@@ -6377,1404 +6377,6 @@
     "EventTag": "EventFlag.Phoenix.NewBeginnings",
     "Levels": [
       {
-        "IsMajorReward": true,
-        "Rewards": [
-          {
-            "Hidden": false,
-            "Item": "AccountResource:reagent_promotion_traps",
-            "Quantity": 1,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:fortitude_phoenix",
-            "Quantity": 51,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:fortitude_team_phoenix",
-            "Quantity": 25,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:offense_phoenix",
-            "Quantity": 51,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:offense_team_phoenix",
-            "Quantity": 25,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:resistance_phoenix",
-            "Quantity": 51,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:resistance_team_phoenix",
-            "Quantity": 25,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:technology_phoenix",
-            "Quantity": 51,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:technology_team_phoenix",
-            "Quantity": 25,
-            "Selectable": false
-          }
-        ],
-        "TotalRequiredXP": 499475
-      },
-      {
-        "IsMajorReward": false,
-        "Rewards": [
-          {
-            "Hidden": false,
-            "Item": "AccountResource:reagent_c_t02",
-            "Quantity": 60,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:fortitude_phoenix",
-            "Quantity": 50,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:fortitude_team_phoenix",
-            "Quantity": 8,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:offense_phoenix",
-            "Quantity": 50,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:offense_team_phoenix",
-            "Quantity": 8,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:resistance_phoenix",
-            "Quantity": 50,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:resistance_team_phoenix",
-            "Quantity": 8,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:technology_phoenix",
-            "Quantity": 50,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:technology_team_phoenix",
-            "Quantity": 8,
-            "Selectable": false
-          }
-        ],
-        "TotalRequiredXP": 536275
-      },
-      {
-        "IsMajorReward": false,
-        "Rewards": [
-          {
-            "Hidden": false,
-            "Item": "AccountResource:eventcurrency_scaling",
-            "Quantity": 500,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:fortitude_phoenix",
-            "Quantity": 105,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:fortitude_team_phoenix",
-            "Quantity": 33,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:offense_phoenix",
-            "Quantity": 105,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:offense_team_phoenix",
-            "Quantity": 33,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:resistance_phoenix",
-            "Quantity": 105,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:resistance_team_phoenix",
-            "Quantity": 33,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:technology_phoenix",
-            "Quantity": 105,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:technology_team_phoenix",
-            "Quantity": 33,
-            "Selectable": false
-          }
-        ],
-        "TotalRequiredXP": 576000
-      },
-      {
-        "IsMajorReward": true,
-        "Rewards": [
-          {
-            "Hidden": false,
-            "Item": "AccountResource:reagent_promotion_survivors",
-            "Quantity": 2,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:fortitude_phoenix",
-            "Quantity": 102,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:fortitude_team_phoenix",
-            "Quantity": 36,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:offense_phoenix",
-            "Quantity": 102,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:offense_team_phoenix",
-            "Quantity": 36,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:resistance_phoenix",
-            "Quantity": 102,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:resistance_team_phoenix",
-            "Quantity": 36,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:technology_phoenix",
-            "Quantity": 102,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:technology_team_phoenix",
-            "Quantity": 36,
-            "Selectable": false
-          }
-        ],
-        "TotalRequiredXP": 617350
-      },
-      {
-        "IsMajorReward": false,
-        "Rewards": [
-          {
-            "Hidden": false,
-            "Item": "AccountResource:reagent_c_t03",
-            "Quantity": 40,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "HomebaseNode:questreward_buildingresourcecap3",
-            "Quantity": 1,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:fortitude_phoenix",
-            "Quantity": 99,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:fortitude_team_phoenix",
-            "Quantity": 7,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:offense_phoenix",
-            "Quantity": 99,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:offense_team_phoenix",
-            "Quantity": 7,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:resistance_phoenix",
-            "Quantity": 99,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:resistance_team_phoenix",
-            "Quantity": 7,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:technology_phoenix",
-            "Quantity": 99,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:technology_team_phoenix",
-            "Quantity": 7,
-            "Selectable": false
-          }
-        ],
-        "TotalRequiredXP": 660300
-      },
-      {
-        "IsMajorReward": false,
-        "Rewards": [
-          {
-            "Hidden": false,
-            "Item": "AccountResource:reagent_alteration_upgrade_sr",
-            "Quantity": 450,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "HomebaseNode:questreward_evolution3",
-            "Quantity": 1,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:fortitude_phoenix",
-            "Quantity": 95,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:fortitude_team_phoenix",
-            "Quantity": 35,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:offense_phoenix",
-            "Quantity": 95,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:offense_team_phoenix",
-            "Quantity": 35,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:resistance_phoenix",
-            "Quantity": 95,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:resistance_team_phoenix",
-            "Quantity": 35,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:technology_phoenix",
-            "Quantity": 95,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:technology_team_phoenix",
-            "Quantity": 35,
-            "Selectable": false
-          }
-        ],
-        "TotalRequiredXP": 704875
-      },
-      {
-        "IsMajorReward": true,
-        "Rewards": [
-          {
-            "Hidden": false,
-            "Item": "AccountResource:reagent_promotion_heroes",
-            "Quantity": 1,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:fortitude_phoenix",
-            "Quantity": 107,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:fortitude_team_phoenix",
-            "Quantity": 37,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:offense_phoenix",
-            "Quantity": 107,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:offense_team_phoenix",
-            "Quantity": 37,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:resistance_phoenix",
-            "Quantity": 107,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:resistance_team_phoenix",
-            "Quantity": 37,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:technology_phoenix",
-            "Quantity": 107,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:technology_team_phoenix",
-            "Quantity": 37,
-            "Selectable": false
-          }
-        ],
-        "TotalRequiredXP": 753025
-      },
-      {
-        "IsMajorReward": false,
-        "Rewards": [
-          {
-            "Hidden": false,
-            "Item": "AccountResource:eventcurrency_scaling",
-            "Quantity": 500,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:fortitude_phoenix",
-            "Quantity": 50,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:fortitude_team_phoenix",
-            "Quantity": 14,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:offense_phoenix",
-            "Quantity": 50,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:offense_team_phoenix",
-            "Quantity": 14,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:resistance_phoenix",
-            "Quantity": 50,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:resistance_team_phoenix",
-            "Quantity": 14,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:technology_phoenix",
-            "Quantity": 50,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:technology_team_phoenix",
-            "Quantity": 14,
-            "Selectable": false
-          }
-        ],
-        "TotalRequiredXP": 803125
-      },
-      {
-        "IsMajorReward": false,
-        "Rewards": [
-          {
-            "Hidden": false,
-            "Item": "AccountResource:reagent_c_t01",
-            "Quantity": 130,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:fortitude_phoenix",
-            "Quantity": 44,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:fortitude_team_phoenix",
-            "Quantity": 29,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:offense_phoenix",
-            "Quantity": 44,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:offense_team_phoenix",
-            "Quantity": 29,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:resistance_phoenix",
-            "Quantity": 44,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:resistance_team_phoenix",
-            "Quantity": 29,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:technology_phoenix",
-            "Quantity": 44,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:technology_team_phoenix",
-            "Quantity": 29,
-            "Selectable": false
-          }
-        ],
-        "TotalRequiredXP": 855175
-      },
-      {
-        "IsMajorReward": true,
-        "Rewards": [
-          {
-            "Hidden": false,
-            "Item": "AccountResource:reagent_promotion_survivors",
-            "Quantity": 3,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:fortitude_phoenix",
-            "Quantity": 56,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:fortitude_team_phoenix",
-            "Quantity": 5,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:offense_phoenix",
-            "Quantity": 56,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:offense_team_phoenix",
-            "Quantity": 5,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:resistance_phoenix",
-            "Quantity": 56,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:resistance_team_phoenix",
-            "Quantity": 5,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:technology_phoenix",
-            "Quantity": 56,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:technology_team_phoenix",
-            "Quantity": 5,
-            "Selectable": false
-          }
-        ],
-        "TotalRequiredXP": 909200
-      },
-      {
-        "IsMajorReward": false,
-        "Rewards": [
-          {
-            "Hidden": false,
-            "Item": "AccountResource:reagent_alteration_generic",
-            "Quantity": 600,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:fortitude_phoenix",
-            "Quantity": 61,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:fortitude_team_phoenix",
-            "Quantity": 13,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:offense_phoenix",
-            "Quantity": 61,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:offense_team_phoenix",
-            "Quantity": 13,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:resistance_phoenix",
-            "Quantity": 61,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:resistance_team_phoenix",
-            "Quantity": 13,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:technology_phoenix",
-            "Quantity": 61,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:technology_team_phoenix",
-            "Quantity": 13,
-            "Selectable": false
-          }
-        ],
-        "TotalRequiredXP": 967550
-      },
-      {
-        "IsMajorReward": false,
-        "Rewards": [
-          {
-            "Hidden": false,
-            "Item": "AccountResource:reagent_c_t02",
-            "Quantity": 90,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:fortitude_phoenix",
-            "Quantity": 48,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:fortitude_team_phoenix",
-            "Quantity": 21,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:offense_phoenix",
-            "Quantity": 48,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:offense_team_phoenix",
-            "Quantity": 21,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:resistance_phoenix",
-            "Quantity": 48,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:resistance_team_phoenix",
-            "Quantity": 21,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:technology_phoenix",
-            "Quantity": 48,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:technology_team_phoenix",
-            "Quantity": 21,
-            "Selectable": false
-          }
-        ],
-        "TotalRequiredXP": 1028275
-      },
-      {
-        "IsMajorReward": true,
-        "Rewards": [
-          {
-            "Hidden": false,
-            "Item": "AccountResource:reagent_promotion_weapons",
-            "Quantity": 1,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:fortitude_phoenix",
-            "Quantity": 71,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:fortitude_team_phoenix",
-            "Quantity": 26,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:offense_phoenix",
-            "Quantity": 71,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:offense_team_phoenix",
-            "Quantity": 26,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:resistance_phoenix",
-            "Quantity": 71,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:resistance_team_phoenix",
-            "Quantity": 26,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:technology_phoenix",
-            "Quantity": 71,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:technology_team_phoenix",
-            "Quantity": 26,
-            "Selectable": false
-          }
-        ],
-        "TotalRequiredXP": 1091375
-      },
-      {
-        "IsMajorReward": false,
-        "Rewards": [
-          {
-            "Hidden": false,
-            "Item": "AccountResource:reagent_c_t03",
-            "Quantity": 60,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:fortitude_phoenix",
-            "Quantity": 83,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:fortitude_team_phoenix",
-            "Quantity": 14,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:offense_phoenix",
-            "Quantity": 83,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:offense_team_phoenix",
-            "Quantity": 14,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:resistance_phoenix",
-            "Quantity": 83,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:resistance_team_phoenix",
-            "Quantity": 14,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:technology_phoenix",
-            "Quantity": 83,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:technology_team_phoenix",
-            "Quantity": 14,
-            "Selectable": false
-          }
-        ],
-        "TotalRequiredXP": 1156875
-      },
-      {
-        "IsMajorReward": true,
-        "Rewards": [
-          {
-            "Hidden": false,
-            "Item": "AccountResource:reagent_promotion_survivors",
-            "Quantity": 4,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:fortitude_phoenix",
-            "Quantity": 78,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:fortitude_team_phoenix",
-            "Quantity": 16,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:offense_phoenix",
-            "Quantity": 78,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:offense_team_phoenix",
-            "Quantity": 16,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:resistance_phoenix",
-            "Quantity": 78,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:resistance_team_phoenix",
-            "Quantity": 16,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:technology_phoenix",
-            "Quantity": 78,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:technology_team_phoenix",
-            "Quantity": 16,
-            "Selectable": false
-          }
-        ],
-        "TotalRequiredXP": 1227575
-      },
-      {
-        "IsMajorReward": false,
-        "Rewards": [
-          {
-            "Hidden": false,
-            "Item": "AccountResource:reagent_c_t04",
-            "Quantity": 30,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "HomebaseNode:questreward_evolution4",
-            "Quantity": 1,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:fortitude_phoenix",
-            "Quantity": 75,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:fortitude_team_phoenix",
-            "Quantity": 28,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:offense_phoenix",
-            "Quantity": 75,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:offense_team_phoenix",
-            "Quantity": 28,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:resistance_phoenix",
-            "Quantity": 75,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:resistance_team_phoenix",
-            "Quantity": 28,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:technology_phoenix",
-            "Quantity": 75,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:technology_team_phoenix",
-            "Quantity": 28,
-            "Selectable": false
-          }
-        ],
-        "TotalRequiredXP": 1301150
-      },
-      {
-        "IsMajorReward": true,
-        "Rewards": [
-          {
-            "Hidden": false,
-            "Item": "AccountResource:reagent_promotion_heroes",
-            "Quantity": 1,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:fortitude_phoenix",
-            "Quantity": 74,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:fortitude_team_phoenix",
-            "Quantity": 26,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:offense_phoenix",
-            "Quantity": 74,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:offense_team_phoenix",
-            "Quantity": 26,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:resistance_phoenix",
-            "Quantity": 74,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:resistance_team_phoenix",
-            "Quantity": 26,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:technology_phoenix",
-            "Quantity": 74,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:technology_team_phoenix",
-            "Quantity": 26,
-            "Selectable": false
-          }
-        ],
-        "TotalRequiredXP": 1377550
-      },
-      {
-        "IsMajorReward": false,
-        "Rewards": [
-          {
-            "Hidden": false,
-            "Item": "AccountResource:reagent_alteration_generic",
-            "Quantity": 1200,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:fortitude_phoenix",
-            "Quantity": 55,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:fortitude_team_phoenix",
-            "Quantity": 8,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:offense_phoenix",
-            "Quantity": 55,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:offense_team_phoenix",
-            "Quantity": 8,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:resistance_phoenix",
-            "Quantity": 55,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:resistance_team_phoenix",
-            "Quantity": 8,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:technology_phoenix",
-            "Quantity": 55,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:technology_team_phoenix",
-            "Quantity": 8,
-            "Selectable": false
-          }
-        ],
-        "TotalRequiredXP": 1456775
-      },
-      {
-        "IsMajorReward": true,
-        "Rewards": [
-          {
-            "Hidden": false,
-            "Item": "AccountResource:reagent_promotion_survivors",
-            "Quantity": 5,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:fortitude_phoenix",
-            "Quantity": 52,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:fortitude_team_phoenix",
-            "Quantity": 10,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:offense_phoenix",
-            "Quantity": 52,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:offense_team_phoenix",
-            "Quantity": 10,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:resistance_phoenix",
-            "Quantity": 52,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:resistance_team_phoenix",
-            "Quantity": 10,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:technology_phoenix",
-            "Quantity": 52,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:technology_team_phoenix",
-            "Quantity": 10,
-            "Selectable": false
-          }
-        ],
-        "TotalRequiredXP": 1542350
-      },
-      {
-        "IsMajorReward": false,
-        "Rewards": [
-          {
-            "Hidden": false,
-            "Item": "AccountResource:reagent_alteration_upgrade_sr",
-            "Quantity": 600,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:fortitude_phoenix",
-            "Quantity": 44,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:fortitude_team_phoenix",
-            "Quantity": 19,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:offense_phoenix",
-            "Quantity": 44,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:offense_team_phoenix",
-            "Quantity": 19,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:resistance_phoenix",
-            "Quantity": 44,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:resistance_team_phoenix",
-            "Quantity": 19,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:technology_phoenix",
-            "Quantity": 44,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:technology_team_phoenix",
-            "Quantity": 19,
-            "Selectable": false
-          }
-        ],
-        "TotalRequiredXP": 1631400
-      },
-      {
-        "IsMajorReward": true,
-        "Rewards": [
-          {
-            "Hidden": false,
-            "Item": "AccountResource:reagent_promotion_traps",
-            "Quantity": 1,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:fortitude_phoenix",
-            "Quantity": 67,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:fortitude_team_phoenix",
-            "Quantity": 25,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:offense_phoenix",
-            "Quantity": 67,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:offense_team_phoenix",
-            "Quantity": 25,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:resistance_phoenix",
-            "Quantity": 67,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:resistance_team_phoenix",
-            "Quantity": 25,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:technology_phoenix",
-            "Quantity": 67,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:technology_team_phoenix",
-            "Quantity": 25,
-            "Selectable": false
-          }
-        ],
-        "TotalRequiredXP": 1723950
-      },
-      {
-        "IsMajorReward": true,
-        "Rewards": [
-          {
-            "Hidden": false,
-            "Item": "AccountResource:reagent_promotion_heroes",
-            "Quantity": 1,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:fortitude_phoenix",
-            "Quantity": 64,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:fortitude_team_phoenix",
-            "Quantity": 12,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:offense_phoenix",
-            "Quantity": 64,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:offense_team_phoenix",
-            "Quantity": 12,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:resistance_phoenix",
-            "Quantity": 64,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:resistance_team_phoenix",
-            "Quantity": 12,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:technology_phoenix",
-            "Quantity": 64,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:technology_team_phoenix",
-            "Quantity": 12,
-            "Selectable": false
-          }
-        ],
-        "TotalRequiredXP": 1819950
-      },
-      {
-        "IsMajorReward": true,
-        "Rewards": [
-          {
-            "Hidden": false,
-            "Item": "AccountResource:reagent_promotion_weapons",
-            "Quantity": 1,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:fortitude_phoenix",
-            "Quantity": 119,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:fortitude_team_phoenix",
-            "Quantity": 44,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:offense_phoenix",
-            "Quantity": 119,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:offense_team_phoenix",
-            "Quantity": 44,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:resistance_phoenix",
-            "Quantity": 119,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:resistance_team_phoenix",
-            "Quantity": 44,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:technology_phoenix",
-            "Quantity": 119,
-            "Selectable": false
-          },
-          {
-            "Hidden": true,
-            "Item": "Stat:technology_team_phoenix",
-            "Quantity": 44,
-            "Selectable": false
-          }
-        ],
-        "TotalRequiredXP": 1919450
-      },
-      {
         "IsMajorReward": false,
         "Rewards": [],
         "TotalRequiredXP": 0
@@ -9494,6 +8096,1404 @@
           }
         ],
         "TotalRequiredXP": 464025
+      },
+      {
+        "IsMajorReward": true,
+        "Rewards": [
+          {
+            "Hidden": false,
+            "Item": "AccountResource:reagent_promotion_traps",
+            "Quantity": 1,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:fortitude_phoenix",
+            "Quantity": 51,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:fortitude_team_phoenix",
+            "Quantity": 25,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:offense_phoenix",
+            "Quantity": 51,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:offense_team_phoenix",
+            "Quantity": 25,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:resistance_phoenix",
+            "Quantity": 51,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:resistance_team_phoenix",
+            "Quantity": 25,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:technology_phoenix",
+            "Quantity": 51,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:technology_team_phoenix",
+            "Quantity": 25,
+            "Selectable": false
+          }
+        ],
+        "TotalRequiredXP": 499475
+      },
+      {
+        "IsMajorReward": false,
+        "Rewards": [
+          {
+            "Hidden": false,
+            "Item": "AccountResource:reagent_c_t02",
+            "Quantity": 60,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:fortitude_phoenix",
+            "Quantity": 50,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:fortitude_team_phoenix",
+            "Quantity": 8,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:offense_phoenix",
+            "Quantity": 50,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:offense_team_phoenix",
+            "Quantity": 8,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:resistance_phoenix",
+            "Quantity": 50,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:resistance_team_phoenix",
+            "Quantity": 8,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:technology_phoenix",
+            "Quantity": 50,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:technology_team_phoenix",
+            "Quantity": 8,
+            "Selectable": false
+          }
+        ],
+        "TotalRequiredXP": 536275
+      },
+      {
+        "IsMajorReward": false,
+        "Rewards": [
+          {
+            "Hidden": false,
+            "Item": "AccountResource:eventcurrency_scaling",
+            "Quantity": 500,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:fortitude_phoenix",
+            "Quantity": 105,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:fortitude_team_phoenix",
+            "Quantity": 33,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:offense_phoenix",
+            "Quantity": 105,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:offense_team_phoenix",
+            "Quantity": 33,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:resistance_phoenix",
+            "Quantity": 105,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:resistance_team_phoenix",
+            "Quantity": 33,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:technology_phoenix",
+            "Quantity": 105,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:technology_team_phoenix",
+            "Quantity": 33,
+            "Selectable": false
+          }
+        ],
+        "TotalRequiredXP": 576000
+      },
+      {
+        "IsMajorReward": true,
+        "Rewards": [
+          {
+            "Hidden": false,
+            "Item": "AccountResource:reagent_promotion_survivors",
+            "Quantity": 2,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:fortitude_phoenix",
+            "Quantity": 102,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:fortitude_team_phoenix",
+            "Quantity": 36,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:offense_phoenix",
+            "Quantity": 102,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:offense_team_phoenix",
+            "Quantity": 36,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:resistance_phoenix",
+            "Quantity": 102,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:resistance_team_phoenix",
+            "Quantity": 36,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:technology_phoenix",
+            "Quantity": 102,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:technology_team_phoenix",
+            "Quantity": 36,
+            "Selectable": false
+          }
+        ],
+        "TotalRequiredXP": 617350
+      },
+      {
+        "IsMajorReward": false,
+        "Rewards": [
+          {
+            "Hidden": false,
+            "Item": "AccountResource:reagent_c_t03",
+            "Quantity": 40,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "HomebaseNode:questreward_buildingresourcecap3",
+            "Quantity": 1,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:fortitude_phoenix",
+            "Quantity": 99,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:fortitude_team_phoenix",
+            "Quantity": 7,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:offense_phoenix",
+            "Quantity": 99,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:offense_team_phoenix",
+            "Quantity": 7,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:resistance_phoenix",
+            "Quantity": 99,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:resistance_team_phoenix",
+            "Quantity": 7,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:technology_phoenix",
+            "Quantity": 99,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:technology_team_phoenix",
+            "Quantity": 7,
+            "Selectable": false
+          }
+        ],
+        "TotalRequiredXP": 660300
+      },
+      {
+        "IsMajorReward": false,
+        "Rewards": [
+          {
+            "Hidden": false,
+            "Item": "AccountResource:reagent_alteration_upgrade_sr",
+            "Quantity": 450,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "HomebaseNode:questreward_evolution3",
+            "Quantity": 1,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:fortitude_phoenix",
+            "Quantity": 95,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:fortitude_team_phoenix",
+            "Quantity": 35,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:offense_phoenix",
+            "Quantity": 95,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:offense_team_phoenix",
+            "Quantity": 35,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:resistance_phoenix",
+            "Quantity": 95,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:resistance_team_phoenix",
+            "Quantity": 35,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:technology_phoenix",
+            "Quantity": 95,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:technology_team_phoenix",
+            "Quantity": 35,
+            "Selectable": false
+          }
+        ],
+        "TotalRequiredXP": 704875
+      },
+      {
+        "IsMajorReward": true,
+        "Rewards": [
+          {
+            "Hidden": false,
+            "Item": "AccountResource:reagent_promotion_heroes",
+            "Quantity": 1,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:fortitude_phoenix",
+            "Quantity": 107,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:fortitude_team_phoenix",
+            "Quantity": 37,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:offense_phoenix",
+            "Quantity": 107,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:offense_team_phoenix",
+            "Quantity": 37,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:resistance_phoenix",
+            "Quantity": 107,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:resistance_team_phoenix",
+            "Quantity": 37,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:technology_phoenix",
+            "Quantity": 107,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:technology_team_phoenix",
+            "Quantity": 37,
+            "Selectable": false
+          }
+        ],
+        "TotalRequiredXP": 753025
+      },
+      {
+        "IsMajorReward": false,
+        "Rewards": [
+          {
+            "Hidden": false,
+            "Item": "AccountResource:eventcurrency_scaling",
+            "Quantity": 500,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:fortitude_phoenix",
+            "Quantity": 50,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:fortitude_team_phoenix",
+            "Quantity": 14,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:offense_phoenix",
+            "Quantity": 50,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:offense_team_phoenix",
+            "Quantity": 14,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:resistance_phoenix",
+            "Quantity": 50,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:resistance_team_phoenix",
+            "Quantity": 14,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:technology_phoenix",
+            "Quantity": 50,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:technology_team_phoenix",
+            "Quantity": 14,
+            "Selectable": false
+          }
+        ],
+        "TotalRequiredXP": 803125
+      },
+      {
+        "IsMajorReward": false,
+        "Rewards": [
+          {
+            "Hidden": false,
+            "Item": "AccountResource:reagent_c_t01",
+            "Quantity": 130,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:fortitude_phoenix",
+            "Quantity": 44,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:fortitude_team_phoenix",
+            "Quantity": 29,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:offense_phoenix",
+            "Quantity": 44,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:offense_team_phoenix",
+            "Quantity": 29,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:resistance_phoenix",
+            "Quantity": 44,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:resistance_team_phoenix",
+            "Quantity": 29,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:technology_phoenix",
+            "Quantity": 44,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:technology_team_phoenix",
+            "Quantity": 29,
+            "Selectable": false
+          }
+        ],
+        "TotalRequiredXP": 855175
+      },
+      {
+        "IsMajorReward": true,
+        "Rewards": [
+          {
+            "Hidden": false,
+            "Item": "AccountResource:reagent_promotion_survivors",
+            "Quantity": 3,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:fortitude_phoenix",
+            "Quantity": 56,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:fortitude_team_phoenix",
+            "Quantity": 5,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:offense_phoenix",
+            "Quantity": 56,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:offense_team_phoenix",
+            "Quantity": 5,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:resistance_phoenix",
+            "Quantity": 56,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:resistance_team_phoenix",
+            "Quantity": 5,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:technology_phoenix",
+            "Quantity": 56,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:technology_team_phoenix",
+            "Quantity": 5,
+            "Selectable": false
+          }
+        ],
+        "TotalRequiredXP": 909200
+      },
+      {
+        "IsMajorReward": false,
+        "Rewards": [
+          {
+            "Hidden": false,
+            "Item": "AccountResource:reagent_alteration_generic",
+            "Quantity": 600,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:fortitude_phoenix",
+            "Quantity": 61,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:fortitude_team_phoenix",
+            "Quantity": 13,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:offense_phoenix",
+            "Quantity": 61,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:offense_team_phoenix",
+            "Quantity": 13,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:resistance_phoenix",
+            "Quantity": 61,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:resistance_team_phoenix",
+            "Quantity": 13,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:technology_phoenix",
+            "Quantity": 61,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:technology_team_phoenix",
+            "Quantity": 13,
+            "Selectable": false
+          }
+        ],
+        "TotalRequiredXP": 967550
+      },
+      {
+        "IsMajorReward": false,
+        "Rewards": [
+          {
+            "Hidden": false,
+            "Item": "AccountResource:reagent_c_t02",
+            "Quantity": 90,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:fortitude_phoenix",
+            "Quantity": 48,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:fortitude_team_phoenix",
+            "Quantity": 21,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:offense_phoenix",
+            "Quantity": 48,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:offense_team_phoenix",
+            "Quantity": 21,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:resistance_phoenix",
+            "Quantity": 48,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:resistance_team_phoenix",
+            "Quantity": 21,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:technology_phoenix",
+            "Quantity": 48,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:technology_team_phoenix",
+            "Quantity": 21,
+            "Selectable": false
+          }
+        ],
+        "TotalRequiredXP": 1028275
+      },
+      {
+        "IsMajorReward": true,
+        "Rewards": [
+          {
+            "Hidden": false,
+            "Item": "AccountResource:reagent_promotion_weapons",
+            "Quantity": 1,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:fortitude_phoenix",
+            "Quantity": 71,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:fortitude_team_phoenix",
+            "Quantity": 26,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:offense_phoenix",
+            "Quantity": 71,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:offense_team_phoenix",
+            "Quantity": 26,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:resistance_phoenix",
+            "Quantity": 71,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:resistance_team_phoenix",
+            "Quantity": 26,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:technology_phoenix",
+            "Quantity": 71,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:technology_team_phoenix",
+            "Quantity": 26,
+            "Selectable": false
+          }
+        ],
+        "TotalRequiredXP": 1091375
+      },
+      {
+        "IsMajorReward": false,
+        "Rewards": [
+          {
+            "Hidden": false,
+            "Item": "AccountResource:reagent_c_t03",
+            "Quantity": 60,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:fortitude_phoenix",
+            "Quantity": 83,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:fortitude_team_phoenix",
+            "Quantity": 14,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:offense_phoenix",
+            "Quantity": 83,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:offense_team_phoenix",
+            "Quantity": 14,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:resistance_phoenix",
+            "Quantity": 83,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:resistance_team_phoenix",
+            "Quantity": 14,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:technology_phoenix",
+            "Quantity": 83,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:technology_team_phoenix",
+            "Quantity": 14,
+            "Selectable": false
+          }
+        ],
+        "TotalRequiredXP": 1156875
+      },
+      {
+        "IsMajorReward": true,
+        "Rewards": [
+          {
+            "Hidden": false,
+            "Item": "AccountResource:reagent_promotion_survivors",
+            "Quantity": 4,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:fortitude_phoenix",
+            "Quantity": 78,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:fortitude_team_phoenix",
+            "Quantity": 16,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:offense_phoenix",
+            "Quantity": 78,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:offense_team_phoenix",
+            "Quantity": 16,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:resistance_phoenix",
+            "Quantity": 78,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:resistance_team_phoenix",
+            "Quantity": 16,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:technology_phoenix",
+            "Quantity": 78,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:technology_team_phoenix",
+            "Quantity": 16,
+            "Selectable": false
+          }
+        ],
+        "TotalRequiredXP": 1227575
+      },
+      {
+        "IsMajorReward": false,
+        "Rewards": [
+          {
+            "Hidden": false,
+            "Item": "AccountResource:reagent_c_t04",
+            "Quantity": 30,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "HomebaseNode:questreward_evolution4",
+            "Quantity": 1,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:fortitude_phoenix",
+            "Quantity": 75,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:fortitude_team_phoenix",
+            "Quantity": 28,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:offense_phoenix",
+            "Quantity": 75,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:offense_team_phoenix",
+            "Quantity": 28,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:resistance_phoenix",
+            "Quantity": 75,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:resistance_team_phoenix",
+            "Quantity": 28,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:technology_phoenix",
+            "Quantity": 75,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:technology_team_phoenix",
+            "Quantity": 28,
+            "Selectable": false
+          }
+        ],
+        "TotalRequiredXP": 1301150
+      },
+      {
+        "IsMajorReward": true,
+        "Rewards": [
+          {
+            "Hidden": false,
+            "Item": "AccountResource:reagent_promotion_heroes",
+            "Quantity": 1,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:fortitude_phoenix",
+            "Quantity": 74,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:fortitude_team_phoenix",
+            "Quantity": 26,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:offense_phoenix",
+            "Quantity": 74,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:offense_team_phoenix",
+            "Quantity": 26,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:resistance_phoenix",
+            "Quantity": 74,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:resistance_team_phoenix",
+            "Quantity": 26,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:technology_phoenix",
+            "Quantity": 74,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:technology_team_phoenix",
+            "Quantity": 26,
+            "Selectable": false
+          }
+        ],
+        "TotalRequiredXP": 1377550
+      },
+      {
+        "IsMajorReward": false,
+        "Rewards": [
+          {
+            "Hidden": false,
+            "Item": "AccountResource:reagent_alteration_generic",
+            "Quantity": 1200,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:fortitude_phoenix",
+            "Quantity": 55,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:fortitude_team_phoenix",
+            "Quantity": 8,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:offense_phoenix",
+            "Quantity": 55,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:offense_team_phoenix",
+            "Quantity": 8,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:resistance_phoenix",
+            "Quantity": 55,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:resistance_team_phoenix",
+            "Quantity": 8,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:technology_phoenix",
+            "Quantity": 55,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:technology_team_phoenix",
+            "Quantity": 8,
+            "Selectable": false
+          }
+        ],
+        "TotalRequiredXP": 1456775
+      },
+      {
+        "IsMajorReward": true,
+        "Rewards": [
+          {
+            "Hidden": false,
+            "Item": "AccountResource:reagent_promotion_survivors",
+            "Quantity": 5,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:fortitude_phoenix",
+            "Quantity": 52,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:fortitude_team_phoenix",
+            "Quantity": 10,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:offense_phoenix",
+            "Quantity": 52,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:offense_team_phoenix",
+            "Quantity": 10,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:resistance_phoenix",
+            "Quantity": 52,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:resistance_team_phoenix",
+            "Quantity": 10,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:technology_phoenix",
+            "Quantity": 52,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:technology_team_phoenix",
+            "Quantity": 10,
+            "Selectable": false
+          }
+        ],
+        "TotalRequiredXP": 1542350
+      },
+      {
+        "IsMajorReward": false,
+        "Rewards": [
+          {
+            "Hidden": false,
+            "Item": "AccountResource:reagent_alteration_upgrade_sr",
+            "Quantity": 600,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:fortitude_phoenix",
+            "Quantity": 44,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:fortitude_team_phoenix",
+            "Quantity": 19,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:offense_phoenix",
+            "Quantity": 44,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:offense_team_phoenix",
+            "Quantity": 19,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:resistance_phoenix",
+            "Quantity": 44,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:resistance_team_phoenix",
+            "Quantity": 19,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:technology_phoenix",
+            "Quantity": 44,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:technology_team_phoenix",
+            "Quantity": 19,
+            "Selectable": false
+          }
+        ],
+        "TotalRequiredXP": 1631400
+      },
+      {
+        "IsMajorReward": true,
+        "Rewards": [
+          {
+            "Hidden": false,
+            "Item": "AccountResource:reagent_promotion_traps",
+            "Quantity": 1,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:fortitude_phoenix",
+            "Quantity": 67,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:fortitude_team_phoenix",
+            "Quantity": 25,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:offense_phoenix",
+            "Quantity": 67,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:offense_team_phoenix",
+            "Quantity": 25,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:resistance_phoenix",
+            "Quantity": 67,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:resistance_team_phoenix",
+            "Quantity": 25,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:technology_phoenix",
+            "Quantity": 67,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:technology_team_phoenix",
+            "Quantity": 25,
+            "Selectable": false
+          }
+        ],
+        "TotalRequiredXP": 1723950
+      },
+      {
+        "IsMajorReward": true,
+        "Rewards": [
+          {
+            "Hidden": false,
+            "Item": "AccountResource:reagent_promotion_heroes",
+            "Quantity": 1,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:fortitude_phoenix",
+            "Quantity": 64,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:fortitude_team_phoenix",
+            "Quantity": 12,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:offense_phoenix",
+            "Quantity": 64,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:offense_team_phoenix",
+            "Quantity": 12,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:resistance_phoenix",
+            "Quantity": 64,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:resistance_team_phoenix",
+            "Quantity": 12,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:technology_phoenix",
+            "Quantity": 64,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:technology_team_phoenix",
+            "Quantity": 12,
+            "Selectable": false
+          }
+        ],
+        "TotalRequiredXP": 1819950
+      },
+      {
+        "IsMajorReward": true,
+        "Rewards": [
+          {
+            "Hidden": false,
+            "Item": "AccountResource:reagent_promotion_weapons",
+            "Quantity": 1,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:fortitude_phoenix",
+            "Quantity": 119,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:fortitude_team_phoenix",
+            "Quantity": 44,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:offense_phoenix",
+            "Quantity": 119,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:offense_team_phoenix",
+            "Quantity": 44,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:resistance_phoenix",
+            "Quantity": 119,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:resistance_team_phoenix",
+            "Quantity": 44,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:technology_phoenix",
+            "Quantity": 119,
+            "Selectable": false
+          },
+          {
+            "Hidden": true,
+            "Item": "Stat:technology_team_phoenix",
+            "Quantity": 44,
+            "Selectable": false
+          }
+        ],
+        "TotalRequiredXP": 1919450
       }
     ],
     "PastLevelXPRequirement": 160000,

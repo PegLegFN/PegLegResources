@@ -9495,7 +9495,7 @@
       "Result": "Schematic:sid_assault_flintlock_sr_crystal_t05"
     },
     "TriggerType": "Automatic",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Assault/Flintlock/SID_Assault_Flintlock_SR_Crystal_T04.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Assault/FlintLock/SID_Assault_Flintlock_SR_Crystal_T04.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Flintlock-Assault.T-Icon-Weapons-SK-Flintlock-Assault",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Flintlock-Assault-L.png"
@@ -9530,7 +9530,7 @@
     },
     "Tier": 5,
     "TriggerType": "Automatic",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Assault/Flintlock/SID_Assault_Flintlock_SR_Crystal_T05.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Assault/FlintLock/SID_Assault_Flintlock_SR_Crystal_T05.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Flintlock-Assault.T-Icon-Weapons-SK-Flintlock-Assault",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Flintlock-Assault-L.png"
@@ -9573,7 +9573,7 @@
       "Result": "Schematic:sid_assault_flintlock_sr_ore_t02"
     },
     "TriggerType": "Automatic",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Assault/Flintlock/SID_Assault_Flintlock_SR_Ore_T01.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Assault/FlintLock/SID_Assault_Flintlock_SR_Ore_T01.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Flintlock-Assault.T-Icon-Weapons-SK-Flintlock-Assault",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Flintlock-Assault-L.png"
@@ -9617,7 +9617,7 @@
       "Result": "Schematic:sid_assault_flintlock_sr_ore_t03"
     },
     "TriggerType": "Automatic",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Assault/Flintlock/SID_Assault_Flintlock_SR_Ore_T02.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Assault/FlintLock/SID_Assault_Flintlock_SR_Ore_T02.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Flintlock-Assault.T-Icon-Weapons-SK-Flintlock-Assault",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Flintlock-Assault-L.png"
@@ -9672,7 +9672,7 @@
       "Result": "Schematic:sid_assault_flintlock_sr_ore_t04"
     },
     "TriggerType": "Automatic",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Assault/Flintlock/SID_Assault_Flintlock_SR_Ore_T03.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Assault/FlintLock/SID_Assault_Flintlock_SR_Ore_T03.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Flintlock-Assault.T-Icon-Weapons-SK-Flintlock-Assault",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Flintlock-Assault-L.png"
@@ -9718,7 +9718,7 @@
       "Result": "Schematic:sid_assault_flintlock_sr_ore_t05"
     },
     "TriggerType": "Automatic",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Assault/Flintlock/SID_Assault_Flintlock_SR_Ore_T04.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Assault/FlintLock/SID_Assault_Flintlock_SR_Ore_T04.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Flintlock-Assault.T-Icon-Weapons-SK-Flintlock-Assault",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Flintlock-Assault-L.png"
@@ -9753,7 +9753,7 @@
     },
     "Tier": 5,
     "TriggerType": "Automatic",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Assault/Flintlock/SID_Assault_Flintlock_SR_Ore_T05.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Assault/FlintLock/SID_Assault_Flintlock_SR_Ore_T05.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Flintlock-Assault.T-Icon-Weapons-SK-Flintlock-Assault",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Flintlock-Assault-L.png"
@@ -9809,7 +9809,7 @@
       "Result": "Schematic:sid_assault_flintlock_vr_crystal_t05"
     },
     "TriggerType": "Automatic",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Assault/Flintlock/SID_Assault_Flintlock_VR_Crystal_T04.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Assault/FlintLock/SID_Assault_Flintlock_VR_Crystal_T04.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Flintlock-Assault.T-Icon-Weapons-SK-Flintlock-Assault",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Flintlock-Assault-L.png"
@@ -9855,7 +9855,7 @@
     },
     "Tier": 5,
     "TriggerType": "Automatic",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Assault/Flintlock/SID_Assault_Flintlock_VR_Crystal_T05.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Assault/FlintLock/SID_Assault_Flintlock_VR_Crystal_T05.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Flintlock-Assault.T-Icon-Weapons-SK-Flintlock-Assault",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Flintlock-Assault-L.png"
@@ -9904,7 +9904,7 @@
       "Result": "Schematic:sid_assault_flintlock_vr_ore_t02"
     },
     "TriggerType": "Automatic",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Assault/Flintlock/SID_Assault_Flintlock_VR_Ore_T01.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Assault/FlintLock/SID_Assault_Flintlock_VR_Ore_T01.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Flintlock-Assault.T-Icon-Weapons-SK-Flintlock-Assault",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Flintlock-Assault-L.png"
@@ -9956,7 +9956,7 @@
       "Result": "Schematic:sid_assault_flintlock_vr_ore_t03"
     },
     "TriggerType": "Automatic",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Assault/Flintlock/SID_Assault_Flintlock_VR_Ore_T02.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Assault/FlintLock/SID_Assault_Flintlock_VR_Ore_T02.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Flintlock-Assault.T-Icon-Weapons-SK-Flintlock-Assault",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Flintlock-Assault-L.png"
@@ -10020,7 +10020,7 @@
       "Result": "Schematic:sid_assault_flintlock_vr_ore_t04"
     },
     "TriggerType": "Automatic",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Assault/Flintlock/SID_Assault_Flintlock_VR_Ore_T03.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Assault/FlintLock/SID_Assault_Flintlock_VR_Ore_T03.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Flintlock-Assault.T-Icon-Weapons-SK-Flintlock-Assault",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Flintlock-Assault-L.png"
@@ -10076,7 +10076,7 @@
       "Result": "Schematic:sid_assault_flintlock_vr_ore_t05"
     },
     "TriggerType": "Automatic",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Assault/Flintlock/SID_Assault_Flintlock_VR_Ore_T04.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Assault/FlintLock/SID_Assault_Flintlock_VR_Ore_T04.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Flintlock-Assault.T-Icon-Weapons-SK-Flintlock-Assault",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Flintlock-Assault-L.png"
@@ -10122,7 +10122,7 @@
     },
     "Tier": 5,
     "TriggerType": "Automatic",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Assault/Flintlock/SID_Assault_Flintlock_VR_Ore_T05.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Assault/FlintLock/SID_Assault_Flintlock_VR_Ore_T05.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Flintlock-Assault.T-Icon-Weapons-SK-Flintlock-Assault",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Flintlock-Assault-L.png"
@@ -27925,7 +27925,7 @@
       "Result": "Schematic:sid_assault_stormking_sr_crystal_t05"
     },
     "TriggerType": "Automatic",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Assault/Stormking/SID_Assault_Stormking_SR_Crystal_T04.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Assault/StormKing/SID_Assault_Stormking_SR_Crystal_T04.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Storm-King-Rifle.T-Icon-Weapons-Storm-King-Rifle",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Storm-King-Rifle-L.png"
@@ -27962,7 +27962,7 @@
     },
     "Tier": 5,
     "TriggerType": "Automatic",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Assault/Stormking/SID_Assault_Stormking_SR_Crystal_T05.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Assault/StormKing/SID_Assault_Stormking_SR_Crystal_T05.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Storm-King-Rifle.T-Icon-Weapons-Storm-King-Rifle",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Storm-King-Rifle-L.png"
@@ -28007,7 +28007,7 @@
       "Result": "Schematic:sid_assault_stormking_sr_ore_t02"
     },
     "TriggerType": "Automatic",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Assault/Stormking/SID_Assault_Stormking_SR_Ore_T01.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Assault/StormKing/SID_Assault_Stormking_SR_Ore_T01.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Storm-King-Rifle.T-Icon-Weapons-Storm-King-Rifle",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Storm-King-Rifle-L.png"
@@ -28053,7 +28053,7 @@
       "Result": "Schematic:sid_assault_stormking_sr_ore_t03"
     },
     "TriggerType": "Automatic",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Assault/Stormking/SID_Assault_Stormking_SR_Ore_T02.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Assault/StormKing/SID_Assault_Stormking_SR_Ore_T02.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Storm-King-Rifle.T-Icon-Weapons-Storm-King-Rifle",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Storm-King-Rifle-L.png"
@@ -28110,7 +28110,7 @@
       "Result": "Schematic:sid_assault_stormking_sr_ore_t04"
     },
     "TriggerType": "Automatic",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Assault/Stormking/SID_Assault_Stormking_SR_Ore_T03.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Assault/StormKing/SID_Assault_Stormking_SR_Ore_T03.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Storm-King-Rifle.T-Icon-Weapons-Storm-King-Rifle",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Storm-King-Rifle-L.png"
@@ -28158,7 +28158,7 @@
       "Result": "Schematic:sid_assault_stormking_sr_ore_t05"
     },
     "TriggerType": "Automatic",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Assault/Stormking/SID_Assault_Stormking_SR_Ore_T04.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Assault/StormKing/SID_Assault_Stormking_SR_Ore_T04.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Storm-King-Rifle.T-Icon-Weapons-Storm-King-Rifle",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Storm-King-Rifle-L.png"
@@ -28195,7 +28195,7 @@
     },
     "Tier": 5,
     "TriggerType": "Automatic",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Assault/Stormking/SID_Assault_Stormking_SR_Ore_T05.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Assault/StormKing/SID_Assault_Stormking_SR_Ore_T05.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Storm-King-Rifle.T-Icon-Weapons-Storm-King-Rifle",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Storm-King-Rifle-L.png"
@@ -80437,7 +80437,7 @@
       "Result": "Schematic:sid_explosive_stormking_sr_ore_t02"
     },
     "TriggerType": "OnRelease",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Explosive/Stormking/SID_Explosive_Stormking_SR_Ore_T01.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Explosive/StormKing/SID_Explosive_Stormking_SR_Ore_T01.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-StormKing-Launcher.T-Icon-Weapons-StormKing-Launcher",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-StormKing-Launcher-L.png"
@@ -80483,7 +80483,7 @@
       "Result": "Schematic:sid_explosive_stormking_sr_ore_t03"
     },
     "TriggerType": "OnRelease",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Explosive/Stormking/SID_Explosive_Stormking_SR_Ore_T02.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Explosive/StormKing/SID_Explosive_Stormking_SR_Ore_T02.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-StormKing-Launcher.T-Icon-Weapons-StormKing-Launcher",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-StormKing-Launcher-L.png"
@@ -80530,7 +80530,7 @@
       "Result": "Schematic:sid_explosive_stormking_sr_ore_t04"
     },
     "TriggerType": "OnRelease",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Explosive/Stormking/SID_Explosive_Stormking_SR_Ore_T03.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Explosive/StormKing/SID_Explosive_Stormking_SR_Ore_T03.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-StormKing-Launcher.T-Icon-Weapons-StormKing-Launcher",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-StormKing-Launcher-L.png"
@@ -80578,7 +80578,7 @@
       "Result": "Schematic:sid_explosive_stormking_sr_ore_t05"
     },
     "TriggerType": "OnRelease",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Explosive/Stormking/SID_Explosive_Stormking_SR_Ore_T04.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Explosive/StormKing/SID_Explosive_Stormking_SR_Ore_T04.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-StormKing-Launcher.T-Icon-Weapons-StormKing-Launcher",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-StormKing-Launcher-L.png"
@@ -80615,7 +80615,7 @@
     },
     "Tier": 5,
     "TriggerType": "OnRelease",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Explosive/Stormking/SID_Explosive_Stormking_SR_Ore_T05.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Explosive/StormKing/SID_Explosive_Stormking_SR_Ore_T05.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-StormKing-Launcher.T-Icon-Weapons-StormKing-Launcher",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-StormKing-Launcher-L.png"
@@ -87326,7 +87326,7 @@
       "Result": "Schematic:sid_launcher_flintlock_sr_ore_t02"
     },
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Explosive/Flintlock/SID_Launcher_Flintlock_SR_Ore_T01.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Explosive/FlintLock/SID_Launcher_Flintlock_SR_Ore_T01.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Flintlock-Launcher.T-Icon-Weapons-SK-Flintlock-Launcher",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Flintlock-Launcher-L.png"
@@ -87370,7 +87370,7 @@
       "Result": "Schematic:sid_launcher_flintlock_sr_ore_t03"
     },
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Explosive/Flintlock/SID_Launcher_Flintlock_SR_Ore_T02.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Explosive/FlintLock/SID_Launcher_Flintlock_SR_Ore_T02.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Flintlock-Launcher.T-Icon-Weapons-SK-Flintlock-Launcher",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Flintlock-Launcher-L.png"
@@ -87415,7 +87415,7 @@
       "Result": "Schematic:sid_launcher_flintlock_sr_ore_t04"
     },
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Explosive/Flintlock/SID_Launcher_Flintlock_SR_Ore_T03.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Explosive/FlintLock/SID_Launcher_Flintlock_SR_Ore_T03.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Flintlock-Launcher.T-Icon-Weapons-SK-Flintlock-Launcher",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Flintlock-Launcher-L.png"
@@ -87461,7 +87461,7 @@
       "Result": "Schematic:sid_launcher_flintlock_sr_ore_t05"
     },
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Explosive/Flintlock/SID_Launcher_Flintlock_SR_Ore_T04.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Explosive/FlintLock/SID_Launcher_Flintlock_SR_Ore_T04.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Flintlock-Launcher.T-Icon-Weapons-SK-Flintlock-Launcher",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Flintlock-Launcher-L.png"
@@ -87496,7 +87496,7 @@
     },
     "Tier": 5,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Explosive/Flintlock/SID_Launcher_Flintlock_SR_Ore_T05.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Explosive/FlintLock/SID_Launcher_Flintlock_SR_Ore_T05.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Flintlock-Launcher.T-Icon-Weapons-SK-Flintlock-Launcher",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Flintlock-Launcher-L.png"
@@ -87545,7 +87545,7 @@
       "Result": "Schematic:sid_launcher_flintlock_vr_ore_t02"
     },
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Explosive/Flintlock/SID_Launcher_Flintlock_VR_Ore_T01.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Explosive/FlintLock/SID_Launcher_Flintlock_VR_Ore_T01.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Flintlock-Launcher.T-Icon-Weapons-SK-Flintlock-Launcher",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Flintlock-Launcher-L.png"
@@ -87597,7 +87597,7 @@
       "Result": "Schematic:sid_launcher_flintlock_vr_ore_t03"
     },
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Explosive/Flintlock/SID_Launcher_Flintlock_VR_Ore_T02.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Explosive/FlintLock/SID_Launcher_Flintlock_VR_Ore_T02.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Flintlock-Launcher.T-Icon-Weapons-SK-Flintlock-Launcher",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Flintlock-Launcher-L.png"
@@ -87642,7 +87642,7 @@
       "Result": "Schematic:sid_launcher_flintlock_vr_ore_t04"
     },
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Explosive/Flintlock/SID_Launcher_Flintlock_VR_Ore_T03.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Explosive/FlintLock/SID_Launcher_Flintlock_VR_Ore_T03.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Flintlock-Launcher.T-Icon-Weapons-SK-Flintlock-Launcher",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Flintlock-Launcher-L.png"
@@ -87698,7 +87698,7 @@
       "Result": "Schematic:sid_launcher_flintlock_vr_ore_t05"
     },
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Explosive/Flintlock/SID_Launcher_Flintlock_VR_Ore_T04.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Explosive/FlintLock/SID_Launcher_Flintlock_VR_Ore_T04.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Flintlock-Launcher.T-Icon-Weapons-SK-Flintlock-Launcher",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Flintlock-Launcher-L.png"
@@ -87744,7 +87744,7 @@
     },
     "Tier": 5,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Explosive/Flintlock/SID_Launcher_Flintlock_VR_Ore_T05.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Explosive/FlintLock/SID_Launcher_Flintlock_VR_Ore_T05.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Flintlock-Launcher.T-Icon-Weapons-SK-Flintlock-Launcher",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Flintlock-Launcher-L.png"
@@ -97442,7 +97442,7 @@
       "Result": "Schematic:sid_piercing_spear_retroscifi_sr_crystal_t05"
     },
     "TriggerType": "Automatic",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Melee/Piercing/Spear_RetroScifi/SID_Piercing_Spear_RetroSciFi_SR_Crystal_T04.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Melee/Piercing/Spear_RetroSciFi/SID_Piercing_Spear_RetroSciFi_SR_Crystal_T04.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-RetroSciFiSpear.T-Icon-Weapons-RetroSciFiSpear",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-RetroSciFiSpear-L.png"
@@ -97474,7 +97474,7 @@
     },
     "Tier": 5,
     "TriggerType": "Automatic",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Melee/Piercing/Spear_RetroScifi/SID_Piercing_Spear_RetroSciFi_SR_Crystal_T05.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Melee/Piercing/Spear_RetroSciFi/SID_Piercing_Spear_RetroSciFi_SR_Crystal_T05.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-RetroSciFiSpear.T-Icon-Weapons-RetroSciFiSpear",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-RetroSciFiSpear-L.png"
@@ -97514,7 +97514,7 @@
       "Result": "Schematic:sid_piercing_spear_retroscifi_sr_ore_t02"
     },
     "TriggerType": "Automatic",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Melee/Piercing/Spear_RetroScifi/SID_Piercing_Spear_RetroSciFi_SR_Ore_T01.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Melee/Piercing/Spear_RetroSciFi/SID_Piercing_Spear_RetroSciFi_SR_Ore_T01.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-RetroSciFiSpear.T-Icon-Weapons-RetroSciFiSpear",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-RetroSciFiSpear-L.png"
@@ -97555,7 +97555,7 @@
       "Result": "Schematic:sid_piercing_spear_retroscifi_sr_ore_t03"
     },
     "TriggerType": "Automatic",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Melee/Piercing/Spear_RetroScifi/SID_Piercing_Spear_RetroSciFi_SR_Ore_T02.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Melee/Piercing/Spear_RetroSciFi/SID_Piercing_Spear_RetroSciFi_SR_Ore_T02.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-RetroSciFiSpear.T-Icon-Weapons-RetroSciFiSpear",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-RetroSciFiSpear-L.png"
@@ -97607,7 +97607,7 @@
       "Result": "Schematic:sid_piercing_spear_retroscifi_sr_ore_t04"
     },
     "TriggerType": "Automatic",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Melee/Piercing/Spear_RetroScifi/SID_Piercing_Spear_RetroSciFi_SR_Ore_T03.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Melee/Piercing/Spear_RetroSciFi/SID_Piercing_Spear_RetroSciFi_SR_Ore_T03.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-RetroSciFiSpear.T-Icon-Weapons-RetroSciFiSpear",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-RetroSciFiSpear-L.png"
@@ -97650,7 +97650,7 @@
       "Result": "Schematic:sid_piercing_spear_retroscifi_sr_ore_t05"
     },
     "TriggerType": "Automatic",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Melee/Piercing/Spear_RetroScifi/SID_Piercing_Spear_RetroSciFi_SR_Ore_T04.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Melee/Piercing/Spear_RetroSciFi/SID_Piercing_Spear_RetroSciFi_SR_Ore_T04.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-RetroSciFiSpear.T-Icon-Weapons-RetroSciFiSpear",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-RetroSciFiSpear-L.png"
@@ -97682,7 +97682,7 @@
     },
     "Tier": 5,
     "TriggerType": "Automatic",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Melee/Piercing/Spear_RetroScifi/SID_Piercing_Spear_RetroSciFi_SR_Ore_T05.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Melee/Piercing/Spear_RetroSciFi/SID_Piercing_Spear_RetroSciFi_SR_Ore_T05.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-RetroSciFiSpear.T-Icon-Weapons-RetroSciFiSpear",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-RetroSciFiSpear-L.png"
@@ -97735,7 +97735,7 @@
       "Result": "Schematic:sid_piercing_spear_retroscifi_vr_crystal_t05"
     },
     "TriggerType": "Automatic",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Melee/Piercing/Spear_RetroScifi/SID_Piercing_Spear_RetroSciFi_VR_Crystal_T04.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Melee/Piercing/Spear_RetroSciFi/SID_Piercing_Spear_RetroSciFi_VR_Crystal_T04.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-RetroSciFiSpear.T-Icon-Weapons-RetroSciFiSpear",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-RetroSciFiSpear-L.png"
@@ -97778,7 +97778,7 @@
     },
     "Tier": 5,
     "TriggerType": "Automatic",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Melee/Piercing/Spear_RetroScifi/SID_Piercing_Spear_RetroSciFi_VR_Crystal_T05.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Melee/Piercing/Spear_RetroSciFi/SID_Piercing_Spear_RetroSciFi_VR_Crystal_T05.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-RetroSciFiSpear.T-Icon-Weapons-RetroSciFiSpear",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-RetroSciFiSpear-L.png"
@@ -97824,7 +97824,7 @@
       "Result": "Schematic:sid_piercing_spear_retroscifi_vr_ore_t02"
     },
     "TriggerType": "Automatic",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Melee/Piercing/Spear_RetroScifi/SID_Piercing_Spear_RetroSciFi_VR_Ore_T01.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Melee/Piercing/Spear_RetroSciFi/SID_Piercing_Spear_RetroSciFi_VR_Ore_T01.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-RetroSciFiSpear.T-Icon-Weapons-RetroSciFiSpear",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-RetroSciFiSpear-L.png"
@@ -97873,7 +97873,7 @@
       "Result": "Schematic:sid_piercing_spear_retroscifi_vr_ore_t03"
     },
     "TriggerType": "Automatic",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Melee/Piercing/Spear_RetroScifi/SID_Piercing_Spear_RetroSciFi_VR_Ore_T02.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Melee/Piercing/Spear_RetroSciFi/SID_Piercing_Spear_RetroSciFi_VR_Ore_T02.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-RetroSciFiSpear.T-Icon-Weapons-RetroSciFiSpear",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-RetroSciFiSpear-L.png"
@@ -97934,7 +97934,7 @@
       "Result": "Schematic:sid_piercing_spear_retroscifi_vr_ore_t04"
     },
     "TriggerType": "Automatic",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Melee/Piercing/Spear_RetroScifi/SID_Piercing_Spear_RetroSciFi_VR_Ore_T03.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Melee/Piercing/Spear_RetroSciFi/SID_Piercing_Spear_RetroSciFi_VR_Ore_T03.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-RetroSciFiSpear.T-Icon-Weapons-RetroSciFiSpear",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-RetroSciFiSpear-L.png"
@@ -97987,7 +97987,7 @@
       "Result": "Schematic:sid_piercing_spear_retroscifi_vr_ore_t05"
     },
     "TriggerType": "Automatic",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Melee/Piercing/Spear_RetroScifi/SID_Piercing_Spear_RetroSciFi_VR_Ore_T04.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Melee/Piercing/Spear_RetroSciFi/SID_Piercing_Spear_RetroSciFi_VR_Ore_T04.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-RetroSciFiSpear.T-Icon-Weapons-RetroSciFiSpear",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-RetroSciFiSpear-L.png"
@@ -98030,7 +98030,7 @@
     },
     "Tier": 5,
     "TriggerType": "Automatic",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Melee/Piercing/Spear_RetroScifi/SID_Piercing_Spear_RetroSciFi_VR_Ore_T05.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Melee/Piercing/Spear_RetroSciFi/SID_Piercing_Spear_RetroSciFi_VR_Ore_T05.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-RetroSciFiSpear.T-Icon-Weapons-RetroSciFiSpear",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-RetroSciFiSpear-L.png"
@@ -109868,7 +109868,7 @@
     },
     "Tier": 4,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/Flintlock/SID_Pistol_Flintlock_R_Crystal_T04.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/FlintLock/SID_Pistol_Flintlock_R_Crystal_T04.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Flintlock-Revolver.T-Icon-Weapons-SK-Flintlock-Revolver",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Flintlock-Revolver-L.png"
@@ -109917,7 +109917,7 @@
       "Result": "Schematic:sid_pistol_flintlock_r_ore_t02"
     },
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/Flintlock/SID_Pistol_Flintlock_R_Ore_T01.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/FlintLock/SID_Pistol_Flintlock_R_Ore_T01.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Flintlock-Revolver.T-Icon-Weapons-SK-Flintlock-Revolver",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Flintlock-Revolver-L.png"
@@ -109969,7 +109969,7 @@
       "Result": "Schematic:sid_pistol_flintlock_r_ore_t03"
     },
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/Flintlock/SID_Pistol_Flintlock_R_Ore_T02.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/FlintLock/SID_Pistol_Flintlock_R_Ore_T02.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Flintlock-Revolver.T-Icon-Weapons-SK-Flintlock-Revolver",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Flintlock-Revolver-L.png"
@@ -110033,7 +110033,7 @@
       "Result": "Schematic:sid_pistol_flintlock_r_ore_t04"
     },
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/Flintlock/SID_Pistol_Flintlock_R_Ore_T03.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/FlintLock/SID_Pistol_Flintlock_R_Ore_T03.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Flintlock-Revolver.T-Icon-Weapons-SK-Flintlock-Revolver",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Flintlock-Revolver-L.png"
@@ -110078,7 +110078,7 @@
     },
     "Tier": 4,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/Flintlock/SID_Pistol_Flintlock_R_Ore_T04.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/FlintLock/SID_Pistol_Flintlock_R_Ore_T04.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Flintlock-Revolver.T-Icon-Weapons-SK-Flintlock-Revolver",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Flintlock-Revolver-L.png"
@@ -110124,7 +110124,7 @@
       "Result": "Schematic:sid_pistol_flintlock_sr_crystal_t05"
     },
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/Flintlock/SID_Pistol_Flintlock_SR_Crystal_T04.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/FlintLock/SID_Pistol_Flintlock_SR_Crystal_T04.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Flintlock-Revolver.T-Icon-Weapons-SK-Flintlock-Revolver",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Flintlock-Revolver-L.png"
@@ -110159,7 +110159,7 @@
     },
     "Tier": 5,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/Flintlock/SID_Pistol_Flintlock_SR_Crystal_T05.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/FlintLock/SID_Pistol_Flintlock_SR_Crystal_T05.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Flintlock-Revolver.T-Icon-Weapons-SK-Flintlock-Revolver",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Flintlock-Revolver-L.png"
@@ -110202,7 +110202,7 @@
       "Result": "Schematic:sid_pistol_flintlock_sr_ore_t02"
     },
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/Flintlock/SID_Pistol_Flintlock_SR_Ore_T01.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/FlintLock/SID_Pistol_Flintlock_SR_Ore_T01.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Flintlock-Revolver.T-Icon-Weapons-SK-Flintlock-Revolver",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Flintlock-Revolver-L.png"
@@ -110246,7 +110246,7 @@
       "Result": "Schematic:sid_pistol_flintlock_sr_ore_t03"
     },
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/Flintlock/SID_Pistol_Flintlock_SR_Ore_T02.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/FlintLock/SID_Pistol_Flintlock_SR_Ore_T02.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Flintlock-Revolver.T-Icon-Weapons-SK-Flintlock-Revolver",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Flintlock-Revolver-L.png"
@@ -110301,7 +110301,7 @@
       "Result": "Schematic:sid_pistol_flintlock_sr_ore_t04"
     },
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/Flintlock/SID_Pistol_Flintlock_SR_Ore_T03.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/FlintLock/SID_Pistol_Flintlock_SR_Ore_T03.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Flintlock-Revolver.T-Icon-Weapons-SK-Flintlock-Revolver",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Flintlock-Revolver-L.png"
@@ -110347,7 +110347,7 @@
       "Result": "Schematic:sid_pistol_flintlock_sr_ore_t05"
     },
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/Flintlock/SID_Pistol_Flintlock_SR_Ore_T04.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/FlintLock/SID_Pistol_Flintlock_SR_Ore_T04.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Flintlock-Revolver.T-Icon-Weapons-SK-Flintlock-Revolver",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Flintlock-Revolver-L.png"
@@ -110382,7 +110382,7 @@
     },
     "Tier": 5,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/Flintlock/SID_Pistol_Flintlock_SR_Ore_T05.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/FlintLock/SID_Pistol_Flintlock_SR_Ore_T05.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Flintlock-Revolver.T-Icon-Weapons-SK-Flintlock-Revolver",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Flintlock-Revolver-L.png"
@@ -110438,7 +110438,7 @@
       "Result": "Schematic:sid_pistol_flintlock_vr_crystal_t05"
     },
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/Flintlock/SID_Pistol_Flintlock_VR_Crystal_T04.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/FlintLock/SID_Pistol_Flintlock_VR_Crystal_T04.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Flintlock-Revolver.T-Icon-Weapons-SK-Flintlock-Revolver",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Flintlock-Revolver-L.png"
@@ -110484,7 +110484,7 @@
     },
     "Tier": 5,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/Flintlock/SID_Pistol_Flintlock_VR_Crystal_T05.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/FlintLock/SID_Pistol_Flintlock_VR_Crystal_T05.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Flintlock-Revolver.T-Icon-Weapons-SK-Flintlock-Revolver",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Flintlock-Revolver-L.png"
@@ -110533,7 +110533,7 @@
       "Result": "Schematic:sid_pistol_flintlock_vr_ore_t02"
     },
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/Flintlock/SID_Pistol_Flintlock_VR_Ore_T01.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/FlintLock/SID_Pistol_Flintlock_VR_Ore_T01.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Flintlock-Revolver.T-Icon-Weapons-SK-Flintlock-Revolver",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Flintlock-Revolver-L.png"
@@ -110585,7 +110585,7 @@
       "Result": "Schematic:sid_pistol_flintlock_vr_ore_t03"
     },
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/Flintlock/SID_Pistol_Flintlock_VR_Ore_T02.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/FlintLock/SID_Pistol_Flintlock_VR_Ore_T02.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Flintlock-Revolver.T-Icon-Weapons-SK-Flintlock-Revolver",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Flintlock-Revolver-L.png"
@@ -110649,7 +110649,7 @@
       "Result": "Schematic:sid_pistol_flintlock_vr_ore_t04"
     },
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/Flintlock/SID_Pistol_Flintlock_VR_Ore_T03.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/FlintLock/SID_Pistol_Flintlock_VR_Ore_T03.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Flintlock-Revolver.T-Icon-Weapons-SK-Flintlock-Revolver",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Flintlock-Revolver-L.png"
@@ -110705,7 +110705,7 @@
       "Result": "Schematic:sid_pistol_flintlock_vr_ore_t05"
     },
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/Flintlock/SID_Pistol_Flintlock_VR_Ore_T04.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/FlintLock/SID_Pistol_Flintlock_VR_Ore_T04.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Flintlock-Revolver.T-Icon-Weapons-SK-Flintlock-Revolver",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Flintlock-Revolver-L.png"
@@ -110751,7 +110751,7 @@
     },
     "Tier": 5,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/Flintlock/SID_Pistol_Flintlock_VR_Ore_T05.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/FlintLock/SID_Pistol_Flintlock_VR_Ore_T05.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Flintlock-Revolver.T-Icon-Weapons-SK-Flintlock-Revolver",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Flintlock-Revolver-L.png"
@@ -112360,7 +112360,7 @@
       "Result": "Schematic:sid_pistol_handcannon_founders_vr_crystal_t05"
     },
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/Handcannon/SID_Pistol_Handcannon_Founders_VR_Crystal_T04.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/HandCannon/SID_Pistol_Handcannon_Founders_VR_Crystal_T04.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Magnum.T-Icon-Weapons-SK-Magnum",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Magnum-L.png"
@@ -112392,7 +112392,7 @@
     },
     "Tier": 5,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/Handcannon/SID_Pistol_Handcannon_Founders_VR_Crystal_T05.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/HandCannon/SID_Pistol_Handcannon_Founders_VR_Crystal_T05.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Magnum.T-Icon-Weapons-SK-Magnum",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Magnum-L.png"
@@ -112432,7 +112432,7 @@
       "Result": "Schematic:sid_pistol_handcannon_founders_vr_ore_t02"
     },
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/Handcannon/SID_Pistol_Handcannon_Founders_VR_Ore_T01.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/HandCannon/SID_Pistol_Handcannon_Founders_VR_Ore_T01.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Magnum.T-Icon-Weapons-SK-Magnum",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Magnum-L.png"
@@ -112473,7 +112473,7 @@
       "Result": "Schematic:sid_pistol_handcannon_founders_vr_ore_t03"
     },
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/Handcannon/SID_Pistol_Handcannon_Founders_VR_Ore_T02.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/HandCannon/SID_Pistol_Handcannon_Founders_VR_Ore_T02.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Magnum.T-Icon-Weapons-SK-Magnum",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Magnum-L.png"
@@ -112525,7 +112525,7 @@
       "Result": "Schematic:sid_pistol_handcannon_founders_vr_ore_t04"
     },
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/Handcannon/SID_Pistol_Handcannon_Founders_VR_Ore_T03.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/HandCannon/SID_Pistol_Handcannon_Founders_VR_Ore_T03.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Magnum.T-Icon-Weapons-SK-Magnum",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Magnum-L.png"
@@ -112568,7 +112568,7 @@
       "Result": "Schematic:sid_pistol_handcannon_founders_vr_ore_t05"
     },
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/Handcannon/SID_Pistol_Handcannon_Founders_VR_Ore_T04.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/HandCannon/SID_Pistol_Handcannon_Founders_VR_Ore_T04.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Magnum.T-Icon-Weapons-SK-Magnum",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Magnum-L.png"
@@ -112600,7 +112600,7 @@
     },
     "Tier": 5,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/Handcannon/SID_Pistol_Handcannon_Founders_VR_Ore_T05.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/HandCannon/SID_Pistol_Handcannon_Founders_VR_Ore_T05.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Magnum.T-Icon-Weapons-SK-Magnum",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Magnum-L.png"
@@ -112642,7 +112642,7 @@
     },
     "Tier": 4,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/Handcannon/SID_Pistol_Handcannon_R_Crystal_T04.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/HandCannon/SID_Pistol_Handcannon_R_Crystal_T04.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Magnum.T-Icon-Weapons-SK-Magnum",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Magnum-L.png"
@@ -112688,7 +112688,7 @@
       "Result": "Schematic:sid_pistol_handcannon_r_ore_t02"
     },
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/Handcannon/SID_Pistol_Handcannon_R_Ore_T01.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/HandCannon/SID_Pistol_Handcannon_R_Ore_T01.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Magnum.T-Icon-Weapons-SK-Magnum",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Magnum-L.png"
@@ -112737,7 +112737,7 @@
       "Result": "Schematic:sid_pistol_handcannon_r_ore_t03"
     },
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/Handcannon/SID_Pistol_Handcannon_R_Ore_T02.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/HandCannon/SID_Pistol_Handcannon_R_Ore_T02.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Magnum.T-Icon-Weapons-SK-Magnum",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Magnum-L.png"
@@ -112798,7 +112798,7 @@
       "Result": "Schematic:sid_pistol_handcannon_r_ore_t04"
     },
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/Handcannon/SID_Pistol_Handcannon_R_Ore_T03.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/HandCannon/SID_Pistol_Handcannon_R_Ore_T03.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Magnum.T-Icon-Weapons-SK-Magnum",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Magnum-L.png"
@@ -112840,7 +112840,7 @@
     },
     "Tier": 4,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/Handcannon/SID_Pistol_Handcannon_R_Ore_T04.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/HandCannon/SID_Pistol_Handcannon_R_Ore_T04.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Magnum.T-Icon-Weapons-SK-Magnum",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Magnum-L.png"
@@ -114399,7 +114399,7 @@
       "Result": "Schematic:sid_pistol_handcannon_sr_crystal_t05"
     },
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/Handcannon/SID_Pistol_Handcannon_SR_Crystal_T04.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/HandCannon/SID_Pistol_Handcannon_SR_Crystal_T04.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Magnum.T-Icon-Weapons-SK-Magnum",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Magnum-L.png"
@@ -114431,7 +114431,7 @@
     },
     "Tier": 5,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/Handcannon/SID_Pistol_Handcannon_SR_Crystal_T05.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/HandCannon/SID_Pistol_Handcannon_SR_Crystal_T05.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Magnum.T-Icon-Weapons-SK-Magnum",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Magnum-L.png"
@@ -114471,7 +114471,7 @@
       "Result": "Schematic:sid_pistol_handcannon_sr_ore_t02"
     },
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/Handcannon/SID_Pistol_Handcannon_SR_Ore_T01.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/HandCannon/SID_Pistol_Handcannon_SR_Ore_T01.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Magnum.T-Icon-Weapons-SK-Magnum",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Magnum-L.png"
@@ -114512,7 +114512,7 @@
       "Result": "Schematic:sid_pistol_handcannon_sr_ore_t03"
     },
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/Handcannon/SID_Pistol_Handcannon_SR_Ore_T02.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/HandCannon/SID_Pistol_Handcannon_SR_Ore_T02.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Magnum.T-Icon-Weapons-SK-Magnum",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Magnum-L.png"
@@ -114564,7 +114564,7 @@
       "Result": "Schematic:sid_pistol_handcannon_sr_ore_t04"
     },
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/Handcannon/SID_Pistol_Handcannon_SR_Ore_T03.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/HandCannon/SID_Pistol_Handcannon_SR_Ore_T03.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Magnum.T-Icon-Weapons-SK-Magnum",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Magnum-L.png"
@@ -114607,7 +114607,7 @@
       "Result": "Schematic:sid_pistol_handcannon_sr_ore_t05"
     },
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/Handcannon/SID_Pistol_Handcannon_SR_Ore_T04.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/HandCannon/SID_Pistol_Handcannon_SR_Ore_T04.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Magnum.T-Icon-Weapons-SK-Magnum",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Magnum-L.png"
@@ -114639,7 +114639,7 @@
     },
     "Tier": 5,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/Handcannon/SID_Pistol_Handcannon_SR_Ore_T05.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/HandCannon/SID_Pistol_Handcannon_SR_Ore_T05.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Magnum.T-Icon-Weapons-SK-Magnum",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Magnum-L.png"
@@ -114692,7 +114692,7 @@
       "Result": "Schematic:sid_pistol_handcannon_vr_crystal_t05"
     },
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/Handcannon/SID_Pistol_Handcannon_VR_Crystal_T04.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/HandCannon/SID_Pistol_Handcannon_VR_Crystal_T04.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Magnum.T-Icon-Weapons-SK-Magnum",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Magnum-L.png"
@@ -114735,7 +114735,7 @@
     },
     "Tier": 5,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/Handcannon/SID_Pistol_Handcannon_VR_Crystal_T05.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/HandCannon/SID_Pistol_Handcannon_VR_Crystal_T05.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Magnum.T-Icon-Weapons-SK-Magnum",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Magnum-L.png"
@@ -114781,7 +114781,7 @@
       "Result": "Schematic:sid_pistol_handcannon_vr_ore_t02"
     },
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/Handcannon/SID_Pistol_Handcannon_VR_Ore_T01.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/HandCannon/SID_Pistol_Handcannon_VR_Ore_T01.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Magnum.T-Icon-Weapons-SK-Magnum",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Magnum-L.png"
@@ -114830,7 +114830,7 @@
       "Result": "Schematic:sid_pistol_handcannon_vr_ore_t03"
     },
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/Handcannon/SID_Pistol_Handcannon_VR_Ore_T02.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/HandCannon/SID_Pistol_Handcannon_VR_Ore_T02.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Magnum.T-Icon-Weapons-SK-Magnum",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Magnum-L.png"
@@ -114891,7 +114891,7 @@
       "Result": "Schematic:sid_pistol_handcannon_vr_ore_t04"
     },
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/Handcannon/SID_Pistol_Handcannon_VR_Ore_T03.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/HandCannon/SID_Pistol_Handcannon_VR_Ore_T03.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Magnum.T-Icon-Weapons-SK-Magnum",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Magnum-L.png"
@@ -114944,7 +114944,7 @@
       "Result": "Schematic:sid_pistol_handcannon_vr_ore_t05"
     },
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/Handcannon/SID_Pistol_Handcannon_VR_Ore_T04.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/HandCannon/SID_Pistol_Handcannon_VR_Ore_T04.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Magnum.T-Icon-Weapons-SK-Magnum",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Magnum-L.png"
@@ -114987,7 +114987,7 @@
     },
     "Tier": 5,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/Handcannon/SID_Pistol_Handcannon_VR_Ore_T05.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/HandCannon/SID_Pistol_Handcannon_VR_Ore_T05.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Magnum.T-Icon-Weapons-SK-Magnum",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Magnum-L.png"
@@ -115031,7 +115031,7 @@
       "Result": "Schematic:sid_pistol_handcannon_vt_sr_crystal_t05"
     },
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/Handcannon/SID_Pistol_Handcannon_VT_SR_Crystal_T04.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/HandCannon/SID_Pistol_Handcannon_VT_SR_Crystal_T04.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-VinderTech-Revolver.T-Icon-Weapons-SK-VinderTech-Revolver",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-VinderTech-Revolver-L.png"
@@ -115064,7 +115064,7 @@
     },
     "Tier": 5,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/Handcannon/SID_Pistol_Handcannon_VT_SR_Crystal_T05.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/HandCannon/SID_Pistol_Handcannon_VT_SR_Crystal_T05.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-VinderTech-Revolver.T-Icon-Weapons-SK-VinderTech-Revolver",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-VinderTech-Revolver-L.png"
@@ -115105,7 +115105,7 @@
       "Result": "Schematic:sid_pistol_handcannon_vt_sr_ore_t02"
     },
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/Handcannon/SID_Pistol_Handcannon_VT_SR_Ore_T01.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/HandCannon/SID_Pistol_Handcannon_VT_SR_Ore_T01.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-VinderTech-Revolver.T-Icon-Weapons-SK-VinderTech-Revolver",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-VinderTech-Revolver-L.png"
@@ -115147,7 +115147,7 @@
       "Result": "Schematic:sid_pistol_handcannon_vt_sr_ore_t03"
     },
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/Handcannon/SID_Pistol_Handcannon_VT_SR_Ore_T02.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/HandCannon/SID_Pistol_Handcannon_VT_SR_Ore_T02.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-VinderTech-Revolver.T-Icon-Weapons-SK-VinderTech-Revolver",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-VinderTech-Revolver-L.png"
@@ -115200,7 +115200,7 @@
       "Result": "Schematic:sid_pistol_handcannon_vt_sr_ore_t04"
     },
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/Handcannon/SID_Pistol_Handcannon_VT_SR_Ore_T03.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/HandCannon/SID_Pistol_Handcannon_VT_SR_Ore_T03.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-VinderTech-Revolver.T-Icon-Weapons-SK-VinderTech-Revolver",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-VinderTech-Revolver-L.png"
@@ -115244,7 +115244,7 @@
       "Result": "Schematic:sid_pistol_handcannon_vt_sr_ore_t05"
     },
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/Handcannon/SID_Pistol_Handcannon_VT_SR_Ore_T04.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/HandCannon/SID_Pistol_Handcannon_VT_SR_Ore_T04.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-VinderTech-Revolver.T-Icon-Weapons-SK-VinderTech-Revolver",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-VinderTech-Revolver-L.png"
@@ -115277,7 +115277,7 @@
     },
     "Tier": 5,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/Handcannon/SID_Pistol_Handcannon_VT_SR_Ore_T05.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/HandCannon/SID_Pistol_Handcannon_VT_SR_Ore_T05.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-VinderTech-Revolver.T-Icon-Weapons-SK-VinderTech-Revolver",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-VinderTech-Revolver-L.png"
@@ -125516,7 +125516,7 @@
       "Result": "Schematic:sid_pistol_stormking_sr_crystal_t05"
     },
     "TriggerType": "Automatic",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/Stormking/SID_Pistol_Stormking_SR_Crystal_T04.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/StormKing/SID_Pistol_Stormking_SR_Crystal_T04.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-StormKingPistol.T-Icon-Weapons-StormKingPistol",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-StormKingPistol-L.png"
@@ -125553,7 +125553,7 @@
     },
     "Tier": 5,
     "TriggerType": "Automatic",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/Stormking/SID_Pistol_Stormking_SR_Crystal_T05.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/StormKing/SID_Pistol_Stormking_SR_Crystal_T05.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-StormKingPistol.T-Icon-Weapons-StormKingPistol",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-StormKingPistol-L.png"
@@ -125598,7 +125598,7 @@
       "Result": "Schematic:sid_pistol_stormking_sr_ore_t02"
     },
     "TriggerType": "Automatic",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/Stormking/SID_Pistol_Stormking_SR_Ore_T01.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/StormKing/SID_Pistol_Stormking_SR_Ore_T01.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-StormKingPistol.T-Icon-Weapons-StormKingPistol",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-StormKingPistol-L.png"
@@ -125644,7 +125644,7 @@
       "Result": "Schematic:sid_pistol_stormking_sr_ore_t03"
     },
     "TriggerType": "Automatic",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/Stormking/SID_Pistol_Stormking_SR_Ore_T02.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/StormKing/SID_Pistol_Stormking_SR_Ore_T02.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-StormKingPistol.T-Icon-Weapons-StormKingPistol",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-StormKingPistol-L.png"
@@ -125701,7 +125701,7 @@
       "Result": "Schematic:sid_pistol_stormking_sr_ore_t04"
     },
     "TriggerType": "Automatic",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/Stormking/SID_Pistol_Stormking_SR_Ore_T03.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/StormKing/SID_Pistol_Stormking_SR_Ore_T03.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-StormKingPistol.T-Icon-Weapons-StormKingPistol",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-StormKingPistol-L.png"
@@ -125749,7 +125749,7 @@
       "Result": "Schematic:sid_pistol_stormking_sr_ore_t05"
     },
     "TriggerType": "Automatic",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/Stormking/SID_Pistol_Stormking_SR_Ore_T04.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/StormKing/SID_Pistol_Stormking_SR_Ore_T04.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-StormKingPistol.T-Icon-Weapons-StormKingPistol",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-StormKingPistol-L.png"
@@ -125786,7 +125786,7 @@
     },
     "Tier": 5,
     "TriggerType": "Automatic",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/Stormking/SID_Pistol_Stormking_SR_Ore_T05.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Pistol/StormKing/SID_Pistol_Stormking_SR_Ore_T05.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-StormKingPistol.T-Icon-Weapons-StormKingPistol",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-StormKingPistol-L.png"
@@ -163931,7 +163931,7 @@
     },
     "Tier": 4,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Sniper/Flintlock/SID_Sniper_Flintlock_R_Crystal_T04.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Sniper/FlintLock/SID_Sniper_Flintlock_R_Crystal_T04.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Flintlock-Sniper-LowTier.T-Icon-Weapons-SK-Flintlock-Sniper-LowTier",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Flintlock-Sniper-LowTier-L.png"
@@ -163977,7 +163977,7 @@
       "Result": "Schematic:sid_sniper_flintlock_r_ore_t02"
     },
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Sniper/Flintlock/SID_Sniper_Flintlock_R_Ore_T01.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Sniper/FlintLock/SID_Sniper_Flintlock_R_Ore_T01.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Flintlock-Sniper-LowTier.T-Icon-Weapons-SK-Flintlock-Sniper-LowTier",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Flintlock-Sniper-LowTier-L.png"
@@ -164026,7 +164026,7 @@
       "Result": "Schematic:sid_sniper_flintlock_r_ore_t03"
     },
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Sniper/Flintlock/SID_Sniper_Flintlock_R_Ore_T02.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Sniper/FlintLock/SID_Sniper_Flintlock_R_Ore_T02.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Flintlock-Sniper-LowTier.T-Icon-Weapons-SK-Flintlock-Sniper-LowTier",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Flintlock-Sniper-LowTier-L.png"
@@ -164087,7 +164087,7 @@
       "Result": "Schematic:sid_sniper_flintlock_r_ore_t04"
     },
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Sniper/Flintlock/SID_Sniper_Flintlock_R_Ore_T03.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Sniper/FlintLock/SID_Sniper_Flintlock_R_Ore_T03.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Flintlock-Sniper-LowTier.T-Icon-Weapons-SK-Flintlock-Sniper-LowTier",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Flintlock-Sniper-LowTier-L.png"
@@ -164129,7 +164129,7 @@
     },
     "Tier": 4,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Sniper/Flintlock/SID_Sniper_Flintlock_R_Ore_T04.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Sniper/FlintLock/SID_Sniper_Flintlock_R_Ore_T04.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Flintlock-Sniper-LowTier.T-Icon-Weapons-SK-Flintlock-Sniper-LowTier",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Flintlock-Sniper-LowTier-L.png"
@@ -164803,7 +164803,7 @@
       "Result": "Schematic:sid_sniper_flintlock_sr_crystal_t05"
     },
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Sniper/Flintlock/SID_Sniper_Flintlock_SR_Crystal_T04.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Sniper/FlintLock/SID_Sniper_Flintlock_SR_Crystal_T04.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Flintlock-Sniper-LowTier.T-Icon-Weapons-SK-Flintlock-Sniper-LowTier",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Flintlock-Sniper-LowTier-L.png"
@@ -164835,7 +164835,7 @@
     },
     "Tier": 5,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Sniper/Flintlock/SID_Sniper_Flintlock_SR_Crystal_T05.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Sniper/FlintLock/SID_Sniper_Flintlock_SR_Crystal_T05.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Flintlock-Sniper-LowTier.T-Icon-Weapons-SK-Flintlock-Sniper-LowTier",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Flintlock-Sniper-LowTier-L.png"
@@ -164875,7 +164875,7 @@
       "Result": "Schematic:sid_sniper_flintlock_sr_ore_t02"
     },
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Sniper/Flintlock/SID_Sniper_Flintlock_SR_Ore_T01.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Sniper/FlintLock/SID_Sniper_Flintlock_SR_Ore_T01.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Flintlock-Sniper-LowTier.T-Icon-Weapons-SK-Flintlock-Sniper-LowTier",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Flintlock-Sniper-LowTier-L.png"
@@ -164916,7 +164916,7 @@
       "Result": "Schematic:sid_sniper_flintlock_sr_ore_t03"
     },
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Sniper/Flintlock/SID_Sniper_Flintlock_SR_Ore_T02.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Sniper/FlintLock/SID_Sniper_Flintlock_SR_Ore_T02.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Flintlock-Sniper-LowTier.T-Icon-Weapons-SK-Flintlock-Sniper-LowTier",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Flintlock-Sniper-LowTier-L.png"
@@ -164968,7 +164968,7 @@
       "Result": "Schematic:sid_sniper_flintlock_sr_ore_t04"
     },
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Sniper/Flintlock/SID_Sniper_Flintlock_SR_Ore_T03.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Sniper/FlintLock/SID_Sniper_Flintlock_SR_Ore_T03.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Flintlock-Sniper-LowTier.T-Icon-Weapons-SK-Flintlock-Sniper-LowTier",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Flintlock-Sniper-LowTier-L.png"
@@ -165011,7 +165011,7 @@
       "Result": "Schematic:sid_sniper_flintlock_sr_ore_t05"
     },
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Sniper/Flintlock/SID_Sniper_Flintlock_SR_Ore_T04.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Sniper/FlintLock/SID_Sniper_Flintlock_SR_Ore_T04.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Flintlock-Sniper-LowTier.T-Icon-Weapons-SK-Flintlock-Sniper-LowTier",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Flintlock-Sniper-LowTier-L.png"
@@ -165043,7 +165043,7 @@
     },
     "Tier": 5,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Sniper/Flintlock/SID_Sniper_Flintlock_SR_Ore_T05.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Sniper/FlintLock/SID_Sniper_Flintlock_SR_Ore_T05.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Flintlock-Sniper-LowTier.T-Icon-Weapons-SK-Flintlock-Sniper-LowTier",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Flintlock-Sniper-LowTier-L.png"
@@ -165096,7 +165096,7 @@
       "Result": "Schematic:sid_sniper_flintlock_vr_crystal_t05"
     },
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Sniper/Flintlock/SID_Sniper_Flintlock_VR_Crystal_T04.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Sniper/FlintLock/SID_Sniper_Flintlock_VR_Crystal_T04.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Flintlock-Sniper-LowTier.T-Icon-Weapons-SK-Flintlock-Sniper-LowTier",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Flintlock-Sniper-LowTier-L.png"
@@ -165139,7 +165139,7 @@
     },
     "Tier": 5,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Sniper/Flintlock/SID_Sniper_Flintlock_VR_Crystal_T05.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Sniper/FlintLock/SID_Sniper_Flintlock_VR_Crystal_T05.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Flintlock-Sniper-LowTier.T-Icon-Weapons-SK-Flintlock-Sniper-LowTier",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Flintlock-Sniper-LowTier-L.png"
@@ -165185,7 +165185,7 @@
       "Result": "Schematic:sid_sniper_flintlock_vr_ore_t02"
     },
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Sniper/Flintlock/SID_Sniper_Flintlock_VR_Ore_T01.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Sniper/FlintLock/SID_Sniper_Flintlock_VR_Ore_T01.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Flintlock-Sniper-LowTier.T-Icon-Weapons-SK-Flintlock-Sniper-LowTier",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Flintlock-Sniper-LowTier-L.png"
@@ -165234,7 +165234,7 @@
       "Result": "Schematic:sid_sniper_flintlock_vr_ore_t03"
     },
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Sniper/Flintlock/SID_Sniper_Flintlock_VR_Ore_T02.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Sniper/FlintLock/SID_Sniper_Flintlock_VR_Ore_T02.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Flintlock-Sniper-LowTier.T-Icon-Weapons-SK-Flintlock-Sniper-LowTier",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Flintlock-Sniper-LowTier-L.png"
@@ -165295,7 +165295,7 @@
       "Result": "Schematic:sid_sniper_flintlock_vr_ore_t04"
     },
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Sniper/Flintlock/SID_Sniper_Flintlock_VR_Ore_T03.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Sniper/FlintLock/SID_Sniper_Flintlock_VR_Ore_T03.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Flintlock-Sniper-LowTier.T-Icon-Weapons-SK-Flintlock-Sniper-LowTier",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Flintlock-Sniper-LowTier-L.png"
@@ -165348,7 +165348,7 @@
       "Result": "Schematic:sid_sniper_flintlock_vr_ore_t05"
     },
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Sniper/Flintlock/SID_Sniper_Flintlock_VR_Ore_T04.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Sniper/FlintLock/SID_Sniper_Flintlock_VR_Ore_T04.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Flintlock-Sniper-LowTier.T-Icon-Weapons-SK-Flintlock-Sniper-LowTier",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Flintlock-Sniper-LowTier-L.png"
@@ -165391,7 +165391,7 @@
     },
     "Tier": 5,
     "TriggerType": "OnPress",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Sniper/Flintlock/SID_Sniper_Flintlock_VR_Ore_T05.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Schematics/Ranged/Sniper/FlintLock/SID_Sniper_Flintlock_VR_Ore_T05.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Flintlock-Sniper-LowTier.T-Icon-Weapons-SK-Flintlock-Sniper-LowTier",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Flintlock-Sniper-LowTier-L.png"

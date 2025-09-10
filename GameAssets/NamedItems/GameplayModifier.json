@@ -703,6 +703,18 @@
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-Bldg-OnDeath-BuffEnemyEnvDmg-128.png"
     }
   },
+  "GameplayModifier:gm_itemsharingenabled": {
+    "Type": "GameplayModifier",
+    "Name": "GM_ItemSharingEnabled",
+    "DisplayName": "Item Sharing Enabled",
+    "Description": "Share items with teammates in this mode.",
+    "IsPermanent": true,
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_ItemSharingEnabled.uasset",
+    "ImagePaths": {
+      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T_Icon_Modifier_Pos_ItemSharingEnabled_128.T_Icon_Modifier_Pos_ItemSharingEnabled_128",
+      "LargePreview": "ExportedImages\\T_Icon_Modifier_Pos_ItemSharingEnabled_128.png"
+    }
+  },
   "GameplayModifier:gm_lowg": {
     "Type": "GameplayModifier",
     "Name": "GM_LowG",

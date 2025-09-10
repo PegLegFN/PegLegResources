@@ -286,7 +286,7 @@
       "BaseCritDamage": 0.0,
       "Damage": 121.0,
       "EnvDamage": 0.0,
-      "ImpactDamage": 800.0,
+      "ImpactDamage": 1000.0,
       "StunTime": 2.5
     },
     "CooldownSeconds": 10.0,
@@ -958,6 +958,28 @@
     "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Abilities/Player/Perks/Hero/BearWithMe/Kit_Perk_H_BearWithMe_T02.uasset",
     "ImagePaths": {
       "Icon": "ExportedImages\\Icon-Outlander-BearWithMe-128.png"
+    }
+  },
+  "Ability:kit_perk_h_beatdropkick_t01": {
+    "Type": "Ability",
+    "Name": "Kit_Perk_H_BeatDropkick_T01",
+    "DisplayName": "Beat Dropkick",
+    "Description": "Increases Damage against dancing enemies by 30%. ",
+    "IsPermanent": true,
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Abilities/Player/Perks/Hero/BeatDropkick/Kit_Perk_H_BeatDropkick_T01.uasset",
+    "ImagePaths": {
+      "Icon": "ExportedImages\\Icon_Ninja_BeatDropKick_128.png"
+    }
+  },
+  "Ability:kit_perk_h_beatdropkick_t02": {
+    "Type": "Ability",
+    "Name": "Kit_Perk_H_BeatDropkick_T02",
+    "DisplayName": "Beat Dropkick \u002B",
+    "Description": "Increases Damage against dancing enemies by 30%. Additionally, enemies hit by Crescent Kick dance for 6 seconds.",
+    "IsPermanent": true,
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Abilities/Player/Perks/Hero/BeatDropkick/Kit_Perk_H_BeatDropkick_T02.uasset",
+    "ImagePaths": {
+      "Icon": "ExportedImages\\Icon_Ninja_BeatDropKick_128.png"
     }
   },
   "Ability:kit_perk_h_biggerisbetter_t01": {
@@ -1912,7 +1934,7 @@
     "DisplayName": "Feel The BASE",
     "Description": "Eliminating enemies standing on structures affected by B.A.S.E. charges B.A.S.E. After 30 charges B.A.S.E. emits an explosion which knocks back enemies and deals 39 base Energy Damage in a 3 tile Radius.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Abilities/Player/Perks/Hero/FeelTheBase/Kit_Perk_H_FeelTheBASE_T01.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Abilities/Player/Perks/Hero/FeelTheBASE/Kit_Perk_H_FeelTheBASE_T01.uasset",
     "ImagePaths": {
       "Icon": "ExportedImages\\Icon-Constructor-FeelTheBASE-128.png"
     }
@@ -1923,7 +1945,7 @@
     "DisplayName": "Feel The BASE \u002B",
     "Description": "Eliminating enemies standing on structures affected by B.A.S.E. charges B.A.S.E. After 30 charges B.A.S.E. emits an explosion which knocks back enemies and deals 89 base Energy Damage in a 5 tile Radius.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Abilities/Player/Perks/Hero/FeelTheBase/Kit_Perk_H_FeelTheBASE_T02.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Abilities/Player/Perks/Hero/FeelTheBASE/Kit_Perk_H_FeelTheBASE_T02.uasset",
     "ImagePaths": {
       "Icon": "ExportedImages\\Icon-Constructor-FeelTheBASE-128.png"
     }

@@ -10163,7 +10163,7 @@
         "Selectable": false
       }
     ],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/CannyValley/Act1/CannyValley_Reactive_Glyphs.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/CannyValley/Act1/cannyvalley_reactive_glyphs.uasset",
     "ImagePaths": {
       "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Social/T-Icon-Quest-Journal-64.T-Icon-Quest-Journal-64",
       "LargePreview": "ExportedImages\\T-Icon-Quest-Journal-64.png"
@@ -11624,7 +11624,7 @@
         "Selectable": false
       }
     ],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/CannyValley/Act1/CannyValley_Reactive_tumbleweed.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/CannyValley/Act1/CannyValley_Reactive_Tumbleweed.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Consumable/Icon-Consumable-Buff-L.Icon-Consumable-Buff-L",
       "LargePreview": "ExportedImages\\Icon-Consumable-Buff-L.png"
@@ -20614,7 +20614,7 @@
         "BackendName": "kill_husk_ninja_v2",
         "Count": 300,
         "Description": "Eliminate 300 Husks in successful missions as a Ninja",
-        "HudShortDescription": "Husk eliminated as a Ninja"
+        "HudShortDescription": "Husks eliminated as a Ninja"
       }
     ],
     "Rewards": [
@@ -29891,7 +29891,7 @@
         "Selectable": false
       }
     ],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Onboarding/HomebaseOnboarding.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/OnBoarding/HomebaseOnboarding.uasset",
     "ImagePaths": {
       "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Social/T-Icon-Quest-Journal-64.T-Icon-Quest-Journal-64",
       "LargePreview": "ExportedImages\\T-Icon-Quest-Journal-64.png"
@@ -29925,7 +29925,7 @@
       }
     ],
     "Rewards": [],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Onboarding/HomebaseOnboardingAfterOutpost.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/OnBoarding/HomebaseOnboardingAfterOutpost.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Quest/T-Icon-StoreLlamaBG-64.T-Icon-StoreLlamaBG-64",
       "LargePreview": "ExportedImages\\T-Icon-StoreLlamaBG-64.png"
@@ -29966,7 +29966,7 @@
         "Selectable": false
       }
     ],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Onboarding/HomebaseOnboardingGrantSchematics.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/OnBoarding/HomebaseOnboardingGrantSchematics.uasset",
     "ImagePaths": {
       "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Drilldowns/T-Icon-Outpost-128.T-Icon-Outpost-128",
       "LargePreview": "ExportedImages\\T-Icon-Outpost-128.png"
@@ -29995,7 +29995,7 @@
         "Selectable": false
       }
     ],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Onboarding/HomebaseQuest_CompleteExpedition.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/OnBoarding/HomebaseQuest_CompleteExpedition.uasset",
     "ImagePaths": {
       "SmallPreview": "/Game/UI/Foundation/Textures/Icons/SkillTree/T-Icon-ST-Struck-64.T-Icon-ST-Struck-64",
       "LargePreview": "ExportedImages\\T-Icon-ST-Struck-64.png"
@@ -30017,7 +30017,7 @@
       }
     ],
     "Rewards": [],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Onboarding/HomebaseQuest_ResearchPurchase.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/OnBoarding/HomebaseQuest_ResearchPurchase.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Quest/T-Icon-Research-64.T-Icon-Research-64",
       "LargePreview": "ExportedImages\\T-Icon-Research-64.png"
@@ -30039,7 +30039,7 @@
       }
     ],
     "Rewards": [],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Onboarding/HomebaseQuest_SlotEMTWorker.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/OnBoarding/HomebaseQuest_SlotEMTWorker.uasset",
     "ImagePaths": {
       "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Cards/SquadTypes/T-Icon-Hospital-128.T-Icon-Hospital-128",
       "LargePreview": "ExportedImages\\T-Icon-Hospital-128.png"
@@ -30061,7 +30061,7 @@
       }
     ],
     "Rewards": [],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Onboarding/HomebaseQuest_SlotFireTeamAlphaWorker.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/OnBoarding/HomebaseQuest_SlotFireTeamAlphaWorker.uasset",
     "ImagePaths": {
       "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Cards/SquadTypes/T-Icon-Firing-Range-128.T-Icon-Firing-Range-128",
       "LargePreview": "ExportedImages\\T-Icon-Firing-Range-128.png"
@@ -30083,7 +30083,7 @@
       }
     ],
     "Rewards": [],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Onboarding/HomebaseQuest_SlotMissionDefender.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/OnBoarding/HomebaseQuest_SlotMissionDefender.uasset",
     "ImagePaths": {
       "SmallPreview": "/Game/UI/Foundation/Textures/Icons/ItemCategories/T-Icon-Defenders-128.T-Icon-Defenders-128",
       "LargePreview": "ExportedImages\\T-Icon-Defenders-128.png"
@@ -30105,7 +30105,7 @@
       }
     ],
     "Rewards": [],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Onboarding/HomebaseQuest_SlotOutpostDefender.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/OnBoarding/HomebaseQuest_SlotOutpostDefender.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/ItemTypes/T-Icon-Survivor-Assault-128.T-Icon-Survivor-Assault-128",
       "LargePreview": "ExportedImages\\T-Icon-Survivor-Assault-128.png"
@@ -30127,7 +30127,7 @@
       }
     ],
     "Rewards": [],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Onboarding/HomebaseQuest_UnlockEMTWorker.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/OnBoarding/HomebaseQuest_UnlockEMTWorker.uasset",
     "ImagePaths": {
       "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Cards/SquadTypes/T-Icon-Hospital-128.T-Icon-Hospital-128",
       "LargePreview": "ExportedImages\\T-Icon-Hospital-128.png"
@@ -30149,7 +30149,7 @@
       }
     ],
     "Rewards": [],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Onboarding/HomebaseQuest_UnlockExpeditions.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/OnBoarding/HomebaseQuest_UnlockExpeditions.uasset",
     "ImagePaths": {
       "SmallPreview": "/Game/UI/Foundation/Textures/Icons/SkillTree/T-Icon-ST-Struck-64.T-Icon-ST-Struck-64",
       "LargePreview": "ExportedImages\\T-Icon-ST-Struck-64.png"
@@ -30171,7 +30171,7 @@
       }
     ],
     "Rewards": [],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Onboarding/HomebaseQuest_UnlockFireTeamAlphaWorker.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/OnBoarding/HomebaseQuest_UnlockFireTeamAlphaWorker.uasset",
     "ImagePaths": {
       "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Cards/SquadTypes/T-Icon-Firing-Range-128.T-Icon-Firing-Range-128",
       "LargePreview": "ExportedImages\\T-Icon-Firing-Range-128.png"
@@ -30193,7 +30193,7 @@
       }
     ],
     "Rewards": [],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Onboarding/HomebaseQuest_UnlockMissionDefender.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/OnBoarding/HomebaseQuest_UnlockMissionDefender.uasset",
     "ImagePaths": {
       "SmallPreview": "/Game/UI/Foundation/Textures/Icons/ItemCategories/T-Icon-Defenders-128.T-Icon-Defenders-128",
       "LargePreview": "ExportedImages\\T-Icon-Defenders-128.png"
@@ -30215,7 +30215,7 @@
       }
     ],
     "Rewards": [],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Onboarding/HomebaseQuest_UnlockOutpostDefender.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/OnBoarding/HomebaseQuest_UnlockOutpostDefender.uasset",
     "ImagePaths": {
       "SmallPreview": "/Game/UI/Foundation/Textures/Icons/ItemCategories/T-Icon-Defenders-128.T-Icon-Defenders-128",
       "LargePreview": "ExportedImages\\T-Icon-Defenders-128.png"
@@ -30237,7 +30237,7 @@
       }
     ],
     "Rewards": [],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Onboarding/HomebaseQuest_UnlockResearch.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/OnBoarding/HomebaseQuest_UnlockResearch.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Quest/T-Icon-Research-64.T-Icon-Research-64",
       "LargePreview": "ExportedImages\\T-Icon-Research-64.png"
@@ -30259,7 +30259,7 @@
       }
     ],
     "Rewards": [],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Onboarding/HomebaseQuest_UnlockSquads.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/OnBoarding/HomebaseQuest_UnlockSquads.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/ItemTypes/T-Icon-Survivor-128.T-Icon-Survivor-128",
       "LargePreview": "ExportedImages\\T-Icon-Survivor-128.png"
@@ -30281,7 +30281,7 @@
       }
     ],
     "Rewards": [],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Onboarding/HomebaseQuest_WeakPointVision.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/OnBoarding/HomebaseQuest_WeakPointVision.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Mission/T-Icon-Harvesting-128.T-Icon-Harvesting-128",
       "LargePreview": "ExportedImages\\T-Icon-Harvesting-128.png"
@@ -45950,7 +45950,7 @@
         "Selectable": false
       }
     ],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Pickaxes/PickaxeQuest_STW001_Tier_1.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/PIckaxes/PickaxeQuest_STW001_Tier_1.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Outpost/Icon-OutpostTab-HarvestOptimizer-L.Icon-OutpostTab-HarvestOptimizer-L",
       "LargePreview": "ExportedImages\\Icon-OutpostTab-HarvestOptimizer-L.png"
@@ -45985,7 +45985,7 @@
         "Selectable": false
       }
     ],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Pickaxes/PickaxeQuest_STW002_Tier_3.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/PIckaxes/PickaxeQuest_STW002_Tier_3.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Outpost/Icon-OutpostTab-HarvestOptimizer-L.Icon-OutpostTab-HarvestOptimizer-L",
       "LargePreview": "ExportedImages\\Icon-OutpostTab-HarvestOptimizer-L.png"
@@ -46020,7 +46020,7 @@
         "Selectable": false
       }
     ],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Pickaxes/PickaxeQuest_STW003_Tier_4.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/PIckaxes/PickaxeQuest_STW003_Tier_4.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Outpost/Icon-OutpostTab-HarvestOptimizer-L.Icon-OutpostTab-HarvestOptimizer-L",
       "LargePreview": "ExportedImages\\Icon-OutpostTab-HarvestOptimizer-L.png"
@@ -46055,7 +46055,7 @@
         "Selectable": false
       }
     ],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Pickaxes/PickaxeQuest_STW004_Tier_5.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/PIckaxes/PickaxeQuest_STW004_Tier_5.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Outpost/Icon-OutpostTab-HarvestOptimizer-L.Icon-OutpostTab-HarvestOptimizer-L",
       "LargePreview": "ExportedImages\\Icon-OutpostTab-HarvestOptimizer-L.png"
@@ -46090,7 +46090,7 @@
         "Selectable": false
       }
     ],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Pickaxes/PickaxeQuest_STW005_Tier_6.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/PIckaxes/PickaxeQuest_STW005_Tier_6.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Outpost/Icon-OutpostTab-HarvestOptimizer-L.Icon-OutpostTab-HarvestOptimizer-L",
       "LargePreview": "ExportedImages\\Icon-OutpostTab-HarvestOptimizer-L.png"
@@ -46119,7 +46119,7 @@
         "Selectable": false
       }
     ],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Pickaxes/PickaxeQuest_STW006_Tier_7.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/PIckaxes/PickaxeQuest_STW006_Tier_7.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Outpost/Icon-OutpostTab-HarvestOptimizer-L.Icon-OutpostTab-HarvestOptimizer-L",
       "LargePreview": "ExportedImages\\Icon-OutpostTab-HarvestOptimizer-L.png"
@@ -46148,7 +46148,7 @@
         "Selectable": false
       }
     ],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Pickaxes/PickaxeQuest_STW007_Basic.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/PIckaxes/PickaxeQuest_STW007_Basic.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Outpost/Icon-OutpostTab-HarvestOptimizer-L.Icon-OutpostTab-HarvestOptimizer-L",
       "LargePreview": "ExportedImages\\Icon-OutpostTab-HarvestOptimizer-L.png"
@@ -46583,7 +46583,7 @@
         "Selectable": false
       }
     ],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Events/Spring2019/PirateQuest/PirateQuest_2019_KillCollect_Melee.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Events/Spring2019/PirateQuest/PIrateQuest_2019_KillCollect_Melee.uasset",
     "ImagePaths": {
       "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Mission/T-Icon-Exterminate-128.T-Icon-Exterminate-128",
       "LargePreview": "ExportedImages\\T-Icon-Exterminate-128.png"
@@ -46618,7 +46618,7 @@
         "Selectable": false
       }
     ],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Events/Spring2019/PirateQuest/PIrateQuest_2019_KillCollect_MistMonsters.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Events/Spring2019/PirateQuest/PirateQuest_2019_KillCollect_MistMonsters.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Quest/T-Icon-collect-Unspeakable-Horrors-128.T-Icon-collect-Unspeakable-Horrors-128",
       "LargePreview": "ExportedImages\\T-Icon-collect-Unspeakable-Horrors-128.png"
@@ -51848,7 +51848,7 @@
         "Selectable": false
       }
     ],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Events/Summer2019/Season10A_TimeSignatures/S10_Fetch_Quest_A3.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Events/Summer2019/Season10A_TimeSignatures/S10_Fetch_Quest_a3.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Consumable/Icon-Consumable-Buff-L.Icon-Consumable-Buff-L",
       "LargePreview": "ExportedImages\\Icon-Consumable-Buff-L.png"
@@ -51883,7 +51883,7 @@
         "Selectable": false
       }
     ],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Events/Summer2019/Season10A_TimeSignatures/S10_Fetch_Quest_a4.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Events/Summer2019/Season10A_TimeSignatures/S10_Fetch_Quest_A4.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Consumable/Icon-Consumable-Buff-L.Icon-Consumable-Buff-L",
       "LargePreview": "ExportedImages\\Icon-Consumable-Buff-L.png"
@@ -61729,7 +61729,7 @@
         "Selectable": false
       }
     ],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Stonewood/stonewoodquest_fetch_researchcrates.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Stonewood/StonewoodQuest_Fetch_ResearchCrates.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Consumable/Icon-Consumable-Buff-L.Icon-Consumable-Buff-L",
       "LargePreview": "ExportedImages\\Icon-Consumable-Buff-L.png"
@@ -61777,7 +61777,7 @@
         "Selectable": false
       }
     ],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Stonewood/StonewoodQuest_Fetch_StormCalls.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Stonewood/stonewoodquest_fetch_stormcalls.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Consumable/Icon-Consumable-Buff-L.Icon-Consumable-Buff-L",
       "LargePreview": "ExportedImages\\Icon-Consumable-Buff-L.png"
@@ -61849,7 +61849,7 @@
         "Selectable": false
       }
     ],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Stonewood/StonewoodQuest_Fetch_TrashCans.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Stonewood/stonewoodquest_fetch_trashcans.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Consumable/Icon-Consumable-Buff-L.Icon-Consumable-Buff-L",
       "LargePreview": "ExportedImages\\Icon-Consumable-Buff-L.png"
@@ -61891,7 +61891,7 @@
         "Selectable": false
       }
     ],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Stonewood/stonewoodquest_fetch_triangulatingpop.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Stonewood/StonewoodQuest_Fetch_TriangulatingPop.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Consumable/Icon-Consumable-Buff-L.Icon-Consumable-Buff-L",
       "LargePreview": "ExportedImages\\Icon-Consumable-Buff-L.png"
@@ -63573,7 +63573,7 @@
         "Selectable": false
       }
     ],
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Events/Stormking/DailyChallenges/StormKing_Daily_Landmark_Bossfight.uasset",
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Quests/Events/StormKing/DailyChallenges/StormKing_Daily_Landmark_Bossfight.uasset",
     "ImagePaths": {
       "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Mission/T-Icon-Miniboss-128.T-Icon-Miniboss-128",
       "LargePreview": "ExportedImages\\T-Icon-Miniboss-128.png"

@@ -67899,6 +67899,204 @@
       "LargePreview": "ExportedImages\\T-Soldier-HID-A-419-Athena-Commando-F-EternalVanguard-L.png"
     }
   },
+  "Hero:hid_ninja_exercise_sr_t01": {
+    "Type": "Hero",
+    "Name": "HID_Ninja_Exercise_SR_T01",
+    "DisplayName": "Aerobic Assassin",
+    "SubType": "Ninja",
+    "CommanderPerk": "Beat Dropkick \u002B",
+    "CommanderPerkDescription": "Increases Damage against dancing enemies by 30%. Additionally, enemies hit by Crescent Kick dance for 6 seconds.",
+    "CommanderPerkTemplate": "Ability:Kit_Perk_H_BeatDropkick_T02",
+    "Description": "Flex your victory muscles.",
+    "HeroAbilities": [
+      "Ability:Kit_Ninja_CrescentKick",
+      "Ability:Kit_Ninja_DragonSlash",
+      "Ability:Kit_Ninja_KunaiStorm"
+    ],
+    "HeroPerk": "Beat Dropkick",
+    "HeroPerkDescription": "Increases Damage against dancing enemies by 30%. ",
+    "HeroPerkTemplate": "Ability:Kit_Perk_H_BeatDropkick_T01",
+    "HeroStatLine": "Balanced",
+    "LevelToXPRow": "SuperRare",
+    "Rarity": "Legendary",
+    "RecycleRecipe": {
+      "Amount": 225,
+      "Cost": {},
+      "Result": "AccountResource:reagent_people"
+    },
+    "Tier": 1,
+    "TierUpRecipe": {
+      "Cost": {
+        "AccountResource:heroxp": 2500,
+        "AccountResource:reagent_c_t01": 20,
+        "AccountResource:reagent_people": 75
+      },
+      "Result": "Hero:hid_ninja_exercise_sr_t02"
+    },
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Heroes/Ninja/ItemDefinition/HID_Ninja_Exercise_SR_T01.uasset",
+    "ImagePaths": {
+      "SmallPreview": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/T-Soldier-HID-189-Athena-Commando-F-Exercise.T-Soldier-HID-189-Athena-Commando-F-Exercise",
+      "LargePreview": "ExportedImages\\T-Soldier-HID-189-Athena-Commando-F-Exercise.png"
+    }
+  },
+  "Hero:hid_ninja_exercise_sr_t02": {
+    "Type": "Hero",
+    "Name": "HID_Ninja_Exercise_SR_T02",
+    "DisplayName": "Aerobic Assassin",
+    "SubType": "Ninja",
+    "CommanderPerk": "Beat Dropkick \u002B",
+    "CommanderPerkDescription": "Increases Damage against dancing enemies by 30%. Additionally, enemies hit by Crescent Kick dance for 6 seconds.",
+    "CommanderPerkTemplate": "Ability:Kit_Perk_H_BeatDropkick_T02",
+    "Description": "Flex your victory muscles.",
+    "HeroAbilities": [
+      "Ability:Kit_Ninja_CrescentKick",
+      "Ability:Kit_Ninja_DragonSlash",
+      "Ability:Kit_Ninja_KunaiStorm"
+    ],
+    "HeroPerk": "Beat Dropkick",
+    "HeroPerkDescription": "Increases Damage against dancing enemies by 30%. ",
+    "HeroPerkTemplate": "Ability:Kit_Perk_H_BeatDropkick_T01",
+    "HeroStatLine": "Balanced",
+    "LevelToXPRow": "SuperRare",
+    "Rarity": "Legendary",
+    "RecycleRecipe": {
+      "Amount": 225,
+      "Cost": {},
+      "Result": "AccountResource:reagent_people"
+    },
+    "Tier": 2,
+    "TierUpRecipe": {
+      "Cost": {
+        "AccountResource:heroxp": 6250,
+        "AccountResource:reagent_c_t01": 40,
+        "AccountResource:reagent_people": 200,
+        "AccountResource:reagent_c_t02": 11
+      },
+      "Result": "Hero:hid_ninja_exercise_sr_t03"
+    },
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Heroes/Ninja/ItemDefinition/HID_Ninja_Exercise_SR_T02.uasset",
+    "ImagePaths": {
+      "SmallPreview": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/T-Soldier-HID-189-Athena-Commando-F-Exercise.T-Soldier-HID-189-Athena-Commando-F-Exercise",
+      "LargePreview": "ExportedImages\\T-Soldier-HID-189-Athena-Commando-F-Exercise.png"
+    }
+  },
+  "Hero:hid_ninja_exercise_sr_t03": {
+    "Type": "Hero",
+    "Name": "HID_Ninja_Exercise_SR_T03",
+    "DisplayName": "Aerobic Assassin",
+    "SubType": "Ninja",
+    "CommanderPerk": "Beat Dropkick \u002B",
+    "CommanderPerkDescription": "Increases Damage against dancing enemies by 30%. Additionally, enemies hit by Crescent Kick dance for 6 seconds.",
+    "CommanderPerkTemplate": "Ability:Kit_Perk_H_BeatDropkick_T02",
+    "Description": "Flex your victory muscles.",
+    "HeroAbilities": [
+      "Ability:Kit_Ninja_CrescentKick",
+      "Ability:Kit_Ninja_DragonSlash",
+      "Ability:Kit_Ninja_KunaiStorm"
+    ],
+    "HeroPerk": "Beat Dropkick",
+    "HeroPerkDescription": "Increases Damage against dancing enemies by 30%. ",
+    "HeroPerkTemplate": "Ability:Kit_Perk_H_BeatDropkick_T01",
+    "HeroStatLine": "Balanced",
+    "LevelToXPRow": "SuperRare",
+    "Rarity": "Legendary",
+    "RecycleRecipe": {
+      "Amount": 225,
+      "Cost": {},
+      "Result": "AccountResource:reagent_people"
+    },
+    "Tier": 3,
+    "TierUpRecipe": {
+      "Cost": {
+        "AccountResource:heroxp": 10000,
+        "AccountResource:reagent_c_t01": 60,
+        "AccountResource:reagent_people": 325,
+        "AccountResource:reagent_c_t02": 22,
+        "AccountResource:reagent_c_t03": 11
+      },
+      "Result": "Hero:hid_ninja_exercise_sr_t04"
+    },
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Heroes/Ninja/ItemDefinition/HID_Ninja_Exercise_SR_T03.uasset",
+    "ImagePaths": {
+      "SmallPreview": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/T-Soldier-HID-189-Athena-Commando-F-Exercise.T-Soldier-HID-189-Athena-Commando-F-Exercise",
+      "LargePreview": "ExportedImages\\T-Soldier-HID-189-Athena-Commando-F-Exercise.png"
+    }
+  },
+  "Hero:hid_ninja_exercise_sr_t04": {
+    "Type": "Hero",
+    "Name": "HID_Ninja_Exercise_SR_T04",
+    "DisplayName": "Aerobic Assassin",
+    "SubType": "Ninja",
+    "CommanderPerk": "Beat Dropkick \u002B",
+    "CommanderPerkDescription": "Increases Damage against dancing enemies by 30%. Additionally, enemies hit by Crescent Kick dance for 6 seconds.",
+    "CommanderPerkTemplate": "Ability:Kit_Perk_H_BeatDropkick_T02",
+    "Description": "Flex your victory muscles.",
+    "HeroAbilities": [
+      "Ability:Kit_Ninja_CrescentKick",
+      "Ability:Kit_Ninja_DragonSlash",
+      "Ability:Kit_Ninja_KunaiStorm"
+    ],
+    "HeroPerk": "Beat Dropkick",
+    "HeroPerkDescription": "Increases Damage against dancing enemies by 30%. ",
+    "HeroPerkTemplate": "Ability:Kit_Perk_H_BeatDropkick_T01",
+    "HeroStatLine": "Balanced",
+    "LevelToXPRow": "SuperRare",
+    "Rarity": "Legendary",
+    "RecycleRecipe": {
+      "Amount": 225,
+      "Cost": {},
+      "Result": "AccountResource:reagent_people"
+    },
+    "Tier": 4,
+    "TierUpRecipe": {
+      "Cost": {
+        "AccountResource:heroxp": 13750,
+        "AccountResource:reagent_c_t01": 80,
+        "AccountResource:reagent_people": 450,
+        "AccountResource:reagent_c_t02": 33,
+        "AccountResource:reagent_c_t03": 22,
+        "AccountResource:reagent_c_t04": 11
+      },
+      "Result": "Hero:hid_ninja_exercise_sr_t05"
+    },
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Heroes/Ninja/ItemDefinition/HID_Ninja_Exercise_SR_T04.uasset",
+    "ImagePaths": {
+      "SmallPreview": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/T-Soldier-HID-189-Athena-Commando-F-Exercise.T-Soldier-HID-189-Athena-Commando-F-Exercise",
+      "LargePreview": "ExportedImages\\T-Soldier-HID-189-Athena-Commando-F-Exercise.png"
+    }
+  },
+  "Hero:hid_ninja_exercise_sr_t05": {
+    "Type": "Hero",
+    "Name": "HID_Ninja_Exercise_SR_T05",
+    "DisplayName": "Aerobic Assassin",
+    "SubType": "Ninja",
+    "CommanderPerk": "Beat Dropkick \u002B",
+    "CommanderPerkDescription": "Increases Damage against dancing enemies by 30%. Additionally, enemies hit by Crescent Kick dance for 6 seconds.",
+    "CommanderPerkTemplate": "Ability:Kit_Perk_H_BeatDropkick_T02",
+    "Description": "Flex your victory muscles.",
+    "HeroAbilities": [
+      "Ability:Kit_Ninja_CrescentKick",
+      "Ability:Kit_Ninja_DragonSlash",
+      "Ability:Kit_Ninja_KunaiStorm"
+    ],
+    "HeroPerk": "Beat Dropkick",
+    "HeroPerkDescription": "Increases Damage against dancing enemies by 30%. ",
+    "HeroPerkTemplate": "Ability:Kit_Perk_H_BeatDropkick_T01",
+    "HeroStatLine": "Balanced",
+    "LevelToXPRow": "SuperRare",
+    "Rarity": "Legendary",
+    "RecycleRecipe": {
+      "Amount": 225,
+      "Cost": {},
+      "Result": "AccountResource:reagent_people"
+    },
+    "Tier": 5,
+    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Heroes/Ninja/ItemDefinition/HID_Ninja_Exercise_SR_T05.uasset",
+    "ImagePaths": {
+      "SmallPreview": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/T-Soldier-HID-189-Athena-Commando-F-Exercise.T-Soldier-HID-189-Athena-Commando-F-Exercise",
+      "LargePreview": "ExportedImages\\T-Soldier-HID-189-Athena-Commando-F-Exercise.png"
+    }
+  },
   "Hero:hid_ninja_myth02_sr_t01": {
     "Type": "Hero",
     "Name": "HID_Ninja_Myth02_SR_T01",

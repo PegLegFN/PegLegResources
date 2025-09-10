@@ -42,10 +42,13 @@
             "startsWith": "starlightquest_daily_complete"
           },
           {
-            "startsWith": "starlightquest_complete_dailies"
+            "startsWith": "starlightquest_complete_d"
           },
           {
-            "endsWith": "_hard"
+            "startsWith": "starlightquest_dungeoneer"
+          },
+          {
+            "startsWith": "starlightquest_complete_all"
           }
         ]
       }
@@ -69,13 +72,81 @@
       ]
     }
   },
+  "dungeon_crypts": {
+    "displayName": "Crypts Capers",
+    "eventFlag": "EventFlag.Starlight",
+    "sequence": true,
+    "predicate": {
+      "union": [
+        "Quest:starlightquest_complete_d1_a",
+        "Quest:starlightquest_complete_d1_b",
+        "Quest:starlightquest_complete_d1_c"
+      ]
+    }
+  },
+  "dungeon_lab": {
+    "displayName": "Lab Looting",
+    "eventFlag": "EventFlag.Starlight",
+    "sequence": true,
+    "predicate": {
+      "union": [
+        "Quest:starlightquest_complete_d5science_a",
+        "Quest:starlightquest_complete_d5science_b",
+        "Quest:starlightquest_complete_d5science_c"
+      ]
+    }
+  },
+  "dungeon_inferno": {
+    "displayName": "Inferno Infiltration",
+    "eventFlag": "EventFlag.Starlight",
+    "sequence": true,
+    "predicate": {
+      "union": [
+        "Quest:starlightquest_complete_d2_a",
+        "Quest:starlightquest_complete_d2_b",
+        "Quest:starlightquest_complete_d2_c"
+      ]
+    }
+  },
+  "dungeon_grotto": {
+    "displayName": "Grotto Grabbing",
+    "eventFlag": "EventFlag.Starlight",
+    "sequence": true,
+    "predicate": {
+      "union": [
+        "Quest:starlightquest_complete_d3_a",
+        "Quest:starlightquest_complete_d3_b",
+        "Quest:starlightquest_complete_d3_c"
+      ]
+    }
+  },
+  "dungeon_labrynth": {
+    "displayName": "Labrynth Larceny",
+    "eventFlag": "EventFlag.Starlight",
+    "sequence": true,
+    "predicate": {
+      "union": [
+        "Quest:starlightquest_complete_d4_a",
+        "Quest:starlightquest_complete_d4_b",
+        "Quest:starlightquest_complete_d4_c"
+      ]
+    }
+  },
+  "dungeon_class": {
+    "displayName": "Dungeoneers",
+    "eventFlag": "EventFlag.Starlight",
+    "chain":true,
+    "predicate": "Quest:starlightquest_dungeoneer_soldier"
+  },
   "dungeon_elite": {
-    "displayName": "Elite Dungeons",
+    "displayName": "Dungeon Checklist",
     "eventFlag": "EventFlag.Starlight",
     "showComplete":true,
     "predicate": {
-      "category": "lte_starlight",
-      "endsWith": "_hard"
+      "union":[
+        "Quest:starlightquest_complete_all",
+        "Quest:starlightquest_complete_all_hard"
+      ]
     }
   },
   "sth": {

@@ -6,7 +6,7 @@
     "Description": "Drops [Ability.MaxStacks] bombs on targets.",
     "IsPermanent": true,
     "Rarity": "Common",
-    "AssetPath": "FortniteGame/Content/Abilities/Player/Generic/Gadgets/Airstrike/G_AirStrike.uasset",
+    "AssetPath": "FortniteGame/Content/Abilities/Player/Generic/Gadgets/AirStrike/G_AirStrike.uasset",
     "ImagePaths": {
       "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Gadgets/Icon-Gadget-Airstrike-bg-128.Icon-Gadget-Airstrike-bg-128",
       "LargePreview": "ExportedImages\\Icon-Gadget-Airstrike-bg-128.png"

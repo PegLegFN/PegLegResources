@@ -12,7 +12,7 @@
       },
       "Result": "Alteration:aid_att_buildingheal_t02"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/BuildingHeal/AID_Att_BuildingHeal_T01.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/buildingheal/aid_att_buildingheal_t01.uasset"
   },
   "Alteration:aid_att_buildingheal_t02": {
     "Type": "Alteration",
@@ -26,7 +26,7 @@
       },
       "Result": "Alteration:aid_att_buildingheal_t03"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/BuildingHeal/AID_Att_BuildingHeal_T02.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/buildingheal/aid_att_buildingheal_t02.uasset"
   },
   "Alteration:aid_att_buildingheal_t03": {
     "Type": "Alteration",
@@ -41,7 +41,7 @@
       },
       "Result": "Alteration:aid_att_buildingheal_t04"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/BuildingHeal/AID_Att_BuildingHeal_T03.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/buildingheal/aid_att_buildingheal_t03.uasset"
   },
   "Alteration:aid_att_buildingheal_t04": {
     "Type": "Alteration",
@@ -56,7 +56,7 @@
       },
       "Result": "Alteration:aid_att_buildingheal_t05"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/BuildingHeal/AID_Att_BuildingHeal_T04.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/buildingheal/aid_att_buildingheal_t04.uasset"
   },
   "Alteration:aid_att_buildingheal_t05": {
     "Type": "Alteration",
@@ -64,7 +64,7 @@
     "DisplayName": "Heals attached building 4.8% of its Max Health every 10 seconds. Does not stack.",
     "IsPermanent": true,
     "Rarity": "Legendary",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/BuildingHeal/AID_Att_BuildingHeal_T05.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/buildingheal/aid_att_buildingheal_t05.uasset"
   },
   "Alteration:aid_att_buildingmaxhealth_t01": {
     "Type": "Alteration",
@@ -79,7 +79,7 @@
       },
       "Result": "Alteration:aid_att_buildingmaxhealth_t02"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/BuildingMaxHealth/AID_Att_BuildingMaxHealth_T01.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/buildingmaxhealth/aid_att_buildingmaxhealth_t01.uasset"
   },
   "Alteration:aid_att_buildingmaxhealth_t02": {
     "Type": "Alteration",
@@ -93,7 +93,7 @@
       },
       "Result": "Alteration:aid_att_buildingmaxhealth_t03"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/BuildingMaxHealth/AID_Att_BuildingMaxHealth_T02.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/buildingmaxhealth/aid_att_buildingmaxhealth_t02.uasset"
   },
   "Alteration:aid_att_buildingmaxhealth_t03": {
     "Type": "Alteration",
@@ -108,7 +108,7 @@
       },
       "Result": "Alteration:aid_att_buildingmaxhealth_t04"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/BuildingMaxHealth/AID_Att_BuildingMaxHealth_T03.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/buildingmaxhealth/aid_att_buildingmaxhealth_t03.uasset"
   },
   "Alteration:aid_att_buildingmaxhealth_t04": {
     "Type": "Alteration",
@@ -123,7 +123,7 @@
       },
       "Result": "Alteration:aid_att_buildingmaxhealth_t05"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/BuildingMaxHealth/AID_Att_BuildingMaxHealth_T04.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/buildingmaxhealth/aid_att_buildingmaxhealth_t04.uasset"
   },
   "Alteration:aid_att_buildingmaxhealth_t05": {
     "Type": "Alteration",
@@ -131,7 +131,7 @@
     "DisplayName": "\u002B17% Increased Building Health",
     "IsPermanent": true,
     "Rarity": "Legendary",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/BuildingMaxHealth/AID_Att_BuildingMaxHealth_T05.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/buildingmaxhealth/aid_att_buildingmaxhealth_t05.uasset"
   },
   "Alteration:aid_att_coolingrate_t01": {
     "Type": "Alteration",
@@ -146,7 +146,7 @@
       },
       "Result": "Alteration:aid_att_coolingrate_t02"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/CoolingRate/AID_Att_CoolingRate_T01.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/coolingrate/aid_att_coolingrate_t01.uasset"
   },
   "Alteration:aid_att_coolingrate_t02": {
     "Type": "Alteration",
@@ -160,7 +160,7 @@
       },
       "Result": "Alteration:aid_att_coolingrate_t03"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/CoolingRate/AID_Att_CoolingRate_T02.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/coolingrate/aid_att_coolingrate_t02.uasset"
   },
   "Alteration:aid_att_coolingrate_t03": {
     "Type": "Alteration",
@@ -175,7 +175,7 @@
       },
       "Result": "Alteration:aid_att_coolingrate_t04"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/CoolingRate/AID_Att_CoolingRate_T03.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/coolingrate/aid_att_coolingrate_t03.uasset"
   },
   "Alteration:aid_att_coolingrate_t04": {
     "Type": "Alteration",
@@ -190,7 +190,7 @@
       },
       "Result": "Alteration:aid_att_coolingrate_t05"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/CoolingRate/AID_Att_CoolingRate_T04.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/coolingrate/aid_att_coolingrate_t04.uasset"
   },
   "Alteration:aid_att_coolingrate_t05": {
     "Type": "Alteration",
@@ -198,7 +198,7 @@
     "DisplayName": "\u002B75% Cooling Rate",
     "IsPermanent": true,
     "Rarity": "Legendary",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/CoolingRate/AID_Att_CoolingRate_T05.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/coolingrate/aid_att_coolingrate_t05.uasset"
   },
   "Alteration:aid_att_critchance_t01": {
     "Type": "Alteration",
@@ -213,7 +213,7 @@
       },
       "Result": "Alteration:aid_att_critchance_t02"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/CritChance/AID_Att_CritChance_T01.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/critchance/aid_att_critchance_t01.uasset"
   },
   "Alteration:aid_att_critchance_t02": {
     "Type": "Alteration",
@@ -227,7 +227,7 @@
       },
       "Result": "Alteration:aid_att_critchance_t03"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/CritChance/AID_Att_CritChance_T02.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/critchance/aid_att_critchance_t02.uasset"
   },
   "Alteration:aid_att_critchance_t03": {
     "Type": "Alteration",
@@ -242,7 +242,7 @@
       },
       "Result": "Alteration:aid_att_critchance_t04"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/CritChance/AID_Att_CritChance_T03.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/critchance/aid_att_critchance_t03.uasset"
   },
   "Alteration:aid_att_critchance_t04": {
     "Type": "Alteration",
@@ -257,7 +257,7 @@
       },
       "Result": "Alteration:aid_att_critchance_t05"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/CritChance/AID_Att_CritChance_T04.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/critchance/aid_att_critchance_t04.uasset"
   },
   "Alteration:aid_att_critchance_t05": {
     "Type": "Alteration",
@@ -265,7 +265,7 @@
     "DisplayName": "\u002B30 Critical Rating",
     "IsPermanent": true,
     "Rarity": "Legendary",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/CritChance/AID_Att_CritChance_T05.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/critchance/aid_att_critchance_t05.uasset"
   },
   "Alteration:aid_att_critdamage_t01": {
     "Type": "Alteration",
@@ -280,7 +280,7 @@
       },
       "Result": "Alteration:aid_att_critdamage_t02"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/CritDamage/AID_Att_CritDamage_T01.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/critdamage/aid_att_critdamage_t01.uasset"
   },
   "Alteration:aid_att_critdamage_t02": {
     "Type": "Alteration",
@@ -294,7 +294,7 @@
       },
       "Result": "Alteration:aid_att_critdamage_t03"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/CritDamage/AID_Att_CritDamage_T02.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/critdamage/aid_att_critdamage_t02.uasset"
   },
   "Alteration:aid_att_critdamage_t03": {
     "Type": "Alteration",
@@ -309,7 +309,7 @@
       },
       "Result": "Alteration:aid_att_critdamage_t04"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/CritDamage/AID_Att_CritDamage_T03.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/critdamage/aid_att_critdamage_t03.uasset"
   },
   "Alteration:aid_att_critdamage_t04": {
     "Type": "Alteration",
@@ -324,7 +324,7 @@
       },
       "Result": "Alteration:aid_att_critdamage_t05"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/CritDamage/AID_Att_CritDamage_T04.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/critdamage/aid_att_critdamage_t04.uasset"
   },
   "Alteration:aid_att_critdamage_t05": {
     "Type": "Alteration",
@@ -332,7 +332,7 @@
     "DisplayName": "\u002B135% Crit Damage",
     "IsPermanent": true,
     "Rarity": "Legendary",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/CritDamage/AID_Att_CritDamage_T05.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/critdamage/aid_att_critdamage_t05.uasset"
   },
   "Alteration:aid_att_damage_physical_t01": {
     "Type": "Alteration",
@@ -350,7 +350,7 @@
       },
       "Result": "Alteration:aid_att_damage_physical_t02"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/Elemental/Physical/AID_Att_Damage_Physical_T01.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/physical/aid_att_damage_physical_t01.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Alterations/T-Icon-Element-Physical.T-Icon-Element-Physical",
       "LargePreview": "ExportedImages\\T-Icon-Element-Physical-L.png"
@@ -371,7 +371,7 @@
       },
       "Result": "Alteration:aid_att_damage_physical_t03"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/Elemental/Physical/AID_Att_Damage_Physical_T02.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/physical/aid_att_damage_physical_t02.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Alterations/T-Icon-Element-Physical.T-Icon-Element-Physical",
       "LargePreview": "ExportedImages\\T-Icon-Element-Physical-L.png"
@@ -393,7 +393,7 @@
       },
       "Result": "Alteration:aid_att_damage_physical_t04"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/Elemental/Physical/AID_Att_Damage_Physical_T03.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/physical/aid_att_damage_physical_t03.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Alterations/T-Icon-Element-Physical.T-Icon-Element-Physical",
       "LargePreview": "ExportedImages\\T-Icon-Element-Physical-L.png"
@@ -415,7 +415,7 @@
       },
       "Result": "Alteration:aid_att_damage_physical_t05"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/Elemental/Physical/AID_Att_Damage_Physical_T04.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/physical/aid_att_damage_physical_t04.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Alterations/T-Icon-Element-Physical.T-Icon-Element-Physical",
       "LargePreview": "ExportedImages\\T-Icon-Element-Physical-L.png"
@@ -430,7 +430,7 @@
     },
     "IsPermanent": true,
     "Rarity": "Legendary",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/Elemental/Physical/AID_Att_Damage_Physical_T05.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/physical/aid_att_damage_physical_t05.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Alterations/T-Icon-Element-Physical.T-Icon-Element-Physical",
       "LargePreview": "ExportedImages\\T-Icon-Element-Physical-L.png"
@@ -449,7 +449,7 @@
       },
       "Result": "Alteration:aid_att_damage_t02"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/Damage/AID_Att_Damage_T01.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/damage/aid_att_damage_t01.uasset"
   },
   "Alteration:aid_att_damage_t02": {
     "Type": "Alteration",
@@ -463,7 +463,7 @@
       },
       "Result": "Alteration:aid_att_damage_t03"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/Damage/AID_Att_Damage_T02.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/damage/aid_att_damage_t02.uasset"
   },
   "Alteration:aid_att_damage_t03": {
     "Type": "Alteration",
@@ -478,7 +478,7 @@
       },
       "Result": "Alteration:aid_att_damage_t04"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/Damage/AID_Att_Damage_T03.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/damage/aid_att_damage_t03.uasset"
   },
   "Alteration:aid_att_damage_t04": {
     "Type": "Alteration",
@@ -493,7 +493,7 @@
       },
       "Result": "Alteration:aid_att_damage_t05"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/Damage/AID_Att_Damage_T04.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/damage/aid_att_damage_t04.uasset"
   },
   "Alteration:aid_att_damage_t05": {
     "Type": "Alteration",
@@ -501,7 +501,7 @@
     "DisplayName": "\u002B30% Damage",
     "IsPermanent": true,
     "Rarity": "Legendary",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/Damage/AID_Att_Damage_T05.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/damage/aid_att_damage_t05.uasset"
   },
   "Alteration:aid_att_damageresistance_t01": {
     "Type": "Alteration",
@@ -516,7 +516,7 @@
       },
       "Result": "Alteration:aid_att_damageresistance_t02"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/DamageResistance/AID_Att_DamageResistance_T01.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/damageresistance/aid_att_damageresistance_t01.uasset"
   },
   "Alteration:aid_att_damageresistance_t02": {
     "Type": "Alteration",
@@ -530,7 +530,7 @@
       },
       "Result": "Alteration:aid_att_damageresistance_t03"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/DamageResistance/AID_Att_DamageResistance_T02.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/damageresistance/aid_att_damageresistance_t02.uasset"
   },
   "Alteration:aid_att_damageresistance_t03": {
     "Type": "Alteration",
@@ -545,7 +545,7 @@
       },
       "Result": "Alteration:aid_att_damageresistance_t04"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/DamageResistance/AID_Att_DamageResistance_T03.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/damageresistance/aid_att_damageresistance_t03.uasset"
   },
   "Alteration:aid_att_damageresistance_t04": {
     "Type": "Alteration",
@@ -560,7 +560,7 @@
       },
       "Result": "Alteration:aid_att_damageresistance_t05"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/DamageResistance/AID_Att_DamageResistance_T04.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/damageresistance/aid_att_damageresistance_t04.uasset"
   },
   "Alteration:aid_att_damageresistance_t05": {
     "Type": "Alteration",
@@ -568,175 +568,175 @@
     "DisplayName": "\u002B40 Armor",
     "IsPermanent": true,
     "Rarity": "Legendary",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/DamageResistance/AID_Att_DamageResistance_T05.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/damageresistance/aid_att_damageresistance_t05.uasset"
   },
   "Alteration:aid_att_def_ammosave": {
     "Type": "Alteration",
     "Name": "AID_Att_Def_AmmoSave",
     "DisplayName": "Weapons have a 23% chance to not consume ammo when fired.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alterations/Defenders/Ranged/AID_Att_Def_AmmoSave.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/defenders/ranged/aid_att_def_ammosave.uasset"
   },
   "Alteration:aid_att_def_clipsize": {
     "Type": "Alteration",
     "Name": "AID_Att_Def_ClipSize",
     "DisplayName": "Increases weapon magazine size by 30%.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alterations/Defenders/Ranged/AID_Att_Def_ClipSize.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/defenders/ranged/aid_att_def_clipsize.uasset"
   },
   "Alteration:aid_att_def_critchance_melee": {
     "Type": "Alteration",
     "Name": "AID_Att_Def_CritChance_Melee",
     "DisplayName": "Increases crit rating with melee weapons by 13.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alterations/Defenders/Melee/AID_Att_Def_CritChance_Melee.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/defenders/melee/aid_att_def_critchance_melee.uasset"
   },
   "Alteration:aid_att_def_critchance_ranged": {
     "Type": "Alteration",
     "Name": "AID_Att_Def_CritChance_Ranged",
     "DisplayName": "Increases crit rating with ranged weapons by 13.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alterations/Defenders/Ranged/AID_Att_Def_CritChance_Ranged.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/defenders/ranged/aid_att_def_critchance_ranged.uasset"
   },
   "Alteration:aid_att_def_critdamage_melee": {
     "Type": "Alteration",
     "Name": "AID_Att_Def_CritDamage_Melee",
     "DisplayName": "Increases melee weapon crit damage by 54%.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alterations/Defenders/Melee/AID_Att_Def_CritDamage_Melee.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/defenders/melee/aid_att_def_critdamage_melee.uasset"
   },
   "Alteration:aid_att_def_critdamage_ranged": {
     "Type": "Alteration",
     "Name": "AID_Att_Def_CritDamage_Ranged",
     "DisplayName": "Increases ranged weapon crit damage by 54%.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alterations/Defenders/Ranged/AID_Att_Def_CritDamage_Ranged.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/defenders/ranged/aid_att_def_critdamage_ranged.uasset"
   },
   "Alteration:aid_att_def_durability": {
     "Type": "Alteration",
     "Name": "AID_Att_Def_Durability",
     "DisplayName": "Increases weapon lifespan by 19%",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alterations/Defenders/Shared/AID_Att_Def_Durability.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/defenders/shared/aid_att_def_durability.uasset"
   },
   "Alteration:aid_att_def_firerate": {
     "Type": "Alteration",
     "Name": "AID_Att_Def_FireRate",
     "DisplayName": "Increases weapon fire rate by 18%.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alterations/Defenders/Ranged/AID_Att_Def_FireRate.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/defenders/ranged/aid_att_def_firerate.uasset"
   },
   "Alteration:aid_att_def_maxhealth": {
     "Type": "Alteration",
     "Name": "AID_Att_Def_MaxHealth",
     "DisplayName": "Increases maximum health 24%.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alterations/Defenders/Shared/AID_Att_Def_MaxHealth.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/defenders/shared/aid_att_def_maxhealth.uasset"
   },
   "Alteration:aid_att_def_maxshield": {
     "Type": "Alteration",
     "Name": "AID_Att_Def_MaxShield",
     "DisplayName": "Increases maximum shield 24%.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alterations/Defenders/Shared/AID_Att_Def_MaxShield.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/defenders/shared/aid_att_def_maxshield.uasset"
   },
   "Alteration:aid_att_def_movespeed": {
     "Type": "Alteration",
     "Name": "AID_Att_Def_MoveSpeed",
     "DisplayName": "Increases movement speed by 12%",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alterations/Defenders/Melee/AID_Att_Def_MoveSpeed.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/defenders/melee/aid_att_def_movespeed.uasset"
   },
   "Alteration:aid_att_def_reload": {
     "Type": "Alteration",
     "Name": "AID_Att_Def_Reload",
     "DisplayName": "Increases weapon reload speed by 30%.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alterations/Defenders/Ranged/AID_Att_Def_Reload.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/defenders/ranged/aid_att_def_reload.uasset"
   },
   "Alteration:aid_att_def_shieldregen": {
     "Type": "Alteration",
     "Name": "AID_Att_Def_ShieldRegen",
     "DisplayName": "Increases shield regeneration rate 24%.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alterations/Defenders/Shared/AID_Att_Def_ShieldRegen.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/defenders/shared/aid_att_def_shieldregen.uasset"
   },
   "Alteration:aid_att_def_weapondamage_assault": {
     "Type": "Alteration",
     "Name": "AID_Att_Def_WeaponDamage_Assault",
     "DisplayName": "Increases assault weapon and SMG damage by 15%.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alterations/Defenders/Ranged/AID_Att_Def_WeaponDamage_Assault.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/defenders/ranged/aid_att_def_weapondamage_assault.uasset"
   },
   "Alteration:aid_att_def_weapondamage_axe": {
     "Type": "Alteration",
     "Name": "AID_Att_Def_WeaponDamage_Axe",
     "DisplayName": "Increases axe damage by 15%.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alterations/Defenders/Melee/AID_Att_Def_WeaponDamage_Axe.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/defenders/melee/aid_att_def_weapondamage_axe.uasset"
   },
   "Alteration:aid_att_def_weapondamage_club": {
     "Type": "Alteration",
     "Name": "AID_Att_Def_WeaponDamage_Club",
     "DisplayName": "Increases club damage by 15%.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alterations/Defenders/Melee/AID_Att_Def_WeaponDamage_Club.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/defenders/melee/aid_att_def_weapondamage_club.uasset"
   },
   "Alteration:aid_att_def_weapondamage_hammer": {
     "Type": "Alteration",
     "Name": "AID_Att_Def_WeaponDamage_Hammer",
     "DisplayName": "Increases hardware damage by 15%.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alterations/Defenders/Melee/AID_Att_Def_WeaponDamage_Hammer.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/defenders/melee/aid_att_def_weapondamage_hammer.uasset"
   },
   "Alteration:aid_att_def_weapondamage_melee": {
     "Type": "Alteration",
     "Name": "AID_Att_Def_WeaponDamage_Melee",
     "DisplayName": "Increases melee weapon damage by 12%.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alterations/Defenders/Melee/AID_Att_Def_WeaponDamage_Melee.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/defenders/melee/aid_att_def_weapondamage_melee.uasset"
   },
   "Alteration:aid_att_def_weapondamage_pistol": {
     "Type": "Alteration",
     "Name": "AID_Att_Def_WeaponDamage_Pistol",
     "DisplayName": "Increases pistol and SMG damage by 15%.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alterations/Defenders/Ranged/AID_Att_Def_WeaponDamage_Pistol.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/defenders/ranged/aid_att_def_weapondamage_pistol.uasset"
   },
   "Alteration:aid_att_def_weapondamage_scythe": {
     "Type": "Alteration",
     "Name": "AID_Att_Def_WeaponDamage_Scythe",
     "DisplayName": "Increases scythe damage by 15%.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alterations/Defenders/Melee/AID_Att_Def_WeaponDamage_Scythe.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/defenders/melee/aid_att_def_weapondamage_scythe.uasset"
   },
   "Alteration:aid_att_def_weapondamage_shotgun": {
     "Type": "Alteration",
     "Name": "AID_Att_Def_WeaponDamage_Shotgun",
     "DisplayName": "Increases shotgun damage by 15%.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alterations/Defenders/Ranged/AID_Att_Def_WeaponDamage_Shotgun.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/defenders/ranged/aid_att_def_weapondamage_shotgun.uasset"
   },
   "Alteration:aid_att_def_weapondamage_sniper": {
     "Type": "Alteration",
     "Name": "AID_Att_Def_WeaponDamage_Sniper",
     "DisplayName": "Increases sniper rifle damage by 15%.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alterations/Defenders/Ranged/AID_Att_Def_WeaponDamage_Sniper.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/defenders/ranged/aid_att_def_weapondamage_sniper.uasset"
   },
   "Alteration:aid_att_def_weapondamage_spears": {
     "Type": "Alteration",
     "Name": "AID_Att_Def_WeaponDamage_Spears",
     "DisplayName": "Increases spear damage by 15%.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alterations/Defenders/Melee/AID_Att_Def_WeaponDamage_Spears.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/defenders/melee/aid_att_def_weapondamage_spears.uasset"
   },
   "Alteration:aid_att_def_weapondamage_sword": {
     "Type": "Alteration",
     "Name": "AID_Att_Def_WeaponDamage_Sword",
     "DisplayName": "Increases sword damage by 15%.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alterations/Defenders/Melee/AID_Att_Def_WeaponDamage_Sword.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/defenders/melee/aid_att_def_weapondamage_sword.uasset"
   },
   "Alteration:aid_att_effectduration_t01": {
     "Type": "Alteration",
@@ -751,7 +751,7 @@
       },
       "Result": "Alteration:aid_att_effectduration_t02"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/EffectDuration/AID_Att_EffectDuration_T01.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/effectduration/aid_att_effectduration_t01.uasset"
   },
   "Alteration:aid_att_effectduration_t02": {
     "Type": "Alteration",
@@ -765,7 +765,7 @@
       },
       "Result": "Alteration:aid_att_effectduration_t03"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/EffectDuration/AID_Att_EffectDuration_T02.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/effectduration/aid_att_effectduration_t02.uasset"
   },
   "Alteration:aid_att_effectduration_t03": {
     "Type": "Alteration",
@@ -780,7 +780,7 @@
       },
       "Result": "Alteration:aid_att_effectduration_t04"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/EffectDuration/AID_Att_EffectDuration_T03.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/effectduration/aid_att_effectduration_t03.uasset"
   },
   "Alteration:aid_att_effectduration_t04": {
     "Type": "Alteration",
@@ -795,7 +795,7 @@
       },
       "Result": "Alteration:aid_att_effectduration_t05"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/EffectDuration/AID_Att_EffectDuration_T04.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/effectduration/aid_att_effectduration_t04.uasset"
   },
   "Alteration:aid_att_effectduration_t05": {
     "Type": "Alteration",
@@ -803,7 +803,7 @@
     "DisplayName": "\u002B30% Effect Duration",
     "IsPermanent": true,
     "Rarity": "Legendary",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/EffectDuration/AID_Att_EffectDuration_T05.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/effectduration/aid_att_effectduration_t05.uasset"
   },
   "Alteration:aid_att_firerate_melee_t01": {
     "Type": "Alteration",
@@ -818,7 +818,7 @@
       },
       "Result": "Alteration:aid_att_firerate_melee_t02"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/FireRate/AID_Att_FireRate_Melee_T01.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/firerate/aid_att_firerate_melee_t01.uasset"
   },
   "Alteration:aid_att_firerate_melee_t02": {
     "Type": "Alteration",
@@ -832,7 +832,7 @@
       },
       "Result": "Alteration:aid_att_firerate_melee_t03"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/FireRate/AID_Att_FireRate_Melee_T02.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/firerate/aid_att_firerate_melee_t02.uasset"
   },
   "Alteration:aid_att_firerate_melee_t03": {
     "Type": "Alteration",
@@ -847,7 +847,7 @@
       },
       "Result": "Alteration:aid_att_firerate_melee_t04"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/FireRate/AID_Att_FireRate_Melee_T03.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/firerate/aid_att_firerate_melee_t03.uasset"
   },
   "Alteration:aid_att_firerate_melee_t04": {
     "Type": "Alteration",
@@ -862,7 +862,7 @@
       },
       "Result": "Alteration:aid_att_firerate_melee_t05"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/FireRate/AID_Att_FireRate_Melee_T04.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/firerate/aid_att_firerate_melee_t04.uasset"
   },
   "Alteration:aid_att_firerate_melee_t05": {
     "Type": "Alteration",
@@ -870,7 +870,7 @@
     "DisplayName": "\u002B30% Attack Speed",
     "IsPermanent": true,
     "Rarity": "Legendary",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/FireRate/AID_Att_FireRate_Melee_T05.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/firerate/aid_att_firerate_melee_t05.uasset"
   },
   "Alteration:aid_att_firerate_ranged_t01": {
     "Type": "Alteration",
@@ -885,7 +885,7 @@
       },
       "Result": "Alteration:aid_att_firerate_ranged_t02"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/FireRate/AID_Att_FireRate_Ranged_T01.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/firerate/aid_att_firerate_ranged_t01.uasset"
   },
   "Alteration:aid_att_firerate_ranged_t02": {
     "Type": "Alteration",
@@ -899,7 +899,7 @@
       },
       "Result": "Alteration:aid_att_firerate_ranged_t03"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/FireRate/AID_Att_FireRate_Ranged_T02.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/firerate/aid_att_firerate_ranged_t02.uasset"
   },
   "Alteration:aid_att_firerate_ranged_t03": {
     "Type": "Alteration",
@@ -914,7 +914,7 @@
       },
       "Result": "Alteration:aid_att_firerate_ranged_t04"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/FireRate/AID_Att_FireRate_Ranged_T03.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/firerate/aid_att_firerate_ranged_t03.uasset"
   },
   "Alteration:aid_att_firerate_ranged_t04": {
     "Type": "Alteration",
@@ -929,7 +929,7 @@
       },
       "Result": "Alteration:aid_att_firerate_ranged_t05"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/FireRate/AID_Att_FireRate_Ranged_T04.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/firerate/aid_att_firerate_ranged_t04.uasset"
   },
   "Alteration:aid_att_firerate_ranged_t05": {
     "Type": "Alteration",
@@ -937,7 +937,7 @@
     "DisplayName": "\u002B42% Fire Rate",
     "IsPermanent": true,
     "Rarity": "Legendary",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/FireRate/AID_Att_FireRate_Ranged_T05.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/firerate/aid_att_firerate_ranged_t05.uasset"
   },
   "Alteration:aid_att_headshotdamage_t01": {
     "Type": "Alteration",
@@ -952,7 +952,7 @@
       },
       "Result": "Alteration:aid_att_headshotdamage_t02"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/HeadshotDamage/AID_Att_HeadshotDamage_T01.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/headshotdamage/aid_att_headshotdamage_t01.uasset"
   },
   "Alteration:aid_att_headshotdamage_t02": {
     "Type": "Alteration",
@@ -966,7 +966,7 @@
       },
       "Result": "Alteration:aid_att_headshotdamage_t03"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/HeadshotDamage/AID_Att_HeadshotDamage_T02.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/headshotdamage/aid_att_headshotdamage_t02.uasset"
   },
   "Alteration:aid_att_headshotdamage_t03": {
     "Type": "Alteration",
@@ -981,7 +981,7 @@
       },
       "Result": "Alteration:aid_att_headshotdamage_t04"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/HeadshotDamage/AID_Att_HeadshotDamage_T03.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/headshotdamage/aid_att_headshotdamage_t03.uasset"
   },
   "Alteration:aid_att_headshotdamage_t04": {
     "Type": "Alteration",
@@ -996,7 +996,7 @@
       },
       "Result": "Alteration:aid_att_headshotdamage_t05"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/HeadshotDamage/AID_Att_HeadshotDamage_T04.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/headshotdamage/aid_att_headshotdamage_t04.uasset"
   },
   "Alteration:aid_att_headshotdamage_t05": {
     "Type": "Alteration",
@@ -1004,7 +1004,7 @@
     "DisplayName": "\u002B40% Headshot Damage",
     "IsPermanent": true,
     "Rarity": "Legendary",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/HeadshotDamage/AID_Att_HeadshotDamage_T05.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/headshotdamage/aid_att_headshotdamage_t05.uasset"
   },
   "Alteration:aid_att_healing_t01": {
     "Type": "Alteration",
@@ -1019,7 +1019,7 @@
       },
       "Result": "Alteration:aid_att_healing_t02"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/Healing/AID_Att_Healing_T01.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/healing/aid_att_healing_t01.uasset"
   },
   "Alteration:aid_att_healing_t02": {
     "Type": "Alteration",
@@ -1033,7 +1033,7 @@
       },
       "Result": "Alteration:aid_att_healing_t03"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/Healing/AID_Att_Healing_T02.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/healing/aid_att_healing_t02.uasset"
   },
   "Alteration:aid_att_healing_t03": {
     "Type": "Alteration",
@@ -1048,7 +1048,7 @@
       },
       "Result": "Alteration:aid_att_healing_t04"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/Healing/AID_Att_Healing_T03.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/healing/aid_att_healing_t03.uasset"
   },
   "Alteration:aid_att_healing_t04": {
     "Type": "Alteration",
@@ -1063,7 +1063,7 @@
       },
       "Result": "Alteration:aid_att_healing_t05"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/Healing/AID_Att_Healing_T04.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/healing/aid_att_healing_t04.uasset"
   },
   "Alteration:aid_att_healing_t05": {
     "Type": "Alteration",
@@ -1071,7 +1071,7 @@
     "DisplayName": "\u002B30% Healing Amount",
     "IsPermanent": true,
     "Rarity": "Legendary",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/Healing/AID_Att_Healing_T05.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/healing/aid_att_healing_t05.uasset"
   },
   "Alteration:aid_att_heatcapacity_t01": {
     "Type": "Alteration",
@@ -1086,7 +1086,7 @@
       },
       "Result": "Alteration:aid_att_heatcapacity_t02"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/HeatCapacity/AID_Att_HeatCapacity_T01.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/heatcapacity/aid_att_heatcapacity_t01.uasset"
   },
   "Alteration:aid_att_heatcapacity_t02": {
     "Type": "Alteration",
@@ -1100,7 +1100,7 @@
       },
       "Result": "Alteration:aid_att_heatcapacity_t03"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/HeatCapacity/AID_Att_HeatCapacity_T02.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/heatcapacity/aid_att_heatcapacity_t02.uasset"
   },
   "Alteration:aid_att_heatcapacity_t03": {
     "Type": "Alteration",
@@ -1115,7 +1115,7 @@
       },
       "Result": "Alteration:aid_att_heatcapacity_t04"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/HeatCapacity/AID_Att_HeatCapacity_T03.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/heatcapacity/aid_att_heatcapacity_t03.uasset"
   },
   "Alteration:aid_att_heatcapacity_t04": {
     "Type": "Alteration",
@@ -1130,7 +1130,7 @@
       },
       "Result": "Alteration:aid_att_heatcapacity_t05"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/HeatCapacity/AID_Att_HeatCapacity_T04.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/heatcapacity/aid_att_heatcapacity_t04.uasset"
   },
   "Alteration:aid_att_heatcapacity_t05": {
     "Type": "Alteration",
@@ -1138,7 +1138,7 @@
     "DisplayName": "\u002B75% Heat Capacity",
     "IsPermanent": true,
     "Rarity": "Legendary",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/HeatCapacity/AID_Att_HeatCapacity_T05.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/heatcapacity/aid_att_heatcapacity_t05.uasset"
   },
   "Alteration:aid_att_heavyattackstaminacost_t01": {
     "Type": "Alteration",
@@ -1153,7 +1153,7 @@
       },
       "Result": "Alteration:aid_att_heavyattackstaminacost_t02"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/HeavyAttackStaminaCost/AID_Att_HeavyAttackStaminaCost_T01.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/heavyattackstaminacost/aid_att_heavyattackstaminacost_t01.uasset"
   },
   "Alteration:aid_att_heavyattackstaminacost_t02": {
     "Type": "Alteration",
@@ -1167,7 +1167,7 @@
       },
       "Result": "Alteration:aid_att_heavyattackstaminacost_t03"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/HeavyAttackStaminaCost/AID_Att_HeavyAttackStaminaCost_T02.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/heavyattackstaminacost/aid_att_heavyattackstaminacost_t02.uasset"
   },
   "Alteration:aid_att_heavyattackstaminacost_t03": {
     "Type": "Alteration",
@@ -1182,7 +1182,7 @@
       },
       "Result": "Alteration:aid_att_heavyattackstaminacost_t04"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/HeavyAttackStaminaCost/AID_Att_HeavyAttackStaminaCost_T03.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/heavyattackstaminacost/aid_att_heavyattackstaminacost_t03.uasset"
   },
   "Alteration:aid_att_heavyattackstaminacost_t04": {
     "Type": "Alteration",
@@ -1197,7 +1197,7 @@
       },
       "Result": "Alteration:aid_att_heavyattackstaminacost_t05"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/HeavyAttackStaminaCost/AID_Att_HeavyAttackStaminaCost_T04.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/heavyattackstaminacost/aid_att_heavyattackstaminacost_t04.uasset"
   },
   "Alteration:aid_att_heavyattackstaminacost_t05": {
     "Type": "Alteration",
@@ -1205,7 +1205,7 @@
     "DisplayName": "\u002B120% Heavy Attack Energy Efficiency",
     "IsPermanent": true,
     "Rarity": "Legendary",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/HeavyAttackStaminaCost/AID_Att_HeavyAttackStaminaCost_T05.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/heavyattackstaminacost/aid_att_heavyattackstaminacost_t05.uasset"
   },
   "Alteration:aid_att_knockbackimpact_t01": {
     "Type": "Alteration",
@@ -1220,7 +1220,7 @@
       },
       "Result": "Alteration:aid_att_knockbackimpact_t02"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/Impact/AID_Att_KnockbackImpact_T01.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/impact/aid_att_knockbackimpact_t01.uasset"
   },
   "Alteration:aid_att_knockbackimpact_t02": {
     "Type": "Alteration",
@@ -1234,7 +1234,7 @@
       },
       "Result": "Alteration:aid_att_knockbackimpact_t03"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/Impact/AID_Att_KnockbackImpact_T02.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/impact/aid_att_knockbackimpact_t02.uasset"
   },
   "Alteration:aid_att_knockbackimpact_t03": {
     "Type": "Alteration",
@@ -1249,7 +1249,7 @@
       },
       "Result": "Alteration:aid_att_knockbackimpact_t04"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/Impact/AID_Att_KnockbackImpact_T03.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/impact/aid_att_knockbackimpact_t03.uasset"
   },
   "Alteration:aid_att_knockbackimpact_t04": {
     "Type": "Alteration",
@@ -1264,7 +1264,7 @@
       },
       "Result": "Alteration:aid_att_knockbackimpact_t05"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/Impact/AID_Att_KnockbackImpact_T04.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/impact/aid_att_knockbackimpact_t04.uasset"
   },
   "Alteration:aid_att_knockbackimpact_t05": {
     "Type": "Alteration",
@@ -1272,7 +1272,7 @@
     "DisplayName": "\u002B15% Impact and Knockback",
     "IsPermanent": true,
     "Rarity": "Legendary",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/Impact/AID_Att_KnockbackImpact_T05.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/impact/aid_att_knockbackimpact_t05.uasset"
   },
   "Alteration:aid_att_lifeleech_t01": {
     "Type": "Alteration",
@@ -1287,7 +1287,7 @@
       },
       "Result": "Alteration:aid_att_lifeleech_t02"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/LifeLeech/AID_Att_LifeLeech_T01.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/lifeleech/aid_att_lifeleech_t01.uasset"
   },
   "Alteration:aid_att_lifeleech_t02": {
     "Type": "Alteration",
@@ -1301,7 +1301,7 @@
       },
       "Result": "Alteration:aid_att_lifeleech_t03"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/LifeLeech/AID_Att_LifeLeech_T02.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/lifeleech/aid_att_lifeleech_t02.uasset"
   },
   "Alteration:aid_att_lifeleech_t03": {
     "Type": "Alteration",
@@ -1316,7 +1316,7 @@
       },
       "Result": "Alteration:aid_att_lifeleech_t04"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/LifeLeech/AID_Att_LifeLeech_T03.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/lifeleech/aid_att_lifeleech_t03.uasset"
   },
   "Alteration:aid_att_lifeleech_t04": {
     "Type": "Alteration",
@@ -1331,7 +1331,7 @@
       },
       "Result": "Alteration:aid_att_lifeleech_t05"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/LifeLeech/AID_Att_LifeLeech_T04.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/lifeleech/aid_att_lifeleech_t04.uasset"
   },
   "Alteration:aid_att_lifeleech_t05": {
     "Type": "Alteration",
@@ -1339,7 +1339,7 @@
     "DisplayName": "\u002B5.4% Life Leech",
     "IsPermanent": true,
     "Rarity": "Legendary",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/LifeLeech/AID_Att_LifeLeech_T05.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/lifeleech/aid_att_lifeleech_t05.uasset"
   },
   "Alteration:aid_att_magazinesize_t01": {
     "Type": "Alteration",
@@ -1354,7 +1354,7 @@
       },
       "Result": "Alteration:aid_att_magazinesize_t02"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/MagazineSize/AID_Att_MagazineSize_T01.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/magazinesize/aid_att_magazinesize_t01.uasset"
   },
   "Alteration:aid_att_magazinesize_t02": {
     "Type": "Alteration",
@@ -1368,7 +1368,7 @@
       },
       "Result": "Alteration:aid_att_magazinesize_t03"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/MagazineSize/AID_Att_MagazineSize_T02.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/magazinesize/aid_att_magazinesize_t02.uasset"
   },
   "Alteration:aid_att_magazinesize_t03": {
     "Type": "Alteration",
@@ -1383,7 +1383,7 @@
       },
       "Result": "Alteration:aid_att_magazinesize_t04"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/MagazineSize/AID_Att_MagazineSize_T03.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/magazinesize/aid_att_magazinesize_t03.uasset"
   },
   "Alteration:aid_att_magazinesize_t04": {
     "Type": "Alteration",
@@ -1398,7 +1398,7 @@
       },
       "Result": "Alteration:aid_att_magazinesize_t05"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/MagazineSize/AID_Att_MagazineSize_T04.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/magazinesize/aid_att_magazinesize_t04.uasset"
   },
   "Alteration:aid_att_magazinesize_t05": {
     "Type": "Alteration",
@@ -1406,7 +1406,7 @@
     "DisplayName": "\u002B75% Magazine Size",
     "IsPermanent": true,
     "Rarity": "Legendary",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/MagazineSize/AID_Att_MagazineSize_T05.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/magazinesize/aid_att_magazinesize_t05.uasset"
   },
   "Alteration:aid_att_maxdurability_t01": {
     "Type": "Alteration",
@@ -1421,7 +1421,7 @@
       },
       "Result": "Alteration:aid_att_maxdurability_t02"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/MaxDurability/AID_Att_MaxDurability_T01.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/maxdurability/aid_att_maxdurability_t01.uasset"
   },
   "Alteration:aid_att_maxdurability_t02": {
     "Type": "Alteration",
@@ -1435,7 +1435,7 @@
       },
       "Result": "Alteration:aid_att_maxdurability_t03"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/MaxDurability/AID_Att_MaxDurability_T02.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/maxdurability/aid_att_maxdurability_t02.uasset"
   },
   "Alteration:aid_att_maxdurability_t03": {
     "Type": "Alteration",
@@ -1450,7 +1450,7 @@
       },
       "Result": "Alteration:aid_att_maxdurability_t04"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/MaxDurability/AID_Att_MaxDurability_T03.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/maxdurability/aid_att_maxdurability_t03.uasset"
   },
   "Alteration:aid_att_maxdurability_t04": {
     "Type": "Alteration",
@@ -1465,7 +1465,7 @@
       },
       "Result": "Alteration:aid_att_maxdurability_t05"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/MaxDurability/AID_Att_MaxDurability_T04.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/maxdurability/aid_att_maxdurability_t04.uasset"
   },
   "Alteration:aid_att_maxdurability_t05": {
     "Type": "Alteration",
@@ -1473,7 +1473,7 @@
     "DisplayName": "\u002B42% Durability",
     "IsPermanent": true,
     "Rarity": "Legendary",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/MaxDurability/AID_Att_MaxDurability_T05.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/maxdurability/aid_att_maxdurability_t05.uasset"
   },
   "Alteration:aid_att_maxdurability_trap_t01": {
     "Type": "Alteration",
@@ -1488,7 +1488,7 @@
       },
       "Result": "Alteration:aid_att_maxdurability_trap_t02"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/MaxDurability/AID_Att_MaxDurability_Trap_T01.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/maxdurability/aid_att_maxdurability_trap_t01.uasset"
   },
   "Alteration:aid_att_maxdurability_trap_t02": {
     "Type": "Alteration",
@@ -1502,7 +1502,7 @@
       },
       "Result": "Alteration:aid_att_maxdurability_trap_t03"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/MaxDurability/AID_Att_MaxDurability_Trap_T02.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/maxdurability/aid_att_maxdurability_trap_t02.uasset"
   },
   "Alteration:aid_att_maxdurability_trap_t03": {
     "Type": "Alteration",
@@ -1517,7 +1517,7 @@
       },
       "Result": "Alteration:aid_att_maxdurability_trap_t04"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/MaxDurability/AID_Att_MaxDurability_Trap_T03.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/maxdurability/aid_att_maxdurability_trap_t03.uasset"
   },
   "Alteration:aid_att_maxdurability_trap_t04": {
     "Type": "Alteration",
@@ -1532,7 +1532,7 @@
       },
       "Result": "Alteration:aid_att_maxdurability_trap_t05"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/MaxDurability/AID_Att_MaxDurability_Trap_T04.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/maxdurability/aid_att_maxdurability_trap_t04.uasset"
   },
   "Alteration:aid_att_maxdurability_trap_t05": {
     "Type": "Alteration",
@@ -1540,7 +1540,7 @@
     "DisplayName": "\u002B42% Durability",
     "IsPermanent": true,
     "Rarity": "Legendary",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/MaxDurability/AID_Att_MaxDurability_Trap_T05.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/maxdurability/aid_att_maxdurability_trap_t05.uasset"
   },
   "Alteration:aid_att_movementspeed_t01": {
     "Type": "Alteration",
@@ -1555,7 +1555,7 @@
       },
       "Result": "Alteration:aid_att_movementspeed_t02"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/MovementSpeed/AID_Att_MovementSpeed_T01.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/movementspeed/aid_att_movementspeed_t01.uasset"
   },
   "Alteration:aid_att_movementspeed_t02": {
     "Type": "Alteration",
@@ -1569,7 +1569,7 @@
       },
       "Result": "Alteration:aid_att_movementspeed_t03"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/MovementSpeed/AID_Att_MovementSpeed_T02.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/movementspeed/aid_att_movementspeed_t02.uasset"
   },
   "Alteration:aid_att_movementspeed_t03": {
     "Type": "Alteration",
@@ -1584,7 +1584,7 @@
       },
       "Result": "Alteration:aid_att_movementspeed_t04"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/MovementSpeed/AID_Att_MovementSpeed_T03.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/movementspeed/aid_att_movementspeed_t03.uasset"
   },
   "Alteration:aid_att_movementspeed_t04": {
     "Type": "Alteration",
@@ -1599,7 +1599,7 @@
       },
       "Result": "Alteration:aid_att_movementspeed_t05"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/MovementSpeed/AID_Att_MovementSpeed_T04.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/movementspeed/aid_att_movementspeed_t04.uasset"
   },
   "Alteration:aid_att_movementspeed_t05": {
     "Type": "Alteration",
@@ -1607,7 +1607,7 @@
     "DisplayName": "\u002B14% Movement Speed",
     "IsPermanent": true,
     "Rarity": "Legendary",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/MovementSpeed/AID_Att_MovementSpeed_T05.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/movementspeed/aid_att_movementspeed_t05.uasset"
   },
   "Alteration:aid_att_reloadspeed_ranged_t01": {
     "Type": "Alteration",
@@ -1622,7 +1622,7 @@
       },
       "Result": "Alteration:aid_att_reloadspeed_ranged_t02"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/ReloadSpeed/AID_Att_ReloadSpeed_Ranged_T01.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/reloadspeed/aid_att_reloadspeed_ranged_t01.uasset"
   },
   "Alteration:aid_att_reloadspeed_ranged_t02": {
     "Type": "Alteration",
@@ -1636,7 +1636,7 @@
       },
       "Result": "Alteration:aid_att_reloadspeed_ranged_t03"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/ReloadSpeed/AID_Att_ReloadSpeed_Ranged_T02.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/reloadspeed/aid_att_reloadspeed_ranged_t02.uasset"
   },
   "Alteration:aid_att_reloadspeed_ranged_t03": {
     "Type": "Alteration",
@@ -1651,7 +1651,7 @@
       },
       "Result": "Alteration:aid_att_reloadspeed_ranged_t04"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/ReloadSpeed/AID_Att_ReloadSpeed_Ranged_T03.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/reloadspeed/aid_att_reloadspeed_ranged_t03.uasset"
   },
   "Alteration:aid_att_reloadspeed_ranged_t04": {
     "Type": "Alteration",
@@ -1666,7 +1666,7 @@
       },
       "Result": "Alteration:aid_att_reloadspeed_ranged_t05"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/ReloadSpeed/AID_Att_ReloadSpeed_Ranged_T04.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/reloadspeed/aid_att_reloadspeed_ranged_t04.uasset"
   },
   "Alteration:aid_att_reloadspeed_ranged_t05": {
     "Type": "Alteration",
@@ -1674,7 +1674,7 @@
     "DisplayName": "\u002B75% Reload Speed",
     "IsPermanent": true,
     "Rarity": "Legendary",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/ReloadSpeed/AID_Att_ReloadSpeed_Ranged_T05.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/reloadspeed/aid_att_reloadspeed_ranged_t05.uasset"
   },
   "Alteration:aid_att_reloadspeed_trap_t01": {
     "Type": "Alteration",
@@ -1689,7 +1689,7 @@
       },
       "Result": "Alteration:aid_att_reloadspeed_trap_t02"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/ReloadSpeed/AID_Att_ReloadSpeed_Trap_T01.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/reloadspeed/aid_att_reloadspeed_trap_t01.uasset"
   },
   "Alteration:aid_att_reloadspeed_trap_t02": {
     "Type": "Alteration",
@@ -1703,7 +1703,7 @@
       },
       "Result": "Alteration:aid_att_reloadspeed_trap_t03"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/ReloadSpeed/AID_Att_ReloadSpeed_Trap_T02.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/reloadspeed/aid_att_reloadspeed_trap_t02.uasset"
   },
   "Alteration:aid_att_reloadspeed_trap_t03": {
     "Type": "Alteration",
@@ -1718,7 +1718,7 @@
       },
       "Result": "Alteration:aid_att_reloadspeed_trap_t04"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/ReloadSpeed/AID_Att_ReloadSpeed_Trap_T03.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/reloadspeed/aid_att_reloadspeed_trap_t03.uasset"
   },
   "Alteration:aid_att_reloadspeed_trap_t04": {
     "Type": "Alteration",
@@ -1733,7 +1733,7 @@
       },
       "Result": "Alteration:aid_att_reloadspeed_trap_t05"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/ReloadSpeed/AID_Att_ReloadSpeed_Trap_T04.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/reloadspeed/aid_att_reloadspeed_trap_t04.uasset"
   },
   "Alteration:aid_att_reloadspeed_trap_t05": {
     "Type": "Alteration",
@@ -1741,7 +1741,7 @@
     "DisplayName": "\u002B42% Reload Speed",
     "IsPermanent": true,
     "Rarity": "Legendary",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/ReloadSpeed/AID_Att_ReloadSpeed_Trap_T05.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/reloadspeed/aid_att_reloadspeed_trap_t05.uasset"
   },
   "Alteration:aid_att_stability_t01": {
     "Type": "Alteration",
@@ -1756,7 +1756,7 @@
       },
       "Result": "Alteration:aid_att_stability_t02"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/Stability/AID_Att_Stability_T01.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/stability/aid_att_stability_t01.uasset"
   },
   "Alteration:aid_att_stability_t02": {
     "Type": "Alteration",
@@ -1770,7 +1770,7 @@
       },
       "Result": "Alteration:aid_att_stability_t03"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/Stability/AID_Att_Stability_T02.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/stability/aid_att_stability_t02.uasset"
   },
   "Alteration:aid_att_stability_t03": {
     "Type": "Alteration",
@@ -1785,7 +1785,7 @@
       },
       "Result": "Alteration:aid_att_stability_t04"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/Stability/AID_Att_Stability_T03.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/stability/aid_att_stability_t03.uasset"
   },
   "Alteration:aid_att_stability_t04": {
     "Type": "Alteration",
@@ -1800,7 +1800,7 @@
       },
       "Result": "Alteration:aid_att_stability_t05"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/Stability/AID_Att_Stability_T04.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/stability/aid_att_stability_t04.uasset"
   },
   "Alteration:aid_att_stability_t05": {
     "Type": "Alteration",
@@ -1808,7 +1808,7 @@
     "DisplayName": "\u002B60% Weapon Stability",
     "IsPermanent": true,
     "Rarity": "Legendary",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/Stability/AID_Att_Stability_T05.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/stability/aid_att_stability_t05.uasset"
   },
   "Alteration:aid_att_traprange_t01": {
     "Type": "Alteration",
@@ -1823,7 +1823,7 @@
       },
       "Result": "Alteration:aid_att_traprange_t02"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/TrapRange/AID_Att_TrapRange_T01.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/traprange/aid_att_traprange_t01.uasset"
   },
   "Alteration:aid_att_traprange_t02": {
     "Type": "Alteration",
@@ -1837,7 +1837,7 @@
       },
       "Result": "Alteration:aid_att_traprange_t03"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/TrapRange/AID_Att_TrapRange_T02.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/traprange/aid_att_traprange_t02.uasset"
   },
   "Alteration:aid_att_traprange_t03": {
     "Type": "Alteration",
@@ -1852,7 +1852,7 @@
       },
       "Result": "Alteration:aid_att_traprange_t04"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/TrapRange/AID_Att_TrapRange_T03.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/traprange/aid_att_traprange_t03.uasset"
   },
   "Alteration:aid_att_traprange_t04": {
     "Type": "Alteration",
@@ -1867,7 +1867,7 @@
       },
       "Result": "Alteration:aid_att_traprange_t05"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/TrapRange/AID_Att_TrapRange_T04.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/traprange/aid_att_traprange_t04.uasset"
   },
   "Alteration:aid_att_traprange_t05": {
     "Type": "Alteration",
@@ -1875,7 +1875,7 @@
     "DisplayName": "\u002B50% Range",
     "IsPermanent": true,
     "Rarity": "Legendary",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/TrapRange/AID_Att_TrapRange_T05.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/traprange/aid_att_traprange_t05.uasset"
   },
   "Alteration:aid_att_weaponimpact_t01": {
     "Type": "Alteration",
@@ -1890,7 +1890,7 @@
       },
       "Result": "Alteration:aid_att_weaponimpact_t02"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/Impact/AID_Att_WeaponImpact_T01.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/impact/aid_att_weaponimpact_t01.uasset"
   },
   "Alteration:aid_att_weaponimpact_t02": {
     "Type": "Alteration",
@@ -1904,7 +1904,7 @@
       },
       "Result": "Alteration:aid_att_weaponimpact_t03"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/Impact/AID_Att_WeaponImpact_T02.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/impact/aid_att_weaponimpact_t02.uasset"
   },
   "Alteration:aid_att_weaponimpact_t03": {
     "Type": "Alteration",
@@ -1919,7 +1919,7 @@
       },
       "Result": "Alteration:aid_att_weaponimpact_t04"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/Impact/AID_Att_WeaponImpact_T03.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/impact/aid_att_weaponimpact_t03.uasset"
   },
   "Alteration:aid_att_weaponimpact_t04": {
     "Type": "Alteration",
@@ -1934,7 +1934,7 @@
       },
       "Result": "Alteration:aid_att_weaponimpact_t05"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/Impact/AID_Att_WeaponImpact_T04.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/impact/aid_att_weaponimpact_t04.uasset"
   },
   "Alteration:aid_att_weaponimpact_t05": {
     "Type": "Alteration",
@@ -1942,7 +1942,7 @@
     "DisplayName": "\u002B60% Impact",
     "IsPermanent": true,
     "Rarity": "Legendary",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/Impact/AID_Att_WeaponImpact_T05.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/impact/aid_att_weaponimpact_t05.uasset"
   },
   "Alteration:aid_conditional_afflicted_critdmg_t01": {
     "Type": "Alteration",
@@ -1958,7 +1958,7 @@
       "Result": "Alteration:aid_conditional_afflicted_critdmg_t02"
     },
     "Tier": 1,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/ConditionalAlterations/CritDamage_VersusAfflicted/AID_Conditional_Afflicted_CritDmg_T01.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/conditionalalterations/critdamage_versusafflicted/aid_conditional_afflicted_critdmg_t01.uasset"
   },
   "Alteration:aid_conditional_afflicted_critdmg_t02": {
     "Type": "Alteration",
@@ -1973,7 +1973,7 @@
       "Result": "Alteration:aid_conditional_afflicted_critdmg_t03"
     },
     "Tier": 2,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/ConditionalAlterations/CritDamage_VersusAfflicted/AID_Conditional_Afflicted_CritDmg_T02.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/conditionalalterations/critdamage_versusafflicted/aid_conditional_afflicted_critdmg_t02.uasset"
   },
   "Alteration:aid_conditional_afflicted_critdmg_t03": {
     "Type": "Alteration",
@@ -1989,7 +1989,7 @@
       "Result": "Alteration:aid_conditional_afflicted_critdmg_t04"
     },
     "Tier": 3,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/ConditionalAlterations/CritDamage_VersusAfflicted/AID_Conditional_Afflicted_CritDmg_T03.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/conditionalalterations/critdamage_versusafflicted/aid_conditional_afflicted_critdmg_t03.uasset"
   },
   "Alteration:aid_conditional_afflicted_critdmg_t04": {
     "Type": "Alteration",
@@ -2005,7 +2005,7 @@
       "Result": "Alteration:aid_conditional_afflicted_critdmg_t05"
     },
     "Tier": 4,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/ConditionalAlterations/CritDamage_VersusAfflicted/AID_Conditional_Afflicted_CritDmg_T04.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/conditionalalterations/critdamage_versusafflicted/aid_conditional_afflicted_critdmg_t04.uasset"
   },
   "Alteration:aid_conditional_afflicted_critdmg_t05": {
     "Type": "Alteration",
@@ -2014,7 +2014,7 @@
     "IsPermanent": true,
     "Rarity": "Legendary",
     "Tier": 5,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/ConditionalAlterations/CritDamage_VersusAfflicted/AID_Conditional_Afflicted_CritDmg_T05.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/conditionalalterations/critdamage_versusafflicted/aid_conditional_afflicted_critdmg_t05.uasset"
   },
   "Alteration:aid_conditional_afflicted_dmgbonus_t01": {
     "Type": "Alteration",
@@ -2030,7 +2030,7 @@
       "Result": "Alteration:aid_conditional_afflicted_dmgbonus_t02"
     },
     "Tier": 1,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/ConditionalAlterations/Damage_VersusAfflicted/AID_Conditional_Afflicted_DmgBonus_T01.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/conditionalalterations/damage_versusafflicted/aid_conditional_afflicted_dmgbonus_t01.uasset"
   },
   "Alteration:aid_conditional_afflicted_dmgbonus_t02": {
     "Type": "Alteration",
@@ -2045,7 +2045,7 @@
       "Result": "Alteration:aid_conditional_afflicted_dmgbonus_t03"
     },
     "Tier": 2,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/ConditionalAlterations/Damage_VersusAfflicted/AID_Conditional_Afflicted_DmgBonus_T02.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/conditionalalterations/damage_versusafflicted/aid_conditional_afflicted_dmgbonus_t02.uasset"
   },
   "Alteration:aid_conditional_afflicted_dmgbonus_t03": {
     "Type": "Alteration",
@@ -2061,7 +2061,7 @@
       "Result": "Alteration:aid_conditional_afflicted_dmgbonus_t04"
     },
     "Tier": 3,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/ConditionalAlterations/Damage_VersusAfflicted/AID_Conditional_Afflicted_DmgBonus_T03.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/conditionalalterations/damage_versusafflicted/aid_conditional_afflicted_dmgbonus_t03.uasset"
   },
   "Alteration:aid_conditional_afflicted_dmgbonus_t04": {
     "Type": "Alteration",
@@ -2077,7 +2077,7 @@
       "Result": "Alteration:aid_conditional_afflicted_dmgbonus_t05"
     },
     "Tier": 4,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/ConditionalAlterations/Damage_VersusAfflicted/AID_Conditional_Afflicted_DmgBonus_T04.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/conditionalalterations/damage_versusafflicted/aid_conditional_afflicted_dmgbonus_t04.uasset"
   },
   "Alteration:aid_conditional_afflicted_dmgbonus_t05": {
     "Type": "Alteration",
@@ -2086,7 +2086,7 @@
     "IsPermanent": true,
     "Rarity": "Legendary",
     "Tier": 4,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/ConditionalAlterations/Damage_VersusAfflicted/AID_Conditional_Afflicted_DmgBonus_T05.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/conditionalalterations/damage_versusafflicted/aid_conditional_afflicted_dmgbonus_t05.uasset"
   },
   "Alteration:aid_conditional_boss_dmgbonus_t01": {
     "Type": "Alteration",
@@ -2102,7 +2102,7 @@
       "Result": "Alteration:aid_conditional_boss_dmgbonus_t02"
     },
     "Tier": 1,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/ConditionalAlterations/Damage_VersusBoss/AID_Conditional_Boss_DmgBonus_T01.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/conditionalalterations/damage_versusboss/aid_conditional_boss_dmgbonus_t01.uasset"
   },
   "Alteration:aid_conditional_boss_dmgbonus_t02": {
     "Type": "Alteration",
@@ -2117,7 +2117,7 @@
       "Result": "Alteration:aid_conditional_boss_dmgbonus_t03"
     },
     "Tier": 1,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/ConditionalAlterations/Damage_VersusBoss/AID_Conditional_Boss_DmgBonus_T02.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/conditionalalterations/damage_versusboss/aid_conditional_boss_dmgbonus_t02.uasset"
   },
   "Alteration:aid_conditional_boss_dmgbonus_t03": {
     "Type": "Alteration",
@@ -2133,7 +2133,7 @@
       "Result": "Alteration:aid_conditional_boss_dmgbonus_t04"
     },
     "Tier": 1,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/ConditionalAlterations/Damage_VersusBoss/AID_Conditional_Boss_DmgBonus_T03.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/conditionalalterations/damage_versusboss/aid_conditional_boss_dmgbonus_t03.uasset"
   },
   "Alteration:aid_conditional_boss_dmgbonus_t04": {
     "Type": "Alteration",
@@ -2149,7 +2149,7 @@
       "Result": "Alteration:aid_conditional_boss_dmgbonus_t05"
     },
     "Tier": 1,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/ConditionalAlterations/Damage_VersusBoss/AID_Conditional_Boss_DmgBonus_T04.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/conditionalalterations/damage_versusboss/aid_conditional_boss_dmgbonus_t04.uasset"
   },
   "Alteration:aid_conditional_boss_dmgbonus_t05": {
     "Type": "Alteration",
@@ -2158,7 +2158,7 @@
     "IsPermanent": true,
     "Rarity": "Legendary",
     "Tier": 1,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/ConditionalAlterations/Damage_VersusBoss/AID_Conditional_Boss_DmgBonus_T05.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/conditionalalterations/damage_versusboss/aid_conditional_boss_dmgbonus_t05.uasset"
   },
   "Alteration:aid_conditional_damagebasedonhealth_t01": {
     "Type": "Alteration",
@@ -2173,7 +2173,7 @@
       },
       "Result": "Alteration:aid_conditional_damagebasedonhealth_t02"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/ConditionalAlterations/Damage_BasedOnHealth/AID_Conditional_DamageBasedOnHealth_T01.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/conditionalalterations/damage_basedonhealth/aid_conditional_damagebasedonhealth_t01.uasset"
   },
   "Alteration:aid_conditional_damagebasedonhealth_t02": {
     "Type": "Alteration",
@@ -2187,7 +2187,7 @@
       },
       "Result": "Alteration:aid_conditional_damagebasedonhealth_t03"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/ConditionalAlterations/Damage_BasedOnHealth/AID_Conditional_DamageBasedOnHealth_T02.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/conditionalalterations/damage_basedonhealth/aid_conditional_damagebasedonhealth_t02.uasset"
   },
   "Alteration:aid_conditional_damagebasedonhealth_t03": {
     "Type": "Alteration",
@@ -2202,7 +2202,7 @@
       },
       "Result": "Alteration:aid_conditional_damagebasedonhealth_t04"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/ConditionalAlterations/Damage_BasedOnHealth/AID_Conditional_DamageBasedOnHealth_T03.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/conditionalalterations/damage_basedonhealth/aid_conditional_damagebasedonhealth_t03.uasset"
   },
   "Alteration:aid_conditional_damagebasedonhealth_t04": {
     "Type": "Alteration",
@@ -2217,7 +2217,7 @@
       },
       "Result": "Alteration:aid_conditional_damagebasedonhealth_t05"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/ConditionalAlterations/Damage_BasedOnHealth/AID_Conditional_DamageBasedOnHealth_T04.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/conditionalalterations/damage_basedonhealth/aid_conditional_damagebasedonhealth_t04.uasset"
   },
   "Alteration:aid_conditional_damagebasedonhealth_t05": {
     "Type": "Alteration",
@@ -2225,7 +2225,7 @@
     "DisplayName": "Adds up to 80% bonus damage based on the percentage of your missing health.",
     "IsPermanent": true,
     "Rarity": "Legendary",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/ConditionalAlterations/Damage_BasedOnHealth/AID_Conditional_DamageBasedOnHealth_T05.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/conditionalalterations/damage_basedonhealth/aid_conditional_damagebasedonhealth_t05.uasset"
   },
   "Alteration:aid_conditional_dancing_dmgbonus_t01": {
     "Type": "Alteration",
@@ -2241,7 +2241,7 @@
       "Result": "Alteration:aid_conditional_dancing_dmgbonus_t02"
     },
     "Tier": 1,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/ConditionalAlterations/Damage_VersusDancing/AID_Conditional_Dancing_DmgBonus_T01.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/conditionalalterations/damage_versusdancing/aid_conditional_dancing_dmgbonus_t01.uasset"
   },
   "Alteration:aid_conditional_dancing_dmgbonus_t02": {
     "Type": "Alteration",
@@ -2256,7 +2256,7 @@
       "Result": "Alteration:aid_conditional_dancing_dmgbonus_t03"
     },
     "Tier": 1,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/ConditionalAlterations/Damage_VersusDancing/AID_Conditional_Dancing_DmgBonus_T02.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/conditionalalterations/damage_versusdancing/aid_conditional_dancing_dmgbonus_t02.uasset"
   },
   "Alteration:aid_conditional_dancing_dmgbonus_t03": {
     "Type": "Alteration",
@@ -2272,7 +2272,7 @@
       "Result": "Alteration:aid_conditional_dancing_dmgbonus_t04"
     },
     "Tier": 1,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/ConditionalAlterations/Damage_VersusDancing/AID_Conditional_Dancing_DmgBonus_T03.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/conditionalalterations/damage_versusdancing/aid_conditional_dancing_dmgbonus_t03.uasset"
   },
   "Alteration:aid_conditional_dancing_dmgbonus_t04": {
     "Type": "Alteration",
@@ -2288,7 +2288,7 @@
       "Result": "Alteration:aid_conditional_dancing_dmgbonus_t05"
     },
     "Tier": 1,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/ConditionalAlterations/Damage_VersusDancing/AID_Conditional_Dancing_DmgBonus_T04.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/conditionalalterations/damage_versusdancing/aid_conditional_dancing_dmgbonus_t04.uasset"
   },
   "Alteration:aid_conditional_dancing_dmgbonus_t05": {
     "Type": "Alteration",
@@ -2297,14 +2297,14 @@
     "IsPermanent": true,
     "Rarity": "Legendary",
     "Tier": 1,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/ConditionalAlterations/Damage_VersusDancing/AID_Conditional_Dancing_DmgBonus_T05.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/conditionalalterations/damage_versusdancing/aid_conditional_dancing_dmgbonus_t05.uasset"
   },
   "Alteration:aid_conditional_headshotstreak_dmgbonus_t01": {
     "Type": "Alteration",
     "Name": "AID_Conditional_HeadShotStreak_DmgBonus_T01",
     "DisplayName": "After 5 consecutive headshots, increases weapon damage by 30% for 10 seconds.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/ConditionalAlterations/TODO_Damage_Ranged_OnHeadshotStreak/AID_Conditional_HeadShotStreak_DmgBonus_T01.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/conditionalalterations/todo_damage_ranged_onheadshotstreak/aid_conditional_headshotstreak_dmgbonus_t01.uasset"
   },
   "Alteration:aid_conditional_slowed_dmgbonus_t01": {
     "Type": "Alteration",
@@ -2320,7 +2320,7 @@
       "Result": "Alteration:aid_conditional_slowed_dmgbonus_t02"
     },
     "Tier": 1,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/ConditionalAlterations/Damage_VersusSlowed/AID_Conditional_Slowed_DmgBonus_T01.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/conditionalalterations/damage_versusslowed/aid_conditional_slowed_dmgbonus_t01.uasset"
   },
   "Alteration:aid_conditional_slowed_dmgbonus_t02": {
     "Type": "Alteration",
@@ -2335,7 +2335,7 @@
       "Result": "Alteration:aid_conditional_slowed_dmgbonus_t03"
     },
     "Tier": 2,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/ConditionalAlterations/Damage_VersusSlowed/AID_Conditional_Slowed_DmgBonus_T02.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/conditionalalterations/damage_versusslowed/aid_conditional_slowed_dmgbonus_t02.uasset"
   },
   "Alteration:aid_conditional_slowed_dmgbonus_t03": {
     "Type": "Alteration",
@@ -2351,7 +2351,7 @@
       "Result": "Alteration:aid_conditional_slowed_dmgbonus_t04"
     },
     "Tier": 3,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/ConditionalAlterations/Damage_VersusSlowed/AID_Conditional_Slowed_DmgBonus_T03.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/conditionalalterations/damage_versusslowed/aid_conditional_slowed_dmgbonus_t03.uasset"
   },
   "Alteration:aid_conditional_slowed_dmgbonus_t04": {
     "Type": "Alteration",
@@ -2367,7 +2367,7 @@
       "Result": "Alteration:aid_conditional_slowed_dmgbonus_t05"
     },
     "Tier": 4,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/ConditionalAlterations/Damage_VersusSlowed/AID_Conditional_Slowed_DmgBonus_T04.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/conditionalalterations/damage_versusslowed/aid_conditional_slowed_dmgbonus_t04.uasset"
   },
   "Alteration:aid_conditional_slowed_dmgbonus_t05": {
     "Type": "Alteration",
@@ -2376,7 +2376,7 @@
     "IsPermanent": true,
     "Rarity": "Legendary",
     "Tier": 5,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/ConditionalAlterations/Damage_VersusSlowed/AID_Conditional_Slowed_DmgBonus_T05.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/conditionalalterations/damage_versusslowed/aid_conditional_slowed_dmgbonus_t05.uasset"
   },
   "Alteration:aid_conditional_stunned_dmgbonus_t01": {
     "Type": "Alteration",
@@ -2392,7 +2392,7 @@
       "Result": "Alteration:aid_conditional_stunned_dmgbonus_t02"
     },
     "Tier": 1,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/ConditionalAlterations/Damage_VersusStunned/AID_Conditional_Stunned_DmgBonus_T01.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/conditionalalterations/damage_versusstunned/aid_conditional_stunned_dmgbonus_t01.uasset"
   },
   "Alteration:aid_conditional_stunned_dmgbonus_t02": {
     "Type": "Alteration",
@@ -2407,7 +2407,7 @@
       "Result": "Alteration:aid_conditional_stunned_dmgbonus_t03"
     },
     "Tier": 2,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/ConditionalAlterations/Damage_VersusStunned/AID_Conditional_Stunned_DmgBonus_T02.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/conditionalalterations/damage_versusstunned/aid_conditional_stunned_dmgbonus_t02.uasset"
   },
   "Alteration:aid_conditional_stunned_dmgbonus_t03": {
     "Type": "Alteration",
@@ -2423,7 +2423,7 @@
       "Result": "Alteration:aid_conditional_stunned_dmgbonus_t04"
     },
     "Tier": 3,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/ConditionalAlterations/Damage_VersusStunned/AID_Conditional_Stunned_DmgBonus_T03.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/conditionalalterations/damage_versusstunned/aid_conditional_stunned_dmgbonus_t03.uasset"
   },
   "Alteration:aid_conditional_stunned_dmgbonus_t04": {
     "Type": "Alteration",
@@ -2439,7 +2439,7 @@
       "Result": "Alteration:aid_conditional_stunned_dmgbonus_t05"
     },
     "Tier": 4,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/ConditionalAlterations/Damage_VersusStunned/AID_Conditional_Stunned_DmgBonus_T04.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/conditionalalterations/damage_versusstunned/aid_conditional_stunned_dmgbonus_t04.uasset"
   },
   "Alteration:aid_conditional_stunned_dmgbonus_t05": {
     "Type": "Alteration",
@@ -2448,7 +2448,7 @@
     "IsPermanent": true,
     "Rarity": "Legendary",
     "Tier": 5,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/ConditionalAlterations/Damage_VersusStunned/AID_Conditional_Stunned_DmgBonus_T05.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/conditionalalterations/damage_versusstunned/aid_conditional_stunned_dmgbonus_t05.uasset"
   },
   "Alteration:aid_ele_energy_intrin_t01": {
     "Type": "Alteration",
@@ -2468,7 +2468,7 @@
       },
       "Result": "Alteration:aid_ele_energy_intrin_t02"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/Elemental/Energy/AID_Ele_Energy_Intrin_T01.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/energy/aid_ele_energy_intrin_t01.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Alterations/T-Icon-Element-Energy.T-Icon-Element-Energy",
       "LargePreview": "ExportedImages\\T-Icon-Element-Energy-L.png"
@@ -2491,7 +2491,7 @@
       },
       "Result": "Alteration:aid_ele_energy_intrin_t03"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/Elemental/Energy/AID_Ele_Energy_Intrin_T02.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/energy/aid_ele_energy_intrin_t02.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Alterations/T-Icon-Element-Energy.T-Icon-Element-Energy",
       "LargePreview": "ExportedImages\\T-Icon-Element-Energy-L.png"
@@ -2515,7 +2515,7 @@
       },
       "Result": "Alteration:aid_ele_energy_intrin_t04"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/Elemental/Energy/AID_Ele_Energy_Intrin_T03.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/energy/aid_ele_energy_intrin_t03.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Alterations/T-Icon-Element-Energy.T-Icon-Element-Energy",
       "LargePreview": "ExportedImages\\T-Icon-Element-Energy-L.png"
@@ -2539,7 +2539,7 @@
       },
       "Result": "Alteration:aid_ele_energy_intrin_t05"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/Elemental/Energy/AID_Ele_Energy_Intrin_T04.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/energy/aid_ele_energy_intrin_t04.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Alterations/T-Icon-Element-Energy.T-Icon-Element-Energy",
       "LargePreview": "ExportedImages\\T-Icon-Element-Energy-L.png"
@@ -2556,7 +2556,7 @@
     },
     "IsPermanent": true,
     "Rarity": "Legendary",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/Elemental/Energy/AID_Ele_Energy_Intrin_T05.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/energy/aid_ele_energy_intrin_t05.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Alterations/T-Icon-Element-Energy.T-Icon-Element-Energy",
       "LargePreview": "ExportedImages\\T-Icon-Element-Energy-L.png"
@@ -2580,7 +2580,7 @@
       },
       "Result": "Alteration:aid_ele_energy_t02"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/Elemental/Energy/AID_Ele_Energy_T01.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/energy/aid_ele_energy_t01.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Alterations/T-Icon-Element-Energy.T-Icon-Element-Energy",
       "LargePreview": "ExportedImages\\T-Icon-Element-Energy-L.png"
@@ -2603,7 +2603,7 @@
       },
       "Result": "Alteration:aid_ele_energy_t03"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/Elemental/Energy/AID_Ele_Energy_T02.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/energy/aid_ele_energy_t02.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Alterations/T-Icon-Element-Energy.T-Icon-Element-Energy",
       "LargePreview": "ExportedImages\\T-Icon-Element-Energy-L.png"
@@ -2627,7 +2627,7 @@
       },
       "Result": "Alteration:aid_ele_energy_t04"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/Elemental/Energy/AID_Ele_Energy_T03.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/energy/aid_ele_energy_t03.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Alterations/T-Icon-Element-Energy.T-Icon-Element-Energy",
       "LargePreview": "ExportedImages\\T-Icon-Element-Energy-L.png"
@@ -2651,7 +2651,7 @@
       },
       "Result": "Alteration:aid_ele_energy_t05"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/Elemental/Energy/AID_Ele_Energy_T04.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/energy/aid_ele_energy_t04.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Alterations/T-Icon-Element-Energy.T-Icon-Element-Energy",
       "LargePreview": "ExportedImages\\T-Icon-Element-Energy-L.png"
@@ -2668,7 +2668,7 @@
     },
     "IsPermanent": true,
     "Rarity": "Legendary",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/Elemental/Energy/AID_Ele_Energy_T05.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/energy/aid_ele_energy_t05.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Alterations/T-Icon-Element-Energy.T-Icon-Element-Energy",
       "LargePreview": "ExportedImages\\T-Icon-Element-Energy-L.png"
@@ -2690,7 +2690,7 @@
       },
       "Result": "Alteration:aid_ele_fire_intrin_t02"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/Elemental/Fire/AID_Ele_Fire_Intrin_T01.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/fire/aid_ele_fire_intrin_t01.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Alterations/T-Icon-Element-Fire.T-Icon-Element-Fire",
       "LargePreview": "ExportedImages\\T-Icon-Element-Fire-L.png"
@@ -2711,7 +2711,7 @@
       },
       "Result": "Alteration:aid_ele_fire_intrin_t03"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/Elemental/Fire/AID_Ele_Fire_Intrin_T02.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/fire/aid_ele_fire_intrin_t02.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Alterations/T-Icon-Element-Fire.T-Icon-Element-Fire",
       "LargePreview": "ExportedImages\\T-Icon-Element-Fire-L.png"
@@ -2733,7 +2733,7 @@
       },
       "Result": "Alteration:aid_ele_fire_intrin_t04"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/Elemental/Fire/AID_Ele_Fire_Intrin_T03.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/fire/aid_ele_fire_intrin_t03.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Alterations/T-Icon-Element-Fire.T-Icon-Element-Fire",
       "LargePreview": "ExportedImages\\T-Icon-Element-Fire-L.png"
@@ -2755,7 +2755,7 @@
       },
       "Result": "Alteration:aid_ele_fire_intrin_t05"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/Elemental/Fire/AID_Ele_Fire_Intrin_T04.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/fire/aid_ele_fire_intrin_t04.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Alterations/T-Icon-Element-Fire.T-Icon-Element-Fire",
       "LargePreview": "ExportedImages\\T-Icon-Element-Fire-L.png"
@@ -2770,7 +2770,7 @@
     },
     "IsPermanent": true,
     "Rarity": "Legendary",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/Elemental/Fire/AID_Ele_Fire_Intrin_T05.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/fire/aid_ele_fire_intrin_t05.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Alterations/T-Icon-Element-Fire.T-Icon-Element-Fire",
       "LargePreview": "ExportedImages\\T-Icon-Element-Fire-L.png"
@@ -2792,7 +2792,7 @@
       },
       "Result": "Alteration:aid_ele_fire_t02"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/Elemental/Fire/AID_Ele_Fire_T01.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/fire/aid_ele_fire_t01.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Alterations/T-Icon-Element-Fire.T-Icon-Element-Fire",
       "LargePreview": "ExportedImages\\T-Icon-Element-Fire-L.png"
@@ -2813,7 +2813,7 @@
       },
       "Result": "Alteration:aid_ele_fire_t03"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/Elemental/Fire/AID_Ele_Fire_T02.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/fire/aid_ele_fire_t02.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Alterations/T-Icon-Element-Fire.T-Icon-Element-Fire",
       "LargePreview": "ExportedImages\\T-Icon-Element-Fire-L.png"
@@ -2835,7 +2835,7 @@
       },
       "Result": "Alteration:aid_ele_fire_t04"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/Elemental/Fire/AID_Ele_Fire_T03.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/fire/aid_ele_fire_t03.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Alterations/T-Icon-Element-Fire.T-Icon-Element-Fire",
       "LargePreview": "ExportedImages\\T-Icon-Element-Fire-L.png"
@@ -2857,7 +2857,7 @@
       },
       "Result": "Alteration:aid_ele_fire_t05"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/Elemental/Fire/AID_Ele_Fire_T04.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/fire/aid_ele_fire_t04.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Alterations/T-Icon-Element-Fire.T-Icon-Element-Fire",
       "LargePreview": "ExportedImages\\T-Icon-Element-Fire-L.png"
@@ -2872,7 +2872,7 @@
     },
     "IsPermanent": true,
     "Rarity": "Legendary",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/Elemental/Fire/AID_Ele_Fire_T05.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/fire/aid_ele_fire_t05.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Alterations/T-Icon-Element-Fire.T-Icon-Element-Fire",
       "LargePreview": "ExportedImages\\T-Icon-Element-Fire-L.png"
@@ -2894,7 +2894,7 @@
       },
       "Result": "Alteration:aid_ele_nature_intrin_t02"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/Elemental/Nature/AID_Ele_Nature_Intrin_T01.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/nature/aid_ele_nature_intrin_t01.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Alterations/T-Icon-Element-Nature.T-Icon-Element-Nature",
       "LargePreview": "ExportedImages\\T-Icon-Element-Nature-L.png"
@@ -2915,7 +2915,7 @@
       },
       "Result": "Alteration:aid_ele_nature_intrin_t03"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/Elemental/Nature/AID_Ele_Nature_Intrin_T02.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/nature/aid_ele_nature_intrin_t02.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Alterations/T-Icon-Element-Nature.T-Icon-Element-Nature",
       "LargePreview": "ExportedImages\\T-Icon-Element-Nature-L.png"
@@ -2937,7 +2937,7 @@
       },
       "Result": "Alteration:aid_ele_nature_intrin_t04"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/Elemental/Nature/AID_Ele_Nature_Intrin_T03.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/nature/aid_ele_nature_intrin_t03.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Alterations/T-Icon-Element-Nature.T-Icon-Element-Nature",
       "LargePreview": "ExportedImages\\T-Icon-Element-Nature-L.png"
@@ -2959,7 +2959,7 @@
       },
       "Result": "Alteration:aid_ele_nature_intrin_t05"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/Elemental/Nature/AID_Ele_Nature_Intrin_T04.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/nature/aid_ele_nature_intrin_t04.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Alterations/T-Icon-Element-Nature.T-Icon-Element-Nature",
       "LargePreview": "ExportedImages\\T-Icon-Element-Nature-L.png"
@@ -2974,7 +2974,7 @@
     },
     "IsPermanent": true,
     "Rarity": "Legendary",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/Elemental/Nature/AID_Ele_Nature_Intrin_T05.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/nature/aid_ele_nature_intrin_t05.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Alterations/T-Icon-Element-Nature.T-Icon-Element-Nature",
       "LargePreview": "ExportedImages\\T-Icon-Element-Nature-L.png"
@@ -2996,7 +2996,7 @@
       },
       "Result": "Alteration:aid_ele_nature_t02"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/Elemental/Nature/AID_Ele_Nature_T01.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/nature/aid_ele_nature_t01.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Alterations/T-Icon-Element-Nature.T-Icon-Element-Nature",
       "LargePreview": "ExportedImages\\T-Icon-Element-Nature-L.png"
@@ -3017,7 +3017,7 @@
       },
       "Result": "Alteration:aid_ele_nature_t03"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/Elemental/Nature/AID_Ele_Nature_T02.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/nature/aid_ele_nature_t02.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Alterations/T-Icon-Element-Nature.T-Icon-Element-Nature",
       "LargePreview": "ExportedImages\\T-Icon-Element-Nature-L.png"
@@ -3039,7 +3039,7 @@
       },
       "Result": "Alteration:aid_ele_nature_t04"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/Elemental/Nature/AID_Ele_Nature_T03.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/nature/aid_ele_nature_t03.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Alterations/T-Icon-Element-Nature.T-Icon-Element-Nature",
       "LargePreview": "ExportedImages\\T-Icon-Element-Nature-L.png"
@@ -3061,7 +3061,7 @@
       },
       "Result": "Alteration:aid_ele_nature_t05"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/Elemental/Nature/AID_Ele_Nature_T04.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/nature/aid_ele_nature_t04.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Alterations/T-Icon-Element-Nature.T-Icon-Element-Nature",
       "LargePreview": "ExportedImages\\T-Icon-Element-Nature-L.png"
@@ -3076,7 +3076,7 @@
     },
     "IsPermanent": true,
     "Rarity": "Legendary",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/Elemental/Nature/AID_Ele_Nature_T05.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/nature/aid_ele_nature_t05.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Alterations/T-Icon-Element-Nature.T-Icon-Element-Nature",
       "LargePreview": "ExportedImages\\T-Icon-Element-Nature-L.png"
@@ -3098,7 +3098,7 @@
       },
       "Result": "Alteration:aid_ele_water_intrin_t02"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/Elemental/Water/AID_Ele_Water_Intrin_T01.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/water/aid_ele_water_intrin_t01.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Alterations/T-Icon-Element-Water.T-Icon-Element-Water",
       "LargePreview": "ExportedImages\\T-Icon-Element-Water-L.png"
@@ -3119,7 +3119,7 @@
       },
       "Result": "Alteration:aid_ele_water_intrin_t03"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/Elemental/Water/AID_Ele_Water_Intrin_T02.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/water/aid_ele_water_intrin_t02.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Alterations/T-Icon-Element-Water.T-Icon-Element-Water",
       "LargePreview": "ExportedImages\\T-Icon-Element-Water-L.png"
@@ -3141,7 +3141,7 @@
       },
       "Result": "Alteration:aid_ele_water_intrin_t04"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/Elemental/Water/AID_Ele_Water_Intrin_T03.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/water/aid_ele_water_intrin_t03.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Alterations/T-Icon-Element-Water.T-Icon-Element-Water",
       "LargePreview": "ExportedImages\\T-Icon-Element-Water-L.png"
@@ -3163,7 +3163,7 @@
       },
       "Result": "Alteration:aid_ele_water_intrin_t05"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/Elemental/Water/AID_Ele_Water_Intrin_T04.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/water/aid_ele_water_intrin_t04.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Alterations/T-Icon-Element-Water.T-Icon-Element-Water",
       "LargePreview": "ExportedImages\\T-Icon-Element-Water-L.png"
@@ -3178,7 +3178,7 @@
     },
     "IsPermanent": true,
     "Rarity": "Legendary",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/Elemental/Water/AID_Ele_Water_Intrin_T05.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/water/aid_ele_water_intrin_t05.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Alterations/T-Icon-Element-Water.T-Icon-Element-Water",
       "LargePreview": "ExportedImages\\T-Icon-Element-Water-L.png"
@@ -3200,7 +3200,7 @@
       },
       "Result": "Alteration:aid_ele_water_t02"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/Elemental/Water/AID_Ele_Water_T01.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/water/aid_ele_water_t01.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Alterations/T-Icon-Element-Water.T-Icon-Element-Water",
       "LargePreview": "ExportedImages\\T-Icon-Element-Water-L.png"
@@ -3221,7 +3221,7 @@
       },
       "Result": "Alteration:aid_ele_water_t03"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/Elemental/Water/AID_Ele_Water_T02.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/water/aid_ele_water_t02.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Alterations/T-Icon-Element-Water.T-Icon-Element-Water",
       "LargePreview": "ExportedImages\\T-Icon-Element-Water-L.png"
@@ -3243,7 +3243,7 @@
       },
       "Result": "Alteration:aid_ele_water_t04"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/Elemental/Water/AID_Ele_Water_T03.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/water/aid_ele_water_t03.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Alterations/T-Icon-Element-Water.T-Icon-Element-Water",
       "LargePreview": "ExportedImages\\T-Icon-Element-Water-L.png"
@@ -3265,7 +3265,7 @@
       },
       "Result": "Alteration:aid_ele_water_t05"
     },
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/Elemental/Water/AID_Ele_Water_T04.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/water/aid_ele_water_t04.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Alterations/T-Icon-Element-Water.T-Icon-Element-Water",
       "LargePreview": "ExportedImages\\T-Icon-Element-Water-L.png"
@@ -3280,7 +3280,7 @@
     },
     "IsPermanent": true,
     "Rarity": "Legendary",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/AttributeAlterations/Elemental/Water/AID_Ele_Water_T05.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/water/aid_ele_water_t05.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Alterations/T-Icon-Element-Water.T-Icon-Element-Water",
       "LargePreview": "ExportedImages\\T-Icon-Element-Water-L.png"
@@ -3292,7 +3292,7 @@
     "DisplayName": "Causes Affliction damage for 6 seconds.",
     "IsPermanent": true,
     "Rarity": "Common",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/Affliction/AID_G_Affliction_V2.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/affliction/aid_g_affliction_v2.uasset"
   },
   "Alteration:aid_g_melee_affliction_v2": {
     "Type": "Alteration",
@@ -3300,7 +3300,7 @@
     "DisplayName": "\u002B10% Weapon Damage. Causes Affliction damage for 6 seconds.",
     "IsPermanent": true,
     "Rarity": "Common",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/Affliction/AID_G_Melee_Affliction_V2.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/affliction/aid_g_melee_affliction_v2.uasset"
   },
   "Alteration:aid_g_melee_explodeoncrit_v2": {
     "Type": "Alteration",
@@ -3308,7 +3308,7 @@
     "DisplayName": "Critical hits cause an explosion, damaging enemies within 0.5 tiles for 20% weapon damage.",
     "IsPermanent": true,
     "Rarity": "Common",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/OnCrit_Explode/AID_G_Melee_ExplodeOnCrit_V2.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/oncrit_explode/aid_g_melee_explodeoncrit_v2.uasset"
   },
   "Alteration:aid_g_melee_explodeoncrit_v3": {
     "Type": "Alteration",
@@ -3316,7 +3316,7 @@
     "DisplayName": "Critical hits with this weapon cause an explosion, damaging enemies within 0.5 tiles for 43 base damage.",
     "IsPermanent": true,
     "Rarity": "Common",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/OnCrit_Explode/AID_G_Melee_ExplodeOnCrit_V3.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/oncrit_explode/aid_g_melee_explodeoncrit_v3.uasset"
   },
   "Alteration:aid_g_melee_ondamagedealt_increasedamage_v2": {
     "Type": "Alteration",
@@ -3324,7 +3324,7 @@
     "DisplayName": "Hitting multiple enemies in a single swing increases damage.",
     "IsPermanent": true,
     "Rarity": "Common",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/OnHitStreak_DmgStack/AID_G_Melee_OnDamageDealt_IncreaseDamage_V2.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/onhitstreak_dmgstack/aid_g_melee_ondamagedealt_increasedamage_v2.uasset"
   },
   "Alteration:aid_g_meleedmgvsfire": {
     "Type": "Alteration",
@@ -3332,7 +3332,7 @@
     "DisplayName": "Weapon hits deal 44% bonus damage against fire elemental enemies.",
     "IsPermanent": true,
     "Rarity": "Common",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/OnHit_DmgVsElement/Melee/AID_G_MeleeDmgVsFire.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/onhit_dmgvselement/melee/aid_g_meleedmgvsfire.uasset"
   },
   "Alteration:aid_g_meleedmgvsice": {
     "Type": "Alteration",
@@ -3340,7 +3340,7 @@
     "DisplayName": "Weapon hits deal 44% bonus damage against water elemental enemies.",
     "IsPermanent": true,
     "Rarity": "Common",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/OnHit_DmgVsElement/Melee/AID_G_MeleeDmgVsIce.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/onhit_dmgvselement/melee/aid_g_meleedmgvsice.uasset"
   },
   "Alteration:aid_g_meleedmgvslightning": {
     "Type": "Alteration",
@@ -3348,7 +3348,7 @@
     "DisplayName": "Weapon hits deal 44% bonus damage against nature elemental enemies.",
     "IsPermanent": true,
     "Rarity": "Common",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/OnHit_DmgVsElement/Melee/AID_G_MeleeDmgVsLightning.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/onhit_dmgvselement/melee/aid_g_meleedmgvslightning.uasset"
   },
   "Alteration:aid_g_oncrit_cold_snare": {
     "Type": "Alteration",
@@ -3357,7 +3357,7 @@
     "IsPermanent": true,
     "Rarity": "Common",
     "Tier": 1,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/OnCrit_Cold_Snare/AID_G_OnCrit_Cold_Snare.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/oncrit_cold_snare/aid_g_oncrit_cold_snare.uasset"
   },
   "Alteration:aid_g_oncrit_freeze": {
     "Type": "Alteration",
@@ -3366,7 +3366,7 @@
     "IsPermanent": true,
     "Rarity": "Common",
     "Tier": 1,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/OnCrit_Freeze/AID_G_OnCrit_Freeze.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/oncrit_freeze/aid_g_oncrit_freeze.uasset"
   },
   "Alteration:aid_g_oncrit_shieldregen": {
     "Type": "Alteration",
@@ -3374,7 +3374,7 @@
     "DisplayName": "On crit regain 2.64% of damage dealt as shields.",
     "IsPermanent": true,
     "Rarity": "Common",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/OnCrit_ShieldRegen/AID_G_OnCrit_ShieldRegen.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/oncrit_shieldregen/aid_g_oncrit_shieldregen.uasset"
   },
   "Alteration:aid_g_oncrit_spawnenergyprojectiles": {
     "Type": "Alteration",
@@ -3383,7 +3383,7 @@
     "IsPermanent": true,
     "Rarity": "Common",
     "Tier": 1,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/OnCrit_SpawnEnergyProjectiles/AID_G_OnCrit_SpawnEnergyProjectiles.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/oncrit_spawnenergyprojectiles/aid_g_oncrit_spawnenergyprojectiles.uasset"
   },
   "Alteration:aid_g_onequip_animalfriend": {
     "Type": "Alteration",
@@ -3392,7 +3392,7 @@
     "IsPermanent": true,
     "Rarity": "Common",
     "Tier": 1,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/OnEquip_AnimalFriend/AID_G_OnEquip_AnimalFriend.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/onequip_animalfriend/aid_g_onequip_animalfriend.uasset"
   },
   "Alteration:aid_g_onheadshot_spawnsparkburst_r": {
     "Type": "Alteration",
@@ -3401,7 +3401,7 @@
     "IsPermanent": true,
     "Rarity": "Common",
     "Tier": 1,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/OnHeadshot_Ranged_SparkBurst/AID_G_OnHeadshot_SpawnSparkBurst_R.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/onheadshot_ranged_sparkburst/aid_g_onheadshot_spawnsparkburst_r.uasset"
   },
   "Alteration:aid_g_onhit_applyhuntersmark": {
     "Type": "Alteration",
@@ -3410,7 +3410,7 @@
     "IsPermanent": true,
     "Rarity": "Common",
     "Tier": 1,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/OnHit_HuntersMark/AID_G_OnHit_ApplyHuntersMark.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/onhit_huntersmark/aid_g_onhit_applyhuntersmark.uasset"
   },
   "Alteration:aid_g_onhit_chargestormkinghammer": {
     "Type": "Alteration",
@@ -3419,7 +3419,7 @@
     "IsPermanent": true,
     "Rarity": "Common",
     "Tier": 1,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/OnHit_ChargeStormKingHammer/AID_G_OnHit_ChargeStormKingHammer.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/onhit_chargestormkinghammer/aid_g_onhit_chargestormkinghammer.uasset"
   },
   "Alteration:aid_g_onhit_chargestormkingsword": {
     "Type": "Alteration",
@@ -3428,7 +3428,7 @@
     "IsPermanent": true,
     "Rarity": "Common",
     "Tier": 1,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/OnHit_ChargeStormKingSword/AID_G_OnHit_ChargeStormKingSword.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/onhit_chargestormkingsword/aid_g_onhit_chargestormkingsword.uasset"
   },
   "Alteration:aid_g_onhit_execute": {
     "Type": "Alteration",
@@ -3437,7 +3437,7 @@
     "IsPermanent": true,
     "Rarity": "Common",
     "Tier": 1,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/OnHit_Execute/AID_G_OnHit_Execute.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/onhit_execute/aid_g_onhit_execute.uasset"
   },
   "Alteration:aid_g_onhit_shieldregen": {
     "Type": "Alteration",
@@ -3445,7 +3445,7 @@
     "DisplayName": "On hitting an enemy with this weapon regain 5.5% of damage dealt as shields.",
     "IsPermanent": true,
     "Rarity": "Common",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/OnHit_ShieldRegen/AID_G_OnHit_ShieldRegen.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/onhit_shieldregen/aid_g_onhit_shieldregen.uasset"
   },
   "Alteration:aid_g_onhit_shieldregenandmaxshield": {
     "Type": "Alteration",
@@ -3453,7 +3453,7 @@
     "DisplayName": " If this weapon hits an enemy, your shield is replenished for 3% of the damage dealt and you gain 20% max shields for 8 seconds",
     "IsPermanent": true,
     "Rarity": "Common",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/OnHit_ShldRgnMxShld/AID_G_OnHit_ShieldRegenAndMaxShield.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/onhit_shldrgnmxshld/aid_g_onhit_shieldregenandmaxshield.uasset"
   },
   "Alteration:aid_g_onhit_slowtofreeze": {
     "Type": "Alteration",
@@ -3461,7 +3461,7 @@
     "DisplayName": "Each hit applies a stack of slow. When an enemy reaches 10 stacks, they are frozen for 3 seconds",
     "IsPermanent": true,
     "Rarity": "Common",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/OnHit_SlowToFreeze/AID_G_OnHit_SlowToFreeze.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/onhit_slowtofreeze/aid_g_onhit_slowtofreeze.uasset"
   },
   "Alteration:aid_g_onhit_spreadfire": {
     "Type": "Alteration",
@@ -3470,7 +3470,7 @@
     "IsPermanent": true,
     "Rarity": "Common",
     "Tier": 1,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/OnHit_SpreadFire/AID_G_OnHit_SpreadFire.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/onhit_spreadfire/aid_g_onhit_spreadfire.uasset"
   },
   "Alteration:aid_g_onhit_stack_stormkingassault": {
     "Type": "Alteration",
@@ -3479,7 +3479,7 @@
     "IsPermanent": true,
     "Rarity": "Common",
     "Tier": 1,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/OnHit_Stack_StormkingAssault/AID_G_OnHit_Stack_StormkingAssault.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/onhit_stack_stormkingassault/aid_g_onhit_stack_stormkingassault.uasset"
   },
   "Alteration:aid_g_onhit_stun_lovestruck": {
     "Type": "Alteration",
@@ -3488,7 +3488,7 @@
     "IsPermanent": true,
     "Rarity": "Common",
     "Tier": 1,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/OnHit_Lovestruck/AID_G_OnHit_Stun_Lovestruck.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/onhit_lovestruck/aid_g_onhit_stun_lovestruck.uasset"
   },
   "Alteration:aid_g_onhitstreak_freeze": {
     "Type": "Alteration",
@@ -3497,7 +3497,7 @@
     "IsPermanent": true,
     "Rarity": "Common",
     "Tier": 1,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/OnHitStreak_Freeze/AID_G_OnHitStreak_Freeze.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/onhitstreak_freeze/aid_g_onhitstreak_freeze.uasset"
   },
   "Alteration:aid_g_onhitstreak_spawnsparkburst_m": {
     "Type": "Alteration",
@@ -3506,7 +3506,7 @@
     "IsPermanent": true,
     "Rarity": "Common",
     "Tier": 1,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/OnHitStreak_Melee_SparkBurst/AID_G_OnHitStreak_SpawnSparkBurst_M.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/onhitstreak_melee_sparkburst/aid_g_onhitstreak_spawnsparkburst_m.uasset"
   },
   "Alteration:aid_g_onimpact_spawnsparkburst_m": {
     "Type": "Alteration",
@@ -3515,7 +3515,7 @@
     "IsPermanent": true,
     "Rarity": "Common",
     "Tier": 1,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/OnImpact_Melee_SparkBurst/AID_G_OnImpact_SpawnSparkBurst_M.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/onimpact_melee_sparkburst/aid_g_onimpact_spawnsparkburst_m.uasset"
   },
   "Alteration:aid_g_onimpact_spawnsparkburst_r": {
     "Type": "Alteration",
@@ -3524,7 +3524,7 @@
     "IsPermanent": true,
     "Rarity": "Common",
     "Tier": 1,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/OnImpact_Ranged_SparkBurst/AID_G_OnImpact_SpawnSparkBurst_R.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/onimpact_ranged_sparkburst/aid_g_onimpact_spawnsparkburst_r.uasset"
   },
   "Alteration:aid_g_onimpactbreak_dance": {
     "Type": "Alteration",
@@ -3533,7 +3533,7 @@
     "IsPermanent": true,
     "Rarity": "Common",
     "Tier": 1,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/OnImpactBreak_Dance/AID_G_OnImpactBreak_Dance.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/onimpactbreak_dance/aid_g_onimpactbreak_dance.uasset"
   },
   "Alteration:aid_g_onimpactbreak_dealdamage": {
     "Type": "Alteration",
@@ -3541,7 +3541,7 @@
     "DisplayName": "Stunning or Knocking back an enemy deals them 12 base damage.",
     "IsPermanent": true,
     "Rarity": "Common",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/OnImpacBreak_DealDamage/AID_G_OnImpactBreak_DealDamage.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/onimpacbreak_dealdamage/aid_g_onimpactbreak_dealdamage.uasset"
   },
   "Alteration:aid_g_onimpactbreak_freeze": {
     "Type": "Alteration",
@@ -3550,7 +3550,7 @@
     "IsPermanent": true,
     "Rarity": "Common",
     "Tier": 1,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/OnImpactBreak_Freeze/AID_G_OnImpactBreak_Freeze.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/onimpactbreak_freeze/aid_g_onimpactbreak_freeze.uasset"
   },
   "Alteration:aid_g_onkill_chainlightning": {
     "Type": "Alteration",
@@ -3559,7 +3559,7 @@
     "IsPermanent": true,
     "Rarity": "Common",
     "Tier": 1,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/OnKill_ChainLightning/AID_G_OnKill_ChainLightning.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/onkill_chainlightning/aid_g_onkill_chainlightning.uasset"
   },
   "Alteration:aid_g_onkill_chainlightning_real": {
     "Type": "Alteration",
@@ -3568,7 +3568,7 @@
     "IsPermanent": true,
     "Rarity": "Common",
     "Tier": 1,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/OnKill_ChainLightning_Real/AID_G_OnKill_ChainLightning_Real.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/onkill_chainlightning_real/aid_g_onkill_chainlightning_real.uasset"
   },
   "Alteration:aid_g_onkill_dance": {
     "Type": "Alteration",
@@ -3577,7 +3577,7 @@
     "IsPermanent": true,
     "Rarity": "Common",
     "Tier": 1,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/OnKill_Dance/AID_G_OnKill_Dance.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/onkill_dance/aid_g_onkill_dance.uasset"
   },
   "Alteration:aid_g_onkill_frenzy": {
     "Type": "Alteration",
@@ -3586,7 +3586,7 @@
     "IsPermanent": true,
     "Rarity": "Common",
     "Tier": 1,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/OnKill_Frenzy/AID_G_OnKill_Frenzy.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/onkill_frenzy/aid_g_onkill_frenzy.uasset"
   },
   "Alteration:aid_g_onkill_spawnretroscifiring": {
     "Type": "Alteration",
@@ -3595,7 +3595,7 @@
     "IsPermanent": true,
     "Rarity": "Common",
     "Tier": 1,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/OnKill_SpawnRetroSciFiRing/AID_G_OnKill_SpawnRetroSciFiRing.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/onkill_spawnretroscifiring/aid_g_onkill_spawnretroscifiring.uasset"
   },
   "Alteration:aid_g_onkill_spawnsparkburst": {
     "Type": "Alteration",
@@ -3604,7 +3604,7 @@
     "IsPermanent": true,
     "Rarity": "Common",
     "Tier": 1,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/OnKill_Melee_SparkBurst/AID_G_OnKill_SpawnSparkBurst.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/onkill_melee_sparkburst/aid_g_onkill_spawnsparkburst.uasset"
   },
   "Alteration:aid_g_onkill_spawnsparkburst_r": {
     "Type": "Alteration",
@@ -3613,7 +3613,7 @@
     "IsPermanent": true,
     "Rarity": "Common",
     "Tier": 1,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/OnKill_Ranged_SparkBurst/AID_G_OnKill_SpawnSparkBurst_R.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/onkill_ranged_sparkburst/aid_g_onkill_spawnsparkburst_r.uasset"
   },
   "Alteration:aid_g_onkill_spawnsparkburst_r_bow": {
     "Type": "Alteration",
@@ -3622,7 +3622,7 @@
     "IsPermanent": true,
     "Rarity": "Common",
     "Tier": 1,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/OnKill_Ranged_Bow_SparkBurst/AID_G_OnKill_SpawnSparkBurst_R_Bow.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/onkill_ranged_bow_sparkburst/aid_g_onkill_spawnsparkburst_r_bow.uasset"
   },
   "Alteration:aid_g_onkill_spawnsteamcloud": {
     "Type": "Alteration",
@@ -3631,7 +3631,7 @@
     "IsPermanent": true,
     "Rarity": "Common",
     "Tier": 1,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/OnKill_SpawnSteamCloud/AID_G_OnKill_SpawnSteamCloud.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/onkill_spawnsteamcloud/aid_g_onkill_spawnsteamcloud.uasset"
   },
   "Alteration:aid_g_onkillstreak_frenzy": {
     "Type": "Alteration",
@@ -3640,7 +3640,7 @@
     "IsPermanent": true,
     "Rarity": "Common",
     "Tier": 1,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/OnKillStreak_Frenzy/AID_G_OnKillStreak_Frenzy.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/onkillstreak_frenzy/aid_g_onkillstreak_frenzy.uasset"
   },
   "Alteration:aid_g_onmeleecrit_pistolheadshotdamage": {
     "Type": "Alteration",
@@ -3648,7 +3648,7 @@
     "DisplayName": "On crit, increase pistol headshot damage by 40% for 15 seconds.",
     "IsPermanent": true,
     "Rarity": "Common",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/OnCrit_StackBuff_HeadshotDamage/AID_G_OnMeleeCrit_PistolHeadshotDamage.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/oncrit_stackbuff_headshotdamage/aid_g_onmeleecrit_pistolheadshotdamage.uasset"
   },
   "Alteration:aid_g_onmeleehit_stack_aoe_stun": {
     "Type": "Alteration",
@@ -3656,7 +3656,7 @@
     "DisplayName": "Every 8th hit cause a stun around the character.",
     "IsPermanent": true,
     "Rarity": "Common",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/OnHit_Stack_AoEStun/AID_G_OnMeleeHit_Stack_AOE_Stun.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/onhit_stack_aoestun/aid_g_onmeleehit_stack_aoe_stun.uasset"
   },
   "Alteration:aid_g_onmeleehit_stackbuff_armor": {
     "Type": "Alteration",
@@ -3665,7 +3665,7 @@
     "IsPermanent": true,
     "Rarity": "Common",
     "Tier": 1,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/OnHit_StackBuff_Armor/AID_G_OnMeleeHit_StackBuff_Armor.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/onhit_stackbuff_armor/aid_g_onmeleehit_stackbuff_armor.uasset"
   },
   "Alteration:aid_g_onmeleehit_stackbuff_critrate": {
     "Type": "Alteration",
@@ -3674,7 +3674,7 @@
     "IsPermanent": true,
     "Rarity": "Common",
     "Tier": 1,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/OnHit_StackBuff_CritRate/AID_G_OnMeleeHit_StackBuff_CritRate.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/onhit_stackbuff_critrate/aid_g_onmeleehit_stackbuff_critrate.uasset"
   },
   "Alteration:aid_g_onmeleehit_stackbuff_damage": {
     "Type": "Alteration",
@@ -3683,7 +3683,7 @@
     "IsPermanent": true,
     "Rarity": "Common",
     "Tier": 1,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/OnHit_StackBuff_Damage/AID_G_OnMeleeHit_StackBuff_Damage.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/onhit_stackbuff_damage/aid_g_onmeleehit_stackbuff_damage.uasset"
   },
   "Alteration:aid_g_onmeleehit_stackbuff_firerate": {
     "Type": "Alteration",
@@ -3692,7 +3692,7 @@
     "IsPermanent": true,
     "Rarity": "Common",
     "Tier": 1,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/OnHit_StackBuff_FireRate/AID_G_OnMeleeHit_StackBuff_FireRate.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/onhit_stackbuff_firerate/aid_g_onmeleehit_stackbuff_firerate.uasset"
   },
   "Alteration:aid_g_onmeleehit_stackbuff_movespeed": {
     "Type": "Alteration",
@@ -3701,7 +3701,7 @@
     "IsPermanent": true,
     "Rarity": "Common",
     "Tier": 1,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/OnHit_StackBuff_MoveSpeed/AID_G_OnMeleeHit_StackBuff_MoveSpeed.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/onhit_stackbuff_movespeed/aid_g_onmeleehit_stackbuff_movespeed.uasset"
   },
   "Alteration:aid_g_onmeleehitstreak_aoe_freeze": {
     "Type": "Alteration",
@@ -3710,7 +3710,7 @@
     "IsPermanent": true,
     "Rarity": "Common",
     "Tier": 1,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/OnMeleeHitStreak_AoE_Freeze/AID_G_OnMeleeHitStreak_AoE_Freeze.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/onmeleehitstreak_aoe_freeze/aid_g_onmeleehitstreak_aoe_freeze.uasset"
   },
   "Alteration:aid_g_onmeleehitstreak_dance": {
     "Type": "Alteration",
@@ -3719,7 +3719,7 @@
     "IsPermanent": true,
     "Rarity": "Common",
     "Tier": 1,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/OnHitStreak_Dance/AID_G_OnMeleeHitStreak_Dance.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/onhitstreak_dance/aid_g_onmeleehitstreak_dance.uasset"
   },
   "Alteration:aid_g_onmeleekill_regenshields": {
     "Type": "Alteration",
@@ -3728,7 +3728,7 @@
     "IsPermanent": true,
     "Rarity": "Common",
     "Tier": 1,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/OnKill_RegenShields/AID_G_OnMeleeKill_RegenShields.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/onkill_regenshields/aid_g_onmeleekill_regenshields.uasset"
   },
   "Alteration:aid_g_onrangedfire_stackbuff_critrate": {
     "Type": "Alteration",
@@ -3737,7 +3737,7 @@
     "IsPermanent": true,
     "Rarity": "Common",
     "Tier": 1,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/OnFire_StackBuff_CritRate/AID_G_OnRangedFire_StackBuff_CritRate.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/onfire_stackbuff_critrate/aid_g_onrangedfire_stackbuff_critrate.uasset"
   },
   "Alteration:aid_g_onrangedfire_stackbuff_damage": {
     "Type": "Alteration",
@@ -3746,7 +3746,7 @@
     "IsPermanent": true,
     "Rarity": "Common",
     "Tier": 1,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/OnFire_StackBuff_Damage/AID_G_OnRangedFire_StackBuff_Damage.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/onfire_stackbuff_damage/aid_g_onrangedfire_stackbuff_damage.uasset"
   },
   "Alteration:aid_g_onrangedfire_stackbuff_firerate": {
     "Type": "Alteration",
@@ -3755,7 +3755,7 @@
     "IsPermanent": true,
     "Rarity": "Common",
     "Tier": 1,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/OnFire_StackBuff_FireRate/AID_G_OnRangedFire_StackBuff_FireRate.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/onfire_stackbuff_firerate/aid_g_onrangedfire_stackbuff_firerate.uasset"
   },
   "Alteration:aid_g_onrangedfire_stackbuff_shield": {
     "Type": "Alteration",
@@ -3764,7 +3764,7 @@
     "IsPermanent": true,
     "Rarity": "Common",
     "Tier": 1,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/OnFire_StackBuff_Shields/AID_G_OnRangedFire_StackBuff_Shield.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/onfire_stackbuff_shields/aid_g_onrangedfire_stackbuff_shield.uasset"
   },
   "Alteration:aid_g_onrangedhitstreak_dance": {
     "Type": "Alteration",
@@ -3773,7 +3773,7 @@
     "IsPermanent": true,
     "Rarity": "Common",
     "Tier": 1,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/OnHitStreak_Dance/AID_G_OnRangedHitStreak_Dance.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/onhitstreak_dance/aid_g_onrangedhitstreak_dance.uasset"
   },
   "Alteration:aid_g_onrangedhitstreak_danceafflict": {
     "Type": "Alteration",
@@ -3782,7 +3782,7 @@
     "IsPermanent": true,
     "Rarity": "Common",
     "Tier": 1,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/OnHitStreak_Dance/AID_G_OnRangedHitStreak_DanceAfflict.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/onhitstreak_dance/aid_g_onrangedhitstreak_danceafflict.uasset"
   },
   "Alteration:aid_g_onreload_spawnsparkburst": {
     "Type": "Alteration",
@@ -3791,7 +3791,7 @@
     "IsPermanent": true,
     "Rarity": "Common",
     "Tier": 1,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/OnReload_SpawnSparkBurst/AID_G_OnReload_SpawnSparkBurst.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/onreload_spawnsparkburst/aid_g_onreload_spawnsparkburst.uasset"
   },
   "Alteration:aid_g_ontarget_cursemark": {
     "Type": "Alteration",
@@ -3800,7 +3800,7 @@
     "IsPermanent": true,
     "Rarity": "Common",
     "Tier": 1,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/OnTarget_CurseMark/AID_G_OnTarget_CurseMark.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/ontarget_cursemark/aid_g_ontarget_cursemark.uasset"
   },
   "Alteration:aid_g_ranged_affliction_v2": {
     "Type": "Alteration",
@@ -3808,7 +3808,7 @@
     "DisplayName": "\u002B10% Weapon Damage. Causes Affliction damage for 6 seconds.",
     "IsPermanent": true,
     "Rarity": "Common",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/Affliction/AID_G_Ranged_Affliction_V2.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/affliction/aid_g_ranged_affliction_v2.uasset"
   },
   "Alteration:aid_g_ranged_chainbullet": {
     "Type": "Alteration",
@@ -3817,7 +3817,7 @@
     "IsPermanent": true,
     "Rarity": "Common",
     "Tier": 1,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/Founders/ChainBullet/AID_G_Ranged_ChainBullet.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/founders/chainbullet/aid_g_ranged_chainbullet.uasset"
   },
   "Alteration:aid_g_ranged_headshot_buffswordcritrating": {
     "Type": "Alteration",
@@ -3825,7 +3825,7 @@
     "DisplayName": "Headshot eliminations boost critical hit chance with sword attacks for 15 seconds.",
     "IsPermanent": true,
     "Rarity": "Common",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/OnHeadshotKill_BuffSwordCritChance/AID_G_Ranged_HeadShot_BuffSwordCritRating.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/onheadshotkill_buffswordcritchance/aid_g_ranged_headshot_buffswordcritrating.uasset"
   },
   "Alteration:aid_g_ranged_headshot_explodeondeath_v2": {
     "Type": "Alteration",
@@ -3833,7 +3833,7 @@
     "DisplayName": "Headshot eliminations cause an explosion, damaging enemies within 0.5 tiles for 30% weapon damage.",
     "IsPermanent": true,
     "Rarity": "Common",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/OnHeadshotKill_Explode/AID_G_Ranged_HeadShot_ExplodeOnDeath_V2.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/onheadshotkill_explode/aid_g_ranged_headshot_explodeondeath_v2.uasset"
   },
   "Alteration:aid_g_ranged_headshotstreak_dmgbonus_v2": {
     "Type": "Alteration",
@@ -3841,7 +3841,7 @@
     "DisplayName": "Getting 5 headshots in a row increases ranged weapon damage \u002B30% for 10 seconds.",
     "IsPermanent": true,
     "Rarity": "Common",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/TO_CONSIDER/AID_G_Ranged_HeadShotStreak_DmgBonus_V2.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/to_consider/aid_g_ranged_headshotstreak_dmgbonus_v2.uasset"
   },
   "Alteration:aid_g_ranged_istargeting_dmgbuff_v2": {
     "Type": "Alteration",
@@ -3849,7 +3849,7 @@
     "DisplayName": "\u002B30% Weapon Damage when aiming down sights",
     "IsPermanent": true,
     "Rarity": "Common",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/TO_CONSIDER/AID_G_Ranged_IsTargeting_DmgBuff_V2.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/to_consider/aid_g_ranged_istargeting_dmgbuff_v2.uasset"
   },
   "Alteration:aid_g_ranged_onenemykilled_fasterreload_v2": {
     "Type": "Alteration",
@@ -3857,7 +3857,7 @@
     "DisplayName": "\u002B10% Reload Speed per enemy killed, up to a maximum of \u002B50% Reload Speed",
     "IsPermanent": true,
     "Rarity": "Common",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/OnKill_ReloadSpeed/AID_G_Ranged_OnEnemyKilled_FasterReload_V2.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/onkill_reloadspeed/aid_g_ranged_onenemykilled_fasterreload_v2.uasset"
   },
   "Alteration:aid_g_rangeddmgvsfire": {
     "Type": "Alteration",
@@ -3865,7 +3865,7 @@
     "DisplayName": "Weapon hits deal 44% bonus damage against fire elemental enemies.",
     "IsPermanent": true,
     "Rarity": "Common",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/OnHit_DmgVsElement/Ranged/AID_G_RangedDmgVsFire.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/onhit_dmgvselement/ranged/aid_g_rangeddmgvsfire.uasset"
   },
   "Alteration:aid_g_rangeddmgvsice": {
     "Type": "Alteration",
@@ -3873,7 +3873,7 @@
     "DisplayName": "Weapon hits deal 44% bonus damage against water elemental enemies.",
     "IsPermanent": true,
     "Rarity": "Common",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/OnHit_DmgVsElement/Ranged/AID_G_RangedDmgVsIce.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/onhit_dmgvselement/ranged/aid_g_rangeddmgvsice.uasset"
   },
   "Alteration:aid_g_rangeddmgvslightning": {
     "Type": "Alteration",
@@ -3881,7 +3881,7 @@
     "DisplayName": "Weapon hits deal 44% bonus damage against nature elemental enemies.",
     "IsPermanent": true,
     "Rarity": "Common",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/OnHit_DmgVsElement/Ranged/AID_G_RangedDmgVsLightning.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/onhit_dmgvselement/ranged/aid_g_rangeddmgvslightning.uasset"
   },
   "Alteration:aid_g_shrapnel": {
     "Type": "Alteration",
@@ -3890,7 +3890,7 @@
     "IsPermanent": true,
     "Rarity": "Common",
     "Tier": 1,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/Shrapnel/AID_G_Shrapnel.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/shrapnel/aid_g_shrapnel.uasset"
   },
   "Alteration:aid_g_standstill_stackbuff_damage": {
     "Type": "Alteration",
@@ -3899,7 +3899,7 @@
     "IsPermanent": true,
     "Rarity": "Common",
     "Tier": 1,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/StandStill_StackBuff_DamageVsAll/AID_G_StandStill_StackBuff_Damage.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/standstill_stackbuff_damagevsall/aid_g_standstill_stackbuff_damage.uasset"
   },
   "Alteration:aid_g_standstill_stackbuff_damagevsmist": {
     "Type": "Alteration",
@@ -3908,7 +3908,7 @@
     "IsPermanent": true,
     "Rarity": "Common",
     "Tier": 1,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/StandStill_StackBuff_DamageVSMist/AID_G_StandStill_StackBuff_DamageVsMist.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/standstill_stackbuff_damagevsmist/aid_g_standstill_stackbuff_damagevsmist.uasset"
   },
   "Alteration:aid_g_standstill_stackbuff_grantshield": {
     "Type": "Alteration",
@@ -3917,7 +3917,7 @@
     "IsPermanent": true,
     "Rarity": "Common",
     "Tier": 1,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/StandStill_StackBuff_GrantShield/AID_G_StandStill_StackBuff_GrantShield.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/standstill_stackbuff_grantshield/aid_g_standstill_stackbuff_grantshield.uasset"
   },
   "Alteration:aid_g_stormkinglaunchercharge": {
     "Type": "Alteration",
@@ -3926,7 +3926,7 @@
     "IsPermanent": true,
     "Rarity": "Common",
     "Tier": 1,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/StormKingLauncherCharge/AID_G_StormKingLauncherCharge.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/stormkinglaunchercharge/aid_g_stormkinglaunchercharge.uasset"
   },
   "Alteration:aid_g_stormkingpistolhomingprojectiles": {
     "Type": "Alteration",
@@ -3935,7 +3935,7 @@
     "IsPermanent": true,
     "Rarity": "Common",
     "Tier": 1,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/StormKingPistolHomingProjectiles/AID_G_StormKingPistolHomingProjectiles.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/stormkingpistolhomingprojectiles/aid_g_stormkingpistolhomingprojectiles.uasset"
   },
   "Alteration:aid_g_twokillstreak_firepool_v2": {
     "Type": "Alteration",
@@ -3943,7 +3943,7 @@
     "DisplayName": "If two enemies are eliminated within 5 seconds of each other a pool of fire spawns on the ground.",
     "IsPermanent": true,
     "Rarity": "Common",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/OnKillStreak_FirePool/AID_G_TwoKillStreak_FirePool_V2.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/onkillstreak_firepool/aid_g_twokillstreak_firepool_v2.uasset"
   },
   "Alteration:aid_g_weapon_hitstreak_aoe_dmg_v2": {
     "Type": "Alteration",
@@ -3951,7 +3951,7 @@
     "DisplayName": "Landing 5 hits in a row on a single target causes a small explosion damaging enemies within 0.5 tiles of the target for 70% damage.",
     "IsPermanent": true,
     "Rarity": "Common",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/OnHitStreak_AOE/AID_G_Weapon_HitStreak_AOE_Dmg_V2.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/onhitstreak_aoe/aid_g_weapon_hitstreak_aoe_dmg_v2.uasset"
   },
   "Alteration:aid_g_weapon_knockback_impact_v2": {
     "Type": "Alteration",
@@ -3959,7 +3959,7 @@
     "DisplayName": "\u002B25% Impact and \u002B400 Knockback Magnitude",
     "IsPermanent": true,
     "Rarity": "Common",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/ImpactKnockback/AID_G_Weapon_Knockback_Impact_V2.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/impactknockback/aid_g_weapon_knockback_impact_v2.uasset"
   },
   "Alteration:aid_g_weapon_melee_ondmgreceived_dmgbuff_v2": {
     "Type": "Alteration",
@@ -3967,7 +3967,7 @@
     "DisplayName": "5 attacks from enemies give you a 20% melee damage increase on your next attack.",
     "IsPermanent": true,
     "Rarity": "Common",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/OnHitStreak_DmgStack/AID_G_Weapon_Melee_OnDmgReceived_DmgBuff_V2.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/onhitstreak_dmgstack/aid_g_weapon_melee_ondmgreceived_dmgbuff_v2.uasset"
   },
   "Alteration:aid_g_weapon_ondmg_afflictedenemy_knockbackaoe_v2": {
     "Type": "Alteration",
@@ -3975,7 +3975,7 @@
     "DisplayName": "Hitting an afflicted target causes a small Knockback AOE around them (5s cooldown).",
     "IsPermanent": true,
     "Rarity": "Common",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/OnDmgVsAfflicted_Knockback/AID_G_Weapon_OnDmg_AfflictedEnemy_KnockbackAOE_V2.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/ondmgvsafflicted_knockback/aid_g_weapon_ondmg_afflictedenemy_knockbackaoe_v2.uasset"
   },
   "Alteration:aid_g_weapon_ondmg_applysnare_v2": {
     "Type": "Alteration",
@@ -3983,7 +3983,7 @@
     "DisplayName": "Damage dealt with this weapon snares the target by 30% for 6 seconds.",
     "IsPermanent": true,
     "Rarity": "Common",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/OnDmg_Snare/AID_G_Weapon_OnDmg_ApplySnare_V2.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/ondmg_snare/aid_g_weapon_ondmg_applysnare_v2.uasset"
   },
   "Alteration:aid_g_weapon_ondmgdealt_giveenergy_v2": {
     "Type": "Alteration",
@@ -3991,7 +3991,7 @@
     "DisplayName": "Damage dealt with this weapon recovers 5 energy. This can happen once every 4 seconds.",
     "IsPermanent": true,
     "Rarity": "Common",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/TO_CONSIDER/OnDmg_GainEnergy/AID_G_Weapon_OnDmgDealt_GiveEnergy_V2.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/to_consider/ondmg_gainenergy/aid_g_weapon_ondmgdealt_giveenergy_v2.uasset"
   },
   "Alteration:aid_g_weapon_ondmgdealt_giveshield_v2": {
     "Type": "Alteration",
@@ -3999,7 +3999,7 @@
     "DisplayName": "Damage dealt with this weapon recovers 10% of maximum shield. This can happen once every 3 seconds.",
     "IsPermanent": true,
     "Rarity": "Common",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/TO_CONSIDER/OnDmg_GainShield/AID_G_Weapon_OnDmgDealt_GiveShield_V2.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/to_consider/ondmg_gainshield/aid_g_weapon_ondmgdealt_giveshield_v2.uasset"
   },
   "Alteration:aid_g_weapon_onfire_damagestack": {
     "Type": "Alteration",
@@ -4008,7 +4008,7 @@
     "IsPermanent": true,
     "Rarity": "Common",
     "Tier": 1,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/Founders/RampingDamage/AID_G_Weapon_OnFire_DamageStack.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/founders/rampingdamage/aid_g_weapon_onfire_damagestack.uasset"
   },
   "Alteration:aid_g_weapon_onhit_energynova": {
     "Type": "Alteration",
@@ -4017,7 +4017,7 @@
     "IsPermanent": true,
     "Rarity": "Common",
     "Tier": 1,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/Founders/EnergyNova/AID_G_Weapon_OnHit_EnergyNova.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/founders/energynova/aid_g_weapon_onhit_energynova.uasset"
   },
   "Alteration:aid_g_weapon_onhit_highhealth_bonusdamage": {
     "Type": "Alteration",
@@ -4025,7 +4025,7 @@
     "DisplayName": "\u002B30% damage to targets above 85% health",
     "IsPermanent": true,
     "Rarity": "Common",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/OhHit_HighHealth_BonusDamage/AID_G_Weapon_OnHit_HighHealth_BonusDamage.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/ohhit_highhealth_bonusdamage/aid_g_weapon_onhit_highhealth_bonusdamage.uasset"
   },
   "Alteration:aid_g_weapon_onkill_spawn_firework_v2": {
     "Type": "Alteration",
@@ -4033,7 +4033,7 @@
     "DisplayName": "On kill: Spawn Roman Candle at enemy location (8s cooldown).",
     "IsPermanent": true,
     "Rarity": "Common",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/OnKill_SpawnFirework/AID_G_Weapon_OnKill_Spawn_Firework_V2.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/onkill_spawnfirework/aid_g_weapon_onkill_spawn_firework_v2.uasset"
   },
   "Alteration:aid_g_weapon_onkill_spawn_healthpickups": {
     "Type": "Alteration",
@@ -4041,7 +4041,7 @@
     "DisplayName": "Eliminating enemies with this weapon can spawn healing candy pick ups.",
     "IsPermanent": true,
     "Rarity": "Common",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/OnKill_SpawnHealthPickUp/AID_G_Weapon_OnKill_Spawn_HealthPickUps.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/onkill_spawnhealthpickup/aid_g_weapon_onkill_spawn_healthpickups.uasset"
   },
   "Alteration:aid_g_weapon_onkill_spawn_healthpickups_gumdrops": {
     "Type": "Alteration",
@@ -4049,7 +4049,7 @@
     "DisplayName": "Eliminating enemies with this weapon can spawn healing gumdrop pick ups.",
     "IsPermanent": true,
     "Rarity": "Common",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/HealthPickups_Winter/AID_G_Weapon_OnKill_Spawn_HealthPickUps_Gumdrops.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/healthpickups_winter/aid_g_weapon_onkill_spawn_healthpickups_gumdrops.uasset"
   },
   "Alteration:aid_g_weapon_onreload_damagebuff": {
     "Type": "Alteration",
@@ -4058,7 +4058,7 @@
     "IsPermanent": true,
     "Rarity": "Common",
     "Tier": 1,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/Founders/ReloadBuff/AID_G_Weapon_OnReload_DamageBuff.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/founders/reloadbuff/aid_g_weapon_onreload_damagebuff.uasset"
   },
   "Alteration:aid_g_weapon_onreload_damagestack": {
     "Type": "Alteration",
@@ -4067,7 +4067,7 @@
     "IsPermanent": true,
     "Rarity": "Common",
     "Tier": 1,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/Founders/SuperShot/AID_G_Weapon_OnReload_DamageStack.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/founders/supershot/aid_g_weapon_onreload_damagestack.uasset"
   },
   "Alteration:aid_g_weapon_onreload_explode": {
     "Type": "Alteration",
@@ -4076,7 +4076,7 @@
     "IsPermanent": true,
     "Rarity": "Common",
     "Tier": 1,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/Founders/OnReloadExplode/AID_G_Weapon_OnReload_Explode.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/founders/onreloadexplode/aid_g_weapon_onreload_explode.uasset"
   },
   "Alteration:aid_g_weapon_onshieldbreak_incendiaryaoe_v2": {
     "Type": "Alteration",
@@ -4084,7 +4084,7 @@
     "DisplayName": "Deals Fire damage to nearby enemies when your shield breaks",
     "IsPermanent": true,
     "Rarity": "Common",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/TO_CONSIDER/AID_G_Weapon_OnShieldBreak_IncendiaryAOE_V2.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/to_consider/aid_g_weapon_onshieldbreak_incendiaryaoe_v2.uasset"
   },
   "Alteration:aid_g_weapon_stun_v2": {
     "Type": "Alteration",
@@ -4092,7 +4092,7 @@
     "DisplayName": "Stun duration increased by 6s.",
     "IsPermanent": true,
     "Rarity": "Common",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/ImpactStun/AID_G_Weapon_Stun_V2.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/impactstun/aid_g_weapon_stun_v2.uasset"
   },
   "Alteration:aid_g_woosh": {
     "Type": "Alteration",
@@ -4101,6 +4101,6 @@
     "IsPermanent": true,
     "Rarity": "Common",
     "Tier": 1,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Alteration_v2/GameplayAlterations/Woosh/AID_G_Woosh.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/woosh/aid_g_woosh.uasset"
   }
 }

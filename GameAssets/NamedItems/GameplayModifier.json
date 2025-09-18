@@ -6,7 +6,7 @@
     "Description": "Changes all elemental enemies to fire.",
     "IsPermanent": true,
     "Rarity": "Rare",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/MiniBoss/UnlockModifiers/ElementalZoneFireEnableItem.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/unlockmodifiers/elementalzonefireenableitem.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-Elemental-Fire-64.T-Icon-Modifier-Neg-Elemental-Fire-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-Elemental-Fire-128.png"
@@ -19,7 +19,7 @@
     "Description": "Changes all elemental enemies to nature.",
     "IsPermanent": true,
     "Rarity": "Rare",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/MiniBoss/UnlockModifiers/ElementalZoneNatureEnableItem.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/unlockmodifiers/elementalzonenatureenableitem.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-Elemental-Nature-64.T-Icon-Modifier-Neg-Elemental-Nature-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-Elemental-Nature-128.png"
@@ -32,7 +32,7 @@
     "Description": "Changes all elemental enemies to water.",
     "IsPermanent": true,
     "Rarity": "Rare",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/MiniBoss/UnlockModifiers/ElementalZoneWaterEnableItem.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/unlockmodifiers/elementalzonewaterenableitem.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-Elemental-Water-64.T-Icon-Modifier-Neg-Elemental-Water-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-Elemental-Water-128.png"
@@ -44,7 +44,7 @@
     "DisplayName": "Timber!",
     "Description": "Axe weapons do more damage",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Axe_DamageBuff.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_axe_damagebuff.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-Axe-Buff-64.T-Icon-Modifier-Pos-Axe-Buff-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-Axe-Buff-128.png"
@@ -56,7 +56,7 @@
     "DisplayName": "Exploding Deathbomb",
     "Description": "Husky Husks, Riot Husks, and Sploders spawn a time bomb when eliminated.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_BaseHusk_OnDeath_Explode.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_basehusk_ondeath_explode.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-DeathBomb-64.T-Icon-Modifier-Neg-DeathBomb-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-DeathBomb-128.png"
@@ -68,7 +68,7 @@
     "DisplayName": "Metal Corrosion",
     "Description": "Basic husk melee attacks cause metal buildings to corrode, periodically damaging them for a time.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_BaseHusk_OnDmgDealt_MetalCorrosion.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_basehusk_ondmgdealt_metalcorrosion.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-Enemy-OnDmgDealt-MetalCorrosion-64.T-Icon-Modifier-Neg-Enemy-OnDmgDealt-MetalCorrosion-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-Enemy-OnDmgDealt-MetalCorrosion-128.png"
@@ -79,105 +79,105 @@
     "Name": "GM_BaseModifier_MiniBoss_1P_Husk",
     "DisplayName": "\u003CGM_BaseModifier_MiniBoss_1P_Husk\u003E",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/MiniBoss/BaseModifiers/GM_BaseModifier_MiniBoss_1P_Husk.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/basemodifiers/gm_basemodifier_miniboss_1p_husk.uasset"
   },
   "GameplayModifier:gm_basemodifier_miniboss_1p_husk_springquest_2018_huntminiboss": {
     "Type": "GameplayModifier",
     "Name": "GM_BaseModifier_MiniBoss_1P_Husk_SpringQuest_2018_HuntMiniBoss",
     "DisplayName": "\u003CGM_BaseModifier_MiniBoss_1P_Husk_SpringQuest_2018_HuntMiniBoss\u003E",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/MiniBoss/BaseModifiers/Spring2018/GM_BaseModifier_MiniBoss_1P_Husk_SpringQuest_2018_HuntMiniBoss.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/basemodifiers/spring2018/gm_basemodifier_miniboss_1p_husk_springquest_2018_huntminiboss.uasset"
   },
   "GameplayModifier:gm_basemodifier_miniboss_1p_husky": {
     "Type": "GameplayModifier",
     "Name": "GM_BaseModifier_MiniBoss_1P_Husky",
     "DisplayName": "\u003CGM_BaseModifier_MiniBoss_1P_Husky\u003E",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/MiniBoss/BaseModifiers/GM_BaseModifier_MiniBoss_1P_Husky.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/basemodifiers/gm_basemodifier_miniboss_1p_husky.uasset"
   },
   "GameplayModifier:gm_basemodifier_miniboss_1p_husky_springquest_2018_huntminiboss": {
     "Type": "GameplayModifier",
     "Name": "GM_BaseModifier_MiniBoss_1P_Husky_SpringQuest_2018_HuntMiniBoss",
     "DisplayName": "\u003CGM_BaseModifier_MiniBoss_1P_Husky_SpringQuest_2018_HuntMiniBoss\u003E",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/MiniBoss/BaseModifiers/Spring2018/GM_BaseModifier_MiniBoss_1P_Husky_SpringQuest_2018_HuntMiniBoss.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/basemodifiers/spring2018/gm_basemodifier_miniboss_1p_husky_springquest_2018_huntminiboss.uasset"
   },
   "GameplayModifier:gm_basemodifier_miniboss_1p_husky_twine_dudebro": {
     "Type": "GameplayModifier",
     "Name": "GM_BaseModifier_MiniBoss_1P_Husky_Twine_DUDEBRO",
     "DisplayName": "\u003CGM_BaseModifier_MiniBoss_1P_Husky_Twine_DUDEBRO\u003E",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/MiniBoss/BaseModifiers/DUDEBRO/GM_BaseModifier_MiniBoss_1P_Husky_Twine_DUDEBRO.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/basemodifiers/dudebro/gm_basemodifier_miniboss_1p_husky_twine_dudebro.uasset"
   },
   "GameplayModifier:gm_basemodifier_miniboss_1p_smasher": {
     "Type": "GameplayModifier",
     "Name": "GM_BaseModifier_MiniBoss_1P_Smasher",
     "DisplayName": "\u003CGM_BaseModifier_MiniBoss_1P_Smasher\u003E",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/MiniBoss/BaseModifiers/GM_BaseModifier_MiniBoss_1P_Smasher.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/basemodifiers/gm_basemodifier_miniboss_1p_smasher.uasset"
   },
   "GameplayModifier:gm_basemodifier_miniboss_1p_smasher_endlessmode": {
     "Type": "GameplayModifier",
     "Name": "GM_BaseModifier_MiniBoss_1P_Smasher_EndlessMode",
     "DisplayName": "\u003CGM_BaseModifier_MiniBoss_1P_Smasher_EndlessMode\u003E",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/MiniBoss/BaseModifiers/Endless/GM_BaseModifier_MiniBoss_1P_Smasher_EndlessMode.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/basemodifiers/endless/gm_basemodifier_miniboss_1p_smasher_endlessmode.uasset"
   },
   "GameplayModifier:gm_basemodifier_miniboss_1p_smasher_springquest_2018_huntminiboss": {
     "Type": "GameplayModifier",
     "Name": "GM_BaseModifier_MiniBoss_1P_Smasher_SpringQuest_2018_HuntMiniBoss",
     "DisplayName": "\u003CGM_BaseModifier_MiniBoss_1P_Smasher_SpringQuest_2018_HuntMiniBoss\u003E",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/MiniBoss/BaseModifiers/Spring2018/GM_BaseModifier_MiniBoss_1P_Smasher_SpringQuest_2018_HuntMiniBoss.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/basemodifiers/spring2018/gm_basemodifier_miniboss_1p_smasher_springquest_2018_huntminiboss.uasset"
   },
   "GameplayModifier:gm_basemodifier_miniboss_1p_starlightsciboss": {
     "Type": "GameplayModifier",
     "Name": "GM_BaseModifier_MiniBoss_1P_StarlightSciBoss",
     "DisplayName": "\u003CGM_BaseModifier_MiniBoss_1P_StarlightSciBoss\u003E",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/MiniBoss/BaseModifiers/GM_BaseModifier_MiniBoss_1P_StarlightSciBoss.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/basemodifiers/gm_basemodifier_miniboss_1p_starlightsciboss.uasset"
   },
   "GameplayModifier:gm_basemodifier_miniboss_4p_husk": {
     "Type": "GameplayModifier",
     "Name": "GM_BaseModifier_MiniBoss_4P_Husk",
     "DisplayName": "\u003CGM_BaseModifier_MiniBoss_4P_Husk\u003E",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/MiniBoss/BaseModifiers/GM_BaseModifier_MiniBoss_4P_Husk.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/basemodifiers/gm_basemodifier_miniboss_4p_husk.uasset"
   },
   "GameplayModifier:gm_basemodifier_miniboss_4p_husky": {
     "Type": "GameplayModifier",
     "Name": "GM_BaseModifier_MiniBoss_4P_Husky",
     "DisplayName": "\u003CGM_BaseModifier_MiniBoss_4P_Husky\u003E",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/MiniBoss/BaseModifiers/GM_BaseModifier_MiniBoss_4P_Husky.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/basemodifiers/gm_basemodifier_miniboss_4p_husky.uasset"
   },
   "GameplayModifier:gm_basemodifier_miniboss_4p_smasher": {
     "Type": "GameplayModifier",
     "Name": "GM_BaseModifier_MiniBoss_4P_Smasher",
     "DisplayName": "\u003CGM_BaseModifier_MiniBoss_4P_Smasher\u003E",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/MiniBoss/BaseModifiers/GM_BaseModifier_MiniBoss_4P_Smasher.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/basemodifiers/gm_basemodifier_miniboss_4p_smasher.uasset"
   },
   "GameplayModifier:gm_basemodifier_miniboss_4p_smasher_golden": {
     "Type": "GameplayModifier",
     "Name": "GM_BaseModifier_MiniBoss_4P_Smasher_Golden",
     "DisplayName": "\u003CGM_BaseModifier_MiniBoss_4P_Smasher_Golden\u003E",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Abilities/NPC/MiniBoss/ItemDefs/BaseModifiers/GM_BaseModifier_MiniBoss_4P_Smasher_Golden.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/npc/miniboss/itemdefs/basemodifiers/gm_basemodifier_miniboss_4p_smasher_golden.uasset"
   },
   "GameplayModifier:gm_basemodifier_miniboss_4p_starlightsciboss": {
     "Type": "GameplayModifier",
     "Name": "GM_BaseModifier_MiniBoss_4P_StarlightSciBoss",
     "DisplayName": "\u003CGM_BaseModifier_MiniBoss_4P_StarlightSciBoss\u003E",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/MiniBoss/BaseModifiers/GM_BaseModifier_MiniBoss_4P_StarlightSciBoss.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/basemodifiers/gm_basemodifier_miniboss_4p_starlightsciboss.uasset"
   },
   "GameplayModifier:gm_basemodifier_miniboss_dudebro_smasher": {
     "Type": "GameplayModifier",
     "Name": "GM_BaseModifier_MiniBoss_DUDEBRO_Smasher",
     "DisplayName": "\u003CGM_BaseModifier_MiniBoss_DUDEBRO_Smasher\u003E",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/MiniBoss/BaseModifiers/DUDEBRO/GM_BaseModifier_MiniBoss_DUDEBRO_Smasher.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/basemodifiers/dudebro/gm_basemodifier_miniboss_dudebro_smasher.uasset"
   },
   "GameplayModifier:gm_bldg_ondeath_buffenemyenvdmg": {
     "Type": "GameplayModifier",
@@ -185,7 +185,7 @@
     "DisplayName": "Rolling Destruction",
     "Description": "When a building is destroyed nearby monsters do more damage to buildings.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Bldg_OnDeath_BuffEnemyEnvDmg.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_bldg_ondeath_buffenemyenvdmg.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-1-M.Icon-Theater-1-M",
       "LargePreview": "ExportedImages\\Icon-Theater-1-M.png"
@@ -197,7 +197,7 @@
     "DisplayName": "If I Had a Hammer",
     "Description": "Constructors do more damage with blunt weapons.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Constructor_Blunt_DamageBuff.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_constructor_blunt_damagebuff.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-Constructor-Blunt-Damage-Buff-64.T-Icon-Modifier-Pos-Constructor-Blunt-Damage-Buff-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-Constructor-Blunt-Damage-Buff-128.png"
@@ -209,7 +209,7 @@
     "DisplayName": "Building Constructors",
     "Description": "Build, Upgrade, and Repair costs reduced for Constructors.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Constructor_BuildCost_Buff.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_constructor_buildcost_buff.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-Constructor-BuildCost-Buff-64.T-Icon-Modifier-Pos-Constructor-BuildCost-Buff-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-Constructor-BuildCost-Buff-128.png"
@@ -221,7 +221,7 @@
     "DisplayName": "Adept Constructors",
     "Description": "Constructors do more damage.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Constructor_Damage_Buff.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_constructor_damage_buff.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-Constructor-Damage-Buff-64.T-Icon-Modifier-Pos-Constructor-Damage-Buff-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-Constructor-Damage-Buff-128.png"
@@ -233,7 +233,7 @@
     "DisplayName": "Hardware Constructors",
     "Description": "Constructors do more damage and crit more often with Hardware weapons.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Constructor_Hardware_DamageBuff.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_constructor_hardware_damagebuff.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-Constructor-Blunt-Damage-Buff-64.T-Icon-Modifier-Pos-Constructor-Blunt-Damage-Buff-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-Constructor-Blunt-Damage-Buff-128.png"
@@ -245,7 +245,7 @@
     "DisplayName": "Super Tools",
     "Description": "Increased Tech stat for Constructors",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Constructor_Tech_Buff.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_constructor_tech_buff.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-1-M.Icon-Theater-1-M",
       "LargePreview": "ExportedImages\\Icon-Theater-1-M.png"
@@ -256,21 +256,21 @@
     "Name": "GM_Elemental_Fire",
     "DisplayName": "\u003CGM_Elemental_Fire\u003E",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/ElementalNPC/GM_Elemental_Fire.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/elementalnpc/gm_elemental_fire.uasset"
   },
   "GameplayModifier:gm_elemental_ice": {
     "Type": "GameplayModifier",
     "Name": "GM_Elemental_Ice",
     "DisplayName": "\u003CGM_Elemental_Ice\u003E",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/ElementalNPC/GM_Elemental_Ice.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/elementalnpc/gm_elemental_ice.uasset"
   },
   "GameplayModifier:gm_elemental_lightning": {
     "Type": "GameplayModifier",
     "Name": "GM_Elemental_Lightning",
     "DisplayName": "\u003CGM_Elemental_Lightning\u003E",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/ElementalNPC/GM_Elemental_Lightning.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/elementalnpc/gm_elemental_lightning.uasset"
   },
   "GameplayModifier:gm_enemy_abilitydmgincrease_minor": {
     "Type": "GameplayModifier",
@@ -278,7 +278,7 @@
     "DisplayName": "Enemy Damage (Minor)",
     "Description": "Enemies deal slightly more damage.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Attack/GM_Enemy_AbilityDmgIncrease_Minor.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/attack/gm_enemy_abilitydmgincrease_minor.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-1-M.Icon-Theater-1-M",
       "LargePreview": "ExportedImages\\Icon-Theater-1-M.png"
@@ -290,7 +290,7 @@
     "DisplayName": "Frenzied",
     "Description": "Enemies have a movement and attack speed increase.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Enemy_ApplySpeedMods.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_enemy_applyspeedmods.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-Enemy-OnDmgReceived-SpeedBuff-64.T-Icon-Modifier-Neg-Enemy-OnDmgReceived-SpeedBuff-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-Enemy-OnDmgReceived-SpeedBuff-128.png"
@@ -302,7 +302,7 @@
     "DisplayName": "Unstoppable Husks",
     "Description": "Husks are immune to crowd-control.  Stuns, Slows, and Knockbacks will not affect husks. Decoy cannot be activated.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Enemy_CCImmune.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_enemy_ccimmune.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-NoShields-64.T-Icon-Modifier-Neg-NoShields-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-NoShields-128.png"
@@ -314,7 +314,7 @@
     "DisplayName": "Ground Zero",
     "Description": "Enemies start weaker than normal, but become more and more powerful over time.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Enemy_GroundZero.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_enemy_groundzero.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-3-M.Icon-Theater-3-M",
       "LargePreview": "ExportedImages\\Icon-Theater-3-M.png"
@@ -326,7 +326,7 @@
     "DisplayName": "Tank",
     "Description": "Husks have much more health and are harder to slow, stun, and stagger.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Defense/GM_Enemy_Health_Stability_Increase.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/defense/gm_enemy_health_stability_increase.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-EnemyHealthStabilityIncrease-64.T-Icon-Modifier-Neg-EnemyHealthStabilityIncrease-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-EnemyHealthStabilityIncrease-128.png"
@@ -338,7 +338,7 @@
     "DisplayName": "Uncharted Enemies",
     "Description": "Enemies don\u0027t show up on the minimap.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Enemy_HideOnMinimap.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_enemy_hideonminimap.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-Enemy-HideOnMinimap-64.T-Icon-Modifier-Neg-Enemy-HideOnMinimap-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-Enemy-HideOnMinimap-128.png"
@@ -350,7 +350,7 @@
     "DisplayName": "Unstoppable Force",
     "Description": "Knocking enemies back or making them stagger is more difficult.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Enemy_KnockBackResist.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_enemy_knockbackresist.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-Bldg-OnDeath-BuffEnemyEnvDmg-64.T-Icon-Modifier-Pos-Bldg-OnDeath-BuffEnemyEnvDmg-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-Bldg-OnDeath-BuffEnemyEnvDmg-128.png"
@@ -362,7 +362,7 @@
     "DisplayName": "What Level are they!?!",
     "Description": "All enemy levels vary above/below the base level for the zone. (\u002B10/-10)",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Enemy_Level_Variance.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_enemy_level_variance.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-1-M.Icon-Theater-1-M",
       "LargePreview": "ExportedImages\\Icon-Theater-1-M.png"
@@ -374,7 +374,7 @@
     "DisplayName": "Husk Heartiness (Major)",
     "Description": "Husks have largely increased maximum health.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Defense/GM_Enemy_MaxHealthIncrease_Major.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/defense/gm_enemy_maxhealthincrease_major.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-MaxHealthIncrease-Major-64.T-Icon-Modifier-Neg-MaxHealthIncrease-Major-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-MaxHealthIncrease-Major-128.png"
@@ -386,7 +386,7 @@
     "DisplayName": "Husk Heartiness (Minor)",
     "Description": "Husks have slightly increased maximum health.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Defense/GM_Enemy_MaxHealthIncrease_Minor.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/defense/gm_enemy_maxhealthincrease_minor.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-MaxHealthIncrease-Minor-64.T-Icon-Modifier-Neg-MaxHealthIncrease-Minor-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-MaxHealthIncrease-Minor-128.png"
@@ -398,7 +398,7 @@
     "DisplayName": "Frenzied Deathburst",
     "Description": "When enemies die, they grant nearby enemies a brief increase in attack as well as both movement and attack speed.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Enemy_OnDeath_ApplySpeedMods.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_enemy_ondeath_applyspeedmods.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-Enemy-OnDeath-ApplySpeedMods-64.T-Icon-Modifier-Neg-Enemy-OnDeath-ApplySpeedMods-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-Enemy-OnDeath-ApplySpeedMods-128.png"
@@ -410,7 +410,7 @@
     "DisplayName": "Healing Deathburst",
     "Description": "When enemies die, they heal nearby enemies for a percentage of their maximum health.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Enemy_OnDeath_AreaHeal.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_enemy_ondeath_areaheal.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-Enemy-OnDeath-AreaHeal-64.T-Icon-Modifier-Neg-Enemy-OnDeath-AreaHeal-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-Enemy-OnDeath-AreaHeal-128.png"
@@ -421,7 +421,7 @@
     "Name": "GM_Enemy_OnDeath_DropHealingGlobes",
     "DisplayName": "\u003CGM_Enemy_OnDeath_DropHealingGlobes\u003E",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Enemy_OnDeath_DropHealingGlobes.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_enemy_ondeath_drophealingglobes.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-Bldg-OnDeath-BuffEnemyEnvDmg-64.T-Icon-Modifier-Pos-Bldg-OnDeath-BuffEnemyEnvDmg-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-Bldg-OnDeath-BuffEnemyEnvDmg-128.png"
@@ -433,7 +433,7 @@
     "DisplayName": "Bass Drop",
     "Description": "Everyone nearby is knocked back when an enemy dies.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Enemy_OnDeath_Knockback.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_enemy_ondeath_knockback.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-3-M.Icon-Theater-3-M",
       "LargePreview": "ExportedImages\\Icon-Theater-3-M.png"
@@ -445,7 +445,7 @@
     "DisplayName": "Acid Pools",
     "Description": "Enemies have a chance to leave a damaging pool on the ground when they die.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Enemy_OnDeath_SpawnDamagePool.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_enemy_ondeath_spawndamagepool.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-Enemy-OnDeath-SpawnEnemyRangeResistPool-64.T-Icon-Modifier-Neg-Enemy-OnDeath-SpawnEnemyRangeResistPool-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-Enemy-OnDeath-SpawnEnemyRangeResistPool-128.png"
@@ -457,7 +457,7 @@
     "DisplayName": "Smoke Screens",
     "Description": "Enemies have a chance to create a smoke screen when they die, granting enemy damage resistance to ranged attacks.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Enemy_OnDeath_SpawnEnemyRangeResistPool.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_enemy_ondeath_spawnenemyrangeresistpool.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-Enemy-OnDeath-SpawnDamagePool-64.T-Icon-Modifier-Neg-Enemy-OnDeath-SpawnDamagePool-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-Enemy-OnDeath-SpawnDamagePool-128.png"
@@ -469,7 +469,7 @@
     "DisplayName": "Mourning Jog",
     "Description": "When enemies die they can spawn a pool that slows other enemies.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Enemy_OnDeath_SpawnEnemySlowPool.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_enemy_ondeath_spawnenemyslowpool.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-3-M.Icon-Theater-3-M",
       "LargePreview": "ExportedImages\\Icon-Theater-3-M.png"
@@ -481,7 +481,7 @@
     "DisplayName": "Slowing Pools",
     "Description": "Enemies have a chance to leave a slowing pool on the ground when they die.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Enemy_OnDeath_SpawnPlayerSlowPool.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_enemy_ondeath_spawnplayerslowpool.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-Enemy-OnDeath-SpawnPlayerSlowPool-64.T-Icon-Modifier-Neg-Enemy-OnDeath-SpawnPlayerSlowPool-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-Enemy-OnDeath-SpawnPlayerSlowPool-128.png"
@@ -493,7 +493,7 @@
     "DisplayName": "Echo-Punch",
     "Description": "Enemy melee attacks inflict Damage-Over-Time",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Enemy_OnDmgDealt_DOT.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_enemy_ondmgdealt_dot.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-Enemy-OnDeath-SpawnEnemyRangeResistPool-64.T-Icon-Modifier-Neg-Enemy-OnDeath-SpawnEnemyRangeResistPool-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-Enemy-OnDeath-SpawnEnemyRangeResistPool-128.png"
@@ -505,7 +505,7 @@
     "DisplayName": "They Must Work Out!",
     "Description": "Enemy melee attacks knock heroes back",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Enemy_OnDmgDealt_Knockback.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_enemy_ondmgdealt_knockback.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-Enemy-OnDeath-ApplySpeedMods-64.T-Icon-Modifier-Neg-Enemy-OnDeath-ApplySpeedMods-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-Enemy-OnDeath-ApplySpeedMods-128.png"
@@ -517,7 +517,7 @@
     "DisplayName": "Life Leech Attacks",
     "Description": "Enemies restore health each time they deal damage.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Enemy_OnDmgDealt_LifeLeech.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_enemy_ondmgdealt_lifeleech.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-Enemy-OnDmgDealt-LifeLeech-64.T-Icon-Modifier-Neg-Enemy-OnDmgDealt-LifeLeech-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-Enemy-OnDmgDealt-LifeLeech-128.png"
@@ -529,7 +529,7 @@
     "DisplayName": "Slap-fest",
     "Description": "Players deal less damage after being struck by enemies",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Enemy_OnDmgDealt_ReduceDmgFoe.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_enemy_ondmgdealt_reducedmgfoe.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-3-M.Icon-Theater-3-M",
       "LargePreview": "ExportedImages\\Icon-Theater-3-M.png"
@@ -541,7 +541,7 @@
     "DisplayName": "Slowing Attacks",
     "Description": "Whenever a player is struck by a melee attack, they move more slowly for a short time.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Enemy_OnDmgDealt_SlowDownFoe.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_enemy_ondmgdealt_slowdownfoe.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-Enemy-OnDmgDealt-SlowDownFoe-64.T-Icon-Modifier-Neg-Enemy-OnDmgDealt-SlowDownFoe-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-Enemy-OnDmgDealt-SlowDownFoe-128.png"
@@ -553,7 +553,7 @@
     "DisplayName": "Make Me Angry",
     "Description": "Each time the monster is attacked it becomes more powerful.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Enemy_OnDmgReceived_DmgBuff.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_enemy_ondmgreceived_dmgbuff.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-3-M.Icon-Theater-3-M",
       "LargePreview": "ExportedImages\\Icon-Theater-3-M.png"
@@ -565,7 +565,7 @@
     "DisplayName": "Quickened",
     "Description": "Enemies gain movement speed for a time after taking damage from the player.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Enemy_OnDmgReceived_SpeedBuff.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_enemy_ondmgreceived_speedbuff.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-Enemy-OnDmgReceived-SpeedBuff-64.T-Icon-Modifier-Neg-Enemy-OnDmgReceived-SpeedBuff-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-Enemy-OnDmgReceived-SpeedBuff-128.png"
@@ -577,7 +577,7 @@
     "DisplayName": "Termites",
     "Description": "Enemies heal by a percentage of all damage dealt to buildings.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Enemy_OnEvnDmgDealt_LifeLeech.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_enemy_onevndmgdealt_lifeleech.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-1-M.Icon-Theater-1-M",
       "LargePreview": "ExportedImages\\Icon-Theater-1-M.png"
@@ -589,7 +589,7 @@
     "DisplayName": "Wall Weakening",
     "Description": "Buildings become increasingly vulnerable to damage for a short time after they are attacked.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Enemy_OnHitWeakenBuildings.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_enemy_onhitweakenbuildings.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-Enemy-OnHitWeakenBuildings-64.T-Icon-Modifier-Neg-Enemy-OnHitWeakenBuildings-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-Enemy-OnHitWeakenBuildings-128.png"
@@ -601,7 +601,7 @@
     "DisplayName": "Enraged",
     "Description": "When enemies are near death they become enraged, dealing more damage.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Enemy_OnLowHealth_Enrage.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_enemy_onlowhealth_enrage.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-Enemy-OnLowHealth-Enrage-64.T-Icon-Modifier-Neg-Enemy-OnLowHealth-Enrage-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-Enemy-OnLowHealth-Enrage-128.png"
@@ -613,7 +613,7 @@
     "DisplayName": "Ricochet",
     "Description": "Enemies reflect a percentage of the ranged damage they suffer.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Enemy_Ricochet.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_enemy_ricochet.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-Enemy-Ricochet-64.T-Icon-Modifier-Neg-Enemy-Ricochet-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-Enemy-Ricochet-128.png"
@@ -625,7 +625,7 @@
     "DisplayName": "Ricochet (Major)",
     "Description": "Enemies reflect a percentage of the ranged damage they suffer.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Enemy_Ricochet_Major.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_enemy_ricochet_major.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-Enemy-Ricochet-64.T-Icon-Modifier-Neg-Enemy-Ricochet-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-Enemy-Ricochet-128.png"
@@ -637,7 +637,7 @@
     "DisplayName": "Thorny",
     "Description": "Any melee hits to monsters causes some damage to the attacker.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Enemy_Thorns.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_enemy_thorns.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-3-M.Icon-Theater-3-M",
       "LargePreview": "ExportedImages\\Icon-Theater-3-M.png"
@@ -649,7 +649,7 @@
     "DisplayName": "Husk Hardiness",
     "Description": "Enemies take reduced damage from weapons and player abilities.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Enemy_WeaponAndAbilityResist.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_enemy_weaponandabilityresist.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-MaxHealthIncrease-Major-64.T-Icon-Modifier-Neg-MaxHealthIncrease-Major-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-MaxHealthIncrease-Major-128.png"
@@ -661,7 +661,7 @@
     "DisplayName": "Harvesting Disabled",
     "Description": "Harvesting yields no resources.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_HarvestingDisable.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_harvestingdisable.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-NoHarvesting-64.T-Icon-Modifier-Neg-NoHarvesting-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-NoHarvesting-128.png"
@@ -673,7 +673,7 @@
     "DisplayName": "Adept Abilities",
     "Description": "Hero abilities do more damage.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Hero_Tech_Buff.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_hero_tech_buff.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-Hero-Tech-Buff-64.T-Icon-Modifier-Pos-Hero-Tech-Buff-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-Hero-Tech-Buff-128.png"
@@ -685,7 +685,7 @@
     "DisplayName": "Hoverboard Disabled",
     "Description": "Hoverboard not Available",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_HoverboardPrevent.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_hoverboardprevent.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-NoHoverboard-128.T-Icon-Modifier-NoHoverboard-128",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-NoHoverboard-128.png"
@@ -697,7 +697,7 @@
     "DisplayName": "Immune To Traps",
     "Description": "Enemies do not trigger traps.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_ImmuneToTraps.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_immunetotraps.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-Bldg-OnDeath-BuffEnemyEnvDmg-64.T-Icon-Modifier-Pos-Bldg-OnDeath-BuffEnemyEnvDmg-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-Bldg-OnDeath-BuffEnemyEnvDmg-128.png"
@@ -709,7 +709,7 @@
     "DisplayName": "Item Sharing Enabled",
     "Description": "Share items with teammates in this mode.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_ItemSharingEnabled.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_itemsharingenabled.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T_Icon_Modifier_Pos_ItemSharingEnabled_128.T_Icon_Modifier_Pos_ItemSharingEnabled_128",
       "LargePreview": "ExportedImages\\T_Icon_Modifier_Pos_ItemSharingEnabled_128.png"
@@ -721,7 +721,7 @@
     "DisplayName": "Low G",
     "Description": "Gravity is decreased",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_LowG.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_lowg.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-Low-Gravity-64.T-Icon-Modifier-Pos-Low-Gravity-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-Low-Gravity-128.png"
@@ -733,7 +733,7 @@
     "DisplayName": "Focused Ninjas",
     "Description": "Ninja ability cool downs and energy costs are reduced.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Ninja_AbilityRate_Buff.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_ninja_abilityrate_buff.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-Ninja-AbilityRate-Buff-64.T-Icon-Modifier-Pos-Ninja-AbilityRate-Buff-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-Ninja-AbilityRate-Buff-128.png"
@@ -745,7 +745,7 @@
     "DisplayName": "Adept Ninjas",
     "Description": "Ninjas do more damage.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Ninja_Damage_Buff.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_ninja_damage_buff.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-Ninja-Damage-Buff-64.T-Icon-Modifier-Pos-Ninja-Damage-Buff-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-Ninja-Damage-Buff-128.png"
@@ -757,7 +757,7 @@
     "DisplayName": "Leaping Ninjas",
     "Description": "Mantis Leap now deals AoE damage when landing.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Ninja_JumpHeight_Buff.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_ninja_jumpheight_buff.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-Ninja-JumpHieght-Buff-64.T-Icon-Modifier-Pos-Ninja-JumpHieght-Buff-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-Ninja-JumpHieght-Buff-128.png"
@@ -769,7 +769,7 @@
     "DisplayName": "Speed Tabi",
     "Description": "Ninja Heroes are faster.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Ninja_Speed_Buff.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_ninja_speed_buff.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-1-M.Icon-Theater-1-M",
       "LargePreview": "ExportedImages\\Icon-Theater-1-M.png"
@@ -781,7 +781,7 @@
     "DisplayName": "Sword Ninjas",
     "Description": "Ninjas do more damage and crit more often with swords.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Ninja_Sword_DamageBuff.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_ninja_sword_damagebuff.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-Ninja-Sword-DamageBuff-64.T-Icon-Modifier-Pos-Ninja-Sword-DamageBuff-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-Ninja-Sword-DamageBuff-128.png"
@@ -793,7 +793,7 @@
     "DisplayName": "Adept Outlanders",
     "Description": "Outlanders do more damage.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Outlander_Damage_Buff.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_outlander_damage_buff.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-Outlander-Damage-Buff-64.T-Icon-Modifier-Pos-Outlander-Damage-Buff-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-Outlander-Damage-Buff-128.png"
@@ -805,7 +805,7 @@
     "DisplayName": "Reaping Time",
     "Description": "Outlander attacks with the harvester tool do more damage to the environment.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Outlander_HarvesterAttack_DamageBuff.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_outlander_harvesterattack_damagebuff.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-1-M.Icon-Theater-1-M",
       "LargePreview": "ExportedImages\\Icon-Theater-1-M.png"
@@ -817,7 +817,7 @@
     "DisplayName": "Heavy Work",
     "Description": "Outlander attacks with the harvester tool do more damage.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Outlander_HarvesterEnv_DamageBuff.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_outlander_harvesterenv_damagebuff.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-1-M.Icon-Theater-1-M",
       "LargePreview": "ExportedImages\\Icon-Theater-1-M.png"
@@ -829,7 +829,7 @@
     "DisplayName": "Upgraded Outlanders",
     "Description": "Outlander abilities deal more damage.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Outlander_Tech_Buff.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_outlander_tech_buff.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-Outlander-Tech-Buff-64.T-Icon-Modifier-Pos-Outlander-Tech-Buff-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-Outlander-Tech-Buff-128.png"
@@ -841,7 +841,7 @@
     "DisplayName": "Acid Rain",
     "Description": "Stay under cover! Heroes suffer damage over time when not under a roof.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Phoenix_Modifiers/GM_Phoenix_AcidRain.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/phoenix_modifiers/gm_phoenix_acidrain.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Acid-Rain-64.T-Icon-Modifier-Acid-Rain-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Acid-Rain-128.png"
@@ -853,7 +853,7 @@
     "DisplayName": "Short Range",
     "Description": "Enemies close to a player or defender suffer more damage; those far away suffer less. All enemies have a chance to a drop healing pickup when eliminated.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Phoenix_Modifiers/GM_Phoenix_CloseQuarters.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/phoenix_modifiers/gm_phoenix_closequarters.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Close-Quarters-64.T-Icon-Modifier-Close-Quarters-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Close-Quarters-128.png"
@@ -865,7 +865,7 @@
     "DisplayName": "Escalation",
     "Description": "Maintain an elimination streak to increase your power! Every\r\n30 eliminations your team will trigger an elemental burst\r\nthat hits nearby enemies and a 10% damage boost to weapons and ability damage, building up to a maximum of 100% extra damage. The streak will be lost if you go 20 seconds without an elimination.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Phoenix_Modifiers/GM_Phoenix_Escalation.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/phoenix_modifiers/gm_phoenix_escalation.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Escalation-64.T-Icon-Modifier-Escalation-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Escalation-128.png"
@@ -877,7 +877,7 @@
     "DisplayName": "Rage",
     "Description": "No Energy regeneration - instead damaging enemies with weapons adds Energy. Abilities have improved cooldowns and effectiveness.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Phoenix_Modifiers/GM_Phoenix_RageMeter.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/phoenix_modifiers/gm_phoenix_ragemeter.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Rage-Meter-64.T-Icon-Modifier-Rage-Meter-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Rage-Meter-128.png"
@@ -889,7 +889,7 @@
     "DisplayName": "Super Constructor",
     "Description": "Building costs are reduced by 66%. Melee Impact damage dealt is increased, and triggering Kinetic Overload reduces active cooldowns by 4 seconds. Reduced weapon damage.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Phoenix_Modifiers/GM_Phoenix_SuperConstructor.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/phoenix_modifiers/gm_phoenix_superconstructor.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Super-Heroic-64.T-Icon-Modifier-Super-Heroic-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Super-Heroic-128.png"
@@ -901,7 +901,7 @@
     "DisplayName": "Super Soldier",
     "Description": "Headshot damage gets a x2 bonus. Ranged weapon eliminations reduce active cooldowns by 4 seconds. If Frag Grenade is equipped, every 6 ranged eliminations grant a grenade. Reduced melee weapon and trap damage.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Phoenix_Modifiers/GM_Phoenix_SuperHeroic.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/phoenix_modifiers/gm_phoenix_superheroic.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Super-Heroic-64.T-Icon-Modifier-Super-Heroic-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Super-Heroic-128.png"
@@ -913,7 +913,7 @@
     "DisplayName": "Bouncy Husks",
     "Description": "Normal and Husky Husks have increased health. All husks get knocked back further and easier, and player weapons get bonus knock back. ",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Phoenix_Modifiers/GM_Phoenix_SuperHusks_HuskMods.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/phoenix_modifiers/gm_phoenix_superhusks_huskmods.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-SuperHusk-Husk-64.T-Icon-Modifier-SuperHusk-Husk-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-SuperHusk-Husk-128.png"
@@ -925,7 +925,7 @@
     "DisplayName": "[ph]Husk Knockback Vulnerability",
     "Description": "[ph]Husks are easier to knock back, and when a player knocks one back they fly farther. ",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Phoenix_Modifiers/GM_Phoenix_SuperHusks_Melee.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/phoenix_modifiers/gm_phoenix_superhusks_melee.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-SuperHusk-Husk-64.T-Icon-Modifier-SuperHusk-Husk-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-SuperHusk-Husk-128.png"
@@ -937,7 +937,7 @@
     "DisplayName": "Super Treasure",
     "Description": "Great monsters mean great rewards! Players periodically spawn a chest full of valuable items when eliminating enemies. Tougher enemies drop chests more frequently.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Phoenix_Modifiers/GM_Phoenix_SuperHusks_PlayerBenefits.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/phoenix_modifiers/gm_phoenix_superhusks_playerbenefits.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-SuperHusk-Treasure-64.T-Icon-Modifier-SuperHusk-Treasure-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-SuperHusk-Treasure-128.png"
@@ -949,7 +949,7 @@
     "DisplayName": "Super Ranged Monsters",
     "Description": "[ph]Ranged Husks have 30% less health, and deal reduced damage. ",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Phoenix_Modifiers/GM_Phoenix_SuperHusks_Ranged.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/phoenix_modifiers/gm_phoenix_superhusks_ranged.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-SuperHusk-Husk-64.T-Icon-Modifier-SuperHusk-Husk-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-SuperHusk-Husk-128.png"
@@ -961,7 +961,7 @@
     "DisplayName": "[ph]Super Tough Monsters",
     "Description": "[ph]Normal and Husky Husks, and Mist Monsters have increased health and move more slowly.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Phoenix_Modifiers/GM_Phoenix_SuperHusks_Tank.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/phoenix_modifiers/gm_phoenix_superhusks_tank.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-SuperHusk-Husk-64.T-Icon-Modifier-SuperHusk-Husk-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-SuperHusk-Husk-128.png"
@@ -973,7 +973,7 @@
     "DisplayName": "Super Ninja",
     "Description": "Ability eliminations increase melee damage and attack speed by 50% for 10 seconds. Melee weapon eliminations reduce active cooldowns by 2 seconds. Shadowstance\u0027s benefits are doubled. Reduced ranged weapon and trap damage.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Phoenix_Modifiers/GM_Phoenix_SuperNinja.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/phoenix_modifiers/gm_phoenix_superninja.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Super-Heroic-64.T-Icon-Modifier-Super-Heroic-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Super-Heroic-128.png"
@@ -985,7 +985,7 @@
     "DisplayName": "Super Outlander",
     "Description": "Anti-Material Charge costs 0 Energy. They gain a fragment every 50 seconds. Passive 30% damage buff to active abilities. Reduced weapon and trap damage.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Phoenix_Modifiers/GM_Phoenix_SuperOutlander.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/phoenix_modifiers/gm_phoenix_superoutlander.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Super-Heroic-64.T-Icon-Modifier-Super-Heroic-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Super-Heroic-128.png"
@@ -997,7 +997,7 @@
     "DisplayName": "Quick Cooling",
     "Description": "Ability cooldown times reduced",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Player_AbilityCooldown_Buff.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_player_abilitycooldown_buff.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-1-M.Icon-Theater-1-M",
       "LargePreview": "ExportedImages\\Icon-Theater-1-M.png"
@@ -1009,7 +1009,7 @@
     "DisplayName": "Powerful Assault Rifles",
     "Description": "Assault Rifles do more damage.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Player_AssaultRifle_Damage_Buff.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_player_assaultrifle_damage_buff.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-AssaultRifle-DamageBuff-64.T-Icon-Modifier-Pos-AssaultRifle-DamageBuff-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-AssaultRifle-DamageBuff-128.png"
@@ -1021,7 +1021,7 @@
     "DisplayName": "Powerful Axes and Scythes",
     "Description": "Axe and Scythe weapons do more damage.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Player_AxesScythesDamage_Buff.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_player_axesscythesdamage_buff.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-AxesScythesDamage-Buff-64.T-Icon-Modifier-Pos-AxesScythesDamage-Buff-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-AxesScythesDamage-Buff-128.png"
@@ -1033,7 +1033,7 @@
     "DisplayName": "Powerful Clubs and Hardware",
     "Description": "Club and Hardware weapons do more damage.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Player_BluntDamage_Buff.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_player_bluntdamage_buff.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-BluntDamage-Buff-64.T-Icon-Modifier-Pos-BluntDamage-Buff-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-BluntDamage-Buff-128.png"
@@ -1045,7 +1045,7 @@
     "DisplayName": "Building Benefit",
     "Description": "Build, Upgrade, and Repair costs reduced.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Player_BuildCost_Buff.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_player_buildcost_buff.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-Constructor-BuildCost-Buff-64.T-Icon-Modifier-Pos-Constructor-BuildCost-Buff-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-Constructor-BuildCost-Buff-128.png"
@@ -1057,7 +1057,7 @@
     "DisplayName": "Critical Failure",
     "Description": "Players can no longer crit with weapons.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Attack/GM_Player_CritReduction_Major.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/attack/gm_player_critreduction_major.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-CritReduction-Major-64.T-Icon-Modifier-CritReduction-Major-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-CritReduction-Major-128.png"
@@ -1069,7 +1069,7 @@
     "DisplayName": "Heroic Heroes",
     "Description": "Heroes do more damage",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Player_Damage_Buff.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_player_damage_buff.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-1-M.Icon-Theater-1-M",
       "LargePreview": "ExportedImages\\Icon-Theater-1-M.png"
@@ -1081,7 +1081,7 @@
     "DisplayName": "No Repairs",
     "Description": "Heroes can\u0027t repair buildings for one wave.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Player_DisableRepair.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_player_disablerepair.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-DisableRepair-64.T-Icon-Modifier-Neg-DisableRepair-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-DisableRepair-128.png"
@@ -1093,7 +1093,7 @@
     "DisplayName": "Edgy",
     "Description": "Edged weapons do more damage",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Player_EdgedDamage_Buff.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_player_edgeddamage_buff.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-EdgedDamage-Buff-64.T-Icon-Modifier-Pos-EdgedDamage-Buff-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-EdgedDamage-Buff-128.png"
@@ -1105,7 +1105,7 @@
     "DisplayName": "Powerful Energy Attacks",
     "Description": "Player energy attacks do more damage.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Player_Energy_DamageBuff.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_player_energy_damagebuff.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-Player-Energy-DamageBuff-64.T-Icon-Modifier-Pos-Player-Energy-DamageBuff-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-Player-Energy-DamageBuff-128.png"
@@ -1117,7 +1117,7 @@
     "DisplayName": "Energized",
     "Description": "Energy regenerates faster",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Player_EnergyRegen_Buff.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_player_energyregen_buff.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-1-M.Icon-Theater-1-M",
       "LargePreview": "ExportedImages\\Icon-Theater-1-M.png"
@@ -1129,7 +1129,7 @@
     "DisplayName": "Powerful Explosives",
     "Description": "Explosive weapons do more damage.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Player_Explosive_DamageBuff.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_player_explosive_damagebuff.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-Player-Explosive-DamageBuff-64.T-Icon-Modifier-Pos-Player-Explosive-DamageBuff-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-Player-Explosive-DamageBuff-128.png"
@@ -1141,7 +1141,7 @@
     "DisplayName": "Frosty Turf",
     "Description": "Traps have increased reload time.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Missions/Modes/FortniteEndless/Props/GM_Player_FrostyTurf_Traps.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/missions/modes/fortniteendless/props/gm_player_frostyturf_traps.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-1-M.Icon-Theater-1-M",
       "LargePreview": "ExportedImages\\Icon-Theater-1-M.png"
@@ -1153,7 +1153,7 @@
     "DisplayName": "Low G",
     "Description": "Gravity is reduced for heroes",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Player_LowGravity.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_player_lowgravity.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-Low-Gravity-64.T-Icon-Modifier-Pos-Low-Gravity-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-Low-Gravity-128.png"
@@ -1165,7 +1165,7 @@
     "DisplayName": "Low G",
     "Description": "Gravity is reduced for heroes",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Player_LowGravityMinor.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_player_lowgravityminor.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-Low-Gravity-64.T-Icon-Modifier-Pos-Low-Gravity-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-Low-Gravity-128.png"
@@ -1177,7 +1177,7 @@
     "DisplayName": "Haymakers",
     "Description": "Player melee attacks do greatly increased damage",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Player_MeleeDamage_Buff.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_player_meleedamage_buff.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-1-M.Icon-Theater-1-M",
       "LargePreview": "ExportedImages\\Icon-Theater-1-M.png"
@@ -1189,7 +1189,7 @@
     "DisplayName": "Knockback Melee Attacks",
     "Description": "Player melee attacks do increased knockback.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Player_MeleeKnockback_Buff.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_player_meleeknockback_buff.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-Player-MeleeKnockback-Buff-64.T-Icon-Modifier-Pos-Player-MeleeKnockback-Buff-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-Player-MeleeKnockback-Buff-128.png"
@@ -1201,7 +1201,7 @@
     "DisplayName": "Light Swings",
     "Description": "Swing your melee weapons faster!",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Player_MeleeSwingSpeed_Buff.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_player_meleeswingspeed_buff.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-EdgedDamage-Buff-64.T-Icon-Modifier-Pos-EdgedDamage-Buff-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-EdgedDamage-Buff-128.png"
@@ -1213,7 +1213,7 @@
     "DisplayName": "Expensive Metal",
     "Description": "Metal structures cost significantly more to build.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/PlayerConstruction/GM_Player_MetalBuildCostIncrease_Major.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/playerconstruction/gm_player_metalbuildcostincrease_major.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-MetalBuildCostIncrease-64.T-Icon-Modifier-Neg-MetalBuildCostIncrease-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-MetalBuildCostIncrease-128.png"
@@ -1225,7 +1225,7 @@
     "DisplayName": "Sprinters",
     "Description": "Player movement speed increased",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Player_MoveSpeed_Buff.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_player_movespeed_buff.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-Ninja-JumpHieght-Buff-64.T-Icon-Modifier-Pos-Ninja-JumpHieght-Buff-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-Ninja-JumpHieght-Buff-128.png"
@@ -1237,7 +1237,7 @@
     "DisplayName": "No Shields",
     "Description": "Hero shields are inactive. ",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Defense/GM_Player_NoShields.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/defense/gm_player_noshields.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-NoShields-64.T-Icon-Modifier-Neg-NoShields-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-NoShields-128.png"
@@ -1249,7 +1249,7 @@
     "DisplayName": "Melee Life Leech",
     "Description": "Heroes heal by a percentage of the melee damage they deal.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Player_OnDmgDealt_LifeLeech.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_player_ondmgdealt_lifeleech.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-Player-OnDmgDealt-LifeLeech-64.T-Icon-Modifier-Pos-Player-OnDmgDealt-LifeLeech-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-Player-OnDmgDealt-LifeLeech-128.png"
@@ -1261,7 +1261,7 @@
     "DisplayName": "Taunting",
     "Description": "Enemies move faster but are more vulnerable to damage when attacked.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Player_OnDmgDealt_Taunt.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_player_ondmgdealt_taunt.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-1-M.Icon-Theater-1-M",
       "LargePreview": "ExportedImages\\Icon-Theater-1-M.png"
@@ -1273,7 +1273,7 @@
     "DisplayName": "Shared Hero Damage",
     "Description": "Whenever a player loses health, allies suffer damage equal to a percentage of that amount.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Player_OnDmgReceived_DmgShare.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_player_ondmgreceived_dmgshare.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-Player-OnDmgReceived-DmgShare-64.T-Icon-Modifier-Neg-Player-OnDmgReceived-DmgShare-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-Player-OnDmgReceived-DmgShare-128.png"
@@ -1285,7 +1285,7 @@
     "DisplayName": "Tase",
     "Description": "Enemies move more slowly after being struck by melee attacks.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Player_OnMeleeDmgDealt_SlowDownFoe.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_player_onmeleedmgdealt_slowdownfoe.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-1-M.Icon-Theater-1-M",
       "LargePreview": "ExportedImages\\Icon-Theater-1-M.png"
@@ -1297,7 +1297,7 @@
     "DisplayName": "Blood, Sweat, and Tears",
     "Description": "Heroes take damage when they repair buildings",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Player_OnRepair_TakeDamage.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_player_onrepair_takedamage.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-Player-OnRepair-TakeDamage-64.T-Icon-Modifier-Neg-Player-OnRepair-TakeDamage-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-Player-OnRepair-TakeDamage-128.png"
@@ -1309,7 +1309,7 @@
     "DisplayName": "Concussive Shieldbreak",
     "Description": "When a player\u0027s shield is destroyed, nearby enemies take damage. Smaller enemies are likely to be knocked back.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Player_OnShieldDestroyed_AOE.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_player_onshielddestroyed_aoe.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-Player-OnShieldDestroyed-AOE-64.T-Icon-Modifier-Pos-Player-OnShieldDestroyed-AOE-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-Player-OnShieldDestroyed-AOE-128.png"
@@ -1321,7 +1321,7 @@
     "DisplayName": "Spear Fishing",
     "Description": "Piercing weapons do more damage",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Player_PiercingDamage_Buff.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_player_piercingdamage_buff.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-PiercingDamage-Buff-64.T-Icon-Modifier-Pos-PiercingDamage-Buff-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-PiercingDamage-Buff-128.png"
@@ -1333,7 +1333,7 @@
     "DisplayName": "Powerful Pistols",
     "Description": "Pistols do more damage.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Player_Pistol_DamageBuff.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_player_pistol_damagebuff.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-Pistol-DamageBuff-64.T-Icon-Modifier-Pos-Pistol-DamageBuff-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-Pistol-DamageBuff-128.png"
@@ -1345,7 +1345,7 @@
     "DisplayName": "Powerful Pistols Versus Bosses",
     "Description": "Pistols do more damage versus bosses.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Player_Pistol_MiniBossDamageBuff.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_player_pistol_minibossdamagebuff.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-Pistol-DamageBuff-64.T-Icon-Modifier-Pos-Pistol-DamageBuff-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-Pistol-DamageBuff-128.png"
@@ -1357,7 +1357,7 @@
     "DisplayName": "Quickshot",
     "Description": "Ranged weapons reload faster and do more damage.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Player_Ranged_DamageReload_Buff.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_player_ranged_damagereload_buff.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-AssaultRifle-DamageBuff-64.T-Icon-Modifier-Pos-AssaultRifle-DamageBuff-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-AssaultRifle-DamageBuff-128.png"
@@ -1369,7 +1369,7 @@
     "DisplayName": "Guilty Gun",
     "Description": "Ranged accuracy is decreased for a short time after hitting a target.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Player_RangeDmgDealt_Debuffs_PlayerAccuracy.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_player_rangedmgdealt_debuffs_playeraccuracy.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-1-M.Icon-Theater-1-M",
       "LargePreview": "ExportedImages\\Icon-Theater-1-M.png"
@@ -1381,7 +1381,7 @@
     "DisplayName": "Reflective",
     "Description": "Player reflects a portion of melee damage back on the attacker.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Player_Reflect.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_player_reflect.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-1-M.Icon-Theater-1-M",
       "LargePreview": "ExportedImages\\Icon-Theater-1-M.png"
@@ -1393,7 +1393,7 @@
     "DisplayName": "Shields Up!",
     "Description": "Hero shields are increased and regenerate at a faster rate",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Player_ShieldBuff.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_player_shieldbuff.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-Player-OnShieldDestroyed-AOE-64.T-Icon-Modifier-Pos-Player-OnShieldDestroyed-AOE-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-Player-OnShieldDestroyed-AOE-128.png"
@@ -1405,7 +1405,7 @@
     "DisplayName": "EMP",
     "Description": "Player shield regeneration rate is greatly reduced. ",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Defense/GM_Player_ShieldRegenRateDecrease_Major.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/defense/gm_player_shieldregenratedecrease_major.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-3-M.Icon-Theater-3-M",
       "LargePreview": "ExportedImages\\Icon-Theater-3-M.png"
@@ -1417,7 +1417,7 @@
     "DisplayName": "Powerful Shotguns",
     "Description": "Shotguns do more damage.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Player_ShotGun_DamageBuff.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_player_shotgun_damagebuff.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-ShotGun-Damage-Buff-64.T-Icon-Modifier-Pos-ShotGun-Damage-Buff-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-ShotGun-Damage-Buff-128.png"
@@ -1429,7 +1429,7 @@
     "DisplayName": "Paid by the Hour",
     "Description": "Buildings take longer to construct and repair.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Player_SlowBuildTime.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_player_slowbuildtime.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-1-M.Icon-Theater-1-M",
       "LargePreview": "ExportedImages\\Icon-Theater-1-M.png"
@@ -1441,7 +1441,7 @@
     "DisplayName": "Powerful SMGs",
     "Description": "SMGs do more damage.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Player_SMG_Damage_Buff.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_player_smg_damage_buff.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-SMG-DamageBuff-64.T-Icon-Modifier-Pos-SMG-DamageBuff-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-SMG-DamageBuff-128.png"
@@ -1453,7 +1453,7 @@
     "DisplayName": "Powerful Sniper Rifles",
     "Description": "Sniper Rifles do more damage.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Player_SniperRifle_DamageBuff.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_player_sniperrifle_damagebuff.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-SniperRifle-DamageBuff-64.T-Icon-Modifier-Pos-SniperRifle-DamageBuff-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-SniperRifle-DamageBuff-128.png"
@@ -1465,7 +1465,7 @@
     "DisplayName": "Powerful Swords and Spears",
     "Description": "Spear and Sword weapons do more damage.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Player_SpearSwordDamage_Buff.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_player_spearsworddamage_buff.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-PiercingDamage-Buff-64.T-Icon-Modifier-Pos-PiercingDamage-Buff-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-PiercingDamage-Buff-128.png"
@@ -1477,7 +1477,7 @@
     "DisplayName": "Infinite Wind",
     "Description": "Sprinting does not use energy",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Player_Sprint_Unlimited.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_player_sprint_unlimited.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-1-M.Icon-Theater-1-M",
       "LargePreview": "ExportedImages\\Icon-Theater-1-M.png"
@@ -1489,7 +1489,7 @@
     "DisplayName": "Sprinters",
     "Description": "Player sprint speed increased",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Player_SprintSpeed_Buff.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_player_sprintspeed_buff.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-Ninja-JumpHieght-Buff-64.T-Icon-Modifier-Pos-Ninja-JumpHieght-Buff-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-Ninja-JumpHieght-Buff-128.png"
@@ -1501,7 +1501,7 @@
     "DisplayName": "Expensive Stone",
     "Description": "Stone structures cost significantly more to build.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/PlayerConstruction/GM_Player_StoneBuildCostIncrease_Major.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/playerconstruction/gm_player_stonebuildcostincrease_major.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-StoneBuildCostIncrease-64.T-Icon-Modifier-Neg-StoneBuildCostIncrease-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-StoneBuildCostIncrease-128.png"
@@ -1513,7 +1513,7 @@
     "DisplayName": "Extended Warranty",
     "Description": "Increased durability on all traps.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Player_Trap_Durability_Increase.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_player_trap_durability_increase.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-1-M.Icon-Theater-1-M",
       "LargePreview": "ExportedImages\\Icon-Theater-1-M.png"
@@ -1525,7 +1525,7 @@
     "DisplayName": "Turbo Traps",
     "Description": "Faster reload time for traps.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Player_Trap_Reload_Increase.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_player_trap_reload_increase.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-1-M.Icon-Theater-1-M",
       "LargePreview": "ExportedImages\\Icon-Theater-1-M.png"
@@ -1537,7 +1537,7 @@
     "DisplayName": "Resource Demand: Wood (Major)",
     "Description": "Wood structures cost significantly more to build and repair.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/PlayerConstruction/GM_Player_WoodBuildCostIncrease_Major.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/playerconstruction/gm_player_woodbuildcostincrease_major.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-1-M.Icon-Theater-1-M",
       "LargePreview": "ExportedImages\\Icon-Theater-1-M.png"
@@ -1548,14 +1548,14 @@
     "Name": "GM_QuestSpawn",
     "DisplayName": "\u003CGM_QuestSpawn\u003E",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/QuestSpawn/GM_QuestSpawn.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/questspawn/gm_questspawn.uasset"
   },
   "GameplayModifier:gm_questspawn_specialevent_2018_blockbusterhusky_abilities": {
     "Type": "GameplayModifier",
     "Name": "GM_QuestSpawn_SpecialEvent_2018_BlockbusterHusky_Abilities",
     "DisplayName": "\u003CGM_QuestSpawn_SpecialEvent_2018_BlockbusterHusky_Abilities\u003E",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/MiniBoss/SpecialEvent/2018/Blockbuster/GM_QuestSpawn_SpecialEvent_2018_BlockbusterHusky_Abilities.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/specialevent/2018/blockbuster/gm_questspawn_specialevent_2018_blockbusterhusky_abilities.uasset"
   },
   "GameplayModifier:gm_questspawn_specialevent_2018_blockbusterhusky_encountertags": {
     "Type": "GameplayModifier",
@@ -1563,7 +1563,7 @@
     "DisplayName": "Blockbuster Husky",
     "Description": "Get ready for a surprise!",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/QuestSpawn/GM_QuestSpawn_SpecialEvent_2018_BlockbusterHusky_EncounterTags.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/questspawn/gm_questspawn_specialevent_2018_blockbusterhusky_encountertags.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Icons/Classes/Icon-Husk/Icon-Class-Husk-Husky-Headshot.Icon-Class-Husk-Husky-Headshot",
       "LargePreview": "ExportedImages\\Icon-Class-Husk-Husky-Headshot.png"
@@ -1575,7 +1575,7 @@
     "DisplayName": "Well Drilled Soldiers",
     "Description": "Soldier ability cool downs and energy costs are reduced.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Soldier_AbilityRate_Buff.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_soldier_abilityrate_buff.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-Soldier-AbilityRate-Buff-64.T-Icon-Modifier-Pos-Soldier-AbilityRate-Buff-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-Soldier-AbilityRate-Buff-128.png"
@@ -1587,7 +1587,7 @@
     "DisplayName": "Headshot Soldiers",
     "Description": "Soldiers do more damage with Assault Rifles when scoring head shots.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Soldier_AssaultRifle_Buff.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_soldier_assaultrifle_buff.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-Soldier-Assaultrifle-Damage-Buff-64.T-Icon-Modifier-Pos-Soldier-Assaultrifle-Damage-Buff-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-Soldier-Assaultrifle-Damage-Buff-128.png"
@@ -1599,7 +1599,7 @@
     "DisplayName": "Adept Soldiers",
     "Description": "Soldiers do more damage.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Soldier_Damage_Buff.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_soldier_damage_buff.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-Soldier-Damage-Buff-64.T-Icon-Modifier-Pos-Soldier-Damage-Buff-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-Soldier-Damage-Buff-128.png"
@@ -1611,7 +1611,7 @@
     "DisplayName": "Mandatory PT",
     "Description": "Soldiers don\u0027t use energy while sprinting",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Soldier_Sprint_Unlimited.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_soldier_sprint_unlimited.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-1-M.Icon-Theater-1-M",
       "LargePreview": "ExportedImages\\Icon-Theater-1-M.png"
@@ -1623,7 +1623,7 @@
     "DisplayName": "Tool Time",
     "Description": "Hardware weapons do more damage.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Tool_DamageBuff.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_tool_damagebuff.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-Tool-Damage-Buff-64.T-Icon-Modifier-Pos-Tool-Damage-Buff-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-Tool-Damage-Buff-128.png"
@@ -1635,7 +1635,7 @@
     "DisplayName": "Powerful Traps",
     "Description": "Traps hit harder, fire more often, and last longer.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Trap_Buff.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_trap_buff.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-TrapBuff-64.T-Icon-Modifier-Pos-TrapBuff-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-TrapBuff-128.png"
@@ -1647,7 +1647,7 @@
     "DisplayName": "Supreme Traps",
     "Description": "Traps deal heavy damage, fire frequently, and last much longer.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GM_Trap_Buff_Major.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_trap_buff_major.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-TrapBuff-64.T-Icon-Modifier-Pos-TrapBuff-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-TrapBuff-128.png"
@@ -1659,7 +1659,7 @@
     "DisplayName": "Healer",
     "Description": "Periodically heals itself and all nearby enemies.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/MiniBoss/GM_UG_AOE_Pulse_DurationHeal.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/gm_ug_aoe_pulse_durationheal.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-3-M.Icon-Theater-3-M",
       "LargePreview": "ExportedImages\\Icon-Theater-3-M.png"
@@ -1671,7 +1671,7 @@
     "DisplayName": "Smoke-Screen",
     "Description": "Spawns a large smoke screen around itself as it moves, reducing ranged damage against all enemies in the cloud.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/MiniBoss/GM_UG_AOECloud_RangeResistBuff.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/gm_ug_aoecloud_rangeresistbuff.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-Enemy-OnDeath-SpawnDamagePool-64.T-Icon-Modifier-Neg-Enemy-OnDeath-SpawnDamagePool-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-Enemy-OnDeath-SpawnDamagePool-64.png"
@@ -1683,7 +1683,7 @@
     "DisplayName": "Elite",
     "Description": "This monster is powerful",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/MiniBoss/GM_UG_Base_Elite.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/gm_ug_base_elite.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-3-M.Icon-Theater-3-M",
       "LargePreview": "ExportedImages\\Icon-Theater-3-M.png"
@@ -1695,7 +1695,7 @@
     "DisplayName": "Mini-Boss",
     "Description": "This monster is very powerful",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/MiniBoss/GM_UG_Base_MiniBoss.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/gm_ug_base_miniboss.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-3-M.Icon-Theater-3-M",
       "LargePreview": "ExportedImages\\Icon-Theater-3-M.png"
@@ -1706,7 +1706,7 @@
     "Name": "GM_UG_Blaster_Miniboss_Starlight",
     "DisplayName": "\u003CGM_UG_Blaster_Miniboss_Starlight\u003E",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/MiniBoss/BaseModifiers/Starlight/GM_UG_Blaster_Miniboss_Starlight.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/basemodifiers/starlight/gm_ug_blaster_miniboss_starlight.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-3-M.Icon-Theater-3-M",
       "LargePreview": "ExportedImages\\Icon-Theater-3-M.png"
@@ -1718,7 +1718,7 @@
     "DisplayName": "Bubble-Shield",
     "Description": "This monster has a protective bubble.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/MiniBoss/GM_UG_BubbleShield.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/gm_ug_bubbleshield.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-3-M.Icon-Theater-3-M",
       "LargePreview": "ExportedImages\\Icon-Theater-3-M.png"
@@ -1730,7 +1730,7 @@
     "DisplayName": "Damage-Pulse",
     "Description": "Damages all nearby players and structures when attacked.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/MiniBoss/GM_UG_DamagePulse.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/gm_ug_damagepulse.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-3-M.Icon-Theater-3-M",
       "LargePreview": "ExportedImages\\Icon-Theater-3-M.png"
@@ -1742,7 +1742,7 @@
     "DisplayName": "Shielded",
     "Description": "This monster is protected by a rotating shield.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/MiniBoss/GM_UG_FrontShield.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/gm_ug_frontshield.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-3-M.Icon-Theater-3-M",
       "LargePreview": "ExportedImages\\Icon-Theater-3-M.png"
@@ -1754,7 +1754,7 @@
     "DisplayName": "Frenzied",
     "Description": "This monster is faster and uses abilities more quickly",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/MiniBoss/GM_UG_Fury.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/gm_ug_fury.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-3-M.Icon-Theater-3-M",
       "LargePreview": "ExportedImages\\Icon-Theater-3-M.png"
@@ -1766,7 +1766,7 @@
     "DisplayName": "Tank",
     "Description": "Enemy has much more health and is harder to slow, stun, and stagger.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/MiniBoss/GM_UG_Health_Stability_Increase.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/gm_ug_health_stability_increase.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-EnemyHealthStabilityIncrease-64.T-Icon-Modifier-Neg-EnemyHealthStabilityIncrease-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-EnemyHealthStabilityIncrease-128.png"
@@ -1778,7 +1778,7 @@
     "DisplayName": "Knockback",
     "Description": "Melee attacks knock targets away",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/MiniBoss/GM_UG_OnDmgDealt_Knockback.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/gm_ug_ondmgdealt_knockback.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-3-M.Icon-Theater-3-M",
       "LargePreview": "ExportedImages\\Icon-Theater-3-M.png"
@@ -1790,7 +1790,7 @@
     "DisplayName": "Shieldbreaker",
     "Description": "Deals increased shield damage, and targets will not regenerate shields for a moderate duration.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/MiniBoss/GM_UG_OnDmgDealt_Shieldbreaker.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/gm_ug_ondmgdealt_shieldbreaker.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-3-M.Icon-Theater-3-M",
       "LargePreview": "ExportedImages\\Icon-Theater-3-M.png"
@@ -1802,7 +1802,7 @@
     "DisplayName": "Vampiric",
     "Description": "Restores a percentage of its health each time it deals damage.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/MiniBoss/GM_UG_OnDmgDealt_Vampiric.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/gm_ug_ondmgdealt_vampiric.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-3-M.Icon-Theater-3-M",
       "LargePreview": "ExportedImages\\Icon-Theater-3-M.png"
@@ -1814,7 +1814,7 @@
     "DisplayName": "Wall-Weakening",
     "Description": "Buildings become increasingly vulnerable to damage for a short time after they are attacked by this enemy.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/MiniBoss/GM_UG_OnHitWeakenBuildings.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/gm_ug_onhitweakenbuildings.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-Enemy-OnHitWeakenBuildings-64.T-Icon-Modifier-Neg-Enemy-OnHitWeakenBuildings-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-Enemy-OnHitWeakenBuildings-128.png"
@@ -1826,7 +1826,7 @@
     "DisplayName": "Berserker",
     "Description": "When enemy is near death it goes berserk, moving and attacking faster and dealing more damage.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/MiniBoss/GM_UG_OnLowHealth_Berserker.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/gm_ug_onlowhealth_berserker.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-Enemy-OnLowHealth-Enrage-64.T-Icon-Modifier-Neg-Enemy-OnLowHealth-Enrage-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-Enemy-OnLowHealth-Enrage-128.png"
@@ -1838,7 +1838,7 @@
     "DisplayName": "Ricochet",
     "Description": "Enemy reflects a percentage of the ranged damage it suffers.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/MiniBoss/GM_UG_Ricochet.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/gm_ug_ricochet.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-Enemy-Ricochet-64.T-Icon-Modifier-Neg-Enemy-Ricochet-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-Enemy-Ricochet-128.png"
@@ -1850,7 +1850,7 @@
     "DisplayName": "Rusty",
     "Description": "Attacks made by and against this monster degrade your weapons",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/MiniBoss/GM_UG_RustMonster.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/gm_ug_rustmonster.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-3-M.Icon-Theater-3-M",
       "LargePreview": "ExportedImages\\Icon-Theater-3-M.png"
@@ -1862,7 +1862,7 @@
     "DisplayName": "Acid-Pools",
     "Description": "Enemy leaves a trail of damaging pools on the ground.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/MiniBoss/GM_UG_SpawnAcidPool.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/gm_ug_spawnacidpool.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-3-M.Icon-Theater-3-M",
       "LargePreview": "ExportedImages\\Icon-Theater-3-M.png"
@@ -1874,7 +1874,7 @@
     "DisplayName": "Building-Blocker",
     "Description": "Leaves pools on the ground that block building",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/MiniBoss/GM_UG_Trail_BuildingBlocker.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/gm_ug_trail_buildingblocker.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-3-M.Icon-Theater-3-M",
       "LargePreview": "ExportedImages\\Icon-Theater-3-M.png"
@@ -1886,7 +1886,7 @@
     "DisplayName": "Rot-Wake",
     "Description": "Buildings rot in the wake of this monster",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/MiniBoss/GM_UG_Trail_BuildingDamagePool.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/gm_ug_trail_buildingdamagepool.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-3-M.Icon-Theater-3-M",
       "LargePreview": "ExportedImages\\Icon-Theater-3-M.png"
@@ -1898,7 +1898,7 @@
     "DisplayName": "Mine-Layer",
     "Description": "This monster drops proximity mines",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/MiniBoss/GM_UG_Trail_MineLayer.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/gm_ug_trail_minelayer.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-3-M.Icon-Theater-3-M",
       "LargePreview": "ExportedImages\\Icon-Theater-3-M.png"
@@ -1910,7 +1910,7 @@
     "DisplayName": "Fire",
     "Description": "Burns targets struck for a short time. More damage to Wood. Resistant to Nature, weak to Water.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/MiniBoss/GMID_FireDamage.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/gmid_firedamage.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-OnDeath-Explode-64.T-Icon-Modifier-Neg-OnDeath-Explode-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-OnDeath-Explode-128.png"
@@ -1922,7 +1922,7 @@
     "DisplayName": "Heal Pulse",
     "Description": "Heals all nearby enemies when attacked.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/MiniBoss/GMID_HealPulse.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/gmid_healpulse.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-OnDeath-Explode-64.T-Icon-Modifier-Neg-OnDeath-Explode-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-OnDeath-Explode-128.png"
@@ -1934,7 +1934,7 @@
     "DisplayName": "Water",
     "Description": "Slows targets struck for a short time. More damage to Stone. Resistant to Fire, weak to Nature.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/MiniBoss/GMID_IceDamage.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/gmid_icedamage.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-OnDeath-Explode-64.T-Icon-Modifier-Neg-OnDeath-Explode-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-OnDeath-Explode-128.png"
@@ -1946,7 +1946,7 @@
     "DisplayName": "Trap-Vulnerable",
     "Description": "Enemy can only be damaged by traps.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/MiniBoss/GMID_ImmuneToAllButTraps.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/gmid_immunetoallbuttraps.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-OnDeath-Explode-64.T-Icon-Modifier-Neg-OnDeath-Explode-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-OnDeath-Explode-128.png"
@@ -1958,7 +1958,7 @@
     "DisplayName": "Ranged Weapon Immunity",
     "Description": "Enemies are resistant to range weapons, but vulnerable to melee weapons.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/MiniBoss/GMID_ImmuneToRangeWeapons.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/gmid_immunetorangeweapons.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-OnDeath-Explode-64.T-Icon-Modifier-Neg-OnDeath-Explode-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-OnDeath-Explode-128.png"
@@ -1970,7 +1970,7 @@
     "DisplayName": "TEST",
     "Description": "PLACEHOLDER",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/MiniBoss/GMID_MinibossMod_ItemDef_Test.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/gmid_minibossmod_itemdef_test.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-OnDeath-Explode-64.T-Icon-Modifier-Neg-OnDeath-Explode-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-OnDeath-Explode-128.png"
@@ -1982,7 +1982,7 @@
     "DisplayName": "Nature",
     "Description": "Drains shield/energy from targets struck. More damage to Metal. Resistant to Water, weak to Fire.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/MiniBoss/GMID_NatureDamage.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/gmid_naturedamage.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-OnDeath-Explode-64.T-Icon-Modifier-Neg-OnDeath-Explode-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-OnDeath-Explode-128.png"
@@ -1994,7 +1994,7 @@
     "DisplayName": "Corrosive",
     "Description": "PLACEHOLDER",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/MiniBoss/GMID_OnDmgDealt_BuildingDOT.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/gmid_ondmgdealt_buildingdot.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-OnDeath-Explode-64.T-Icon-Modifier-Neg-OnDeath-Explode-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-OnDeath-Explode-128.png"
@@ -2006,7 +2006,7 @@
     "DisplayName": "Rocket Launcher Resistance",
     "Description": "Enemies are resistant to rocket launchers.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/MiniBoss/GMID_ResistToRocketLauncher.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/gmid_resisttorocketlauncher.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-OnDeath-Explode-64.T-Icon-Modifier-Neg-OnDeath-Explode-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-OnDeath-Explode-128.png"
@@ -2018,7 +2018,7 @@
     "DisplayName": "Slowing-Pools",
     "Description": "Leaves pools on the ground that slow players.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/MiniBoss/GMID_Trail_Slowpool.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/gmid_trail_slowpool.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-OnDeath-Explode-64.T-Icon-Modifier-Neg-OnDeath-Explode-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-OnDeath-Explode-128.png"
@@ -2030,7 +2030,7 @@
     "DisplayName": "Untrappable",
     "Description": "This enemy doesn\u0027t trigger traps.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/MiniBoss/GMID_Untrappable.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/gmid_untrappable.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-OnDeath-Explode-64.T-Icon-Modifier-Neg-OnDeath-Explode-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-OnDeath-Explode-128.png"
@@ -2042,7 +2042,7 @@
     "DisplayName": "Volcanic",
     "Description": "The ground ruptures under a player, exploding for huge damage.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/MiniBoss/GMID_Volcanic.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/gmid_volcanic.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-OnDeath-Explode-64.T-Icon-Modifier-Neg-OnDeath-Explode-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-OnDeath-Explode-128.png"
@@ -2054,7 +2054,7 @@
     "DisplayName": "Volcanic",
     "Description": "The ground ruptures under a player, exploding for huge damage.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/Mutations/GMID_VolcanicPlayer.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gmid_volcanicplayer.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-OnDeath-Explode-64.T-Icon-Modifier-Neg-OnDeath-Explode-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-OnDeath-Explode-128.png"
@@ -2066,7 +2066,7 @@
     "DisplayName": "Vortex",
     "Description": "Enemy uses a a bolt of energy to pull heroes torwards it.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/MiniBoss/GMID_Vortex.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/gmid_vortex.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-OnDeath-Explode-64.T-Icon-Modifier-Neg-OnDeath-Explode-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-OnDeath-Explode-128.png"
@@ -2078,7 +2078,7 @@
     "DisplayName": "Epic Mini-Boss",
     "Description": "An Epic Mini-Boss may appear in this area.",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/GameplayModifiers/MiniBoss/UnlockModifiers/MiniBossEnablePrimaryMissionItem.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/unlockmodifiers/minibossenableprimarymissionitem.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-Miniboss-64.T-Icon-Modifier-Neg-Miniboss-64",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-Miniboss-128.png"

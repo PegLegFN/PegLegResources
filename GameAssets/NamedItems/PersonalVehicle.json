@@ -6,7 +6,7 @@
     "Description": "Explore the zone without depleting energy on your prototype Hoverboard. ",
     "IsPermanent": true,
     "Rarity": "Rare",
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/SaveTheWorld/Content/Items/Hoverboard/VID_Hoverboard.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/hoverboard/vid_hoverboard.uasset",
     "ImagePaths": {
       "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Skydiving/T-Icon_Traveling-S-HoverBoard.T-Icon_Traveling-S-HoverBoard",
       "LargePreview": "ExportedImages\\T-Icon_Traveling-S-HoverBoard-L.png"
@@ -17,6 +17,6 @@
     "Name": "VID_Hoverboard_V2",
     "DisplayName": "\u003CVID_Hoverboard_V2\u003E",
     "IsPermanent": true,
-    "AssetPath": "FortniteGame/Plugins/GameFeatures/HoverboardV2/Content/Vehicle/VID_Hoverboard_V2.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/hoverboardv2/content/vehicle/vid_hoverboard_v2.uasset"
   }
 }

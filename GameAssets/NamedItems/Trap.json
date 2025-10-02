@@ -1521,7 +1521,7 @@
     "Type": "Trap",
     "Name": "TID_Ceiling_Gas_R_T01",
     "DisplayName": "Ceiling Gas Trap",
-    "Description": "Creates a AOE cloud that will affect enemies with Affliction damage, over time.",
+    "Description": "Creates an AOE cloud that damages enemies.",
     "DismantleResults": {
       "Ingredient:ingredient_nuts_bolts": 7,
       "Ingredient:ingredient_herbs": 5,
@@ -1554,7 +1554,7 @@
     "Type": "Trap",
     "Name": "TID_Ceiling_Gas_R_T02",
     "DisplayName": "Ceiling Gas Trap",
-    "Description": "Creates a AOE cloud that will affect enemies with Affliction damage, over time.",
+    "Description": "Creates an AOE cloud that damages enemies.",
     "DismantleResults": {
       "Ingredient:ingredient_nuts_bolts": 7,
       "Ingredient:ingredient_herbs": 5,
@@ -1587,7 +1587,7 @@
     "Type": "Trap",
     "Name": "TID_Ceiling_Gas_R_T03",
     "DisplayName": "Ceiling Gas Trap",
-    "Description": "Creates a AOE cloud that will affect enemies with Affliction damage, over time.",
+    "Description": "Creates an AOE cloud that damages enemies.",
     "DismantleResults": {
       "Ingredient:ingredient_nuts_bolts": 7,
       "Ingredient:ingredient_herbs": 5,
@@ -1620,7 +1620,7 @@
     "Type": "Trap",
     "Name": "TID_Ceiling_Gas_R_T04",
     "DisplayName": "Ceiling Gas Trap",
-    "Description": "Creates a AOE cloud that will affect enemies with Affliction damage, over time.",
+    "Description": "Creates an AOE cloud that damages enemies.",
     "DismantleResults": {
       "Ingredient:ingredient_nuts_bolts": 7,
       "Ingredient:ingredient_herbs": 5,
@@ -1653,7 +1653,7 @@
     "Type": "Trap",
     "Name": "TID_Ceiling_Gas_SR_T01",
     "DisplayName": "Ceiling Gas Trap",
-    "Description": "Creates a AOE cloud that will affect enemies with Affliction damage, over time.",
+    "Description": "Creates an AOE cloud that damages enemies.",
     "DismantleResults": {
       "Ingredient:ingredient_nuts_bolts": 7,
       "Ingredient:ingredient_herbs": 5,
@@ -1686,7 +1686,7 @@
     "Type": "Trap",
     "Name": "TID_Ceiling_Gas_SR_T02",
     "DisplayName": "Ceiling Gas Trap",
-    "Description": "Creates a AOE cloud that will affect enemies with Affliction damage, over time.",
+    "Description": "Creates an AOE cloud that damages enemies.",
     "DismantleResults": {
       "Ingredient:ingredient_nuts_bolts": 7,
       "Ingredient:ingredient_herbs": 5,
@@ -1719,7 +1719,7 @@
     "Type": "Trap",
     "Name": "TID_Ceiling_Gas_SR_T03",
     "DisplayName": "Ceiling Gas Trap",
-    "Description": "Creates a AOE cloud that will affect enemies with Affliction damage, over time.",
+    "Description": "Creates an AOE cloud that damages enemies.",
     "DismantleResults": {
       "Ingredient:ingredient_nuts_bolts": 7,
       "Ingredient:ingredient_herbs": 5,
@@ -1752,7 +1752,7 @@
     "Type": "Trap",
     "Name": "TID_Ceiling_Gas_SR_T04",
     "DisplayName": "Ceiling Gas Trap",
-    "Description": "Creates a AOE cloud that will affect enemies with Affliction damage, over time.",
+    "Description": "Creates an AOE cloud that damages enemies.",
     "DismantleResults": {
       "Ingredient:ingredient_nuts_bolts": 7,
       "Ingredient:ingredient_herbs": 5,
@@ -1785,7 +1785,7 @@
     "Type": "Trap",
     "Name": "TID_Ceiling_Gas_SR_T05",
     "DisplayName": "Ceiling Gas Trap",
-    "Description": "Creates a AOE cloud that will affect enemies with Affliction damage, over time.",
+    "Description": "Creates an AOE cloud that damages enemies.",
     "DismantleResults": {
       "Ingredient:ingredient_nuts_bolts": 7,
       "Ingredient:ingredient_herbs": 5,
@@ -1818,7 +1818,7 @@
     "Type": "Trap",
     "Name": "TID_Ceiling_Gas_UC_T01",
     "DisplayName": "Ceiling Gas Trap",
-    "Description": "Creates a AOE cloud that will affect enemies with Affliction damage, over time.",
+    "Description": "Creates an AOE cloud that damages enemies.",
     "DismantleResults": {
       "Ingredient:ingredient_nuts_bolts": 7,
       "Ingredient:ingredient_herbs": 5,
@@ -1851,7 +1851,7 @@
     "Type": "Trap",
     "Name": "TID_Ceiling_Gas_UC_T02",
     "DisplayName": "Ceiling Gas Trap",
-    "Description": "Creates a AOE cloud that will affect enemies with Affliction damage, over time.",
+    "Description": "Creates an AOE cloud that damages enemies.",
     "DismantleResults": {
       "Ingredient:ingredient_nuts_bolts": 7,
       "Ingredient:ingredient_herbs": 5,
@@ -1884,7 +1884,7 @@
     "Type": "Trap",
     "Name": "TID_Ceiling_Gas_UC_T03",
     "DisplayName": "Ceiling Gas Trap",
-    "Description": "Creates a AOE cloud that will affect enemies with Affliction damage, over time.",
+    "Description": "Creates an AOE cloud that damages enemies.",
     "DismantleResults": {
       "Ingredient:ingredient_nuts_bolts": 7,
       "Ingredient:ingredient_herbs": 5,
@@ -1917,7 +1917,7 @@
     "Type": "Trap",
     "Name": "TID_Ceiling_Gas_VR_T01",
     "DisplayName": "Ceiling Gas Trap",
-    "Description": "Creates a AOE cloud that will affect enemies with Affliction damage, over time.",
+    "Description": "Creates an AOE cloud that damages enemies.",
     "DismantleResults": {
       "Ingredient:ingredient_nuts_bolts": 7,
       "Ingredient:ingredient_herbs": 5,
@@ -1950,7 +1950,7 @@
     "Type": "Trap",
     "Name": "TID_Ceiling_Gas_VR_T02",
     "DisplayName": "Ceiling Gas Trap",
-    "Description": "Creates a AOE cloud that will affect enemies with Affliction damage, over time.",
+    "Description": "Creates an AOE cloud that damages enemies.",
     "DismantleResults": {
       "Ingredient:ingredient_nuts_bolts": 7,
       "Ingredient:ingredient_herbs": 5,
@@ -1983,7 +1983,7 @@
     "Type": "Trap",
     "Name": "TID_Ceiling_Gas_VR_T03",
     "DisplayName": "Ceiling Gas Trap",
-    "Description": "Creates a AOE cloud that will affect enemies with Affliction damage, over time.",
+    "Description": "Creates an AOE cloud that damages enemies.",
     "DismantleResults": {
       "Ingredient:ingredient_nuts_bolts": 7,
       "Ingredient:ingredient_herbs": 5,
@@ -2016,7 +2016,7 @@
     "Type": "Trap",
     "Name": "TID_Ceiling_Gas_VR_T04",
     "DisplayName": "Ceiling Gas Trap",
-    "Description": "Creates a AOE cloud that will affect enemies with Affliction damage, over time.",
+    "Description": "Creates an AOE cloud that damages enemies.",
     "DismantleResults": {
       "Ingredient:ingredient_nuts_bolts": 7,
       "Ingredient:ingredient_herbs": 5,
@@ -2049,7 +2049,7 @@
     "Type": "Trap",
     "Name": "TID_Ceiling_Gas_VR_T05",
     "DisplayName": "Ceiling Gas Trap",
-    "Description": "Creates a AOE cloud that will affect enemies with Affliction damage, over time.",
+    "Description": "Creates an AOE cloud that damages enemies.",
     "DismantleResults": {
       "Ingredient:ingredient_nuts_bolts": 7,
       "Ingredient:ingredient_herbs": 5,

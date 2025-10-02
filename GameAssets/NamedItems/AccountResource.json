@@ -358,6 +358,63 @@
       "LargePreview": "ExportedImages\\T-HeroXP-L.png"
     }
   },
+  "AccountResource:mash_expertise_currency_1": {
+    "Type": "AccountResource",
+    "Name": "Mash_Expertise_Currency_1",
+    "DisplayName": "Hunter Rank Benefit",
+    "IsPermanent": true,
+    "Rarity": "Common",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/battlepasss37_quests/content/items/persistentresources/mash_expertise_currency_1.uasset"
+  },
+  "AccountResource:mash_expertise_currency_2": {
+    "Type": "AccountResource",
+    "Name": "Mash_Expertise_Currency_2",
+    "DisplayName": "Hunter Rank Benefit",
+    "IsPermanent": true,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/battlepasss37_quests/content/items/persistentresources/mash_expertise_currency_2.uasset"
+  },
+  "AccountResource:mash_expertise_currency_3": {
+    "Type": "AccountResource",
+    "Name": "Mash_Expertise_Currency_3",
+    "DisplayName": "Hunter Rank Benefit",
+    "IsPermanent": true,
+    "Rarity": "Rare",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/battlepasss37_quests/content/items/persistentresources/mash_expertise_currency_3.uasset"
+  },
+  "AccountResource:mash_expertise_currency_4": {
+    "Type": "AccountResource",
+    "Name": "Mash_Expertise_Currency_4",
+    "DisplayName": "Hunter Rank Benefit",
+    "IsPermanent": true,
+    "Rarity": "Epic",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/battlepasss37_quests/content/items/persistentresources/mash_expertise_currency_4.uasset"
+  },
+  "AccountResource:mash_expertise_currency_5": {
+    "Type": "AccountResource",
+    "Name": "Mash_Expertise_Currency_5",
+    "DisplayName": "Hunter Rank Benefit",
+    "IsPermanent": true,
+    "Rarity": "Legendary",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/battlepasss37_quests/content/items/persistentresources/mash_expertise_currency_5.uasset"
+  },
+  "AccountResource:mash_expertise_hrp_currency": {
+    "Type": "AccountResource",
+    "Name": "Mash_Expertise_HRP_Currency",
+    "DisplayName": "Horde Rush Points Expertise Bonus",
+    "IsPermanent": true,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/battlepasss37_quests/content/items/persistentresources/mash_expertise_hrp_currency.uasset",
+    "ImagePaths": {
+      "SmallPreview": "/Game/2dAssets/Banners/Season24/T-Banners-Icons-S24-StWHordeMode-MVP-Lvl2-L.T-Banners-Icons-S24-StWHordeMode-MVP-Lvl2-L",
+      "LargePreview": "ExportedImages\\T-Banners-Icons-S24-StWHordeMode-MVP-Lvl2-L.png"
+    }
+  },
+  "AccountResource:mash_persistentresources": {
+    "Type": "AccountResource",
+    "Name": "Mash_PersistentResources",
+    "DisplayName": "\u003CMash_PersistentResources\u003E",
+    "IsPermanent": true,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/battlepasss37_quests/content/items/persistentresources/mash_persistentresources.uasset"
+  },
   "AccountResource:peopleresource": {
     "Type": "AccountResource",
     "Name": "PeopleResource",
@@ -717,6 +774,76 @@
     "ImagePaths": {
       "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/UniversalXP/T_UI_UniversalXP_Icon_Points_Standard_128.T_UI_UniversalXP_Icon_Points_Standard_128",
       "LargePreview": "ExportedImages\\T_UI_UniversalXP_Icon_Points_Standard_128.png"
+    }
+  },
+  "AccountResource:s37_mash_expertise_buff_granter_1": {
+    "Type": "AccountResource",
+    "Name": "S37_Mash_Expertise_Buff_Granter_1",
+    "DisplayName": "Hunter Rank",
+    "IsPermanent": true,
+    "Rarity": "Common",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/battlepasss37_quests/content/items/persistentresources/s37_mash_expertise_buff_granter_1.uasset",
+    "ImagePaths": {
+      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Rewards/T_UI_Reward_QuestReward.T_UI_Reward_QuestReward",
+      "LargePreview": "ExportedImages\\T_UI_Reward_QuestReward.png"
+    }
+  },
+  "AccountResource:s37_mash_expertise_buff_granter_2": {
+    "Type": "AccountResource",
+    "Name": "S37_Mash_Expertise_Buff_Granter_2",
+    "DisplayName": "Hunter Rank",
+    "IsPermanent": true,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/battlepasss37_quests/content/items/persistentresources/s37_mash_expertise_buff_granter_2.uasset",
+    "ImagePaths": {
+      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Rewards/T_UI_Reward_QuestReward.T_UI_Reward_QuestReward",
+      "LargePreview": "ExportedImages\\T_UI_Reward_QuestReward.png"
+    }
+  },
+  "AccountResource:s37_mash_expertise_buff_granter_3": {
+    "Type": "AccountResource",
+    "Name": "S37_Mash_Expertise_Buff_Granter_3",
+    "DisplayName": "Hunter Rank",
+    "IsPermanent": true,
+    "Rarity": "Rare",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/battlepasss37_quests/content/items/persistentresources/s37_mash_expertise_buff_granter_3.uasset",
+    "ImagePaths": {
+      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Rewards/T_UI_Reward_QuestReward.T_UI_Reward_QuestReward",
+      "LargePreview": "ExportedImages\\T_UI_Reward_QuestReward.png"
+    }
+  },
+  "AccountResource:s37_mash_expertise_buff_granter_4": {
+    "Type": "AccountResource",
+    "Name": "S37_Mash_Expertise_Buff_Granter_4",
+    "DisplayName": "Hunter Rank",
+    "IsPermanent": true,
+    "Rarity": "Epic",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/battlepasss37_quests/content/items/persistentresources/s37_mash_expertise_buff_granter_4.uasset",
+    "ImagePaths": {
+      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Rewards/T_UI_Reward_QuestReward.T_UI_Reward_QuestReward",
+      "LargePreview": "ExportedImages\\T_UI_Reward_QuestReward.png"
+    }
+  },
+  "AccountResource:s37_mash_expertise_buff_granter_5": {
+    "Type": "AccountResource",
+    "Name": "S37_Mash_Expertise_Buff_Granter_5",
+    "DisplayName": "Hunter Rank",
+    "IsPermanent": true,
+    "Rarity": "Legendary",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/battlepasss37_quests/content/items/persistentresources/s37_mash_expertise_buff_granter_5.uasset",
+    "ImagePaths": {
+      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Rewards/T_UI_Reward_QuestReward.T_UI_Reward_QuestReward",
+      "LargePreview": "ExportedImages\\T_UI_Reward_QuestReward.png"
+    }
+  },
+  "AccountResource:s37_mash_expertise_hrp_granter": {
+    "Type": "AccountResource",
+    "Name": "S37_Mash_Expertise_HRP_Granter",
+    "DisplayName": "Hunter Rank",
+    "IsPermanent": true,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/battlepasss37_quests/content/items/persistentresources/s37_mash_expertise_hrp_granter.uasset",
+    "ImagePaths": {
+      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Rewards/T_UI_Reward_QuestReward.T_UI_Reward_QuestReward",
+      "LargePreview": "ExportedImages\\T_UI_Reward_QuestReward.png"
     }
   },
   "AccountResource:s37_weaponexpertise_expertisepoint_currency": {

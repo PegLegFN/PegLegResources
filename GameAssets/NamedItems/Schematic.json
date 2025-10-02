@@ -50123,7 +50123,7 @@
       "Ingredient:ingredient_bacon": 1
     },
     "CraftingResult": "Trap:tid_ceiling_gas_r_t01",
-    "Description": "Creates a AOE cloud that will affect enemies with Affliction damage, over time.",
+    "Description": "Creates an AOE cloud that damages enemies.",
     "LevelToXPRow": "Rare",
     "Rarity": "Rare",
     "RarityUpRecipe": {
@@ -50169,7 +50169,7 @@
       "Ingredient:ingredient_bacon": 1
     },
     "CraftingResult": "Trap:tid_ceiling_gas_r_t02",
-    "Description": "Creates a AOE cloud that will affect enemies with Affliction damage, over time.",
+    "Description": "Creates an AOE cloud that damages enemies.",
     "LevelToXPRow": "Rare",
     "Rarity": "Rare",
     "RarityUpRecipe": {
@@ -50218,7 +50218,7 @@
       "Ingredient:ingredient_bacon": 1
     },
     "CraftingResult": "Trap:tid_ceiling_gas_r_t03",
-    "Description": "Creates a AOE cloud that will affect enemies with Affliction damage, over time.",
+    "Description": "Creates an AOE cloud that damages enemies.",
     "LevelToXPRow": "Rare",
     "Rarity": "Rare",
     "RarityUpRecipe": {
@@ -50269,7 +50269,7 @@
       "Ingredient:ingredient_bacon": 1
     },
     "CraftingResult": "Trap:tid_ceiling_gas_r_t04",
-    "Description": "Creates a AOE cloud that will affect enemies with Affliction damage, over time.",
+    "Description": "Creates an AOE cloud that damages enemies.",
     "LevelToXPRow": "Rare",
     "Rarity": "Rare",
     "RarityUpRecipe": {
@@ -50311,7 +50311,7 @@
       "Ingredient:ingredient_bacon": 1
     },
     "CraftingResult": "Trap:tid_ceiling_gas_sr_t01",
-    "Description": "Creates a AOE cloud that will affect enemies with Affliction damage, over time.",
+    "Description": "Creates an AOE cloud that damages enemies.",
     "LevelToXPRow": "SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -50351,7 +50351,7 @@
       "Ingredient:ingredient_bacon": 1
     },
     "CraftingResult": "Trap:tid_ceiling_gas_sr_t02",
-    "Description": "Creates a AOE cloud that will affect enemies with Affliction damage, over time.",
+    "Description": "Creates an AOE cloud that damages enemies.",
     "LevelToXPRow": "SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -50392,7 +50392,7 @@
       "Ingredient:ingredient_bacon": 1
     },
     "CraftingResult": "Trap:tid_ceiling_gas_sr_t03",
-    "Description": "Creates a AOE cloud that will affect enemies with Affliction damage, over time.",
+    "Description": "Creates an AOE cloud that damages enemies.",
     "LevelToXPRow": "SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -50434,7 +50434,7 @@
       "Ingredient:ingredient_bacon": 1
     },
     "CraftingResult": "Trap:tid_ceiling_gas_sr_t04",
-    "Description": "Creates a AOE cloud that will affect enemies with Affliction damage, over time.",
+    "Description": "Creates an AOE cloud that damages enemies.",
     "LevelToXPRow": "SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -50477,7 +50477,7 @@
       "Ingredient:ingredient_bacon": 1
     },
     "CraftingResult": "Trap:tid_ceiling_gas_sr_t05",
-    "Description": "Creates a AOE cloud that will affect enemies with Affliction damage, over time.",
+    "Description": "Creates an AOE cloud that damages enemies.",
     "LevelToXPRow": "SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -50509,7 +50509,7 @@
       "Ingredient:ingredient_bacon": 1
     },
     "CraftingResult": "Trap:tid_ceiling_gas_uc_t01",
-    "Description": "Creates a AOE cloud that will affect enemies with Affliction damage, over time.",
+    "Description": "Creates an AOE cloud that damages enemies.",
     "LevelToXPRow": "Uncommon",
     "Rarity": "Uncommon",
     "RarityUpRecipe": {
@@ -50554,7 +50554,7 @@
       "Ingredient:ingredient_bacon": 1
     },
     "CraftingResult": "Trap:tid_ceiling_gas_uc_t02",
-    "Description": "Creates a AOE cloud that will affect enemies with Affliction damage, over time.",
+    "Description": "Creates an AOE cloud that damages enemies.",
     "LevelToXPRow": "Uncommon",
     "Rarity": "Uncommon",
     "RarityUpRecipe": {
@@ -50603,7 +50603,7 @@
       "Ingredient:ingredient_bacon": 1
     },
     "CraftingResult": "Trap:tid_ceiling_gas_uc_t03",
-    "Description": "Creates a AOE cloud that will affect enemies with Affliction damage, over time.",
+    "Description": "Creates an AOE cloud that damages enemies.",
     "LevelToXPRow": "Uncommon",
     "Rarity": "Uncommon",
     "RarityUpRecipe": {
@@ -50644,7 +50644,7 @@
       "Ingredient:ingredient_bacon": 1
     },
     "CraftingResult": "Trap:tid_ceiling_gas_vr_t01",
-    "Description": "Creates a AOE cloud that will affect enemies with Affliction damage, over time.",
+    "Description": "Creates an AOE cloud that damages enemies.",
     "LevelToXPRow": "VeryRare",
     "Rarity": "Epic",
     "RarityUpRecipe": {
@@ -50690,7 +50690,7 @@
       "Ingredient:ingredient_bacon": 1
     },
     "CraftingResult": "Trap:tid_ceiling_gas_vr_t02",
-    "Description": "Creates a AOE cloud that will affect enemies with Affliction damage, over time.",
+    "Description": "Creates an AOE cloud that damages enemies.",
     "LevelToXPRow": "VeryRare",
     "Rarity": "Epic",
     "RarityUpRecipe": {
@@ -50739,7 +50739,7 @@
       "Ingredient:ingredient_bacon": 1
     },
     "CraftingResult": "Trap:tid_ceiling_gas_vr_t03",
-    "Description": "Creates a AOE cloud that will affect enemies with Affliction damage, over time.",
+    "Description": "Creates an AOE cloud that damages enemies.",
     "LevelToXPRow": "VeryRare",
     "Rarity": "Epic",
     "RarityUpRecipe": {
@@ -50790,7 +50790,7 @@
       "Ingredient:ingredient_bacon": 1
     },
     "CraftingResult": "Trap:tid_ceiling_gas_vr_t04",
-    "Description": "Creates a AOE cloud that will affect enemies with Affliction damage, over time.",
+    "Description": "Creates an AOE cloud that damages enemies.",
     "LevelToXPRow": "VeryRare",
     "Rarity": "Epic",
     "RarityUpRecipe": {
@@ -50843,7 +50843,7 @@
       "Ingredient:ingredient_bacon": 1
     },
     "CraftingResult": "Trap:tid_ceiling_gas_vr_t05",
-    "Description": "Creates a AOE cloud that will affect enemies with Affliction damage, over time.",
+    "Description": "Creates an AOE cloud that damages enemies.",
     "LevelToXPRow": "VeryRare",
     "Rarity": "Epic",
     "RarityUpRecipe": {

@@ -1,21 +1,29 @@
 {
   "displayName": "Frozen Fjords",
   "backgrounds": [
-    "FORT_Load_Missions_BorealBase.png",
-    "FORT_Load_Missions_ChillyCove.png",
-    "FORT_Load_Missions_WinterRTL.png",
-    "T-LS-StW-EndlessWinter3.png"
+    "Frostnite Gift Shop.png",
+    "Frostnite Loading Screen.png",
+    "Frostnite Special Delivery.png",
+    "Frozen Fjords Forest.png",
+    "Frozen Fjords Hockey Pitch.png",
+    "Frozen Fjords Waterfall.png"
   ],
   "music": [
-    [
-      "Winter_Ambient_Day_VAR_A_Loop.ogg",
-      "Winter_Ambient_Day_VAR_B_Loop.ogg",
-      "Winter_Ambient_Day_VAR_C_Loop.ogg"
-    ],
-    [
-      "Winter_Ambient_NIght_VAR_A_Loop.ogg",
-      "Winter_Ambient_NIght_VAR_B_Loop.ogg",
-      "Winter_Ambient_NIght_VAR_C_Loop.ogg"
-    ]
+    {
+      "displayName":"Frostnite Day",
+      "tracks":[
+        "Winter_Ambient_Day_VAR_A_Loop.ogg",
+        "Winter_Ambient_Day_VAR_B_Loop.ogg",
+        "Winter_Ambient_Day_VAR_C_Loop.ogg"
+      ]
+    },
+    {
+      "displayName":"Frostnite Night",
+      "tracks": [
+        "Winter_Ambient_NIght_VAR_A_Loop.ogg",
+        "Winter_Ambient_NIght_VAR_B_Loop.ogg",
+        "Winter_Ambient_NIght_VAR_C_Loop.ogg"
+      ]
+    }
   ]
 }

@@ -1,16 +1,15 @@
 {
-    "displayName": "Flannel Falls",
-    "backgrounds": 
-    [
-        "T_Autumn_Foothills.png",
-        "T_Autumn_Industrial.png",
-        "T_Autumn_Lakeside.png",
-        "T_Autumn_Suburbia.png"
-    ],
-    "music": 
-    [
-        "Music_Autumn_Amb_Day_A_Loop.ogg",
-        "Music_Autumn_Amb_Day_B_Loop.ogg",
-        "Music_Autumn_Amb_Night_A_Loop.ogg"
-    ]
+  "displayName": "Flannel Falls",
+  "backgrounds": [
+    "Autumn Foothills Crater.png",
+    "Autumn Foothills Mushrooms.png",
+    "Autumn Lakeside.png",
+    "Autumn Suburbs Derelict.png",
+    "Autumn Suburbs Pizza.png"
+  ],
+  "music": [
+    "Autumn Day Fast.ogg",
+    "Autumn Day Slow.ogg",
+    "Autumn Night.ogg"
+  ]
 }

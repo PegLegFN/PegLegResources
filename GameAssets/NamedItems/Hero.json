@@ -17011,7 +17011,7 @@
     "DisplayName": "JONESEE-BOT",
     "SubType": "Soldier",
     "CommanderPerk": "Ow. My Eye! \u002B",
-    "CommanderPerkDescription": "Increase Headshot damage up to 50% based on the percentage of your missing Health. In addition, Headshot eliminations have a 50% chance to conjure a Phantasm (targets a nearby enemy, dealing 62 base Energy damage in a 0.5 tile radius, 1.5 second cooldown).",
+    "CommanderPerkDescription": "Increase Headshot damage up to 50% based on the percentage of your missing Health. In addition, Headshot eliminations have a 50% chance to conjure a Phantasm (targets a nearby enemy, dealing 62 base Energy Damage in a 0.5 tile radius, 1.5 second cooldown).",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_OwMyEye_T02",
     "Description": "\u0022QUIET PLEASE. I AM FIGHTING.\u0022 - JONESEE-BOT",
     "HeroAbilities": [
@@ -17060,7 +17060,7 @@
     "DisplayName": "JONESEE-BOT",
     "SubType": "Soldier",
     "CommanderPerk": "Ow. My Eye! \u002B",
-    "CommanderPerkDescription": "Increase Headshot damage up to 50% based on the percentage of your missing Health. In addition, Headshot eliminations have a 50% chance to conjure a Phantasm (targets a nearby enemy, dealing 62 base Energy damage in a 0.5 tile radius, 1.5 second cooldown).",
+    "CommanderPerkDescription": "Increase Headshot damage up to 50% based on the percentage of your missing Health. In addition, Headshot eliminations have a 50% chance to conjure a Phantasm (targets a nearby enemy, dealing 62 base Energy Damage in a 0.5 tile radius, 1.5 second cooldown).",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_OwMyEye_T02",
     "Description": "\u0022QUIET PLEASE. I AM FIGHTING.\u0022 - JONESEE-BOT",
     "HeroAbilities": [
@@ -17110,7 +17110,7 @@
     "DisplayName": "JONESEE-BOT",
     "SubType": "Soldier",
     "CommanderPerk": "Ow. My Eye! \u002B",
-    "CommanderPerkDescription": "Increase Headshot damage up to 50% based on the percentage of your missing Health. In addition, Headshot eliminations have a 50% chance to conjure a Phantasm (targets a nearby enemy, dealing 62 base Energy damage in a 0.5 tile radius, 1.5 second cooldown).",
+    "CommanderPerkDescription": "Increase Headshot damage up to 50% based on the percentage of your missing Health. In addition, Headshot eliminations have a 50% chance to conjure a Phantasm (targets a nearby enemy, dealing 62 base Energy Damage in a 0.5 tile radius, 1.5 second cooldown).",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_OwMyEye_T02",
     "Description": "\u0022QUIET PLEASE. I AM FIGHTING.\u0022 - JONESEE-BOT",
     "HeroAbilities": [
@@ -17161,7 +17161,7 @@
     "DisplayName": "JONESEE-BOT",
     "SubType": "Soldier",
     "CommanderPerk": "Ow. My Eye! \u002B",
-    "CommanderPerkDescription": "Increase Headshot damage up to 50% based on the percentage of your missing Health. In addition, Headshot eliminations have a 50% chance to conjure a Phantasm (targets a nearby enemy, dealing 62 base Energy damage in a 0.5 tile radius, 1.5 second cooldown).",
+    "CommanderPerkDescription": "Increase Headshot damage up to 50% based on the percentage of your missing Health. In addition, Headshot eliminations have a 50% chance to conjure a Phantasm (targets a nearby enemy, dealing 62 base Energy Damage in a 0.5 tile radius, 1.5 second cooldown).",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_OwMyEye_T02",
     "Description": "\u0022QUIET PLEASE. I AM FIGHTING.\u0022 - JONESEE-BOT",
     "HeroAbilities": [
@@ -17213,7 +17213,7 @@
     "DisplayName": "JONESEE-BOT",
     "SubType": "Soldier",
     "CommanderPerk": "Ow. My Eye! \u002B",
-    "CommanderPerkDescription": "Increase Headshot damage up to 50% based on the percentage of your missing Health. In addition, Headshot eliminations have a 50% chance to conjure a Phantasm (targets a nearby enemy, dealing 62 base Energy damage in a 0.5 tile radius, 1.5 second cooldown).",
+    "CommanderPerkDescription": "Increase Headshot damage up to 50% based on the percentage of your missing Health. In addition, Headshot eliminations have a 50% chance to conjure a Phantasm (targets a nearby enemy, dealing 62 base Energy Damage in a 0.5 tile radius, 1.5 second cooldown).",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_OwMyEye_T02",
     "Description": "\u0022QUIET PLEASE. I AM FIGHTING.\u0022 - JONESEE-BOT",
     "HeroAbilities": [
@@ -21720,7 +21720,7 @@
     "DisplayName": "Chaos Agent",
     "SubType": "Soldier",
     "CommanderPerk": "Quick Fingers\u002B",
-    "CommanderPerkDescription": "Whenever you use any ability, Quick Fingers\u002B reloads your equipped weapon (if it can be reloaded). When you reload a weapon this way, you have a % chance to summon a phantasm based on how empty the clip was, with a cap of 80%. ",
+    "CommanderPerkDescription": "Whenever you use any ability, Quick Fingers reloads your equipped weapon (if it can be reloaded). When you reload a weapon this way, you have a % chance to summon a phantasm based on how empty the clip was, with a cap of 80%. ",
     "CommanderPerkTemplate": "Ability:Kit_Commando_QuickFingers_T02",
     "Description": "\u0022Sowing the seeds of chaos...\u0022 -Chaos Agent",
     "HeroAbilities": [
@@ -21767,7 +21767,7 @@
     "DisplayName": "Chaos Agent",
     "SubType": "Soldier",
     "CommanderPerk": "Quick Fingers\u002B",
-    "CommanderPerkDescription": "Whenever you use any ability, Quick Fingers\u002B reloads your equipped weapon (if it can be reloaded). When you reload a weapon this way, you have a % chance to summon a phantasm based on how empty the clip was, with a cap of 80%. ",
+    "CommanderPerkDescription": "Whenever you use any ability, Quick Fingers reloads your equipped weapon (if it can be reloaded). When you reload a weapon this way, you have a % chance to summon a phantasm based on how empty the clip was, with a cap of 80%. ",
     "CommanderPerkTemplate": "Ability:Kit_Commando_QuickFingers_T02",
     "Description": "\u0022Sowing the seeds of chaos...\u0022 -Chaos Agent",
     "HeroAbilities": [
@@ -21815,7 +21815,7 @@
     "DisplayName": "Chaos Agent",
     "SubType": "Soldier",
     "CommanderPerk": "Quick Fingers\u002B",
-    "CommanderPerkDescription": "Whenever you use any ability, Quick Fingers\u002B reloads your equipped weapon (if it can be reloaded). When you reload a weapon this way, you have a % chance to summon a phantasm based on how empty the clip was, with a cap of 80%. ",
+    "CommanderPerkDescription": "Whenever you use any ability, Quick Fingers reloads your equipped weapon (if it can be reloaded). When you reload a weapon this way, you have a % chance to summon a phantasm based on how empty the clip was, with a cap of 80%. ",
     "CommanderPerkTemplate": "Ability:Kit_Commando_QuickFingers_T02",
     "Description": "\u0022Sowing the seeds of chaos...\u0022 -Chaos Agent",
     "HeroAbilities": [
@@ -21864,7 +21864,7 @@
     "DisplayName": "Chaos Agent",
     "SubType": "Soldier",
     "CommanderPerk": "Quick Fingers\u002B",
-    "CommanderPerkDescription": "Whenever you use any ability, Quick Fingers\u002B reloads your equipped weapon (if it can be reloaded). When you reload a weapon this way, you have a % chance to summon a phantasm based on how empty the clip was, with a cap of 80%. ",
+    "CommanderPerkDescription": "Whenever you use any ability, Quick Fingers reloads your equipped weapon (if it can be reloaded). When you reload a weapon this way, you have a % chance to summon a phantasm based on how empty the clip was, with a cap of 80%. ",
     "CommanderPerkTemplate": "Ability:Kit_Commando_QuickFingers_T02",
     "Description": "\u0022Sowing the seeds of chaos...\u0022 -Chaos Agent",
     "HeroAbilities": [
@@ -21914,7 +21914,7 @@
     "DisplayName": "Chaos Agent",
     "SubType": "Soldier",
     "CommanderPerk": "Quick Fingers\u002B",
-    "CommanderPerkDescription": "Whenever you use any ability, Quick Fingers\u002B reloads your equipped weapon (if it can be reloaded). When you reload a weapon this way, you have a % chance to summon a phantasm based on how empty the clip was, with a cap of 80%. ",
+    "CommanderPerkDescription": "Whenever you use any ability, Quick Fingers reloads your equipped weapon (if it can be reloaded). When you reload a weapon this way, you have a % chance to summon a phantasm based on how empty the clip was, with a cap of 80%. ",
     "CommanderPerkTemplate": "Ability:Kit_Commando_QuickFingers_T02",
     "Description": "\u0022Sowing the seeds of chaos...\u0022 -Chaos Agent",
     "HeroAbilities": [
@@ -22532,7 +22532,7 @@
       "Ability:Kit_Commando_FragGrenade"
     ],
     "HeroPerk": "Prickly",
-    "HeroPerkDescription": "Enemies that land melee attacks take 13 Base Damage.",
+    "HeroPerkDescription": "Enemies that land melee attacks take 13 Base Damage plus an additional 5 Base Damage per second for 3 Seconds.",
     "HeroPerkTemplate": "Ability:Kit_Perk_H_Prickly_T01",
     "HeroStatLine": "Ability",
     "HeroTags": [
@@ -22579,7 +22579,7 @@
       "Ability:Kit_Commando_FragGrenade"
     ],
     "HeroPerk": "Prickly",
-    "HeroPerkDescription": "Enemies that land melee attacks take 13 Base Damage.",
+    "HeroPerkDescription": "Enemies that land melee attacks take 13 Base Damage plus an additional 5 Base Damage per second for 3 Seconds.",
     "HeroPerkTemplate": "Ability:Kit_Perk_H_Prickly_T01",
     "HeroStatLine": "Ability",
     "HeroTags": [
@@ -22627,7 +22627,7 @@
       "Ability:Kit_Commando_FragGrenade"
     ],
     "HeroPerk": "Prickly",
-    "HeroPerkDescription": "Enemies that land melee attacks take 13 Base Damage.",
+    "HeroPerkDescription": "Enemies that land melee attacks take 13 Base Damage plus an additional 5 Base Damage per second for 3 Seconds.",
     "HeroPerkTemplate": "Ability:Kit_Perk_H_Prickly_T01",
     "HeroStatLine": "Ability",
     "HeroTags": [
@@ -22676,7 +22676,7 @@
       "Ability:Kit_Commando_FragGrenade"
     ],
     "HeroPerk": "Prickly",
-    "HeroPerkDescription": "Enemies that land melee attacks take 13 Base Damage.",
+    "HeroPerkDescription": "Enemies that land melee attacks take 13 Base Damage plus an additional 5 Base Damage per second for 3 Seconds.",
     "HeroPerkTemplate": "Ability:Kit_Perk_H_Prickly_T01",
     "HeroStatLine": "Ability",
     "HeroTags": [
@@ -22726,7 +22726,7 @@
       "Ability:Kit_Commando_FragGrenade"
     ],
     "HeroPerk": "Prickly",
-    "HeroPerkDescription": "Enemies that land melee attacks take 13 Base Damage.",
+    "HeroPerkDescription": "Enemies that land melee attacks take 13 Base Damage plus an additional 5 Base Damage per second for 3 Seconds.",
     "HeroPerkTemplate": "Ability:Kit_Perk_H_Prickly_T01",
     "HeroStatLine": "Ability",
     "HeroTags": [
@@ -38982,7 +38982,7 @@
     "DisplayName": "Heavy B.A.S.E. Kyle",
     "SubType": "Constructor",
     "CommanderPerk": "Feel The BASE \u002B",
-    "CommanderPerkDescription": "Eliminating enemies standing on structures affected by B.A.S.E. charges B.A.S.E. After 30 charges B.A.S.E. emits an explosion which knocks back enemies and deals 89 base Energy Damage in a 5 tile Radius.",
+    "CommanderPerkDescription": "Eliminating enemies standing on structures affected by B.A.S.E. charges B.A.S.E.. After 30 charges B.A.S.E. emits an explosion which knocks back enemies and deals 89 base Energy Damage in a 5 tile Radius.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_FeelTheBASE_T02",
     "Description": "\u0022This isn\u0027t even that heavy.\u0022 - Kyle",
     "HeroAbilities": [
@@ -38991,7 +38991,7 @@
       "Ability:Kit_Constructor_BullRush"
     ],
     "HeroPerk": "Feel The BASE",
-    "HeroPerkDescription": "Eliminating enemies standing on structures affected by B.A.S.E. charges B.A.S.E. After 30 charges B.A.S.E. emits an explosion which knocks back enemies and deals 39 base Energy Damage in a 3 tile Radius.",
+    "HeroPerkDescription": "Eliminating enemies standing on structures affected by B.A.S.E. charges B.A.S.E.. After 30 charges B.A.S.E. emits an explosion which knocks back enemies and deals 39 base Energy Damage in a 3 tile Radius.",
     "HeroPerkRequirement": {
       "CommanderSubType": "Constructor",
       "Description": "Requires Constructor as commander."
@@ -39039,7 +39039,7 @@
     "DisplayName": "Heavy B.A.S.E. Kyle",
     "SubType": "Constructor",
     "CommanderPerk": "Feel The BASE \u002B",
-    "CommanderPerkDescription": "Eliminating enemies standing on structures affected by B.A.S.E. charges B.A.S.E. After 30 charges B.A.S.E. emits an explosion which knocks back enemies and deals 89 base Energy Damage in a 5 tile Radius.",
+    "CommanderPerkDescription": "Eliminating enemies standing on structures affected by B.A.S.E. charges B.A.S.E.. After 30 charges B.A.S.E. emits an explosion which knocks back enemies and deals 89 base Energy Damage in a 5 tile Radius.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_FeelTheBASE_T02",
     "Description": "\u0022This isn\u0027t even that heavy.\u0022 - Kyle",
     "HeroAbilities": [
@@ -39048,7 +39048,7 @@
       "Ability:Kit_Constructor_BullRush"
     ],
     "HeroPerk": "Feel The BASE",
-    "HeroPerkDescription": "Eliminating enemies standing on structures affected by B.A.S.E. charges B.A.S.E. After 30 charges B.A.S.E. emits an explosion which knocks back enemies and deals 39 base Energy Damage in a 3 tile Radius.",
+    "HeroPerkDescription": "Eliminating enemies standing on structures affected by B.A.S.E. charges B.A.S.E.. After 30 charges B.A.S.E. emits an explosion which knocks back enemies and deals 39 base Energy Damage in a 3 tile Radius.",
     "HeroPerkRequirement": {
       "CommanderSubType": "Constructor",
       "Description": "Requires Constructor as commander."
@@ -39099,7 +39099,7 @@
     "DisplayName": "Heavy B.A.S.E. Kyle",
     "SubType": "Constructor",
     "CommanderPerk": "Feel The BASE \u002B",
-    "CommanderPerkDescription": "Eliminating enemies standing on structures affected by B.A.S.E. charges B.A.S.E. After 30 charges B.A.S.E. emits an explosion which knocks back enemies and deals 89 base Energy Damage in a 5 tile Radius.",
+    "CommanderPerkDescription": "Eliminating enemies standing on structures affected by B.A.S.E. charges B.A.S.E.. After 30 charges B.A.S.E. emits an explosion which knocks back enemies and deals 89 base Energy Damage in a 5 tile Radius.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_FeelTheBASE_T02",
     "Description": "\u0022This isn\u0027t even that heavy.\u0022 - Kyle",
     "HeroAbilities": [
@@ -39108,7 +39108,7 @@
       "Ability:Kit_Constructor_BullRush"
     ],
     "HeroPerk": "Feel The BASE",
-    "HeroPerkDescription": "Eliminating enemies standing on structures affected by B.A.S.E. charges B.A.S.E. After 30 charges B.A.S.E. emits an explosion which knocks back enemies and deals 39 base Energy Damage in a 3 tile Radius.",
+    "HeroPerkDescription": "Eliminating enemies standing on structures affected by B.A.S.E. charges B.A.S.E.. After 30 charges B.A.S.E. emits an explosion which knocks back enemies and deals 39 base Energy Damage in a 3 tile Radius.",
     "HeroPerkRequirement": {
       "CommanderSubType": "Constructor",
       "Description": "Requires Constructor as commander."
@@ -39161,7 +39161,7 @@
     "DisplayName": "Heavy B.A.S.E. Kyle",
     "SubType": "Constructor",
     "CommanderPerk": "Feel The BASE \u002B",
-    "CommanderPerkDescription": "Eliminating enemies standing on structures affected by B.A.S.E. charges B.A.S.E. After 30 charges B.A.S.E. emits an explosion which knocks back enemies and deals 89 base Energy Damage in a 5 tile Radius.",
+    "CommanderPerkDescription": "Eliminating enemies standing on structures affected by B.A.S.E. charges B.A.S.E.. After 30 charges B.A.S.E. emits an explosion which knocks back enemies and deals 89 base Energy Damage in a 5 tile Radius.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_FeelTheBASE_T02",
     "Description": "\u0022This isn\u0027t even that heavy.\u0022 - Kyle",
     "HeroAbilities": [
@@ -39170,7 +39170,7 @@
       "Ability:Kit_Constructor_BullRush"
     ],
     "HeroPerk": "Feel The BASE",
-    "HeroPerkDescription": "Eliminating enemies standing on structures affected by B.A.S.E. charges B.A.S.E. After 30 charges B.A.S.E. emits an explosion which knocks back enemies and deals 39 base Energy Damage in a 3 tile Radius.",
+    "HeroPerkDescription": "Eliminating enemies standing on structures affected by B.A.S.E. charges B.A.S.E.. After 30 charges B.A.S.E. emits an explosion which knocks back enemies and deals 39 base Energy Damage in a 3 tile Radius.",
     "HeroPerkRequirement": {
       "CommanderSubType": "Constructor",
       "Description": "Requires Constructor as commander."
@@ -39214,7 +39214,7 @@
     "DisplayName": "Heavy B.A.S.E. Kyle",
     "SubType": "Constructor",
     "CommanderPerk": "Feel The BASE \u002B",
-    "CommanderPerkDescription": "Eliminating enemies standing on structures affected by B.A.S.E. charges B.A.S.E. After 30 charges B.A.S.E. emits an explosion which knocks back enemies and deals 89 base Energy Damage in a 5 tile Radius.",
+    "CommanderPerkDescription": "Eliminating enemies standing on structures affected by B.A.S.E. charges B.A.S.E.. After 30 charges B.A.S.E. emits an explosion which knocks back enemies and deals 89 base Energy Damage in a 5 tile Radius.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_FeelTheBASE_T02",
     "Description": "\u0022This isn\u0027t even that heavy.\u0022 - Kyle",
     "HeroAbilities": [
@@ -39223,7 +39223,7 @@
       "Ability:Kit_Constructor_BullRush"
     ],
     "HeroPerk": "Feel The BASE",
-    "HeroPerkDescription": "Eliminating enemies standing on structures affected by B.A.S.E. charges B.A.S.E. After 30 charges B.A.S.E. emits an explosion which knocks back enemies and deals 39 base Energy Damage in a 3 tile Radius.",
+    "HeroPerkDescription": "Eliminating enemies standing on structures affected by B.A.S.E. charges B.A.S.E.. After 30 charges B.A.S.E. emits an explosion which knocks back enemies and deals 39 base Energy Damage in a 3 tile Radius.",
     "HeroPerkRequirement": {
       "CommanderSubType": "Constructor",
       "Description": "Requires Constructor as commander."
@@ -39265,7 +39265,7 @@
     "DisplayName": "Heavy B.A.S.E. Kyle",
     "SubType": "Constructor",
     "CommanderPerk": "Feel The BASE \u002B",
-    "CommanderPerkDescription": "Eliminating enemies standing on structures affected by B.A.S.E. charges B.A.S.E. After 30 charges B.A.S.E. emits an explosion which knocks back enemies and deals 89 base Energy Damage in a 5 tile Radius.",
+    "CommanderPerkDescription": "Eliminating enemies standing on structures affected by B.A.S.E. charges B.A.S.E.. After 30 charges B.A.S.E. emits an explosion which knocks back enemies and deals 89 base Energy Damage in a 5 tile Radius.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_FeelTheBASE_T02",
     "Description": "\u0022This isn\u0027t even that heavy.\u0022 - Kyle",
     "HeroAbilities": [
@@ -39274,7 +39274,7 @@
       "Ability:Kit_Constructor_BullRush"
     ],
     "HeroPerk": "Feel The BASE",
-    "HeroPerkDescription": "Eliminating enemies standing on structures affected by B.A.S.E. charges B.A.S.E. After 30 charges B.A.S.E. emits an explosion which knocks back enemies and deals 39 base Energy Damage in a 3 tile Radius.",
+    "HeroPerkDescription": "Eliminating enemies standing on structures affected by B.A.S.E. charges B.A.S.E.. After 30 charges B.A.S.E. emits an explosion which knocks back enemies and deals 39 base Energy Damage in a 3 tile Radius.",
     "HeroPerkRequirement": {
       "CommanderSubType": "Constructor",
       "Description": "Requires Constructor as commander."
@@ -39317,7 +39317,7 @@
     "DisplayName": "Heavy B.A.S.E. Kyle",
     "SubType": "Constructor",
     "CommanderPerk": "Feel The BASE \u002B",
-    "CommanderPerkDescription": "Eliminating enemies standing on structures affected by B.A.S.E. charges B.A.S.E. After 30 charges B.A.S.E. emits an explosion which knocks back enemies and deals 89 base Energy Damage in a 5 tile Radius.",
+    "CommanderPerkDescription": "Eliminating enemies standing on structures affected by B.A.S.E. charges B.A.S.E.. After 30 charges B.A.S.E. emits an explosion which knocks back enemies and deals 89 base Energy Damage in a 5 tile Radius.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_FeelTheBASE_T02",
     "Description": "\u0022This isn\u0027t even that heavy.\u0022 - Kyle",
     "HeroAbilities": [
@@ -39326,7 +39326,7 @@
       "Ability:Kit_Constructor_BullRush"
     ],
     "HeroPerk": "Feel The BASE",
-    "HeroPerkDescription": "Eliminating enemies standing on structures affected by B.A.S.E. charges B.A.S.E. After 30 charges B.A.S.E. emits an explosion which knocks back enemies and deals 39 base Energy Damage in a 3 tile Radius.",
+    "HeroPerkDescription": "Eliminating enemies standing on structures affected by B.A.S.E. charges B.A.S.E.. After 30 charges B.A.S.E. emits an explosion which knocks back enemies and deals 39 base Energy Damage in a 3 tile Radius.",
     "HeroPerkRequirement": {
       "CommanderSubType": "Constructor",
       "Description": "Requires Constructor as commander."
@@ -39370,7 +39370,7 @@
     "DisplayName": "Heavy B.A.S.E. Kyle",
     "SubType": "Constructor",
     "CommanderPerk": "Feel The BASE \u002B",
-    "CommanderPerkDescription": "Eliminating enemies standing on structures affected by B.A.S.E. charges B.A.S.E. After 30 charges B.A.S.E. emits an explosion which knocks back enemies and deals 89 base Energy Damage in a 5 tile Radius.",
+    "CommanderPerkDescription": "Eliminating enemies standing on structures affected by B.A.S.E. charges B.A.S.E.. After 30 charges B.A.S.E. emits an explosion which knocks back enemies and deals 89 base Energy Damage in a 5 tile Radius.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_FeelTheBASE_T02",
     "Description": "\u0022This isn\u0027t even that heavy.\u0022 - Kyle",
     "HeroAbilities": [
@@ -39379,7 +39379,7 @@
       "Ability:Kit_Constructor_BullRush"
     ],
     "HeroPerk": "Feel The BASE",
-    "HeroPerkDescription": "Eliminating enemies standing on structures affected by B.A.S.E. charges B.A.S.E. After 30 charges B.A.S.E. emits an explosion which knocks back enemies and deals 39 base Energy Damage in a 3 tile Radius.",
+    "HeroPerkDescription": "Eliminating enemies standing on structures affected by B.A.S.E. charges B.A.S.E.. After 30 charges B.A.S.E. emits an explosion which knocks back enemies and deals 39 base Energy Damage in a 3 tile Radius.",
     "HeroPerkRequirement": {
       "CommanderSubType": "Constructor",
       "Description": "Requires Constructor as commander."
@@ -39424,7 +39424,7 @@
     "DisplayName": "Heavy B.A.S.E. Kyle",
     "SubType": "Constructor",
     "CommanderPerk": "Feel The BASE \u002B",
-    "CommanderPerkDescription": "Eliminating enemies standing on structures affected by B.A.S.E. charges B.A.S.E. After 30 charges B.A.S.E. emits an explosion which knocks back enemies and deals 89 base Energy Damage in a 5 tile Radius.",
+    "CommanderPerkDescription": "Eliminating enemies standing on structures affected by B.A.S.E. charges B.A.S.E.. After 30 charges B.A.S.E. emits an explosion which knocks back enemies and deals 89 base Energy Damage in a 5 tile Radius.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_FeelTheBASE_T02",
     "Description": "\u0022This isn\u0027t even that heavy.\u0022 - Kyle",
     "HeroAbilities": [
@@ -39433,7 +39433,7 @@
       "Ability:Kit_Constructor_BullRush"
     ],
     "HeroPerk": "Feel The BASE",
-    "HeroPerkDescription": "Eliminating enemies standing on structures affected by B.A.S.E. charges B.A.S.E. After 30 charges B.A.S.E. emits an explosion which knocks back enemies and deals 39 base Energy Damage in a 3 tile Radius.",
+    "HeroPerkDescription": "Eliminating enemies standing on structures affected by B.A.S.E. charges B.A.S.E.. After 30 charges B.A.S.E. emits an explosion which knocks back enemies and deals 39 base Energy Damage in a 3 tile Radius.",
     "HeroPerkRequirement": {
       "CommanderSubType": "Constructor",
       "Description": "Requires Constructor as commander."
@@ -39467,7 +39467,7 @@
     "DisplayName": "Heavy B.A.S.E. Kyle",
     "SubType": "Constructor",
     "CommanderPerk": "Feel The BASE \u002B",
-    "CommanderPerkDescription": "Eliminating enemies standing on structures affected by B.A.S.E. charges B.A.S.E. After 30 charges B.A.S.E. emits an explosion which knocks back enemies and deals 89 base Energy Damage in a 5 tile Radius.",
+    "CommanderPerkDescription": "Eliminating enemies standing on structures affected by B.A.S.E. charges B.A.S.E.. After 30 charges B.A.S.E. emits an explosion which knocks back enemies and deals 89 base Energy Damage in a 5 tile Radius.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_FeelTheBASE_T02",
     "Description": "\u0022This isn\u0027t even that heavy.\u0022 - Kyle",
     "HeroAbilities": [
@@ -39476,7 +39476,7 @@
       "Ability:Kit_Constructor_BullRush"
     ],
     "HeroPerk": "Feel The BASE",
-    "HeroPerkDescription": "Eliminating enemies standing on structures affected by B.A.S.E. charges B.A.S.E. After 30 charges B.A.S.E. emits an explosion which knocks back enemies and deals 39 base Energy Damage in a 3 tile Radius.",
+    "HeroPerkDescription": "Eliminating enemies standing on structures affected by B.A.S.E. charges B.A.S.E.. After 30 charges B.A.S.E. emits an explosion which knocks back enemies and deals 39 base Energy Damage in a 3 tile Radius.",
     "HeroPerkRequirement": {
       "CommanderSubType": "Constructor",
       "Description": "Requires Constructor as commander."
@@ -39524,7 +39524,7 @@
     "DisplayName": "Heavy B.A.S.E. Kyle",
     "SubType": "Constructor",
     "CommanderPerk": "Feel The BASE \u002B",
-    "CommanderPerkDescription": "Eliminating enemies standing on structures affected by B.A.S.E. charges B.A.S.E. After 30 charges B.A.S.E. emits an explosion which knocks back enemies and deals 89 base Energy Damage in a 5 tile Radius.",
+    "CommanderPerkDescription": "Eliminating enemies standing on structures affected by B.A.S.E. charges B.A.S.E.. After 30 charges B.A.S.E. emits an explosion which knocks back enemies and deals 89 base Energy Damage in a 5 tile Radius.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_FeelTheBASE_T02",
     "Description": "\u0022This isn\u0027t even that heavy.\u0022 - Kyle",
     "HeroAbilities": [
@@ -39533,7 +39533,7 @@
       "Ability:Kit_Constructor_BullRush"
     ],
     "HeroPerk": "Feel The BASE",
-    "HeroPerkDescription": "Eliminating enemies standing on structures affected by B.A.S.E. charges B.A.S.E. After 30 charges B.A.S.E. emits an explosion which knocks back enemies and deals 39 base Energy Damage in a 3 tile Radius.",
+    "HeroPerkDescription": "Eliminating enemies standing on structures affected by B.A.S.E. charges B.A.S.E.. After 30 charges B.A.S.E. emits an explosion which knocks back enemies and deals 39 base Energy Damage in a 3 tile Radius.",
     "HeroPerkRequirement": {
       "CommanderSubType": "Constructor",
       "Description": "Requires Constructor as commander."
@@ -39584,7 +39584,7 @@
     "DisplayName": "Heavy B.A.S.E. Kyle",
     "SubType": "Constructor",
     "CommanderPerk": "Feel The BASE \u002B",
-    "CommanderPerkDescription": "Eliminating enemies standing on structures affected by B.A.S.E. charges B.A.S.E. After 30 charges B.A.S.E. emits an explosion which knocks back enemies and deals 89 base Energy Damage in a 5 tile Radius.",
+    "CommanderPerkDescription": "Eliminating enemies standing on structures affected by B.A.S.E. charges B.A.S.E.. After 30 charges B.A.S.E. emits an explosion which knocks back enemies and deals 89 base Energy Damage in a 5 tile Radius.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_FeelTheBASE_T02",
     "Description": "\u0022This isn\u0027t even that heavy.\u0022 - Kyle",
     "HeroAbilities": [
@@ -39593,7 +39593,7 @@
       "Ability:Kit_Constructor_BullRush"
     ],
     "HeroPerk": "Feel The BASE",
-    "HeroPerkDescription": "Eliminating enemies standing on structures affected by B.A.S.E. charges B.A.S.E. After 30 charges B.A.S.E. emits an explosion which knocks back enemies and deals 39 base Energy Damage in a 3 tile Radius.",
+    "HeroPerkDescription": "Eliminating enemies standing on structures affected by B.A.S.E. charges B.A.S.E.. After 30 charges B.A.S.E. emits an explosion which knocks back enemies and deals 39 base Energy Damage in a 3 tile Radius.",
     "HeroPerkRequirement": {
       "CommanderSubType": "Constructor",
       "Description": "Requires Constructor as commander."
@@ -39646,7 +39646,7 @@
     "DisplayName": "Heavy B.A.S.E. Kyle",
     "SubType": "Constructor",
     "CommanderPerk": "Feel The BASE \u002B",
-    "CommanderPerkDescription": "Eliminating enemies standing on structures affected by B.A.S.E. charges B.A.S.E. After 30 charges B.A.S.E. emits an explosion which knocks back enemies and deals 89 base Energy Damage in a 5 tile Radius.",
+    "CommanderPerkDescription": "Eliminating enemies standing on structures affected by B.A.S.E. charges B.A.S.E.. After 30 charges B.A.S.E. emits an explosion which knocks back enemies and deals 89 base Energy Damage in a 5 tile Radius.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_FeelTheBASE_T02",
     "Description": "\u0022This isn\u0027t even that heavy.\u0022 - Kyle",
     "HeroAbilities": [
@@ -39655,7 +39655,7 @@
       "Ability:Kit_Constructor_BullRush"
     ],
     "HeroPerk": "Feel The BASE",
-    "HeroPerkDescription": "Eliminating enemies standing on structures affected by B.A.S.E. charges B.A.S.E. After 30 charges B.A.S.E. emits an explosion which knocks back enemies and deals 39 base Energy Damage in a 3 tile Radius.",
+    "HeroPerkDescription": "Eliminating enemies standing on structures affected by B.A.S.E. charges B.A.S.E.. After 30 charges B.A.S.E. emits an explosion which knocks back enemies and deals 39 base Energy Damage in a 3 tile Radius.",
     "HeroPerkRequirement": {
       "CommanderSubType": "Constructor",
       "Description": "Requires Constructor as commander."
@@ -39710,7 +39710,7 @@
     "DisplayName": "Heavy B.A.S.E. Kyle",
     "SubType": "Constructor",
     "CommanderPerk": "Feel The BASE \u002B",
-    "CommanderPerkDescription": "Eliminating enemies standing on structures affected by B.A.S.E. charges B.A.S.E. After 30 charges B.A.S.E. emits an explosion which knocks back enemies and deals 89 base Energy Damage in a 5 tile Radius.",
+    "CommanderPerkDescription": "Eliminating enemies standing on structures affected by B.A.S.E. charges B.A.S.E.. After 30 charges B.A.S.E. emits an explosion which knocks back enemies and deals 89 base Energy Damage in a 5 tile Radius.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_FeelTheBASE_T02",
     "Description": "\u0022This isn\u0027t even that heavy.\u0022 - Kyle",
     "HeroAbilities": [
@@ -39719,7 +39719,7 @@
       "Ability:Kit_Constructor_BullRush"
     ],
     "HeroPerk": "Feel The BASE",
-    "HeroPerkDescription": "Eliminating enemies standing on structures affected by B.A.S.E. charges B.A.S.E. After 30 charges B.A.S.E. emits an explosion which knocks back enemies and deals 39 base Energy Damage in a 3 tile Radius.",
+    "HeroPerkDescription": "Eliminating enemies standing on structures affected by B.A.S.E. charges B.A.S.E.. After 30 charges B.A.S.E. emits an explosion which knocks back enemies and deals 39 base Energy Damage in a 3 tile Radius.",
     "HeroPerkRequirement": {
       "CommanderSubType": "Constructor",
       "Description": "Requires Constructor as commander."
@@ -43618,7 +43618,7 @@
     "DisplayName": "Blakebeard The Blackhearted",
     "SubType": "Constructor",
     "CommanderPerk": "Avast Mateys \u002B",
-    "CommanderPerkDescription": "Increases Cannonball Damage by 40%. Converts R.O.S.I.E. to fire 30 cannonballs.",
+    "CommanderPerkDescription": "Increases Cannonball Damage by 40%. Converts R.O.S.I.E. to fire 30 Cannonballs.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_AvastMaties_T02",
     "Description": "The dreaded captain of the stormy seas.",
     "HeroAbilities": [
@@ -43667,7 +43667,7 @@
     "DisplayName": "Blakebeard The Blackhearted",
     "SubType": "Constructor",
     "CommanderPerk": "Avast Mateys \u002B",
-    "CommanderPerkDescription": "Increases Cannonball Damage by 40%. Converts R.O.S.I.E. to fire 30 cannonballs.",
+    "CommanderPerkDescription": "Increases Cannonball Damage by 40%. Converts R.O.S.I.E. to fire 30 Cannonballs.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_AvastMaties_T02",
     "Description": "The dreaded captain of the stormy seas.",
     "HeroAbilities": [
@@ -43717,7 +43717,7 @@
     "DisplayName": "Blakebeard The Blackhearted",
     "SubType": "Constructor",
     "CommanderPerk": "Avast Mateys \u002B",
-    "CommanderPerkDescription": "Increases Cannonball Damage by 40%. Converts R.O.S.I.E. to fire 30 cannonballs.",
+    "CommanderPerkDescription": "Increases Cannonball Damage by 40%. Converts R.O.S.I.E. to fire 30 Cannonballs.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_AvastMaties_T02",
     "Description": "The dreaded captain of the stormy seas.",
     "HeroAbilities": [
@@ -43768,7 +43768,7 @@
     "DisplayName": "Blakebeard The Blackhearted",
     "SubType": "Constructor",
     "CommanderPerk": "Avast Mateys \u002B",
-    "CommanderPerkDescription": "Increases Cannonball Damage by 40%. Converts R.O.S.I.E. to fire 30 cannonballs.",
+    "CommanderPerkDescription": "Increases Cannonball Damage by 40%. Converts R.O.S.I.E. to fire 30 Cannonballs.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_AvastMaties_T02",
     "Description": "The dreaded captain of the stormy seas.",
     "HeroAbilities": [
@@ -43820,7 +43820,7 @@
     "DisplayName": "Blakebeard The Blackhearted",
     "SubType": "Constructor",
     "CommanderPerk": "Avast Mateys \u002B",
-    "CommanderPerkDescription": "Increases Cannonball Damage by 40%. Converts R.O.S.I.E. to fire 30 cannonballs.",
+    "CommanderPerkDescription": "Increases Cannonball Damage by 40%. Converts R.O.S.I.E. to fire 30 Cannonballs.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_AvastMaties_T02",
     "Description": "The dreaded captain of the stormy seas.",
     "HeroAbilities": [
@@ -44624,7 +44624,7 @@
     "DisplayName": "ED-EE",
     "SubType": "Constructor",
     "CommanderPerk": "MUST.PROTECT \u002B",
-    "CommanderPerkDescription": "Critical hits with Melee Weapon Energy Damage add 66% of current shield to damage.",
+    "CommanderPerkDescription": "Critical hits with Melee Weapon Energy Damage add 66% of current Shield to damage.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_MUSTPROTECT_T02",
     "Description": "\u0022Let\u0027s agree to disagree!\u0022  -ED-EE",
     "HeroAbilities": [
@@ -44633,7 +44633,7 @@
       "Ability:Kit_Constructor_MountedTurret"
     ],
     "HeroPerk": "MUST.PROTECT",
-    "HeroPerkDescription": "Critical hits with Melee Weapon Energy Damage add 22% of current shield to damage.",
+    "HeroPerkDescription": "Critical hits with Melee Weapon Energy Damage add 22% of current Shield to damage.",
     "HeroPerkTemplate": "Ability:Kit_Perk_H_MUSTPROTECT_T01",
     "HeroStatLine": "Shields",
     "HeroTags": [
@@ -44672,7 +44672,7 @@
     "DisplayName": "ED-EE",
     "SubType": "Constructor",
     "CommanderPerk": "MUST.PROTECT \u002B",
-    "CommanderPerkDescription": "Critical hits with Melee Weapon Energy Damage add 66% of current shield to damage.",
+    "CommanderPerkDescription": "Critical hits with Melee Weapon Energy Damage add 66% of current Shield to damage.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_MUSTPROTECT_T02",
     "Description": "\u0022Let\u0027s agree to disagree!\u0022  -ED-EE",
     "HeroAbilities": [
@@ -44681,7 +44681,7 @@
       "Ability:Kit_Constructor_MountedTurret"
     ],
     "HeroPerk": "MUST.PROTECT",
-    "HeroPerkDescription": "Critical hits with Melee Weapon Energy Damage add 22% of current shield to damage.",
+    "HeroPerkDescription": "Critical hits with Melee Weapon Energy Damage add 22% of current Shield to damage.",
     "HeroPerkTemplate": "Ability:Kit_Perk_H_MUSTPROTECT_T01",
     "HeroStatLine": "Shields",
     "HeroTags": [
@@ -44721,7 +44721,7 @@
     "DisplayName": "ED-EE",
     "SubType": "Constructor",
     "CommanderPerk": "MUST.PROTECT \u002B",
-    "CommanderPerkDescription": "Critical hits with Melee Weapon Energy Damage add 66% of current shield to damage.",
+    "CommanderPerkDescription": "Critical hits with Melee Weapon Energy Damage add 66% of current Shield to damage.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_MUSTPROTECT_T02",
     "Description": "\u0022Let\u0027s agree to disagree!\u0022  -ED-EE",
     "HeroAbilities": [
@@ -44730,7 +44730,7 @@
       "Ability:Kit_Constructor_MountedTurret"
     ],
     "HeroPerk": "MUST.PROTECT",
-    "HeroPerkDescription": "Critical hits with Melee Weapon Energy Damage add 22% of current shield to damage.",
+    "HeroPerkDescription": "Critical hits with Melee Weapon Energy Damage add 22% of current Shield to damage.",
     "HeroPerkTemplate": "Ability:Kit_Perk_H_MUSTPROTECT_T01",
     "HeroStatLine": "Shields",
     "HeroTags": [
@@ -44771,7 +44771,7 @@
     "DisplayName": "ED-EE",
     "SubType": "Constructor",
     "CommanderPerk": "MUST.PROTECT \u002B",
-    "CommanderPerkDescription": "Critical hits with Melee Weapon Energy Damage add 66% of current shield to damage.",
+    "CommanderPerkDescription": "Critical hits with Melee Weapon Energy Damage add 66% of current Shield to damage.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_MUSTPROTECT_T02",
     "Description": "\u0022Let\u0027s agree to disagree!\u0022  -ED-EE",
     "HeroAbilities": [
@@ -44780,7 +44780,7 @@
       "Ability:Kit_Constructor_MountedTurret"
     ],
     "HeroPerk": "MUST.PROTECT",
-    "HeroPerkDescription": "Critical hits with Melee Weapon Energy Damage add 22% of current shield to damage.",
+    "HeroPerkDescription": "Critical hits with Melee Weapon Energy Damage add 22% of current Shield to damage.",
     "HeroPerkTemplate": "Ability:Kit_Perk_H_MUSTPROTECT_T01",
     "HeroStatLine": "Shields",
     "HeroTags": [
@@ -44822,7 +44822,7 @@
     "DisplayName": "ED-EE",
     "SubType": "Constructor",
     "CommanderPerk": "MUST.PROTECT \u002B",
-    "CommanderPerkDescription": "Critical hits with Melee Weapon Energy Damage add 66% of current shield to damage.",
+    "CommanderPerkDescription": "Critical hits with Melee Weapon Energy Damage add 66% of current Shield to damage.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_MUSTPROTECT_T02",
     "Description": "\u0022Let\u0027s agree to disagree!\u0022  -ED-EE",
     "HeroAbilities": [
@@ -44831,7 +44831,7 @@
       "Ability:Kit_Constructor_MountedTurret"
     ],
     "HeroPerk": "MUST.PROTECT",
-    "HeroPerkDescription": "Critical hits with Melee Weapon Energy Damage add 22% of current shield to damage.",
+    "HeroPerkDescription": "Critical hits with Melee Weapon Energy Damage add 22% of current Shield to damage.",
     "HeroPerkTemplate": "Ability:Kit_Perk_H_MUSTPROTECT_T01",
     "HeroStatLine": "Shields",
     "HeroTags": [
@@ -44862,7 +44862,7 @@
     "DisplayName": "ED-EE",
     "SubType": "Constructor",
     "CommanderPerk": "MUST.PROTECT \u002B",
-    "CommanderPerkDescription": "Critical hits with Melee Weapon Energy Damage add 66% of current shield to damage.",
+    "CommanderPerkDescription": "Critical hits with Melee Weapon Energy Damage add 66% of current Shield to damage.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_MUSTPROTECT_T02",
     "Description": "\u0022Let\u0027s agree to disagree!\u0022  -ED-EE",
     "HeroAbilities": [
@@ -44871,7 +44871,7 @@
       "Ability:Kit_Constructor_MountedTurret"
     ],
     "HeroPerk": "MUST.PROTECT",
-    "HeroPerkDescription": "Critical hits with Melee Weapon Energy Damage add 22% of current shield to damage.",
+    "HeroPerkDescription": "Critical hits with Melee Weapon Energy Damage add 22% of current Shield to damage.",
     "HeroPerkTemplate": "Ability:Kit_Perk_H_MUSTPROTECT_T01",
     "HeroStatLine": "Shields",
     "HeroTags": [
@@ -44916,7 +44916,7 @@
     "DisplayName": "ED-EE",
     "SubType": "Constructor",
     "CommanderPerk": "MUST.PROTECT \u002B",
-    "CommanderPerkDescription": "Critical hits with Melee Weapon Energy Damage add 66% of current shield to damage.",
+    "CommanderPerkDescription": "Critical hits with Melee Weapon Energy Damage add 66% of current Shield to damage.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_MUSTPROTECT_T02",
     "Description": "\u0022Let\u0027s agree to disagree!\u0022  -ED-EE",
     "HeroAbilities": [
@@ -44925,7 +44925,7 @@
       "Ability:Kit_Constructor_MountedTurret"
     ],
     "HeroPerk": "MUST.PROTECT",
-    "HeroPerkDescription": "Critical hits with Melee Weapon Energy Damage add 22% of current shield to damage.",
+    "HeroPerkDescription": "Critical hits with Melee Weapon Energy Damage add 22% of current Shield to damage.",
     "HeroPerkTemplate": "Ability:Kit_Perk_H_MUSTPROTECT_T01",
     "HeroStatLine": "Shields",
     "HeroTags": [
@@ -44973,7 +44973,7 @@
     "DisplayName": "ED-EE",
     "SubType": "Constructor",
     "CommanderPerk": "MUST.PROTECT \u002B",
-    "CommanderPerkDescription": "Critical hits with Melee Weapon Energy Damage add 66% of current shield to damage.",
+    "CommanderPerkDescription": "Critical hits with Melee Weapon Energy Damage add 66% of current Shield to damage.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_MUSTPROTECT_T02",
     "Description": "\u0022Let\u0027s agree to disagree!\u0022  -ED-EE",
     "HeroAbilities": [
@@ -44982,7 +44982,7 @@
       "Ability:Kit_Constructor_MountedTurret"
     ],
     "HeroPerk": "MUST.PROTECT",
-    "HeroPerkDescription": "Critical hits with Melee Weapon Energy Damage add 22% of current shield to damage.",
+    "HeroPerkDescription": "Critical hits with Melee Weapon Energy Damage add 22% of current Shield to damage.",
     "HeroPerkTemplate": "Ability:Kit_Perk_H_MUSTPROTECT_T01",
     "HeroStatLine": "Shields",
     "HeroTags": [
@@ -45032,7 +45032,7 @@
     "DisplayName": "ED-EE",
     "SubType": "Constructor",
     "CommanderPerk": "MUST.PROTECT \u002B",
-    "CommanderPerkDescription": "Critical hits with Melee Weapon Energy Damage add 66% of current shield to damage.",
+    "CommanderPerkDescription": "Critical hits with Melee Weapon Energy Damage add 66% of current Shield to damage.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_MUSTPROTECT_T02",
     "Description": "\u0022Let\u0027s agree to disagree!\u0022  -ED-EE",
     "HeroAbilities": [
@@ -45041,7 +45041,7 @@
       "Ability:Kit_Constructor_MountedTurret"
     ],
     "HeroPerk": "MUST.PROTECT",
-    "HeroPerkDescription": "Critical hits with Melee Weapon Energy Damage add 22% of current shield to damage.",
+    "HeroPerkDescription": "Critical hits with Melee Weapon Energy Damage add 22% of current Shield to damage.",
     "HeroPerkTemplate": "Ability:Kit_Perk_H_MUSTPROTECT_T01",
     "HeroStatLine": "Shields",
     "HeroTags": [
@@ -45093,7 +45093,7 @@
     "DisplayName": "ED-EE",
     "SubType": "Constructor",
     "CommanderPerk": "MUST.PROTECT \u002B",
-    "CommanderPerkDescription": "Critical hits with Melee Weapon Energy Damage add 66% of current shield to damage.",
+    "CommanderPerkDescription": "Critical hits with Melee Weapon Energy Damage add 66% of current Shield to damage.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_MUSTPROTECT_T02",
     "Description": "\u0022Let\u0027s agree to disagree!\u0022  -ED-EE",
     "HeroAbilities": [
@@ -45102,7 +45102,7 @@
       "Ability:Kit_Constructor_MountedTurret"
     ],
     "HeroPerk": "MUST.PROTECT",
-    "HeroPerkDescription": "Critical hits with Melee Weapon Energy Damage add 22% of current shield to damage.",
+    "HeroPerkDescription": "Critical hits with Melee Weapon Energy Damage add 22% of current Shield to damage.",
     "HeroPerkTemplate": "Ability:Kit_Perk_H_MUSTPROTECT_T01",
     "HeroStatLine": "Shields",
     "HeroTags": [
@@ -46750,7 +46750,7 @@
     "DisplayName": "Gold Knox",
     "SubType": "Constructor",
     "CommanderPerk": "Demo Derby \u002B",
-    "CommanderPerkDescription": "Bull Rush drops a mine for every 0.5 tile traveled. Each mine deals 275 base physical damage in a 0.5 tile radius when triggered.",
+    "CommanderPerkDescription": "Bull Rush drops a mine for every 0.5 tiles traveled. Each mine deals 275 base Physical Damage in a 0.5 tiles radius when triggered.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_DemoDerby_T02",
     "Description": "\u0022This time, I\u0027m in charge.\u0022 - Gold Knox",
     "HeroAbilities": [
@@ -46759,7 +46759,7 @@
       "Ability:Kit_Constructor_Decoy"
     ],
     "HeroPerk": "Demo Derby",
-    "HeroPerkDescription": "Bull Rush drops a mine for every 1 tile traveled. Each mine deals 110 base physical damage in a 0.5 tile radius when triggered.",
+    "HeroPerkDescription": "Bull Rush drops a mine for every 1 tiles traveled. Each mine deals 110 base Physical Damage in a 0.5 tiles radius when triggered.",
     "HeroPerkRequirement": {
       "CommanderTag": [
         "Granted.Ability.Constructor.BullRush"
@@ -46803,7 +46803,7 @@
     "DisplayName": "Gold Knox",
     "SubType": "Constructor",
     "CommanderPerk": "Demo Derby \u002B",
-    "CommanderPerkDescription": "Bull Rush drops a mine for every 0.5 tile traveled. Each mine deals 275 base physical damage in a 0.5 tile radius when triggered.",
+    "CommanderPerkDescription": "Bull Rush drops a mine for every 0.5 tiles traveled. Each mine deals 275 base Physical Damage in a 0.5 tiles radius when triggered.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_DemoDerby_T02",
     "Description": "\u0022This time, I\u0027m in charge.\u0022 - Gold Knox",
     "HeroAbilities": [
@@ -46812,7 +46812,7 @@
       "Ability:Kit_Constructor_Decoy"
     ],
     "HeroPerk": "Demo Derby",
-    "HeroPerkDescription": "Bull Rush drops a mine for every 1 tile traveled. Each mine deals 110 base physical damage in a 0.5 tile radius when triggered.",
+    "HeroPerkDescription": "Bull Rush drops a mine for every 1 tiles traveled. Each mine deals 110 base Physical Damage in a 0.5 tiles radius when triggered.",
     "HeroPerkRequirement": {
       "CommanderTag": [
         "Granted.Ability.Constructor.BullRush"
@@ -46857,7 +46857,7 @@
     "DisplayName": "Gold Knox",
     "SubType": "Constructor",
     "CommanderPerk": "Demo Derby \u002B",
-    "CommanderPerkDescription": "Bull Rush drops a mine for every 0.5 tile traveled. Each mine deals 275 base physical damage in a 0.5 tile radius when triggered.",
+    "CommanderPerkDescription": "Bull Rush drops a mine for every 0.5 tiles traveled. Each mine deals 275 base Physical Damage in a 0.5 tiles radius when triggered.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_DemoDerby_T02",
     "Description": "\u0022This time, I\u0027m in charge.\u0022 - Gold Knox",
     "HeroAbilities": [
@@ -46866,7 +46866,7 @@
       "Ability:Kit_Constructor_Decoy"
     ],
     "HeroPerk": "Demo Derby",
-    "HeroPerkDescription": "Bull Rush drops a mine for every 1 tile traveled. Each mine deals 110 base physical damage in a 0.5 tile radius when triggered.",
+    "HeroPerkDescription": "Bull Rush drops a mine for every 1 tiles traveled. Each mine deals 110 base Physical Damage in a 0.5 tiles radius when triggered.",
     "HeroPerkRequirement": {
       "CommanderTag": [
         "Granted.Ability.Constructor.BullRush"
@@ -46912,7 +46912,7 @@
     "DisplayName": "Gold Knox",
     "SubType": "Constructor",
     "CommanderPerk": "Demo Derby \u002B",
-    "CommanderPerkDescription": "Bull Rush drops a mine for every 0.5 tile traveled. Each mine deals 275 base physical damage in a 0.5 tile radius when triggered.",
+    "CommanderPerkDescription": "Bull Rush drops a mine for every 0.5 tiles traveled. Each mine deals 275 base Physical Damage in a 0.5 tiles radius when triggered.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_DemoDerby_T02",
     "Description": "\u0022This time, I\u0027m in charge.\u0022 - Gold Knox",
     "HeroAbilities": [
@@ -46921,7 +46921,7 @@
       "Ability:Kit_Constructor_Decoy"
     ],
     "HeroPerk": "Demo Derby",
-    "HeroPerkDescription": "Bull Rush drops a mine for every 1 tile traveled. Each mine deals 110 base physical damage in a 0.5 tile radius when triggered.",
+    "HeroPerkDescription": "Bull Rush drops a mine for every 1 tiles traveled. Each mine deals 110 base Physical Damage in a 0.5 tiles radius when triggered.",
     "HeroPerkRequirement": {
       "CommanderTag": [
         "Granted.Ability.Constructor.BullRush"
@@ -46968,7 +46968,7 @@
     "DisplayName": "Gold Knox",
     "SubType": "Constructor",
     "CommanderPerk": "Demo Derby \u002B",
-    "CommanderPerkDescription": "Bull Rush drops a mine for every 0.5 tile traveled. Each mine deals 275 base physical damage in a 0.5 tile radius when triggered.",
+    "CommanderPerkDescription": "Bull Rush drops a mine for every 0.5 tiles traveled. Each mine deals 275 base Physical Damage in a 0.5 tiles radius when triggered.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_DemoDerby_T02",
     "Description": "\u0022This time, I\u0027m in charge.\u0022 - Gold Knox",
     "HeroAbilities": [
@@ -46977,7 +46977,7 @@
       "Ability:Kit_Constructor_Decoy"
     ],
     "HeroPerk": "Demo Derby",
-    "HeroPerkDescription": "Bull Rush drops a mine for every 1 tile traveled. Each mine deals 110 base physical damage in a 0.5 tile radius when triggered.",
+    "HeroPerkDescription": "Bull Rush drops a mine for every 1 tiles traveled. Each mine deals 110 base Physical Damage in a 0.5 tiles radius when triggered.",
     "HeroPerkRequirement": {
       "CommanderTag": [
         "Granted.Ability.Constructor.BullRush"
@@ -47013,7 +47013,7 @@
     "DisplayName": "Gold Knox",
     "SubType": "Constructor",
     "CommanderPerk": "Demo Derby \u002B",
-    "CommanderPerkDescription": "Bull Rush drops a mine for every 0.5 tile traveled. Each mine deals 275 base physical damage in a 0.5 tile radius when triggered.",
+    "CommanderPerkDescription": "Bull Rush drops a mine for every 0.5 tiles traveled. Each mine deals 275 base Physical Damage in a 0.5 tiles radius when triggered.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_DemoDerby_T02",
     "Description": "\u0022This time, I\u0027m in charge.\u0022 - Gold Knox",
     "HeroAbilities": [
@@ -47022,7 +47022,7 @@
       "Ability:Kit_Constructor_Decoy"
     ],
     "HeroPerk": "Demo Derby",
-    "HeroPerkDescription": "Bull Rush drops a mine for every 1 tile traveled. Each mine deals 110 base physical damage in a 0.5 tile radius when triggered.",
+    "HeroPerkDescription": "Bull Rush drops a mine for every 1 tiles traveled. Each mine deals 110 base Physical Damage in a 0.5 tiles radius when triggered.",
     "HeroPerkRequirement": {
       "CommanderTag": [
         "Granted.Ability.Constructor.BullRush"
@@ -47072,7 +47072,7 @@
     "DisplayName": "Gold Knox",
     "SubType": "Constructor",
     "CommanderPerk": "Demo Derby \u002B",
-    "CommanderPerkDescription": "Bull Rush drops a mine for every 0.5 tile traveled. Each mine deals 275 base physical damage in a 0.5 tile radius when triggered.",
+    "CommanderPerkDescription": "Bull Rush drops a mine for every 0.5 tiles traveled. Each mine deals 275 base Physical Damage in a 0.5 tiles radius when triggered.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_DemoDerby_T02",
     "Description": "\u0022This time, I\u0027m in charge.\u0022 - Gold Knox",
     "HeroAbilities": [
@@ -47081,7 +47081,7 @@
       "Ability:Kit_Constructor_Decoy"
     ],
     "HeroPerk": "Demo Derby",
-    "HeroPerkDescription": "Bull Rush drops a mine for every 1 tile traveled. Each mine deals 110 base physical damage in a 0.5 tile radius when triggered.",
+    "HeroPerkDescription": "Bull Rush drops a mine for every 1 tiles traveled. Each mine deals 110 base Physical Damage in a 0.5 tiles radius when triggered.",
     "HeroPerkRequirement": {
       "CommanderTag": [
         "Granted.Ability.Constructor.BullRush"
@@ -47134,7 +47134,7 @@
     "DisplayName": "Gold Knox",
     "SubType": "Constructor",
     "CommanderPerk": "Demo Derby \u002B",
-    "CommanderPerkDescription": "Bull Rush drops a mine for every 0.5 tile traveled. Each mine deals 275 base physical damage in a 0.5 tile radius when triggered.",
+    "CommanderPerkDescription": "Bull Rush drops a mine for every 0.5 tiles traveled. Each mine deals 275 base Physical Damage in a 0.5 tiles radius when triggered.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_DemoDerby_T02",
     "Description": "\u0022This time, I\u0027m in charge.\u0022 - Gold Knox",
     "HeroAbilities": [
@@ -47143,7 +47143,7 @@
       "Ability:Kit_Constructor_Decoy"
     ],
     "HeroPerk": "Demo Derby",
-    "HeroPerkDescription": "Bull Rush drops a mine for every 1 tile traveled. Each mine deals 110 base physical damage in a 0.5 tile radius when triggered.",
+    "HeroPerkDescription": "Bull Rush drops a mine for every 1 tiles traveled. Each mine deals 110 base Physical Damage in a 0.5 tiles radius when triggered.",
     "HeroPerkRequirement": {
       "CommanderTag": [
         "Granted.Ability.Constructor.BullRush"
@@ -47198,7 +47198,7 @@
     "DisplayName": "Gold Knox",
     "SubType": "Constructor",
     "CommanderPerk": "Demo Derby \u002B",
-    "CommanderPerkDescription": "Bull Rush drops a mine for every 0.5 tile traveled. Each mine deals 275 base physical damage in a 0.5 tile radius when triggered.",
+    "CommanderPerkDescription": "Bull Rush drops a mine for every 0.5 tiles traveled. Each mine deals 275 base Physical Damage in a 0.5 tiles radius when triggered.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_DemoDerby_T02",
     "Description": "\u0022This time, I\u0027m in charge.\u0022 - Gold Knox",
     "HeroAbilities": [
@@ -47207,7 +47207,7 @@
       "Ability:Kit_Constructor_Decoy"
     ],
     "HeroPerk": "Demo Derby",
-    "HeroPerkDescription": "Bull Rush drops a mine for every 1 tile traveled. Each mine deals 110 base physical damage in a 0.5 tile radius when triggered.",
+    "HeroPerkDescription": "Bull Rush drops a mine for every 1 tiles traveled. Each mine deals 110 base Physical Damage in a 0.5 tiles radius when triggered.",
     "HeroPerkRequirement": {
       "CommanderTag": [
         "Granted.Ability.Constructor.BullRush"
@@ -47264,7 +47264,7 @@
     "DisplayName": "Gold Knox",
     "SubType": "Constructor",
     "CommanderPerk": "Demo Derby \u002B",
-    "CommanderPerkDescription": "Bull Rush drops a mine for every 0.5 tile traveled. Each mine deals 275 base physical damage in a 0.5 tile radius when triggered.",
+    "CommanderPerkDescription": "Bull Rush drops a mine for every 0.5 tiles traveled. Each mine deals 275 base Physical Damage in a 0.5 tiles radius when triggered.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_DemoDerby_T02",
     "Description": "\u0022This time, I\u0027m in charge.\u0022 - Gold Knox",
     "HeroAbilities": [
@@ -47273,7 +47273,7 @@
       "Ability:Kit_Constructor_Decoy"
     ],
     "HeroPerk": "Demo Derby",
-    "HeroPerkDescription": "Bull Rush drops a mine for every 1 tile traveled. Each mine deals 110 base physical damage in a 0.5 tile radius when triggered.",
+    "HeroPerkDescription": "Bull Rush drops a mine for every 1 tiles traveled. Each mine deals 110 base Physical Damage in a 0.5 tiles radius when triggered.",
     "HeroPerkRequirement": {
       "CommanderTag": [
         "Granted.Ability.Constructor.BullRush"
@@ -51398,7 +51398,7 @@
     "DisplayName": "Hotwire",
     "SubType": "Constructor",
     "CommanderPerk": "Overcharge",
-    "CommanderPerkDescription": "While in Goin\u0027 Constructor, each hammer strike causes chain lightning, dealing 120 base Nature Damage to up to  3 nearby targets. Raising your shield for 2 seconds overcharges your next swing, causing each struck enemy to chain 120 base Energy Damage to up to 8 nearby targets.",
+    "CommanderPerkDescription": "While in Goin\u0027 Constructor, each hammer strike causes chain lightning, dealing 120 base Nature Damage to up to 3 nearby targets. Raising your shield for 2 seconds overcharges your next swing, causing each struck enemy to chain 120 base Energy Damage to up to 8 nearby targets.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_Overcharge_T02",
     "Description": "Get amped.",
     "HeroAbilities": [
@@ -51407,7 +51407,7 @@
       "Ability:Kit_Constructor_PlasmaPulse"
     ],
     "HeroPerk": "Overcharge",
-    "HeroPerkDescription": "While in Goin\u0027 Constructor, each hammer strike causes chain lightning, dealing 120 base Nature Damage to up to  3 nearby targets. ",
+    "HeroPerkDescription": "While in Goin\u0027 Constructor, each hammer strike causes chain lightning, dealing 120 base Nature Damage to up to 3 nearby targets. ",
     "HeroPerkRequirement": {
       "CommanderTag": [
         "Granted.Ability.Constructor.GoinConstructor"
@@ -51451,7 +51451,7 @@
     "DisplayName": "Hotwire",
     "SubType": "Constructor",
     "CommanderPerk": "Overcharge",
-    "CommanderPerkDescription": "While in Goin\u0027 Constructor, each hammer strike causes chain lightning, dealing 120 base Nature Damage to up to  3 nearby targets. Raising your shield for 2 seconds overcharges your next swing, causing each struck enemy to chain 120 base Energy Damage to up to 8 nearby targets.",
+    "CommanderPerkDescription": "While in Goin\u0027 Constructor, each hammer strike causes chain lightning, dealing 120 base Nature Damage to up to 3 nearby targets. Raising your shield for 2 seconds overcharges your next swing, causing each struck enemy to chain 120 base Energy Damage to up to 8 nearby targets.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_Overcharge_T02",
     "Description": "Get amped.",
     "HeroAbilities": [
@@ -51460,7 +51460,7 @@
       "Ability:Kit_Constructor_PlasmaPulse"
     ],
     "HeroPerk": "Overcharge",
-    "HeroPerkDescription": "While in Goin\u0027 Constructor, each hammer strike causes chain lightning, dealing 120 base Nature Damage to up to  3 nearby targets. ",
+    "HeroPerkDescription": "While in Goin\u0027 Constructor, each hammer strike causes chain lightning, dealing 120 base Nature Damage to up to 3 nearby targets. ",
     "HeroPerkRequirement": {
       "CommanderTag": [
         "Granted.Ability.Constructor.GoinConstructor"
@@ -51505,7 +51505,7 @@
     "DisplayName": "Hotwire",
     "SubType": "Constructor",
     "CommanderPerk": "Overcharge",
-    "CommanderPerkDescription": "While in Goin\u0027 Constructor, each hammer strike causes chain lightning, dealing 120 base Nature Damage to up to  3 nearby targets. Raising your shield for 2 seconds overcharges your next swing, causing each struck enemy to chain 120 base Energy Damage to up to 8 nearby targets.",
+    "CommanderPerkDescription": "While in Goin\u0027 Constructor, each hammer strike causes chain lightning, dealing 120 base Nature Damage to up to 3 nearby targets. Raising your shield for 2 seconds overcharges your next swing, causing each struck enemy to chain 120 base Energy Damage to up to 8 nearby targets.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_Overcharge_T02",
     "Description": "Get amped.",
     "HeroAbilities": [
@@ -51514,7 +51514,7 @@
       "Ability:Kit_Constructor_PlasmaPulse"
     ],
     "HeroPerk": "Overcharge",
-    "HeroPerkDescription": "While in Goin\u0027 Constructor, each hammer strike causes chain lightning, dealing 120 base Nature Damage to up to  3 nearby targets. ",
+    "HeroPerkDescription": "While in Goin\u0027 Constructor, each hammer strike causes chain lightning, dealing 120 base Nature Damage to up to 3 nearby targets. ",
     "HeroPerkRequirement": {
       "CommanderTag": [
         "Granted.Ability.Constructor.GoinConstructor"
@@ -51560,7 +51560,7 @@
     "DisplayName": "Hotwire",
     "SubType": "Constructor",
     "CommanderPerk": "Overcharge",
-    "CommanderPerkDescription": "While in Goin\u0027 Constructor, each hammer strike causes chain lightning, dealing 120 base Nature Damage to up to  3 nearby targets. Raising your shield for 2 seconds overcharges your next swing, causing each struck enemy to chain 120 base Energy Damage to up to 8 nearby targets.",
+    "CommanderPerkDescription": "While in Goin\u0027 Constructor, each hammer strike causes chain lightning, dealing 120 base Nature Damage to up to 3 nearby targets. Raising your shield for 2 seconds overcharges your next swing, causing each struck enemy to chain 120 base Energy Damage to up to 8 nearby targets.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_Overcharge_T02",
     "Description": "Get amped.",
     "HeroAbilities": [
@@ -51569,7 +51569,7 @@
       "Ability:Kit_Constructor_PlasmaPulse"
     ],
     "HeroPerk": "Overcharge",
-    "HeroPerkDescription": "While in Goin\u0027 Constructor, each hammer strike causes chain lightning, dealing 120 base Nature Damage to up to  3 nearby targets. ",
+    "HeroPerkDescription": "While in Goin\u0027 Constructor, each hammer strike causes chain lightning, dealing 120 base Nature Damage to up to 3 nearby targets. ",
     "HeroPerkRequirement": {
       "CommanderTag": [
         "Granted.Ability.Constructor.GoinConstructor"
@@ -51616,7 +51616,7 @@
     "DisplayName": "Hotwire",
     "SubType": "Constructor",
     "CommanderPerk": "Overcharge",
-    "CommanderPerkDescription": "While in Goin\u0027 Constructor, each hammer strike causes chain lightning, dealing 120 base Nature Damage to up to  3 nearby targets. Raising your shield for 2 seconds overcharges your next swing, causing each struck enemy to chain 120 base Energy Damage to up to 8 nearby targets.",
+    "CommanderPerkDescription": "While in Goin\u0027 Constructor, each hammer strike causes chain lightning, dealing 120 base Nature Damage to up to 3 nearby targets. Raising your shield for 2 seconds overcharges your next swing, causing each struck enemy to chain 120 base Energy Damage to up to 8 nearby targets.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_Overcharge_T02",
     "Description": "Get amped.",
     "HeroAbilities": [
@@ -51625,7 +51625,7 @@
       "Ability:Kit_Constructor_PlasmaPulse"
     ],
     "HeroPerk": "Overcharge",
-    "HeroPerkDescription": "While in Goin\u0027 Constructor, each hammer strike causes chain lightning, dealing 120 base Nature Damage to up to  3 nearby targets. ",
+    "HeroPerkDescription": "While in Goin\u0027 Constructor, each hammer strike causes chain lightning, dealing 120 base Nature Damage to up to 3 nearby targets. ",
     "HeroPerkRequirement": {
       "CommanderTag": [
         "Granted.Ability.Constructor.GoinConstructor"
@@ -51661,7 +51661,7 @@
     "DisplayName": "Brainstorm",
     "SubType": "Constructor",
     "CommanderPerk": "Brain Freeze \u002B",
-    "CommanderPerkDescription": "When D.E.C.O.Y. is destroyed it explodes in a frigid blast that freezes all enemies in a 1 tile radius for 3 seconds. Additionally, anytime a frozen enemy is eliminated there is a 70% chance to summon a Phantasm (targets a nearby enemy, dealing 62 base  Energy damage in a 0.5 tile radius, 1.5 second cooldown).",
+    "CommanderPerkDescription": "When D.E.C.O.Y. is destroyed it explodes in a frigid blast that Freezes all enemies in a 1 tile radius for 3 seconds. Additionally, anytime a Frozen enemy is eliminated there is a 70% chance to summon a Phantasm (targets a nearby enemy, dealing 62 base Energy Damage in a 0.5 tile radius, 1.5 second cooldown).",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_BrainFreeze_T02",
     "Description": "\u201CAre my chunks invited?\u201D - Brainstorm",
     "HeroAbilities": [
@@ -51670,7 +51670,7 @@
       "Ability:Kit_Constructor_MountedTurret"
     ],
     "HeroPerk": "Brain Freeze",
-    "HeroPerkDescription": "When D.E.C.O.Y. is destroyed it explodes in a frigid blast that freezes all enemies in a 1 tile radius for 3 seconds.",
+    "HeroPerkDescription": "When D.E.C.O.Y. is destroyed it explodes in a frigid blast that Freezes all enemies in a 1 tile radius for 3 seconds.",
     "HeroPerkRequirement": {
       "CommanderTag": [
         "Granted.Ability.Constructor.Decoy"
@@ -51715,7 +51715,7 @@
     "DisplayName": "Brainstorm",
     "SubType": "Constructor",
     "CommanderPerk": "Brain Freeze \u002B",
-    "CommanderPerkDescription": "When D.E.C.O.Y. is destroyed it explodes in a frigid blast that freezes all enemies in a 1 tile radius for 3 seconds. Additionally, anytime a frozen enemy is eliminated there is a 70% chance to summon a Phantasm (targets a nearby enemy, dealing 62 base  Energy damage in a 0.5 tile radius, 1.5 second cooldown).",
+    "CommanderPerkDescription": "When D.E.C.O.Y. is destroyed it explodes in a frigid blast that Freezes all enemies in a 1 tile radius for 3 seconds. Additionally, anytime a Frozen enemy is eliminated there is a 70% chance to summon a Phantasm (targets a nearby enemy, dealing 62 base Energy Damage in a 0.5 tile radius, 1.5 second cooldown).",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_BrainFreeze_T02",
     "Description": "\u201CAre my chunks invited?\u201D - Brainstorm",
     "HeroAbilities": [
@@ -51724,7 +51724,7 @@
       "Ability:Kit_Constructor_MountedTurret"
     ],
     "HeroPerk": "Brain Freeze",
-    "HeroPerkDescription": "When D.E.C.O.Y. is destroyed it explodes in a frigid blast that freezes all enemies in a 1 tile radius for 3 seconds.",
+    "HeroPerkDescription": "When D.E.C.O.Y. is destroyed it explodes in a frigid blast that Freezes all enemies in a 1 tile radius for 3 seconds.",
     "HeroPerkRequirement": {
       "CommanderTag": [
         "Granted.Ability.Constructor.Decoy"
@@ -51770,7 +51770,7 @@
     "DisplayName": "Brainstorm",
     "SubType": "Constructor",
     "CommanderPerk": "Brain Freeze \u002B",
-    "CommanderPerkDescription": "When D.E.C.O.Y. is destroyed it explodes in a frigid blast that freezes all enemies in a 1 tile radius for 3 seconds. Additionally, anytime a frozen enemy is eliminated there is a 70% chance to summon a Phantasm (targets a nearby enemy, dealing 62 base  Energy damage in a 0.5 tile radius, 1.5 second cooldown).",
+    "CommanderPerkDescription": "When D.E.C.O.Y. is destroyed it explodes in a frigid blast that Freezes all enemies in a 1 tile radius for 3 seconds. Additionally, anytime a Frozen enemy is eliminated there is a 70% chance to summon a Phantasm (targets a nearby enemy, dealing 62 base Energy Damage in a 0.5 tile radius, 1.5 second cooldown).",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_BrainFreeze_T02",
     "Description": "\u201CAre my chunks invited?\u201D - Brainstorm",
     "HeroAbilities": [
@@ -51779,7 +51779,7 @@
       "Ability:Kit_Constructor_MountedTurret"
     ],
     "HeroPerk": "Brain Freeze",
-    "HeroPerkDescription": "When D.E.C.O.Y. is destroyed it explodes in a frigid blast that freezes all enemies in a 1 tile radius for 3 seconds.",
+    "HeroPerkDescription": "When D.E.C.O.Y. is destroyed it explodes in a frigid blast that Freezes all enemies in a 1 tile radius for 3 seconds.",
     "HeroPerkRequirement": {
       "CommanderTag": [
         "Granted.Ability.Constructor.Decoy"
@@ -51826,7 +51826,7 @@
     "DisplayName": "Brainstorm",
     "SubType": "Constructor",
     "CommanderPerk": "Brain Freeze \u002B",
-    "CommanderPerkDescription": "When D.E.C.O.Y. is destroyed it explodes in a frigid blast that freezes all enemies in a 1 tile radius for 3 seconds. Additionally, anytime a frozen enemy is eliminated there is a 70% chance to summon a Phantasm (targets a nearby enemy, dealing 62 base  Energy damage in a 0.5 tile radius, 1.5 second cooldown).",
+    "CommanderPerkDescription": "When D.E.C.O.Y. is destroyed it explodes in a frigid blast that Freezes all enemies in a 1 tile radius for 3 seconds. Additionally, anytime a Frozen enemy is eliminated there is a 70% chance to summon a Phantasm (targets a nearby enemy, dealing 62 base Energy Damage in a 0.5 tile radius, 1.5 second cooldown).",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_BrainFreeze_T02",
     "Description": "\u201CAre my chunks invited?\u201D - Brainstorm",
     "HeroAbilities": [
@@ -51835,7 +51835,7 @@
       "Ability:Kit_Constructor_MountedTurret"
     ],
     "HeroPerk": "Brain Freeze",
-    "HeroPerkDescription": "When D.E.C.O.Y. is destroyed it explodes in a frigid blast that freezes all enemies in a 1 tile radius for 3 seconds.",
+    "HeroPerkDescription": "When D.E.C.O.Y. is destroyed it explodes in a frigid blast that Freezes all enemies in a 1 tile radius for 3 seconds.",
     "HeroPerkRequirement": {
       "CommanderTag": [
         "Granted.Ability.Constructor.Decoy"
@@ -51883,7 +51883,7 @@
     "DisplayName": "Brainstorm",
     "SubType": "Constructor",
     "CommanderPerk": "Brain Freeze \u002B",
-    "CommanderPerkDescription": "When D.E.C.O.Y. is destroyed it explodes in a frigid blast that freezes all enemies in a 1 tile radius for 3 seconds. Additionally, anytime a frozen enemy is eliminated there is a 70% chance to summon a Phantasm (targets a nearby enemy, dealing 62 base  Energy damage in a 0.5 tile radius, 1.5 second cooldown).",
+    "CommanderPerkDescription": "When D.E.C.O.Y. is destroyed it explodes in a frigid blast that Freezes all enemies in a 1 tile radius for 3 seconds. Additionally, anytime a Frozen enemy is eliminated there is a 70% chance to summon a Phantasm (targets a nearby enemy, dealing 62 base Energy Damage in a 0.5 tile radius, 1.5 second cooldown).",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_BrainFreeze_T02",
     "Description": "\u201CAre my chunks invited?\u201D - Brainstorm",
     "HeroAbilities": [
@@ -51892,7 +51892,7 @@
       "Ability:Kit_Constructor_MountedTurret"
     ],
     "HeroPerk": "Brain Freeze",
-    "HeroPerkDescription": "When D.E.C.O.Y. is destroyed it explodes in a frigid blast that freezes all enemies in a 1 tile radius for 3 seconds.",
+    "HeroPerkDescription": "When D.E.C.O.Y. is destroyed it explodes in a frigid blast that Freezes all enemies in a 1 tile radius for 3 seconds.",
     "HeroPerkRequirement": {
       "CommanderTag": [
         "Granted.Ability.Constructor.Decoy"
@@ -51931,7 +51931,7 @@
     "CommanderPerk": "Mega BASE \u002B",
     "CommanderPerkDescription": "Increases B.A.S.E. connectivity range by 3.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_MegaBASE_T02",
-    "Description": "\u0022Only the biggest of BASEs.\u0022 - Kyle",
+    "Description": "\u0022Only the biggest of B.A.S.E.s.\u0022 - Kyle",
     "HeroAbilities": [
       "Ability:Kit_Constructor_PlasmaPulse",
       "Ability:Kit_Constructor_MountedTurret",
@@ -51983,7 +51983,7 @@
     "CommanderPerk": "Mega BASE \u002B",
     "CommanderPerkDescription": "Increases B.A.S.E. connectivity range by 3.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_MegaBASE_T02",
-    "Description": "\u0022Only the biggest of BASEs.\u0022 - Kyle",
+    "Description": "\u0022Only the biggest of B.A.S.E.s.\u0022 - Kyle",
     "HeroAbilities": [
       "Ability:Kit_Constructor_PlasmaPulse",
       "Ability:Kit_Constructor_MountedTurret",
@@ -52036,7 +52036,7 @@
     "CommanderPerk": "Mega BASE \u002B",
     "CommanderPerkDescription": "Increases B.A.S.E. connectivity range by 3.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_MegaBASE_T02",
-    "Description": "\u0022Only the biggest of BASEs.\u0022 - Kyle",
+    "Description": "\u0022Only the biggest of B.A.S.E.s.\u0022 - Kyle",
     "HeroAbilities": [
       "Ability:Kit_Constructor_PlasmaPulse",
       "Ability:Kit_Constructor_MountedTurret",
@@ -52090,7 +52090,7 @@
     "CommanderPerk": "Mega BASE \u002B",
     "CommanderPerkDescription": "Increases B.A.S.E. connectivity range by 3.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_MegaBASE_T02",
-    "Description": "\u0022Only the biggest of BASEs.\u0022 - Kyle",
+    "Description": "\u0022Only the biggest of B.A.S.E.s.\u0022 - Kyle",
     "HeroAbilities": [
       "Ability:Kit_Constructor_PlasmaPulse",
       "Ability:Kit_Constructor_MountedTurret",
@@ -52145,7 +52145,7 @@
     "CommanderPerk": "Mega BASE \u002B",
     "CommanderPerkDescription": "Increases B.A.S.E. connectivity range by 3.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_MegaBASE_T02",
-    "Description": "\u0022Only the biggest of BASEs.\u0022 - Kyle",
+    "Description": "\u0022Only the biggest of B.A.S.E.s.\u0022 - Kyle",
     "HeroAbilities": [
       "Ability:Kit_Constructor_PlasmaPulse",
       "Ability:Kit_Constructor_MountedTurret",
@@ -62228,7 +62228,7 @@
     "DisplayName": "Deadly Blade Crash",
     "SubType": "Ninja",
     "CommanderPerk": "Corrosive Strikes \u002B",
-    "CommanderPerkDescription": "Melee critical hits apply 30% Snare and Affliction which deals 87% of Damage dealt each second for 3 seconds.",
+    "CommanderPerkDescription": "Melee critical hits apply 30% Snare and Affliction which deals 87% of Damage dealt per second for 3 seconds.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_CorrosiveStrikes_T02",
     "Description": "\u0022Just one cut.\u0022 - Crash",
     "HeroAbilities": [
@@ -62237,7 +62237,7 @@
       "Ability:Kit_Ninja_DragonSlash"
     ],
     "HeroPerk": "Corrosive Strikes",
-    "HeroPerkDescription": "Melee critical hits apply 30% Snare and Affliction which deals 37% of Damage dealt each second for 3 seconds.",
+    "HeroPerkDescription": "Melee critical hits apply 30% Snare and Affliction which deals 37% of Damage dealt per second for 3 seconds.",
     "HeroPerkTemplate": "Ability:Kit_Perk_H_CorrosiveStrikes_T01",
     "HeroStatLine": "Balanced",
     "HeroTags": [
@@ -62275,7 +62275,7 @@
     "DisplayName": "Deadly Blade Crash",
     "SubType": "Ninja",
     "CommanderPerk": "Corrosive Strikes \u002B",
-    "CommanderPerkDescription": "Melee critical hits apply 30% Snare and Affliction which deals 87% of Damage dealt each second for 3 seconds.",
+    "CommanderPerkDescription": "Melee critical hits apply 30% Snare and Affliction which deals 87% of Damage dealt per second for 3 seconds.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_CorrosiveStrikes_T02",
     "Description": "\u0022Just one cut.\u0022 - Crash",
     "HeroAbilities": [
@@ -62284,7 +62284,7 @@
       "Ability:Kit_Ninja_DragonSlash"
     ],
     "HeroPerk": "Corrosive Strikes",
-    "HeroPerkDescription": "Melee critical hits apply 30% Snare and Affliction which deals 37% of Damage dealt each second for 3 seconds.",
+    "HeroPerkDescription": "Melee critical hits apply 30% Snare and Affliction which deals 37% of Damage dealt per second for 3 seconds.",
     "HeroPerkTemplate": "Ability:Kit_Perk_H_CorrosiveStrikes_T01",
     "HeroStatLine": "Balanced",
     "HeroTags": [
@@ -62323,7 +62323,7 @@
     "DisplayName": "Deadly Blade Crash",
     "SubType": "Ninja",
     "CommanderPerk": "Corrosive Strikes \u002B",
-    "CommanderPerkDescription": "Melee critical hits apply 30% Snare and Affliction which deals 87% of Damage dealt each second for 3 seconds.",
+    "CommanderPerkDescription": "Melee critical hits apply 30% Snare and Affliction which deals 87% of Damage dealt per second for 3 seconds.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_CorrosiveStrikes_T02",
     "Description": "\u0022Just one cut.\u0022 - Crash",
     "HeroAbilities": [
@@ -62332,7 +62332,7 @@
       "Ability:Kit_Ninja_DragonSlash"
     ],
     "HeroPerk": "Corrosive Strikes",
-    "HeroPerkDescription": "Melee critical hits apply 30% Snare and Affliction which deals 37% of Damage dealt each second for 3 seconds.",
+    "HeroPerkDescription": "Melee critical hits apply 30% Snare and Affliction which deals 37% of Damage dealt per second for 3 seconds.",
     "HeroPerkTemplate": "Ability:Kit_Perk_H_CorrosiveStrikes_T01",
     "HeroStatLine": "Balanced",
     "HeroTags": [
@@ -62372,7 +62372,7 @@
     "DisplayName": "Deadly Blade Crash",
     "SubType": "Ninja",
     "CommanderPerk": "Corrosive Strikes \u002B",
-    "CommanderPerkDescription": "Melee critical hits apply 30% Snare and Affliction which deals 87% of Damage dealt each second for 3 seconds.",
+    "CommanderPerkDescription": "Melee critical hits apply 30% Snare and Affliction which deals 87% of Damage dealt per second for 3 seconds.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_CorrosiveStrikes_T02",
     "Description": "\u0022Just one cut.\u0022 - Crash",
     "HeroAbilities": [
@@ -62381,7 +62381,7 @@
       "Ability:Kit_Ninja_DragonSlash"
     ],
     "HeroPerk": "Corrosive Strikes",
-    "HeroPerkDescription": "Melee critical hits apply 30% Snare and Affliction which deals 37% of Damage dealt each second for 3 seconds.",
+    "HeroPerkDescription": "Melee critical hits apply 30% Snare and Affliction which deals 37% of Damage dealt per second for 3 seconds.",
     "HeroPerkTemplate": "Ability:Kit_Perk_H_CorrosiveStrikes_T01",
     "HeroStatLine": "Balanced",
     "HeroTags": [
@@ -62422,7 +62422,7 @@
     "DisplayName": "Deadly Blade Crash",
     "SubType": "Ninja",
     "CommanderPerk": "Corrosive Strikes \u002B",
-    "CommanderPerkDescription": "Melee critical hits apply 30% Snare and Affliction which deals 87% of Damage dealt each second for 3 seconds.",
+    "CommanderPerkDescription": "Melee critical hits apply 30% Snare and Affliction which deals 87% of Damage dealt per second for 3 seconds.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_CorrosiveStrikes_T02",
     "Description": "\u0022Just one cut.\u0022 - Crash",
     "HeroAbilities": [
@@ -62431,7 +62431,7 @@
       "Ability:Kit_Ninja_DragonSlash"
     ],
     "HeroPerk": "Corrosive Strikes",
-    "HeroPerkDescription": "Melee critical hits apply 30% Snare and Affliction which deals 37% of Damage dealt each second for 3 seconds.",
+    "HeroPerkDescription": "Melee critical hits apply 30% Snare and Affliction which deals 37% of Damage dealt per second for 3 seconds.",
     "HeroPerkTemplate": "Ability:Kit_Perk_H_CorrosiveStrikes_T01",
     "HeroStatLine": "Balanced",
     "HeroTags": [
@@ -62461,7 +62461,7 @@
     "DisplayName": "Deadly Blade Crash",
     "SubType": "Ninja",
     "CommanderPerk": "Corrosive Strikes \u002B",
-    "CommanderPerkDescription": "Melee critical hits apply 30% Snare and Affliction which deals 87% of Damage dealt each second for 3 seconds.",
+    "CommanderPerkDescription": "Melee critical hits apply 30% Snare and Affliction which deals 87% of Damage dealt per second for 3 seconds.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_CorrosiveStrikes_T02",
     "Description": "\u0022Just one cut.\u0022 - Crash",
     "HeroAbilities": [
@@ -62470,7 +62470,7 @@
       "Ability:Kit_Ninja_DragonSlash"
     ],
     "HeroPerk": "Corrosive Strikes",
-    "HeroPerkDescription": "Melee critical hits apply 30% Snare and Affliction which deals 37% of Damage dealt each second for 3 seconds.",
+    "HeroPerkDescription": "Melee critical hits apply 30% Snare and Affliction which deals 37% of Damage dealt per second for 3 seconds.",
     "HeroPerkTemplate": "Ability:Kit_Perk_H_CorrosiveStrikes_T01",
     "HeroStatLine": "Balanced",
     "HeroTags": [
@@ -62514,7 +62514,7 @@
     "DisplayName": "Deadly Blade Crash",
     "SubType": "Ninja",
     "CommanderPerk": "Corrosive Strikes \u002B",
-    "CommanderPerkDescription": "Melee critical hits apply 30% Snare and Affliction which deals 87% of Damage dealt each second for 3 seconds.",
+    "CommanderPerkDescription": "Melee critical hits apply 30% Snare and Affliction which deals 87% of Damage dealt per second for 3 seconds.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_CorrosiveStrikes_T02",
     "Description": "\u0022Just one cut.\u0022 - Crash",
     "HeroAbilities": [
@@ -62523,7 +62523,7 @@
       "Ability:Kit_Ninja_DragonSlash"
     ],
     "HeroPerk": "Corrosive Strikes",
-    "HeroPerkDescription": "Melee critical hits apply 30% Snare and Affliction which deals 37% of Damage dealt each second for 3 seconds.",
+    "HeroPerkDescription": "Melee critical hits apply 30% Snare and Affliction which deals 37% of Damage dealt per second for 3 seconds.",
     "HeroPerkTemplate": "Ability:Kit_Perk_H_CorrosiveStrikes_T01",
     "HeroStatLine": "Balanced",
     "HeroTags": [
@@ -62570,7 +62570,7 @@
     "DisplayName": "Deadly Blade Crash",
     "SubType": "Ninja",
     "CommanderPerk": "Corrosive Strikes \u002B",
-    "CommanderPerkDescription": "Melee critical hits apply 30% Snare and Affliction which deals 87% of Damage dealt each second for 3 seconds.",
+    "CommanderPerkDescription": "Melee critical hits apply 30% Snare and Affliction which deals 87% of Damage dealt per second for 3 seconds.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_CorrosiveStrikes_T02",
     "Description": "\u0022Just one cut.\u0022 - Crash",
     "HeroAbilities": [
@@ -62579,7 +62579,7 @@
       "Ability:Kit_Ninja_DragonSlash"
     ],
     "HeroPerk": "Corrosive Strikes",
-    "HeroPerkDescription": "Melee critical hits apply 30% Snare and Affliction which deals 37% of Damage dealt each second for 3 seconds.",
+    "HeroPerkDescription": "Melee critical hits apply 30% Snare and Affliction which deals 37% of Damage dealt per second for 3 seconds.",
     "HeroPerkTemplate": "Ability:Kit_Perk_H_CorrosiveStrikes_T01",
     "HeroStatLine": "Balanced",
     "HeroTags": [
@@ -62628,7 +62628,7 @@
     "DisplayName": "Deadly Blade Crash",
     "SubType": "Ninja",
     "CommanderPerk": "Corrosive Strikes \u002B",
-    "CommanderPerkDescription": "Melee critical hits apply 30% Snare and Affliction which deals 87% of Damage dealt each second for 3 seconds.",
+    "CommanderPerkDescription": "Melee critical hits apply 30% Snare and Affliction which deals 87% of Damage dealt per second for 3 seconds.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_CorrosiveStrikes_T02",
     "Description": "\u0022Just one cut.\u0022 - Crash",
     "HeroAbilities": [
@@ -62637,7 +62637,7 @@
       "Ability:Kit_Ninja_DragonSlash"
     ],
     "HeroPerk": "Corrosive Strikes",
-    "HeroPerkDescription": "Melee critical hits apply 30% Snare and Affliction which deals 37% of Damage dealt each second for 3 seconds.",
+    "HeroPerkDescription": "Melee critical hits apply 30% Snare and Affliction which deals 37% of Damage dealt per second for 3 seconds.",
     "HeroPerkTemplate": "Ability:Kit_Perk_H_CorrosiveStrikes_T01",
     "HeroStatLine": "Balanced",
     "HeroTags": [
@@ -62688,7 +62688,7 @@
     "DisplayName": "Deadly Blade Crash",
     "SubType": "Ninja",
     "CommanderPerk": "Corrosive Strikes \u002B",
-    "CommanderPerkDescription": "Melee critical hits apply 30% Snare and Affliction which deals 87% of Damage dealt each second for 3 seconds.",
+    "CommanderPerkDescription": "Melee critical hits apply 30% Snare and Affliction which deals 87% of Damage dealt per second for 3 seconds.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_CorrosiveStrikes_T02",
     "Description": "\u0022Just one cut.\u0022 - Crash",
     "HeroAbilities": [
@@ -62697,7 +62697,7 @@
       "Ability:Kit_Ninja_DragonSlash"
     ],
     "HeroPerk": "Corrosive Strikes",
-    "HeroPerkDescription": "Melee critical hits apply 30% Snare and Affliction which deals 37% of Damage dealt each second for 3 seconds.",
+    "HeroPerkDescription": "Melee critical hits apply 30% Snare and Affliction which deals 37% of Damage dealt per second for 3 seconds.",
     "HeroPerkTemplate": "Ability:Kit_Perk_H_CorrosiveStrikes_T01",
     "HeroStatLine": "Balanced",
     "HeroTags": [
@@ -69333,7 +69333,7 @@
       "Ability:Kit_Ninja_SmokeBomb"
     ],
     "HeroPerk": "Corrupted Aura",
-    "HeroPerkDescription": "During Shadow Stance, deal 16 base damage per second to nearby enemies.",
+    "HeroPerkDescription": "During Shadow Stance, deal 16 base Damage per second to nearby enemies.",
     "HeroPerkRequirement": {
       "CommanderSubType": "Ninja",
       "Description": "Requires Ninja as commander."
@@ -69384,7 +69384,7 @@
       "Ability:Kit_Ninja_SmokeBomb"
     ],
     "HeroPerk": "Corrupted Aura",
-    "HeroPerkDescription": "During Shadow Stance, deal 16 base damage per second to nearby enemies.",
+    "HeroPerkDescription": "During Shadow Stance, deal 16 base Damage per second to nearby enemies.",
     "HeroPerkRequirement": {
       "CommanderSubType": "Ninja",
       "Description": "Requires Ninja as commander."
@@ -69436,7 +69436,7 @@
       "Ability:Kit_Ninja_SmokeBomb"
     ],
     "HeroPerk": "Corrupted Aura",
-    "HeroPerkDescription": "During Shadow Stance, deal 16 base damage per second to nearby enemies.",
+    "HeroPerkDescription": "During Shadow Stance, deal 16 base Damage per second to nearby enemies.",
     "HeroPerkRequirement": {
       "CommanderSubType": "Ninja",
       "Description": "Requires Ninja as commander."
@@ -69489,7 +69489,7 @@
       "Ability:Kit_Ninja_SmokeBomb"
     ],
     "HeroPerk": "Corrupted Aura",
-    "HeroPerkDescription": "During Shadow Stance, deal 16 base damage per second to nearby enemies.",
+    "HeroPerkDescription": "During Shadow Stance, deal 16 base Damage per second to nearby enemies.",
     "HeroPerkRequirement": {
       "CommanderSubType": "Ninja",
       "Description": "Requires Ninja as commander."
@@ -69543,7 +69543,7 @@
       "Ability:Kit_Ninja_SmokeBomb"
     ],
     "HeroPerk": "Corrupted Aura",
-    "HeroPerkDescription": "During Shadow Stance, deal 16 base damage per second to nearby enemies.",
+    "HeroPerkDescription": "During Shadow Stance, deal 16 base Damage per second to nearby enemies.",
     "HeroPerkRequirement": {
       "CommanderSubType": "Ninja",
       "Description": "Requires Ninja as commander."
@@ -72101,7 +72101,7 @@
     "DisplayName": "Intergalactic Ken",
     "SubType": "Ninja",
     "CommanderPerk": "Energy Siphon \u002B",
-    "CommanderPerkDescription": "Eliminations with Energy Damage restore 17% of missing shields. Additionally, Throwing Stars deals Energy damage.",
+    "CommanderPerkDescription": "Eliminations with Energy Damage restore 17% of missing Shields. Additionally, Throwing Stars deals Energy Damage.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_EnergySiphon_T02",
     "Description": "The VSS Gallant\u0027s finest space ninja.",
     "HeroAbilities": [
@@ -72110,7 +72110,7 @@
       "Ability:Kit_Ninja_KunaiStorm"
     ],
     "HeroPerk": "Energy Siphon",
-    "HeroPerkDescription": "Eliminations with Energy Damage restore 8.5% of missing shields.",
+    "HeroPerkDescription": "Eliminations with Energy Damage restore 8.5% of missing Shields.",
     "HeroPerkTemplate": "Ability:Kit_Perk_H_EnergySiphon_T01",
     "HeroStatLine": "Shields",
     "HeroTags": [
@@ -72149,7 +72149,7 @@
     "DisplayName": "Intergalactic Ken",
     "SubType": "Ninja",
     "CommanderPerk": "Energy Siphon \u002B",
-    "CommanderPerkDescription": "Eliminations with Energy Damage restore 17% of missing shields. Additionally, Throwing Stars deals Energy damage.",
+    "CommanderPerkDescription": "Eliminations with Energy Damage restore 17% of missing Shields. Additionally, Throwing Stars deals Energy Damage.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_EnergySiphon_T02",
     "Description": "The VSS Gallant\u0027s finest space ninja.",
     "HeroAbilities": [
@@ -72158,7 +72158,7 @@
       "Ability:Kit_Ninja_KunaiStorm"
     ],
     "HeroPerk": "Energy Siphon",
-    "HeroPerkDescription": "Eliminations with Energy Damage restore 8.5% of missing shields.",
+    "HeroPerkDescription": "Eliminations with Energy Damage restore 8.5% of missing Shields.",
     "HeroPerkTemplate": "Ability:Kit_Perk_H_EnergySiphon_T01",
     "HeroStatLine": "Shields",
     "HeroTags": [
@@ -72198,7 +72198,7 @@
     "DisplayName": "Intergalactic Ken",
     "SubType": "Ninja",
     "CommanderPerk": "Energy Siphon \u002B",
-    "CommanderPerkDescription": "Eliminations with Energy Damage restore 17% of missing shields. Additionally, Throwing Stars deals Energy damage.",
+    "CommanderPerkDescription": "Eliminations with Energy Damage restore 17% of missing Shields. Additionally, Throwing Stars deals Energy Damage.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_EnergySiphon_T02",
     "Description": "The VSS Gallant\u0027s finest space ninja.",
     "HeroAbilities": [
@@ -72207,7 +72207,7 @@
       "Ability:Kit_Ninja_KunaiStorm"
     ],
     "HeroPerk": "Energy Siphon",
-    "HeroPerkDescription": "Eliminations with Energy Damage restore 8.5% of missing shields.",
+    "HeroPerkDescription": "Eliminations with Energy Damage restore 8.5% of missing Shields.",
     "HeroPerkTemplate": "Ability:Kit_Perk_H_EnergySiphon_T01",
     "HeroStatLine": "Shields",
     "HeroTags": [
@@ -72248,7 +72248,7 @@
     "DisplayName": "Intergalactic Ken",
     "SubType": "Ninja",
     "CommanderPerk": "Energy Siphon \u002B",
-    "CommanderPerkDescription": "Eliminations with Energy Damage restore 17% of missing shields. Additionally, Throwing Stars deals Energy damage.",
+    "CommanderPerkDescription": "Eliminations with Energy Damage restore 17% of missing Shields. Additionally, Throwing Stars deals Energy Damage.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_EnergySiphon_T02",
     "Description": "The VSS Gallant\u0027s finest space ninja.",
     "HeroAbilities": [
@@ -72257,7 +72257,7 @@
       "Ability:Kit_Ninja_KunaiStorm"
     ],
     "HeroPerk": "Energy Siphon",
-    "HeroPerkDescription": "Eliminations with Energy Damage restore 8.5% of missing shields.",
+    "HeroPerkDescription": "Eliminations with Energy Damage restore 8.5% of missing Shields.",
     "HeroPerkTemplate": "Ability:Kit_Perk_H_EnergySiphon_T01",
     "HeroStatLine": "Shields",
     "HeroTags": [
@@ -72299,7 +72299,7 @@
     "DisplayName": "Intergalactic Ken",
     "SubType": "Ninja",
     "CommanderPerk": "Energy Siphon \u002B",
-    "CommanderPerkDescription": "Eliminations with Energy Damage restore 17% of missing shields. Additionally, Throwing Stars deals Energy damage.",
+    "CommanderPerkDescription": "Eliminations with Energy Damage restore 17% of missing Shields. Additionally, Throwing Stars deals Energy Damage.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_EnergySiphon_T02",
     "Description": "The VSS Gallant\u0027s finest space ninja.",
     "HeroAbilities": [
@@ -72308,7 +72308,7 @@
       "Ability:Kit_Ninja_KunaiStorm"
     ],
     "HeroPerk": "Energy Siphon",
-    "HeroPerkDescription": "Eliminations with Energy Damage restore 8.5% of missing shields.",
+    "HeroPerkDescription": "Eliminations with Energy Damage restore 8.5% of missing Shields.",
     "HeroPerkTemplate": "Ability:Kit_Perk_H_EnergySiphon_T01",
     "HeroStatLine": "Shields",
     "HeroTags": [
@@ -72339,7 +72339,7 @@
     "DisplayName": "Intergalactic Ken",
     "SubType": "Ninja",
     "CommanderPerk": "Energy Siphon \u002B",
-    "CommanderPerkDescription": "Eliminations with Energy Damage restore 17% of missing shields. Additionally, Throwing Stars deals Energy damage.",
+    "CommanderPerkDescription": "Eliminations with Energy Damage restore 17% of missing Shields. Additionally, Throwing Stars deals Energy Damage.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_EnergySiphon_T02",
     "Description": "The VSS Gallant\u0027s finest space ninja.",
     "HeroAbilities": [
@@ -72348,7 +72348,7 @@
       "Ability:Kit_Ninja_KunaiStorm"
     ],
     "HeroPerk": "Energy Siphon",
-    "HeroPerkDescription": "Eliminations with Energy Damage restore 8.5% of missing shields.",
+    "HeroPerkDescription": "Eliminations with Energy Damage restore 8.5% of missing Shields.",
     "HeroPerkTemplate": "Ability:Kit_Perk_H_EnergySiphon_T01",
     "HeroStatLine": "Shields",
     "HeroTags": [
@@ -72393,7 +72393,7 @@
     "DisplayName": "Intergalactic Ken",
     "SubType": "Ninja",
     "CommanderPerk": "Energy Siphon \u002B",
-    "CommanderPerkDescription": "Eliminations with Energy Damage restore 17% of missing shields. Additionally, Throwing Stars deals Energy damage.",
+    "CommanderPerkDescription": "Eliminations with Energy Damage restore 17% of missing Shields. Additionally, Throwing Stars deals Energy Damage.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_EnergySiphon_T02",
     "Description": "The VSS Gallant\u0027s finest space ninja.",
     "HeroAbilities": [
@@ -72402,7 +72402,7 @@
       "Ability:Kit_Ninja_KunaiStorm"
     ],
     "HeroPerk": "Energy Siphon",
-    "HeroPerkDescription": "Eliminations with Energy Damage restore 8.5% of missing shields.",
+    "HeroPerkDescription": "Eliminations with Energy Damage restore 8.5% of missing Shields.",
     "HeroPerkTemplate": "Ability:Kit_Perk_H_EnergySiphon_T01",
     "HeroStatLine": "Shields",
     "HeroTags": [
@@ -72450,7 +72450,7 @@
     "DisplayName": "Intergalactic Ken",
     "SubType": "Ninja",
     "CommanderPerk": "Energy Siphon \u002B",
-    "CommanderPerkDescription": "Eliminations with Energy Damage restore 17% of missing shields. Additionally, Throwing Stars deals Energy damage.",
+    "CommanderPerkDescription": "Eliminations with Energy Damage restore 17% of missing Shields. Additionally, Throwing Stars deals Energy Damage.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_EnergySiphon_T02",
     "Description": "The VSS Gallant\u0027s finest space ninja.",
     "HeroAbilities": [
@@ -72459,7 +72459,7 @@
       "Ability:Kit_Ninja_KunaiStorm"
     ],
     "HeroPerk": "Energy Siphon",
-    "HeroPerkDescription": "Eliminations with Energy Damage restore 8.5% of missing shields.",
+    "HeroPerkDescription": "Eliminations with Energy Damage restore 8.5% of missing Shields.",
     "HeroPerkTemplate": "Ability:Kit_Perk_H_EnergySiphon_T01",
     "HeroStatLine": "Shields",
     "HeroTags": [
@@ -72509,7 +72509,7 @@
     "DisplayName": "Intergalactic Ken",
     "SubType": "Ninja",
     "CommanderPerk": "Energy Siphon \u002B",
-    "CommanderPerkDescription": "Eliminations with Energy Damage restore 17% of missing shields. Additionally, Throwing Stars deals Energy damage.",
+    "CommanderPerkDescription": "Eliminations with Energy Damage restore 17% of missing Shields. Additionally, Throwing Stars deals Energy Damage.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_EnergySiphon_T02",
     "Description": "The VSS Gallant\u0027s finest space ninja.",
     "HeroAbilities": [
@@ -72518,7 +72518,7 @@
       "Ability:Kit_Ninja_KunaiStorm"
     ],
     "HeroPerk": "Energy Siphon",
-    "HeroPerkDescription": "Eliminations with Energy Damage restore 8.5% of missing shields.",
+    "HeroPerkDescription": "Eliminations with Energy Damage restore 8.5% of missing Shields.",
     "HeroPerkTemplate": "Ability:Kit_Perk_H_EnergySiphon_T01",
     "HeroStatLine": "Shields",
     "HeroTags": [
@@ -72570,7 +72570,7 @@
     "DisplayName": "Intergalactic Ken",
     "SubType": "Ninja",
     "CommanderPerk": "Energy Siphon \u002B",
-    "CommanderPerkDescription": "Eliminations with Energy Damage restore 17% of missing shields. Additionally, Throwing Stars deals Energy damage.",
+    "CommanderPerkDescription": "Eliminations with Energy Damage restore 17% of missing Shields. Additionally, Throwing Stars deals Energy Damage.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_EnergySiphon_T02",
     "Description": "The VSS Gallant\u0027s finest space ninja.",
     "HeroAbilities": [
@@ -72579,7 +72579,7 @@
       "Ability:Kit_Ninja_KunaiStorm"
     ],
     "HeroPerk": "Energy Siphon",
-    "HeroPerkDescription": "Eliminations with Energy Damage restore 8.5% of missing shields.",
+    "HeroPerkDescription": "Eliminations with Energy Damage restore 8.5% of missing Shields.",
     "HeroPerkTemplate": "Ability:Kit_Perk_H_EnergySiphon_T01",
     "HeroStatLine": "Shields",
     "HeroTags": [
@@ -75267,7 +75267,7 @@
     "DisplayName": "Jurassic Ken",
     "SubType": "Ninja",
     "CommanderPerk": "Saurian Fight \u002B",
-    "CommanderPerkDescription": "While Shield is depleted, increase Ability damage by 60%.",
+    "CommanderPerkDescription": "While Shield is depleted, increase Ability Damage by 60%.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_SaurianFight_T02",
     "Description": "\u0022My moves are Jurass-SICK!\u0022 - Jurassic Ken",
     "HeroAbilities": [
@@ -75276,7 +75276,7 @@
       "Ability:Kit_Ninja_DragonSlash"
     ],
     "HeroPerk": "Saurian Fight",
-    "HeroPerkDescription": "While Shield is depleted, increase Ability damage by 20%.",
+    "HeroPerkDescription": "While Shield is depleted, increase Ability Damage by 20%.",
     "HeroPerkTemplate": "Ability:Kit_Perk_H_SaurianFight_T01",
     "HeroStatLine": "Balanced",
     "HeroTags": [
@@ -75315,7 +75315,7 @@
     "DisplayName": "Jurassic Ken",
     "SubType": "Ninja",
     "CommanderPerk": "Saurian Fight \u002B",
-    "CommanderPerkDescription": "While Shield is depleted, increase Ability damage by 60%.",
+    "CommanderPerkDescription": "While Shield is depleted, increase Ability Damage by 60%.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_SaurianFight_T02",
     "Description": "\u0022My moves are Jurass-SICK!\u0022 - Jurassic Ken",
     "HeroAbilities": [
@@ -75324,7 +75324,7 @@
       "Ability:Kit_Ninja_DragonSlash"
     ],
     "HeroPerk": "Saurian Fight",
-    "HeroPerkDescription": "While Shield is depleted, increase Ability damage by 20%.",
+    "HeroPerkDescription": "While Shield is depleted, increase Ability Damage by 20%.",
     "HeroPerkTemplate": "Ability:Kit_Perk_H_SaurianFight_T01",
     "HeroStatLine": "Balanced",
     "HeroTags": [
@@ -75364,7 +75364,7 @@
     "DisplayName": "Jurassic Ken",
     "SubType": "Ninja",
     "CommanderPerk": "Saurian Fight \u002B",
-    "CommanderPerkDescription": "While Shield is depleted, increase Ability damage by 60%.",
+    "CommanderPerkDescription": "While Shield is depleted, increase Ability Damage by 60%.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_SaurianFight_T02",
     "Description": "\u0022My moves are Jurass-SICK!\u0022 - Jurassic Ken",
     "HeroAbilities": [
@@ -75373,7 +75373,7 @@
       "Ability:Kit_Ninja_DragonSlash"
     ],
     "HeroPerk": "Saurian Fight",
-    "HeroPerkDescription": "While Shield is depleted, increase Ability damage by 20%.",
+    "HeroPerkDescription": "While Shield is depleted, increase Ability Damage by 20%.",
     "HeroPerkTemplate": "Ability:Kit_Perk_H_SaurianFight_T01",
     "HeroStatLine": "Balanced",
     "HeroTags": [
@@ -75414,7 +75414,7 @@
     "DisplayName": "Jurassic Ken",
     "SubType": "Ninja",
     "CommanderPerk": "Saurian Fight \u002B",
-    "CommanderPerkDescription": "While Shield is depleted, increase Ability damage by 60%.",
+    "CommanderPerkDescription": "While Shield is depleted, increase Ability Damage by 60%.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_SaurianFight_T02",
     "Description": "\u0022My moves are Jurass-SICK!\u0022 - Jurassic Ken",
     "HeroAbilities": [
@@ -75423,7 +75423,7 @@
       "Ability:Kit_Ninja_DragonSlash"
     ],
     "HeroPerk": "Saurian Fight",
-    "HeroPerkDescription": "While Shield is depleted, increase Ability damage by 20%.",
+    "HeroPerkDescription": "While Shield is depleted, increase Ability Damage by 20%.",
     "HeroPerkTemplate": "Ability:Kit_Perk_H_SaurianFight_T01",
     "HeroStatLine": "Balanced",
     "HeroTags": [
@@ -75465,7 +75465,7 @@
     "DisplayName": "Jurassic Ken",
     "SubType": "Ninja",
     "CommanderPerk": "Saurian Fight \u002B",
-    "CommanderPerkDescription": "While Shield is depleted, increase Ability damage by 60%.",
+    "CommanderPerkDescription": "While Shield is depleted, increase Ability Damage by 60%.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_SaurianFight_T02",
     "Description": "\u0022My moves are Jurass-SICK!\u0022 - Jurassic Ken",
     "HeroAbilities": [
@@ -75474,7 +75474,7 @@
       "Ability:Kit_Ninja_DragonSlash"
     ],
     "HeroPerk": "Saurian Fight",
-    "HeroPerkDescription": "While Shield is depleted, increase Ability damage by 20%.",
+    "HeroPerkDescription": "While Shield is depleted, increase Ability Damage by 20%.",
     "HeroPerkTemplate": "Ability:Kit_Perk_H_SaurianFight_T01",
     "HeroStatLine": "Balanced",
     "HeroTags": [
@@ -75505,7 +75505,7 @@
     "DisplayName": "Jurassic Ken",
     "SubType": "Ninja",
     "CommanderPerk": "Saurian Fight \u002B",
-    "CommanderPerkDescription": "While Shield is depleted, increase Ability damage by 60%.",
+    "CommanderPerkDescription": "While Shield is depleted, increase Ability Damage by 60%.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_SaurianFight_T02",
     "Description": "\u0022My moves are Jurass-SICK!\u0022 - Jurassic Ken",
     "HeroAbilities": [
@@ -75514,7 +75514,7 @@
       "Ability:Kit_Ninja_DragonSlash"
     ],
     "HeroPerk": "Saurian Fight",
-    "HeroPerkDescription": "While Shield is depleted, increase Ability damage by 20%.",
+    "HeroPerkDescription": "While Shield is depleted, increase Ability Damage by 20%.",
     "HeroPerkTemplate": "Ability:Kit_Perk_H_SaurianFight_T01",
     "HeroStatLine": "Balanced",
     "HeroTags": [
@@ -75559,7 +75559,7 @@
     "DisplayName": "Jurassic Ken",
     "SubType": "Ninja",
     "CommanderPerk": "Saurian Fight \u002B",
-    "CommanderPerkDescription": "While Shield is depleted, increase Ability damage by 60%.",
+    "CommanderPerkDescription": "While Shield is depleted, increase Ability Damage by 60%.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_SaurianFight_T02",
     "Description": "\u0022My moves are Jurass-SICK!\u0022 - Jurassic Ken",
     "HeroAbilities": [
@@ -75568,7 +75568,7 @@
       "Ability:Kit_Ninja_DragonSlash"
     ],
     "HeroPerk": "Saurian Fight",
-    "HeroPerkDescription": "While Shield is depleted, increase Ability damage by 20%.",
+    "HeroPerkDescription": "While Shield is depleted, increase Ability Damage by 20%.",
     "HeroPerkTemplate": "Ability:Kit_Perk_H_SaurianFight_T01",
     "HeroStatLine": "Balanced",
     "HeroTags": [
@@ -75616,7 +75616,7 @@
     "DisplayName": "Jurassic Ken",
     "SubType": "Ninja",
     "CommanderPerk": "Saurian Fight \u002B",
-    "CommanderPerkDescription": "While Shield is depleted, increase Ability damage by 60%.",
+    "CommanderPerkDescription": "While Shield is depleted, increase Ability Damage by 60%.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_SaurianFight_T02",
     "Description": "\u0022My moves are Jurass-SICK!\u0022 - Jurassic Ken",
     "HeroAbilities": [
@@ -75625,7 +75625,7 @@
       "Ability:Kit_Ninja_DragonSlash"
     ],
     "HeroPerk": "Saurian Fight",
-    "HeroPerkDescription": "While Shield is depleted, increase Ability damage by 20%.",
+    "HeroPerkDescription": "While Shield is depleted, increase Ability Damage by 20%.",
     "HeroPerkTemplate": "Ability:Kit_Perk_H_SaurianFight_T01",
     "HeroStatLine": "Balanced",
     "HeroTags": [
@@ -75675,7 +75675,7 @@
     "DisplayName": "Jurassic Ken",
     "SubType": "Ninja",
     "CommanderPerk": "Saurian Fight \u002B",
-    "CommanderPerkDescription": "While Shield is depleted, increase Ability damage by 60%.",
+    "CommanderPerkDescription": "While Shield is depleted, increase Ability Damage by 60%.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_SaurianFight_T02",
     "Description": "\u0022My moves are Jurass-SICK!\u0022 - Jurassic Ken",
     "HeroAbilities": [
@@ -75684,7 +75684,7 @@
       "Ability:Kit_Ninja_DragonSlash"
     ],
     "HeroPerk": "Saurian Fight",
-    "HeroPerkDescription": "While Shield is depleted, increase Ability damage by 20%.",
+    "HeroPerkDescription": "While Shield is depleted, increase Ability Damage by 20%.",
     "HeroPerkTemplate": "Ability:Kit_Perk_H_SaurianFight_T01",
     "HeroStatLine": "Balanced",
     "HeroTags": [
@@ -75736,7 +75736,7 @@
     "DisplayName": "Jurassic Ken",
     "SubType": "Ninja",
     "CommanderPerk": "Saurian Fight \u002B",
-    "CommanderPerkDescription": "While Shield is depleted, increase Ability damage by 60%.",
+    "CommanderPerkDescription": "While Shield is depleted, increase Ability Damage by 60%.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_SaurianFight_T02",
     "Description": "\u0022My moves are Jurass-SICK!\u0022 - Jurassic Ken",
     "HeroAbilities": [
@@ -75745,7 +75745,7 @@
       "Ability:Kit_Ninja_DragonSlash"
     ],
     "HeroPerk": "Saurian Fight",
-    "HeroPerkDescription": "While Shield is depleted, increase Ability damage by 20%.",
+    "HeroPerkDescription": "While Shield is depleted, increase Ability Damage by 20%.",
     "HeroPerkTemplate": "Ability:Kit_Perk_H_SaurianFight_T01",
     "HeroStatLine": "Balanced",
     "HeroTags": [
@@ -76867,7 +76867,7 @@
     "DisplayName": "Robo-Ray",
     "SubType": "Ninja",
     "CommanderPerk": "Energy Siphon \u002B",
-    "CommanderPerkDescription": "Eliminations with Energy Damage restore 17% of missing shields. Additionally, Throwing Stars deals Energy damage.",
+    "CommanderPerkDescription": "Eliminations with Energy Damage restore 17% of missing Shields. Additionally, Throwing Stars deals Energy Damage.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_EnergySiphon_T02",
     "Description": "\u0022When I\u0027m outside Homebase I malf... I work wrong.\u0022 - Robo-Ray",
     "HeroAbilities": [
@@ -76876,7 +76876,7 @@
       "Ability:Kit_Ninja_KunaiStorm"
     ],
     "HeroPerk": "Energy Siphon",
-    "HeroPerkDescription": "Eliminations with Energy Damage restore 8.5% of missing shields.",
+    "HeroPerkDescription": "Eliminations with Energy Damage restore 8.5% of missing Shields.",
     "HeroPerkTemplate": "Ability:Kit_Perk_H_EnergySiphon_T01",
     "HeroStatLine": "Shields",
     "HeroTags": [
@@ -76914,7 +76914,7 @@
     "DisplayName": "Robo-Ray",
     "SubType": "Ninja",
     "CommanderPerk": "Energy Siphon \u002B",
-    "CommanderPerkDescription": "Eliminations with Energy Damage restore 17% of missing shields. Additionally, Throwing Stars deals Energy damage.",
+    "CommanderPerkDescription": "Eliminations with Energy Damage restore 17% of missing Shields. Additionally, Throwing Stars deals Energy Damage.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_EnergySiphon_T02",
     "Description": "\u0022When I\u0027m outside Homebase I malf... I work wrong.\u0022 - Robo-Ray",
     "HeroAbilities": [
@@ -76923,7 +76923,7 @@
       "Ability:Kit_Ninja_KunaiStorm"
     ],
     "HeroPerk": "Energy Siphon",
-    "HeroPerkDescription": "Eliminations with Energy Damage restore 8.5% of missing shields.",
+    "HeroPerkDescription": "Eliminations with Energy Damage restore 8.5% of missing Shields.",
     "HeroPerkTemplate": "Ability:Kit_Perk_H_EnergySiphon_T01",
     "HeroStatLine": "Shields",
     "HeroTags": [
@@ -76962,7 +76962,7 @@
     "DisplayName": "Robo-Ray",
     "SubType": "Ninja",
     "CommanderPerk": "Energy Siphon \u002B",
-    "CommanderPerkDescription": "Eliminations with Energy Damage restore 17% of missing shields. Additionally, Throwing Stars deals Energy damage.",
+    "CommanderPerkDescription": "Eliminations with Energy Damage restore 17% of missing Shields. Additionally, Throwing Stars deals Energy Damage.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_EnergySiphon_T02",
     "Description": "\u0022When I\u0027m outside Homebase I malf... I work wrong.\u0022 - Robo-Ray",
     "HeroAbilities": [
@@ -76971,7 +76971,7 @@
       "Ability:Kit_Ninja_KunaiStorm"
     ],
     "HeroPerk": "Energy Siphon",
-    "HeroPerkDescription": "Eliminations with Energy Damage restore 8.5% of missing shields.",
+    "HeroPerkDescription": "Eliminations with Energy Damage restore 8.5% of missing Shields.",
     "HeroPerkTemplate": "Ability:Kit_Perk_H_EnergySiphon_T01",
     "HeroStatLine": "Shields",
     "HeroTags": [
@@ -77011,7 +77011,7 @@
     "DisplayName": "Robo-Ray",
     "SubType": "Ninja",
     "CommanderPerk": "Energy Siphon \u002B",
-    "CommanderPerkDescription": "Eliminations with Energy Damage restore 17% of missing shields. Additionally, Throwing Stars deals Energy damage.",
+    "CommanderPerkDescription": "Eliminations with Energy Damage restore 17% of missing Shields. Additionally, Throwing Stars deals Energy Damage.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_EnergySiphon_T02",
     "Description": "\u0022When I\u0027m outside Homebase I malf... I work wrong.\u0022 - Robo-Ray",
     "HeroAbilities": [
@@ -77020,7 +77020,7 @@
       "Ability:Kit_Ninja_KunaiStorm"
     ],
     "HeroPerk": "Energy Siphon",
-    "HeroPerkDescription": "Eliminations with Energy Damage restore 8.5% of missing shields.",
+    "HeroPerkDescription": "Eliminations with Energy Damage restore 8.5% of missing Shields.",
     "HeroPerkTemplate": "Ability:Kit_Perk_H_EnergySiphon_T01",
     "HeroStatLine": "Shields",
     "HeroTags": [
@@ -77061,7 +77061,7 @@
     "DisplayName": "Robo-Ray",
     "SubType": "Ninja",
     "CommanderPerk": "Energy Siphon \u002B",
-    "CommanderPerkDescription": "Eliminations with Energy Damage restore 17% of missing shields. Additionally, Throwing Stars deals Energy damage.",
+    "CommanderPerkDescription": "Eliminations with Energy Damage restore 17% of missing Shields. Additionally, Throwing Stars deals Energy Damage.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_EnergySiphon_T02",
     "Description": "\u0022When I\u0027m outside Homebase I malf... I work wrong.\u0022 - Robo-Ray",
     "HeroAbilities": [
@@ -77070,7 +77070,7 @@
       "Ability:Kit_Ninja_KunaiStorm"
     ],
     "HeroPerk": "Energy Siphon",
-    "HeroPerkDescription": "Eliminations with Energy Damage restore 8.5% of missing shields.",
+    "HeroPerkDescription": "Eliminations with Energy Damage restore 8.5% of missing Shields.",
     "HeroPerkTemplate": "Ability:Kit_Perk_H_EnergySiphon_T01",
     "HeroStatLine": "Shields",
     "HeroTags": [
@@ -77100,7 +77100,7 @@
     "DisplayName": "Robo-Ray",
     "SubType": "Ninja",
     "CommanderPerk": "Energy Siphon \u002B",
-    "CommanderPerkDescription": "Eliminations with Energy Damage restore 17% of missing shields. Additionally, Throwing Stars deals Energy damage.",
+    "CommanderPerkDescription": "Eliminations with Energy Damage restore 17% of missing Shields. Additionally, Throwing Stars deals Energy Damage.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_EnergySiphon_T02",
     "Description": "\u0022When I\u0027m outside Homebase I malf... I work wrong.\u0022 - Robo-Ray",
     "HeroAbilities": [
@@ -77109,7 +77109,7 @@
       "Ability:Kit_Ninja_KunaiStorm"
     ],
     "HeroPerk": "Energy Siphon",
-    "HeroPerkDescription": "Eliminations with Energy Damage restore 8.5% of missing shields.",
+    "HeroPerkDescription": "Eliminations with Energy Damage restore 8.5% of missing Shields.",
     "HeroPerkTemplate": "Ability:Kit_Perk_H_EnergySiphon_T01",
     "HeroStatLine": "Shields",
     "HeroTags": [
@@ -77148,7 +77148,7 @@
     "DisplayName": "Robo-Ray",
     "SubType": "Ninja",
     "CommanderPerk": "Energy Siphon \u002B",
-    "CommanderPerkDescription": "Eliminations with Energy Damage restore 17% of missing shields. Additionally, Throwing Stars deals Energy damage.",
+    "CommanderPerkDescription": "Eliminations with Energy Damage restore 17% of missing Shields. Additionally, Throwing Stars deals Energy Damage.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_EnergySiphon_T02",
     "Description": "\u0022When I\u0027m outside Homebase I malf... I work wrong.\u0022 - Robo-Ray",
     "HeroAbilities": [
@@ -77157,7 +77157,7 @@
       "Ability:Kit_Ninja_KunaiStorm"
     ],
     "HeroPerk": "Energy Siphon",
-    "HeroPerkDescription": "Eliminations with Energy Damage restore 8.5% of missing shields.",
+    "HeroPerkDescription": "Eliminations with Energy Damage restore 8.5% of missing Shields.",
     "HeroPerkTemplate": "Ability:Kit_Perk_H_EnergySiphon_T01",
     "HeroStatLine": "Shields",
     "HeroTags": [
@@ -77199,7 +77199,7 @@
     "DisplayName": "Robo-Ray",
     "SubType": "Ninja",
     "CommanderPerk": "Energy Siphon \u002B",
-    "CommanderPerkDescription": "Eliminations with Energy Damage restore 17% of missing shields. Additionally, Throwing Stars deals Energy damage.",
+    "CommanderPerkDescription": "Eliminations with Energy Damage restore 17% of missing Shields. Additionally, Throwing Stars deals Energy Damage.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_EnergySiphon_T02",
     "Description": "\u0022When I\u0027m outside Homebase I malf... I work wrong.\u0022 - Robo-Ray",
     "HeroAbilities": [
@@ -77208,7 +77208,7 @@
       "Ability:Kit_Ninja_KunaiStorm"
     ],
     "HeroPerk": "Energy Siphon",
-    "HeroPerkDescription": "Eliminations with Energy Damage restore 8.5% of missing shields.",
+    "HeroPerkDescription": "Eliminations with Energy Damage restore 8.5% of missing Shields.",
     "HeroPerkTemplate": "Ability:Kit_Perk_H_EnergySiphon_T01",
     "HeroStatLine": "Shields",
     "HeroTags": [
@@ -77252,7 +77252,7 @@
     "DisplayName": "Robo-Ray",
     "SubType": "Ninja",
     "CommanderPerk": "Energy Siphon \u002B",
-    "CommanderPerkDescription": "Eliminations with Energy Damage restore 17% of missing shields. Additionally, Throwing Stars deals Energy damage.",
+    "CommanderPerkDescription": "Eliminations with Energy Damage restore 17% of missing Shields. Additionally, Throwing Stars deals Energy Damage.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_EnergySiphon_T02",
     "Description": "\u0022When I\u0027m outside Homebase I malf... I work wrong.\u0022 - Robo-Ray",
     "HeroAbilities": [
@@ -77261,7 +77261,7 @@
       "Ability:Kit_Ninja_KunaiStorm"
     ],
     "HeroPerk": "Energy Siphon",
-    "HeroPerkDescription": "Eliminations with Energy Damage restore 8.5% of missing shields.",
+    "HeroPerkDescription": "Eliminations with Energy Damage restore 8.5% of missing Shields.",
     "HeroPerkTemplate": "Ability:Kit_Perk_H_EnergySiphon_T01",
     "HeroStatLine": "Shields",
     "HeroTags": [
@@ -77307,7 +77307,7 @@
     "DisplayName": "Robo-Ray",
     "SubType": "Ninja",
     "CommanderPerk": "Energy Siphon \u002B",
-    "CommanderPerkDescription": "Eliminations with Energy Damage restore 17% of missing shields. Additionally, Throwing Stars deals Energy damage.",
+    "CommanderPerkDescription": "Eliminations with Energy Damage restore 17% of missing Shields. Additionally, Throwing Stars deals Energy Damage.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_EnergySiphon_T02",
     "Description": "\u0022When I\u0027m outside Homebase I malf... I work wrong.\u0022 - Robo-Ray",
     "HeroAbilities": [
@@ -77316,7 +77316,7 @@
       "Ability:Kit_Ninja_KunaiStorm"
     ],
     "HeroPerk": "Energy Siphon",
-    "HeroPerkDescription": "Eliminations with Energy Damage restore 8.5% of missing shields.",
+    "HeroPerkDescription": "Eliminations with Energy Damage restore 8.5% of missing Shields.",
     "HeroPerkTemplate": "Ability:Kit_Perk_H_EnergySiphon_T01",
     "HeroStatLine": "Shields",
     "HeroTags": [
@@ -77361,7 +77361,7 @@
       "Ability:Kit_Ninja_SmokeBomb"
     ],
     "HeroPerk": "Corrupted Aura",
-    "HeroPerkDescription": "During Shadow Stance, deal 16 base damage per second to nearby enemies.",
+    "HeroPerkDescription": "During Shadow Stance, deal 16 base Damage per second to nearby enemies.",
     "HeroPerkRequirement": {
       "CommanderSubType": "Ninja",
       "Description": "Requires Ninja as commander."
@@ -77412,7 +77412,7 @@
       "Ability:Kit_Ninja_SmokeBomb"
     ],
     "HeroPerk": "Corrupted Aura",
-    "HeroPerkDescription": "During Shadow Stance, deal 16 base damage per second to nearby enemies.",
+    "HeroPerkDescription": "During Shadow Stance, deal 16 base Damage per second to nearby enemies.",
     "HeroPerkRequirement": {
       "CommanderSubType": "Ninja",
       "Description": "Requires Ninja as commander."
@@ -77464,7 +77464,7 @@
       "Ability:Kit_Ninja_SmokeBomb"
     ],
     "HeroPerk": "Corrupted Aura",
-    "HeroPerkDescription": "During Shadow Stance, deal 16 base damage per second to nearby enemies.",
+    "HeroPerkDescription": "During Shadow Stance, deal 16 base Damage per second to nearby enemies.",
     "HeroPerkRequirement": {
       "CommanderSubType": "Ninja",
       "Description": "Requires Ninja as commander."
@@ -77517,7 +77517,7 @@
       "Ability:Kit_Ninja_SmokeBomb"
     ],
     "HeroPerk": "Corrupted Aura",
-    "HeroPerkDescription": "During Shadow Stance, deal 16 base damage per second to nearby enemies.",
+    "HeroPerkDescription": "During Shadow Stance, deal 16 base Damage per second to nearby enemies.",
     "HeroPerkRequirement": {
       "CommanderSubType": "Ninja",
       "Description": "Requires Ninja as commander."
@@ -77571,7 +77571,7 @@
       "Ability:Kit_Ninja_SmokeBomb"
     ],
     "HeroPerk": "Corrupted Aura",
-    "HeroPerkDescription": "During Shadow Stance, deal 16 base damage per second to nearby enemies.",
+    "HeroPerkDescription": "During Shadow Stance, deal 16 base Damage per second to nearby enemies.",
     "HeroPerkRequirement": {
       "CommanderSubType": "Ninja",
       "Description": "Requires Ninja as commander."
@@ -77614,7 +77614,7 @@
       "Ability:Kit_Ninja_SmokeBomb"
     ],
     "HeroPerk": "Corrupted Aura",
-    "HeroPerkDescription": "During Shadow Stance, deal 16 base damage per second to nearby enemies.",
+    "HeroPerkDescription": "During Shadow Stance, deal 16 base Damage per second to nearby enemies.",
     "HeroPerkRequirement": {
       "CommanderSubType": "Ninja",
       "Description": "Requires Ninja as commander."
@@ -77666,7 +77666,7 @@
       "Ability:Kit_Ninja_SmokeBomb"
     ],
     "HeroPerk": "Corrupted Aura",
-    "HeroPerkDescription": "During Shadow Stance, deal 16 base damage per second to nearby enemies.",
+    "HeroPerkDescription": "During Shadow Stance, deal 16 base Damage per second to nearby enemies.",
     "HeroPerkRequirement": {
       "CommanderSubType": "Ninja",
       "Description": "Requires Ninja as commander."
@@ -77721,7 +77721,7 @@
       "Ability:Kit_Ninja_SmokeBomb"
     ],
     "HeroPerk": "Corrupted Aura",
-    "HeroPerkDescription": "During Shadow Stance, deal 16 base damage per second to nearby enemies.",
+    "HeroPerkDescription": "During Shadow Stance, deal 16 base Damage per second to nearby enemies.",
     "HeroPerkRequirement": {
       "CommanderSubType": "Ninja",
       "Description": "Requires Ninja as commander."
@@ -77778,7 +77778,7 @@
       "Ability:Kit_Ninja_SmokeBomb"
     ],
     "HeroPerk": "Corrupted Aura",
-    "HeroPerkDescription": "During Shadow Stance, deal 16 base damage per second to nearby enemies.",
+    "HeroPerkDescription": "During Shadow Stance, deal 16 base Damage per second to nearby enemies.",
     "HeroPerkRequirement": {
       "CommanderSubType": "Ninja",
       "Description": "Requires Ninja as commander."
@@ -77837,7 +77837,7 @@
       "Ability:Kit_Ninja_SmokeBomb"
     ],
     "HeroPerk": "Corrupted Aura",
-    "HeroPerkDescription": "During Shadow Stance, deal 16 base damage per second to nearby enemies.",
+    "HeroPerkDescription": "During Shadow Stance, deal 16 base Damage per second to nearby enemies.",
     "HeroPerkRequirement": {
       "CommanderSubType": "Ninja",
       "Description": "Requires Ninja as commander."
@@ -78377,7 +78377,7 @@
       "Ability:Kit_Ninja_ThrowingStars"
     ],
     "HeroPerk": "Eat My Space Dust",
-    "HeroPerkDescription": "Sprint  Stamina maximum is doubled.",
+    "HeroPerkDescription": "Sprint Stamina maximum is doubled.",
     "HeroPerkTemplate": "Ability:Kit_Perk_H_EatMySpacedustT01",
     "HeroStatLine": "Ability",
     "HeroTags": [
@@ -78422,7 +78422,7 @@
       "Ability:Kit_Ninja_ThrowingStars"
     ],
     "HeroPerk": "Eat My Space Dust",
-    "HeroPerkDescription": "Sprint  Stamina maximum is doubled.",
+    "HeroPerkDescription": "Sprint Stamina maximum is doubled.",
     "HeroPerkTemplate": "Ability:Kit_Perk_H_EatMySpacedustT01",
     "HeroStatLine": "Ability",
     "HeroTags": [
@@ -78468,7 +78468,7 @@
       "Ability:Kit_Ninja_ThrowingStars"
     ],
     "HeroPerk": "Eat My Space Dust",
-    "HeroPerkDescription": "Sprint  Stamina maximum is doubled.",
+    "HeroPerkDescription": "Sprint Stamina maximum is doubled.",
     "HeroPerkTemplate": "Ability:Kit_Perk_H_EatMySpacedustT01",
     "HeroStatLine": "Ability",
     "HeroTags": [
@@ -78515,7 +78515,7 @@
       "Ability:Kit_Ninja_ThrowingStars"
     ],
     "HeroPerk": "Eat My Space Dust",
-    "HeroPerkDescription": "Sprint  Stamina maximum is doubled.",
+    "HeroPerkDescription": "Sprint Stamina maximum is doubled.",
     "HeroPerkTemplate": "Ability:Kit_Perk_H_EatMySpacedustT01",
     "HeroStatLine": "Ability",
     "HeroTags": [
@@ -78563,7 +78563,7 @@
       "Ability:Kit_Ninja_ThrowingStars"
     ],
     "HeroPerk": "Eat My Space Dust",
-    "HeroPerkDescription": "Sprint  Stamina maximum is doubled.",
+    "HeroPerkDescription": "Sprint Stamina maximum is doubled.",
     "HeroPerkTemplate": "Ability:Kit_Perk_H_EatMySpacedustT01",
     "HeroStatLine": "Ability",
     "HeroTags": [
@@ -98498,7 +98498,7 @@
     "DisplayName": "Azalea Clark",
     "SubType": "Outlander",
     "CommanderPerk": "Space Technology \u002B",
-    "CommanderPerkDescription": "Increases Ability Energy Damage by 75.5%. Additionally, Shock Tower explodes, dealing 107 Energy Damage to nearby enemies.",
+    "CommanderPerkDescription": "Increases Ability Energy Damage by 75.5%. Additionally, Shock Tower explodes, dealing 107 Base Energy Damage to nearby enemies.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_SpaceTechnology_T02",
     "Description": "The fearless Cap\u0027n of the VSS Gallant.",
     "HeroAbilities": [
@@ -98547,7 +98547,7 @@
     "DisplayName": "Azalea Clark",
     "SubType": "Outlander",
     "CommanderPerk": "Space Technology \u002B",
-    "CommanderPerkDescription": "Increases Ability Energy Damage by 75.5%. Additionally, Shock Tower explodes, dealing 107 Energy Damage to nearby enemies.",
+    "CommanderPerkDescription": "Increases Ability Energy Damage by 75.5%. Additionally, Shock Tower explodes, dealing 107 Base Energy Damage to nearby enemies.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_SpaceTechnology_T02",
     "Description": "The fearless Cap\u0027n of the VSS Gallant.",
     "HeroAbilities": [
@@ -98597,7 +98597,7 @@
     "DisplayName": "Azalea Clark",
     "SubType": "Outlander",
     "CommanderPerk": "Space Technology \u002B",
-    "CommanderPerkDescription": "Increases Ability Energy Damage by 75.5%. Additionally, Shock Tower explodes, dealing 107 Energy Damage to nearby enemies.",
+    "CommanderPerkDescription": "Increases Ability Energy Damage by 75.5%. Additionally, Shock Tower explodes, dealing 107 Base Energy Damage to nearby enemies.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_SpaceTechnology_T02",
     "Description": "The fearless Cap\u0027n of the VSS Gallant.",
     "HeroAbilities": [
@@ -98648,7 +98648,7 @@
     "DisplayName": "Azalea Clark",
     "SubType": "Outlander",
     "CommanderPerk": "Space Technology \u002B",
-    "CommanderPerkDescription": "Increases Ability Energy Damage by 75.5%. Additionally, Shock Tower explodes, dealing 107 Energy Damage to nearby enemies.",
+    "CommanderPerkDescription": "Increases Ability Energy Damage by 75.5%. Additionally, Shock Tower explodes, dealing 107 Base Energy Damage to nearby enemies.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_SpaceTechnology_T02",
     "Description": "The fearless Cap\u0027n of the VSS Gallant.",
     "HeroAbilities": [
@@ -98700,7 +98700,7 @@
     "DisplayName": "Azalea Clark",
     "SubType": "Outlander",
     "CommanderPerk": "Space Technology \u002B",
-    "CommanderPerkDescription": "Increases Ability Energy Damage by 75.5%. Additionally, Shock Tower explodes, dealing 107 Energy Damage to nearby enemies.",
+    "CommanderPerkDescription": "Increases Ability Energy Damage by 75.5%. Additionally, Shock Tower explodes, dealing 107 Base Energy Damage to nearby enemies.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_SpaceTechnology_T02",
     "Description": "The fearless Cap\u0027n of the VSS Gallant.",
     "HeroAbilities": [
@@ -98741,7 +98741,7 @@
     "DisplayName": "Cyberclops",
     "SubType": "Outlander",
     "CommanderPerk": "Plasma Arc \u002B",
-    "CommanderPerkDescription": "Energy Damage has a 20% chance to zap nearby enemies for 116% of damage dealt. Additionally T.E.D.D.Y. deals Energy Damage.",
+    "CommanderPerkDescription": "Energy Damage has a 20% chance to Zap nearby enemies for 116% of damage dealt. Additionally T.E.D.D.Y. deals Energy Damage.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_PlasmaArc_T02",
     "Description": "\u0022My purpose is to defend humanity. Or something!\u0022 - Cyberclops",
     "HeroAbilities": [
@@ -98750,7 +98750,7 @@
       "Ability:Kit_Outlander_GroundWave"
     ],
     "HeroPerk": "Plasma Arc",
-    "HeroPerkDescription": "Energy Damage has a 20% chance to zap nearby enemies for 58% of damage dealt.",
+    "HeroPerkDescription": "Energy Damage has a 20% chance to Zap nearby enemies for 58% of damage dealt.",
     "HeroPerkTemplate": "Ability:Kit_Perk_H_PlasmaArc_T01",
     "HeroStatLine": "Shields",
     "HeroTags": [
@@ -98789,7 +98789,7 @@
     "DisplayName": "Cyberclops",
     "SubType": "Outlander",
     "CommanderPerk": "Plasma Arc \u002B",
-    "CommanderPerkDescription": "Energy Damage has a 20% chance to zap nearby enemies for 116% of damage dealt. Additionally T.E.D.D.Y. deals Energy Damage.",
+    "CommanderPerkDescription": "Energy Damage has a 20% chance to Zap nearby enemies for 116% of damage dealt. Additionally T.E.D.D.Y. deals Energy Damage.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_PlasmaArc_T02",
     "Description": "\u0022My purpose is to defend humanity. Or something!\u0022 - Cyberclops",
     "HeroAbilities": [
@@ -98798,7 +98798,7 @@
       "Ability:Kit_Outlander_GroundWave"
     ],
     "HeroPerk": "Plasma Arc",
-    "HeroPerkDescription": "Energy Damage has a 20% chance to zap nearby enemies for 58% of damage dealt.",
+    "HeroPerkDescription": "Energy Damage has a 20% chance to Zap nearby enemies for 58% of damage dealt.",
     "HeroPerkTemplate": "Ability:Kit_Perk_H_PlasmaArc_T01",
     "HeroStatLine": "Shields",
     "HeroTags": [
@@ -98838,7 +98838,7 @@
     "DisplayName": "Cyberclops",
     "SubType": "Outlander",
     "CommanderPerk": "Plasma Arc \u002B",
-    "CommanderPerkDescription": "Energy Damage has a 20% chance to zap nearby enemies for 116% of damage dealt. Additionally T.E.D.D.Y. deals Energy Damage.",
+    "CommanderPerkDescription": "Energy Damage has a 20% chance to Zap nearby enemies for 116% of damage dealt. Additionally T.E.D.D.Y. deals Energy Damage.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_PlasmaArc_T02",
     "Description": "\u0022My purpose is to defend humanity. Or something!\u0022 - Cyberclops",
     "HeroAbilities": [
@@ -98847,7 +98847,7 @@
       "Ability:Kit_Outlander_GroundWave"
     ],
     "HeroPerk": "Plasma Arc",
-    "HeroPerkDescription": "Energy Damage has a 20% chance to zap nearby enemies for 58% of damage dealt.",
+    "HeroPerkDescription": "Energy Damage has a 20% chance to Zap nearby enemies for 58% of damage dealt.",
     "HeroPerkTemplate": "Ability:Kit_Perk_H_PlasmaArc_T01",
     "HeroStatLine": "Shields",
     "HeroTags": [
@@ -98888,7 +98888,7 @@
     "DisplayName": "Cyberclops",
     "SubType": "Outlander",
     "CommanderPerk": "Plasma Arc \u002B",
-    "CommanderPerkDescription": "Energy Damage has a 20% chance to zap nearby enemies for 116% of damage dealt. Additionally T.E.D.D.Y. deals Energy Damage.",
+    "CommanderPerkDescription": "Energy Damage has a 20% chance to Zap nearby enemies for 116% of damage dealt. Additionally T.E.D.D.Y. deals Energy Damage.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_PlasmaArc_T02",
     "Description": "\u0022My purpose is to defend humanity. Or something!\u0022 - Cyberclops",
     "HeroAbilities": [
@@ -98897,7 +98897,7 @@
       "Ability:Kit_Outlander_GroundWave"
     ],
     "HeroPerk": "Plasma Arc",
-    "HeroPerkDescription": "Energy Damage has a 20% chance to zap nearby enemies for 58% of damage dealt.",
+    "HeroPerkDescription": "Energy Damage has a 20% chance to Zap nearby enemies for 58% of damage dealt.",
     "HeroPerkTemplate": "Ability:Kit_Perk_H_PlasmaArc_T01",
     "HeroStatLine": "Shields",
     "HeroTags": [
@@ -98939,7 +98939,7 @@
     "DisplayName": "Cyberclops",
     "SubType": "Outlander",
     "CommanderPerk": "Plasma Arc \u002B",
-    "CommanderPerkDescription": "Energy Damage has a 20% chance to zap nearby enemies for 116% of damage dealt. Additionally T.E.D.D.Y. deals Energy Damage.",
+    "CommanderPerkDescription": "Energy Damage has a 20% chance to Zap nearby enemies for 116% of damage dealt. Additionally T.E.D.D.Y. deals Energy Damage.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_PlasmaArc_T02",
     "Description": "\u0022My purpose is to defend humanity. Or something!\u0022 - Cyberclops",
     "HeroAbilities": [
@@ -98948,7 +98948,7 @@
       "Ability:Kit_Outlander_GroundWave"
     ],
     "HeroPerk": "Plasma Arc",
-    "HeroPerkDescription": "Energy Damage has a 20% chance to zap nearby enemies for 58% of damage dealt.",
+    "HeroPerkDescription": "Energy Damage has a 20% chance to Zap nearby enemies for 58% of damage dealt.",
     "HeroPerkTemplate": "Ability:Kit_Perk_H_PlasmaArc_T01",
     "HeroStatLine": "Shields",
     "HeroTags": [
@@ -98979,7 +98979,7 @@
     "DisplayName": "Cyberclops",
     "SubType": "Outlander",
     "CommanderPerk": "Plasma Arc \u002B",
-    "CommanderPerkDescription": "Energy Damage has a 20% chance to zap nearby enemies for 116% of damage dealt. Additionally T.E.D.D.Y. deals Energy Damage.",
+    "CommanderPerkDescription": "Energy Damage has a 20% chance to Zap nearby enemies for 116% of damage dealt. Additionally T.E.D.D.Y. deals Energy Damage.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_PlasmaArc_T02",
     "Description": "\u0022My purpose is to defend humanity. Or something!\u0022 - Cyberclops",
     "HeroAbilities": [
@@ -98988,7 +98988,7 @@
       "Ability:Kit_Outlander_GroundWave"
     ],
     "HeroPerk": "Plasma Arc",
-    "HeroPerkDescription": "Energy Damage has a 20% chance to zap nearby enemies for 58% of damage dealt.",
+    "HeroPerkDescription": "Energy Damage has a 20% chance to Zap nearby enemies for 58% of damage dealt.",
     "HeroPerkTemplate": "Ability:Kit_Perk_H_PlasmaArc_T01",
     "HeroStatLine": "Shields",
     "HeroTags": [
@@ -99033,7 +99033,7 @@
     "DisplayName": "Cyberclops",
     "SubType": "Outlander",
     "CommanderPerk": "Plasma Arc \u002B",
-    "CommanderPerkDescription": "Energy Damage has a 20% chance to zap nearby enemies for 116% of damage dealt. Additionally T.E.D.D.Y. deals Energy Damage.",
+    "CommanderPerkDescription": "Energy Damage has a 20% chance to Zap nearby enemies for 116% of damage dealt. Additionally T.E.D.D.Y. deals Energy Damage.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_PlasmaArc_T02",
     "Description": "\u0022My purpose is to defend humanity. Or something!\u0022 - Cyberclops",
     "HeroAbilities": [
@@ -99042,7 +99042,7 @@
       "Ability:Kit_Outlander_GroundWave"
     ],
     "HeroPerk": "Plasma Arc",
-    "HeroPerkDescription": "Energy Damage has a 20% chance to zap nearby enemies for 58% of damage dealt.",
+    "HeroPerkDescription": "Energy Damage has a 20% chance to Zap nearby enemies for 58% of damage dealt.",
     "HeroPerkTemplate": "Ability:Kit_Perk_H_PlasmaArc_T01",
     "HeroStatLine": "Shields",
     "HeroTags": [
@@ -99090,7 +99090,7 @@
     "DisplayName": "Cyberclops",
     "SubType": "Outlander",
     "CommanderPerk": "Plasma Arc \u002B",
-    "CommanderPerkDescription": "Energy Damage has a 20% chance to zap nearby enemies for 116% of damage dealt. Additionally T.E.D.D.Y. deals Energy Damage.",
+    "CommanderPerkDescription": "Energy Damage has a 20% chance to Zap nearby enemies for 116% of damage dealt. Additionally T.E.D.D.Y. deals Energy Damage.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_PlasmaArc_T02",
     "Description": "\u0022My purpose is to defend humanity. Or something!\u0022 - Cyberclops",
     "HeroAbilities": [
@@ -99099,7 +99099,7 @@
       "Ability:Kit_Outlander_GroundWave"
     ],
     "HeroPerk": "Plasma Arc",
-    "HeroPerkDescription": "Energy Damage has a 20% chance to zap nearby enemies for 58% of damage dealt.",
+    "HeroPerkDescription": "Energy Damage has a 20% chance to Zap nearby enemies for 58% of damage dealt.",
     "HeroPerkTemplate": "Ability:Kit_Perk_H_PlasmaArc_T01",
     "HeroStatLine": "Shields",
     "HeroTags": [
@@ -99149,7 +99149,7 @@
     "DisplayName": "Cyberclops",
     "SubType": "Outlander",
     "CommanderPerk": "Plasma Arc \u002B",
-    "CommanderPerkDescription": "Energy Damage has a 20% chance to zap nearby enemies for 116% of damage dealt. Additionally T.E.D.D.Y. deals Energy Damage.",
+    "CommanderPerkDescription": "Energy Damage has a 20% chance to Zap nearby enemies for 116% of damage dealt. Additionally T.E.D.D.Y. deals Energy Damage.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_PlasmaArc_T02",
     "Description": "\u0022My purpose is to defend humanity. Or something!\u0022 - Cyberclops",
     "HeroAbilities": [
@@ -99158,7 +99158,7 @@
       "Ability:Kit_Outlander_GroundWave"
     ],
     "HeroPerk": "Plasma Arc",
-    "HeroPerkDescription": "Energy Damage has a 20% chance to zap nearby enemies for 58% of damage dealt.",
+    "HeroPerkDescription": "Energy Damage has a 20% chance to Zap nearby enemies for 58% of damage dealt.",
     "HeroPerkTemplate": "Ability:Kit_Perk_H_PlasmaArc_T01",
     "HeroStatLine": "Shields",
     "HeroTags": [
@@ -99210,7 +99210,7 @@
     "DisplayName": "Cyberclops",
     "SubType": "Outlander",
     "CommanderPerk": "Plasma Arc \u002B",
-    "CommanderPerkDescription": "Energy Damage has a 20% chance to zap nearby enemies for 116% of damage dealt. Additionally T.E.D.D.Y. deals Energy Damage.",
+    "CommanderPerkDescription": "Energy Damage has a 20% chance to Zap nearby enemies for 116% of damage dealt. Additionally T.E.D.D.Y. deals Energy Damage.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_PlasmaArc_T02",
     "Description": "\u0022My purpose is to defend humanity. Or something!\u0022 - Cyberclops",
     "HeroAbilities": [
@@ -99219,7 +99219,7 @@
       "Ability:Kit_Outlander_GroundWave"
     ],
     "HeroPerk": "Plasma Arc",
-    "HeroPerkDescription": "Energy Damage has a 20% chance to zap nearby enemies for 58% of damage dealt.",
+    "HeroPerkDescription": "Energy Damage has a 20% chance to Zap nearby enemies for 58% of damage dealt.",
     "HeroPerkTemplate": "Ability:Kit_Perk_H_PlasmaArc_T01",
     "HeroStatLine": "Shields",
     "HeroTags": [
@@ -99261,7 +99261,7 @@
     "DisplayName": "Main Stage Quinn",
     "SubType": "Outlander",
     "CommanderPerk": "Sub Wafers \u002B",
-    "CommanderPerkDescription": "Harvesting Metal  objects has a 100% chance to give Sub Wafers. Consuming Sub Wafers grants Rockin\u0027 Riff (Increases Damage by 50% and Melee Attack Speed by 32%, decaying over 8 seconds).",
+    "CommanderPerkDescription": "Harvesting Metal objects has a 100% chance to give Sub Wafers. Consuming Sub Wafers grants Rockin\u0027 Riff (Increases Damage by 50% and Melee Attack Speed by 32%, decaying over 8 seconds).",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_GnarlyPop_T02",
     "Description": "Get amped! \u2013 Quinn",
     "HeroAbilities": [
@@ -99270,7 +99270,7 @@
       "Ability:Kit_Outlander_GroundWave"
     ],
     "HeroPerk": "Sub Wafers",
-    "HeroPerkDescription": "Harvesting Metal  objects has a 32% chance to give Sub Wafers. Consuming Sub Wafers grants Rockin\u0027 Riff (Increases Damage by 50% and Melee Attack Speed by 32%, decaying over 8 seconds).",
+    "HeroPerkDescription": "Harvesting Metal objects has a 32% chance to give Sub Wafers. Consuming Sub Wafers grants Rockin\u0027 Riff (Increases Damage by 50% and Melee Attack Speed by 32%, decaying over 8 seconds).",
     "HeroPerkTemplate": "Ability:Kit_Perk_H_GnarlyPop_T01",
     "HeroStatLine": "Balanced",
     "HeroTags": [
@@ -99310,7 +99310,7 @@
     "DisplayName": "Main Stage Quinn",
     "SubType": "Outlander",
     "CommanderPerk": "Sub Wafers \u002B",
-    "CommanderPerkDescription": "Harvesting Metal  objects has a 100% chance to give Sub Wafers. Consuming Sub Wafers grants Rockin\u0027 Riff (Increases Damage by 50% and Melee Attack Speed by 32%, decaying over 8 seconds).",
+    "CommanderPerkDescription": "Harvesting Metal objects has a 100% chance to give Sub Wafers. Consuming Sub Wafers grants Rockin\u0027 Riff (Increases Damage by 50% and Melee Attack Speed by 32%, decaying over 8 seconds).",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_GnarlyPop_T02",
     "Description": "Get amped! \u2013 Quinn",
     "HeroAbilities": [
@@ -99319,7 +99319,7 @@
       "Ability:Kit_Outlander_GroundWave"
     ],
     "HeroPerk": "Sub Wafers",
-    "HeroPerkDescription": "Harvesting Metal  objects has a 32% chance to give Sub Wafers. Consuming Sub Wafers grants Rockin\u0027 Riff (Increases Damage by 50% and Melee Attack Speed by 32%, decaying over 8 seconds).",
+    "HeroPerkDescription": "Harvesting Metal objects has a 32% chance to give Sub Wafers. Consuming Sub Wafers grants Rockin\u0027 Riff (Increases Damage by 50% and Melee Attack Speed by 32%, decaying over 8 seconds).",
     "HeroPerkTemplate": "Ability:Kit_Perk_H_GnarlyPop_T01",
     "HeroStatLine": "Balanced",
     "HeroTags": [
@@ -99360,7 +99360,7 @@
     "DisplayName": "Main Stage Quinn",
     "SubType": "Outlander",
     "CommanderPerk": "Sub Wafers \u002B",
-    "CommanderPerkDescription": "Harvesting Metal  objects has a 100% chance to give Sub Wafers. Consuming Sub Wafers grants Rockin\u0027 Riff (Increases Damage by 50% and Melee Attack Speed by 32%, decaying over 8 seconds).",
+    "CommanderPerkDescription": "Harvesting Metal objects has a 100% chance to give Sub Wafers. Consuming Sub Wafers grants Rockin\u0027 Riff (Increases Damage by 50% and Melee Attack Speed by 32%, decaying over 8 seconds).",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_GnarlyPop_T02",
     "Description": "Get amped! \u2013 Quinn",
     "HeroAbilities": [
@@ -99369,7 +99369,7 @@
       "Ability:Kit_Outlander_GroundWave"
     ],
     "HeroPerk": "Sub Wafers",
-    "HeroPerkDescription": "Harvesting Metal  objects has a 32% chance to give Sub Wafers. Consuming Sub Wafers grants Rockin\u0027 Riff (Increases Damage by 50% and Melee Attack Speed by 32%, decaying over 8 seconds).",
+    "HeroPerkDescription": "Harvesting Metal objects has a 32% chance to give Sub Wafers. Consuming Sub Wafers grants Rockin\u0027 Riff (Increases Damage by 50% and Melee Attack Speed by 32%, decaying over 8 seconds).",
     "HeroPerkTemplate": "Ability:Kit_Perk_H_GnarlyPop_T01",
     "HeroStatLine": "Balanced",
     "HeroTags": [
@@ -99411,7 +99411,7 @@
     "DisplayName": "Main Stage Quinn",
     "SubType": "Outlander",
     "CommanderPerk": "Sub Wafers \u002B",
-    "CommanderPerkDescription": "Harvesting Metal  objects has a 100% chance to give Sub Wafers. Consuming Sub Wafers grants Rockin\u0027 Riff (Increases Damage by 50% and Melee Attack Speed by 32%, decaying over 8 seconds).",
+    "CommanderPerkDescription": "Harvesting Metal objects has a 100% chance to give Sub Wafers. Consuming Sub Wafers grants Rockin\u0027 Riff (Increases Damage by 50% and Melee Attack Speed by 32%, decaying over 8 seconds).",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_GnarlyPop_T02",
     "Description": "Get amped! \u2013 Quinn",
     "HeroAbilities": [
@@ -99420,7 +99420,7 @@
       "Ability:Kit_Outlander_GroundWave"
     ],
     "HeroPerk": "Sub Wafers",
-    "HeroPerkDescription": "Harvesting Metal  objects has a 32% chance to give Sub Wafers. Consuming Sub Wafers grants Rockin\u0027 Riff (Increases Damage by 50% and Melee Attack Speed by 32%, decaying over 8 seconds).",
+    "HeroPerkDescription": "Harvesting Metal objects has a 32% chance to give Sub Wafers. Consuming Sub Wafers grants Rockin\u0027 Riff (Increases Damage by 50% and Melee Attack Speed by 32%, decaying over 8 seconds).",
     "HeroPerkTemplate": "Ability:Kit_Perk_H_GnarlyPop_T01",
     "HeroStatLine": "Balanced",
     "HeroTags": [
@@ -99463,7 +99463,7 @@
     "DisplayName": "Main Stage Quinn",
     "SubType": "Outlander",
     "CommanderPerk": "Sub Wafers \u002B",
-    "CommanderPerkDescription": "Harvesting Metal  objects has a 100% chance to give Sub Wafers. Consuming Sub Wafers grants Rockin\u0027 Riff (Increases Damage by 50% and Melee Attack Speed by 32%, decaying over 8 seconds).",
+    "CommanderPerkDescription": "Harvesting Metal objects has a 100% chance to give Sub Wafers. Consuming Sub Wafers grants Rockin\u0027 Riff (Increases Damage by 50% and Melee Attack Speed by 32%, decaying over 8 seconds).",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_GnarlyPop_T02",
     "Description": "Get amped! \u2013 Quinn",
     "HeroAbilities": [
@@ -99472,7 +99472,7 @@
       "Ability:Kit_Outlander_GroundWave"
     ],
     "HeroPerk": "Sub Wafers",
-    "HeroPerkDescription": "Harvesting Metal  objects has a 32% chance to give Sub Wafers. Consuming Sub Wafers grants Rockin\u0027 Riff (Increases Damage by 50% and Melee Attack Speed by 32%, decaying over 8 seconds).",
+    "HeroPerkDescription": "Harvesting Metal objects has a 32% chance to give Sub Wafers. Consuming Sub Wafers grants Rockin\u0027 Riff (Increases Damage by 50% and Melee Attack Speed by 32%, decaying over 8 seconds).",
     "HeroPerkTemplate": "Ability:Kit_Perk_H_GnarlyPop_T01",
     "HeroStatLine": "Balanced",
     "HeroTags": [
@@ -99504,7 +99504,7 @@
     "DisplayName": "Main Stage Quinn",
     "SubType": "Outlander",
     "CommanderPerk": "Sub Wafers \u002B",
-    "CommanderPerkDescription": "Harvesting Metal  objects has a 100% chance to give Sub Wafers. Consuming Sub Wafers grants Rockin\u0027 Riff (Increases Damage by 50% and Melee Attack Speed by 32%, decaying over 8 seconds).",
+    "CommanderPerkDescription": "Harvesting Metal objects has a 100% chance to give Sub Wafers. Consuming Sub Wafers grants Rockin\u0027 Riff (Increases Damage by 50% and Melee Attack Speed by 32%, decaying over 8 seconds).",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_GnarlyPop_T02",
     "Description": "Get amped! \u2013 Quinn",
     "HeroAbilities": [
@@ -99513,7 +99513,7 @@
       "Ability:Kit_Outlander_GroundWave"
     ],
     "HeroPerk": "Sub Wafers",
-    "HeroPerkDescription": "Harvesting Metal  objects has a 32% chance to give Sub Wafers. Consuming Sub Wafers grants Rockin\u0027 Riff (Increases Damage by 50% and Melee Attack Speed by 32%, decaying over 8 seconds).",
+    "HeroPerkDescription": "Harvesting Metal objects has a 32% chance to give Sub Wafers. Consuming Sub Wafers grants Rockin\u0027 Riff (Increases Damage by 50% and Melee Attack Speed by 32%, decaying over 8 seconds).",
     "HeroPerkTemplate": "Ability:Kit_Perk_H_GnarlyPop_T01",
     "HeroStatLine": "Balanced",
     "HeroTags": [
@@ -99559,7 +99559,7 @@
     "DisplayName": "Main Stage Quinn",
     "SubType": "Outlander",
     "CommanderPerk": "Sub Wafers \u002B",
-    "CommanderPerkDescription": "Harvesting Metal  objects has a 100% chance to give Sub Wafers. Consuming Sub Wafers grants Rockin\u0027 Riff (Increases Damage by 50% and Melee Attack Speed by 32%, decaying over 8 seconds).",
+    "CommanderPerkDescription": "Harvesting Metal objects has a 100% chance to give Sub Wafers. Consuming Sub Wafers grants Rockin\u0027 Riff (Increases Damage by 50% and Melee Attack Speed by 32%, decaying over 8 seconds).",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_GnarlyPop_T02",
     "Description": "Get amped! \u2013 Quinn",
     "HeroAbilities": [
@@ -99568,7 +99568,7 @@
       "Ability:Kit_Outlander_GroundWave"
     ],
     "HeroPerk": "Sub Wafers",
-    "HeroPerkDescription": "Harvesting Metal  objects has a 32% chance to give Sub Wafers. Consuming Sub Wafers grants Rockin\u0027 Riff (Increases Damage by 50% and Melee Attack Speed by 32%, decaying over 8 seconds).",
+    "HeroPerkDescription": "Harvesting Metal objects has a 32% chance to give Sub Wafers. Consuming Sub Wafers grants Rockin\u0027 Riff (Increases Damage by 50% and Melee Attack Speed by 32%, decaying over 8 seconds).",
     "HeroPerkTemplate": "Ability:Kit_Perk_H_GnarlyPop_T01",
     "HeroStatLine": "Balanced",
     "HeroTags": [
@@ -99617,7 +99617,7 @@
     "DisplayName": "Main Stage Quinn",
     "SubType": "Outlander",
     "CommanderPerk": "Sub Wafers \u002B",
-    "CommanderPerkDescription": "Harvesting Metal  objects has a 100% chance to give Sub Wafers. Consuming Sub Wafers grants Rockin\u0027 Riff (Increases Damage by 50% and Melee Attack Speed by 32%, decaying over 8 seconds).",
+    "CommanderPerkDescription": "Harvesting Metal objects has a 100% chance to give Sub Wafers. Consuming Sub Wafers grants Rockin\u0027 Riff (Increases Damage by 50% and Melee Attack Speed by 32%, decaying over 8 seconds).",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_GnarlyPop_T02",
     "Description": "Get amped! \u2013 Quinn",
     "HeroAbilities": [
@@ -99626,7 +99626,7 @@
       "Ability:Kit_Outlander_GroundWave"
     ],
     "HeroPerk": "Sub Wafers",
-    "HeroPerkDescription": "Harvesting Metal  objects has a 32% chance to give Sub Wafers. Consuming Sub Wafers grants Rockin\u0027 Riff (Increases Damage by 50% and Melee Attack Speed by 32%, decaying over 8 seconds).",
+    "HeroPerkDescription": "Harvesting Metal objects has a 32% chance to give Sub Wafers. Consuming Sub Wafers grants Rockin\u0027 Riff (Increases Damage by 50% and Melee Attack Speed by 32%, decaying over 8 seconds).",
     "HeroPerkTemplate": "Ability:Kit_Perk_H_GnarlyPop_T01",
     "HeroStatLine": "Balanced",
     "HeroTags": [
@@ -99677,7 +99677,7 @@
     "DisplayName": "Main Stage Quinn",
     "SubType": "Outlander",
     "CommanderPerk": "Sub Wafers \u002B",
-    "CommanderPerkDescription": "Harvesting Metal  objects has a 100% chance to give Sub Wafers. Consuming Sub Wafers grants Rockin\u0027 Riff (Increases Damage by 50% and Melee Attack Speed by 32%, decaying over 8 seconds).",
+    "CommanderPerkDescription": "Harvesting Metal objects has a 100% chance to give Sub Wafers. Consuming Sub Wafers grants Rockin\u0027 Riff (Increases Damage by 50% and Melee Attack Speed by 32%, decaying over 8 seconds).",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_GnarlyPop_T02",
     "Description": "Get amped! \u2013 Quinn",
     "HeroAbilities": [
@@ -99686,7 +99686,7 @@
       "Ability:Kit_Outlander_GroundWave"
     ],
     "HeroPerk": "Sub Wafers",
-    "HeroPerkDescription": "Harvesting Metal  objects has a 32% chance to give Sub Wafers. Consuming Sub Wafers grants Rockin\u0027 Riff (Increases Damage by 50% and Melee Attack Speed by 32%, decaying over 8 seconds).",
+    "HeroPerkDescription": "Harvesting Metal objects has a 32% chance to give Sub Wafers. Consuming Sub Wafers grants Rockin\u0027 Riff (Increases Damage by 50% and Melee Attack Speed by 32%, decaying over 8 seconds).",
     "HeroPerkTemplate": "Ability:Kit_Perk_H_GnarlyPop_T01",
     "HeroStatLine": "Balanced",
     "HeroTags": [
@@ -99739,7 +99739,7 @@
     "DisplayName": "Main Stage Quinn",
     "SubType": "Outlander",
     "CommanderPerk": "Sub Wafers \u002B",
-    "CommanderPerkDescription": "Harvesting Metal  objects has a 100% chance to give Sub Wafers. Consuming Sub Wafers grants Rockin\u0027 Riff (Increases Damage by 50% and Melee Attack Speed by 32%, decaying over 8 seconds).",
+    "CommanderPerkDescription": "Harvesting Metal objects has a 100% chance to give Sub Wafers. Consuming Sub Wafers grants Rockin\u0027 Riff (Increases Damage by 50% and Melee Attack Speed by 32%, decaying over 8 seconds).",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_GnarlyPop_T02",
     "Description": "Get amped! \u2013 Quinn",
     "HeroAbilities": [
@@ -99748,7 +99748,7 @@
       "Ability:Kit_Outlander_GroundWave"
     ],
     "HeroPerk": "Sub Wafers",
-    "HeroPerkDescription": "Harvesting Metal  objects has a 32% chance to give Sub Wafers. Consuming Sub Wafers grants Rockin\u0027 Riff (Increases Damage by 50% and Melee Attack Speed by 32%, decaying over 8 seconds).",
+    "HeroPerkDescription": "Harvesting Metal objects has a 32% chance to give Sub Wafers. Consuming Sub Wafers grants Rockin\u0027 Riff (Increases Damage by 50% and Melee Attack Speed by 32%, decaying over 8 seconds).",
     "HeroPerkTemplate": "Ability:Kit_Perk_H_GnarlyPop_T01",
     "HeroStatLine": "Balanced",
     "HeroTags": [
@@ -100034,7 +100034,7 @@
     "DisplayName": "Jilly Teacup",
     "SubType": "Outlander",
     "CommanderPerk": "Under Warranty \u002B",
-    "CommanderPerkDescription": "T.E.D.D.Y. has 100% Crit Chance against new targets and has a 5% chance to Malfunction. During Malfunction T.E.D.D.Y. finds a new target after every shot and Zaps a nearby enemy for 51 base energy damage. Zapped targets deal 51 base energy damage to surrounding enemies.",
+    "CommanderPerkDescription": "T.E.D.D.Y. has 100% Crit Chance against new targets and has a 5% chance to Malfunction. During Malfunction T.E.D.D.Y. finds a new target after every shot and Zaps a nearby enemy for 51 base Energy Damage. Zapped targets deal 51 base Energy Damage to surrounding enemies.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_UnderWarranty_T02",
     "Description": "\u0022It\u0027s time to tea party!\u0022 - Jilly Teacup",
     "HeroAbilities": [
@@ -100089,7 +100089,7 @@
     "DisplayName": "Jilly Teacup",
     "SubType": "Outlander",
     "CommanderPerk": "Under Warranty \u002B",
-    "CommanderPerkDescription": "T.E.D.D.Y. has 100% Crit Chance against new targets and has a 5% chance to Malfunction. During Malfunction T.E.D.D.Y. finds a new target after every shot and Zaps a nearby enemy for 51 base energy damage. Zapped targets deal 51 base energy damage to surrounding enemies.",
+    "CommanderPerkDescription": "T.E.D.D.Y. has 100% Crit Chance against new targets and has a 5% chance to Malfunction. During Malfunction T.E.D.D.Y. finds a new target after every shot and Zaps a nearby enemy for 51 base Energy Damage. Zapped targets deal 51 base Energy Damage to surrounding enemies.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_UnderWarranty_T02",
     "Description": "\u0022It\u0027s time to tea party!\u0022 - Jilly Teacup",
     "HeroAbilities": [
@@ -100145,7 +100145,7 @@
     "DisplayName": "Jilly Teacup",
     "SubType": "Outlander",
     "CommanderPerk": "Under Warranty \u002B",
-    "CommanderPerkDescription": "T.E.D.D.Y. has 100% Crit Chance against new targets and has a 5% chance to Malfunction. During Malfunction T.E.D.D.Y. finds a new target after every shot and Zaps a nearby enemy for 51 base energy damage. Zapped targets deal 51 base energy damage to surrounding enemies.",
+    "CommanderPerkDescription": "T.E.D.D.Y. has 100% Crit Chance against new targets and has a 5% chance to Malfunction. During Malfunction T.E.D.D.Y. finds a new target after every shot and Zaps a nearby enemy for 51 base Energy Damage. Zapped targets deal 51 base Energy Damage to surrounding enemies.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_UnderWarranty_T02",
     "Description": "\u0022It\u0027s time to tea party!\u0022 - Jilly Teacup",
     "HeroAbilities": [
@@ -100202,7 +100202,7 @@
     "DisplayName": "Jilly Teacup",
     "SubType": "Outlander",
     "CommanderPerk": "Under Warranty \u002B",
-    "CommanderPerkDescription": "T.E.D.D.Y. has 100% Crit Chance against new targets and has a 5% chance to Malfunction. During Malfunction T.E.D.D.Y. finds a new target after every shot and Zaps a nearby enemy for 51 base energy damage. Zapped targets deal 51 base energy damage to surrounding enemies.",
+    "CommanderPerkDescription": "T.E.D.D.Y. has 100% Crit Chance against new targets and has a 5% chance to Malfunction. During Malfunction T.E.D.D.Y. finds a new target after every shot and Zaps a nearby enemy for 51 base Energy Damage. Zapped targets deal 51 base Energy Damage to surrounding enemies.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_UnderWarranty_T02",
     "Description": "\u0022It\u0027s time to tea party!\u0022 - Jilly Teacup",
     "HeroAbilities": [
@@ -100260,7 +100260,7 @@
     "DisplayName": "Jilly Teacup",
     "SubType": "Outlander",
     "CommanderPerk": "Under Warranty \u002B",
-    "CommanderPerkDescription": "T.E.D.D.Y. has 100% Crit Chance against new targets and has a 5% chance to Malfunction. During Malfunction T.E.D.D.Y. finds a new target after every shot and Zaps a nearby enemy for 51 base energy damage. Zapped targets deal 51 base energy damage to surrounding enemies.",
+    "CommanderPerkDescription": "T.E.D.D.Y. has 100% Crit Chance against new targets and has a 5% chance to Malfunction. During Malfunction T.E.D.D.Y. finds a new target after every shot and Zaps a nearby enemy for 51 base Energy Damage. Zapped targets deal 51 base Energy Damage to surrounding enemies.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_UnderWarranty_T02",
     "Description": "\u0022It\u0027s time to tea party!\u0022 - Jilly Teacup",
     "HeroAbilities": [
@@ -100307,7 +100307,7 @@
     "DisplayName": "Kurohomura",
     "SubType": "Outlander",
     "CommanderPerk": "Seismic Stun \u002B",
-    "CommanderPerkDescription": "Seismic Smash applies a 3.3 second Stun and 1500 Impact. Additionally, Seismic Smash deals 35 base Fire damage every second for 3 seconds.",
+    "CommanderPerkDescription": "Seismic Smash applies a 3.3 second Stun and 1500 Impact. Additionally, Seismic Smash deals 35 base Fire Damage every second for 3 seconds.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_SeismicStanza_T02",
     "Description": "No husk is safe from his Seismic Smash.",
     "HeroAbilities": [
@@ -100361,7 +100361,7 @@
     "DisplayName": "Kurohomura",
     "SubType": "Outlander",
     "CommanderPerk": "Seismic Stun \u002B",
-    "CommanderPerkDescription": "Seismic Smash applies a 3.3 second Stun and 1500 Impact. Additionally, Seismic Smash deals 35 base Fire damage every second for 3 seconds.",
+    "CommanderPerkDescription": "Seismic Smash applies a 3.3 second Stun and 1500 Impact. Additionally, Seismic Smash deals 35 base Fire Damage every second for 3 seconds.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_SeismicStanza_T02",
     "Description": "No husk is safe from his Seismic Smash.",
     "HeroAbilities": [
@@ -100416,7 +100416,7 @@
     "DisplayName": "Kurohomura",
     "SubType": "Outlander",
     "CommanderPerk": "Seismic Stun \u002B",
-    "CommanderPerkDescription": "Seismic Smash applies a 3.3 second Stun and 1500 Impact. Additionally, Seismic Smash deals 35 base Fire damage every second for 3 seconds.",
+    "CommanderPerkDescription": "Seismic Smash applies a 3.3 second Stun and 1500 Impact. Additionally, Seismic Smash deals 35 base Fire Damage every second for 3 seconds.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_SeismicStanza_T02",
     "Description": "No husk is safe from his Seismic Smash.",
     "HeroAbilities": [
@@ -100472,7 +100472,7 @@
     "DisplayName": "Kurohomura",
     "SubType": "Outlander",
     "CommanderPerk": "Seismic Stun \u002B",
-    "CommanderPerkDescription": "Seismic Smash applies a 3.3 second Stun and 1500 Impact. Additionally, Seismic Smash deals 35 base Fire damage every second for 3 seconds.",
+    "CommanderPerkDescription": "Seismic Smash applies a 3.3 second Stun and 1500 Impact. Additionally, Seismic Smash deals 35 base Fire Damage every second for 3 seconds.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_SeismicStanza_T02",
     "Description": "No husk is safe from his Seismic Smash.",
     "HeroAbilities": [
@@ -100529,7 +100529,7 @@
     "DisplayName": "Kurohomura",
     "SubType": "Outlander",
     "CommanderPerk": "Seismic Stun \u002B",
-    "CommanderPerkDescription": "Seismic Smash applies a 3.3 second Stun and 1500 Impact. Additionally, Seismic Smash deals 35 base Fire damage every second for 3 seconds.",
+    "CommanderPerkDescription": "Seismic Smash applies a 3.3 second Stun and 1500 Impact. Additionally, Seismic Smash deals 35 base Fire Damage every second for 3 seconds.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_SeismicStanza_T02",
     "Description": "No husk is safe from his Seismic Smash.",
     "HeroAbilities": [
@@ -103300,7 +103300,7 @@
     "DisplayName": "Gumshoe",
     "SubType": "Outlander",
     "CommanderPerk": "Pressing Charges \u002B",
-    "CommanderPerkDescription": "Increases damage of your Fragment Abilities by 30%.  Additionally, grants 33% chance to not consume Charge Fragment.",
+    "CommanderPerkDescription": "Increases damage of your Fragment Abilities by 30%. Additionally, grants 33% chance to not consume Charge Fragment.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_PressingCharges_T02",
     "Description": "\u0022Let\u0027s beat feet and take care of business.\u0022 - Gumshoe",
     "HeroAbilities": [
@@ -103354,7 +103354,7 @@
     "DisplayName": "Gumshoe",
     "SubType": "Outlander",
     "CommanderPerk": "Pressing Charges \u002B",
-    "CommanderPerkDescription": "Increases damage of your Fragment Abilities by 30%.  Additionally, grants 33% chance to not consume Charge Fragment.",
+    "CommanderPerkDescription": "Increases damage of your Fragment Abilities by 30%. Additionally, grants 33% chance to not consume Charge Fragment.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_PressingCharges_T02",
     "Description": "\u0022Let\u0027s beat feet and take care of business.\u0022 - Gumshoe",
     "HeroAbilities": [
@@ -103409,7 +103409,7 @@
     "DisplayName": "Gumshoe",
     "SubType": "Outlander",
     "CommanderPerk": "Pressing Charges \u002B",
-    "CommanderPerkDescription": "Increases damage of your Fragment Abilities by 30%.  Additionally, grants 33% chance to not consume Charge Fragment.",
+    "CommanderPerkDescription": "Increases damage of your Fragment Abilities by 30%. Additionally, grants 33% chance to not consume Charge Fragment.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_PressingCharges_T02",
     "Description": "\u0022Let\u0027s beat feet and take care of business.\u0022 - Gumshoe",
     "HeroAbilities": [
@@ -103465,7 +103465,7 @@
     "DisplayName": "Gumshoe",
     "SubType": "Outlander",
     "CommanderPerk": "Pressing Charges \u002B",
-    "CommanderPerkDescription": "Increases damage of your Fragment Abilities by 30%.  Additionally, grants 33% chance to not consume Charge Fragment.",
+    "CommanderPerkDescription": "Increases damage of your Fragment Abilities by 30%. Additionally, grants 33% chance to not consume Charge Fragment.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_PressingCharges_T02",
     "Description": "\u0022Let\u0027s beat feet and take care of business.\u0022 - Gumshoe",
     "HeroAbilities": [
@@ -103522,7 +103522,7 @@
     "DisplayName": "Gumshoe",
     "SubType": "Outlander",
     "CommanderPerk": "Pressing Charges \u002B",
-    "CommanderPerkDescription": "Increases damage of your Fragment Abilities by 30%.  Additionally, grants 33% chance to not consume Charge Fragment.",
+    "CommanderPerkDescription": "Increases damage of your Fragment Abilities by 30%. Additionally, grants 33% chance to not consume Charge Fragment.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_PressingCharges_T02",
     "Description": "\u0022Let\u0027s beat feet and take care of business.\u0022 - Gumshoe",
     "HeroAbilities": [
@@ -103568,7 +103568,7 @@
     "DisplayName": "Gumshoe",
     "SubType": "Outlander",
     "CommanderPerk": "Pressing Charges \u002B",
-    "CommanderPerkDescription": "Increases damage of your Fragment Abilities by 30%.  Additionally, grants 33% chance to not consume Charge Fragment.",
+    "CommanderPerkDescription": "Increases damage of your Fragment Abilities by 30%. Additionally, grants 33% chance to not consume Charge Fragment.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_PressingCharges_T02",
     "Description": "\u0022Let\u0027s beat feet and take care of business.\u0022 - Gumshoe",
     "HeroAbilities": [
@@ -103628,7 +103628,7 @@
     "DisplayName": "Gumshoe",
     "SubType": "Outlander",
     "CommanderPerk": "Pressing Charges \u002B",
-    "CommanderPerkDescription": "Increases damage of your Fragment Abilities by 30%.  Additionally, grants 33% chance to not consume Charge Fragment.",
+    "CommanderPerkDescription": "Increases damage of your Fragment Abilities by 30%. Additionally, grants 33% chance to not consume Charge Fragment.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_PressingCharges_T02",
     "Description": "\u0022Let\u0027s beat feet and take care of business.\u0022 - Gumshoe",
     "HeroAbilities": [
@@ -103691,7 +103691,7 @@
     "DisplayName": "Gumshoe",
     "SubType": "Outlander",
     "CommanderPerk": "Pressing Charges \u002B",
-    "CommanderPerkDescription": "Increases damage of your Fragment Abilities by 30%.  Additionally, grants 33% chance to not consume Charge Fragment.",
+    "CommanderPerkDescription": "Increases damage of your Fragment Abilities by 30%. Additionally, grants 33% chance to not consume Charge Fragment.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_PressingCharges_T02",
     "Description": "\u0022Let\u0027s beat feet and take care of business.\u0022 - Gumshoe",
     "HeroAbilities": [
@@ -103756,7 +103756,7 @@
     "DisplayName": "Gumshoe",
     "SubType": "Outlander",
     "CommanderPerk": "Pressing Charges \u002B",
-    "CommanderPerkDescription": "Increases damage of your Fragment Abilities by 30%.  Additionally, grants 33% chance to not consume Charge Fragment.",
+    "CommanderPerkDescription": "Increases damage of your Fragment Abilities by 30%. Additionally, grants 33% chance to not consume Charge Fragment.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_PressingCharges_T02",
     "Description": "\u0022Let\u0027s beat feet and take care of business.\u0022 - Gumshoe",
     "HeroAbilities": [
@@ -103823,7 +103823,7 @@
     "DisplayName": "Gumshoe",
     "SubType": "Outlander",
     "CommanderPerk": "Pressing Charges \u002B",
-    "CommanderPerkDescription": "Increases damage of your Fragment Abilities by 30%.  Additionally, grants 33% chance to not consume Charge Fragment.",
+    "CommanderPerkDescription": "Increases damage of your Fragment Abilities by 30%. Additionally, grants 33% chance to not consume Charge Fragment.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_PressingCharges_T02",
     "Description": "\u0022Let\u0027s beat feet and take care of business.\u0022 - Gumshoe",
     "HeroAbilities": [

@@ -1,16 +1,27 @@
 {
   "displayName": "Hexylvania",
   "backgrounds": [
-    "stw-hexylvania-lobby.png",
-    "T-LS-StW-HauntedHotel.png",
-    "T-LS-StW-Starlight.png",
-    "T-LS-StW-Swamp.png"
+    "Dungeons Loading Screen.png",
+    "Haunted Hotel Loading Screen.png",
+    "Hexylvania Lobby.png",
+    "Swamp Loading Screen.png",
+    "Swamp Pond.png"
   ],
-  "music": {
-    "intros": [
-      "Fortnitemares_Lobby_Intro_01.ogg",
-      "Fortnitemares_Lobby_Intro_02.ogg"
-    ],
-    "tracks": "Fortnitemares_Lobby_Music_01_Loop.ogg"
-  }
+  "music": 
+  [
+    {
+      "displayName":"Fortnitemares '17",
+      "intros": [
+        "Fortnitemares_Lobby_Intro_01.ogg"
+      ],
+      "tracks": "Fortnitemares_Lobby_Music_01_Loop.ogg"
+    },
+    {
+      "displayName":"Fortnitemares '17 (Short Intro)",
+      "intros": [
+        "Fortnitemares_Lobby_Intro_02.ogg"
+      ],
+      "tracks": "Fortnitemares_Lobby_Music_01_Loop.ogg"
+    }
+  ]
 }

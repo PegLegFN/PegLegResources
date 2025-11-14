@@ -1,20 +1,30 @@
 {
   "displayName": "Scurvy Shoals",
-  "backgrounds": "FORT_Load_PiratesCove.png",
+  "backgrounds": [
+    "Pirate Cove Beach.png",
+    "Pirate Cove Coral.png",
+    "Pirate Cove Dock.png",
+    "Pirate Cove Foliage.png",
+    "Pirate Cove Temple.png",
+    "Scurvy Shoals Lobby.png"
+  ],
   "music": [
-    [
-      [
-        "Pirate_Cove_Amb_Day_Loop_02.ogg",
-        "Pirate_Cove_Amb_Day_Light_Loop_01.ogg"
-      ],
-      [
-        "Pirate_Cove_Amb_Day_Loop_03.ogg",
-        "Pirate_Cove_Amb_Day_Light_Loop_02.ogg"
-      ],
-      [
-        "Pirate_Cove_Amb_Day_Loop_04.ogg",
-        "Pirate_Cove_Amb_Day_Light_Loop_03.ogg"
+    {
+      "displayName":"Pirate Cove",
+      "tracks": [
+        [
+          "Pirate_Cove_Amb_Day_Loop_02.ogg",
+          "Pirate_Cove_Amb_Day_Light_Loop_01.ogg"
+        ],
+        [
+          "Pirate_Cove_Amb_Day_Loop_03.ogg",
+          "Pirate_Cove_Amb_Day_Light_Loop_02.ogg"
+        ],
+        [
+          "Pirate_Cove_Amb_Day_Loop_04.ogg",
+          "Pirate_Cove_Amb_Day_Light_Loop_03.ogg"
+        ]
       ]
-    ]
+    }
   ]
 }

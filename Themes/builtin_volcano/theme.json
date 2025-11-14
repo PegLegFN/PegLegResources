@@ -1,0 +1,30 @@
+{
+  "displayName": "Volcano",
+  "backgrounds": [
+    "Volcano Ravine.png",
+    "Volcano Refinery.png",
+    "Volcano Shipping.png",
+    "Volcano Thermal Plant.png"
+  ],
+  "music": {
+    "displayName":"Volcano Day",
+    "tracks": [
+      {
+        "layers": [
+          {
+            "path": "../builtin_forest/fortnite_onboarding_cave_music.ogg",
+            "mixRate": 48000
+          }
+        ]
+      },
+      {
+        "layers": [
+          {
+            "path": "../builtin_forest/fortnite_homebase_music_loop.ogg",
+            "mixRate": 48000
+          }
+        ]
+      }
+    ]
+  }
+}

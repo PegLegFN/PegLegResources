@@ -15933,12 +15933,40 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/cardpacks/accolades/zcp_stwaccolade_mission_resupply_bonus1.uasset"
   },
+  "CardPack:zcp_stwaccolade_mission_resupply_bronze": {
+    "Type": "CardPack",
+    "Name": "ZCP_STWAccolade_Mission_Resupply_Bronze",
+    "DisplayName": "[ph] Resupply Bronze (Accolade Card Pack)",
+    "IsPermanent": true,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/cardpacks/accolades/zcp_stwaccolade_mission_resupply_bronze.uasset"
+  },
   "CardPack:zcp_stwaccolade_mission_resupply_fail": {
     "Type": "CardPack",
     "Name": "ZCP_STWAccolade_Mission_Resupply_Fail",
     "DisplayName": "[ph] Resupply: Participation (Accolade Card Pack)",
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/cardpacks/accolades/zcp_stwaccolade_mission_resupply_fail.uasset"
+  },
+  "CardPack:zcp_stwaccolade_mission_resupply_gold": {
+    "Type": "CardPack",
+    "Name": "ZCP_STWAccolade_Mission_Resupply_Gold",
+    "DisplayName": "[ph] Resupply Gold (Accolade Card Pack)",
+    "IsPermanent": true,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/cardpacks/accolades/zcp_stwaccolade_mission_resupply_gold.uasset"
+  },
+  "CardPack:zcp_stwaccolade_mission_resupply_platinum": {
+    "Type": "CardPack",
+    "Name": "ZCP_STWAccolade_Mission_Resupply_Platinum",
+    "DisplayName": "[ph] Resupply Platinum (Accolade Card Pack)",
+    "IsPermanent": true,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/cardpacks/accolades/zcp_stwaccolade_mission_resupply_platinum.uasset"
+  },
+  "CardPack:zcp_stwaccolade_mission_resupply_silver": {
+    "Type": "CardPack",
+    "Name": "ZCP_STWAccolade_Mission_Resupply_Silver",
+    "DisplayName": "[ph] Resupply Silver (Accolade Card Pack)",
+    "IsPermanent": true,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/cardpacks/accolades/zcp_stwaccolade_mission_resupply_silver.uasset"
   },
   "CardPack:zcp_stwaccolade_mission_resupply_victory": {
     "Type": "CardPack",

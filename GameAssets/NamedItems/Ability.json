@@ -88,7 +88,7 @@
     "Type": "Ability",
     "Name": "Kit_Commando_QuickFingers_T02",
     "DisplayName": "Quick Fingers\u002B",
-    "Description": "Whenever you use any ability, Quick Fingers\u002B reloads your equipped weapon (if it can be reloaded). When you reload a weapon this way, you have a % chance to summon a phantasm based on how empty the clip was, with a cap of 80%. ",
+    "Description": "Whenever you use any ability, Quick Fingers reloads your equipped weapon (if it can be reloaded). When you reload a weapon this way, you have a % chance to summon a phantasm based on how empty the clip was, with a cap of 80%. ",
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/commando/perks/quickfingers/kit_commando_quickfingers_t02.uasset",
     "ImagePaths": {
@@ -832,7 +832,7 @@
     "Type": "Ability",
     "Name": "Kit_Perk_H_AvastMaties_T02",
     "DisplayName": "Avast Mateys \u002B",
-    "Description": "Increases Cannonball Damage by 40%. Converts R.O.S.I.E. to fire 30 cannonballs.",
+    "Description": "Increases Cannonball Damage by 40%. Converts R.O.S.I.E. to fire 30 Cannonballs.",
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/perks/hero/avastmaties/kit_perk_h_avastmaties_t02.uasset",
     "ImagePaths": {
@@ -1074,7 +1074,7 @@
     "Type": "Ability",
     "Name": "Kit_Perk_H_BrainFreeze_T01",
     "DisplayName": "Brain Freeze",
-    "Description": "When D.E.C.O.Y. is destroyed it explodes in a frigid blast that freezes all enemies in a 1 tile radius for 3 seconds.",
+    "Description": "When D.E.C.O.Y. is destroyed it explodes in a frigid blast that Freezes all enemies in a 1 tile radius for 3 seconds.",
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/perks/hero/brainfreeze/kit_perk_h_brainfreeze_t01.uasset",
     "ImagePaths": {
@@ -1085,7 +1085,7 @@
     "Type": "Ability",
     "Name": "Kit_Perk_H_BrainFreeze_T02",
     "DisplayName": "Brain Freeze \u002B",
-    "Description": "When D.E.C.O.Y. is destroyed it explodes in a frigid blast that freezes all enemies in a 1 tile radius for 3 seconds. Additionally, anytime a frozen enemy is eliminated there is a 70% chance to summon a Phantasm (targets a nearby enemy, dealing 62 base  Energy damage in a 0.5 tile radius, 1.5 second cooldown).",
+    "Description": "When D.E.C.O.Y. is destroyed it explodes in a frigid blast that Freezes all enemies in a 1 tile radius for 3 seconds. Additionally, anytime a Frozen enemy is eliminated there is a 70% chance to summon a Phantasm (targets a nearby enemy, dealing 62 base Energy Damage in a 0.5 tile radius, 1.5 second cooldown).",
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/perks/hero/brainfreeze/kit_perk_h_brainfreeze_t02.uasset",
     "ImagePaths": {
@@ -1316,7 +1316,7 @@
     "Type": "Ability",
     "Name": "Kit_Perk_H_CorrosiveStrikes_T01",
     "DisplayName": "Corrosive Strikes",
-    "Description": "Melee critical hits apply 30% Snare and Affliction which deals 37% of Damage dealt each second for 3 seconds.",
+    "Description": "Melee critical hits apply 30% Snare and Affliction which deals 37% of Damage dealt per second for 3 seconds.",
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/perks/hero/corrosivestrikes/kit_perk_h_corrosivestrikes_t01.uasset",
     "ImagePaths": {
@@ -1327,7 +1327,7 @@
     "Type": "Ability",
     "Name": "Kit_Perk_H_CorrosiveStrikes_T02",
     "DisplayName": "Corrosive Strikes \u002B",
-    "Description": "Melee critical hits apply 30% Snare and Affliction which deals 87% of Damage dealt each second for 3 seconds.",
+    "Description": "Melee critical hits apply 30% Snare and Affliction which deals 87% of Damage dealt per second for 3 seconds.",
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/perks/hero/corrosivestrikes/kit_perk_h_corrosivestrikes_t02.uasset",
     "ImagePaths": {
@@ -1338,7 +1338,7 @@
     "Type": "Ability",
     "Name": "Kit_Perk_H_CorruptedAura_T01",
     "DisplayName": "Corrupted Aura",
-    "Description": "During Shadow Stance, deal 16 base damage per second to nearby enemies.",
+    "Description": "During Shadow Stance, deal 16 base Damage per second to nearby enemies.",
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/perks/hero/corruptedaura/kit_perk_h_corruptedaura_t01.uasset",
     "ImagePaths": {
@@ -1470,7 +1470,7 @@
     "Type": "Ability",
     "Name": "Kit_Perk_H_DemoDerby_T01",
     "DisplayName": "Demo Derby",
-    "Description": "Bull Rush drops a mine for every 1 tile traveled. Each mine deals 110 base physical damage in a 0.5 tile radius when triggered.",
+    "Description": "Bull Rush drops a mine for every 1 tiles traveled. Each mine deals 110 base Physical Damage in a 0.5 tiles radius when triggered.",
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/perks/hero/demoderby/kit_perk_h_demoderby_t01.uasset",
     "ImagePaths": {
@@ -1481,7 +1481,7 @@
     "Type": "Ability",
     "Name": "Kit_Perk_H_DemoDerby_T02",
     "DisplayName": "Demo Derby \u002B",
-    "Description": "Bull Rush drops a mine for every 0.5 tile traveled. Each mine deals 275 base physical damage in a 0.5 tile radius when triggered.",
+    "Description": "Bull Rush drops a mine for every 0.5 tiles traveled. Each mine deals 275 base Physical Damage in a 0.5 tiles radius when triggered.",
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/perks/hero/demoderby/kit_perk_h_demoderby_t02.uasset",
     "ImagePaths": {
@@ -1580,7 +1580,7 @@
     "Type": "Ability",
     "Name": "Kit_Perk_H_EatMySpacedustT01",
     "DisplayName": "Eat My Space Dust",
-    "Description": "Sprint  Stamina maximum is doubled.",
+    "Description": "Sprint Stamina maximum is doubled.",
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/perks/hero/eatmyspacedust/kit_perk_h_eatmyspacedustt01.uasset",
     "ImagePaths": {
@@ -1756,7 +1756,7 @@
     "Type": "Ability",
     "Name": "Kit_Perk_H_EnergySiphon_T01",
     "DisplayName": "Energy Siphon",
-    "Description": "Eliminations with Energy Damage restore 8.5% of missing shields.",
+    "Description": "Eliminations with Energy Damage restore 8.5% of missing Shields.",
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/perks/hero/energysiphon/kit_perk_h_energysiphon_t01.uasset",
     "ImagePaths": {
@@ -1767,7 +1767,7 @@
     "Type": "Ability",
     "Name": "Kit_Perk_H_EnergySiphon_T02",
     "DisplayName": "Energy Siphon \u002B",
-    "Description": "Eliminations with Energy Damage restore 17% of missing shields. Additionally, Throwing Stars deals Energy damage.",
+    "Description": "Eliminations with Energy Damage restore 17% of missing Shields. Additionally, Throwing Stars deals Energy Damage.",
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/perks/hero/energysiphon/kit_perk_h_energysiphon_t02.uasset",
     "ImagePaths": {
@@ -1932,7 +1932,7 @@
     "Type": "Ability",
     "Name": "Kit_Perk_H_FeelTheBASE_T01",
     "DisplayName": "Feel The BASE",
-    "Description": "Eliminating enemies standing on structures affected by B.A.S.E. charges B.A.S.E. After 30 charges B.A.S.E. emits an explosion which knocks back enemies and deals 39 base Energy Damage in a 3 tile Radius.",
+    "Description": "Eliminating enemies standing on structures affected by B.A.S.E. charges B.A.S.E.. After 30 charges B.A.S.E. emits an explosion which knocks back enemies and deals 39 base Energy Damage in a 3 tile Radius.",
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/perks/hero/feelthebase/kit_perk_h_feelthebase_t01.uasset",
     "ImagePaths": {
@@ -1943,7 +1943,7 @@
     "Type": "Ability",
     "Name": "Kit_Perk_H_FeelTheBASE_T02",
     "DisplayName": "Feel The BASE \u002B",
-    "Description": "Eliminating enemies standing on structures affected by B.A.S.E. charges B.A.S.E. After 30 charges B.A.S.E. emits an explosion which knocks back enemies and deals 89 base Energy Damage in a 5 tile Radius.",
+    "Description": "Eliminating enemies standing on structures affected by B.A.S.E. charges B.A.S.E.. After 30 charges B.A.S.E. emits an explosion which knocks back enemies and deals 89 base Energy Damage in a 5 tile Radius.",
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/perks/hero/feelthebase/kit_perk_h_feelthebase_t02.uasset",
     "ImagePaths": {
@@ -2350,7 +2350,7 @@
     "Type": "Ability",
     "Name": "Kit_Perk_H_GnarlyPop_T01",
     "DisplayName": "Sub Wafers",
-    "Description": "Harvesting Metal  objects has a 32% chance to give Sub Wafers. Consuming Sub Wafers grants Rockin\u0027 Riff (Increases Damage by 50% and Melee Attack Speed by 32%, decaying over 8 seconds).",
+    "Description": "Harvesting Metal objects has a 32% chance to give Sub Wafers. Consuming Sub Wafers grants Rockin\u0027 Riff (Increases Damage by 50% and Melee Attack Speed by 32%, decaying over 8 seconds).",
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/perks/hero/gnarlypop/kit_perk_h_gnarlypop_t01.uasset",
     "ImagePaths": {
@@ -2361,7 +2361,7 @@
     "Type": "Ability",
     "Name": "Kit_Perk_H_GnarlyPop_T02",
     "DisplayName": "Sub Wafers \u002B",
-    "Description": "Harvesting Metal  objects has a 100% chance to give Sub Wafers. Consuming Sub Wafers grants Rockin\u0027 Riff (Increases Damage by 50% and Melee Attack Speed by 32%, decaying over 8 seconds).",
+    "Description": "Harvesting Metal objects has a 100% chance to give Sub Wafers. Consuming Sub Wafers grants Rockin\u0027 Riff (Increases Damage by 50% and Melee Attack Speed by 32%, decaying over 8 seconds).",
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/perks/hero/gnarlypop/kit_perk_h_gnarlypop_t02.uasset",
     "ImagePaths": {
@@ -3274,7 +3274,7 @@
     "Type": "Ability",
     "Name": "Kit_Perk_H_MUSTPROTECT_T01",
     "DisplayName": "MUST.PROTECT",
-    "Description": "Critical hits with Melee Weapon Energy Damage add 22% of current shield to damage.",
+    "Description": "Critical hits with Melee Weapon Energy Damage add 22% of current Shield to damage.",
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/perks/hero/mustprotect/kit_perk_h_mustprotect_t01.uasset",
     "ImagePaths": {
@@ -3285,7 +3285,7 @@
     "Type": "Ability",
     "Name": "Kit_Perk_H_MUSTPROTECT_T02",
     "DisplayName": "MUST.PROTECT \u002B",
-    "Description": "Critical hits with Melee Weapon Energy Damage add 66% of current shield to damage.",
+    "Description": "Critical hits with Melee Weapon Energy Damage add 66% of current Shield to damage.",
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/perks/hero/mustprotect/kit_perk_h_mustprotect_t02.uasset",
     "ImagePaths": {
@@ -3384,7 +3384,7 @@
     "Type": "Ability",
     "Name": "Kit_Perk_H_Overcharge_T01",
     "DisplayName": "Overcharge",
-    "Description": "While in Goin\u0027 Constructor, each hammer strike causes chain lightning, dealing 120 base Nature Damage to up to  3 nearby targets. ",
+    "Description": "While in Goin\u0027 Constructor, each hammer strike causes chain lightning, dealing 120 base Nature Damage to up to 3 nearby targets. ",
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/perks/hero/overcharge/kit_perk_h_overcharge_t01.uasset",
     "ImagePaths": {
@@ -3395,7 +3395,7 @@
     "Type": "Ability",
     "Name": "Kit_Perk_H_Overcharge_T02",
     "DisplayName": "Overcharge",
-    "Description": "While in Goin\u0027 Constructor, each hammer strike causes chain lightning, dealing 120 base Nature Damage to up to  3 nearby targets. Raising your shield for 2 seconds overcharges your next swing, causing each struck enemy to chain 120 base Energy Damage to up to 8 nearby targets.",
+    "Description": "While in Goin\u0027 Constructor, each hammer strike causes chain lightning, dealing 120 base Nature Damage to up to 3 nearby targets. Raising your shield for 2 seconds overcharges your next swing, causing each struck enemy to chain 120 base Energy Damage to up to 8 nearby targets.",
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/perks/hero/overcharge/kit_perk_h_overcharge_t02.uasset",
     "ImagePaths": {
@@ -3417,7 +3417,7 @@
     "Type": "Ability",
     "Name": "Kit_Perk_H_OwMyEye_T02",
     "DisplayName": "Ow. My Eye! \u002B",
-    "Description": "Increase Headshot damage up to 50% based on the percentage of your missing Health. In addition, Headshot eliminations have a 50% chance to conjure a Phantasm (targets a nearby enemy, dealing 62 base Energy damage in a 0.5 tile radius, 1.5 second cooldown).",
+    "Description": "Increase Headshot damage up to 50% based on the percentage of your missing Health. In addition, Headshot eliminations have a 50% chance to conjure a Phantasm (targets a nearby enemy, dealing 62 base Energy Damage in a 0.5 tile radius, 1.5 second cooldown).",
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/perks/hero/owmyeye/kit_perk_h_owmyeye_t02.uasset",
     "ImagePaths": {
@@ -3560,7 +3560,7 @@
     "Type": "Ability",
     "Name": "Kit_Perk_H_PlasmaArc_T01",
     "DisplayName": "Plasma Arc",
-    "Description": "Energy Damage has a 20% chance to zap nearby enemies for 58% of damage dealt.",
+    "Description": "Energy Damage has a 20% chance to Zap nearby enemies for 58% of damage dealt.",
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/perks/hero/plasmaarc/kit_perk_h_plasmaarc_t01.uasset",
     "ImagePaths": {
@@ -3571,7 +3571,7 @@
     "Type": "Ability",
     "Name": "Kit_Perk_H_PlasmaArc_T02",
     "DisplayName": "Plasma Arc \u002B",
-    "Description": "Energy Damage has a 20% chance to zap nearby enemies for 116% of damage dealt. Additionally T.E.D.D.Y. deals Energy Damage.",
+    "Description": "Energy Damage has a 20% chance to Zap nearby enemies for 116% of damage dealt. Additionally T.E.D.D.Y. deals Energy Damage.",
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/perks/hero/plasmaarc/kit_perk_h_plasmaarc_t02.uasset",
     "ImagePaths": {
@@ -3791,7 +3791,7 @@
     "Type": "Ability",
     "Name": "Kit_Perk_H_PressingCharges_T02",
     "DisplayName": "Pressing Charges \u002B",
-    "Description": "Increases damage of your Fragment Abilities by 30%.  Additionally, grants 33% chance to not consume Charge Fragment.",
+    "Description": "Increases damage of your Fragment Abilities by 30%. Additionally, grants 33% chance to not consume Charge Fragment.",
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/perks/hero/pressingcharges/kit_perk_h_pressingcharges_t02.uasset",
     "ImagePaths": {
@@ -3802,7 +3802,7 @@
     "Type": "Ability",
     "Name": "Kit_Perk_H_Prickly_T01",
     "DisplayName": "Prickly",
-    "Description": "Enemies that land melee attacks take 13 Base Damage.",
+    "Description": "Enemies that land melee attacks take 13 Base Damage plus an additional 5 Base Damage per second for 3 Seconds.",
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/perks/hero/prickly/kit_perk_h_prickly_t01.uasset",
     "ImagePaths": {
@@ -4154,7 +4154,7 @@
     "Type": "Ability",
     "Name": "Kit_Perk_H_SaurianFight_T01",
     "DisplayName": "Saurian Fight",
-    "Description": "While Shield is depleted, increase Ability damage by 20%.",
+    "Description": "While Shield is depleted, increase Ability Damage by 20%.",
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/perks/hero/saurianfight/kit_perk_h_saurianfight_t01.uasset",
     "ImagePaths": {
@@ -4165,7 +4165,7 @@
     "Type": "Ability",
     "Name": "Kit_Perk_H_SaurianFight_T02",
     "DisplayName": "Saurian Fight \u002B",
-    "Description": "While Shield is depleted, increase Ability damage by 60%.",
+    "Description": "While Shield is depleted, increase Ability Damage by 60%.",
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/perks/hero/saurianfight/kit_perk_h_saurianfight_t02.uasset",
     "ImagePaths": {
@@ -4363,7 +4363,7 @@
     "Type": "Ability",
     "Name": "Kit_Perk_H_SeismicStanza_T02",
     "DisplayName": "Seismic Stun \u002B",
-    "Description": "Seismic Smash applies a 3.3 second Stun and 1500 Impact. Additionally, Seismic Smash deals 35 base Fire damage every second for 3 seconds.",
+    "Description": "Seismic Smash applies a 3.3 second Stun and 1500 Impact. Additionally, Seismic Smash deals 35 base Fire Damage every second for 3 seconds.",
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/perks/hero/seismicstanza/kit_perk_h_seismicstanza_t02.uasset",
     "ImagePaths": {
@@ -4539,7 +4539,7 @@
     "Type": "Ability",
     "Name": "Kit_Perk_H_SpaceTechnology_T02",
     "DisplayName": "Space Technology \u002B",
-    "Description": "Increases Ability Energy Damage by 75.5%. Additionally, Shock Tower explodes, dealing 107 Energy Damage to nearby enemies.",
+    "Description": "Increases Ability Energy Damage by 75.5%. Additionally, Shock Tower explodes, dealing 107 Base Energy Damage to nearby enemies.",
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/perks/hero/spacetechnology/kit_perk_h_spacetechnology_t02.uasset",
     "ImagePaths": {
@@ -4869,7 +4869,7 @@
     "Type": "Ability",
     "Name": "Kit_Perk_H_UnderWarranty_T02",
     "DisplayName": "Under Warranty \u002B",
-    "Description": "T.E.D.D.Y. has 100% Crit Chance against new targets and has a 5% chance to Malfunction. During Malfunction T.E.D.D.Y. finds a new target after every shot and Zaps a nearby enemy for 51 base energy damage. Zapped targets deal 51 base energy damage to surrounding enemies.",
+    "Description": "T.E.D.D.Y. has 100% Crit Chance against new targets and has a 5% chance to Malfunction. During Malfunction T.E.D.D.Y. finds a new target after every shot and Zaps a nearby enemy for 51 base Energy Damage. Zapped targets deal 51 base Energy Damage to surrounding enemies.",
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/perks/hero/underwarranty/kit_perk_h_underwarranty_t02.uasset",
     "ImagePaths": {

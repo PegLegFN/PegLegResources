@@ -1,9 +1,14 @@
 {
   "displayName": "Forest",
   "backgrounds": [
-    "T_Temperate_Forest.png"
+    "Forest Bridge.png",
+    "Forest Grassy.png",
+    "Forest Outskirts.png",
+    "Forest Sky.png",
+    "Forest Stormy.png"
   ],
   "music": {
+    "displayName":"Forest Day",
     "tracks": [
       {
         "layers": [

@@ -49041,6 +49041,36 @@
       "LargePreview": "ExportedImages\\T-Icon-Quest-Journal-64.png"
     }
   },
+  "Quest:quest_s29_beanstalk_timeattack": {
+    "Type": "Quest",
+    "Name": "quest_s29_beanstalk_timeattack",
+    "DisplayName": "Beat the Obstacle Course",
+    "Category": "",
+    "Description": "Reach the end of the obstacle course!",
+    "IsPermanent": true,
+    "Objectives": [
+      {
+        "BackendName": "quest_s29_beanstalk_timeattack_obj4",
+        "Count": 1,
+        "Description": "Beat the obstacle course within the time limit!",
+        "HudShortDescription": "Beat the obstacle course within the time limit!"
+      },
+      {
+        "BackendName": "quest_s29_beanstalk_timeattack_obj1",
+        "Count": 1,
+        "Description": "[SILVER TIER] Reach the end with more than 0:20 left!",
+        "HudShortDescription": "[SILVER TIER] Reach the end with more than 8:45 left!"
+      },
+      {
+        "BackendName": "quest_s29_beanstalk_timeattack_obj2",
+        "Count": 1,
+        "Description": "[GOLD TIER] Reach the end with more than 0:45 left!",
+        "HudShortDescription": "[GOLD TIER] Reach the end with more than 9:15 left!"
+      }
+    ],
+    "Rewards": [],
+    "AssetPath": "fortnitegame/plugins/gamefeatures/fne/beanstalk/beanstalkinbr/content/quests/quest_s29_beanstalk_timeattack.uasset"
+  },
   "Quest:quest_stw_daily_earnxp_01": {
     "Type": "Quest",
     "Name": "Quest_STW_Daily_EarnXP_01",
@@ -61594,6 +61624,18 @@
         "Hidden": false,
         "Item": "CardPack:cardpack_ranged_r",
         "Quantity": 1,
+        "Selectable": false
+      },
+      {
+        "Hidden": false,
+        "Item": "Ammo:ammodatabulletslight",
+        "Quantity": 200,
+        "Selectable": false
+      },
+      {
+        "Hidden": false,
+        "Item": "WorldItem:stoneitemdata",
+        "Quantity": 100,
         "Selectable": false
       }
     ],

@@ -81295,7 +81295,7 @@
     "Tier": 0,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/schematics/traps/floor/sid_floor_defender.uasset",
     "ImagePaths": {
-      "SmallPreview": "/BRCosmetics/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Floor-DefenderSpawn.T-Icon-Weapons-S-Floor-DefenderSpawn",
+      "SmallPreview": "/SaveTheWorld/Missions/Primary/Outpost/Textures/T-Icon-Weapons-S-Floor-DefenderSpawn.T-Icon-Weapons-S-Floor-DefenderSpawn",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Floor-DefenderSpawn-L.png"
     }
   },

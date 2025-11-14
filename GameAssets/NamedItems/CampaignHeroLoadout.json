@@ -74,6 +74,13 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/content/items/loadouts/schemas/loadoutschema_legosets.uasset"
   },
+  "CampaignHeroLoadout:loadoutschema_mimosa": {
+    "Type": "CampaignHeroLoadout",
+    "Name": "LoadoutSchema_Mimosa",
+    "DisplayName": "Sidekicks",
+    "IsPermanent": true,
+    "AssetPath": "fortnitegame/content/items/loadouts/schemas/loadoutschema_mimosa.uasset"
+  },
   "CampaignHeroLoadout:loadoutschema_moments": {
     "Type": "CampaignHeroLoadout",
     "Name": "LoadoutSchema_Moments",

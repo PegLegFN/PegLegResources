@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://do0larhhfpkiq"
+path="res://.godot/imported/Autumn Day Fast.ogg-9c033f158fcfc22e9d2a659d7c65dd54.oggvorbisstr"
+
+[deps]
+
+source_file="res://PegLegResources/Themes/builtin_autumn/Autumn Day Fast.ogg"
+dest_files=["res://.godot/imported/Autumn Day Fast.ogg-9c033f158fcfc22e9d2a659d7c65dd54.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

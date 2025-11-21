@@ -3,19 +3,20 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://0tsb631m7d76"
-path="res://.godot/imported/Road Trip Loading Screen.png-37796655b3bdbc6f62b4b87e07928756.ctex"
+path.s3tc="res://.godot/imported/Road Trip Loading Screen.png-37796655b3bdbc6f62b4b87e07928756.s3tc.ctex"
 metadata={
-"vram_texture": false
+"imported_formats": ["s3tc_bptc"],
+"vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/Themes/builtin_desert/Road Trip Loading Screen.png"
-dest_files=["res://.godot/imported/Road Trip Loading Screen.png-37796655b3bdbc6f62b4b87e07928756.ctex"]
+dest_files=["res://.godot/imported/Road Trip Loading Screen.png-37796655b3bdbc6f62b4b87e07928756.s3tc.ctex"]
 
 [params]
 
-compress/mode=0
+compress/mode=2
 compress/high_quality=false
 compress/lossy_quality=0.7
 compress/hdr_compression=1

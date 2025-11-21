@@ -3,19 +3,20 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b2v7j6vebms34"
-path="res://.godot/imported/Desert Campsite.png-5f34d616888254c6521910e41a90dc3d.ctex"
+path.s3tc="res://.godot/imported/Desert Campsite.png-5f34d616888254c6521910e41a90dc3d.s3tc.ctex"
 metadata={
-"vram_texture": false
+"imported_formats": ["s3tc_bptc"],
+"vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/Themes/builtin_desert/Desert Campsite.png"
-dest_files=["res://.godot/imported/Desert Campsite.png-5f34d616888254c6521910e41a90dc3d.ctex"]
+dest_files=["res://.godot/imported/Desert Campsite.png-5f34d616888254c6521910e41a90dc3d.s3tc.ctex"]
 
 [params]
 
-compress/mode=0
+compress/mode=2
 compress/high_quality=false
 compress/lossy_quality=0.7
 compress/hdr_compression=1

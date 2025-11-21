@@ -3,19 +3,20 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cc4uruvnnupg6"
-path="res://.godot/imported/Forest Grassy.png-3850a7e7a25a6157881fa70b62f4e88c.ctex"
+path.s3tc="res://.godot/imported/Forest Grassy.png-3850a7e7a25a6157881fa70b62f4e88c.s3tc.ctex"
 metadata={
-"vram_texture": false
+"imported_formats": ["s3tc_bptc"],
+"vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/Themes/builtin_forest/Forest Grassy.png"
-dest_files=["res://.godot/imported/Forest Grassy.png-3850a7e7a25a6157881fa70b62f4e88c.ctex"]
+dest_files=["res://.godot/imported/Forest Grassy.png-3850a7e7a25a6157881fa70b62f4e88c.s3tc.ctex"]
 
 [params]
 
-compress/mode=0
+compress/mode=2
 compress/high_quality=false
 compress/lossy_quality=0.7
 compress/hdr_compression=1

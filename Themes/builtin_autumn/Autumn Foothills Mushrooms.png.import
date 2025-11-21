@@ -3,19 +3,20 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://be77o52k17hj6"
-path="res://.godot/imported/Autumn Foothills Mushrooms.png-92a26864f35960e73c7c83c7ef5053b0.ctex"
+path.s3tc="res://.godot/imported/Autumn Foothills Mushrooms.png-92a26864f35960e73c7c83c7ef5053b0.s3tc.ctex"
 metadata={
-"vram_texture": false
+"imported_formats": ["s3tc_bptc"],
+"vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/Themes/builtin_autumn/Autumn Foothills Mushrooms.png"
-dest_files=["res://.godot/imported/Autumn Foothills Mushrooms.png-92a26864f35960e73c7c83c7ef5053b0.ctex"]
+dest_files=["res://.godot/imported/Autumn Foothills Mushrooms.png-92a26864f35960e73c7c83c7ef5053b0.s3tc.ctex"]
 
 [params]
 
-compress/mode=0
+compress/mode=2
 compress/high_quality=false
 compress/lossy_quality=0.7
 compress/hdr_compression=1

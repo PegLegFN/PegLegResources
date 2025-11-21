@@ -1,4 +1,9 @@
 {
+  "extraMainQuests": {
+    "displayName": "Extra Main Quests",
+    "chain": true,
+    "predicate": "Quest:twinepeaksquest_filler_1_d1"
+  },
   "repeatable": {
     "displayName": "Repeatable Quests",
     "predicate": {

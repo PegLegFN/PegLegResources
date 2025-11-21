@@ -3,19 +3,20 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bq4b3rf1b6ydd"
-path="res://.godot/imported/Autumn Foothills Crater.png-5fedfd9f0e80bfc0b4d6587ac8f05405.ctex"
+path.s3tc="res://.godot/imported/Autumn Foothills Crater.png-5fedfd9f0e80bfc0b4d6587ac8f05405.s3tc.ctex"
 metadata={
-"vram_texture": false
+"imported_formats": ["s3tc_bptc"],
+"vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/Themes/builtin_autumn/Autumn Foothills Crater.png"
-dest_files=["res://.godot/imported/Autumn Foothills Crater.png-5fedfd9f0e80bfc0b4d6587ac8f05405.ctex"]
+dest_files=["res://.godot/imported/Autumn Foothills Crater.png-5fedfd9f0e80bfc0b4d6587ac8f05405.s3tc.ctex"]
 
 [params]
 
-compress/mode=0
+compress/mode=2
 compress/high_quality=false
 compress/lossy_quality=0.7
 compress/hdr_compression=1

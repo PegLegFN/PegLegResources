@@ -3,19 +3,20 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dxac2ls5s88a5"
-path="res://.godot/imported/Scurvy Shoals Lobby.png-ad130a2e5f4c5375bab0869a113c96d6.ctex"
+path.s3tc="res://.godot/imported/Scurvy Shoals Lobby.png-ad130a2e5f4c5375bab0869a113c96d6.s3tc.ctex"
 metadata={
-"vram_texture": false
+"imported_formats": ["s3tc_bptc"],
+"vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/Themes/builtin_pirate/Scurvy Shoals Lobby.png"
-dest_files=["res://.godot/imported/Scurvy Shoals Lobby.png-ad130a2e5f4c5375bab0869a113c96d6.ctex"]
+dest_files=["res://.godot/imported/Scurvy Shoals Lobby.png-ad130a2e5f4c5375bab0869a113c96d6.s3tc.ctex"]
 
 [params]
 
-compress/mode=0
+compress/mode=2
 compress/high_quality=false
 compress/lossy_quality=0.7
 compress/hdr_compression=1

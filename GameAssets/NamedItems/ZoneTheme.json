@@ -49,21 +49,6 @@
       "LoadingScreen": "ExportedImages\\T_Autumn_Foothills.png"
     }
   },
-  "ZoneTheme:bp_zt_aitestbed2_c": {
-    "Type": "ZoneTheme",
-    "Name": "BP_ZT_AITestbed2_C",
-    "DisplayName": "AI Testbed_2",
-    "AssetPath": "fortnitegame/plugins/gamefeatures/stw/stw_zones/content/world/zonethemes/testzonethemes/bp_zt_aitestbed2",
-    "ImagePaths": {}
-  },
-  "ZoneTheme:bp_zt_automation_c": {
-    "Type": "ZoneTheme",
-    "Name": "BP_ZT_Automation_C",
-    "DisplayName": "Automation Test Map",
-    "Description": "A map for the purposes of running Automation Tests",
-    "AssetPath": "fortnitegame/plugins/gamefeatures/stw/stw_zones/content/world/zonethemes/testzonethemes/bp_zt_automation",
-    "ImagePaths": {}
-  },
   "ZoneTheme:bp_zt_build_irwin_c": {
     "Type": "ZoneTheme",
     "Name": "BP_ZT_Build_Irwin_C",
@@ -316,46 +301,6 @@
       "LoadingScreen": "ExportedImages\\T_Arid_Desert.png"
     }
   },
-  "ZoneTheme:bp_zt_cinemaicstestbed_c": {
-    "Type": "ZoneTheme",
-    "Name": "BP_ZT_CinemaicsTestbed_C",
-    "DisplayName": "Cinematics test",
-    "Description": "test cins here",
-    "AssetPath": "fortnitegame/plugins/gamefeatures/stw/stw_zones/content/world/zonethemes/testzonethemes/bp_zt_cinemaicstestbed",
-    "ImagePaths": {}
-  },
-  "ZoneTheme:bp_zt_cinematics_forest_c": {
-    "Type": "ZoneTheme",
-    "Name": "BP_ZT_Cinematics_Forest_C",
-    "DisplayName": "Cinematics Forest",
-    "Description": "A test map for cinematics recording",
-    "AssetPath": "fortnitegame/plugins/gamefeatures/stw/stw_zones/content/world/zonethemes/testzonethemes/bp_zt_cinematics_forest",
-    "ImagePaths": {}
-  },
-  "ZoneTheme:bp_zt_cinematics_trv_ext_c": {
-    "Type": "ZoneTheme",
-    "Name": "BP_ZT_Cinematics_TRV_Ext_C",
-    "DisplayName": "Cinematics TRV EXT",
-    "Description": "A test map for cinematics recording",
-    "AssetPath": "fortnitegame/plugins/gamefeatures/stw/stw_zones/content/world/zonethemes/testzonethemes/bp_zt_cinematics_trv_ext",
-    "ImagePaths": {}
-  },
-  "ZoneTheme:bp_zt_cinematics_trv_int_c": {
-    "Type": "ZoneTheme",
-    "Name": "BP_ZT_Cinematics_TRV_Int_C",
-    "DisplayName": "Cinematics TRV INT",
-    "Description": "A test map for cinematics recording",
-    "AssetPath": "fortnitegame/plugins/gamefeatures/stw/stw_zones/content/world/zonethemes/testzonethemes/bp_zt_cinematics_trv_int",
-    "ImagePaths": {}
-  },
-  "ZoneTheme:bp_zt_cinematics_urban_c": {
-    "Type": "ZoneTheme",
-    "Name": "BP_ZT_Cinematics_Urban_C",
-    "DisplayName": "Cinematics Urban",
-    "Description": "A test map for cinematics recording",
-    "AssetPath": "fortnitegame/plugins/gamefeatures/stw/stw_zones/content/world/zonethemes/testzonethemes/bp_zt_cinematics_urban",
-    "ImagePaths": {}
-  },
   "ZoneTheme:bp_zt_criticalmission_c": {
     "Type": "ZoneTheme",
     "Name": "BP_ZT_CriticalMission_C",
@@ -452,14 +397,6 @@
     "AssetPath": "fortnitegame/plugins/gamefeatures/stw/stw_zones/content/world/zonethemes/zt_dudebro/bp_zt_dudebro_landmark_portal",
     "ImagePaths": {}
   },
-  "ZoneTheme:bp_zt_emptymap_c": {
-    "Type": "ZoneTheme",
-    "Name": "BP_ZT_EmptyMap_C",
-    "DisplayName": "Empty Map",
-    "Description": "So empty.",
-    "AssetPath": "fortnitegame/plugins/gamefeatures/stw/stw_zones/content/world/zonethemes/testzonethemes/bp_zt_emptymap",
-    "ImagePaths": {}
-  },
   "ZoneTheme:bp_zt_endless_winter_c": {
     "Type": "ZoneTheme",
     "Name": "BP_ZT_Endless_Winter_C",
@@ -477,30 +414,6 @@
     "ImagePaths": {
       "LoadingScreen": "ExportedImages\\T_Arid_Desert.png"
     }
-  },
-  "ZoneTheme:bp_zt_gameplaytrailer_town_c": {
-    "Type": "ZoneTheme",
-    "Name": "BP_ZT_GameplayTrailer_Town_C",
-    "DisplayName": "GameplayTrailer Town",
-    "Description": "A test map for recording gameplay",
-    "AssetPath": "fortnitegame/plugins/gamefeatures/stw/stw_zones/content/world/zonethemes/testzonethemes/bp_zt_gameplaytrailer_town",
-    "ImagePaths": {}
-  },
-  "ZoneTheme:bp_zt_gate_irwin_c": {
-    "Type": "ZoneTheme",
-    "Name": "BP_ZT_Gate_Irwin_C",
-    "DisplayName": "Irwin",
-    "Description": "Irwin test map for creatures.",
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/world/zonethemes/testzonethemes/bp_zt_gate_irwin",
-    "ImagePaths": {}
-  },
-  "ZoneTheme:bp_zt_gate_lager_c": {
-    "Type": "ZoneTheme",
-    "Name": "BP_ZT_Gate_Lager_C",
-    "DisplayName": "Lager",
-    "Description": "Irwin test map for creature overlays.",
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/world/zonethemes/testzonethemes/bp_zt_gate_lager",
-    "ImagePaths": {}
   },
   "ZoneTheme:bp_zt_ghosttown_a_c": {
     "Type": "ZoneTheme",
@@ -601,14 +514,6 @@
     "ImagePaths": {
       "LoadingScreen": "ExportedImages\\T_Temperate_City.png"
     }
-  },
-  "ZoneTheme:bp_zt_mapletreevalley_c": {
-    "Type": "ZoneTheme",
-    "Name": "BP_ZT_MapleTreeValley_C",
-    "DisplayName": "Maple Tree Valley",
-    "Description": "Defend against challenging enemies from a single direction",
-    "AssetPath": "fortnitegame/plugins/gamefeatures/stw/stw_zones/content/world/zonethemes/testzonethemes/bp_zt_mapletreevalley",
-    "ImagePaths": {}
   },
   "ZoneTheme:bp_zt_mayday_c": {
     "Type": "ZoneTheme",
@@ -988,16 +893,6 @@
       "LoadingScreen": "ExportedImages\\FORT_Load_Missions_WinterRTL.png"
     }
   },
-  "ZoneTheme:bp_zt_protectthepresents_stonewood_1_c": {
-    "Type": "ZoneTheme",
-    "Name": "BP_ZT_ProtectThePresents_Stonewood_1_C",
-    "DisplayName": "Crackshot\u0027s Neighborhood",
-    "Description": "Winter Area (Late Stonewood Difficulty)",
-    "AssetPath": "fortnitegame/plugins/gamefeatures/stw/stw_zones/content/world/zonethemes/landmarks/winterlandmark2019/bp_zt_protectthepresents_stonewood_1",
-    "ImagePaths": {
-      "LoadingScreen": "ExportedImages\\FORT_Load_Missions_WinterRTL.png"
-    }
-  },
   "ZoneTheme:bp_zt_protectthepresents_twine1_c": {
     "Type": "ZoneTheme",
     "Name": "BP_ZT_ProtectThePresents_Twine1_C",
@@ -1023,14 +918,6 @@
     "Name": "BP_ZT_PVE_C",
     "DisplayName": "GENERIC ZONE",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/world/zonethemes/testzonethemes/bp_zt_pve",
-    "ImagePaths": {}
-  },
-  "ZoneTheme:bp_zt_reactivequests_c": {
-    "Type": "ZoneTheme",
-    "Name": "BP_ZT_ReactiveQuests_C",
-    "DisplayName": "Reactive Quests",
-    "Description": "Reactive Quests",
-    "AssetPath": "fortnitegame/plugins/gamefeatures/stw/stw_zones/content/world/zonethemes/testzonethemes/bp_zt_reactivequests",
     "ImagePaths": {}
   },
   "ZoneTheme:bp_zt_route99_1_c": {
@@ -1149,30 +1036,6 @@
     "DisplayName": "Fortnite Survival Prototype",
     "Description": "You and your team will defend the generators from nightly waves of monsters!",
     "AssetPath": "fortnitegame/plugins/gamefeatures/stw/stw_zones/content/world/zonethemes/fortnitesurvival/bp_zt_survival",
-    "ImagePaths": {}
-  },
-  "ZoneTheme:bp_zt_survivorsgate_c": {
-    "Type": "ZoneTheme",
-    "Name": "BP_ZT_SurvivorsGate_C",
-    "DisplayName": "Survivors",
-    "Description": "Lots of Survivors to rescue",
-    "AssetPath": "fortnitegame/plugins/gamefeatures/stw/stw_zones/content/world/zonethemes/testzonethemes/bp_zt_survivorsgate",
-    "ImagePaths": {}
-  },
-  "ZoneTheme:bp_zt_survivorsgate2_c": {
-    "Type": "ZoneTheme",
-    "Name": "BP_ZT_SurvivorsGate2_C",
-    "DisplayName": "Survivors (ind)",
-    "Description": "Lots of Survivors to rescue",
-    "AssetPath": "fortnitegame/plugins/gamefeatures/stw/stw_zones/content/world/zonethemes/testzonethemes/bp_zt_survivorsgate2",
-    "ImagePaths": {}
-  },
-  "ZoneTheme:bp_zt_testmap_accessenemies_c": {
-    "Type": "ZoneTheme",
-    "Name": "BP_ZT_TestMap_AccessEnemies_C",
-    "DisplayName": "TestMap AccessEnemies",
-    "Description": "Test map with easy access to all enemies",
-    "AssetPath": "fortnitegame/plugins/gamefeatures/stw/stw_zones/content/world/zonethemes/testzonethemes/bp_zt_testmap_accessenemies",
     "ImagePaths": {}
   },
   "ZoneTheme:bp_zt_thecity_arid_c": {
@@ -1323,16 +1186,6 @@
     "AssetPath": "fortnitegame/plugins/gamefeatures/stw/stw_zones/content/world/zonethemes/zt_thesuburbs/bp_zt_thesuburbs",
     "ImagePaths": {
       "LoadingScreen": "ExportedImages\\T_Temperate_Suburbs.png"
-    }
-  },
-  "ZoneTheme:bp_zt_tls_old_c": {
-    "Type": "ZoneTheme",
-    "Name": "BP_ZT_TLS_Old_C",
-    "DisplayName": "Lakeside",
-    "Description": "A sleepy town nestled in between multiple lakes.",
-    "AssetPath": "fortnitegame/plugins/gamefeatures/stw/stw_zones/content/world/zonethemes/zt_thelakeside/bp_zt_tls_old",
-    "ImagePaths": {
-      "LoadingScreen": "ExportedImages\\T_Autumn_Lakeside.png"
     }
   },
   "ZoneTheme:bp_zt_tp_island01_c": {

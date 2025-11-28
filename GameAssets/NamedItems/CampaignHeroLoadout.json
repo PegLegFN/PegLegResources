@@ -7,7 +7,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/loadouts/defaultloadout.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/HeroLoadout/T-Icon-NewLoadoutConfiguration-64x.T-Icon-NewLoadoutConfiguration-64x",
+      "SmallPreview": "ExportedImages\\T-Icon-NewLoadoutConfiguration-64x.png",
       "LargePreview": "ExportedImages\\T-Icon-NewLoadoutConfiguration-128x.png"
     }
   },
@@ -132,7 +132,7 @@
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/loadouts/purchaseabledefaultloadout.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/HeroLoadout/T-Icon-NewLoadoutConfiguration-64x.T-Icon-NewLoadoutConfiguration-64x",
+      "SmallPreview": "ExportedImages\\T-Icon-NewLoadoutConfiguration-64x.png",
       "LargePreview": "ExportedImages\\T-Icon-NewLoadoutConfiguration-128x.png"
     }
   }

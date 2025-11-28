@@ -8,7 +8,7 @@
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/content/items/persistentresources/athenabattlepassxp.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T-FNBR-BattlePoints.T-FNBR-BattlePoints",
+      "SmallPreview": "ExportedImages\\T-FNBR-BattlePoints.png",
       "LargePreview": "ExportedImages\\T-FNBR-BattlePoints-L.png"
     }
   },
@@ -21,7 +21,7 @@
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/content/items/persistentresources/athenabattlestar.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/Athena/UI/Frontend/Art/T_UI_BP_BattleStar_64.T_UI_BP_BattleStar_64",
+      "SmallPreview": "ExportedImages\\T_UI_BP_BattleStar_64.png",
       "LargePreview": "ExportedImages\\T_UI_BP_BattleStar_L.png"
     }
   },
@@ -33,7 +33,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/content/items/persistentresources/athenalevelup.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/UniversalXP/T_UI_UniversalXP_Icon_LevelUp_Standard_128.T_UI_UniversalXP_Icon_LevelUp_Standard_128",
+      "SmallPreview": "ExportedImages\\T_UI_UniversalXP_Icon_LevelUp_Standard_128.png",
       "LargePreview": "ExportedImages\\T_UI_UniversalXP_Icon_LevelUp_Standard_512.png"
     }
   },
@@ -45,7 +45,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/content/items/persistentresources/athenaseasonalxp.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/UniversalXP/T_UI_UniversalXP_Icon_Standard_128.T_UI_UniversalXP_Icon_Standard_128",
+      "SmallPreview": "ExportedImages\\T_UI_UniversalXP_Icon_Standard_128.png",
       "LargePreview": "ExportedImages\\T_UI_UniversalXP_Icon_Standard_512.png"
     }
   },
@@ -58,7 +58,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/content/items/persistentresources/athenaseasonalxp_large.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/UniversalXP/T_UI_UniversalXP_Icon_Standard_128.T_UI_UniversalXP_Icon_Standard_128",
+      "SmallPreview": "ExportedImages\\T_UI_UniversalXP_Icon_Standard_128.png",
       "LargePreview": "ExportedImages\\T_UI_UniversalXP_Icon_Standard_512.png"
     }
   },
@@ -71,7 +71,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/content/items/persistentresources/athenaseasonalxp_med.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/UniversalXP/T_UI_UniversalXP_Icon_Standard_128.T_UI_UniversalXP_Icon_Standard_128",
+      "SmallPreview": "ExportedImages\\T_UI_UniversalXP_Icon_Standard_128.png",
       "LargePreview": "ExportedImages\\T_UI_UniversalXP_Icon_Standard_512.png"
     }
   },
@@ -83,7 +83,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/battlepasspermanentquests/content/items/persistentresources/athenasurvivorprestige.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_Items_Survivor_Tier_Arrow1.T_Items_Survivor_Tier_Arrow1",
+      "SmallPreview": "ExportedImages\\T_Items_Survivor_Tier_Arrow1.png",
       "LargePreview": "ExportedImages\\T_Items_Survivor_Tier_Arrow1L.png"
     }
   },
@@ -95,7 +95,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/battlepasspermanentquests/content/items/persistentresources/athenasurvivortier.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_Items_Survivor_Tier_Arrow1.T_Items_Survivor_Tier_Arrow1",
+      "SmallPreview": "ExportedImages\\T_Items_Survivor_Tier_Arrow1.png",
       "LargePreview": "ExportedImages\\T_Items_Survivor_Tier_Arrow1L.png"
     }
   },
@@ -108,7 +108,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/content/items/persistentresources/athenawellrestedbooster.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/UniversalXP/T_UI_UniversalXP_Icon_Standard_128.T_UI_UniversalXP_Icon_Standard_128",
+      "SmallPreview": "ExportedImages\\T_UI_UniversalXP_Icon_Standard_128.png",
       "LargePreview": "ExportedImages\\T_UI_UniversalXP_Icon_Standard_512.png"
     }
   },
@@ -121,7 +121,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/campaign_event_currency.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Items/T-Items-EventCurrency-Storm.T-Items-EventCurrency-Storm",
+      "SmallPreview": "ExportedImages\\T-Items-EventCurrency-Storm.png",
       "LargePreview": "ExportedImages\\T-Items-EventCurrency-Storm-L.png"
     }
   },
@@ -134,7 +134,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/content/items/persistentresources/compendiumxp.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T-CrewXP.T-CrewXP",
+      "SmallPreview": "ExportedImages\\T-CrewXP.png",
       "LargePreview": "ExportedImages\\T-CrewXP-L.png"
     }
   },
@@ -146,7 +146,7 @@
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/currency_hybrid_mtx_xrayllama.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Items/T-Items-Currency-MTX-X-RayLlama.T-Items-Currency-MTX-X-RayLlama",
+      "SmallPreview": "ExportedImages\\T-Items-Currency-MTX-X-RayLlama.png",
       "LargePreview": "ExportedImages\\T-Items-Currency-MTX-X-RayLlama-L.png"
     }
   },
@@ -159,7 +159,7 @@
     "Rarity": "Epic",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/currency_mtxswap.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T-Items-EventCurrency-Vindertech.T-Items-EventCurrency-Vindertech",
+      "SmallPreview": "ExportedImages\\T-Items-EventCurrency-Vindertech.png",
       "LargePreview": "ExportedImages\\T-Items-EventCurrency-Vindertech-L.png"
     }
   },
@@ -172,7 +172,7 @@
     "Rarity": "Epic",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/currency_xrayllama.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Items/T-Items-Currency-X-RayLlama.T-Items-Currency-X-RayLlama",
+      "SmallPreview": "ExportedImages\\T-Items-Currency-X-RayLlama.png",
       "LargePreview": "ExportedImages\\T-Items-Currency-X-RayLlama-L.png"
     }
   },
@@ -185,7 +185,7 @@
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/eventcurrency_adventure.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Items/T-Items-EventCurrency-Summer.T-Items-EventCurrency-Summer",
+      "SmallPreview": "ExportedImages\\T-Items-EventCurrency-Summer.png",
       "LargePreview": "ExportedImages\\T-Items-EventCurrency-Summer-L.png"
     }
   },
@@ -198,7 +198,7 @@
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/eventcurrency_blockbuster.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Items/T-Items-EventCurrency-Blockbuster.T-Items-EventCurrency-Blockbuster",
+      "SmallPreview": "ExportedImages\\T-Items-EventCurrency-Blockbuster.png",
       "LargePreview": "ExportedImages\\T-Items-EventCurrency-Blockbuster-L.png"
     }
   },
@@ -211,7 +211,7 @@
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/eventcurrency_candy.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Items/T-Items-EventCurrency-Candy.T-Items-EventCurrency-Candy",
+      "SmallPreview": "ExportedImages\\T-Items-EventCurrency-Candy.png",
       "LargePreview": "ExportedImages\\T-Items-EventCurrency-Candy-L.png"
     }
   },
@@ -224,7 +224,7 @@
     "Rarity": "Epic",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/eventcurrency_founders.uasset",
     "ImagePaths": {
-      "SmallPreview": "/BRCosmetics/UI/Foundation/Textures/Icons/Boost/T-Icon-FoundersBadge-128.T-Icon-FoundersBadge-128",
+      "SmallPreview": "ExportedImages\\T-Icon-FoundersBadge-128.png",
       "LargePreview": "ExportedImages\\T-Icon-FoundersBadge-512.png"
     }
   },
@@ -237,7 +237,7 @@
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/eventcurrency_lunar.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Items/T-Items-EventCurrency-Spring2019.T-Items-EventCurrency-Spring2019",
+      "SmallPreview": "ExportedImages\\T-Items-EventCurrency-Spring2019.png",
       "LargePreview": "ExportedImages\\T-Items-EventCurrency-Spring2019_L.png"
     }
   },
@@ -250,7 +250,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/eventcurrency_pumpkinwarhead.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T-Icon-pumpkin.T-Icon-pumpkin",
+      "SmallPreview": "ExportedImages\\T-Icon-pumpkin.png",
       "LargePreview": "ExportedImages\\T-Icon-pumpkin.png"
     }
   },
@@ -263,7 +263,7 @@
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/eventcurrency_roadtrip.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Items/T-Items-EventCurrency-Season5Horde.T-Items-EventCurrency-Season5Horde",
+      "SmallPreview": "ExportedImages\\T-Items-EventCurrency-Season5Horde.png",
       "LargePreview": "ExportedImages\\T-Items-EventCurrency-Season5Horde-L.png"
     }
   },
@@ -276,7 +276,7 @@
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/eventcurrency_scaling.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Items/T-Item-GoldBars.T-Item-GoldBars",
+      "SmallPreview": "ExportedImages\\T-Item-GoldBars.png",
       "LargePreview": "ExportedImages\\T-Item-GoldBars-L.png"
     }
   },
@@ -289,7 +289,7 @@
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/eventcurrency_scavenger.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Items/T-Items-EventCurrency-Scavenger.T-Items-EventCurrency-Scavenger",
+      "SmallPreview": "ExportedImages\\T-Items-EventCurrency-Scavenger.png",
       "LargePreview": "ExportedImages\\T-Items-EventCurrency-Scavenger-L.png"
     }
   },
@@ -302,7 +302,7 @@
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/eventcurrency_snowballs.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Items/T-Items-EventCurrency-Snowballs.T-Items-EventCurrency-Snowballs",
+      "SmallPreview": "ExportedImages\\T-Items-EventCurrency-Snowballs.png",
       "LargePreview": "ExportedImages\\T-Items-EventCurrency-Snowballs-L.png"
     }
   },
@@ -315,7 +315,7 @@
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/eventcurrency_spring.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Items/T-Items-EventCurrency-Spring2019.T-Items-EventCurrency-Spring2019",
+      "SmallPreview": "ExportedImages\\T-Items-EventCurrency-Spring2019.png",
       "LargePreview": "ExportedImages\\T-Items-EventCurrency-Spring2019_L.png"
     }
   },
@@ -328,7 +328,7 @@
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/eventcurrency_stormzone.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Items/T-Items-EventCurrency-Storm.T-Items-EventCurrency-Storm",
+      "SmallPreview": "ExportedImages\\T-Items-EventCurrency-Storm.png",
       "LargePreview": "ExportedImages\\T-Items-EventCurrency-Storm-L.png"
     }
   },
@@ -341,7 +341,7 @@
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/eventcurrency_summer.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Items/T-Items-EventCurrency-Summer.T-Items-EventCurrency-Summer",
+      "SmallPreview": "ExportedImages\\T-Items-EventCurrency-Summer.png",
       "LargePreview": "ExportedImages\\T-Items-EventCurrency-Summer-L.png"
     }
   },
@@ -354,7 +354,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/heroxp.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Items/T-HeroXP.T-HeroXP",
+      "SmallPreview": "ExportedImages\\T-HeroXP.png",
       "LargePreview": "ExportedImages\\T-HeroXP-L.png"
     }
   },
@@ -367,7 +367,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/peopleresource.uasset",
     "ImagePaths": {
-      "SmallPreview": "/BRCosmetics/UI/Foundation/Textures/Icons/Currency/T-Icon-People.T-Icon-People",
+      "SmallPreview": "ExportedImages\\T-Icon-People.png",
       "LargePreview": "ExportedImages\\T-Icon-People-L.png"
     }
   },
@@ -380,7 +380,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/personnelxp.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T-CrewXP.T-CrewXP",
+      "SmallPreview": "ExportedImages\\T-CrewXP.png",
       "LargePreview": "ExportedImages\\T-CrewXP-L.png"
     }
   },
@@ -393,7 +393,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/phoenixxp.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/XP/Icon-SeasonalXP-L.Icon-SeasonalXP-L",
+      "SmallPreview": "ExportedImages\\Icon-SeasonalXP-L.png",
       "LargePreview": "ExportedImages\\Icon-SeasonalXP-XL.png"
     }
   },
@@ -406,7 +406,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/phoenixxp_reward.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/XP/Icon-SeasonalXP-L.Icon-SeasonalXP-L",
+      "SmallPreview": "ExportedImages\\Icon-SeasonalXP-L.png",
       "LargePreview": "ExportedImages\\Icon-SeasonalXP-XL.png"
     }
   },
@@ -419,7 +419,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/reagent_alteration_ele_fire.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Items/T-Items-WeaponPerkUp-Fire.T-Items-WeaponPerkUp-Fire",
+      "SmallPreview": "ExportedImages\\T-Items-WeaponPerkUp-Fire.png",
       "LargePreview": "ExportedImages\\T-Items-WeaponPerkUp-Fire-L.png"
     }
   },
@@ -432,7 +432,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/reagent_alteration_ele_nature.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Items/T-Items-WeaponPerkUp-Nature.T-Items-WeaponPerkUp-Nature",
+      "SmallPreview": "ExportedImages\\T-Items-WeaponPerkUp-Nature.png",
       "LargePreview": "ExportedImages\\T-Items-WeaponPerkUp-Nature-L.png"
     }
   },
@@ -445,7 +445,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/reagent_alteration_ele_water.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Items/T-Items-WeaponPerkUp-Water.T-Items-WeaponPerkUp-Water",
+      "SmallPreview": "ExportedImages\\T-Items-WeaponPerkUp-Water.png",
       "LargePreview": "ExportedImages\\T-Items-WeaponPerkUp-Water-L.png"
     }
   },
@@ -458,7 +458,7 @@
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/reagent_alteration_gameplay_generic.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Items/T-Items-WeaponRePerk-Resource.T-Items-WeaponRePerk-Resource",
+      "SmallPreview": "ExportedImages\\T-Items-WeaponRePerk-Resource.png",
       "LargePreview": "ExportedImages\\T-Items-WeaponRePerk-Resource-L.png"
     }
   },
@@ -471,7 +471,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/reagent_alteration_generic.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Items/T-Items-WeaponPerkUp-Generic.T-Items-WeaponPerkUp-Generic",
+      "SmallPreview": "ExportedImages\\T-Items-WeaponPerkUp-Generic.png",
       "LargePreview": "ExportedImages\\T-Items-WeaponPerkUp-Generic-L.png"
     }
   },
@@ -484,7 +484,7 @@
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/reagent_alteration_upgrade_r.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Items/T-Items-WeaponPerkUp-Rare.T-Items-WeaponPerkUp-Rare",
+      "SmallPreview": "ExportedImages\\T-Items-WeaponPerkUp-Rare.png",
       "LargePreview": "ExportedImages\\T-Items-WeaponPerkUp-Rare-L.png"
     }
   },
@@ -497,7 +497,7 @@
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/reagent_alteration_upgrade_sr.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Items/T-Items-WeaponPerkup-Legendary.T-Items-WeaponPerkup-Legendary",
+      "SmallPreview": "ExportedImages\\T-Items-WeaponPerkup-Legendary.png",
       "LargePreview": "ExportedImages\\T-Items-WeaponPerkup-Legendary-L.png"
     }
   },
@@ -509,7 +509,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/reagent_alteration_upgrade_uc.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Items/T-Items-WeaponPerkUp-Uncommon.T-Items-WeaponPerkUp-Uncommon",
+      "SmallPreview": "ExportedImages\\T-Items-WeaponPerkUp-Uncommon.png",
       "LargePreview": "ExportedImages\\T-Items-WeaponPerkUp-Uncommon-L.png"
     }
   },
@@ -522,7 +522,7 @@
     "Rarity": "Epic",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/reagent_alteration_upgrade_vr.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Items/T-Items-WeaponPerkup-Epic.T-Items-WeaponPerkup-Epic",
+      "SmallPreview": "ExportedImages\\T-Items-WeaponPerkup-Epic.png",
       "LargePreview": "ExportedImages\\T-Items-WeaponPerkup-Epic-L.png"
     }
   },
@@ -535,7 +535,7 @@
     "Rarity": "Epic",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/reagent_c_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Items/T-Items-Reagent-C-T01.T-Items-Reagent-C-T01",
+      "SmallPreview": "ExportedImages\\T-Items-Reagent-C-T01.png",
       "LargePreview": "ExportedImages\\T-Items-Reagent-C-T01-L.png"
     }
   },
@@ -548,7 +548,7 @@
     "Rarity": "Epic",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/reagent_c_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Items/T-Items-Reagent-C-T02.T-Items-Reagent-C-T02",
+      "SmallPreview": "ExportedImages\\T-Items-Reagent-C-T02.png",
       "LargePreview": "ExportedImages\\T-Items-Reagent-C-T02-L.png"
     }
   },
@@ -561,7 +561,7 @@
     "Rarity": "Epic",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/reagent_c_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Items/T-Items-Reagent-C-T03.T-Items-Reagent-C-T03",
+      "SmallPreview": "ExportedImages\\T-Items-Reagent-C-T03.png",
       "LargePreview": "ExportedImages\\T-Items-Reagent-C-T03-L.png"
     }
   },
@@ -574,7 +574,7 @@
     "Rarity": "Epic",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/reagent_c_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Items/T-Items-Reagent-C-T04.T-Items-Reagent-C-T04",
+      "SmallPreview": "ExportedImages\\T-Items-Reagent-C-T04.png",
       "LargePreview": "ExportedImages\\T-Items-Reagent-C-T04-L.png"
     }
   },
@@ -587,7 +587,7 @@
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/reagent_evolverarity_r.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Items/T-Items-Evolverarity-Rare.T-Items-Evolverarity-Rare",
+      "SmallPreview": "ExportedImages\\T-Items-Evolverarity-Rare.png",
       "LargePreview": "ExportedImages\\T-Items-Evolverarity-Rare-L.png"
     }
   },
@@ -600,7 +600,7 @@
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/reagent_evolverarity_sr.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Items/T-Items-Evolverarity-Legend.T-Items-Evolverarity-Legend",
+      "SmallPreview": "ExportedImages\\T-Items-Evolverarity-Legend.png",
       "LargePreview": "ExportedImages\\T-Items-Evolverarity-Legend-L.png"
     }
   },
@@ -613,7 +613,7 @@
     "Rarity": "Epic",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/reagent_evolverarity_vr.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Items/T-Items-Evolverarity-Epic.T-Items-Evolverarity-Epic",
+      "SmallPreview": "ExportedImages\\T-Items-Evolverarity-Epic.png",
       "LargePreview": "ExportedImages\\T-Items-Evolverarity-Epic-L.png"
     }
   },
@@ -626,7 +626,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/reagent_people.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Items/T-Items-Reagent-People.T-Items-Reagent-People",
+      "SmallPreview": "ExportedImages\\T-Items-Reagent-People.png",
       "LargePreview": "ExportedImages\\T-Items-Reagent-People-L.png"
     }
   },
@@ -639,7 +639,7 @@
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/reagent_promotion_heroes.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Items/T-Items-Hero-PromotionCurrency.T-Items-Hero-PromotionCurrency",
+      "SmallPreview": "ExportedImages\\T-Items-Hero-PromotionCurrency.png",
       "LargePreview": "ExportedImages\\T-Items-Hero-PromotionCurrency-L.png"
     }
   },
@@ -652,7 +652,7 @@
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/reagent_promotion_survivors.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Items/T-Items-Survivor-PromotionCurrency.T-Items-Survivor-PromotionCurrency",
+      "SmallPreview": "ExportedImages\\T-Items-Survivor-PromotionCurrency.png",
       "LargePreview": "ExportedImages\\T-Items-Survivor-PromotionCurrency-L.png"
     }
   },
@@ -665,7 +665,7 @@
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/reagent_promotion_traps.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Items/T-Items-Trap-PromotionCurrency.T-Items-Trap-PromotionCurrency",
+      "SmallPreview": "ExportedImages\\T-Items-Trap-PromotionCurrency.png",
       "LargePreview": "ExportedImages\\T-Items-Trap-PromotionCurrency-L.png"
     }
   },
@@ -678,7 +678,7 @@
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/reagent_promotion_weapons.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Items/T-Items-Weapon-PromotionCurrency.T-Items-Weapon-PromotionCurrency",
+      "SmallPreview": "ExportedImages\\T-Items-Weapon-PromotionCurrency.png",
       "LargePreview": "ExportedImages\\T-Items-Weapon-PromotionCurrency-L.png"
     }
   },
@@ -691,7 +691,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/reagent_traps.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Items/T-Items-Reagent-Traps.T-Items-Reagent-Traps",
+      "SmallPreview": "ExportedImages\\T-Items-Reagent-Traps.png",
       "LargePreview": "ExportedImages\\T-Items-Reagent-Traps-L.png"
     }
   },
@@ -704,7 +704,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/reagent_weapons.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Items/T-Items-Reagent-Weapons.T-Items-Reagent-Weapons",
+      "SmallPreview": "ExportedImages\\T-Items-Reagent-Weapons.png",
       "LargePreview": "ExportedImages\\T-Items-Reagent-Weapons-L.png"
     }
   },
@@ -715,7 +715,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/battlepasspermanentquests/content/items/persistentresources/s32_rebootpoints.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/UniversalXP/T_UI_UniversalXP_Icon_Points_Standard_128.T_UI_UniversalXP_Icon_Points_Standard_128",
+      "SmallPreview": "ExportedImages\\T_UI_UniversalXP_Icon_Points_Standard_128.png",
       "LargePreview": "ExportedImages\\T_UI_UniversalXP_Icon_Points_Standard_128.png"
     }
   },
@@ -728,7 +728,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/schematicxp.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Items/T-Items-SchematicXP.T-Items-SchematicXP",
+      "SmallPreview": "ExportedImages\\T-Items-SchematicXP.png",
       "LargePreview": "ExportedImages\\Icon-SchematicXP-XL.png"
     }
   },
@@ -741,7 +741,7 @@
     "Rarity": "Epic",
     "AssetPath": "fortnitegame/plugins/gamefeatures/fm/sparksquests/sparkspermanentquests/content/items/persistentresources/sparkspack_currency.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SparksPermanentQuests/UI/Textures/T_FestivalCurrencyIcon_64px.T_FestivalCurrencyIcon_64px",
+      "SmallPreview": "ExportedImages\\T_FestivalCurrencyIcon_64px.png",
       "LargePreview": "ExportedImages\\T_FestivalCurrencyIcon_256px.png"
     }
   },
@@ -754,7 +754,7 @@
     "Rarity": "Epic",
     "AssetPath": "fortnitegame/plugins/gamefeatures/fm/sparksquests/sparkspermanentquests/content/items/persistentresources/sparkspack_currency_granter.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SparksPermanentQuests/UI/Textures/T_FestivalCurrencyIcon_64px.T_FestivalCurrencyIcon_64px",
+      "SmallPreview": "ExportedImages\\T_FestivalCurrencyIcon_64px.png",
       "LargePreview": "ExportedImages\\T_FestivalCurrencyIcon_256px.png"
     }
   },
@@ -767,7 +767,7 @@
     "Rarity": "Epic",
     "AssetPath": "fortnitegame/plugins/gamefeatures/fm/sparksquests/sparkspermanentquests/content/items/persistentresources/sparkswristband_currency.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SparksPermanentQuests/UI/Textures/T_WristbandCurrency.T_WristbandCurrency",
+      "SmallPreview": "ExportedImages\\T_WristbandCurrency.png",
       "LargePreview": "ExportedImages\\T_WristbandCurrency_L.png"
     }
   },
@@ -780,7 +780,7 @@
     "Rarity": "Epic",
     "AssetPath": "fortnitegame/plugins/gamefeatures/fm/sparksquests/sparkspermanentquests/content/items/persistentresources/sparkswristband_currency_granter.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SparksPermanentQuests/UI/Textures/T_WristbandCurrency.T_WristbandCurrency",
+      "SmallPreview": "ExportedImages\\T_WristbandCurrency.png",
       "LargePreview": "ExportedImages\\T_WristbandCurrency_L.png"
     }
   },
@@ -793,7 +793,7 @@
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/specialcurrency_daily.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Items/T-Items-DailyCoin.T-Items-DailyCoin",
+      "SmallPreview": "ExportedImages\\T-Items-DailyCoin.png",
       "LargePreview": "ExportedImages\\T-Items-DailyCoin-L.png"
     }
   },
@@ -806,7 +806,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_basicpack.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Items/T-Items-VoucherBasic.T-Items-VoucherBasic",
+      "SmallPreview": "ExportedImages\\T-Items-VoucherBasic.png",
       "LargePreview": "ExportedImages\\T-Items-VoucherBasic-L.png"
     }
   },
@@ -819,7 +819,7 @@
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_cardpack_2021anniversary.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Frontend/Store/Textures/PinataAnniversaryPack_128.PinataAnniversaryPack_128",
+      "SmallPreview": "ExportedImages\\PinataAnniversaryPack_128.png",
       "LargePreview": "ExportedImages\\PinataAnniversaryPack-L.png"
     }
   },
@@ -832,7 +832,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_cardpack_bronze.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Frontend/Store/PinataStandardPack-Upgrade_128.PinataStandardPack-Upgrade_128",
+      "SmallPreview": "ExportedImages\\PinataStandardPack-Upgrade_128.png",
       "LargePreview": "ExportedImages\\PinataStandardPack-Upgrade.png"
     }
   },
@@ -845,7 +845,7 @@
     "Rarity": "Epic",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_cardpack_event_founders.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Frontend/Store/Textures/PinataFoundersPack_128.PinataFoundersPack_128",
+      "SmallPreview": "ExportedImages\\PinataFoundersPack_128.png",
       "LargePreview": "ExportedImages\\PinataFoundersPack.png"
     }
   },
@@ -858,7 +858,7 @@
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_cardpack_jackpot.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Frontend/Store/PinataStandardPack-Upgrade_128.PinataStandardPack-Upgrade_128",
+      "SmallPreview": "ExportedImages\\PinataStandardPack-Upgrade_128.png",
       "LargePreview": "ExportedImages\\PinataStandardPack-Upgrade.png"
     }
   },
@@ -871,7 +871,7 @@
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_cardpack_persistent_anniversary.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Frontend/Store/Textures/PinataAnniversaryPack_128.PinataAnniversaryPack_128",
+      "SmallPreview": "ExportedImages\\PinataAnniversaryPack_128.png",
       "LargePreview": "ExportedImages\\PinataAnniversaryPack-L.png"
     }
   },
@@ -884,7 +884,7 @@
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_custom_firecracker_r.uasset",
     "ImagePaths": {
-      "SmallPreview": "/BRCosmetics/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-FireCrackerGun.T-Icon-Weapons-SK-FireCrackerGun",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-SK-FireCrackerGun.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-FireCrackerGun-L.png"
     }
   },
@@ -897,7 +897,7 @@
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_founders_constructor_bundle.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/CardPacks/T-Founder-SR-ConstructorPack.T-Founder-SR-ConstructorPack",
+      "SmallPreview": "ExportedImages\\T-Founder-SR-ConstructorPack.png",
       "LargePreview": "ExportedImages\\T-Founder-SR-ConstructorPack.png"
     }
   },
@@ -910,7 +910,7 @@
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_founders_constructor_weapon_sr.uasset",
     "ImagePaths": {
-      "SmallPreview": "/BRCosmetics/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-constructor-pump-shotgun.T-Icon-Weapons-SK-constructor-pump-shotgun",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-SK-constructor-pump-shotgun.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-constructor-pump-shotgun-L.png"
     }
   },
@@ -923,7 +923,7 @@
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_founders_constructor_weapon_vr.uasset",
     "ImagePaths": {
-      "SmallPreview": "/BRCosmetics/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-constructor-pump-shotgun.T-Icon-Weapons-SK-constructor-pump-shotgun",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-SK-constructor-pump-shotgun.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-constructor-pump-shotgun-L.png"
     }
   },
@@ -936,7 +936,7 @@
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_founders_ninja_bundle.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/CardPacks/T-Founder-SR-NinjaPack.T-Founder-SR-NinjaPack",
+      "SmallPreview": "ExportedImages\\T-Founder-SR-NinjaPack.png",
       "LargePreview": "ExportedImages\\T-Founder-SR-NinjaPack.png"
     }
   },
@@ -949,7 +949,7 @@
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_founders_ninja_weapon_sr.uasset",
     "ImagePaths": {
-      "SmallPreview": "/BRCosmetics/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-ninja-sword-katana-01.T-Icon-Weapons-SK-ninja-sword-katana-01",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-SK-ninja-sword-katana-01.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-ninja-sword-katana-01-L.png"
     }
   },
@@ -962,7 +962,7 @@
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_founders_ninja_weapon_vr.uasset",
     "ImagePaths": {
-      "SmallPreview": "/BRCosmetics/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-ninja-sword-katana-01.T-Icon-Weapons-SK-ninja-sword-katana-01",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-SK-ninja-sword-katana-01.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-ninja-sword-katana-01-L.png"
     }
   },
@@ -975,7 +975,7 @@
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_founders_outlander_bundle.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/CardPacks/T-Founder-SR-OutlanderPack.T-Founder-SR-OutlanderPack",
+      "SmallPreview": "ExportedImages\\T-Founder-SR-OutlanderPack.png",
       "LargePreview": "ExportedImages\\T-Founder-SR-OutlanderPack.png"
     }
   },
@@ -988,7 +988,7 @@
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_founders_outlander_weapon_sr.uasset",
     "ImagePaths": {
-      "SmallPreview": "/BRCosmetics/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Machine-Pistol.T-Icon-Weapons-SK-Machine-Pistol",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-SK-Machine-Pistol.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Machine-Pistol-L.png"
     }
   },
@@ -1001,7 +1001,7 @@
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_founders_outlander_weapon_vr.uasset",
     "ImagePaths": {
-      "SmallPreview": "/BRCosmetics/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Machine-Pistol.T-Icon-Weapons-SK-Machine-Pistol",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-SK-Machine-Pistol.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Machine-Pistol-L.png"
     }
   },
@@ -1014,7 +1014,7 @@
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_founders_soldier_bundle.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/CardPacks/T-Founder-SR-SoliderPack.T-Founder-SR-SoliderPack",
+      "SmallPreview": "ExportedImages\\T-Founder-SR-SoliderPack.png",
       "LargePreview": "ExportedImages\\T-Founder-SR-SoliderPack.png"
     }
   },
@@ -1027,7 +1027,7 @@
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_founders_soldier_weapon_sr.uasset",
     "ImagePaths": {
-      "SmallPreview": "/BRCosmetics/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Drum-Assault-Rifle.T-Icon-Weapons-SK-Drum-Assault-Rifle",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-SK-Drum-Assault-Rifle.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Drum-Assault-Rifle-L.png"
     }
   },
@@ -1040,7 +1040,7 @@
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_founders_soldier_weapon_vr.uasset",
     "ImagePaths": {
-      "SmallPreview": "/BRCosmetics/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Drum-Assault-Rifle.T-Icon-Weapons-SK-Drum-Assault-Rifle",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-SK-Drum-Assault-Rifle.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-Drum-Assault-Rifle-L.png"
     }
   },
@@ -1053,7 +1053,7 @@
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_founders_starterweapons_bundle.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/ItemCategories/T-Icon-Schematic-128.T-Icon-Schematic-128",
+      "SmallPreview": "ExportedImages\\T-Icon-Schematic-128.png",
       "LargePreview": "ExportedImages\\T-Icon-Schematic-CARD.png"
     }
   },
@@ -1066,7 +1066,7 @@
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_generic_defender_r.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/ItemCategories/T-Icon-Defenders-128.T-Icon-Defenders-128",
+      "SmallPreview": "ExportedImages\\T-Icon-Defenders-128.png",
       "LargePreview": "ExportedImages\\T-Icon-Defenders_-CARD.png"
     }
   },
@@ -1079,7 +1079,7 @@
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_generic_defender_sr.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/ItemCategories/T-Icon-Defenders-128.T-Icon-Defenders-128",
+      "SmallPreview": "ExportedImages\\T-Icon-Defenders-128.png",
       "LargePreview": "ExportedImages\\T-Icon-Defenders_-CARD.png"
     }
   },
@@ -1092,7 +1092,7 @@
     "Rarity": "Epic",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_generic_defender_vr.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/ItemCategories/T-Icon-Defenders-128.T-Icon-Defenders-128",
+      "SmallPreview": "ExportedImages\\T-Icon-Defenders-128.png",
       "LargePreview": "ExportedImages\\T-Icon-Defenders_-CARD.png"
     }
   },
@@ -1105,7 +1105,7 @@
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_generic_hero_r.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/ItemCategories/T-Icon-Hero-128.T-Icon-Hero-128",
+      "SmallPreview": "ExportedImages\\T-Icon-Hero-128.png",
       "LargePreview": "ExportedImages\\T-Icon-Hero-CARD.png"
     }
   },
@@ -1118,7 +1118,7 @@
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_generic_hero_sr.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/ItemCategories/T-Icon-Hero-128.T-Icon-Hero-128",
+      "SmallPreview": "ExportedImages\\T-Icon-Hero-128.png",
       "LargePreview": "ExportedImages\\T-Icon-Hero-CARD.png"
     }
   },
@@ -1131,7 +1131,7 @@
     "Rarity": "Epic",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_generic_hero_vr.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/ItemCategories/T-Icon-Hero-128.T-Icon-Hero-128",
+      "SmallPreview": "ExportedImages\\T-Icon-Hero-128.png",
       "LargePreview": "ExportedImages\\T-Icon-Hero-CARD.png"
     }
   },
@@ -1144,7 +1144,7 @@
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_generic_manager_r.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/ItemTypes/T-Icon-Survivor-Leader-128.T-Icon-Survivor-Leader-128",
+      "SmallPreview": "ExportedImages\\T-Icon-Survivor-Leader-128.png",
       "LargePreview": "ExportedImages\\T-Icon-Survivor-Leader-CARD.png"
     }
   },
@@ -1157,7 +1157,7 @@
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_generic_manager_sr.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/ItemTypes/T-Icon-Survivor-Leader-128.T-Icon-Survivor-Leader-128",
+      "SmallPreview": "ExportedImages\\T-Icon-Survivor-Leader-128.png",
       "LargePreview": "ExportedImages\\T-Icon-Survivor-Leader-CARD.png"
     }
   },
@@ -1170,7 +1170,7 @@
     "Rarity": "Epic",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_generic_manager_vr.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/ItemTypes/T-Icon-Survivor-Leader-128.T-Icon-Survivor-Leader-128",
+      "SmallPreview": "ExportedImages\\T-Icon-Survivor-Leader-128.png",
       "LargePreview": "ExportedImages\\T-Icon-Survivor-Leader-CARD.png"
     }
   },
@@ -1183,7 +1183,7 @@
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_generic_melee_r.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/ItemCategories/T-Icon-Melee-128.T-Icon-Melee-128",
+      "SmallPreview": "ExportedImages\\T-Icon-Melee-128.png",
       "LargePreview": "ExportedImages\\T-Icon-Melee-CARD.png"
     }
   },
@@ -1196,7 +1196,7 @@
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_generic_melee_sr.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/ItemCategories/T-Icon-Melee-128.T-Icon-Melee-128",
+      "SmallPreview": "ExportedImages\\T-Icon-Melee-128.png",
       "LargePreview": "ExportedImages\\T-Icon-Melee-CARD.png"
     }
   },
@@ -1209,7 +1209,7 @@
     "Rarity": "Epic",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_generic_melee_vr.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/ItemCategories/T-Icon-Melee-128.T-Icon-Melee-128",
+      "SmallPreview": "ExportedImages\\T-Icon-Melee-128.png",
       "LargePreview": "ExportedImages\\T-Icon-Melee-CARD.png"
     }
   },
@@ -1222,7 +1222,7 @@
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_generic_ranged_r.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/ItemCategories/T-Icon-Ranged-128.T-Icon-Ranged-128",
+      "SmallPreview": "ExportedImages\\T-Icon-Ranged-128.png",
       "LargePreview": "ExportedImages\\T-Icon-Ranged-CARD.png"
     }
   },
@@ -1235,7 +1235,7 @@
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_generic_ranged_sr.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/ItemCategories/T-Icon-Ranged-128.T-Icon-Ranged-128",
+      "SmallPreview": "ExportedImages\\T-Icon-Ranged-128.png",
       "LargePreview": "ExportedImages\\T-Icon-Ranged-CARD.png"
     }
   },
@@ -1248,7 +1248,7 @@
     "Rarity": "Epic",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_generic_ranged_vr.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/ItemCategories/T-Icon-Ranged-128.T-Icon-Ranged-128",
+      "SmallPreview": "ExportedImages\\T-Icon-Ranged-128.png",
       "LargePreview": "ExportedImages\\T-Icon-Ranged-CARD.png"
     }
   },
@@ -1261,7 +1261,7 @@
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_generic_schematic_r.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/ItemCategories/T-Icon-Schematic-128.T-Icon-Schematic-128",
+      "SmallPreview": "ExportedImages\\T-Icon-Schematic-128.png",
       "LargePreview": "ExportedImages\\T-Icon-Schematic-CARD.png"
     }
   },
@@ -1274,7 +1274,7 @@
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_generic_schematic_sr.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/ItemCategories/T-Icon-Schematic-128.T-Icon-Schematic-128",
+      "SmallPreview": "ExportedImages\\T-Icon-Schematic-128.png",
       "LargePreview": "ExportedImages\\T-Icon-Schematic-CARD.png"
     }
   },
@@ -1287,7 +1287,7 @@
     "Rarity": "Epic",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_generic_schematic_vr.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/ItemCategories/T-Icon-Schematic-128.T-Icon-Schematic-128",
+      "SmallPreview": "ExportedImages\\T-Icon-Schematic-128.png",
       "LargePreview": "ExportedImages\\T-Icon-Schematic-CARD.png"
     }
   },
@@ -1300,7 +1300,7 @@
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_generic_trap_r.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/ItemCategories/T-Icon-Traps-128.T-Icon-Traps-128",
+      "SmallPreview": "ExportedImages\\T-Icon-Traps-128.png",
       "LargePreview": "ExportedImages\\T-Icon-Traps-CARD.png"
     }
   },
@@ -1313,7 +1313,7 @@
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_generic_trap_sr.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/ItemCategories/T-Icon-Traps-128.T-Icon-Traps-128",
+      "SmallPreview": "ExportedImages\\T-Icon-Traps-128.png",
       "LargePreview": "ExportedImages\\T-Icon-Traps-CARD.png"
     }
   },
@@ -1326,7 +1326,7 @@
     "Rarity": "Epic",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_generic_trap_vr.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/ItemCategories/T-Icon-Traps-128.T-Icon-Traps-128",
+      "SmallPreview": "ExportedImages\\T-Icon-Traps-128.png",
       "LargePreview": "ExportedImages\\T-Icon-Traps-CARD.png"
     }
   },
@@ -1339,7 +1339,7 @@
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_generic_weapon_r.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/T-Icon-Weapon-Skill-128.T-Icon-Weapon-Skill-128",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapon-Skill-128.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapon-Skill-128.png"
     }
   },
@@ -1352,7 +1352,7 @@
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_generic_weapon_sr.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/T-Icon-Weapon-Skill-128.T-Icon-Weapon-Skill-128",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapon-Skill-128.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapon-Skill-128.png"
     }
   },
@@ -1365,7 +1365,7 @@
     "Rarity": "Epic",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_generic_weapon_vr.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/T-Icon-Weapon-Skill-128.T-Icon-Weapon-Skill-128",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapon-Skill-128.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapon-Skill-128.png"
     }
   },
@@ -1378,7 +1378,7 @@
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_generic_worker_r.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker_128.GenericWorker_128",
+      "SmallPreview": "ExportedImages\\GenericWorker_128.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -1391,7 +1391,7 @@
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_generic_worker_sr.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker_128.GenericWorker_128",
+      "SmallPreview": "ExportedImages\\GenericWorker_128.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -1404,7 +1404,7 @@
     "Rarity": "Epic",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_generic_worker_vr.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -1417,7 +1417,7 @@
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_herobuyback.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Items/T-Items-Currency-HeroRecruitmentVoucher.T-Items-Currency-HeroRecruitmentVoucher",
+      "SmallPreview": "ExportedImages\\T-Items-Currency-HeroRecruitmentVoucher.png",
       "LargePreview": "ExportedImages\\T-Items-Currency-HeroRecruitmentVoucher-L.png"
     }
   },
@@ -1430,7 +1430,7 @@
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_item_buyback.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Items/T-Items-Currency-WeaponVoucher.T-Items-Currency-WeaponVoucher",
+      "SmallPreview": "ExportedImages\\T-Items-Currency-WeaponVoucher.png",
       "LargePreview": "ExportedImages\\T-Items-Currency-WeaponVoucher-L.png"
     }
   }

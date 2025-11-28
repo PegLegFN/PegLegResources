@@ -9,26 +9,6 @@
       "Icon": "ExportedImages\\Icon-Mission-Gate1-XL.png"
     }
   },
-  "MissionGen:missiongen_1gate_castle_c": {
-    "Type": "MissionGen",
-    "Name": "MissionGen_1Gate_Castle_C",
-    "DisplayName": "Fight the Storm - Castle",
-    "Description": "Find the target. Deploy the ATLAS. Fight the Storm!",
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/world/missiongens/missiongen_1gate_castle",
-    "ImagePaths": {
-      "Icon": "ExportedImages\\Icon-Mission-Gate1-XL.png"
-    }
-  },
-  "MissionGen:missiongen_1gate_generic_c": {
-    "Type": "MissionGen",
-    "Name": "MissionGen_1Gate_Generic_C",
-    "DisplayName": "Close the Gate - Generic",
-    "Description": "Find and close the Gate!",
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/world/missiongens/missiongen_1gate_generic",
-    "ImagePaths": {
-      "Icon": "ExportedImages\\T-Icon-Single-128.png"
-    }
-  },
   "MissionGen:missiongen_1gate_group_c": {
     "Type": "MissionGen",
     "Name": "MissionGen_1Gate_Group_C",
@@ -47,26 +27,6 @@
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/world/missiongens/missiongen_1gate_group_pve02on",
     "ImagePaths": {
       "Icon": "ExportedImages\\T-Icon-4Player-FightTheStorm-Lvl1-128.png"
-    }
-  },
-  "MissionGen:missiongen_1gate_irwin_creaturetest_c": {
-    "Type": "MissionGen",
-    "Name": "MissionGen_1Gate_Irwin_CreatureTest_C",
-    "DisplayName": "Fight the Storm",
-    "Description": "Find the target. Deploy the ATLAS. Fight the Storm!",
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/world/missiongens/testmissiongens/missiongen_1gate_irwin_creaturetest",
-    "ImagePaths": {
-      "Icon": "ExportedImages\\Icon-Mission-Gate1-XL.png"
-    }
-  },
-  "MissionGen:missiongen_1gate_mansion_c": {
-    "Type": "MissionGen",
-    "Name": "MissionGen_1Gate_Mansion_C",
-    "DisplayName": "Fight the Storm - Mansion",
-    "Description": "Find the target. Deploy the ATLAS. Fight the Storm!",
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/world/missiongens/missiongen_1gate_mansion",
-    "ImagePaths": {
-      "Icon": "ExportedImages\\Icon-Mission-Gate1-XL.png"
     }
   },
   "MissionGen:missiongen_1gate_vlt_c": {
@@ -109,16 +69,6 @@
       "Icon": "ExportedImages\\T-Icon-Double-128.png"
     }
   },
-  "MissionGen:missiongen_2gates_generic_c": {
-    "Type": "MissionGen",
-    "Name": "MissionGen_2Gates_Generic_C",
-    "DisplayName": "Close the Gates - Generic",
-    "Description": "Find and close 2 Gates!",
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/world/missiongens/missiongen_2gates_generic",
-    "ImagePaths": {
-      "Icon": "ExportedImages\\T-Icon-Double-128.png"
-    }
-  },
   "MissionGen:missiongen_2gates_group_c": {
     "Type": "MissionGen",
     "Name": "MissionGen_2Gates_Group_C",
@@ -139,16 +89,6 @@
       "Icon": "ExportedImages\\T-Icon-Triple-128.png"
     }
   },
-  "MissionGen:missiongen_3gates_generic_c": {
-    "Type": "MissionGen",
-    "Name": "MissionGen_3Gates_Generic_C",
-    "DisplayName": "Close the Gates - Generic",
-    "Description": "Find and close 3 Gates!",
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/world/missiongens/missiongen_3gates_generic",
-    "ImagePaths": {
-      "Icon": "ExportedImages\\T-Icon-Triple-128.png"
-    }
-  },
   "MissionGen:missiongen_3gates_group_c": {
     "Type": "MissionGen",
     "Name": "MissionGen_3Gates_Group_C",
@@ -165,16 +105,6 @@
     "DisplayName": "Fight Category 4 Storm",
     "Description": "Find the targets. Deploy the ATLASES. Fight the Storm!",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/world/missiongens/missiongen_4gates",
-    "ImagePaths": {
-      "Icon": "ExportedImages\\T-Icon-Quadruple-128.png"
-    }
-  },
-  "MissionGen:missiongen_4gates_generic_c": {
-    "Type": "MissionGen",
-    "Name": "MissionGen_4Gates_Generic_C",
-    "DisplayName": "Close the Gates - Generic",
-    "Description": "Find and close 4 Gates!",
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/world/missiongens/missiongen_4gates_generic",
     "ImagePaths": {
       "Icon": "ExportedImages\\T-Icon-Quadruple-128.png"
     }
@@ -263,17 +193,6 @@
     "ImagePaths": {
       "Icon": "ExportedImages\\T-Icon-collect-Unspeakable-Horrors-128.png",
       "LoadingScreen": "ExportedImages\\T-LS-StW-Horde.png"
-    }
-  },
-  "MissionGen:missiongen_cinematictest_c": {
-    "Type": "MissionGen",
-    "Name": "MissionGen_CinematicTest_C",
-    "DisplayName": "Cinematic test",
-    "Description": "Test cinematics here",
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/world/missiongens/testmissiongens/missiongen_cinematictest",
-    "ImagePaths": {
-      "Icon": "ExportedImages\\Icon-Mission-Gate1-XL.png",
-      "LoadingScreen": "ExportedImages\\FORT_Load_Missions_Gate.png"
     }
   },
   "MissionGen:missiongen_day1_c": {
@@ -543,16 +462,6 @@
       "Icon": "ExportedImages\\T-Icon-Story-128.png"
     }
   },
-  "MissionGen:missiongen_gameplaytrailer_vlt_c": {
-    "Type": "MissionGen",
-    "Name": "MissionGen_GameplayTrailer_VLT_C",
-    "DisplayName": "Gameplay Trailer",
-    "Description": "Find the target. Deploy the ATLAS. Fight the Storm!",
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/world/missiongens/missiongen_gameplaytrailer_vlt",
-    "ImagePaths": {
-      "Icon": "ExportedImages\\Icon-Mission-Gate1-XL.png"
-    }
-  },
   "MissionGen:missiongen_habanero_duo_c": {
     "Type": "MissionGen",
     "Name": "MissionGen_Habanero_Duo_C",
@@ -647,16 +556,6 @@
       "Icon": "ExportedImages\\T-Icon-Story-128.png"
     }
   },
-  "MissionGen:missiongen_killandcollect_c": {
-    "Type": "MissionGen",
-    "Name": "MissionGen_KillAndCollect_C",
-    "DisplayName": "Kill \u0026 Collect",
-    "Description": "Collect the required items by killing enemies.",
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/world/missiongens/missiongen_killandcollect",
-    "ImagePaths": {
-      "Icon": "ExportedImages\\Icon-Mission-Unknown-XL.png"
-    }
-  },
   "MissionGen:missiongen_launchtheballoon_c": {
     "Type": "MissionGen",
     "Name": "MissionGen_LaunchTheBalloon_C",
@@ -678,17 +577,6 @@
       "LoadingScreen": "ExportedImages\\FORT_Load_Missions_RidetheLightning.png"
     }
   },
-  "MissionGen:missiongen_launchtherocket_c": {
-    "Type": "MissionGen",
-    "Name": "MissionGen_LaunchTheRocket_C",
-    "DisplayName": "Launch the Rocket",
-    "Description": "Acquire BluGlo and deliver it to the launchpad to fuel the rocket\u0027s lift off.",
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/world/missiongens/missiongen_launchtherocket",
-    "ImagePaths": {
-      "Icon": "ExportedImages\\T-Icon-Rocket-128.png",
-      "LoadingScreen": "ExportedImages\\FORT_Load_Missions_Rocket.png"
-    }
-  },
   "MissionGen:missiongen_ltr_cannyvalley_c": {
     "Type": "MissionGen",
     "Name": "MissionGen_LtR_CannyValley_C",
@@ -707,16 +595,6 @@
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/world/missiongens/missiongen_ltr_twine",
     "ImagePaths": {
       "Icon": "ExportedImages\\T-Icon-Rocket-128.png"
-    }
-  },
-  "MissionGen:missiongen_mapletreevalley_c": {
-    "Type": "MissionGen",
-    "Name": "MissionGen_MapleTreeValley_C",
-    "DisplayName": "Maple Tree Valley",
-    "Description": "Defend against challenging enemies from a single direction!",
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/world/missiongens/missiongen_mapletreevalley",
-    "ImagePaths": {
-      "Icon": "ExportedImages\\Icon-Mission-Unknown-XL.png"
     }
   },
   "MissionGen:missiongen_mayday_c": {
@@ -780,16 +658,6 @@
       "LoadingScreen": "ExportedImages\\Fort_Load_BattleRoyale_NoBuild.png"
     }
   },
-  "MissionGen:missiongen_nullmission_c": {
-    "Type": "MissionGen",
-    "Name": "MissionGen_NullMission_C",
-    "DisplayName": "No Mission",
-    "Description": "This mission does nothing!",
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/world/missiongens/missiongen_nullmission",
-    "ImagePaths": {
-      "Icon": "ExportedImages\\Icon-Mission-Unknown-XL.png"
-    }
-  },
   "MissionGen:missiongen_onboarding_fort_c": {
     "Type": "MissionGen",
     "Name": "MissionGen_Onboarding_Fort_C",
@@ -840,16 +708,6 @@
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/world/missiongens/eventprimarymissions/missiongen_protectthepresents",
     "ImagePaths": {
       "Icon": "ExportedImages\\T_Icon_ProtectThePresent_128.png"
-    }
-  },
-  "MissionGen:missiongen_reactivequests_c": {
-    "Type": "MissionGen",
-    "Name": "MissionGen_ReactiveQuests_C",
-    "DisplayName": "Reactive Quests",
-    "Description": "Test reactive quests",
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/world/missiongens/missiongen_reactivequests",
-    "ImagePaths": {
-      "Icon": "ExportedImages\\Icon-Mission-Unknown-XL.png"
     }
   },
   "MissionGen:missiongen_refuelthebase_c": {
@@ -942,16 +800,6 @@
       "Icon": "ExportedImages\\T-Icon-4Player-RideTheLightning-128.png"
     }
   },
-  "MissionGen:missiongen_ridethestorm_c": {
-    "Type": "MissionGen",
-    "Name": "MissionGen_RideTheStorm_C",
-    "DisplayName": "Launch the Balloon",
-    "Description": "Acquire BluGlo and deliver it to the launchpad to fuel the balloon for lift off.",
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/world/missiongens/missiongen_ridethestorm",
-    "ImagePaths": {
-      "Icon": "ExportedImages\\T-Icon-Launch-128.png"
-    }
-  },
   "MissionGen:missiongen_rtl_stormquest2018landmark_c": {
     "Type": "MissionGen",
     "Name": "MissionGen_RtL_StormQuest2018Landmark_C",
@@ -981,16 +829,6 @@
     "ImagePaths": {
       "Icon": "ExportedImages\\T-Icon-Story-128.png",
       "LoadingScreen": "ExportedImages\\FORT_Load_StabilizeTheRift.png"
-    }
-  },
-  "MissionGen:missiongen_stackthebones_c": {
-    "Type": "MissionGen",
-    "Name": "MissionGen_StackTheBones_C",
-    "DisplayName": "Stack the bones",
-    "Description": "Get some revenge! Kill Storm Creatures and collect their bones to create a monumental bone stack",
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/world/missiongens/missiongen_stackthebones",
-    "ImagePaths": {
-      "Icon": "ExportedImages\\T-Icon-High-Priority-128.png"
     }
   },
   "MissionGen:missiongen_starlight_c": {
@@ -1189,16 +1027,6 @@
     "ImagePaths": {
       "Icon": "ExportedImages\\T_Icon_SurviveTheNight_128.png",
       "LoadingScreen": "ExportedImages\\T-LS-StW-HauntedHotel.png"
-    }
-  },
-  "MissionGen:missiongen_survivors_gate_c": {
-    "Type": "MissionGen",
-    "Name": "MissionGen_Survivors_Gate_C",
-    "DisplayName": "Survivors Everywhere",
-    "Description": "Survivors Everywhere",
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/world/missiongens/missiongen_survivors_gate",
-    "ImagePaths": {
-      "Icon": "ExportedImages\\Icon-Mission-Unknown-XL.png"
     }
   },
   "MissionGen:missiongen_t1_ht_cat1fts_c": {

@@ -22,7 +22,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerdoctor_c_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -51,7 +51,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerdoctor_c_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -71,7 +71,7 @@
     "Tier": 3,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerdoctor_c_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -99,7 +99,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerdoctor_r_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -128,7 +128,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerdoctor_r_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -158,7 +158,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerdoctor_r_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -189,7 +189,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerdoctor_r_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -209,7 +209,7 @@
     "Tier": 5,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerdoctor_r_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -238,7 +238,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerdoctor_sr_kingsly_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-MartyKingsly.T-SR-MartyKingsly",
+      "SmallPreview": "ExportedImages\\T-SR-MartyKingsly.png",
       "LargePreview": "ExportedImages\\T-SR-MartyKingsly-L.png"
     }
   },
@@ -268,7 +268,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerdoctor_sr_kingsly_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-MartyKingsly.T-SR-MartyKingsly",
+      "SmallPreview": "ExportedImages\\T-SR-MartyKingsly.png",
       "LargePreview": "ExportedImages\\T-SR-MartyKingsly-L.png"
     }
   },
@@ -299,7 +299,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerdoctor_sr_kingsly_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-MartyKingsly.T-SR-MartyKingsly",
+      "SmallPreview": "ExportedImages\\T-SR-MartyKingsly.png",
       "LargePreview": "ExportedImages\\T-SR-MartyKingsly-L.png"
     }
   },
@@ -331,7 +331,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerdoctor_sr_kingsly_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-MartyKingsly.T-SR-MartyKingsly",
+      "SmallPreview": "ExportedImages\\T-SR-MartyKingsly.png",
       "LargePreview": "ExportedImages\\T-SR-MartyKingsly-L.png"
     }
   },
@@ -352,7 +352,7 @@
     "Tier": 5,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerdoctor_sr_kingsly_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-MartyKingsly.T-SR-MartyKingsly",
+      "SmallPreview": "ExportedImages\\T-SR-MartyKingsly.png",
       "LargePreview": "ExportedImages\\T-SR-MartyKingsly-L.png"
     }
   },
@@ -381,7 +381,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerdoctor_sr_noctor_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-GregoryFry-128.T-SR-GregoryFry-128",
+      "SmallPreview": "ExportedImages\\T-SR-GregoryFry-128.png",
       "LargePreview": "ExportedImages\\T-SR-GregoryFry-L.png"
     }
   },
@@ -411,7 +411,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerdoctor_sr_noctor_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-GregoryFry-128.T-SR-GregoryFry-128",
+      "SmallPreview": "ExportedImages\\T-SR-GregoryFry-128.png",
       "LargePreview": "ExportedImages\\T-SR-GregoryFry-L.png"
     }
   },
@@ -442,7 +442,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerdoctor_sr_noctor_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-GregoryFry-128.T-SR-GregoryFry-128",
+      "SmallPreview": "ExportedImages\\T-SR-GregoryFry-128.png",
       "LargePreview": "ExportedImages\\T-SR-GregoryFry-L.png"
     }
   },
@@ -474,7 +474,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerdoctor_sr_noctor_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-GregoryFry-128.T-SR-GregoryFry-128",
+      "SmallPreview": "ExportedImages\\T-SR-GregoryFry-128.png",
       "LargePreview": "ExportedImages\\T-SR-GregoryFry-L.png"
     }
   },
@@ -495,7 +495,7 @@
     "Tier": 5,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerdoctor_sr_noctor_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-GregoryFry-128.T-SR-GregoryFry-128",
+      "SmallPreview": "ExportedImages\\T-SR-GregoryFry-128.png",
       "LargePreview": "ExportedImages\\T-SR-GregoryFry-L.png"
     }
   },
@@ -524,7 +524,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerdoctor_sr_treky_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-MayJenson.T-SR-MayJenson",
+      "SmallPreview": "ExportedImages\\T-SR-MayJenson.png",
       "LargePreview": "ExportedImages\\T-SR-MayJenson-L.png"
     }
   },
@@ -554,7 +554,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerdoctor_sr_treky_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-MayJenson.T-SR-MayJenson",
+      "SmallPreview": "ExportedImages\\T-SR-MayJenson.png",
       "LargePreview": "ExportedImages\\T-SR-MayJenson-L.png"
     }
   },
@@ -585,7 +585,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerdoctor_sr_treky_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-MayJenson.T-SR-MayJenson",
+      "SmallPreview": "ExportedImages\\T-SR-MayJenson.png",
       "LargePreview": "ExportedImages\\T-SR-MayJenson-L.png"
     }
   },
@@ -617,7 +617,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerdoctor_sr_treky_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-MayJenson.T-SR-MayJenson",
+      "SmallPreview": "ExportedImages\\T-SR-MayJenson.png",
       "LargePreview": "ExportedImages\\T-SR-MayJenson-L.png"
     }
   },
@@ -638,7 +638,7 @@
     "Tier": 5,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerdoctor_sr_treky_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-MayJenson.T-SR-MayJenson",
+      "SmallPreview": "ExportedImages\\T-SR-MayJenson.png",
       "LargePreview": "ExportedImages\\T-SR-MayJenson-L.png"
     }
   },
@@ -666,7 +666,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerdoctor_uc_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -695,7 +695,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerdoctor_uc_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -725,7 +725,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerdoctor_uc_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -745,7 +745,7 @@
     "Tier": 4,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerdoctor_uc_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -773,7 +773,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerdoctor_vr_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -802,7 +802,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerdoctor_vr_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -832,7 +832,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerdoctor_vr_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -863,7 +863,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerdoctor_vr_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -883,7 +883,7 @@
     "Tier": 5,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerdoctor_vr_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -910,7 +910,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerengineer_c_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -939,7 +939,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerengineer_c_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -959,7 +959,7 @@
     "Tier": 3,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerengineer_c_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -987,7 +987,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerengineer_r_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -1016,7 +1016,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerengineer_r_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -1046,7 +1046,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerengineer_r_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -1077,7 +1077,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerengineer_r_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -1097,7 +1097,7 @@
     "Tier": 5,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerengineer_r_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -1126,7 +1126,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerengineer_sr_countess_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-TessaLace-128.T-SR-TessaLace-128",
+      "SmallPreview": "ExportedImages\\T-SR-TessaLace-128.png",
       "LargePreview": "ExportedImages\\T-SR-TessaLace-L.png"
     }
   },
@@ -1156,7 +1156,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerengineer_sr_countess_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-TessaLace-128.T-SR-TessaLace-128",
+      "SmallPreview": "ExportedImages\\T-SR-TessaLace-128.png",
       "LargePreview": "ExportedImages\\T-SR-TessaLace-L.png"
     }
   },
@@ -1187,7 +1187,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerengineer_sr_countess_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-TessaLace-128.T-SR-TessaLace-128",
+      "SmallPreview": "ExportedImages\\T-SR-TessaLace-128.png",
       "LargePreview": "ExportedImages\\T-SR-TessaLace-L.png"
     }
   },
@@ -1219,7 +1219,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerengineer_sr_countess_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-TessaLace-128.T-SR-TessaLace-128",
+      "SmallPreview": "ExportedImages\\T-SR-TessaLace-128.png",
       "LargePreview": "ExportedImages\\T-SR-TessaLace-L.png"
     }
   },
@@ -1240,7 +1240,7 @@
     "Tier": 5,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerengineer_sr_countess_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-TessaLace-128.T-SR-TessaLace-128",
+      "SmallPreview": "ExportedImages\\T-SR-TessaLace-128.png",
       "LargePreview": "ExportedImages\\T-SR-TessaLace-L.png"
     }
   },
@@ -1269,7 +1269,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerengineer_sr_maths_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-EmmaNolen-128.T-SR-EmmaNolen-128",
+      "SmallPreview": "ExportedImages\\T-SR-EmmaNolen-128.png",
       "LargePreview": "ExportedImages\\T-SR-EmmaNolen-L.png"
     }
   },
@@ -1299,7 +1299,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerengineer_sr_maths_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-EmmaNolen-128.T-SR-EmmaNolen-128",
+      "SmallPreview": "ExportedImages\\T-SR-EmmaNolen-128.png",
       "LargePreview": "ExportedImages\\T-SR-EmmaNolen-L.png"
     }
   },
@@ -1330,7 +1330,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerengineer_sr_maths_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-EmmaNolen-128.T-SR-EmmaNolen-128",
+      "SmallPreview": "ExportedImages\\T-SR-EmmaNolen-128.png",
       "LargePreview": "ExportedImages\\T-SR-EmmaNolen-L.png"
     }
   },
@@ -1362,7 +1362,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerengineer_sr_maths_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-EmmaNolen-128.T-SR-EmmaNolen-128",
+      "SmallPreview": "ExportedImages\\T-SR-EmmaNolen-128.png",
       "LargePreview": "ExportedImages\\T-SR-EmmaNolen-L.png"
     }
   },
@@ -1383,7 +1383,7 @@
     "Tier": 5,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerengineer_sr_maths_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-EmmaNolen-128.T-SR-EmmaNolen-128",
+      "SmallPreview": "ExportedImages\\T-SR-EmmaNolen-128.png",
       "LargePreview": "ExportedImages\\T-SR-EmmaNolen-L.png"
     }
   },
@@ -1412,7 +1412,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerengineer_sr_sobs_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-StephenSerif-128.T-SR-StephenSerif-128",
+      "SmallPreview": "ExportedImages\\T-SR-StephenSerif-128.png",
       "LargePreview": "ExportedImages\\T-SR-StephenSerif-L.png"
     }
   },
@@ -1442,7 +1442,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerengineer_sr_sobs_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-StephenSerif-128.T-SR-StephenSerif-128",
+      "SmallPreview": "ExportedImages\\T-SR-StephenSerif-128.png",
       "LargePreview": "ExportedImages\\T-SR-StephenSerif-L.png"
     }
   },
@@ -1473,7 +1473,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerengineer_sr_sobs_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-StephenSerif-128.T-SR-StephenSerif-128",
+      "SmallPreview": "ExportedImages\\T-SR-StephenSerif-128.png",
       "LargePreview": "ExportedImages\\T-SR-StephenSerif-L.png"
     }
   },
@@ -1505,7 +1505,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerengineer_sr_sobs_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-StephenSerif-128.T-SR-StephenSerif-128",
+      "SmallPreview": "ExportedImages\\T-SR-StephenSerif-128.png",
       "LargePreview": "ExportedImages\\T-SR-StephenSerif-L.png"
     }
   },
@@ -1526,7 +1526,7 @@
     "Tier": 5,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerengineer_sr_sobs_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-StephenSerif-128.T-SR-StephenSerif-128",
+      "SmallPreview": "ExportedImages\\T-SR-StephenSerif-128.png",
       "LargePreview": "ExportedImages\\T-SR-StephenSerif-L.png"
     }
   },
@@ -1554,7 +1554,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerengineer_uc_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -1583,7 +1583,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerengineer_uc_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -1613,7 +1613,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerengineer_uc_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -1633,7 +1633,7 @@
     "Tier": 4,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerengineer_uc_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -1661,7 +1661,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerengineer_vr_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -1690,7 +1690,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerengineer_vr_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -1720,7 +1720,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerengineer_vr_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -1751,7 +1751,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerengineer_vr_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -1771,7 +1771,7 @@
     "Tier": 5,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerengineer_vr_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -1798,7 +1798,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerexplorer_c_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -1827,7 +1827,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerexplorer_c_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -1847,7 +1847,7 @@
     "Tier": 3,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerexplorer_c_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -1875,7 +1875,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerexplorer_r_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -1904,7 +1904,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerexplorer_r_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -1934,7 +1934,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerexplorer_r_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -1965,7 +1965,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerexplorer_r_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -1985,7 +1985,7 @@
     "Tier": 5,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerexplorer_r_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -2014,7 +2014,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerexplorer_sr_birdie_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-LizetteGale.T-SR-LizetteGale",
+      "SmallPreview": "ExportedImages\\T-SR-LizetteGale.png",
       "LargePreview": "ExportedImages\\T-SR-LizetteGale-L.png"
     }
   },
@@ -2044,7 +2044,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerexplorer_sr_birdie_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-LizetteGale.T-SR-LizetteGale",
+      "SmallPreview": "ExportedImages\\T-SR-LizetteGale.png",
       "LargePreview": "ExportedImages\\T-SR-LizetteGale-L.png"
     }
   },
@@ -2075,7 +2075,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerexplorer_sr_birdie_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-LizetteGale.T-SR-LizetteGale",
+      "SmallPreview": "ExportedImages\\T-SR-LizetteGale.png",
       "LargePreview": "ExportedImages\\T-SR-LizetteGale-L.png"
     }
   },
@@ -2107,7 +2107,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerexplorer_sr_birdie_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-LizetteGale.T-SR-LizetteGale",
+      "SmallPreview": "ExportedImages\\T-SR-LizetteGale.png",
       "LargePreview": "ExportedImages\\T-SR-LizetteGale-L.png"
     }
   },
@@ -2128,7 +2128,7 @@
     "Tier": 5,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerexplorer_sr_birdie_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-LizetteGale.T-SR-LizetteGale",
+      "SmallPreview": "ExportedImages\\T-SR-LizetteGale.png",
       "LargePreview": "ExportedImages\\T-SR-LizetteGale-L.png"
     }
   },
@@ -2157,7 +2157,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerexplorer_sr_eagle_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-AmyKimmer-128.T-SR-AmyKimmer-128",
+      "SmallPreview": "ExportedImages\\T-SR-AmyKimmer-128.png",
       "LargePreview": "ExportedImages\\T-SR-AmyKimmer-L.png"
     }
   },
@@ -2187,7 +2187,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerexplorer_sr_eagle_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-AmyKimmer-128.T-SR-AmyKimmer-128",
+      "SmallPreview": "ExportedImages\\T-SR-AmyKimmer-128.png",
       "LargePreview": "ExportedImages\\T-SR-AmyKimmer-L.png"
     }
   },
@@ -2218,7 +2218,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerexplorer_sr_eagle_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-AmyKimmer-128.T-SR-AmyKimmer-128",
+      "SmallPreview": "ExportedImages\\T-SR-AmyKimmer-128.png",
       "LargePreview": "ExportedImages\\T-SR-AmyKimmer-L.png"
     }
   },
@@ -2250,7 +2250,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerexplorer_sr_eagle_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-AmyKimmer-128.T-SR-AmyKimmer-128",
+      "SmallPreview": "ExportedImages\\T-SR-AmyKimmer-128.png",
       "LargePreview": "ExportedImages\\T-SR-AmyKimmer-L.png"
     }
   },
@@ -2271,7 +2271,7 @@
     "Tier": 5,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerexplorer_sr_eagle_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-AmyKimmer-128.T-SR-AmyKimmer-128",
+      "SmallPreview": "ExportedImages\\T-SR-AmyKimmer-128.png",
       "LargePreview": "ExportedImages\\T-SR-AmyKimmer-L.png"
     }
   },
@@ -2300,7 +2300,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerexplorer_sr_spacebound_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-NeilKepler.T-SR-NeilKepler",
+      "SmallPreview": "ExportedImages\\T-SR-NeilKepler.png",
       "LargePreview": "ExportedImages\\T-SR-NeilKepler-L.png"
     }
   },
@@ -2330,7 +2330,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerexplorer_sr_spacebound_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-NeilKepler.T-SR-NeilKepler",
+      "SmallPreview": "ExportedImages\\T-SR-NeilKepler.png",
       "LargePreview": "ExportedImages\\T-SR-NeilKepler-L.png"
     }
   },
@@ -2361,7 +2361,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerexplorer_sr_spacebound_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-NeilKepler.T-SR-NeilKepler",
+      "SmallPreview": "ExportedImages\\T-SR-NeilKepler.png",
       "LargePreview": "ExportedImages\\T-SR-NeilKepler-L.png"
     }
   },
@@ -2393,7 +2393,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerexplorer_sr_spacebound_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-NeilKepler.T-SR-NeilKepler",
+      "SmallPreview": "ExportedImages\\T-SR-NeilKepler.png",
       "LargePreview": "ExportedImages\\T-SR-NeilKepler-L.png"
     }
   },
@@ -2414,7 +2414,7 @@
     "Tier": 5,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerexplorer_sr_spacebound_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-NeilKepler.T-SR-NeilKepler",
+      "SmallPreview": "ExportedImages\\T-SR-NeilKepler.png",
       "LargePreview": "ExportedImages\\T-SR-NeilKepler-L.png"
     }
   },
@@ -2442,7 +2442,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerexplorer_uc_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -2471,7 +2471,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerexplorer_uc_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -2501,7 +2501,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerexplorer_uc_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -2521,7 +2521,7 @@
     "Tier": 4,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerexplorer_uc_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -2549,7 +2549,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerexplorer_vr_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -2578,7 +2578,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerexplorer_vr_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -2608,7 +2608,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerexplorer_vr_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -2639,7 +2639,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerexplorer_vr_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -2659,7 +2659,7 @@
     "Tier": 5,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerexplorer_vr_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -2686,7 +2686,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managergadgeteer_c_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -2715,7 +2715,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managergadgeteer_c_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -2735,7 +2735,7 @@
     "Tier": 3,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managergadgeteer_c_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -2763,7 +2763,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managergadgeteer_r_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -2792,7 +2792,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managergadgeteer_r_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -2822,7 +2822,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managergadgeteer_r_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -2853,7 +2853,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managergadgeteer_r_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -2873,7 +2873,7 @@
     "Tier": 5,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managergadgeteer_r_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -2902,7 +2902,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managergadgeteer_sr_fixer_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-HamletMcKinney.T-SR-HamletMcKinney",
+      "SmallPreview": "ExportedImages\\T-SR-HamletMcKinney.png",
       "LargePreview": "ExportedImages\\T-SR-HamletMcKinney-L.png"
     }
   },
@@ -2932,7 +2932,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managergadgeteer_sr_fixer_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-HamletMcKinney.T-SR-HamletMcKinney",
+      "SmallPreview": "ExportedImages\\T-SR-HamletMcKinney.png",
       "LargePreview": "ExportedImages\\T-SR-HamletMcKinney-L.png"
     }
   },
@@ -2963,7 +2963,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managergadgeteer_sr_fixer_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-HamletMcKinney.T-SR-HamletMcKinney",
+      "SmallPreview": "ExportedImages\\T-SR-HamletMcKinney.png",
       "LargePreview": "ExportedImages\\T-SR-HamletMcKinney-L.png"
     }
   },
@@ -2995,7 +2995,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managergadgeteer_sr_fixer_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-HamletMcKinney.T-SR-HamletMcKinney",
+      "SmallPreview": "ExportedImages\\T-SR-HamletMcKinney.png",
       "LargePreview": "ExportedImages\\T-SR-HamletMcKinney-L.png"
     }
   },
@@ -3016,7 +3016,7 @@
     "Tier": 5,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managergadgeteer_sr_fixer_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-HamletMcKinney.T-SR-HamletMcKinney",
+      "SmallPreview": "ExportedImages\\T-SR-HamletMcKinney.png",
       "LargePreview": "ExportedImages\\T-SR-HamletMcKinney-L.png"
     }
   },
@@ -3045,7 +3045,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managergadgeteer_sr_flak_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-KellySolek-128.T-SR-KellySolek-128",
+      "SmallPreview": "ExportedImages\\T-SR-KellySolek-128.png",
       "LargePreview": "ExportedImages\\T-SR-KellySolek-L.png"
     }
   },
@@ -3075,7 +3075,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managergadgeteer_sr_flak_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-KellySolek-128.T-SR-KellySolek-128",
+      "SmallPreview": "ExportedImages\\T-SR-KellySolek-128.png",
       "LargePreview": "ExportedImages\\T-SR-KellySolek-L.png"
     }
   },
@@ -3106,7 +3106,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managergadgeteer_sr_flak_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-KellySolek-128.T-SR-KellySolek-128",
+      "SmallPreview": "ExportedImages\\T-SR-KellySolek-128.png",
       "LargePreview": "ExportedImages\\T-SR-KellySolek-L.png"
     }
   },
@@ -3138,7 +3138,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managergadgeteer_sr_flak_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-KellySolek-128.T-SR-KellySolek-128",
+      "SmallPreview": "ExportedImages\\T-SR-KellySolek-128.png",
       "LargePreview": "ExportedImages\\T-SR-KellySolek-L.png"
     }
   },
@@ -3159,7 +3159,7 @@
     "Tier": 5,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managergadgeteer_sr_flak_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-KellySolek-128.T-SR-KellySolek-128",
+      "SmallPreview": "ExportedImages\\T-SR-KellySolek-128.png",
       "LargePreview": "ExportedImages\\T-SR-KellySolek-L.png"
     }
   },
@@ -3188,7 +3188,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managergadgeteer_sr_zapps_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-EllieClerk.T-SR-EllieClerk",
+      "SmallPreview": "ExportedImages\\T-SR-EllieClerk.png",
       "LargePreview": "ExportedImages\\T-SR-EllieClerk-L.png"
     }
   },
@@ -3218,7 +3218,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managergadgeteer_sr_zapps_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-EllieClerk.T-SR-EllieClerk",
+      "SmallPreview": "ExportedImages\\T-SR-EllieClerk.png",
       "LargePreview": "ExportedImages\\T-SR-EllieClerk-L.png"
     }
   },
@@ -3249,7 +3249,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managergadgeteer_sr_zapps_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-EllieClerk.T-SR-EllieClerk",
+      "SmallPreview": "ExportedImages\\T-SR-EllieClerk.png",
       "LargePreview": "ExportedImages\\T-SR-EllieClerk-L.png"
     }
   },
@@ -3281,7 +3281,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managergadgeteer_sr_zapps_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-EllieClerk.T-SR-EllieClerk",
+      "SmallPreview": "ExportedImages\\T-SR-EllieClerk.png",
       "LargePreview": "ExportedImages\\T-SR-EllieClerk-L.png"
     }
   },
@@ -3302,7 +3302,7 @@
     "Tier": 5,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managergadgeteer_sr_zapps_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-EllieClerk.T-SR-EllieClerk",
+      "SmallPreview": "ExportedImages\\T-SR-EllieClerk.png",
       "LargePreview": "ExportedImages\\T-SR-EllieClerk-L.png"
     }
   },
@@ -3330,7 +3330,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managergadgeteer_uc_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -3359,7 +3359,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managergadgeteer_uc_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -3389,7 +3389,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managergadgeteer_uc_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -3409,7 +3409,7 @@
     "Tier": 4,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managergadgeteer_uc_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -3437,7 +3437,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managergadgeteer_vr_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -3466,7 +3466,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managergadgeteer_vr_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -3496,7 +3496,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managergadgeteer_vr_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -3527,7 +3527,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managergadgeteer_vr_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -3547,7 +3547,7 @@
     "Tier": 5,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managergadgeteer_vr_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -3574,7 +3574,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerinventor_c_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -3603,7 +3603,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerinventor_c_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -3623,7 +3623,7 @@
     "Tier": 3,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerinventor_c_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -3651,7 +3651,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerinventor_r_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -3680,7 +3680,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerinventor_r_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -3710,7 +3710,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerinventor_r_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -3741,7 +3741,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerinventor_r_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -3761,7 +3761,7 @@
     "Tier": 5,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerinventor_r_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -3790,7 +3790,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerinventor_sr_frequency_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-NickGolub-128.T-SR-NickGolub-128",
+      "SmallPreview": "ExportedImages\\T-SR-NickGolub-128.png",
       "LargePreview": "ExportedImages\\T-SR-NickGolub-L.png"
     }
   },
@@ -3820,7 +3820,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerinventor_sr_frequency_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-NickGolub-128.T-SR-NickGolub-128",
+      "SmallPreview": "ExportedImages\\T-SR-NickGolub-128.png",
       "LargePreview": "ExportedImages\\T-SR-NickGolub-L.png"
     }
   },
@@ -3851,7 +3851,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerinventor_sr_frequency_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-NickGolub-128.T-SR-NickGolub-128",
+      "SmallPreview": "ExportedImages\\T-SR-NickGolub-128.png",
       "LargePreview": "ExportedImages\\T-SR-NickGolub-L.png"
     }
   },
@@ -3883,7 +3883,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerinventor_sr_frequency_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-NickGolub-128.T-SR-NickGolub-128",
+      "SmallPreview": "ExportedImages\\T-SR-NickGolub-128.png",
       "LargePreview": "ExportedImages\\T-SR-NickGolub-L.png"
     }
   },
@@ -3904,7 +3904,7 @@
     "Tier": 5,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerinventor_sr_frequency_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-NickGolub-128.T-SR-NickGolub-128",
+      "SmallPreview": "ExportedImages\\T-SR-NickGolub-128.png",
       "LargePreview": "ExportedImages\\T-SR-NickGolub-L.png"
     }
   },
@@ -3933,7 +3933,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerinventor_sr_rad_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-CaryMary.T-SR-CaryMary",
+      "SmallPreview": "ExportedImages\\T-SR-CaryMary.png",
       "LargePreview": "ExportedImages\\T-SR-CaryMary-L.png"
     }
   },
@@ -3963,7 +3963,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerinventor_sr_rad_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-CaryMary.T-SR-CaryMary",
+      "SmallPreview": "ExportedImages\\T-SR-CaryMary.png",
       "LargePreview": "ExportedImages\\T-SR-CaryMary-L.png"
     }
   },
@@ -3994,7 +3994,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerinventor_sr_rad_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-CaryMary.T-SR-CaryMary",
+      "SmallPreview": "ExportedImages\\T-SR-CaryMary.png",
       "LargePreview": "ExportedImages\\T-SR-CaryMary-L.png"
     }
   },
@@ -4026,7 +4026,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerinventor_sr_rad_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-CaryMary.T-SR-CaryMary",
+      "SmallPreview": "ExportedImages\\T-SR-CaryMary.png",
       "LargePreview": "ExportedImages\\T-SR-CaryMary-L.png"
     }
   },
@@ -4047,7 +4047,7 @@
     "Tier": 5,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerinventor_sr_rad_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-CaryMary.T-SR-CaryMary",
+      "SmallPreview": "ExportedImages\\T-SR-CaryMary.png",
       "LargePreview": "ExportedImages\\T-SR-CaryMary-L.png"
     }
   },
@@ -4076,7 +4076,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerinventor_sr_square_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-AlfredBohr.T-SR-AlfredBohr",
+      "SmallPreview": "ExportedImages\\T-SR-AlfredBohr.png",
       "LargePreview": "ExportedImages\\T-SR-AlfredBohr-L.png"
     }
   },
@@ -4106,7 +4106,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerinventor_sr_square_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-AlfredBohr.T-SR-AlfredBohr",
+      "SmallPreview": "ExportedImages\\T-SR-AlfredBohr.png",
       "LargePreview": "ExportedImages\\T-SR-AlfredBohr-L.png"
     }
   },
@@ -4137,7 +4137,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerinventor_sr_square_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-AlfredBohr.T-SR-AlfredBohr",
+      "SmallPreview": "ExportedImages\\T-SR-AlfredBohr.png",
       "LargePreview": "ExportedImages\\T-SR-AlfredBohr-L.png"
     }
   },
@@ -4169,7 +4169,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerinventor_sr_square_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-AlfredBohr.T-SR-AlfredBohr",
+      "SmallPreview": "ExportedImages\\T-SR-AlfredBohr.png",
       "LargePreview": "ExportedImages\\T-SR-AlfredBohr-L.png"
     }
   },
@@ -4190,7 +4190,7 @@
     "Tier": 5,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerinventor_sr_square_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-AlfredBohr.T-SR-AlfredBohr",
+      "SmallPreview": "ExportedImages\\T-SR-AlfredBohr.png",
       "LargePreview": "ExportedImages\\T-SR-AlfredBohr-L.png"
     }
   },
@@ -4218,7 +4218,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerinventor_uc_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -4247,7 +4247,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerinventor_uc_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -4277,7 +4277,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerinventor_uc_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -4297,7 +4297,7 @@
     "Tier": 4,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerinventor_uc_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -4325,7 +4325,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerinventor_vr_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -4354,7 +4354,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerinventor_vr_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -4384,7 +4384,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerinventor_vr_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -4415,7 +4415,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerinventor_vr_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -4435,7 +4435,7 @@
     "Tier": 5,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managerinventor_vr_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -4462,7 +4462,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managermartialartist_c_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -4491,7 +4491,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managermartialartist_c_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -4511,7 +4511,7 @@
     "Tier": 3,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managermartialartist_c_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -4539,7 +4539,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managermartialartist_r_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -4568,7 +4568,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managermartialartist_r_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -4598,7 +4598,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managermartialartist_r_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -4629,7 +4629,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managermartialartist_r_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -4649,7 +4649,7 @@
     "Tier": 5,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managermartialartist_r_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -4678,7 +4678,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managermartialartist_sr_dragon_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-SieLung.T-SR-SieLung",
+      "SmallPreview": "ExportedImages\\T-SR-SieLung.png",
       "LargePreview": "ExportedImages\\T-SR-SieLung-L.png"
     }
   },
@@ -4708,7 +4708,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managermartialartist_sr_dragon_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-SieLung.T-SR-SieLung",
+      "SmallPreview": "ExportedImages\\T-SR-SieLung.png",
       "LargePreview": "ExportedImages\\T-SR-SieLung-L.png"
     }
   },
@@ -4739,7 +4739,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managermartialartist_sr_dragon_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-SieLung.T-SR-SieLung",
+      "SmallPreview": "ExportedImages\\T-SR-SieLung.png",
       "LargePreview": "ExportedImages\\T-SR-SieLung-L.png"
     }
   },
@@ -4771,7 +4771,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managermartialartist_sr_dragon_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-SieLung.T-SR-SieLung",
+      "SmallPreview": "ExportedImages\\T-SR-SieLung.png",
       "LargePreview": "ExportedImages\\T-SR-SieLung-L.png"
     }
   },
@@ -4792,7 +4792,7 @@
     "Tier": 5,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managermartialartist_sr_dragon_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-SieLung.T-SR-SieLung",
+      "SmallPreview": "ExportedImages\\T-SR-SieLung.png",
       "LargePreview": "ExportedImages\\T-SR-SieLung-L.png"
     }
   },
@@ -4821,7 +4821,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managermartialartist_sr_samurai_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-JiroTofune.T-SR-JiroTofune",
+      "SmallPreview": "ExportedImages\\T-SR-JiroTofune.png",
       "LargePreview": "ExportedImages\\T-SR-JiroTofune-L.png"
     }
   },
@@ -4851,7 +4851,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managermartialartist_sr_samurai_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-JiroTofune.T-SR-JiroTofune",
+      "SmallPreview": "ExportedImages\\T-SR-JiroTofune.png",
       "LargePreview": "ExportedImages\\T-SR-JiroTofune-L.png"
     }
   },
@@ -4882,7 +4882,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managermartialartist_sr_samurai_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-JiroTofune.T-SR-JiroTofune",
+      "SmallPreview": "ExportedImages\\T-SR-JiroTofune.png",
       "LargePreview": "ExportedImages\\T-SR-JiroTofune-L.png"
     }
   },
@@ -4914,7 +4914,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managermartialartist_sr_samurai_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-JiroTofune.T-SR-JiroTofune",
+      "SmallPreview": "ExportedImages\\T-SR-JiroTofune.png",
       "LargePreview": "ExportedImages\\T-SR-JiroTofune-L.png"
     }
   },
@@ -4935,7 +4935,7 @@
     "Tier": 5,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managermartialartist_sr_samurai_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-JiroTofune.T-SR-JiroTofune",
+      "SmallPreview": "ExportedImages\\T-SR-JiroTofune.png",
       "LargePreview": "ExportedImages\\T-SR-JiroTofune-L.png"
     }
   },
@@ -4964,7 +4964,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managermartialartist_sr_tiger_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-MaximoDislocar.T-SR-MaximoDislocar",
+      "SmallPreview": "ExportedImages\\T-SR-MaximoDislocar.png",
       "LargePreview": "ExportedImages\\T-SR-MaximoDislocar-L.png"
     }
   },
@@ -4994,7 +4994,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managermartialartist_sr_tiger_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-MaximoDislocar.T-SR-MaximoDislocar",
+      "SmallPreview": "ExportedImages\\T-SR-MaximoDislocar.png",
       "LargePreview": "ExportedImages\\T-SR-MaximoDislocar-L.png"
     }
   },
@@ -5025,7 +5025,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managermartialartist_sr_tiger_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-MaximoDislocar.T-SR-MaximoDislocar",
+      "SmallPreview": "ExportedImages\\T-SR-MaximoDislocar.png",
       "LargePreview": "ExportedImages\\T-SR-MaximoDislocar-L.png"
     }
   },
@@ -5057,7 +5057,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managermartialartist_sr_tiger_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-MaximoDislocar.T-SR-MaximoDislocar",
+      "SmallPreview": "ExportedImages\\T-SR-MaximoDislocar.png",
       "LargePreview": "ExportedImages\\T-SR-MaximoDislocar-L.png"
     }
   },
@@ -5078,7 +5078,7 @@
     "Tier": 5,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managermartialartist_sr_tiger_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-MaximoDislocar.T-SR-MaximoDislocar",
+      "SmallPreview": "ExportedImages\\T-SR-MaximoDislocar.png",
       "LargePreview": "ExportedImages\\T-SR-MaximoDislocar-L.png"
     }
   },
@@ -5106,7 +5106,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managermartialartist_uc_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -5135,7 +5135,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managermartialartist_uc_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -5165,7 +5165,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managermartialartist_uc_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -5185,7 +5185,7 @@
     "Tier": 4,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managermartialartist_uc_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -5213,7 +5213,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managermartialartist_vr_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -5242,7 +5242,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managermartialartist_vr_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -5272,7 +5272,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managermartialartist_vr_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -5303,7 +5303,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managermartialartist_vr_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -5323,7 +5323,7 @@
     "Tier": 5,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managermartialartist_vr_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -5351,7 +5351,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/uniquemanagers/managerquestdoctor_r_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -5380,7 +5380,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/uniquemanagers/managerquestdoctor_r_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -5410,7 +5410,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/uniquemanagers/managerquestdoctor_r_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -5430,7 +5430,7 @@
     "Tier": 4,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/uniquemanagers/managerquestdoctor_r_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -5450,7 +5450,7 @@
     "Tier": 4,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/uniquemanagers/managerquestdoctor_r_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -5477,7 +5477,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managersoldier_c_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -5506,7 +5506,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managersoldier_c_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -5526,7 +5526,7 @@
     "Tier": 3,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managersoldier_c_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -5554,7 +5554,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managersoldier_r_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -5583,7 +5583,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managersoldier_r_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -5613,7 +5613,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managersoldier_r_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -5644,7 +5644,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managersoldier_r_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -5664,7 +5664,7 @@
     "Tier": 5,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managersoldier_r_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -5693,7 +5693,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managersoldier_sr_malcolm_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-Malcolm.T-SR-Malcolm",
+      "SmallPreview": "ExportedImages\\T-SR-Malcolm.png",
       "LargePreview": "ExportedImages\\T-SR-Malcolm-L.png"
     }
   },
@@ -5723,7 +5723,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managersoldier_sr_malcolm_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-Malcolm.T-SR-Malcolm",
+      "SmallPreview": "ExportedImages\\T-SR-Malcolm.png",
       "LargePreview": "ExportedImages\\T-SR-Malcolm-L.png"
     }
   },
@@ -5754,7 +5754,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managersoldier_sr_malcolm_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-Malcolm.T-SR-Malcolm",
+      "SmallPreview": "ExportedImages\\T-SR-Malcolm.png",
       "LargePreview": "ExportedImages\\T-SR-Malcolm-L.png"
     }
   },
@@ -5786,7 +5786,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managersoldier_sr_malcolm_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-Malcolm.T-SR-Malcolm",
+      "SmallPreview": "ExportedImages\\T-SR-Malcolm.png",
       "LargePreview": "ExportedImages\\T-SR-Malcolm-L.png"
     }
   },
@@ -5807,7 +5807,7 @@
     "Tier": 5,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managersoldier_sr_malcolm_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-Malcolm.T-SR-Malcolm",
+      "SmallPreview": "ExportedImages\\T-SR-Malcolm.png",
       "LargePreview": "ExportedImages\\T-SR-Malcolm-L.png"
     }
   },
@@ -5836,7 +5836,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managersoldier_sr_princess_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-LaceyChaos-128.T-SR-LaceyChaos-128",
+      "SmallPreview": "ExportedImages\\T-SR-LaceyChaos-128.png",
       "LargePreview": "ExportedImages\\T-SR-LaceyChaos-L.png"
     }
   },
@@ -5866,7 +5866,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managersoldier_sr_princess_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-LaceyChaos-128.T-SR-LaceyChaos-128",
+      "SmallPreview": "ExportedImages\\T-SR-LaceyChaos-128.png",
       "LargePreview": "ExportedImages\\T-SR-LaceyChaos-L.png"
     }
   },
@@ -5897,7 +5897,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managersoldier_sr_princess_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-LaceyChaos-128.T-SR-LaceyChaos-128",
+      "SmallPreview": "ExportedImages\\T-SR-LaceyChaos-128.png",
       "LargePreview": "ExportedImages\\T-SR-LaceyChaos-L.png"
     }
   },
@@ -5929,7 +5929,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managersoldier_sr_princess_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-LaceyChaos-128.T-SR-LaceyChaos-128",
+      "SmallPreview": "ExportedImages\\T-SR-LaceyChaos-128.png",
       "LargePreview": "ExportedImages\\T-SR-LaceyChaos-L.png"
     }
   },
@@ -5950,7 +5950,7 @@
     "Tier": 5,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managersoldier_sr_princess_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-LaceyChaos-128.T-SR-LaceyChaos-128",
+      "SmallPreview": "ExportedImages\\T-SR-LaceyChaos-128.png",
       "LargePreview": "ExportedImages\\T-SR-LaceyChaos-L.png"
     }
   },
@@ -5979,7 +5979,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managersoldier_sr_ramsie_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-RamsayBowers.T-SR-RamsayBowers",
+      "SmallPreview": "ExportedImages\\T-SR-RamsayBowers.png",
       "LargePreview": "ExportedImages\\T-SR-RamsayBowers-L.png"
     }
   },
@@ -6009,7 +6009,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managersoldier_sr_ramsie_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-RamsayBowers.T-SR-RamsayBowers",
+      "SmallPreview": "ExportedImages\\T-SR-RamsayBowers.png",
       "LargePreview": "ExportedImages\\T-SR-RamsayBowers-L.png"
     }
   },
@@ -6040,7 +6040,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managersoldier_sr_ramsie_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-RamsayBowers.T-SR-RamsayBowers",
+      "SmallPreview": "ExportedImages\\T-SR-RamsayBowers.png",
       "LargePreview": "ExportedImages\\T-SR-RamsayBowers-L.png"
     }
   },
@@ -6072,7 +6072,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managersoldier_sr_ramsie_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-RamsayBowers.T-SR-RamsayBowers",
+      "SmallPreview": "ExportedImages\\T-SR-RamsayBowers.png",
       "LargePreview": "ExportedImages\\T-SR-RamsayBowers-L.png"
     }
   },
@@ -6093,7 +6093,7 @@
     "Tier": 5,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managersoldier_sr_ramsie_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-RamsayBowers.T-SR-RamsayBowers",
+      "SmallPreview": "ExportedImages\\T-SR-RamsayBowers.png",
       "LargePreview": "ExportedImages\\T-SR-RamsayBowers-L.png"
     }
   },
@@ -6121,7 +6121,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managersoldier_uc_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -6150,7 +6150,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managersoldier_uc_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -6180,7 +6180,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managersoldier_uc_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -6200,7 +6200,7 @@
     "Tier": 4,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managersoldier_uc_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -6228,7 +6228,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managersoldier_vr_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -6257,7 +6257,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managersoldier_vr_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -6287,7 +6287,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managersoldier_vr_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -6318,7 +6318,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managersoldier_vr_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -6338,7 +6338,7 @@
     "Tier": 5,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managersoldier_vr_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -6365,7 +6365,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managertrainer_c_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -6394,7 +6394,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managertrainer_c_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -6414,7 +6414,7 @@
     "Tier": 3,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managertrainer_c_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -6442,7 +6442,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managertrainer_r_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -6471,7 +6471,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managertrainer_r_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -6501,7 +6501,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managertrainer_r_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -6532,7 +6532,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managertrainer_r_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -6552,7 +6552,7 @@
     "Tier": 5,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managertrainer_r_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -6581,7 +6581,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managertrainer_sr_jumpy_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-TaeBowman.T-SR-TaeBowman",
+      "SmallPreview": "ExportedImages\\T-SR-TaeBowman.png",
       "LargePreview": "ExportedImages\\T-SR-TaeBowman-L.png"
     }
   },
@@ -6611,7 +6611,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managertrainer_sr_jumpy_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-TaeBowman.T-SR-TaeBowman",
+      "SmallPreview": "ExportedImages\\T-SR-TaeBowman.png",
       "LargePreview": "ExportedImages\\T-SR-TaeBowman-L.png"
     }
   },
@@ -6642,7 +6642,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managertrainer_sr_jumpy_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-TaeBowman.T-SR-TaeBowman",
+      "SmallPreview": "ExportedImages\\T-SR-TaeBowman.png",
       "LargePreview": "ExportedImages\\T-SR-TaeBowman-L.png"
     }
   },
@@ -6674,7 +6674,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managertrainer_sr_jumpy_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-TaeBowman.T-SR-TaeBowman",
+      "SmallPreview": "ExportedImages\\T-SR-TaeBowman.png",
       "LargePreview": "ExportedImages\\T-SR-TaeBowman-L.png"
     }
   },
@@ -6695,7 +6695,7 @@
     "Tier": 5,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managertrainer_sr_jumpy_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-TaeBowman.T-SR-TaeBowman",
+      "SmallPreview": "ExportedImages\\T-SR-TaeBowman.png",
       "LargePreview": "ExportedImages\\T-SR-TaeBowman-L.png"
     }
   },
@@ -6724,7 +6724,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managertrainer_sr_raider_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-LaraJones.T-SR-LaraJones",
+      "SmallPreview": "ExportedImages\\T-SR-LaraJones.png",
       "LargePreview": "ExportedImages\\T-SR-LaraJones-L.png"
     }
   },
@@ -6754,7 +6754,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managertrainer_sr_raider_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-LaraJones.T-SR-LaraJones",
+      "SmallPreview": "ExportedImages\\T-SR-LaraJones.png",
       "LargePreview": "ExportedImages\\T-SR-LaraJones-L.png"
     }
   },
@@ -6785,7 +6785,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managertrainer_sr_raider_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-LaraJones.T-SR-LaraJones",
+      "SmallPreview": "ExportedImages\\T-SR-LaraJones.png",
       "LargePreview": "ExportedImages\\T-SR-LaraJones-L.png"
     }
   },
@@ -6817,7 +6817,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managertrainer_sr_raider_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-LaraJones.T-SR-LaraJones",
+      "SmallPreview": "ExportedImages\\T-SR-LaraJones.png",
       "LargePreview": "ExportedImages\\T-SR-LaraJones-L.png"
     }
   },
@@ -6838,7 +6838,7 @@
     "Tier": 5,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managertrainer_sr_raider_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-LaraJones.T-SR-LaraJones",
+      "SmallPreview": "ExportedImages\\T-SR-LaraJones.png",
       "LargePreview": "ExportedImages\\T-SR-LaraJones-L.png"
     }
   },
@@ -6867,7 +6867,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managertrainer_sr_yoglattes_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-MichelleJillard.T-SR-MichelleJillard",
+      "SmallPreview": "ExportedImages\\T-SR-MichelleJillard.png",
       "LargePreview": "ExportedImages\\T-SR-MichelleJillard-L.png"
     }
   },
@@ -6897,7 +6897,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managertrainer_sr_yoglattes_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-MichelleJillard.T-SR-MichelleJillard",
+      "SmallPreview": "ExportedImages\\T-SR-MichelleJillard.png",
       "LargePreview": "ExportedImages\\T-SR-MichelleJillard-L.png"
     }
   },
@@ -6928,7 +6928,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managertrainer_sr_yoglattes_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-MichelleJillard.T-SR-MichelleJillard",
+      "SmallPreview": "ExportedImages\\T-SR-MichelleJillard.png",
       "LargePreview": "ExportedImages\\T-SR-MichelleJillard-L.png"
     }
   },
@@ -6960,7 +6960,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managertrainer_sr_yoglattes_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-MichelleJillard.T-SR-MichelleJillard",
+      "SmallPreview": "ExportedImages\\T-SR-MichelleJillard.png",
       "LargePreview": "ExportedImages\\T-SR-MichelleJillard-L.png"
     }
   },
@@ -6981,7 +6981,7 @@
     "Tier": 5,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managertrainer_sr_yoglattes_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-MichelleJillard.T-SR-MichelleJillard",
+      "SmallPreview": "ExportedImages\\T-SR-MichelleJillard.png",
       "LargePreview": "ExportedImages\\T-SR-MichelleJillard-L.png"
     }
   },
@@ -7009,7 +7009,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managertrainer_uc_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -7038,7 +7038,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managertrainer_uc_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -7068,7 +7068,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managertrainer_uc_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -7088,7 +7088,7 @@
     "Tier": 4,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managertrainer_uc_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -7116,7 +7116,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managertrainer_vr_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -7145,7 +7145,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managertrainer_vr_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -7175,7 +7175,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managertrainer_vr_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -7206,7 +7206,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managertrainer_vr_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -7226,7 +7226,7 @@
     "Tier": 5,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/managers/managertrainer_vr_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -7251,7 +7251,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/worker_halloween_husk_c_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Classes/Icon-Husk/Icon-Class-Husk-Headshot.Icon-Class-Husk-Headshot",
+      "SmallPreview": "ExportedImages\\Icon-Class-Husk-Headshot.png",
       "LargePreview": "ExportedImages\\Icon-Class-Husk-Headshot.png"
     }
   },
@@ -7269,7 +7269,7 @@
     "Tier": 2,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/worker_halloween_husk_c_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Classes/Icon-Husk/Icon-Class-Husk-Headshot.Icon-Class-Husk-Headshot",
+      "SmallPreview": "ExportedImages\\Icon-Class-Husk-Headshot.png",
       "LargePreview": "ExportedImages\\Icon-Class-Husk-Headshot.png"
     }
   },
@@ -7295,7 +7295,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/worker_halloween_husk_uc_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Classes/Icon-Husk/Icon-Class-Husk-Headshot.Icon-Class-Husk-Headshot",
+      "SmallPreview": "ExportedImages\\Icon-Class-Husk-Headshot.png",
       "LargePreview": "ExportedImages\\Icon-Class-Husk-Headshot.png"
     }
   },
@@ -7323,7 +7323,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/worker_halloween_husk_uc_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Classes/Icon-Husk/Icon-Class-Husk-Headshot.Icon-Class-Husk-Headshot",
+      "SmallPreview": "ExportedImages\\Icon-Class-Husk-Headshot.png",
       "LargePreview": "ExportedImages\\Icon-Class-Husk-Headshot.png"
     }
   },
@@ -7342,7 +7342,7 @@
     "Tier": 3,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/worker_halloween_husk_uc_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Classes/Icon-Husk/Icon-Class-Husk-Headshot.Icon-Class-Husk-Headshot",
+      "SmallPreview": "ExportedImages\\Icon-Class-Husk-Headshot.png",
       "LargePreview": "ExportedImages\\Icon-Class-Husk-Headshot.png"
     }
   },
@@ -7367,7 +7367,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/worker_halloween_husky_c_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Classes/Icon-Husk/Icon-Class-Husk-Husky-Headshot.Icon-Class-Husk-Husky-Headshot",
+      "SmallPreview": "ExportedImages\\Icon-Class-Husk-Husky-Headshot.png",
       "LargePreview": "ExportedImages\\Icon-Class-Husk-Husky-Headshot.png"
     }
   },
@@ -7385,7 +7385,7 @@
     "Tier": 2,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/worker_halloween_husky_c_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Classes/Icon-Husk/Icon-Class-Husk-Husky-Headshot.Icon-Class-Husk-Husky-Headshot",
+      "SmallPreview": "ExportedImages\\Icon-Class-Husk-Husky-Headshot.png",
       "LargePreview": "ExportedImages\\Icon-Class-Husk-Husky-Headshot.png"
     }
   },
@@ -7412,7 +7412,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/worker_halloween_husky_r_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Classes/Icon-Husk/Icon-Class-Husk-Husky-Headshot.Icon-Class-Husk-Husky-Headshot",
+      "SmallPreview": "ExportedImages\\Icon-Class-Husk-Husky-Headshot.png",
       "LargePreview": "ExportedImages\\Icon-Class-Husk-Husky-Headshot.png"
     }
   },
@@ -7440,7 +7440,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/worker_halloween_husky_r_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Classes/Icon-Husk/Icon-Class-Husk-Husky-Headshot.Icon-Class-Husk-Husky-Headshot",
+      "SmallPreview": "ExportedImages\\Icon-Class-Husk-Husky-Headshot.png",
       "LargePreview": "ExportedImages\\Icon-Class-Husk-Husky-Headshot.png"
     }
   },
@@ -7469,7 +7469,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/worker_halloween_husky_r_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Classes/Icon-Husk/Icon-Class-Husk-Husky-Headshot.Icon-Class-Husk-Husky-Headshot",
+      "SmallPreview": "ExportedImages\\Icon-Class-Husk-Husky-Headshot.png",
       "LargePreview": "ExportedImages\\Icon-Class-Husk-Husky-Headshot.png"
     }
   },
@@ -7488,7 +7488,7 @@
     "Tier": 4,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/worker_halloween_husky_r_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Classes/Icon-Husk/Icon-Class-Husk-Husky-Headshot.Icon-Class-Husk-Husky-Headshot",
+      "SmallPreview": "ExportedImages\\Icon-Class-Husk-Husky-Headshot.png",
       "LargePreview": "ExportedImages\\Icon-Class-Husk-Husky-Headshot.png"
     }
   },
@@ -7514,7 +7514,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/worker_halloween_husky_uc_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Classes/Icon-Husk/Icon-Class-Husk-Husky-Headshot.Icon-Class-Husk-Husky-Headshot",
+      "SmallPreview": "ExportedImages\\Icon-Class-Husk-Husky-Headshot.png",
       "LargePreview": "ExportedImages\\Icon-Class-Husk-Husky-Headshot.png"
     }
   },
@@ -7542,7 +7542,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/worker_halloween_husky_uc_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Classes/Icon-Husk/Icon-Class-Husk-Husky-Headshot.Icon-Class-Husk-Husky-Headshot",
+      "SmallPreview": "ExportedImages\\Icon-Class-Husk-Husky-Headshot.png",
       "LargePreview": "ExportedImages\\Icon-Class-Husk-Husky-Headshot.png"
     }
   },
@@ -7561,7 +7561,7 @@
     "Tier": 3,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/worker_halloween_husky_uc_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Classes/Icon-Husk/Icon-Class-Husk-Husky-Headshot.Icon-Class-Husk-Husky-Headshot",
+      "SmallPreview": "ExportedImages\\Icon-Class-Husk-Husky-Headshot.png",
       "LargePreview": "ExportedImages\\Icon-Class-Husk-Husky-Headshot.png"
     }
   },
@@ -7588,7 +7588,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/worker_halloween_husky_vr_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Classes/Icon-Husk/Icon-Class-Husk-Husky-Headshot.Icon-Class-Husk-Husky-Headshot",
+      "SmallPreview": "ExportedImages\\Icon-Class-Husk-Husky-Headshot.png",
       "LargePreview": "ExportedImages\\Icon-Class-Husk-Husky-Headshot.png"
     }
   },
@@ -7616,7 +7616,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/worker_halloween_husky_vr_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Classes/Icon-Husk/Icon-Class-Husk-Husky-Headshot.Icon-Class-Husk-Husky-Headshot",
+      "SmallPreview": "ExportedImages\\Icon-Class-Husk-Husky-Headshot.png",
       "LargePreview": "ExportedImages\\Icon-Class-Husk-Husky-Headshot.png"
     }
   },
@@ -7645,7 +7645,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/worker_halloween_husky_vr_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Classes/Icon-Husk/Icon-Class-Husk-Husky-Headshot.Icon-Class-Husk-Husky-Headshot",
+      "SmallPreview": "ExportedImages\\Icon-Class-Husk-Husky-Headshot.png",
       "LargePreview": "ExportedImages\\Icon-Class-Husk-Husky-Headshot.png"
     }
   },
@@ -7675,7 +7675,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/worker_halloween_husky_vr_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Classes/Icon-Husk/Icon-Class-Husk-Husky-Headshot.Icon-Class-Husk-Husky-Headshot",
+      "SmallPreview": "ExportedImages\\Icon-Class-Husk-Husky-Headshot.png",
       "LargePreview": "ExportedImages\\Icon-Class-Husk-Husky-Headshot.png"
     }
   },
@@ -7694,7 +7694,7 @@
     "Tier": 5,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/worker_halloween_husky_vr_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Classes/Icon-Husk/Icon-Class-Husk-Husky-Headshot.Icon-Class-Husk-Husky-Headshot",
+      "SmallPreview": "ExportedImages\\Icon-Class-Husk-Husky-Headshot.png",
       "LargePreview": "ExportedImages\\Icon-Class-Husk-Husky-Headshot.png"
     }
   },
@@ -7721,7 +7721,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/worker_halloween_lobber_r_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Classes/Icon-Husk/Icon-Class-Husk-Lobber-Headshot.Icon-Class-Husk-Lobber-Headshot",
+      "SmallPreview": "ExportedImages\\Icon-Class-Husk-Lobber-Headshot.png",
       "LargePreview": "ExportedImages\\Icon-Class-Husk-Lobber-Headshot.png"
     }
   },
@@ -7749,7 +7749,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/worker_halloween_lobber_r_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Classes/Icon-Husk/Icon-Class-Husk-Lobber-Headshot.Icon-Class-Husk-Lobber-Headshot",
+      "SmallPreview": "ExportedImages\\Icon-Class-Husk-Lobber-Headshot.png",
       "LargePreview": "ExportedImages\\Icon-Class-Husk-Lobber-Headshot.png"
     }
   },
@@ -7778,7 +7778,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/worker_halloween_lobber_r_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Classes/Icon-Husk/Icon-Class-Husk-Lobber-Headshot.Icon-Class-Husk-Lobber-Headshot",
+      "SmallPreview": "ExportedImages\\Icon-Class-Husk-Lobber-Headshot.png",
       "LargePreview": "ExportedImages\\Icon-Class-Husk-Lobber-Headshot.png"
     }
   },
@@ -7797,7 +7797,7 @@
     "Tier": 4,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/worker_halloween_lobber_r_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Classes/Icon-Husk/Icon-Class-Husk-Lobber-Headshot.Icon-Class-Husk-Lobber-Headshot",
+      "SmallPreview": "ExportedImages\\Icon-Class-Husk-Lobber-Headshot.png",
       "LargePreview": "ExportedImages\\Icon-Class-Husk-Lobber-Headshot.png"
     }
   },
@@ -7824,7 +7824,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/worker_halloween_lobber_sr_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Classes/Icon-Husk/Icon-Class-Husk-Lobber-Headshot.Icon-Class-Husk-Lobber-Headshot",
+      "SmallPreview": "ExportedImages\\Icon-Class-Husk-Lobber-Headshot.png",
       "LargePreview": "ExportedImages\\Icon-Class-Husk-Lobber-Headshot.png"
     }
   },
@@ -7852,7 +7852,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/worker_halloween_lobber_sr_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Classes/Icon-Husk/Icon-Class-Husk-Lobber-Headshot.Icon-Class-Husk-Lobber-Headshot",
+      "SmallPreview": "ExportedImages\\Icon-Class-Husk-Lobber-Headshot.png",
       "LargePreview": "ExportedImages\\Icon-Class-Husk-Lobber-Headshot.png"
     }
   },
@@ -7881,7 +7881,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/worker_halloween_lobber_sr_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Classes/Icon-Husk/Icon-Class-Husk-Lobber-Headshot.Icon-Class-Husk-Lobber-Headshot",
+      "SmallPreview": "ExportedImages\\Icon-Class-Husk-Lobber-Headshot.png",
       "LargePreview": "ExportedImages\\Icon-Class-Husk-Lobber-Headshot.png"
     }
   },
@@ -7911,7 +7911,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/worker_halloween_lobber_sr_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Classes/Icon-Husk/Icon-Class-Husk-Lobber-Headshot.Icon-Class-Husk-Lobber-Headshot",
+      "SmallPreview": "ExportedImages\\Icon-Class-Husk-Lobber-Headshot.png",
       "LargePreview": "ExportedImages\\Icon-Class-Husk-Lobber-Headshot.png"
     }
   },
@@ -7930,7 +7930,7 @@
     "Tier": 5,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/worker_halloween_lobber_sr_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Classes/Icon-Husk/Icon-Class-Husk-Lobber-Headshot.Icon-Class-Husk-Lobber-Headshot",
+      "SmallPreview": "ExportedImages\\Icon-Class-Husk-Lobber-Headshot.png",
       "LargePreview": "ExportedImages\\Icon-Class-Husk-Lobber-Headshot.png"
     }
   },
@@ -7957,7 +7957,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/worker_halloween_lobber_vr_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Classes/Icon-Husk/Icon-Class-Husk-Lobber-Headshot.Icon-Class-Husk-Lobber-Headshot",
+      "SmallPreview": "ExportedImages\\Icon-Class-Husk-Lobber-Headshot.png",
       "LargePreview": "ExportedImages\\Icon-Class-Husk-Lobber-Headshot.png"
     }
   },
@@ -7985,7 +7985,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/worker_halloween_lobber_vr_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Classes/Icon-Husk/Icon-Class-Husk-Lobber-Headshot.Icon-Class-Husk-Lobber-Headshot",
+      "SmallPreview": "ExportedImages\\Icon-Class-Husk-Lobber-Headshot.png",
       "LargePreview": "ExportedImages\\Icon-Class-Husk-Lobber-Headshot.png"
     }
   },
@@ -8014,7 +8014,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/worker_halloween_lobber_vr_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Classes/Icon-Husk/Icon-Class-Husk-Lobber-Headshot.Icon-Class-Husk-Lobber-Headshot",
+      "SmallPreview": "ExportedImages\\Icon-Class-Husk-Lobber-Headshot.png",
       "LargePreview": "ExportedImages\\Icon-Class-Husk-Lobber-Headshot.png"
     }
   },
@@ -8044,7 +8044,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/worker_halloween_lobber_vr_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Classes/Icon-Husk/Icon-Class-Husk-Lobber-Headshot.Icon-Class-Husk-Lobber-Headshot",
+      "SmallPreview": "ExportedImages\\Icon-Class-Husk-Lobber-Headshot.png",
       "LargePreview": "ExportedImages\\Icon-Class-Husk-Lobber-Headshot.png"
     }
   },
@@ -8063,7 +8063,7 @@
     "Tier": 5,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/worker_halloween_lobber_vr_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Classes/Icon-Husk/Icon-Class-Husk-Lobber-Headshot.Icon-Class-Husk-Lobber-Headshot",
+      "SmallPreview": "ExportedImages\\Icon-Class-Husk-Lobber-Headshot.png",
       "LargePreview": "ExportedImages\\Icon-Class-Husk-Lobber-Headshot.png"
     }
   },
@@ -8088,7 +8088,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/worker_halloween_pitcher_c_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Classes/Icon-Husk/Icon-Class-Husk-Pitcher-Headshot.Icon-Class-Husk-Pitcher-Headshot",
+      "SmallPreview": "ExportedImages\\Icon-Class-Husk-Pitcher-Headshot.png",
       "LargePreview": "ExportedImages\\Icon-Class-Husk-Pitcher-Headshot.png"
     }
   },
@@ -8106,7 +8106,7 @@
     "Tier": 2,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/worker_halloween_pitcher_c_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Classes/Icon-Husk/Icon-Class-Husk-Pitcher-Headshot.Icon-Class-Husk-Pitcher-Headshot",
+      "SmallPreview": "ExportedImages\\Icon-Class-Husk-Pitcher-Headshot.png",
       "LargePreview": "ExportedImages\\Icon-Class-Husk-Pitcher-Headshot.png"
     }
   },
@@ -8133,7 +8133,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/worker_halloween_pitcher_r_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Classes/Icon-Husk/Icon-Class-Husk-Pitcher-Headshot.Icon-Class-Husk-Pitcher-Headshot",
+      "SmallPreview": "ExportedImages\\Icon-Class-Husk-Pitcher-Headshot.png",
       "LargePreview": "ExportedImages\\Icon-Class-Husk-Pitcher-Headshot.png"
     }
   },
@@ -8161,7 +8161,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/worker_halloween_pitcher_r_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Classes/Icon-Husk/Icon-Class-Husk-Pitcher-Headshot.Icon-Class-Husk-Pitcher-Headshot",
+      "SmallPreview": "ExportedImages\\Icon-Class-Husk-Pitcher-Headshot.png",
       "LargePreview": "ExportedImages\\Icon-Class-Husk-Pitcher-Headshot.png"
     }
   },
@@ -8190,7 +8190,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/worker_halloween_pitcher_r_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Classes/Icon-Husk/Icon-Class-Husk-Pitcher-Headshot.Icon-Class-Husk-Pitcher-Headshot",
+      "SmallPreview": "ExportedImages\\Icon-Class-Husk-Pitcher-Headshot.png",
       "LargePreview": "ExportedImages\\Icon-Class-Husk-Pitcher-Headshot.png"
     }
   },
@@ -8209,7 +8209,7 @@
     "Tier": 4,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/worker_halloween_pitcher_r_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Classes/Icon-Husk/Icon-Class-Husk-Pitcher-Headshot.Icon-Class-Husk-Pitcher-Headshot",
+      "SmallPreview": "ExportedImages\\Icon-Class-Husk-Pitcher-Headshot.png",
       "LargePreview": "ExportedImages\\Icon-Class-Husk-Pitcher-Headshot.png"
     }
   },
@@ -8235,7 +8235,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/worker_halloween_pitcher_uc_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Classes/Icon-Husk/Icon-Class-Husk-Pitcher-Headshot.Icon-Class-Husk-Pitcher-Headshot",
+      "SmallPreview": "ExportedImages\\Icon-Class-Husk-Pitcher-Headshot.png",
       "LargePreview": "ExportedImages\\Icon-Class-Husk-Pitcher-Headshot.png"
     }
   },
@@ -8263,7 +8263,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/worker_halloween_pitcher_uc_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Classes/Icon-Husk/Icon-Class-Husk-Pitcher-Headshot.Icon-Class-Husk-Pitcher-Headshot",
+      "SmallPreview": "ExportedImages\\Icon-Class-Husk-Pitcher-Headshot.png",
       "LargePreview": "ExportedImages\\Icon-Class-Husk-Pitcher-Headshot.png"
     }
   },
@@ -8282,7 +8282,7 @@
     "Tier": 3,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/worker_halloween_pitcher_uc_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Classes/Icon-Husk/Icon-Class-Husk-Pitcher-Headshot.Icon-Class-Husk-Pitcher-Headshot",
+      "SmallPreview": "ExportedImages\\Icon-Class-Husk-Pitcher-Headshot.png",
       "LargePreview": "ExportedImages\\Icon-Class-Husk-Pitcher-Headshot.png"
     }
   },
@@ -8309,7 +8309,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/worker_halloween_smasher_sr_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Classes/Icon-Husk/Icon-Class-Husk-Smasher-Headshot.Icon-Class-Husk-Smasher-Headshot",
+      "SmallPreview": "ExportedImages\\Icon-Class-Husk-Smasher-Headshot.png",
       "LargePreview": "ExportedImages\\Icon-Class-Husk-Smasher-Headshot.png"
     }
   },
@@ -8337,7 +8337,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/worker_halloween_smasher_sr_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Classes/Icon-Husk/Icon-Class-Husk-Smasher-Headshot.Icon-Class-Husk-Smasher-Headshot",
+      "SmallPreview": "ExportedImages\\Icon-Class-Husk-Smasher-Headshot.png",
       "LargePreview": "ExportedImages\\Icon-Class-Husk-Smasher-Headshot.png"
     }
   },
@@ -8366,7 +8366,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/worker_halloween_smasher_sr_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Classes/Icon-Husk/Icon-Class-Husk-Smasher-Headshot.Icon-Class-Husk-Smasher-Headshot",
+      "SmallPreview": "ExportedImages\\Icon-Class-Husk-Smasher-Headshot.png",
       "LargePreview": "ExportedImages\\Icon-Class-Husk-Smasher-Headshot.png"
     }
   },
@@ -8396,7 +8396,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/worker_halloween_smasher_sr_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Classes/Icon-Husk/Icon-Class-Husk-Smasher-Headshot.Icon-Class-Husk-Smasher-Headshot",
+      "SmallPreview": "ExportedImages\\Icon-Class-Husk-Smasher-Headshot.png",
       "LargePreview": "ExportedImages\\Icon-Class-Husk-Smasher-Headshot.png"
     }
   },
@@ -8415,7 +8415,7 @@
     "Tier": 5,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/worker_halloween_smasher_sr_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Classes/Icon-Husk/Icon-Class-Husk-Smasher-Headshot.Icon-Class-Husk-Smasher-Headshot",
+      "SmallPreview": "ExportedImages\\Icon-Class-Husk-Smasher-Headshot.png",
       "LargePreview": "ExportedImages\\Icon-Class-Husk-Smasher-Headshot.png"
     }
   },
@@ -8442,7 +8442,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/worker_halloween_troll_sr_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Classes/Icon-Husk/Icon-Class-Husk-Troll-Headshot.Icon-Class-Husk-Troll-Headshot",
+      "SmallPreview": "ExportedImages\\Icon-Class-Husk-Troll-Headshot.png",
       "LargePreview": "ExportedImages\\Icon-Class-Husk-Troll-Headshot.png"
     }
   },
@@ -8470,7 +8470,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/worker_halloween_troll_sr_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Classes/Icon-Husk/Icon-Class-Husk-Troll-Headshot.Icon-Class-Husk-Troll-Headshot",
+      "SmallPreview": "ExportedImages\\Icon-Class-Husk-Troll-Headshot.png",
       "LargePreview": "ExportedImages\\Icon-Class-Husk-Troll-Headshot.png"
     }
   },
@@ -8499,7 +8499,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/worker_halloween_troll_sr_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Classes/Icon-Husk/Icon-Class-Husk-Troll-Headshot.Icon-Class-Husk-Troll-Headshot",
+      "SmallPreview": "ExportedImages\\Icon-Class-Husk-Troll-Headshot.png",
       "LargePreview": "ExportedImages\\Icon-Class-Husk-Troll-Headshot.png"
     }
   },
@@ -8529,7 +8529,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/worker_halloween_troll_sr_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Classes/Icon-Husk/Icon-Class-Husk-Troll-Headshot.Icon-Class-Husk-Troll-Headshot",
+      "SmallPreview": "ExportedImages\\Icon-Class-Husk-Troll-Headshot.png",
       "LargePreview": "ExportedImages\\Icon-Class-Husk-Troll-Headshot.png"
     }
   },
@@ -8548,7 +8548,7 @@
     "Tier": 5,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/worker_halloween_troll_sr_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Classes/Icon-Husk/Icon-Class-Husk-Troll-Headshot.Icon-Class-Husk-Troll-Headshot",
+      "SmallPreview": "ExportedImages\\Icon-Class-Husk-Troll-Headshot.png",
       "LargePreview": "ExportedImages\\Icon-Class-Husk-Troll-Headshot.png"
     }
   },
@@ -8575,7 +8575,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/worker_halloween_troll_vr_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Classes/Icon-Husk/Icon-Class-Husk-Troll-Headshot.Icon-Class-Husk-Troll-Headshot",
+      "SmallPreview": "ExportedImages\\Icon-Class-Husk-Troll-Headshot.png",
       "LargePreview": "ExportedImages\\Icon-Class-Husk-Troll-Headshot.png"
     }
   },
@@ -8603,7 +8603,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/worker_halloween_troll_vr_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Classes/Icon-Husk/Icon-Class-Husk-Troll-Headshot.Icon-Class-Husk-Troll-Headshot",
+      "SmallPreview": "ExportedImages\\Icon-Class-Husk-Troll-Headshot.png",
       "LargePreview": "ExportedImages\\Icon-Class-Husk-Troll-Headshot.png"
     }
   },
@@ -8632,7 +8632,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/worker_halloween_troll_vr_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Classes/Icon-Husk/Icon-Class-Husk-Troll-Headshot.Icon-Class-Husk-Troll-Headshot",
+      "SmallPreview": "ExportedImages\\Icon-Class-Husk-Troll-Headshot.png",
       "LargePreview": "ExportedImages\\Icon-Class-Husk-Troll-Headshot.png"
     }
   },
@@ -8662,7 +8662,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/worker_halloween_troll_vr_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Classes/Icon-Husk/Icon-Class-Husk-Troll-Headshot.Icon-Class-Husk-Troll-Headshot",
+      "SmallPreview": "ExportedImages\\Icon-Class-Husk-Troll-Headshot.png",
       "LargePreview": "ExportedImages\\Icon-Class-Husk-Troll-Headshot.png"
     }
   },
@@ -8681,7 +8681,7 @@
     "Tier": 5,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/worker_halloween_troll_vr_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Classes/Icon-Husk/Icon-Class-Husk-Troll-Headshot.Icon-Class-Husk-Troll-Headshot",
+      "SmallPreview": "ExportedImages\\Icon-Class-Husk-Troll-Headshot.png",
       "LargePreview": "ExportedImages\\Icon-Class-Husk-Troll-Headshot.png"
     }
   },
@@ -8704,7 +8704,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/worker_joel_ur_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T_SR_Joel_S.T_SR_Joel_S",
+      "SmallPreview": "ExportedImages\\T_SR_Joel_S.png",
       "LargePreview": "ExportedImages\\T_SR_Joel_L.png"
     }
   },
@@ -8728,7 +8728,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/worker_joel_ur_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T_SR_Joel_S.T_SR_Joel_S",
+      "SmallPreview": "ExportedImages\\T_SR_Joel_S.png",
       "LargePreview": "ExportedImages\\T_SR_Joel_L.png"
     }
   },
@@ -8753,7 +8753,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/worker_joel_ur_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T_SR_Joel_S.T_SR_Joel_S",
+      "SmallPreview": "ExportedImages\\T_SR_Joel_S.png",
       "LargePreview": "ExportedImages\\T_SR_Joel_L.png"
     }
   },
@@ -8779,7 +8779,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/worker_joel_ur_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T_SR_Joel_S.T_SR_Joel_S",
+      "SmallPreview": "ExportedImages\\T_SR_Joel_S.png",
       "LargePreview": "ExportedImages\\T_SR_Joel_L.png"
     }
   },
@@ -8794,7 +8794,7 @@
     "Tier": 5,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/worker_joel_ur_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T_SR_Joel_S.T_SR_Joel_S",
+      "SmallPreview": "ExportedImages\\T_SR_Joel_S.png",
       "LargePreview": "ExportedImages\\T_SR_Joel_L.png"
     }
   },
@@ -8817,7 +8817,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/worker_karolina_ur_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T_SR_Karolina_S.T_SR_Karolina_S",
+      "SmallPreview": "ExportedImages\\T_SR_Karolina_S.png",
       "LargePreview": "ExportedImages\\T_SR_Karolina_L.png"
     }
   },
@@ -8841,7 +8841,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/worker_karolina_ur_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T_SR_Karolina_S.T_SR_Karolina_S",
+      "SmallPreview": "ExportedImages\\T_SR_Karolina_S.png",
       "LargePreview": "ExportedImages\\T_SR_Karolina_L.png"
     }
   },
@@ -8866,7 +8866,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/worker_karolina_ur_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T_SR_Karolina_S.T_SR_Karolina_S",
+      "SmallPreview": "ExportedImages\\T_SR_Karolina_S.png",
       "LargePreview": "ExportedImages\\T_SR_Karolina_L.png"
     }
   },
@@ -8892,7 +8892,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/worker_karolina_ur_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T_SR_Karolina_S.T_SR_Karolina_S",
+      "SmallPreview": "ExportedImages\\T_SR_Karolina_S.png",
       "LargePreview": "ExportedImages\\T_SR_Karolina_L.png"
     }
   },
@@ -8907,7 +8907,7 @@
     "Tier": 5,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/worker_karolina_ur_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T_SR_Karolina_S.T_SR_Karolina_S",
+      "SmallPreview": "ExportedImages\\T_SR_Karolina_S.png",
       "LargePreview": "ExportedImages\\T_SR_Karolina_L.png"
     }
   },
@@ -8934,7 +8934,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/worker_leprechaun_vr_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-Leprechaun.T-Leprechaun",
+      "SmallPreview": "ExportedImages\\T-Leprechaun.png",
       "LargePreview": "ExportedImages\\T-Leprechaun-L.png"
     }
   },
@@ -8962,7 +8962,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/worker_leprechaun_vr_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-Leprechaun.T-Leprechaun",
+      "SmallPreview": "ExportedImages\\T-Leprechaun.png",
       "LargePreview": "ExportedImages\\T-Leprechaun-L.png"
     }
   },
@@ -8991,7 +8991,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/worker_leprechaun_vr_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-Leprechaun.T-Leprechaun",
+      "SmallPreview": "ExportedImages\\T-Leprechaun.png",
       "LargePreview": "ExportedImages\\T-Leprechaun-L.png"
     }
   },
@@ -9021,7 +9021,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/worker_leprechaun_vr_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-Leprechaun.T-Leprechaun",
+      "SmallPreview": "ExportedImages\\T-Leprechaun.png",
       "LargePreview": "ExportedImages\\T-Leprechaun-L.png"
     }
   },
@@ -9040,7 +9040,7 @@
     "Tier": 5,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/worker_leprechaun_vr_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-Leprechaun.T-Leprechaun",
+      "SmallPreview": "ExportedImages\\T-Leprechaun.png",
       "LargePreview": "ExportedImages\\T-Leprechaun-L.png"
     }
   },
@@ -9065,7 +9065,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/workerbasic_c_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -9083,7 +9083,7 @@
     "Tier": 2,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/workerbasic_c_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -9110,7 +9110,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/workerbasic_r_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -9138,7 +9138,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/workerbasic_r_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -9167,7 +9167,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/workerbasic_r_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -9186,7 +9186,7 @@
     "Tier": 4,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/workerbasic_r_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -9213,7 +9213,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/workerbasic_sr_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -9241,7 +9241,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/workerbasic_sr_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -9270,7 +9270,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/workerbasic_sr_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -9300,7 +9300,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/workerbasic_sr_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -9319,7 +9319,7 @@
     "Tier": 5,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/workerbasic_sr_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -9345,7 +9345,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/workerbasic_uc_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -9373,7 +9373,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/workerbasic_uc_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -9392,7 +9392,7 @@
     "Tier": 3,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/workerbasic_uc_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -9419,7 +9419,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/workerbasic_vr_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -9447,7 +9447,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/workerbasic_vr_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -9476,7 +9476,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/workerbasic_vr_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -9506,7 +9506,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/workerbasic_vr_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -9525,7 +9525,7 @@
     "Tier": 5,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/workerbasic_vr_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Workers/Generic/GenericWorker.GenericWorker",
+      "SmallPreview": "ExportedImages\\GenericWorker.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -9552,7 +9552,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/workerhalloween_alt_sr_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Classes/Icon-Husk/Icon-Class-Husk-Troll-Headshot.Icon-Class-Husk-Troll-Headshot",
+      "SmallPreview": "ExportedImages\\Icon-Class-Husk-Troll-Headshot.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -9580,7 +9580,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/workerhalloween_alt_sr_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Classes/Icon-Husk/Icon-Class-Husk-Troll-Headshot.Icon-Class-Husk-Troll-Headshot",
+      "SmallPreview": "ExportedImages\\Icon-Class-Husk-Troll-Headshot.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -9609,7 +9609,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/workerhalloween_alt_sr_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Classes/Icon-Husk/Icon-Class-Husk-Troll-Headshot.Icon-Class-Husk-Troll-Headshot",
+      "SmallPreview": "ExportedImages\\Icon-Class-Husk-Troll-Headshot.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -9639,7 +9639,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/workerhalloween_alt_sr_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Classes/Icon-Husk/Icon-Class-Husk-Troll-Headshot.Icon-Class-Husk-Troll-Headshot",
+      "SmallPreview": "ExportedImages\\Icon-Class-Husk-Troll-Headshot.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -9658,7 +9658,7 @@
     "Tier": 4,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/workerhalloween_alt_sr_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Classes/Icon-Husk/Icon-Class-Husk-Troll-Headshot.Icon-Class-Husk-Troll-Headshot",
+      "SmallPreview": "ExportedImages\\Icon-Class-Husk-Troll-Headshot.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -9683,7 +9683,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/workerhalloween_c_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Classes/Icon-Husk/Icon-Class-Husk-Headshot.Icon-Class-Husk-Headshot",
+      "SmallPreview": "ExportedImages\\Icon-Class-Husk-Headshot.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -9701,7 +9701,7 @@
     "Tier": 2,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/workerhalloween_c_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Classes/Icon-Husk/Icon-Class-Husk-Headshot.Icon-Class-Husk-Headshot",
+      "SmallPreview": "ExportedImages\\Icon-Class-Husk-Headshot.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -9728,7 +9728,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/workerhalloween_r_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Classes/Icon-Husk/Icon-Class-Husk-Pitcher-Headshot.Icon-Class-Husk-Pitcher-Headshot",
+      "SmallPreview": "ExportedImages\\Icon-Class-Husk-Pitcher-Headshot.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -9756,7 +9756,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/workerhalloween_r_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Classes/Icon-Husk/Icon-Class-Husk-Pitcher-Headshot.Icon-Class-Husk-Pitcher-Headshot",
+      "SmallPreview": "ExportedImages\\Icon-Class-Husk-Pitcher-Headshot.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -9785,7 +9785,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/workerhalloween_r_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Classes/Icon-Husk/Icon-Class-Husk-Pitcher-Headshot.Icon-Class-Husk-Pitcher-Headshot",
+      "SmallPreview": "ExportedImages\\Icon-Class-Husk-Pitcher-Headshot.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -9804,7 +9804,7 @@
     "Tier": 4,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/workerhalloween_r_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Classes/Icon-Husk/Icon-Class-Husk-Pitcher-Headshot.Icon-Class-Husk-Pitcher-Headshot",
+      "SmallPreview": "ExportedImages\\Icon-Class-Husk-Pitcher-Headshot.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -9831,7 +9831,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/workerhalloween_sr_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Classes/Icon-Husk/Icon-Class-Husk-Smasher-Headshot.Icon-Class-Husk-Smasher-Headshot",
+      "SmallPreview": "ExportedImages\\Icon-Class-Husk-Smasher-Headshot.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -9859,7 +9859,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/workerhalloween_sr_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Classes/Icon-Husk/Icon-Class-Husk-Smasher-Headshot.Icon-Class-Husk-Smasher-Headshot",
+      "SmallPreview": "ExportedImages\\Icon-Class-Husk-Smasher-Headshot.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -9888,7 +9888,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/workerhalloween_sr_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Classes/Icon-Husk/Icon-Class-Husk-Smasher-Headshot.Icon-Class-Husk-Smasher-Headshot",
+      "SmallPreview": "ExportedImages\\Icon-Class-Husk-Smasher-Headshot.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -9918,7 +9918,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/workerhalloween_sr_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Classes/Icon-Husk/Icon-Class-Husk-Smasher-Headshot.Icon-Class-Husk-Smasher-Headshot",
+      "SmallPreview": "ExportedImages\\Icon-Class-Husk-Smasher-Headshot.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -9937,7 +9937,7 @@
     "Tier": 5,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/workerhalloween_sr_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Classes/Icon-Husk/Icon-Class-Husk-Smasher-Headshot.Icon-Class-Husk-Smasher-Headshot",
+      "SmallPreview": "ExportedImages\\Icon-Class-Husk-Smasher-Headshot.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -9963,7 +9963,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/workerhalloween_uc_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Classes/Icon-Husk/Icon-Class-Husk-Husky-Headshot.Icon-Class-Husk-Husky-Headshot",
+      "SmallPreview": "ExportedImages\\Icon-Class-Husk-Husky-Headshot.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -9991,7 +9991,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/workerhalloween_uc_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Classes/Icon-Husk/Icon-Class-Husk-Husky-Headshot.Icon-Class-Husk-Husky-Headshot",
+      "SmallPreview": "ExportedImages\\Icon-Class-Husk-Husky-Headshot.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -10010,7 +10010,7 @@
     "Tier": 3,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/workerhalloween_uc_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Classes/Icon-Husk/Icon-Class-Husk-Husky-Headshot.Icon-Class-Husk-Husky-Headshot",
+      "SmallPreview": "ExportedImages\\Icon-Class-Husk-Husky-Headshot.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -10037,7 +10037,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/workerhalloween_vr_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Classes/Icon-Husk/Icon-Class-Husk-Lobber-Headshot.Icon-Class-Husk-Lobber-Headshot",
+      "SmallPreview": "ExportedImages\\Icon-Class-Husk-Lobber-Headshot.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -10065,7 +10065,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/workerhalloween_vr_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Classes/Icon-Husk/Icon-Class-Husk-Lobber-Headshot.Icon-Class-Husk-Lobber-Headshot",
+      "SmallPreview": "ExportedImages\\Icon-Class-Husk-Lobber-Headshot.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -10094,7 +10094,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/workerhalloween_vr_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Classes/Icon-Husk/Icon-Class-Husk-Lobber-Headshot.Icon-Class-Husk-Lobber-Headshot",
+      "SmallPreview": "ExportedImages\\Icon-Class-Husk-Lobber-Headshot.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -10124,7 +10124,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/workerhalloween_vr_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Classes/Icon-Husk/Icon-Class-Husk-Lobber-Headshot.Icon-Class-Husk-Lobber-Headshot",
+      "SmallPreview": "ExportedImages\\Icon-Class-Husk-Lobber-Headshot.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   },
@@ -10143,7 +10143,7 @@
     "Tier": 5,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/workerhalloween_vr_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Classes/Icon-Husk/Icon-Class-Husk-Lobber-Headshot.Icon-Class-Husk-Lobber-Headshot",
+      "SmallPreview": "ExportedImages\\Icon-Class-Husk-Lobber-Headshot.png",
       "LargePreview": "ExportedImages\\GenericWorker.png"
     }
   }

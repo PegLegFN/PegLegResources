@@ -28,7 +28,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/ceiling/tid_ceiling_electric_aoe_r_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-electric-ceiling-Trap.T-Icon-Weapons-electric-ceiling-Trap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-electric-ceiling-Trap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-electric-ceiling-Trap.png"
     }
   },
@@ -61,7 +61,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/ceiling/tid_ceiling_electric_aoe_r_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-electric-ceiling-Trap.T-Icon-Weapons-electric-ceiling-Trap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-electric-ceiling-Trap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-electric-ceiling-Trap.png"
     }
   },
@@ -94,7 +94,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/ceiling/tid_ceiling_electric_aoe_r_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-electric-ceiling-Trap.T-Icon-Weapons-electric-ceiling-Trap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-electric-ceiling-Trap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-electric-ceiling-Trap.png"
     }
   },
@@ -127,7 +127,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/ceiling/tid_ceiling_electric_aoe_r_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-electric-ceiling-Trap.T-Icon-Weapons-electric-ceiling-Trap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-electric-ceiling-Trap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-electric-ceiling-Trap.png"
     }
   },
@@ -160,7 +160,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/ceiling/tid_ceiling_electric_aoe_sr_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-electric-ceiling-Trap.T-Icon-Weapons-electric-ceiling-Trap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-electric-ceiling-Trap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-electric-ceiling-Trap.png"
     }
   },
@@ -193,7 +193,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/ceiling/tid_ceiling_electric_aoe_sr_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-electric-ceiling-Trap.T-Icon-Weapons-electric-ceiling-Trap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-electric-ceiling-Trap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-electric-ceiling-Trap.png"
     }
   },
@@ -226,7 +226,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/ceiling/tid_ceiling_electric_aoe_sr_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-electric-ceiling-Trap.T-Icon-Weapons-electric-ceiling-Trap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-electric-ceiling-Trap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-electric-ceiling-Trap.png"
     }
   },
@@ -259,7 +259,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/ceiling/tid_ceiling_electric_aoe_sr_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-electric-ceiling-Trap.T-Icon-Weapons-electric-ceiling-Trap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-electric-ceiling-Trap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-electric-ceiling-Trap.png"
     }
   },
@@ -292,7 +292,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/ceiling/tid_ceiling_electric_aoe_sr_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-electric-ceiling-Trap.T-Icon-Weapons-electric-ceiling-Trap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-electric-ceiling-Trap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-electric-ceiling-Trap.png"
     }
   },
@@ -325,7 +325,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/ceiling/tid_ceiling_electric_aoe_vr_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-electric-ceiling-Trap.T-Icon-Weapons-electric-ceiling-Trap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-electric-ceiling-Trap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-electric-ceiling-Trap.png"
     }
   },
@@ -358,7 +358,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/ceiling/tid_ceiling_electric_aoe_vr_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-electric-ceiling-Trap.T-Icon-Weapons-electric-ceiling-Trap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-electric-ceiling-Trap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-electric-ceiling-Trap.png"
     }
   },
@@ -391,7 +391,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/ceiling/tid_ceiling_electric_aoe_vr_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-electric-ceiling-Trap.T-Icon-Weapons-electric-ceiling-Trap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-electric-ceiling-Trap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-electric-ceiling-Trap.png"
     }
   },
@@ -424,7 +424,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/ceiling/tid_ceiling_electric_aoe_vr_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-electric-ceiling-Trap.T-Icon-Weapons-electric-ceiling-Trap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-electric-ceiling-Trap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-electric-ceiling-Trap.png"
     }
   },
@@ -457,7 +457,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/ceiling/tid_ceiling_electric_aoe_vr_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-electric-ceiling-Trap.T-Icon-Weapons-electric-ceiling-Trap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-electric-ceiling-Trap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-electric-ceiling-Trap.png"
     }
   },
@@ -489,7 +489,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/ceiling/tid_ceiling_electric_single_c_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Ceiling-Electric-Weak-Trap.T-Icon-Weapons-S-Ceiling-Electric-Weak-Trap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Ceiling-Electric-Weak-Trap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Ceiling-Electric-Weak-Trap-L.png"
     }
   },
@@ -521,7 +521,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/ceiling/tid_ceiling_electric_single_c_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Ceiling-Electric-Weak-Trap.T-Icon-Weapons-S-Ceiling-Electric-Weak-Trap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Ceiling-Electric-Weak-Trap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Ceiling-Electric-Weak-Trap-L.png"
     }
   },
@@ -553,7 +553,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/ceiling/tid_ceiling_electric_single_r_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Ceiling-Electric-Weak-Trap.T-Icon-Weapons-S-Ceiling-Electric-Weak-Trap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Ceiling-Electric-Weak-Trap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Ceiling-Electric-Weak-Trap-L.png"
     }
   },
@@ -585,7 +585,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/ceiling/tid_ceiling_electric_single_r_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Ceiling-Electric-Weak-Trap.T-Icon-Weapons-S-Ceiling-Electric-Weak-Trap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Ceiling-Electric-Weak-Trap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Ceiling-Electric-Weak-Trap-L.png"
     }
   },
@@ -617,7 +617,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/ceiling/tid_ceiling_electric_single_r_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Ceiling-Electric-Weak-Trap.T-Icon-Weapons-S-Ceiling-Electric-Weak-Trap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Ceiling-Electric-Weak-Trap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Ceiling-Electric-Weak-Trap-L.png"
     }
   },
@@ -649,7 +649,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/ceiling/tid_ceiling_electric_single_r_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Ceiling-Electric-Weak-Trap.T-Icon-Weapons-S-Ceiling-Electric-Weak-Trap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Ceiling-Electric-Weak-Trap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Ceiling-Electric-Weak-Trap-L.png"
     }
   },
@@ -681,7 +681,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/ceiling/tid_ceiling_electric_single_sr_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Ceiling-Electric-Weak-Trap.T-Icon-Weapons-S-Ceiling-Electric-Weak-Trap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Ceiling-Electric-Weak-Trap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Ceiling-Electric-Weak-Trap-L.png"
     }
   },
@@ -713,7 +713,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/ceiling/tid_ceiling_electric_single_sr_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Ceiling-Electric-Weak-Trap.T-Icon-Weapons-S-Ceiling-Electric-Weak-Trap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Ceiling-Electric-Weak-Trap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Ceiling-Electric-Weak-Trap-L.png"
     }
   },
@@ -745,7 +745,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/ceiling/tid_ceiling_electric_single_sr_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Ceiling-Electric-Weak-Trap.T-Icon-Weapons-S-Ceiling-Electric-Weak-Trap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Ceiling-Electric-Weak-Trap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Ceiling-Electric-Weak-Trap-L.png"
     }
   },
@@ -777,7 +777,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/ceiling/tid_ceiling_electric_single_sr_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Ceiling-Electric-Weak-Trap.T-Icon-Weapons-S-Ceiling-Electric-Weak-Trap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Ceiling-Electric-Weak-Trap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Ceiling-Electric-Weak-Trap-L.png"
     }
   },
@@ -809,7 +809,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/ceiling/tid_ceiling_electric_single_sr_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Ceiling-Electric-Weak-Trap.T-Icon-Weapons-S-Ceiling-Electric-Weak-Trap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Ceiling-Electric-Weak-Trap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Ceiling-Electric-Weak-Trap-L.png"
     }
   },
@@ -841,7 +841,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/ceiling/tid_ceiling_electric_single_uc_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Ceiling-Electric-Weak-Trap.T-Icon-Weapons-S-Ceiling-Electric-Weak-Trap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Ceiling-Electric-Weak-Trap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Ceiling-Electric-Weak-Trap-L.png"
     }
   },
@@ -873,7 +873,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/ceiling/tid_ceiling_electric_single_uc_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Ceiling-Electric-Weak-Trap.T-Icon-Weapons-S-Ceiling-Electric-Weak-Trap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Ceiling-Electric-Weak-Trap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Ceiling-Electric-Weak-Trap-L.png"
     }
   },
@@ -905,7 +905,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/ceiling/tid_ceiling_electric_single_uc_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Ceiling-Electric-Weak-Trap.T-Icon-Weapons-S-Ceiling-Electric-Weak-Trap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Ceiling-Electric-Weak-Trap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Ceiling-Electric-Weak-Trap-L.png"
     }
   },
@@ -937,7 +937,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/ceiling/tid_ceiling_electric_single_vr_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Ceiling-Electric-Weak-Trap.T-Icon-Weapons-S-Ceiling-Electric-Weak-Trap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Ceiling-Electric-Weak-Trap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Ceiling-Electric-Weak-Trap-L.png"
     }
   },
@@ -969,7 +969,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/ceiling/tid_ceiling_electric_single_vr_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Ceiling-Electric-Weak-Trap.T-Icon-Weapons-S-Ceiling-Electric-Weak-Trap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Ceiling-Electric-Weak-Trap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Ceiling-Electric-Weak-Trap-L.png"
     }
   },
@@ -1001,7 +1001,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/ceiling/tid_ceiling_electric_single_vr_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Ceiling-Electric-Weak-Trap.T-Icon-Weapons-S-Ceiling-Electric-Weak-Trap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Ceiling-Electric-Weak-Trap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Ceiling-Electric-Weak-Trap-L.png"
     }
   },
@@ -1033,7 +1033,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/ceiling/tid_ceiling_electric_single_vr_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Ceiling-Electric-Weak-Trap.T-Icon-Weapons-S-Ceiling-Electric-Weak-Trap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Ceiling-Electric-Weak-Trap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Ceiling-Electric-Weak-Trap-L.png"
     }
   },
@@ -1065,7 +1065,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/ceiling/tid_ceiling_electric_single_vr_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Ceiling-Electric-Weak-Trap.T-Icon-Weapons-S-Ceiling-Electric-Weak-Trap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Ceiling-Electric-Weak-Trap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Ceiling-Electric-Weak-Trap-L.png"
     }
   },
@@ -1097,7 +1097,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/ceiling/tid_ceiling_falling_r_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Cieling-Drop-TrapPickup.T-Icon-Weapons-Cieling-Drop-TrapPickup",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Cieling-Drop-TrapPickup.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Cieling-Drop-TrapPickup-L.png"
     }
   },
@@ -1129,7 +1129,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/ceiling/tid_ceiling_falling_r_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Cieling-Drop-TrapPickup.T-Icon-Weapons-Cieling-Drop-TrapPickup",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Cieling-Drop-TrapPickup.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Cieling-Drop-TrapPickup-L.png"
     }
   },
@@ -1161,7 +1161,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/ceiling/tid_ceiling_falling_r_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Cieling-Drop-TrapPickup.T-Icon-Weapons-Cieling-Drop-TrapPickup",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Cieling-Drop-TrapPickup.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Cieling-Drop-TrapPickup-L.png"
     }
   },
@@ -1193,7 +1193,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/ceiling/tid_ceiling_falling_r_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Cieling-Drop-TrapPickup.T-Icon-Weapons-Cieling-Drop-TrapPickup",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Cieling-Drop-TrapPickup.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Cieling-Drop-TrapPickup-L.png"
     }
   },
@@ -1225,7 +1225,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/ceiling/tid_ceiling_falling_sr_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Cieling-Drop-TrapPickup.T-Icon-Weapons-Cieling-Drop-TrapPickup",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Cieling-Drop-TrapPickup.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Cieling-Drop-TrapPickup-L.png"
     }
   },
@@ -1257,7 +1257,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/ceiling/tid_ceiling_falling_sr_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Cieling-Drop-TrapPickup.T-Icon-Weapons-Cieling-Drop-TrapPickup",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Cieling-Drop-TrapPickup.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Cieling-Drop-TrapPickup-L.png"
     }
   },
@@ -1289,7 +1289,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/ceiling/tid_ceiling_falling_sr_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Cieling-Drop-TrapPickup.T-Icon-Weapons-Cieling-Drop-TrapPickup",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Cieling-Drop-TrapPickup.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Cieling-Drop-TrapPickup-L.png"
     }
   },
@@ -1321,7 +1321,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/ceiling/tid_ceiling_falling_sr_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Cieling-Drop-TrapPickup.T-Icon-Weapons-Cieling-Drop-TrapPickup",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Cieling-Drop-TrapPickup.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Cieling-Drop-TrapPickup-L.png"
     }
   },
@@ -1353,7 +1353,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/ceiling/tid_ceiling_falling_sr_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Cieling-Drop-TrapPickup.T-Icon-Weapons-Cieling-Drop-TrapPickup",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Cieling-Drop-TrapPickup.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Cieling-Drop-TrapPickup-L.png"
     }
   },
@@ -1385,7 +1385,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/ceiling/tid_ceiling_falling_vr_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Cieling-Drop-TrapPickup.T-Icon-Weapons-Cieling-Drop-TrapPickup",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Cieling-Drop-TrapPickup.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Cieling-Drop-TrapPickup-L.png"
     }
   },
@@ -1417,7 +1417,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/ceiling/tid_ceiling_falling_vr_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Cieling-Drop-TrapPickup.T-Icon-Weapons-Cieling-Drop-TrapPickup",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Cieling-Drop-TrapPickup.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Cieling-Drop-TrapPickup-L.png"
     }
   },
@@ -1449,7 +1449,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/ceiling/tid_ceiling_falling_vr_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Cieling-Drop-TrapPickup.T-Icon-Weapons-Cieling-Drop-TrapPickup",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Cieling-Drop-TrapPickup.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Cieling-Drop-TrapPickup-L.png"
     }
   },
@@ -1481,7 +1481,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/ceiling/tid_ceiling_falling_vr_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Cieling-Drop-TrapPickup.T-Icon-Weapons-Cieling-Drop-TrapPickup",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Cieling-Drop-TrapPickup.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Cieling-Drop-TrapPickup-L.png"
     }
   },
@@ -1513,7 +1513,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/ceiling/tid_ceiling_falling_vr_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Cieling-Drop-TrapPickup.T-Icon-Weapons-Cieling-Drop-TrapPickup",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Cieling-Drop-TrapPickup.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Cieling-Drop-TrapPickup-L.png"
     }
   },
@@ -1546,7 +1546,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/ceiling/tid_ceiling_gas_r_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Ceiling-Gas-Trap.T-Icon-Weapons-Ceiling-Gas-Trap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Ceiling-Gas-Trap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Ceiling-Gas-Trap-L.png"
     }
   },
@@ -1579,7 +1579,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/ceiling/tid_ceiling_gas_r_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Ceiling-Gas-Trap.T-Icon-Weapons-Ceiling-Gas-Trap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Ceiling-Gas-Trap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Ceiling-Gas-Trap-L.png"
     }
   },
@@ -1612,7 +1612,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/ceiling/tid_ceiling_gas_r_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Ceiling-Gas-Trap.T-Icon-Weapons-Ceiling-Gas-Trap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Ceiling-Gas-Trap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Ceiling-Gas-Trap-L.png"
     }
   },
@@ -1645,7 +1645,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/ceiling/tid_ceiling_gas_r_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Ceiling-Gas-Trap.T-Icon-Weapons-Ceiling-Gas-Trap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Ceiling-Gas-Trap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Ceiling-Gas-Trap-L.png"
     }
   },
@@ -1678,7 +1678,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/ceiling/tid_ceiling_gas_sr_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Ceiling-Gas-Trap.T-Icon-Weapons-Ceiling-Gas-Trap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Ceiling-Gas-Trap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Ceiling-Gas-Trap-L.png"
     }
   },
@@ -1711,7 +1711,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/ceiling/tid_ceiling_gas_sr_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Ceiling-Gas-Trap.T-Icon-Weapons-Ceiling-Gas-Trap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Ceiling-Gas-Trap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Ceiling-Gas-Trap-L.png"
     }
   },
@@ -1744,7 +1744,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/ceiling/tid_ceiling_gas_sr_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Ceiling-Gas-Trap.T-Icon-Weapons-Ceiling-Gas-Trap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Ceiling-Gas-Trap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Ceiling-Gas-Trap-L.png"
     }
   },
@@ -1777,7 +1777,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/ceiling/tid_ceiling_gas_sr_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Ceiling-Gas-Trap.T-Icon-Weapons-Ceiling-Gas-Trap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Ceiling-Gas-Trap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Ceiling-Gas-Trap-L.png"
     }
   },
@@ -1810,7 +1810,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/ceiling/tid_ceiling_gas_sr_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Ceiling-Gas-Trap.T-Icon-Weapons-Ceiling-Gas-Trap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Ceiling-Gas-Trap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Ceiling-Gas-Trap-L.png"
     }
   },
@@ -1843,7 +1843,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/ceiling/tid_ceiling_gas_uc_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Ceiling-Gas-Trap.T-Icon-Weapons-Ceiling-Gas-Trap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Ceiling-Gas-Trap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Ceiling-Gas-Trap-L.png"
     }
   },
@@ -1876,7 +1876,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/ceiling/tid_ceiling_gas_uc_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Ceiling-Gas-Trap.T-Icon-Weapons-Ceiling-Gas-Trap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Ceiling-Gas-Trap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Ceiling-Gas-Trap-L.png"
     }
   },
@@ -1909,7 +1909,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/ceiling/tid_ceiling_gas_uc_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Ceiling-Gas-Trap.T-Icon-Weapons-Ceiling-Gas-Trap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Ceiling-Gas-Trap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Ceiling-Gas-Trap-L.png"
     }
   },
@@ -1942,7 +1942,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/ceiling/tid_ceiling_gas_vr_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Ceiling-Gas-Trap.T-Icon-Weapons-Ceiling-Gas-Trap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Ceiling-Gas-Trap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Ceiling-Gas-Trap-L.png"
     }
   },
@@ -1975,7 +1975,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/ceiling/tid_ceiling_gas_vr_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Ceiling-Gas-Trap.T-Icon-Weapons-Ceiling-Gas-Trap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Ceiling-Gas-Trap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Ceiling-Gas-Trap-L.png"
     }
   },
@@ -2008,7 +2008,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/ceiling/tid_ceiling_gas_vr_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Ceiling-Gas-Trap.T-Icon-Weapons-Ceiling-Gas-Trap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Ceiling-Gas-Trap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Ceiling-Gas-Trap-L.png"
     }
   },
@@ -2041,7 +2041,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/ceiling/tid_ceiling_gas_vr_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Ceiling-Gas-Trap.T-Icon-Weapons-Ceiling-Gas-Trap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Ceiling-Gas-Trap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Ceiling-Gas-Trap-L.png"
     }
   },
@@ -2074,7 +2074,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/ceiling/tid_ceiling_gas_vr_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Ceiling-Gas-Trap.T-Icon-Weapons-Ceiling-Gas-Trap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Ceiling-Gas-Trap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Ceiling-Gas-Trap-L.png"
     }
   },
@@ -2106,7 +2106,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/ceiling/tid_ceiling_goop_vr_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Spike-Trap-Floor-Base.T-Icon-Weapons-Spike-Trap-Floor-Base",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Spike-Trap-Floor-Base.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Spike-Trap-Floor-Base-L.png"
     }
   },
@@ -2138,7 +2138,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/ceiling/tid_ceiling_spikes_r_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Spike-Trap-Floor-Base.T-Icon-Weapons-Spike-Trap-Floor-Base",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Spike-Trap-Floor-Base.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Spike-Trap-Floor-Base-L.png"
     }
   },
@@ -2170,7 +2170,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_campfire_r_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/Athena/Items/Traps/Campfire/T-Icon-BR-SM-Athena-Campfire.T-Icon-BR-SM-Athena-Campfire",
+      "SmallPreview": "ExportedImages\\T-Icon-BR-SM-Athena-Campfire.png",
       "LargePreview": "ExportedImages\\T-Icon-BR-SM-Athena-Campfire-L.png"
     }
   },
@@ -2202,7 +2202,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_campfire_r_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/Athena/Items/Traps/Campfire/T-Icon-BR-SM-Athena-Campfire.T-Icon-BR-SM-Athena-Campfire",
+      "SmallPreview": "ExportedImages\\T-Icon-BR-SM-Athena-Campfire.png",
       "LargePreview": "ExportedImages\\T-Icon-BR-SM-Athena-Campfire-L.png"
     }
   },
@@ -2234,7 +2234,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_campfire_r_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/Athena/Items/Traps/Campfire/T-Icon-BR-SM-Athena-Campfire.T-Icon-BR-SM-Athena-Campfire",
+      "SmallPreview": "ExportedImages\\T-Icon-BR-SM-Athena-Campfire.png",
       "LargePreview": "ExportedImages\\T-Icon-BR-SM-Athena-Campfire-L.png"
     }
   },
@@ -2266,7 +2266,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_campfire_r_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/Athena/Items/Traps/Campfire/T-Icon-BR-SM-Athena-Campfire.T-Icon-BR-SM-Athena-Campfire",
+      "SmallPreview": "ExportedImages\\T-Icon-BR-SM-Athena-Campfire.png",
       "LargePreview": "ExportedImages\\T-Icon-BR-SM-Athena-Campfire-L.png"
     }
   },
@@ -2298,7 +2298,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_campfire_sr_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/Athena/Items/Traps/Campfire/T-Icon-BR-SM-Athena-Campfire.T-Icon-BR-SM-Athena-Campfire",
+      "SmallPreview": "ExportedImages\\T-Icon-BR-SM-Athena-Campfire.png",
       "LargePreview": "ExportedImages\\T-Icon-BR-SM-Athena-Campfire-L.png"
     }
   },
@@ -2330,7 +2330,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_campfire_sr_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/Athena/Items/Traps/Campfire/T-Icon-BR-SM-Athena-Campfire.T-Icon-BR-SM-Athena-Campfire",
+      "SmallPreview": "ExportedImages\\T-Icon-BR-SM-Athena-Campfire.png",
       "LargePreview": "ExportedImages\\T-Icon-BR-SM-Athena-Campfire-L.png"
     }
   },
@@ -2362,7 +2362,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_campfire_sr_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/Athena/Items/Traps/Campfire/T-Icon-BR-SM-Athena-Campfire.T-Icon-BR-SM-Athena-Campfire",
+      "SmallPreview": "ExportedImages\\T-Icon-BR-SM-Athena-Campfire.png",
       "LargePreview": "ExportedImages\\T-Icon-BR-SM-Athena-Campfire-L.png"
     }
   },
@@ -2394,7 +2394,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_campfire_sr_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/Athena/Items/Traps/Campfire/T-Icon-BR-SM-Athena-Campfire.T-Icon-BR-SM-Athena-Campfire",
+      "SmallPreview": "ExportedImages\\T-Icon-BR-SM-Athena-Campfire.png",
       "LargePreview": "ExportedImages\\T-Icon-BR-SM-Athena-Campfire-L.png"
     }
   },
@@ -2426,7 +2426,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_campfire_sr_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/Athena/Items/Traps/Campfire/T-Icon-BR-SM-Athena-Campfire.T-Icon-BR-SM-Athena-Campfire",
+      "SmallPreview": "ExportedImages\\T-Icon-BR-SM-Athena-Campfire.png",
       "LargePreview": "ExportedImages\\T-Icon-BR-SM-Athena-Campfire-L.png"
     }
   },
@@ -2458,7 +2458,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_campfire_vr_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/Athena/Items/Traps/Campfire/T-Icon-BR-SM-Athena-Campfire.T-Icon-BR-SM-Athena-Campfire",
+      "SmallPreview": "ExportedImages\\T-Icon-BR-SM-Athena-Campfire.png",
       "LargePreview": "ExportedImages\\T-Icon-BR-SM-Athena-Campfire-L.png"
     }
   },
@@ -2490,7 +2490,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_campfire_vr_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/Athena/Items/Traps/Campfire/T-Icon-BR-SM-Athena-Campfire.T-Icon-BR-SM-Athena-Campfire",
+      "SmallPreview": "ExportedImages\\T-Icon-BR-SM-Athena-Campfire.png",
       "LargePreview": "ExportedImages\\T-Icon-BR-SM-Athena-Campfire-L.png"
     }
   },
@@ -2522,7 +2522,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_campfire_vr_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/Athena/Items/Traps/Campfire/T-Icon-BR-SM-Athena-Campfire.T-Icon-BR-SM-Athena-Campfire",
+      "SmallPreview": "ExportedImages\\T-Icon-BR-SM-Athena-Campfire.png",
       "LargePreview": "ExportedImages\\T-Icon-BR-SM-Athena-Campfire-L.png"
     }
   },
@@ -2554,7 +2554,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_campfire_vr_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/Athena/Items/Traps/Campfire/T-Icon-BR-SM-Athena-Campfire.T-Icon-BR-SM-Athena-Campfire",
+      "SmallPreview": "ExportedImages\\T-Icon-BR-SM-Athena-Campfire.png",
       "LargePreview": "ExportedImages\\T-Icon-BR-SM-Athena-Campfire-L.png"
     }
   },
@@ -2586,7 +2586,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_campfire_vr_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/Athena/Items/Traps/Campfire/T-Icon-BR-SM-Athena-Campfire.T-Icon-BR-SM-Athena-Campfire",
+      "SmallPreview": "ExportedImages\\T-Icon-BR-SM-Athena-Campfire.png",
       "LargePreview": "ExportedImages\\T-Icon-BR-SM-Athena-Campfire-L.png"
     }
   },
@@ -2618,7 +2618,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_defender.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/Missions/Primary/Outpost/Textures/T-Icon-Weapons-S-Floor-DefenderSpawn.T-Icon-Weapons-S-Floor-DefenderSpawn",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Floor-DefenderSpawn.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Floor-DefenderSpawn-L.png"
     }
   },
@@ -2650,7 +2650,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_flamegrill_r_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SM-Flame-Grill-Trap.T-Icon-Weapons-SM-Flame-Grill-Trap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-SM-Flame-Grill-Trap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SM-Flame-Grill-Trap.png"
     }
   },
@@ -2682,7 +2682,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_flamegrill_r_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SM-Flame-Grill-Trap.T-Icon-Weapons-SM-Flame-Grill-Trap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-SM-Flame-Grill-Trap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SM-Flame-Grill-Trap.png"
     }
   },
@@ -2714,7 +2714,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_flamegrill_r_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SM-Flame-Grill-Trap.T-Icon-Weapons-SM-Flame-Grill-Trap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-SM-Flame-Grill-Trap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SM-Flame-Grill-Trap.png"
     }
   },
@@ -2746,7 +2746,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_flamegrill_r_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SM-Flame-Grill-Trap.T-Icon-Weapons-SM-Flame-Grill-Trap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-SM-Flame-Grill-Trap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SM-Flame-Grill-Trap.png"
     }
   },
@@ -2778,7 +2778,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_flamegrill_sr_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SM-Flame-Grill-Trap.T-Icon-Weapons-SM-Flame-Grill-Trap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-SM-Flame-Grill-Trap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SM-Flame-Grill-Trap.png"
     }
   },
@@ -2810,7 +2810,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_flamegrill_sr_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SM-Flame-Grill-Trap.T-Icon-Weapons-SM-Flame-Grill-Trap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-SM-Flame-Grill-Trap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SM-Flame-Grill-Trap.png"
     }
   },
@@ -2842,7 +2842,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_flamegrill_sr_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SM-Flame-Grill-Trap.T-Icon-Weapons-SM-Flame-Grill-Trap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-SM-Flame-Grill-Trap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SM-Flame-Grill-Trap.png"
     }
   },
@@ -2874,7 +2874,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_flamegrill_sr_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SM-Flame-Grill-Trap.T-Icon-Weapons-SM-Flame-Grill-Trap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-SM-Flame-Grill-Trap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SM-Flame-Grill-Trap.png"
     }
   },
@@ -2906,7 +2906,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_flamegrill_sr_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SM-Flame-Grill-Trap.T-Icon-Weapons-SM-Flame-Grill-Trap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-SM-Flame-Grill-Trap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SM-Flame-Grill-Trap.png"
     }
   },
@@ -2938,7 +2938,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_flamegrill_vr_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SM-Flame-Grill-Trap.T-Icon-Weapons-SM-Flame-Grill-Trap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-SM-Flame-Grill-Trap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SM-Flame-Grill-Trap.png"
     }
   },
@@ -2970,7 +2970,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_flamegrill_vr_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SM-Flame-Grill-Trap.T-Icon-Weapons-SM-Flame-Grill-Trap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-SM-Flame-Grill-Trap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SM-Flame-Grill-Trap.png"
     }
   },
@@ -3002,7 +3002,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_flamegrill_vr_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SM-Flame-Grill-Trap.T-Icon-Weapons-SM-Flame-Grill-Trap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-SM-Flame-Grill-Trap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SM-Flame-Grill-Trap.png"
     }
   },
@@ -3034,7 +3034,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_flamegrill_vr_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SM-Flame-Grill-Trap.T-Icon-Weapons-SM-Flame-Grill-Trap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-SM-Flame-Grill-Trap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SM-Flame-Grill-Trap.png"
     }
   },
@@ -3066,7 +3066,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_flamegrill_vr_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SM-Flame-Grill-Trap.T-Icon-Weapons-SM-Flame-Grill-Trap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-SM-Flame-Grill-Trap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SM-Flame-Grill-Trap.png"
     }
   },
@@ -3098,7 +3098,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_freeze_r_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Floor-Freeze.T-Icon-Weapons-S-Floor-Freeze",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Floor-Freeze.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Floor-Freeze-L.png"
     }
   },
@@ -3130,7 +3130,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_freeze_r_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Floor-Freeze.T-Icon-Weapons-S-Floor-Freeze",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Floor-Freeze.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Floor-Freeze-L.png"
     }
   },
@@ -3162,7 +3162,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_freeze_r_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Floor-Freeze.T-Icon-Weapons-S-Floor-Freeze",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Floor-Freeze.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Floor-Freeze-L.png"
     }
   },
@@ -3194,7 +3194,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_freeze_r_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Floor-Freeze.T-Icon-Weapons-S-Floor-Freeze",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Floor-Freeze.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Floor-Freeze-L.png"
     }
   },
@@ -3226,7 +3226,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_freeze_sr_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Floor-Freeze.T-Icon-Weapons-S-Floor-Freeze",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Floor-Freeze.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Floor-Freeze-L.png"
     }
   },
@@ -3258,7 +3258,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_freeze_sr_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Floor-Freeze.T-Icon-Weapons-S-Floor-Freeze",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Floor-Freeze.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Floor-Freeze-L.png"
     }
   },
@@ -3290,7 +3290,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_freeze_sr_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Floor-Freeze.T-Icon-Weapons-S-Floor-Freeze",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Floor-Freeze.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Floor-Freeze-L.png"
     }
   },
@@ -3322,7 +3322,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_freeze_sr_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Floor-Freeze.T-Icon-Weapons-S-Floor-Freeze",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Floor-Freeze.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Floor-Freeze-L.png"
     }
   },
@@ -3354,7 +3354,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_freeze_sr_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Floor-Freeze.T-Icon-Weapons-S-Floor-Freeze",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Floor-Freeze.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Floor-Freeze-L.png"
     }
   },
@@ -3386,7 +3386,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_freeze_vr_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Floor-Freeze.T-Icon-Weapons-S-Floor-Freeze",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Floor-Freeze.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Floor-Freeze-L.png"
     }
   },
@@ -3418,7 +3418,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_freeze_vr_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Floor-Freeze.T-Icon-Weapons-S-Floor-Freeze",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Floor-Freeze.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Floor-Freeze-L.png"
     }
   },
@@ -3450,7 +3450,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_freeze_vr_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Floor-Freeze.T-Icon-Weapons-S-Floor-Freeze",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Floor-Freeze.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Floor-Freeze-L.png"
     }
   },
@@ -3482,7 +3482,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_freeze_vr_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Floor-Freeze.T-Icon-Weapons-S-Floor-Freeze",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Floor-Freeze.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Floor-Freeze-L.png"
     }
   },
@@ -3514,7 +3514,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_freeze_vr_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Floor-Freeze.T-Icon-Weapons-S-Floor-Freeze",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Floor-Freeze.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Floor-Freeze-L.png"
     }
   },
@@ -3541,7 +3541,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_health_c_t00.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Floor-HealthSquare.T-Icon-Weapons-S-Floor-HealthSquare",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Floor-HealthSquare.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Floor-HealthSquare-L.png"
     }
   },
@@ -3573,7 +3573,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_health_r_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Floor-HealthSquare.T-Icon-Weapons-S-Floor-HealthSquare",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Floor-HealthSquare.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Floor-HealthSquare-L.png"
     }
   },
@@ -3605,7 +3605,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_health_r_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Floor-HealthSquare.T-Icon-Weapons-S-Floor-HealthSquare",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Floor-HealthSquare.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Floor-HealthSquare-L.png"
     }
   },
@@ -3637,7 +3637,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_health_r_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Floor-HealthSquare.T-Icon-Weapons-S-Floor-HealthSquare",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Floor-HealthSquare.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Floor-HealthSquare-L.png"
     }
   },
@@ -3669,7 +3669,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_health_r_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Floor-HealthSquare.T-Icon-Weapons-S-Floor-HealthSquare",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Floor-HealthSquare.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Floor-HealthSquare-L.png"
     }
   },
@@ -3701,7 +3701,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_health_sr_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Floor-HealthSquare.T-Icon-Weapons-S-Floor-HealthSquare",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Floor-HealthSquare.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Floor-HealthSquare-L.png"
     }
   },
@@ -3733,7 +3733,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_health_sr_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Floor-HealthSquare.T-Icon-Weapons-S-Floor-HealthSquare",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Floor-HealthSquare.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Floor-HealthSquare-L.png"
     }
   },
@@ -3765,7 +3765,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_health_sr_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Floor-HealthSquare.T-Icon-Weapons-S-Floor-HealthSquare",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Floor-HealthSquare.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Floor-HealthSquare-L.png"
     }
   },
@@ -3797,7 +3797,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_health_sr_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Floor-HealthSquare.T-Icon-Weapons-S-Floor-HealthSquare",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Floor-HealthSquare.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Floor-HealthSquare-L.png"
     }
   },
@@ -3829,7 +3829,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_health_sr_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Floor-HealthSquare.T-Icon-Weapons-S-Floor-HealthSquare",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Floor-HealthSquare.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Floor-HealthSquare-L.png"
     }
   },
@@ -3861,7 +3861,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_health_uc_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Floor-HealthSquare.T-Icon-Weapons-S-Floor-HealthSquare",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Floor-HealthSquare.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Floor-HealthSquare-L.png"
     }
   },
@@ -3893,7 +3893,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_health_uc_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Floor-HealthSquare.T-Icon-Weapons-S-Floor-HealthSquare",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Floor-HealthSquare.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Floor-HealthSquare-L.png"
     }
   },
@@ -3925,7 +3925,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_health_uc_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Floor-HealthSquare.T-Icon-Weapons-S-Floor-HealthSquare",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Floor-HealthSquare.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Floor-HealthSquare-L.png"
     }
   },
@@ -3957,7 +3957,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_health_vr_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Floor-HealthSquare.T-Icon-Weapons-S-Floor-HealthSquare",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Floor-HealthSquare.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Floor-HealthSquare-L.png"
     }
   },
@@ -3989,7 +3989,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_health_vr_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Floor-HealthSquare.T-Icon-Weapons-S-Floor-HealthSquare",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Floor-HealthSquare.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Floor-HealthSquare-L.png"
     }
   },
@@ -4021,7 +4021,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_health_vr_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Floor-HealthSquare.T-Icon-Weapons-S-Floor-HealthSquare",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Floor-HealthSquare.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Floor-HealthSquare-L.png"
     }
   },
@@ -4053,7 +4053,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_health_vr_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Floor-HealthSquare.T-Icon-Weapons-S-Floor-HealthSquare",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Floor-HealthSquare.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Floor-HealthSquare-L.png"
     }
   },
@@ -4085,7 +4085,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_health_vr_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Floor-HealthSquare.T-Icon-Weapons-S-Floor-HealthSquare",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Floor-HealthSquare.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Floor-HealthSquare-L.png"
     }
   },
@@ -4115,7 +4115,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_hoverboard_speed_curve_r_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Speedboost-Turn.T-Icon-Weapons-S-Speedboost-Turn",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Speedboost-Turn.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Speedboost-Turn-L.png"
     }
   },
@@ -4145,7 +4145,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_hoverboard_speed_r_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Speedboost-Straight.T-Icon-Weapons-S-Speedboost-Straight",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Speedboost-Straight.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Speedboost-Straight-L.png"
     }
   },
@@ -4177,7 +4177,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_launcher_r_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Enemy-JumpPad-Floor.T-Icon-Weapons-Enemy-JumpPad-Floor",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Enemy-JumpPad-Floor.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Enemy-JumpPad-Floor-L.png"
     }
   },
@@ -4209,7 +4209,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_launcher_r_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Enemy-JumpPad-Floor.T-Icon-Weapons-Enemy-JumpPad-Floor",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Enemy-JumpPad-Floor.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Enemy-JumpPad-Floor-L.png"
     }
   },
@@ -4241,7 +4241,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_launcher_r_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Enemy-JumpPad-Floor.T-Icon-Weapons-Enemy-JumpPad-Floor",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Enemy-JumpPad-Floor.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Enemy-JumpPad-Floor-L.png"
     }
   },
@@ -4273,7 +4273,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_launcher_r_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Enemy-JumpPad-Floor.T-Icon-Weapons-Enemy-JumpPad-Floor",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Enemy-JumpPad-Floor.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Enemy-JumpPad-Floor-L.png"
     }
   },
@@ -4305,7 +4305,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_launcher_sr_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Enemy-JumpPad-Floor.T-Icon-Weapons-Enemy-JumpPad-Floor",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Enemy-JumpPad-Floor.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Enemy-JumpPad-Floor-L.png"
     }
   },
@@ -4337,7 +4337,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_launcher_sr_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Enemy-JumpPad-Floor.T-Icon-Weapons-Enemy-JumpPad-Floor",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Enemy-JumpPad-Floor.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Enemy-JumpPad-Floor-L.png"
     }
   },
@@ -4369,7 +4369,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_launcher_sr_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Enemy-JumpPad-Floor.T-Icon-Weapons-Enemy-JumpPad-Floor",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Enemy-JumpPad-Floor.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Enemy-JumpPad-Floor-L.png"
     }
   },
@@ -4401,7 +4401,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_launcher_sr_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Enemy-JumpPad-Floor.T-Icon-Weapons-Enemy-JumpPad-Floor",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Enemy-JumpPad-Floor.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Enemy-JumpPad-Floor-L.png"
     }
   },
@@ -4433,7 +4433,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_launcher_sr_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Enemy-JumpPad-Floor.T-Icon-Weapons-Enemy-JumpPad-Floor",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Enemy-JumpPad-Floor.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Enemy-JumpPad-Floor-L.png"
     }
   },
@@ -4465,7 +4465,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_launcher_uc_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Enemy-JumpPad-Floor.T-Icon-Weapons-Enemy-JumpPad-Floor",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Enemy-JumpPad-Floor.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Enemy-JumpPad-Floor-L.png"
     }
   },
@@ -4497,7 +4497,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_launcher_uc_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Enemy-JumpPad-Floor.T-Icon-Weapons-Enemy-JumpPad-Floor",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Enemy-JumpPad-Floor.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Enemy-JumpPad-Floor-L.png"
     }
   },
@@ -4529,7 +4529,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_launcher_uc_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Enemy-JumpPad-Floor.T-Icon-Weapons-Enemy-JumpPad-Floor",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Enemy-JumpPad-Floor.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Enemy-JumpPad-Floor-L.png"
     }
   },
@@ -4561,7 +4561,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_launcher_vr_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Enemy-JumpPad-Floor.T-Icon-Weapons-Enemy-JumpPad-Floor",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Enemy-JumpPad-Floor.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Enemy-JumpPad-Floor-L.png"
     }
   },
@@ -4593,7 +4593,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_launcher_vr_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Enemy-JumpPad-Floor.T-Icon-Weapons-Enemy-JumpPad-Floor",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Enemy-JumpPad-Floor.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Enemy-JumpPad-Floor-L.png"
     }
   },
@@ -4625,7 +4625,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_launcher_vr_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Enemy-JumpPad-Floor.T-Icon-Weapons-Enemy-JumpPad-Floor",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Enemy-JumpPad-Floor.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Enemy-JumpPad-Floor-L.png"
     }
   },
@@ -4657,7 +4657,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_launcher_vr_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Enemy-JumpPad-Floor.T-Icon-Weapons-Enemy-JumpPad-Floor",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Enemy-JumpPad-Floor.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Enemy-JumpPad-Floor-L.png"
     }
   },
@@ -4689,7 +4689,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_launcher_vr_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Enemy-JumpPad-Floor.T-Icon-Weapons-Enemy-JumpPad-Floor",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Enemy-JumpPad-Floor.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Enemy-JumpPad-Floor-L.png"
     }
   },
@@ -4721,7 +4721,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_launchpad_r_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Heroes/Icon-Perk-Missing-M.Icon-Perk-Missing-M",
+      "SmallPreview": "ExportedImages\\Icon-Perk-Missing-M.png",
       "LargePreview": "ExportedImages\\Icon-Perk-Missing-64.png"
     }
   },
@@ -4751,7 +4751,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_player_jump_pad.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-JumpPadUP-floor.T-Icon-Weapons-JumpPadUP-floor",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-JumpPadUP-floor.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-JumpPadUP-floor-L.png"
     }
   },
@@ -4781,7 +4781,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_player_jump_pad_free_direction.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-JumpPadD-floor.T-Icon-Weapons-JumpPadD-floor",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-JumpPadD-floor.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-JumpPadD-floor-L.png"
     }
   },
@@ -4813,7 +4813,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_spikes_r_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Spike-Trap-Floor-Base.T-Icon-Weapons-Spike-Trap-Floor-Base",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Spike-Trap-Floor-Base.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Spike-Trap-Floor-Base-L.png"
     }
   },
@@ -4845,7 +4845,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_spikes_r_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Spike-Trap-Floor-Base.T-Icon-Weapons-Spike-Trap-Floor-Base",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Spike-Trap-Floor-Base.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Spike-Trap-Floor-Base-L.png"
     }
   },
@@ -4877,7 +4877,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_spikes_r_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Spike-Trap-Floor-Base.T-Icon-Weapons-Spike-Trap-Floor-Base",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Spike-Trap-Floor-Base.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Spike-Trap-Floor-Base-L.png"
     }
   },
@@ -4909,7 +4909,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_spikes_r_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Spike-Trap-Floor-Base.T-Icon-Weapons-Spike-Trap-Floor-Base",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Spike-Trap-Floor-Base.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Spike-Trap-Floor-Base-L.png"
     }
   },
@@ -4941,7 +4941,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_spikes_sr_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Spike-Trap-Floor-Base.T-Icon-Weapons-Spike-Trap-Floor-Base",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Spike-Trap-Floor-Base.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Spike-Trap-Floor-Base-L.png"
     }
   },
@@ -4973,7 +4973,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_spikes_sr_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Spike-Trap-Floor-Base.T-Icon-Weapons-Spike-Trap-Floor-Base",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Spike-Trap-Floor-Base.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Spike-Trap-Floor-Base-L.png"
     }
   },
@@ -5005,7 +5005,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_spikes_sr_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Spike-Trap-Floor-Base.T-Icon-Weapons-Spike-Trap-Floor-Base",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Spike-Trap-Floor-Base.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Spike-Trap-Floor-Base-L.png"
     }
   },
@@ -5037,7 +5037,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_spikes_sr_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Spike-Trap-Floor-Base.T-Icon-Weapons-Spike-Trap-Floor-Base",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Spike-Trap-Floor-Base.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Spike-Trap-Floor-Base-L.png"
     }
   },
@@ -5069,7 +5069,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_spikes_sr_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Spike-Trap-Floor-Base.T-Icon-Weapons-Spike-Trap-Floor-Base",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Spike-Trap-Floor-Base.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Spike-Trap-Floor-Base-L.png"
     }
   },
@@ -5101,7 +5101,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_spikes_uc_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Spike-Trap-Floor-Base.T-Icon-Weapons-Spike-Trap-Floor-Base",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Spike-Trap-Floor-Base.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Spike-Trap-Floor-Base-L.png"
     }
   },
@@ -5133,7 +5133,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_spikes_uc_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Spike-Trap-Floor-Base.T-Icon-Weapons-Spike-Trap-Floor-Base",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Spike-Trap-Floor-Base.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Spike-Trap-Floor-Base-L.png"
     }
   },
@@ -5165,7 +5165,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_spikes_uc_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Spike-Trap-Floor-Base.T-Icon-Weapons-Spike-Trap-Floor-Base",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Spike-Trap-Floor-Base.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Spike-Trap-Floor-Base-L.png"
     }
   },
@@ -5197,7 +5197,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_spikes_vr_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Spike-Trap-Floor-Base.T-Icon-Weapons-Spike-Trap-Floor-Base",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Spike-Trap-Floor-Base.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Spike-Trap-Floor-Base-L.png"
     }
   },
@@ -5229,7 +5229,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_spikes_vr_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Spike-Trap-Floor-Base.T-Icon-Weapons-Spike-Trap-Floor-Base",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Spike-Trap-Floor-Base.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Spike-Trap-Floor-Base-L.png"
     }
   },
@@ -5261,7 +5261,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_spikes_vr_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Spike-Trap-Floor-Base.T-Icon-Weapons-Spike-Trap-Floor-Base",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Spike-Trap-Floor-Base.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Spike-Trap-Floor-Base-L.png"
     }
   },
@@ -5293,7 +5293,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_spikes_vr_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Spike-Trap-Floor-Base.T-Icon-Weapons-Spike-Trap-Floor-Base",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Spike-Trap-Floor-Base.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Spike-Trap-Floor-Base-L.png"
     }
   },
@@ -5325,7 +5325,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_spikes_vr_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Spike-Trap-Floor-Base.T-Icon-Weapons-Spike-Trap-Floor-Base",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Spike-Trap-Floor-Base.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Spike-Trap-Floor-Base-L.png"
     }
   },
@@ -5357,7 +5357,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_spikes_wood_c_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Wood-Floor-Spike.T-Icon-Weapons-S-Wood-Floor-Spike",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Wood-Floor-Spike.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Wood-Floor-Spike-L.png"
     }
   },
@@ -5389,7 +5389,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_spikes_wood_c_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Wood-Floor-Spike.T-Icon-Weapons-S-Wood-Floor-Spike",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Wood-Floor-Spike.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Wood-Floor-Spike-L.png"
     }
   },
@@ -5421,7 +5421,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_spikes_wood_r_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Wood-Floor-Spike.T-Icon-Weapons-S-Wood-Floor-Spike",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Wood-Floor-Spike.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Wood-Floor-Spike-L.png"
     }
   },
@@ -5453,7 +5453,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_spikes_wood_r_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Wood-Floor-Spike.T-Icon-Weapons-S-Wood-Floor-Spike",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Wood-Floor-Spike.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Wood-Floor-Spike-L.png"
     }
   },
@@ -5485,7 +5485,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_spikes_wood_r_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Wood-Floor-Spike.T-Icon-Weapons-S-Wood-Floor-Spike",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Wood-Floor-Spike.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Wood-Floor-Spike-L.png"
     }
   },
@@ -5517,7 +5517,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_spikes_wood_r_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Wood-Floor-Spike.T-Icon-Weapons-S-Wood-Floor-Spike",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Wood-Floor-Spike.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Wood-Floor-Spike-L.png"
     }
   },
@@ -5549,7 +5549,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_spikes_wood_sr_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Wood-Floor-Spike.T-Icon-Weapons-S-Wood-Floor-Spike",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Wood-Floor-Spike.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Wood-Floor-Spike-L.png"
     }
   },
@@ -5581,7 +5581,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_spikes_wood_sr_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Wood-Floor-Spike.T-Icon-Weapons-S-Wood-Floor-Spike",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Wood-Floor-Spike.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Wood-Floor-Spike-L.png"
     }
   },
@@ -5613,7 +5613,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_spikes_wood_sr_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Wood-Floor-Spike.T-Icon-Weapons-S-Wood-Floor-Spike",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Wood-Floor-Spike.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Wood-Floor-Spike-L.png"
     }
   },
@@ -5645,7 +5645,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_spikes_wood_sr_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Wood-Floor-Spike.T-Icon-Weapons-S-Wood-Floor-Spike",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Wood-Floor-Spike.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Wood-Floor-Spike-L.png"
     }
   },
@@ -5677,7 +5677,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_spikes_wood_sr_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Wood-Floor-Spike.T-Icon-Weapons-S-Wood-Floor-Spike",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Wood-Floor-Spike.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Wood-Floor-Spike-L.png"
     }
   },
@@ -5709,7 +5709,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_spikes_wood_uc_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Wood-Floor-Spike.T-Icon-Weapons-S-Wood-Floor-Spike",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Wood-Floor-Spike.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Wood-Floor-Spike-L.png"
     }
   },
@@ -5741,7 +5741,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_spikes_wood_uc_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Wood-Floor-Spike.T-Icon-Weapons-S-Wood-Floor-Spike",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Wood-Floor-Spike.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Wood-Floor-Spike-L.png"
     }
   },
@@ -5773,7 +5773,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_spikes_wood_uc_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Wood-Floor-Spike.T-Icon-Weapons-S-Wood-Floor-Spike",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Wood-Floor-Spike.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Wood-Floor-Spike-L.png"
     }
   },
@@ -5805,7 +5805,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_spikes_wood_vr_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Wood-Floor-Spike.T-Icon-Weapons-S-Wood-Floor-Spike",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Wood-Floor-Spike.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Wood-Floor-Spike-L.png"
     }
   },
@@ -5837,7 +5837,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_spikes_wood_vr_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Wood-Floor-Spike.T-Icon-Weapons-S-Wood-Floor-Spike",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Wood-Floor-Spike.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Wood-Floor-Spike-L.png"
     }
   },
@@ -5869,7 +5869,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_spikes_wood_vr_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Wood-Floor-Spike.T-Icon-Weapons-S-Wood-Floor-Spike",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Wood-Floor-Spike.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Wood-Floor-Spike-L.png"
     }
   },
@@ -5901,7 +5901,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_spikes_wood_vr_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Wood-Floor-Spike.T-Icon-Weapons-S-Wood-Floor-Spike",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Wood-Floor-Spike.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Wood-Floor-Spike-L.png"
     }
   },
@@ -5933,7 +5933,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_spikes_wood_vr_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Wood-Floor-Spike.T-Icon-Weapons-S-Wood-Floor-Spike",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Wood-Floor-Spike.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Wood-Floor-Spike-L.png"
     }
   },
@@ -5965,7 +5965,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_tar_r_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-TarPitTrap.T-Icon-Weapons-TarPitTrap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-TarPitTrap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-TarPitTrap-L.png"
     }
   },
@@ -5997,7 +5997,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_tar_r_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-TarPitTrap.T-Icon-Weapons-TarPitTrap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-TarPitTrap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-TarPitTrap-L.png"
     }
   },
@@ -6029,7 +6029,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_tar_r_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-TarPitTrap.T-Icon-Weapons-TarPitTrap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-TarPitTrap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-TarPitTrap-L.png"
     }
   },
@@ -6061,7 +6061,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_tar_r_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-TarPitTrap.T-Icon-Weapons-TarPitTrap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-TarPitTrap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-TarPitTrap-L.png"
     }
   },
@@ -6093,7 +6093,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_tar_sr_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-TarPitTrap.T-Icon-Weapons-TarPitTrap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-TarPitTrap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-TarPitTrap-L.png"
     }
   },
@@ -6125,7 +6125,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_tar_sr_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-TarPitTrap.T-Icon-Weapons-TarPitTrap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-TarPitTrap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-TarPitTrap-L.png"
     }
   },
@@ -6157,7 +6157,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_tar_sr_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-TarPitTrap.T-Icon-Weapons-TarPitTrap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-TarPitTrap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-TarPitTrap-L.png"
     }
   },
@@ -6189,7 +6189,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_tar_sr_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-TarPitTrap.T-Icon-Weapons-TarPitTrap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-TarPitTrap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-TarPitTrap-L.png"
     }
   },
@@ -6221,7 +6221,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_tar_sr_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-TarPitTrap.T-Icon-Weapons-TarPitTrap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-TarPitTrap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-TarPitTrap-L.png"
     }
   },
@@ -6253,7 +6253,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_tar_vr_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-TarPitTrap.T-Icon-Weapons-TarPitTrap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-TarPitTrap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-TarPitTrap-L.png"
     }
   },
@@ -6285,7 +6285,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_tar_vr_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-TarPitTrap.T-Icon-Weapons-TarPitTrap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-TarPitTrap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-TarPitTrap-L.png"
     }
   },
@@ -6317,7 +6317,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_tar_vr_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-TarPitTrap.T-Icon-Weapons-TarPitTrap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-TarPitTrap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-TarPitTrap-L.png"
     }
   },
@@ -6349,7 +6349,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_tar_vr_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-TarPitTrap.T-Icon-Weapons-TarPitTrap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-TarPitTrap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-TarPitTrap-L.png"
     }
   },
@@ -6381,7 +6381,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_tar_vr_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-TarPitTrap.T-Icon-Weapons-TarPitTrap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-TarPitTrap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-TarPitTrap-L.png"
     }
   },
@@ -6413,7 +6413,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_ward_r_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-PatrolWardTurret.T-Icon-Weapons-PatrolWardTurret",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-PatrolWardTurret.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-PatrolWardTurret-L.png"
     }
   },
@@ -6445,7 +6445,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_ward_r_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-PatrolWardTurret.T-Icon-Weapons-PatrolWardTurret",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-PatrolWardTurret.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-PatrolWardTurret-L.png"
     }
   },
@@ -6477,7 +6477,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_ward_r_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-PatrolWardTurret.T-Icon-Weapons-PatrolWardTurret",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-PatrolWardTurret.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-PatrolWardTurret-L.png"
     }
   },
@@ -6509,7 +6509,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_ward_r_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-PatrolWardTurret.T-Icon-Weapons-PatrolWardTurret",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-PatrolWardTurret.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-PatrolWardTurret-L.png"
     }
   },
@@ -6541,7 +6541,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_ward_sr_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-PatrolWardTurret.T-Icon-Weapons-PatrolWardTurret",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-PatrolWardTurret.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-PatrolWardTurret-L.png"
     }
   },
@@ -6573,7 +6573,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_ward_sr_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-PatrolWardTurret.T-Icon-Weapons-PatrolWardTurret",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-PatrolWardTurret.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-PatrolWardTurret-L.png"
     }
   },
@@ -6605,7 +6605,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_ward_sr_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-PatrolWardTurret.T-Icon-Weapons-PatrolWardTurret",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-PatrolWardTurret.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-PatrolWardTurret-L.png"
     }
   },
@@ -6637,7 +6637,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_ward_sr_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-PatrolWardTurret.T-Icon-Weapons-PatrolWardTurret",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-PatrolWardTurret.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-PatrolWardTurret-L.png"
     }
   },
@@ -6669,7 +6669,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_ward_sr_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-PatrolWardTurret.T-Icon-Weapons-PatrolWardTurret",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-PatrolWardTurret.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-PatrolWardTurret-L.png"
     }
   },
@@ -6701,7 +6701,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_ward_uc_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-PatrolWardTurret.T-Icon-Weapons-PatrolWardTurret",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-PatrolWardTurret.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-PatrolWardTurret-L.png"
     }
   },
@@ -6733,7 +6733,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_ward_uc_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-PatrolWardTurret.T-Icon-Weapons-PatrolWardTurret",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-PatrolWardTurret.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-PatrolWardTurret-L.png"
     }
   },
@@ -6765,7 +6765,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_ward_uc_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-PatrolWardTurret.T-Icon-Weapons-PatrolWardTurret",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-PatrolWardTurret.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-PatrolWardTurret-L.png"
     }
   },
@@ -6797,7 +6797,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_ward_vr_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-PatrolWardTurret.T-Icon-Weapons-PatrolWardTurret",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-PatrolWardTurret.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-PatrolWardTurret-L.png"
     }
   },
@@ -6829,7 +6829,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_ward_vr_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-PatrolWardTurret.T-Icon-Weapons-PatrolWardTurret",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-PatrolWardTurret.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-PatrolWardTurret-L.png"
     }
   },
@@ -6861,7 +6861,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_ward_vr_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-PatrolWardTurret.T-Icon-Weapons-PatrolWardTurret",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-PatrolWardTurret.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-PatrolWardTurret-L.png"
     }
   },
@@ -6893,7 +6893,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_ward_vr_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-PatrolWardTurret.T-Icon-Weapons-PatrolWardTurret",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-PatrolWardTurret.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-PatrolWardTurret-L.png"
     }
   },
@@ -6925,7 +6925,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/floor/tid_floor_ward_vr_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-PatrolWardTurret.T-Icon-Weapons-PatrolWardTurret",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-PatrolWardTurret.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-PatrolWardTurret-L.png"
     }
   },
@@ -6951,7 +6951,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wip/tid_rail_turret.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Icons/Consumables/Inventory_Food_FishTaco.Inventory_Food_FishTaco",
+      "SmallPreview": "ExportedImages\\Inventory_Food_FishTaco.png",
       "LargePreview": "ExportedImages\\Inventory_Food_FishTaco.png"
     }
   },
@@ -6983,7 +6983,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wip/tid_wall_armor_wip.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Fort_Quickbar/icon_EditMode.icon_EditMode",
+      "SmallPreview": "ExportedImages\\icon_EditMode.png",
       "LargePreview": "ExportedImages\\icon_EditMode.png"
     }
   },
@@ -7015,7 +7015,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_cannons_r_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Items2-Trap-Cannon-Wall.T-Items2-Trap-Cannon-Wall",
+      "SmallPreview": "ExportedImages\\T-Items2-Trap-Cannon-Wall.png",
       "LargePreview": "ExportedImages\\T-Items2-Trap-Cannon-Wall-L.png"
     }
   },
@@ -7047,7 +7047,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_cannons_r_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Items2-Trap-Cannon-Wall.T-Items2-Trap-Cannon-Wall",
+      "SmallPreview": "ExportedImages\\T-Items2-Trap-Cannon-Wall.png",
       "LargePreview": "ExportedImages\\T-Items2-Trap-Cannon-Wall-L.png"
     }
   },
@@ -7079,7 +7079,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_cannons_r_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Items2-Trap-Cannon-Wall.T-Items2-Trap-Cannon-Wall",
+      "SmallPreview": "ExportedImages\\T-Items2-Trap-Cannon-Wall.png",
       "LargePreview": "ExportedImages\\T-Items2-Trap-Cannon-Wall-L.png"
     }
   },
@@ -7111,7 +7111,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_cannons_r_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Items2-Trap-Cannon-Wall.T-Items2-Trap-Cannon-Wall",
+      "SmallPreview": "ExportedImages\\T-Items2-Trap-Cannon-Wall.png",
       "LargePreview": "ExportedImages\\T-Items2-Trap-Cannon-Wall-L.png"
     }
   },
@@ -7143,7 +7143,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_cannons_sr_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Items2-Trap-Cannon-Wall.T-Items2-Trap-Cannon-Wall",
+      "SmallPreview": "ExportedImages\\T-Items2-Trap-Cannon-Wall.png",
       "LargePreview": "ExportedImages\\T-Items2-Trap-Cannon-Wall-L.png"
     }
   },
@@ -7175,7 +7175,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_cannons_sr_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Items2-Trap-Cannon-Wall.T-Items2-Trap-Cannon-Wall",
+      "SmallPreview": "ExportedImages\\T-Items2-Trap-Cannon-Wall.png",
       "LargePreview": "ExportedImages\\T-Items2-Trap-Cannon-Wall-L.png"
     }
   },
@@ -7207,7 +7207,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_cannons_sr_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Items2-Trap-Cannon-Wall.T-Items2-Trap-Cannon-Wall",
+      "SmallPreview": "ExportedImages\\T-Items2-Trap-Cannon-Wall.png",
       "LargePreview": "ExportedImages\\T-Items2-Trap-Cannon-Wall-L.png"
     }
   },
@@ -7239,7 +7239,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_cannons_sr_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Items2-Trap-Cannon-Wall.T-Items2-Trap-Cannon-Wall",
+      "SmallPreview": "ExportedImages\\T-Items2-Trap-Cannon-Wall.png",
       "LargePreview": "ExportedImages\\T-Items2-Trap-Cannon-Wall-L.png"
     }
   },
@@ -7271,7 +7271,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_cannons_sr_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Items2-Trap-Cannon-Wall.T-Items2-Trap-Cannon-Wall",
+      "SmallPreview": "ExportedImages\\T-Items2-Trap-Cannon-Wall.png",
       "LargePreview": "ExportedImages\\T-Items2-Trap-Cannon-Wall-L.png"
     }
   },
@@ -7303,7 +7303,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_cannons_vr_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Items2-Trap-Cannon-Wall.T-Items2-Trap-Cannon-Wall",
+      "SmallPreview": "ExportedImages\\T-Items2-Trap-Cannon-Wall.png",
       "LargePreview": "ExportedImages\\T-Items2-Trap-Cannon-Wall-L.png"
     }
   },
@@ -7335,7 +7335,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_cannons_vr_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Items2-Trap-Cannon-Wall.T-Items2-Trap-Cannon-Wall",
+      "SmallPreview": "ExportedImages\\T-Items2-Trap-Cannon-Wall.png",
       "LargePreview": "ExportedImages\\T-Items2-Trap-Cannon-Wall-L.png"
     }
   },
@@ -7367,7 +7367,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_cannons_vr_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Items2-Trap-Cannon-Wall.T-Items2-Trap-Cannon-Wall",
+      "SmallPreview": "ExportedImages\\T-Items2-Trap-Cannon-Wall.png",
       "LargePreview": "ExportedImages\\T-Items2-Trap-Cannon-Wall-L.png"
     }
   },
@@ -7399,7 +7399,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_cannons_vr_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Items2-Trap-Cannon-Wall.T-Items2-Trap-Cannon-Wall",
+      "SmallPreview": "ExportedImages\\T-Items2-Trap-Cannon-Wall.png",
       "LargePreview": "ExportedImages\\T-Items2-Trap-Cannon-Wall-L.png"
     }
   },
@@ -7431,7 +7431,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_cannons_vr_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Items2-Trap-Cannon-Wall.T-Items2-Trap-Cannon-Wall",
+      "SmallPreview": "ExportedImages\\T-Items2-Trap-Cannon-Wall.png",
       "LargePreview": "ExportedImages\\T-Items2-Trap-Cannon-Wall-L.png"
     }
   },
@@ -7463,7 +7463,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_darts_r_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Solid-Wall-Trap-test.T-Icon-Weapons-S-Solid-Wall-Trap-test",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Solid-Wall-Trap-test.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Solid-Wall-Trap-test-L.png"
     }
   },
@@ -7495,7 +7495,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_darts_r_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Solid-Wall-Trap-test.T-Icon-Weapons-S-Solid-Wall-Trap-test",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Solid-Wall-Trap-test.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Solid-Wall-Trap-test-L.png"
     }
   },
@@ -7527,7 +7527,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_darts_r_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Solid-Wall-Trap-test.T-Icon-Weapons-S-Solid-Wall-Trap-test",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Solid-Wall-Trap-test.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Solid-Wall-Trap-test-L.png"
     }
   },
@@ -7559,7 +7559,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_darts_r_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Solid-Wall-Trap-test.T-Icon-Weapons-S-Solid-Wall-Trap-test",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Solid-Wall-Trap-test.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Solid-Wall-Trap-test-L.png"
     }
   },
@@ -7591,7 +7591,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_darts_sr_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Solid-Wall-Trap-test.T-Icon-Weapons-S-Solid-Wall-Trap-test",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Solid-Wall-Trap-test.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Solid-Wall-Trap-test-L.png"
     }
   },
@@ -7623,7 +7623,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_darts_sr_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Solid-Wall-Trap-test.T-Icon-Weapons-S-Solid-Wall-Trap-test",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Solid-Wall-Trap-test.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Solid-Wall-Trap-test-L.png"
     }
   },
@@ -7655,7 +7655,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_darts_sr_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Solid-Wall-Trap-test.T-Icon-Weapons-S-Solid-Wall-Trap-test",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Solid-Wall-Trap-test.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Solid-Wall-Trap-test-L.png"
     }
   },
@@ -7687,7 +7687,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_darts_sr_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Solid-Wall-Trap-test.T-Icon-Weapons-S-Solid-Wall-Trap-test",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Solid-Wall-Trap-test.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Solid-Wall-Trap-test-L.png"
     }
   },
@@ -7719,7 +7719,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_darts_sr_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Solid-Wall-Trap-test.T-Icon-Weapons-S-Solid-Wall-Trap-test",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Solid-Wall-Trap-test.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Solid-Wall-Trap-test-L.png"
     }
   },
@@ -7751,7 +7751,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_darts_uc_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Solid-Wall-Trap-test.T-Icon-Weapons-S-Solid-Wall-Trap-test",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Solid-Wall-Trap-test.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Solid-Wall-Trap-test-L.png"
     }
   },
@@ -7783,7 +7783,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_darts_uc_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Solid-Wall-Trap-test.T-Icon-Weapons-S-Solid-Wall-Trap-test",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Solid-Wall-Trap-test.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Solid-Wall-Trap-test-L.png"
     }
   },
@@ -7815,7 +7815,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_darts_uc_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Solid-Wall-Trap-test.T-Icon-Weapons-S-Solid-Wall-Trap-test",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Solid-Wall-Trap-test.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Solid-Wall-Trap-test-L.png"
     }
   },
@@ -7847,7 +7847,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_darts_vr_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Solid-Wall-Trap-test.T-Icon-Weapons-S-Solid-Wall-Trap-test",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Solid-Wall-Trap-test.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Solid-Wall-Trap-test-L.png"
     }
   },
@@ -7879,7 +7879,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_darts_vr_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Solid-Wall-Trap-test.T-Icon-Weapons-S-Solid-Wall-Trap-test",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Solid-Wall-Trap-test.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Solid-Wall-Trap-test-L.png"
     }
   },
@@ -7911,7 +7911,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_darts_vr_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Solid-Wall-Trap-test.T-Icon-Weapons-S-Solid-Wall-Trap-test",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Solid-Wall-Trap-test.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Solid-Wall-Trap-test-L.png"
     }
   },
@@ -7943,7 +7943,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_darts_vr_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Solid-Wall-Trap-test.T-Icon-Weapons-S-Solid-Wall-Trap-test",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Solid-Wall-Trap-test.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Solid-Wall-Trap-test-L.png"
     }
   },
@@ -7975,7 +7975,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_darts_vr_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Solid-Wall-Trap-test.T-Icon-Weapons-S-Solid-Wall-Trap-test",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Solid-Wall-Trap-test.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Solid-Wall-Trap-test-L.png"
     }
   },
@@ -8007,7 +8007,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_electric_r_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Electric-Trap-Wall.T-Icon-Weapons-Electric-Trap-Wall",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Electric-Trap-Wall.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Electric-Trap-Wall-L.png"
     }
   },
@@ -8039,7 +8039,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_electric_r_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Electric-Trap-Wall.T-Icon-Weapons-Electric-Trap-Wall",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Electric-Trap-Wall.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Electric-Trap-Wall-L.png"
     }
   },
@@ -8071,7 +8071,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_electric_r_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Electric-Trap-Wall.T-Icon-Weapons-Electric-Trap-Wall",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Electric-Trap-Wall.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Electric-Trap-Wall-L.png"
     }
   },
@@ -8103,7 +8103,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_electric_r_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Electric-Trap-Wall.T-Icon-Weapons-Electric-Trap-Wall",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Electric-Trap-Wall.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Electric-Trap-Wall-L.png"
     }
   },
@@ -8135,7 +8135,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_electric_sr_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Electric-Trap-Wall.T-Icon-Weapons-Electric-Trap-Wall",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Electric-Trap-Wall.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Electric-Trap-Wall-L.png"
     }
   },
@@ -8167,7 +8167,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_electric_sr_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Electric-Trap-Wall.T-Icon-Weapons-Electric-Trap-Wall",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Electric-Trap-Wall.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Electric-Trap-Wall-L.png"
     }
   },
@@ -8199,7 +8199,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_electric_sr_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Electric-Trap-Wall.T-Icon-Weapons-Electric-Trap-Wall",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Electric-Trap-Wall.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Electric-Trap-Wall-L.png"
     }
   },
@@ -8231,7 +8231,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_electric_sr_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Electric-Trap-Wall.T-Icon-Weapons-Electric-Trap-Wall",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Electric-Trap-Wall.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Electric-Trap-Wall-L.png"
     }
   },
@@ -8263,7 +8263,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_electric_sr_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Electric-Trap-Wall.T-Icon-Weapons-Electric-Trap-Wall",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Electric-Trap-Wall.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Electric-Trap-Wall-L.png"
     }
   },
@@ -8295,7 +8295,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_electric_uc_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Electric-Trap-Wall.T-Icon-Weapons-Electric-Trap-Wall",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Electric-Trap-Wall.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Electric-Trap-Wall-L.png"
     }
   },
@@ -8327,7 +8327,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_electric_uc_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Electric-Trap-Wall.T-Icon-Weapons-Electric-Trap-Wall",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Electric-Trap-Wall.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Electric-Trap-Wall-L.png"
     }
   },
@@ -8359,7 +8359,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_electric_uc_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Electric-Trap-Wall.T-Icon-Weapons-Electric-Trap-Wall",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Electric-Trap-Wall.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Electric-Trap-Wall-L.png"
     }
   },
@@ -8391,7 +8391,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_electric_vr_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Electric-Trap-Wall.T-Icon-Weapons-Electric-Trap-Wall",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Electric-Trap-Wall.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Electric-Trap-Wall-L.png"
     }
   },
@@ -8423,7 +8423,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_electric_vr_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Electric-Trap-Wall.T-Icon-Weapons-Electric-Trap-Wall",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Electric-Trap-Wall.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Electric-Trap-Wall-L.png"
     }
   },
@@ -8455,7 +8455,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_electric_vr_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Electric-Trap-Wall.T-Icon-Weapons-Electric-Trap-Wall",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Electric-Trap-Wall.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Electric-Trap-Wall-L.png"
     }
   },
@@ -8487,7 +8487,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_electric_vr_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Electric-Trap-Wall.T-Icon-Weapons-Electric-Trap-Wall",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Electric-Trap-Wall.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Electric-Trap-Wall-L.png"
     }
   },
@@ -8519,7 +8519,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_electric_vr_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Electric-Trap-Wall.T-Icon-Weapons-Electric-Trap-Wall",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Electric-Trap-Wall.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Electric-Trap-Wall-L.png"
     }
   },
@@ -8545,7 +8545,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wip/tid_wall_heavymetal.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Light-Trap-wall.T-Icon-Weapons-Light-Trap-wall",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Light-Trap-wall.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Light-Trap-wall.png"
     }
   },
@@ -8577,7 +8577,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_launcher_r_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Wall-Launcher-Trap.T-Icon-Weapons-S-Wall-Launcher-Trap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Wall-Launcher-Trap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Wall-Launcher-Trap-L.png"
     }
   },
@@ -8609,7 +8609,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_launcher_r_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Wall-Launcher-Trap.T-Icon-Weapons-S-Wall-Launcher-Trap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Wall-Launcher-Trap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Wall-Launcher-Trap-L.png"
     }
   },
@@ -8641,7 +8641,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_launcher_r_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Wall-Launcher-Trap.T-Icon-Weapons-S-Wall-Launcher-Trap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Wall-Launcher-Trap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Wall-Launcher-Trap-L.png"
     }
   },
@@ -8673,7 +8673,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_launcher_r_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Wall-Launcher-Trap.T-Icon-Weapons-S-Wall-Launcher-Trap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Wall-Launcher-Trap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Wall-Launcher-Trap-L.png"
     }
   },
@@ -8705,7 +8705,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_launcher_sr_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Wall-Launcher-Trap.T-Icon-Weapons-S-Wall-Launcher-Trap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Wall-Launcher-Trap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Wall-Launcher-Trap-L.png"
     }
   },
@@ -8737,7 +8737,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_launcher_sr_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Wall-Launcher-Trap.T-Icon-Weapons-S-Wall-Launcher-Trap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Wall-Launcher-Trap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Wall-Launcher-Trap-L.png"
     }
   },
@@ -8769,7 +8769,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_launcher_sr_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Wall-Launcher-Trap.T-Icon-Weapons-S-Wall-Launcher-Trap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Wall-Launcher-Trap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Wall-Launcher-Trap-L.png"
     }
   },
@@ -8801,7 +8801,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_launcher_sr_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Wall-Launcher-Trap.T-Icon-Weapons-S-Wall-Launcher-Trap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Wall-Launcher-Trap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Wall-Launcher-Trap-L.png"
     }
   },
@@ -8833,7 +8833,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_launcher_sr_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Wall-Launcher-Trap.T-Icon-Weapons-S-Wall-Launcher-Trap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Wall-Launcher-Trap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Wall-Launcher-Trap-L.png"
     }
   },
@@ -8865,7 +8865,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_launcher_uc_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Wall-Launcher-Trap.T-Icon-Weapons-S-Wall-Launcher-Trap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Wall-Launcher-Trap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Wall-Launcher-Trap-L.png"
     }
   },
@@ -8897,7 +8897,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_launcher_uc_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Wall-Launcher-Trap.T-Icon-Weapons-S-Wall-Launcher-Trap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Wall-Launcher-Trap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Wall-Launcher-Trap-L.png"
     }
   },
@@ -8929,7 +8929,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_launcher_uc_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Wall-Launcher-Trap.T-Icon-Weapons-S-Wall-Launcher-Trap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Wall-Launcher-Trap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Wall-Launcher-Trap-L.png"
     }
   },
@@ -8961,7 +8961,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_launcher_vr_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Wall-Launcher-Trap.T-Icon-Weapons-S-Wall-Launcher-Trap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Wall-Launcher-Trap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Wall-Launcher-Trap-L.png"
     }
   },
@@ -8993,7 +8993,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_launcher_vr_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Wall-Launcher-Trap.T-Icon-Weapons-S-Wall-Launcher-Trap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Wall-Launcher-Trap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Wall-Launcher-Trap-L.png"
     }
   },
@@ -9025,7 +9025,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_launcher_vr_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Wall-Launcher-Trap.T-Icon-Weapons-S-Wall-Launcher-Trap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Wall-Launcher-Trap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Wall-Launcher-Trap-L.png"
     }
   },
@@ -9057,7 +9057,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_launcher_vr_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Wall-Launcher-Trap.T-Icon-Weapons-S-Wall-Launcher-Trap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Wall-Launcher-Trap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Wall-Launcher-Trap-L.png"
     }
   },
@@ -9089,7 +9089,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_launcher_vr_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Wall-Launcher-Trap.T-Icon-Weapons-S-Wall-Launcher-Trap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Wall-Launcher-Trap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Wall-Launcher-Trap-L.png"
     }
   },
@@ -9121,7 +9121,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_light_r_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Light-Trap-wall.T-Icon-Weapons-Light-Trap-wall",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Light-Trap-wall.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Light-Trap-wall.png"
     }
   },
@@ -9153,7 +9153,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_light_r_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Light-Trap-wall.T-Icon-Weapons-Light-Trap-wall",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Light-Trap-wall.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Light-Trap-wall.png"
     }
   },
@@ -9185,7 +9185,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_light_r_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Light-Trap-wall.T-Icon-Weapons-Light-Trap-wall",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Light-Trap-wall.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Light-Trap-wall.png"
     }
   },
@@ -9217,7 +9217,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_light_r_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Light-Trap-wall.T-Icon-Weapons-Light-Trap-wall",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Light-Trap-wall.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Light-Trap-wall.png"
     }
   },
@@ -9249,7 +9249,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_light_sr_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Light-Trap-wall.T-Icon-Weapons-Light-Trap-wall",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Light-Trap-wall.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Light-Trap-wall.png"
     }
   },
@@ -9281,7 +9281,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_light_sr_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Light-Trap-wall.T-Icon-Weapons-Light-Trap-wall",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Light-Trap-wall.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Light-Trap-wall.png"
     }
   },
@@ -9313,7 +9313,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_light_sr_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Light-Trap-wall.T-Icon-Weapons-Light-Trap-wall",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Light-Trap-wall.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Light-Trap-wall.png"
     }
   },
@@ -9345,7 +9345,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_light_sr_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Light-Trap-wall.T-Icon-Weapons-Light-Trap-wall",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Light-Trap-wall.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Light-Trap-wall.png"
     }
   },
@@ -9377,7 +9377,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_light_sr_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Light-Trap-wall.T-Icon-Weapons-Light-Trap-wall",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Light-Trap-wall.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Light-Trap-wall.png"
     }
   },
@@ -9409,7 +9409,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_light_vr_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Light-Trap-wall.T-Icon-Weapons-Light-Trap-wall",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Light-Trap-wall.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Light-Trap-wall.png"
     }
   },
@@ -9441,7 +9441,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_light_vr_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Light-Trap-wall.T-Icon-Weapons-Light-Trap-wall",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Light-Trap-wall.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Light-Trap-wall.png"
     }
   },
@@ -9473,7 +9473,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_light_vr_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Light-Trap-wall.T-Icon-Weapons-Light-Trap-wall",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Light-Trap-wall.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Light-Trap-wall.png"
     }
   },
@@ -9505,7 +9505,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_light_vr_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Light-Trap-wall.T-Icon-Weapons-Light-Trap-wall",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Light-Trap-wall.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Light-Trap-wall.png"
     }
   },
@@ -9537,7 +9537,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_light_vr_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Light-Trap-wall.T-Icon-Weapons-Light-Trap-wall",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Light-Trap-wall.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Light-Trap-wall.png"
     }
   },
@@ -9569,7 +9569,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_mechstructor_sr_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-MechstructorTrap.T-Icon-Weapons-MechstructorTrap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-MechstructorTrap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-MechstructorTrap-L.png"
     }
   },
@@ -9601,7 +9601,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_mechstructor_sr_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-MechstructorTrap.T-Icon-Weapons-MechstructorTrap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-MechstructorTrap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-MechstructorTrap-L.png"
     }
   },
@@ -9633,7 +9633,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_mechstructor_sr_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-MechstructorTrap.T-Icon-Weapons-MechstructorTrap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-MechstructorTrap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-MechstructorTrap-L.png"
     }
   },
@@ -9665,7 +9665,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_mechstructor_sr_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-MechstructorTrap.T-Icon-Weapons-MechstructorTrap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-MechstructorTrap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-MechstructorTrap-L.png"
     }
   },
@@ -9697,7 +9697,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_mechstructor_sr_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-MechstructorTrap.T-Icon-Weapons-MechstructorTrap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-MechstructorTrap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-MechstructorTrap-L.png"
     }
   },
@@ -9729,7 +9729,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_mechstructor_vr_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-MechstructorTrap.T-Icon-Weapons-MechstructorTrap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-MechstructorTrap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-MechstructorTrap-L.png"
     }
   },
@@ -9761,7 +9761,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_mechstructor_vr_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-MechstructorTrap.T-Icon-Weapons-MechstructorTrap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-MechstructorTrap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-MechstructorTrap-L.png"
     }
   },
@@ -9793,7 +9793,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_mechstructor_vr_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-MechstructorTrap.T-Icon-Weapons-MechstructorTrap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-MechstructorTrap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-MechstructorTrap-L.png"
     }
   },
@@ -9825,7 +9825,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_mechstructor_vr_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-MechstructorTrap.T-Icon-Weapons-MechstructorTrap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-MechstructorTrap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-MechstructorTrap-L.png"
     }
   },
@@ -9857,7 +9857,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_mechstructor_vr_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-MechstructorTrap.T-Icon-Weapons-MechstructorTrap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-MechstructorTrap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-MechstructorTrap-L.png"
     }
   },
@@ -9889,7 +9889,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wip/tid_wall_shield_wip.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/Gadgets/Assets/SupplyDrop/Textures/Icon_SupplyDrop.Icon_SupplyDrop",
+      "SmallPreview": "ExportedImages\\Icon_SupplyDrop.png",
       "LargePreview": "ExportedImages\\Icon_SupplyDrop.png"
     }
   },
@@ -9921,7 +9921,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_speaker_r_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Wall-SpeakerTrap.T-Icon-Weapons-Wall-SpeakerTrap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Wall-SpeakerTrap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Wall-SpeakerTrap-L.png"
     }
   },
@@ -9953,7 +9953,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_speaker_r_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Wall-SpeakerTrap.T-Icon-Weapons-Wall-SpeakerTrap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Wall-SpeakerTrap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Wall-SpeakerTrap-L.png"
     }
   },
@@ -9985,7 +9985,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_speaker_r_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Wall-SpeakerTrap.T-Icon-Weapons-Wall-SpeakerTrap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Wall-SpeakerTrap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Wall-SpeakerTrap-L.png"
     }
   },
@@ -10017,7 +10017,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_speaker_r_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Wall-SpeakerTrap.T-Icon-Weapons-Wall-SpeakerTrap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Wall-SpeakerTrap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Wall-SpeakerTrap-L.png"
     }
   },
@@ -10049,7 +10049,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_speaker_sr_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Wall-SpeakerTrap.T-Icon-Weapons-Wall-SpeakerTrap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Wall-SpeakerTrap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Wall-SpeakerTrap-L.png"
     }
   },
@@ -10081,7 +10081,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_speaker_sr_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Wall-SpeakerTrap.T-Icon-Weapons-Wall-SpeakerTrap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Wall-SpeakerTrap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Wall-SpeakerTrap-L.png"
     }
   },
@@ -10113,7 +10113,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_speaker_sr_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Wall-SpeakerTrap.T-Icon-Weapons-Wall-SpeakerTrap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Wall-SpeakerTrap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Wall-SpeakerTrap-L.png"
     }
   },
@@ -10145,7 +10145,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_speaker_sr_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Wall-SpeakerTrap.T-Icon-Weapons-Wall-SpeakerTrap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Wall-SpeakerTrap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Wall-SpeakerTrap-L.png"
     }
   },
@@ -10177,7 +10177,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_speaker_sr_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Wall-SpeakerTrap.T-Icon-Weapons-Wall-SpeakerTrap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Wall-SpeakerTrap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Wall-SpeakerTrap-L.png"
     }
   },
@@ -10209,7 +10209,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_speaker_uc_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Wall-SpeakerTrap.T-Icon-Weapons-Wall-SpeakerTrap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Wall-SpeakerTrap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Wall-SpeakerTrap-L.png"
     }
   },
@@ -10241,7 +10241,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_speaker_uc_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Wall-SpeakerTrap.T-Icon-Weapons-Wall-SpeakerTrap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Wall-SpeakerTrap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Wall-SpeakerTrap-L.png"
     }
   },
@@ -10273,7 +10273,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_speaker_uc_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Wall-SpeakerTrap.T-Icon-Weapons-Wall-SpeakerTrap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Wall-SpeakerTrap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Wall-SpeakerTrap-L.png"
     }
   },
@@ -10305,7 +10305,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_speaker_vr_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Wall-SpeakerTrap.T-Icon-Weapons-Wall-SpeakerTrap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Wall-SpeakerTrap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Wall-SpeakerTrap-L.png"
     }
   },
@@ -10337,7 +10337,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_speaker_vr_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Wall-SpeakerTrap.T-Icon-Weapons-Wall-SpeakerTrap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Wall-SpeakerTrap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Wall-SpeakerTrap-L.png"
     }
   },
@@ -10369,7 +10369,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_speaker_vr_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Wall-SpeakerTrap.T-Icon-Weapons-Wall-SpeakerTrap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Wall-SpeakerTrap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Wall-SpeakerTrap-L.png"
     }
   },
@@ -10401,7 +10401,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_speaker_vr_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Wall-SpeakerTrap.T-Icon-Weapons-Wall-SpeakerTrap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Wall-SpeakerTrap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Wall-SpeakerTrap-L.png"
     }
   },
@@ -10433,7 +10433,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_speaker_vr_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Wall-SpeakerTrap.T-Icon-Weapons-Wall-SpeakerTrap",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Wall-SpeakerTrap.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Wall-SpeakerTrap-L.png"
     }
   },
@@ -10465,7 +10465,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_spikes_r_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-Spike-Trap-Floor-Base.T-Icon-Weapons-Spike-Trap-Floor-Base",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-Spike-Trap-Floor-Base.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-Spike-Trap-Floor-Base-L.png"
     }
   },
@@ -10497,7 +10497,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_wood_spikes_c_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Wood-Wall-Spike-SM.T-Icon-Weapons-S-Wood-Wall-Spike-SM",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Wood-Wall-Spike-SM.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Wood-Wall-Spike-SM-L.png"
     }
   },
@@ -10529,7 +10529,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_wood_spikes_c_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Wood-Wall-Spike-SM.T-Icon-Weapons-S-Wood-Wall-Spike-SM",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Wood-Wall-Spike-SM.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Wood-Wall-Spike-SM-L.png"
     }
   },
@@ -10561,7 +10561,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_wood_spikes_r_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Wood-Wall-Spike-SM.T-Icon-Weapons-S-Wood-Wall-Spike-SM",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Wood-Wall-Spike-SM.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Wood-Wall-Spike-SM-L.png"
     }
   },
@@ -10593,7 +10593,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_wood_spikes_r_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Wood-Wall-Spike-SM.T-Icon-Weapons-S-Wood-Wall-Spike-SM",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Wood-Wall-Spike-SM.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Wood-Wall-Spike-SM-L.png"
     }
   },
@@ -10625,7 +10625,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_wood_spikes_r_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Wood-Wall-Spike-SM.T-Icon-Weapons-S-Wood-Wall-Spike-SM",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Wood-Wall-Spike-SM.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Wood-Wall-Spike-SM-L.png"
     }
   },
@@ -10657,7 +10657,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_wood_spikes_r_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Wood-Wall-Spike-SM.T-Icon-Weapons-S-Wood-Wall-Spike-SM",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Wood-Wall-Spike-SM.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Wood-Wall-Spike-SM-L.png"
     }
   },
@@ -10689,7 +10689,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_wood_spikes_sr_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Wood-Wall-Spike-SM.T-Icon-Weapons-S-Wood-Wall-Spike-SM",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Wood-Wall-Spike-SM.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Wood-Wall-Spike-SM-L.png"
     }
   },
@@ -10721,7 +10721,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_wood_spikes_sr_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Wood-Wall-Spike-SM.T-Icon-Weapons-S-Wood-Wall-Spike-SM",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Wood-Wall-Spike-SM.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Wood-Wall-Spike-SM-L.png"
     }
   },
@@ -10753,7 +10753,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_wood_spikes_sr_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Wood-Wall-Spike-SM.T-Icon-Weapons-S-Wood-Wall-Spike-SM",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Wood-Wall-Spike-SM.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Wood-Wall-Spike-SM-L.png"
     }
   },
@@ -10785,7 +10785,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_wood_spikes_sr_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Wood-Wall-Spike-SM.T-Icon-Weapons-S-Wood-Wall-Spike-SM",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Wood-Wall-Spike-SM.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Wood-Wall-Spike-SM-L.png"
     }
   },
@@ -10817,7 +10817,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_wood_spikes_sr_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Wood-Wall-Spike-SM.T-Icon-Weapons-S-Wood-Wall-Spike-SM",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Wood-Wall-Spike-SM.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Wood-Wall-Spike-SM-L.png"
     }
   },
@@ -10849,7 +10849,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_wood_spikes_uc_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Wood-Wall-Spike-SM.T-Icon-Weapons-S-Wood-Wall-Spike-SM",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Wood-Wall-Spike-SM.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Wood-Wall-Spike-SM-L.png"
     }
   },
@@ -10881,7 +10881,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_wood_spikes_uc_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Wood-Wall-Spike-SM.T-Icon-Weapons-S-Wood-Wall-Spike-SM",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Wood-Wall-Spike-SM.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Wood-Wall-Spike-SM-L.png"
     }
   },
@@ -10913,7 +10913,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_wood_spikes_uc_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Wood-Wall-Spike-SM.T-Icon-Weapons-S-Wood-Wall-Spike-SM",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Wood-Wall-Spike-SM.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Wood-Wall-Spike-SM-L.png"
     }
   },
@@ -10945,7 +10945,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_wood_spikes_vr_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Wood-Wall-Spike-SM.T-Icon-Weapons-S-Wood-Wall-Spike-SM",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Wood-Wall-Spike-SM.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Wood-Wall-Spike-SM-L.png"
     }
   },
@@ -10977,7 +10977,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_wood_spikes_vr_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Wood-Wall-Spike-SM.T-Icon-Weapons-S-Wood-Wall-Spike-SM",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Wood-Wall-Spike-SM.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Wood-Wall-Spike-SM-L.png"
     }
   },
@@ -11009,7 +11009,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_wood_spikes_vr_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Wood-Wall-Spike-SM.T-Icon-Weapons-S-Wood-Wall-Spike-SM",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Wood-Wall-Spike-SM.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Wood-Wall-Spike-SM-L.png"
     }
   },
@@ -11041,7 +11041,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_wood_spikes_vr_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Wood-Wall-Spike-SM.T-Icon-Weapons-S-Wood-Wall-Spike-SM",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Wood-Wall-Spike-SM.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Wood-Wall-Spike-SM-L.png"
     }
   },
@@ -11073,7 +11073,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/traps/wall/tid_wall_wood_spikes_vr_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-S-Wood-Wall-Spike-SM.T-Icon-Weapons-S-Wood-Wall-Spike-SM",
+      "SmallPreview": "ExportedImages\\T-Icon-Weapons-S-Wood-Wall-Spike-SM.png",
       "LargePreview": "ExportedImages\\T-Icon-Weapons-S-Wood-Wall-Spike-SM-L.png"
     }
   }

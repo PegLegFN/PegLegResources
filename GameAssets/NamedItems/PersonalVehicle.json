@@ -8,7 +8,7 @@
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/hoverboard/vid_hoverboard.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Skydiving/T-Icon_Traveling-S-HoverBoard.T-Icon_Traveling-S-HoverBoard",
+      "SmallPreview": "ExportedImages\\T-Icon_Traveling-S-HoverBoard.png",
       "LargePreview": "ExportedImages\\T-Icon_Traveling-S-HoverBoard-L.png"
     }
   },

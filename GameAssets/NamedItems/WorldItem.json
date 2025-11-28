@@ -8,7 +8,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/content/items/resourcepickups/golditemdata.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T-Icon-S-Loot-GoldCurrency.T-Icon-S-Loot-GoldCurrency",
+      "SmallPreview": "ExportedImages\\T-Icon-S-Loot-GoldCurrency.png",
       "LargePreview": "ExportedImages\\T-Icon-S-Loot-GoldCurrency-L.png"
     }
   },
@@ -21,7 +21,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/content/items/resourcepickups/metalitemdata.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T-Icon-IBeam.T-Icon-IBeam",
+      "SmallPreview": "ExportedImages\\T-Icon-IBeam.png",
       "LargePreview": "ExportedImages\\T-Icon-IBeam-L.png"
     }
   },
@@ -33,7 +33,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/content/items/resourcepickups/permaniteitemdata.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/UI_PlaceholderIcons/Icon_Permanite.Icon_Permanite",
+      "SmallPreview": "ExportedImages\\Icon_Permanite.png",
       "LargePreview": "ExportedImages\\Icon_Permanite.png"
     }
   },
@@ -46,7 +46,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/content/items/resourcepickups/stoneitemdata.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T-Icon-S-Loot-Stone.T-Icon-S-Loot-Stone",
+      "SmallPreview": "ExportedImages\\T-Icon-S-Loot-Stone.png",
       "LargePreview": "ExportedImages\\T-Icon-S-Loot-Stone-L.png"
     }
   },
@@ -59,7 +59,7 @@
     "Rarity": "Mythic",
     "AssetPath": "fortnitegame/content/items/resourcepickups/survivoritemdata.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Icons/Icon-Worker/Icon-Worker-L.Icon-Worker-L",
+      "SmallPreview": "ExportedImages\\Icon-Worker-L.png",
       "LargePreview": "ExportedImages\\Icon-Worker-L.png"
     }
   },
@@ -72,7 +72,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/content/items/resourcepickups/wooditemdata.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T-Icon-Logs.T-Icon-Logs",
+      "SmallPreview": "ExportedImages\\T-Icon-Logs.png",
       "LargePreview": "ExportedImages\\T-Icon-Logs-L.png"
     }
   }

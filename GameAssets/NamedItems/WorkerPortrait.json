@@ -6,7 +6,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-managerportrait-doctor-f01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/T-Icon-Leaders-Portrait-Doctor-Female.T-Icon-Leaders-Portrait-Doctor-Female",
+      "SmallPreview": "ExportedImages\\T-Icon-Leaders-Portrait-Doctor-Female.png",
       "LargePreview": "ExportedImages\\T-Icon-Leaders-Portrait-Doctor-Female-L.png"
     }
   },
@@ -17,7 +17,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-managerportrait-doctor-m01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/T-Icon-Leaders-Portrait-Doctor-Male.T-Icon-Leaders-Portrait-Doctor-Male",
+      "SmallPreview": "ExportedImages\\T-Icon-Leaders-Portrait-Doctor-Male.png",
       "LargePreview": "ExportedImages\\T-Icon-Leaders-Portrait-Doctor-Male-L.png"
     }
   },
@@ -28,7 +28,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-managerportrait-engineer-f01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/T-Icon-Leaders-Portrait-Engineer-Female.T-Icon-Leaders-Portrait-Engineer-Female",
+      "SmallPreview": "ExportedImages\\T-Icon-Leaders-Portrait-Engineer-Female.png",
       "LargePreview": "ExportedImages\\T-Icon-Leaders-Portrait-Engineer-Female-L.png"
     }
   },
@@ -39,7 +39,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-managerportrait-engineer-m01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/T-Icon-Leaders-Portrait-Engineer-Male.T-Icon-Leaders-Portrait-Engineer-Male",
+      "SmallPreview": "ExportedImages\\T-Icon-Leaders-Portrait-Engineer-Male.png",
       "LargePreview": "ExportedImages\\T-Icon-Leaders-Portrait-Engineer-Male-L.png"
     }
   },
@@ -50,7 +50,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-managerportrait-explorer-f01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/T-Icon-Leaders-Portrait-Explorer-Female.T-Icon-Leaders-Portrait-Explorer-Female",
+      "SmallPreview": "ExportedImages\\T-Icon-Leaders-Portrait-Explorer-Female.png",
       "LargePreview": "ExportedImages\\T-Icon-Leaders-Portrait-Explorer-Female-L.png"
     }
   },
@@ -61,7 +61,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-managerportrait-explorer-m01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/T-Icon-Leaders-Portrait-Explorer-Male.T-Icon-Leaders-Portrait-Explorer-Male",
+      "SmallPreview": "ExportedImages\\T-Icon-Leaders-Portrait-Explorer-Male.png",
       "LargePreview": "ExportedImages\\T-Icon-Leaders-Portrait-Explorer-Male-L.png"
     }
   },
@@ -72,7 +72,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-managerportrait-gadgeteer-f01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/T-Icon-Leaders-Portrait-Gadgeteer-Female.T-Icon-Leaders-Portrait-Gadgeteer-Female",
+      "SmallPreview": "ExportedImages\\T-Icon-Leaders-Portrait-Gadgeteer-Female.png",
       "LargePreview": "ExportedImages\\T-Icon-Leaders-Portrait-Gadgeteer-Female-L.png"
     }
   },
@@ -83,7 +83,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-managerportrait-gadgeteer-m01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/T-Icon-Leaders-Portrait-Gadgeteer-Male.T-Icon-Leaders-Portrait-Gadgeteer-Male",
+      "SmallPreview": "ExportedImages\\T-Icon-Leaders-Portrait-Gadgeteer-Male.png",
       "LargePreview": "ExportedImages\\T-Icon-Leaders-Portrait-Gadgeteer-Male-L.png"
     }
   },
@@ -94,7 +94,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-managerportrait-inventor-f01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/T-Icon-Leaders-Portrait-Inventor-Female.T-Icon-Leaders-Portrait-Inventor-Female",
+      "SmallPreview": "ExportedImages\\T-Icon-Leaders-Portrait-Inventor-Female.png",
       "LargePreview": "ExportedImages\\T-Icon-Leaders-Portrait-Inventor-Female-L.png"
     }
   },
@@ -105,7 +105,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-managerportrait-inventor-m01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/T-Icon-Leaders-Portrait-Inventor-Male.T-Icon-Leaders-Portrait-Inventor-Male",
+      "SmallPreview": "ExportedImages\\T-Icon-Leaders-Portrait-Inventor-Male.png",
       "LargePreview": "ExportedImages\\T-Icon-Leaders-Portrait-Inventor-Male-L.png"
     }
   },
@@ -116,7 +116,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-managerportrait-marksman-f01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/T-Icon-Leaders-Portrait-Soldier-Female.T-Icon-Leaders-Portrait-Soldier-Female",
+      "SmallPreview": "ExportedImages\\T-Icon-Leaders-Portrait-Soldier-Female.png",
       "LargePreview": "ExportedImages\\T-Icon-Leaders-Portrait-Soldier-Female-L.png"
     }
   },
@@ -127,7 +127,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-managerportrait-marksman-m01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/T-Icon-Leaders-Portrait-Soldier-Male.T-Icon-Leaders-Portrait-Soldier-Male",
+      "SmallPreview": "ExportedImages\\T-Icon-Leaders-Portrait-Soldier-Male.png",
       "LargePreview": "ExportedImages\\T-Icon-Leaders-Portrait-Soldier-Male-L.png"
     }
   },
@@ -138,7 +138,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-managerportrait-martialartist-f01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/T-Icon-Leaders-Portrait-MartialArtist-Female.T-Icon-Leaders-Portrait-MartialArtist-Female",
+      "SmallPreview": "ExportedImages\\T-Icon-Leaders-Portrait-MartialArtist-Female.png",
       "LargePreview": "ExportedImages\\T-Icon-Leaders-Portrait-MartialArtist-Female-L.png"
     }
   },
@@ -149,7 +149,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-managerportrait-martialartist-m01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/T-Icon-Leaders-Portrait-MartialArtist-Male.T-Icon-Leaders-Portrait-MartialArtist-Male",
+      "SmallPreview": "ExportedImages\\T-Icon-Leaders-Portrait-MartialArtist-Male.png",
       "LargePreview": "ExportedImages\\T-Icon-Leaders-Portrait-MartialArtist-Male-L.png"
     }
   },
@@ -160,7 +160,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-managerportrait-personaltrainer-f01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/T-Icon-Leaders-Portrait-Trainer-Female.T-Icon-Leaders-Portrait-Trainer-Female",
+      "SmallPreview": "ExportedImages\\T-Icon-Leaders-Portrait-Trainer-Female.png",
       "LargePreview": "ExportedImages\\T-Icon-Leaders-Portrait-Trainer-Female-L.png"
     }
   },
@@ -171,7 +171,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-managerportrait-personaltrainer-m01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/T-Icon-Leaders-Portrait-Trainer-Male.T-Icon-Leaders-Portrait-Trainer-Male",
+      "SmallPreview": "ExportedImages\\T-Icon-Leaders-Portrait-Trainer-Male.png",
       "LargePreview": "ExportedImages\\T-Icon-Leaders-Portrait-Trainer-Male-L.png"
     }
   },
@@ -182,7 +182,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-managerportrait-sr-doctor-kingsly.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-MartyKingsly.T-SR-MartyKingsly",
+      "SmallPreview": "ExportedImages\\T-SR-MartyKingsly.png",
       "LargePreview": "ExportedImages\\T-SR-MartyKingsly-L.png"
     }
   },
@@ -193,7 +193,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-managerportrait-sr-doctor-noctor.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-GregoryFry-128.T-SR-GregoryFry-128",
+      "SmallPreview": "ExportedImages\\T-SR-GregoryFry-128.png",
       "LargePreview": "ExportedImages\\T-SR-GregoryFry-L.png"
     }
   },
@@ -204,7 +204,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-managerportrait-sr-doctor-treky.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-MayJenson.T-SR-MayJenson",
+      "SmallPreview": "ExportedImages\\T-SR-MayJenson.png",
       "LargePreview": "ExportedImages\\T-SR-MayJenson-L.png"
     }
   },
@@ -215,7 +215,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-managerportrait-sr-engineer-countess.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-TessaLace-128.T-SR-TessaLace-128",
+      "SmallPreview": "ExportedImages\\T-SR-TessaLace-128.png",
       "LargePreview": "ExportedImages\\T-SR-TessaLace-L.png"
     }
   },
@@ -226,7 +226,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-managerportrait-sr-engineer-maths.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-EmmaNolen-128.T-SR-EmmaNolen-128",
+      "SmallPreview": "ExportedImages\\T-SR-EmmaNolen-128.png",
       "LargePreview": "ExportedImages\\T-SR-EmmaNolen-L.png"
     }
   },
@@ -237,7 +237,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-managerportrait-sr-engineer-sobs.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-StephenSerif-128.T-SR-StephenSerif-128",
+      "SmallPreview": "ExportedImages\\T-SR-StephenSerif-128.png",
       "LargePreview": "ExportedImages\\T-SR-StephenSerif-L.png"
     }
   },
@@ -248,7 +248,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-managerportrait-sr-explorer-birdie.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-LizetteGale.T-SR-LizetteGale",
+      "SmallPreview": "ExportedImages\\T-SR-LizetteGale.png",
       "LargePreview": "ExportedImages\\T-SR-LizetteGale-L.png"
     }
   },
@@ -259,7 +259,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-managerportrait-sr-explorer-eagle.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-AmyKimmer-128.T-SR-AmyKimmer-128",
+      "SmallPreview": "ExportedImages\\T-SR-AmyKimmer-128.png",
       "LargePreview": "ExportedImages\\T-SR-AmyKimmer-L.png"
     }
   },
@@ -270,7 +270,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-managerportrait-sr-explorer-spacebound.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-NeilKepler.T-SR-NeilKepler",
+      "SmallPreview": "ExportedImages\\T-SR-NeilKepler.png",
       "LargePreview": "ExportedImages\\T-SR-NeilKepler-L.png"
     }
   },
@@ -281,7 +281,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-managerportrait-sr-gadgeteer-fixer.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-HamletMcKinney.T-SR-HamletMcKinney",
+      "SmallPreview": "ExportedImages\\T-SR-HamletMcKinney.png",
       "LargePreview": "ExportedImages\\T-SR-HamletMcKinney-L.png"
     }
   },
@@ -292,7 +292,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-managerportrait-sr-gadgeteer-flak.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-KellySolek-128.T-SR-KellySolek-128",
+      "SmallPreview": "ExportedImages\\T-SR-KellySolek-128.png",
       "LargePreview": "ExportedImages\\T-SR-KellySolek-L.png"
     }
   },
@@ -303,7 +303,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-managerportrait-sr-gadgeteer-zapps.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-EllieClerk.T-SR-EllieClerk",
+      "SmallPreview": "ExportedImages\\T-SR-EllieClerk.png",
       "LargePreview": "ExportedImages\\T-SR-EllieClerk-L.png"
     }
   },
@@ -314,7 +314,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-managerportrait-sr-inventor-frequency.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-NickGolub-128.T-SR-NickGolub-128",
+      "SmallPreview": "ExportedImages\\T-SR-NickGolub-128.png",
       "LargePreview": "ExportedImages\\T-SR-NickGolub-L.png"
     }
   },
@@ -325,7 +325,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-managerportrait-sr-inventor-rad.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-CaryMary.T-SR-CaryMary",
+      "SmallPreview": "ExportedImages\\T-SR-CaryMary.png",
       "LargePreview": "ExportedImages\\T-SR-CaryMary-L.png"
     }
   },
@@ -336,7 +336,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-managerportrait-sr-inventor-square.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-AlfredBohr.T-SR-AlfredBohr",
+      "SmallPreview": "ExportedImages\\T-SR-AlfredBohr.png",
       "LargePreview": "ExportedImages\\T-SR-AlfredBohr-L.png"
     }
   },
@@ -347,7 +347,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-managerportrait-sr-martialartist-dragon.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-SieLung.T-SR-SieLung",
+      "SmallPreview": "ExportedImages\\T-SR-SieLung.png",
       "LargePreview": "ExportedImages\\T-SR-SieLung-L.png"
     }
   },
@@ -358,7 +358,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-managerportrait-sr-martialartist-samurai.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-JiroTofune.T-SR-JiroTofune",
+      "SmallPreview": "ExportedImages\\T-SR-JiroTofune.png",
       "LargePreview": "ExportedImages\\T-SR-JiroTofune-L.png"
     }
   },
@@ -369,7 +369,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-managerportrait-sr-martialartist-tiger.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-MaximoDislocar.T-SR-MaximoDislocar",
+      "SmallPreview": "ExportedImages\\T-SR-MaximoDislocar.png",
       "LargePreview": "ExportedImages\\T-SR-MaximoDislocar-L.png"
     }
   },
@@ -380,7 +380,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-managerportrait-sr-personaltrainer-jumpy.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-TaeBowman.T-SR-TaeBowman",
+      "SmallPreview": "ExportedImages\\T-SR-TaeBowman.png",
       "LargePreview": "ExportedImages\\T-SR-TaeBowman-L.png"
     }
   },
@@ -391,7 +391,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-managerportrait-sr-personaltrainer-raider.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-LaraJones.T-SR-LaraJones",
+      "SmallPreview": "ExportedImages\\T-SR-LaraJones.png",
       "LargePreview": "ExportedImages\\T-SR-LaraJones-L.png"
     }
   },
@@ -402,7 +402,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-managerportrait-sr-personaltrainer-yoglattes.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-MichelleJillard.T-SR-MichelleJillard",
+      "SmallPreview": "ExportedImages\\T-SR-MichelleJillard.png",
       "LargePreview": "ExportedImages\\T-SR-MichelleJillard-L.png"
     }
   },
@@ -413,7 +413,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-managerportrait-sr-soldier-malcolm.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-Malcolm.T-SR-Malcolm",
+      "SmallPreview": "ExportedImages\\T-SR-Malcolm.png",
       "LargePreview": "ExportedImages\\T-SR-Malcolm-L.png"
     }
   },
@@ -424,7 +424,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-managerportrait-sr-soldier-princess.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-LaceyChaos-128.T-SR-LaceyChaos-128",
+      "SmallPreview": "ExportedImages\\T-SR-LaceyChaos-128.png",
       "LargePreview": "ExportedImages\\T-SR-LaceyChaos-L.png"
     }
   },
@@ -435,7 +435,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-managerportrait-sr-soldier-ramsie.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-SR-RamsayBowers.T-SR-RamsayBowers",
+      "SmallPreview": "ExportedImages\\T-SR-RamsayBowers.png",
       "LargePreview": "ExportedImages\\T-SR-RamsayBowers-L.png"
     }
   },
@@ -446,7 +446,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-workerportrait-adventurous-f01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/T-Icon-Workers-Portrait-Worker-Adventurous-F01.T-Icon-Workers-Portrait-Worker-Adventurous-F01",
+      "SmallPreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Adventurous-F01.png",
       "LargePreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Adventurous-F01-L.png"
     }
   },
@@ -457,7 +457,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-workerportrait-adventurous-f02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/T-Icon-Workers-Portrait-Worker-Adventurous-F02.T-Icon-Workers-Portrait-Worker-Adventurous-F02",
+      "SmallPreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Adventurous-F02.png",
       "LargePreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Adventurous-F02-L.png"
     }
   },
@@ -468,7 +468,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-workerportrait-adventurous-f03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/T-Icon-Workers-Portrait-Worker-Adventurous-F03.T-Icon-Workers-Portrait-Worker-Adventurous-F03",
+      "SmallPreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Adventurous-F03.png",
       "LargePreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Adventurous-F03-L.png"
     }
   },
@@ -479,7 +479,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-workerportrait-adventurous-m01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/T-Icon-Workers-Portrait-Worker-Adventurous-M01.T-Icon-Workers-Portrait-Worker-Adventurous-M01",
+      "SmallPreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Adventurous-M01.png",
       "LargePreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Adventurous-M01-L.png"
     }
   },
@@ -490,7 +490,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-workerportrait-adventurous-m02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/T-Icon-Workers-Portrait-Worker-Adventurous-M02.T-Icon-Workers-Portrait-Worker-Adventurous-M02",
+      "SmallPreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Adventurous-M02.png",
       "LargePreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Adventurous-M02-L.png"
     }
   },
@@ -501,7 +501,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-workerportrait-adventurous-m03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/T-Icon-Workers-Portrait-Worker-Adventurous-M03.T-Icon-Workers-Portrait-Worker-Adventurous-M03",
+      "SmallPreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Adventurous-M03.png",
       "LargePreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Adventurous-M03-L.png"
     }
   },
@@ -512,7 +512,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-workerportrait-analytical-f01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/T-Icon-Workers-Portrait-Worker-Analytical-F01.T-Icon-Workers-Portrait-Worker-Analytical-F01",
+      "SmallPreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Analytical-F01.png",
       "LargePreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Analytical-F01-L.png"
     }
   },
@@ -523,7 +523,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-workerportrait-analytical-f02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/T-Icon-Workers-Portrait-Worker-Analytical-F02.T-Icon-Workers-Portrait-Worker-Analytical-F02",
+      "SmallPreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Analytical-F02.png",
       "LargePreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Analytical-F02-L.png"
     }
   },
@@ -534,7 +534,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-workerportrait-analytical-f03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/T-Icon-Workers-Portrait-Worker-Analytical-F03.T-Icon-Workers-Portrait-Worker-Analytical-F03",
+      "SmallPreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Analytical-F03.png",
       "LargePreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Analytical-F03-L.png"
     }
   },
@@ -545,7 +545,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-workerportrait-analytical-m01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/T-Icon-Workers-Portrait-Worker-Analytical-M01.T-Icon-Workers-Portrait-Worker-Analytical-M01",
+      "SmallPreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Analytical-M01.png",
       "LargePreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Analytical-M01-L.png"
     }
   },
@@ -556,7 +556,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-workerportrait-analytical-m02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/T-Icon-Workers-Portrait-Worker-Analytical-M02.T-Icon-Workers-Portrait-Worker-Analytical-M02",
+      "SmallPreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Analytical-M02.png",
       "LargePreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Analytical-M02-L.png"
     }
   },
@@ -567,7 +567,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-workerportrait-analytical-m03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/T-Icon-Workers-Portrait-Worker-Analytical-M03.T-Icon-Workers-Portrait-Worker-Analytical-M03",
+      "SmallPreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Analytical-M03.png",
       "LargePreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Analytical-M03-L.png"
     }
   },
@@ -578,7 +578,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-workerportrait-competitive-f01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/T-Icon-Workers-Portrait-Worker-Competitive-F01.T-Icon-Workers-Portrait-Worker-Competitive-F01",
+      "SmallPreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Competitive-F01.png",
       "LargePreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Competitive-F01-L.png"
     }
   },
@@ -589,7 +589,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-workerportrait-competitive-f02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/T-Icon-Workers-Portrait-Worker-Competitive-F02.T-Icon-Workers-Portrait-Worker-Competitive-F02",
+      "SmallPreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Competitive-F02.png",
       "LargePreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Competitive-F02-L.png"
     }
   },
@@ -600,7 +600,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-workerportrait-competitive-f03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/T-Icon-Workers-Portrait-Worker-Competitive-F03.T-Icon-Workers-Portrait-Worker-Competitive-F03",
+      "SmallPreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Competitive-F03.png",
       "LargePreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Competitive-F03-L.png"
     }
   },
@@ -611,7 +611,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-workerportrait-competitive-m01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/T-Icon-Workers-Portrait-Worker-Competitive-M01.T-Icon-Workers-Portrait-Worker-Competitive-M01",
+      "SmallPreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Competitive-M01.png",
       "LargePreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Competitive-M01-L.png"
     }
   },
@@ -622,7 +622,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-workerportrait-competitive-m02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/T-Icon-Workers-Portrait-Worker-Competitive-M02.T-Icon-Workers-Portrait-Worker-Competitive-M02",
+      "SmallPreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Competitive-M02.png",
       "LargePreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Competitive-M02-L.png"
     }
   },
@@ -633,7 +633,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-workerportrait-competitive-m03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/T-Icon-Workers-Portrait-Worker-Competitive-M03.T-Icon-Workers-Portrait-Worker-Competitive-M03",
+      "SmallPreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Competitive-M03.png",
       "LargePreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Competitive-M03-L.png"
     }
   },
@@ -644,7 +644,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-workerportrait-cooperative-f01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/T-Icon-Workers-Portrait-Worker-Cooperative-F01.T-Icon-Workers-Portrait-Worker-Cooperative-F01",
+      "SmallPreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Cooperative-F01.png",
       "LargePreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Cooperative-F01-L.png"
     }
   },
@@ -655,7 +655,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-workerportrait-cooperative-f02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/T-Icon-Workers-Portrait-Worker-Cooperative-F02.T-Icon-Workers-Portrait-Worker-Cooperative-F02",
+      "SmallPreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Cooperative-F02.png",
       "LargePreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Cooperative-F02-L.png"
     }
   },
@@ -666,7 +666,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-workerportrait-cooperative-f03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/T-Icon-Workers-Portrait-Worker-Cooperative-F03.T-Icon-Workers-Portrait-Worker-Cooperative-F03",
+      "SmallPreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Cooperative-F03.png",
       "LargePreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Cooperative-F03-L.png"
     }
   },
@@ -677,7 +677,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-workerportrait-cooperative-m01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/T-Icon-Workers-Portrait-Worker-Cooperative-M01.T-Icon-Workers-Portrait-Worker-Cooperative-M01",
+      "SmallPreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Cooperative-M01.png",
       "LargePreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Cooperative-M01-L.png"
     }
   },
@@ -688,7 +688,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-workerportrait-cooperative-m02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/T-Icon-Workers-Portrait-Worker-Cooperative-M02.T-Icon-Workers-Portrait-Worker-Cooperative-M02",
+      "SmallPreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Cooperative-M02.png",
       "LargePreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Cooperative-M02-L.png"
     }
   },
@@ -699,7 +699,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-workerportrait-cooperative-m03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/T-Icon-Workers-Portrait-Worker-Cooperative-M03.T-Icon-Workers-Portrait-Worker-Cooperative-M03",
+      "SmallPreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Cooperative-M03.png",
       "LargePreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Cooperative-M03-L.png"
     }
   },
@@ -710,7 +710,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-workerportrait-curious-f01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/T-Icon-Workers-Portrait-Worker-Curious-F01.T-Icon-Workers-Portrait-Worker-Curious-F01",
+      "SmallPreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Curious-F01.png",
       "LargePreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Curious-F01-L.png"
     }
   },
@@ -721,7 +721,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-workerportrait-curious-f02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/T-Icon-Workers-Portrait-Worker-Curious-F02.T-Icon-Workers-Portrait-Worker-Curious-F02",
+      "SmallPreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Curious-F02.png",
       "LargePreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Curious-F02-L.png"
     }
   },
@@ -732,7 +732,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-workerportrait-curious-f03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/T-Icon-Workers-Portrait-Worker-Curious-F03.T-Icon-Workers-Portrait-Worker-Curious-F03",
+      "SmallPreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Curious-F03.png",
       "LargePreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Curious-F03-L.png"
     }
   },
@@ -743,7 +743,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-workerportrait-curious-m01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/T-Icon-Workers-Portrait-Worker-Curious-M01.T-Icon-Workers-Portrait-Worker-Curious-M01",
+      "SmallPreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Curious-M01.png",
       "LargePreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Curious-M01-L.png"
     }
   },
@@ -754,7 +754,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-workerportrait-curious-m02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/T-Icon-Workers-Portrait-Worker-Curious-M02.T-Icon-Workers-Portrait-Worker-Curious-M02",
+      "SmallPreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Curious-M02.png",
       "LargePreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Curious-M02-L.png"
     }
   },
@@ -765,7 +765,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-workerportrait-curious-m03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/T-Icon-Workers-Portrait-Worker-Curious-M03.T-Icon-Workers-Portrait-Worker-Curious-M03",
+      "SmallPreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Curious-M03.png",
       "LargePreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Curious-M03-L.png"
     }
   },
@@ -776,7 +776,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-workerportrait-dependable-f01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/T-Icon-Workers-Portrait-Worker-Dependable-F01.T-Icon-Workers-Portrait-Worker-Dependable-F01",
+      "SmallPreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Dependable-F01.png",
       "LargePreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Dependable-F01-L.png"
     }
   },
@@ -787,7 +787,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-workerportrait-dependable-f02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/T-Icon-Workers-Portrait-Worker-Dependable-F02.T-Icon-Workers-Portrait-Worker-Dependable-F02",
+      "SmallPreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Dependable-F02.png",
       "LargePreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Dependable-F02-L.png"
     }
   },
@@ -798,7 +798,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-workerportrait-dependable-f03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/T-Icon-Workers-Portrait-Worker-Dependable-F03.T-Icon-Workers-Portrait-Worker-Dependable-F03",
+      "SmallPreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Dependable-F03.png",
       "LargePreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Dependable-F03-L.png"
     }
   },
@@ -809,7 +809,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-workerportrait-dependable-m01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/T-Icon-Workers-Portrait-Worker-Dependable-M01.T-Icon-Workers-Portrait-Worker-Dependable-M01",
+      "SmallPreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Dependable-M01.png",
       "LargePreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Dependable-M01-L.png"
     }
   },
@@ -820,7 +820,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-workerportrait-dependable-m02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/T-Icon-Workers-Portrait-Worker-Dependable-M02.T-Icon-Workers-Portrait-Worker-Dependable-M02",
+      "SmallPreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Dependable-M02.png",
       "LargePreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Dependable-M02-L.png"
     }
   },
@@ -831,7 +831,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-workerportrait-dependable-m03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/T-Icon-Workers-Portrait-Worker-Dependable-M03.T-Icon-Workers-Portrait-Worker-Dependable-M03",
+      "SmallPreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Dependable-M03.png",
       "LargePreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Dependable-M03-L.png"
     }
   },
@@ -842,7 +842,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-workerportrait-dreamer-f01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/T-Icon-Workers-Portrait-Worker-Dreamer-F01.T-Icon-Workers-Portrait-Worker-Dreamer-F01",
+      "SmallPreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Dreamer-F01.png",
       "LargePreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Dreamer-F01-L.png"
     }
   },
@@ -853,7 +853,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-workerportrait-dreamer-f02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/T-Icon-Workers-Portrait-Worker-Dreamer-F02.T-Icon-Workers-Portrait-Worker-Dreamer-F02",
+      "SmallPreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Dreamer-F02.png",
       "LargePreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Dreamer-F02-L.png"
     }
   },
@@ -864,7 +864,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-workerportrait-dreamer-f03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/T-Icon-Workers-Portrait-Worker-Dreamer-F03.T-Icon-Workers-Portrait-Worker-Dreamer-F03",
+      "SmallPreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Dreamer-F03.png",
       "LargePreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Dreamer-F03-L.png"
     }
   },
@@ -875,7 +875,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-workerportrait-dreamer-m01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/T-Icon-Workers-Portrait-Worker-Dreamer-M01.T-Icon-Workers-Portrait-Worker-Dreamer-M01",
+      "SmallPreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Dreamer-M01.png",
       "LargePreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Dreamer-M01-L.png"
     }
   },
@@ -886,7 +886,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-workerportrait-dreamer-m02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/T-Icon-Workers-Portrait-Worker-Dreamer-M02.T-Icon-Workers-Portrait-Worker-Dreamer-M02",
+      "SmallPreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Dreamer-M02.png",
       "LargePreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Dreamer-M02-L.png"
     }
   },
@@ -897,7 +897,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-workerportrait-dreamer-m03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/T-Icon-Workers-Portrait-Worker-Dreamer-M03.T-Icon-Workers-Portrait-Worker-Dreamer-M03",
+      "SmallPreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Dreamer-M03.png",
       "LargePreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Dreamer-M03-L.png"
     }
   },
@@ -908,7 +908,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-workerportrait-husk.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Classes/Icon-Husk/Icon-Class-Husk-Headshot.Icon-Class-Husk-Headshot",
+      "SmallPreview": "ExportedImages\\Icon-Class-Husk-Headshot.png",
       "LargePreview": "ExportedImages\\Icon-Class-Husk-Headshot.png"
     }
   },
@@ -919,7 +919,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-workerportrait-husky.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Classes/Icon-Husk/Icon-Class-Husk-Husky-Headshot.Icon-Class-Husk-Husky-Headshot",
+      "SmallPreview": "ExportedImages\\Icon-Class-Husk-Husky-Headshot.png",
       "LargePreview": "ExportedImages\\Icon-Class-Husk-Husky-Headshot.png"
     }
   },
@@ -930,7 +930,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-workerportrait-leprechaun.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/SR/T-Leprechaun.T-Leprechaun",
+      "SmallPreview": "ExportedImages\\T-Leprechaun.png",
       "LargePreview": "ExportedImages\\T-Leprechaun-L.png"
     }
   },
@@ -941,7 +941,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-workerportrait-lobber.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Classes/Icon-Husk/Icon-Class-Husk-Lobber-Headshot.Icon-Class-Husk-Lobber-Headshot",
+      "SmallPreview": "ExportedImages\\Icon-Class-Husk-Lobber-Headshot.png",
       "LargePreview": "ExportedImages\\Icon-Class-Husk-Lobber-Headshot.png"
     }
   },
@@ -952,7 +952,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-workerportrait-pitcher.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Classes/Icon-Husk/Icon-Class-Husk-Pitcher-Headshot.Icon-Class-Husk-Pitcher-Headshot",
+      "SmallPreview": "ExportedImages\\Icon-Class-Husk-Pitcher-Headshot.png",
       "LargePreview": "ExportedImages\\Icon-Class-Husk-Pitcher-Headshot.png"
     }
   },
@@ -963,7 +963,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-workerportrait-pragmatic-f01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/T-Icon-Workers-Portrait-Worker-Pragmatic-F01.T-Icon-Workers-Portrait-Worker-Pragmatic-F01",
+      "SmallPreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Pragmatic-F01.png",
       "LargePreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Pragmatic-F01-L.png"
     }
   },
@@ -974,7 +974,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-workerportrait-pragmatic-f02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/T-Icon-Workers-Portrait-Worker-Pragmatic-F02.T-Icon-Workers-Portrait-Worker-Pragmatic-F02",
+      "SmallPreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Pragmatic-F02.png",
       "LargePreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Pragmatic-F02-L.png"
     }
   },
@@ -985,7 +985,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-workerportrait-pragmatic-f03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/T-Icon-Workers-Portrait-Worker-Pragmatic-F03.T-Icon-Workers-Portrait-Worker-Pragmatic-F03",
+      "SmallPreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Pragmatic-F03.png",
       "LargePreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Pragmatic-F03-L.png"
     }
   },
@@ -996,7 +996,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-workerportrait-pragmatic-m01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/T-Icon-Workers-Portrait-Worker-Pragmatic-M01.T-Icon-Workers-Portrait-Worker-Pragmatic-M01",
+      "SmallPreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Pragmatic-M01.png",
       "LargePreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Pragmatic-M01-L.png"
     }
   },
@@ -1007,7 +1007,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-workerportrait-pragmatic-m02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/T-Icon-Workers-Portrait-Worker-Pragmatic-M02.T-Icon-Workers-Portrait-Worker-Pragmatic-M02",
+      "SmallPreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Pragmatic-M02.png",
       "LargePreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Pragmatic-M02-L.png"
     }
   },
@@ -1018,7 +1018,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-workerportrait-pragmatic-m03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Workers/T-Icon-Workers-Portrait-Worker-Pragmatic-M03.T-Icon-Workers-Portrait-Worker-Pragmatic-M03",
+      "SmallPreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Pragmatic-M03.png",
       "LargePreview": "ExportedImages\\T-Icon-Workers-Portrait-Worker-Pragmatic-M03-L.png"
     }
   },
@@ -1029,7 +1029,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-workerportrait-smasher.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Classes/Icon-Husk/Icon-Class-Husk-Smasher-Headshot.Icon-Class-Husk-Smasher-Headshot",
+      "SmallPreview": "ExportedImages\\Icon-Class-Husk-Smasher-Headshot.png",
       "LargePreview": "ExportedImages\\Icon-Class-Husk-Smasher-Headshot.png"
     }
   },
@@ -1040,7 +1040,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/ui/icons/icon-worker/icondefinitions/icondef-workerportrait-troll.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Classes/Icon-Husk/Icon-Class-Husk-Troll-Headshot.Icon-Class-Husk-Troll-Headshot",
+      "SmallPreview": "ExportedImages\\Icon-Class-Husk-Troll-Headshot.png",
       "LargePreview": "ExportedImages\\Icon-Class-Husk-Troll-Headshot.png"
     }
   }

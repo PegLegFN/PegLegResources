@@ -8,7 +8,7 @@
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/unlockmodifiers/elementalzonefireenableitem.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-Elemental-Fire-64.T-Icon-Modifier-Neg-Elemental-Fire-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Neg-Elemental-Fire-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-Elemental-Fire-128.png"
     }
   },
@@ -21,7 +21,7 @@
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/unlockmodifiers/elementalzonenatureenableitem.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-Elemental-Nature-64.T-Icon-Modifier-Neg-Elemental-Nature-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Neg-Elemental-Nature-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-Elemental-Nature-128.png"
     }
   },
@@ -34,7 +34,7 @@
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/unlockmodifiers/elementalzonewaterenableitem.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-Elemental-Water-64.T-Icon-Modifier-Neg-Elemental-Water-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Neg-Elemental-Water-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-Elemental-Water-128.png"
     }
   },
@@ -46,7 +46,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_axe_damagebuff.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-Axe-Buff-64.T-Icon-Modifier-Pos-Axe-Buff-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Pos-Axe-Buff-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-Axe-Buff-128.png"
     }
   },
@@ -58,7 +58,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_basehusk_ondeath_explode.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-DeathBomb-64.T-Icon-Modifier-Neg-DeathBomb-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Neg-DeathBomb-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-DeathBomb-128.png"
     }
   },
@@ -70,7 +70,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_basehusk_ondmgdealt_metalcorrosion.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-Enemy-OnDmgDealt-MetalCorrosion-64.T-Icon-Modifier-Neg-Enemy-OnDmgDealt-MetalCorrosion-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Neg-Enemy-OnDmgDealt-MetalCorrosion-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-Enemy-OnDmgDealt-MetalCorrosion-128.png"
     }
   },
@@ -187,7 +187,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_bldg_ondeath_buffenemyenvdmg.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-1-M.Icon-Theater-1-M",
+      "SmallPreview": "ExportedImages\\Icon-Theater-1-M.png",
       "LargePreview": "ExportedImages\\Icon-Theater-1-M.png"
     }
   },
@@ -199,7 +199,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_constructor_blunt_damagebuff.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-Constructor-Blunt-Damage-Buff-64.T-Icon-Modifier-Pos-Constructor-Blunt-Damage-Buff-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Pos-Constructor-Blunt-Damage-Buff-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-Constructor-Blunt-Damage-Buff-128.png"
     }
   },
@@ -211,7 +211,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_constructor_buildcost_buff.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-Constructor-BuildCost-Buff-64.T-Icon-Modifier-Pos-Constructor-BuildCost-Buff-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Pos-Constructor-BuildCost-Buff-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-Constructor-BuildCost-Buff-128.png"
     }
   },
@@ -223,7 +223,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_constructor_damage_buff.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-Constructor-Damage-Buff-64.T-Icon-Modifier-Pos-Constructor-Damage-Buff-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Pos-Constructor-Damage-Buff-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-Constructor-Damage-Buff-128.png"
     }
   },
@@ -235,7 +235,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_constructor_hardware_damagebuff.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-Constructor-Blunt-Damage-Buff-64.T-Icon-Modifier-Pos-Constructor-Blunt-Damage-Buff-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Pos-Constructor-Blunt-Damage-Buff-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-Constructor-Blunt-Damage-Buff-128.png"
     }
   },
@@ -247,7 +247,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_constructor_tech_buff.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-1-M.Icon-Theater-1-M",
+      "SmallPreview": "ExportedImages\\Icon-Theater-1-M.png",
       "LargePreview": "ExportedImages\\Icon-Theater-1-M.png"
     }
   },
@@ -280,7 +280,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/attack/gm_enemy_abilitydmgincrease_minor.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-1-M.Icon-Theater-1-M",
+      "SmallPreview": "ExportedImages\\Icon-Theater-1-M.png",
       "LargePreview": "ExportedImages\\Icon-Theater-1-M.png"
     }
   },
@@ -292,7 +292,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_enemy_applyspeedmods.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-Enemy-OnDmgReceived-SpeedBuff-64.T-Icon-Modifier-Neg-Enemy-OnDmgReceived-SpeedBuff-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Neg-Enemy-OnDmgReceived-SpeedBuff-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-Enemy-OnDmgReceived-SpeedBuff-128.png"
     }
   },
@@ -304,7 +304,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_enemy_ccimmune.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-NoShields-64.T-Icon-Modifier-Neg-NoShields-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Neg-NoShields-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-NoShields-128.png"
     }
   },
@@ -316,7 +316,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_enemy_groundzero.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-3-M.Icon-Theater-3-M",
+      "SmallPreview": "ExportedImages\\Icon-Theater-3-M.png",
       "LargePreview": "ExportedImages\\Icon-Theater-3-M.png"
     }
   },
@@ -328,7 +328,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/defense/gm_enemy_health_stability_increase.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-EnemyHealthStabilityIncrease-64.T-Icon-Modifier-Neg-EnemyHealthStabilityIncrease-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Neg-EnemyHealthStabilityIncrease-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-EnemyHealthStabilityIncrease-128.png"
     }
   },
@@ -340,7 +340,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_enemy_hideonminimap.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-Enemy-HideOnMinimap-64.T-Icon-Modifier-Neg-Enemy-HideOnMinimap-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Neg-Enemy-HideOnMinimap-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-Enemy-HideOnMinimap-128.png"
     }
   },
@@ -352,7 +352,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_enemy_knockbackresist.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-Bldg-OnDeath-BuffEnemyEnvDmg-64.T-Icon-Modifier-Pos-Bldg-OnDeath-BuffEnemyEnvDmg-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Pos-Bldg-OnDeath-BuffEnemyEnvDmg-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-Bldg-OnDeath-BuffEnemyEnvDmg-128.png"
     }
   },
@@ -364,7 +364,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_enemy_level_variance.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-1-M.Icon-Theater-1-M",
+      "SmallPreview": "ExportedImages\\Icon-Theater-1-M.png",
       "LargePreview": "ExportedImages\\Icon-Theater-1-M.png"
     }
   },
@@ -376,7 +376,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/defense/gm_enemy_maxhealthincrease_major.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-MaxHealthIncrease-Major-64.T-Icon-Modifier-Neg-MaxHealthIncrease-Major-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Neg-MaxHealthIncrease-Major-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-MaxHealthIncrease-Major-128.png"
     }
   },
@@ -388,7 +388,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/defense/gm_enemy_maxhealthincrease_minor.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-MaxHealthIncrease-Minor-64.T-Icon-Modifier-Neg-MaxHealthIncrease-Minor-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Neg-MaxHealthIncrease-Minor-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-MaxHealthIncrease-Minor-128.png"
     }
   },
@@ -400,7 +400,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_enemy_ondeath_applyspeedmods.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-Enemy-OnDeath-ApplySpeedMods-64.T-Icon-Modifier-Neg-Enemy-OnDeath-ApplySpeedMods-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Neg-Enemy-OnDeath-ApplySpeedMods-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-Enemy-OnDeath-ApplySpeedMods-128.png"
     }
   },
@@ -412,7 +412,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_enemy_ondeath_areaheal.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-Enemy-OnDeath-AreaHeal-64.T-Icon-Modifier-Neg-Enemy-OnDeath-AreaHeal-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Neg-Enemy-OnDeath-AreaHeal-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-Enemy-OnDeath-AreaHeal-128.png"
     }
   },
@@ -423,7 +423,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_enemy_ondeath_drophealingglobes.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-Bldg-OnDeath-BuffEnemyEnvDmg-64.T-Icon-Modifier-Pos-Bldg-OnDeath-BuffEnemyEnvDmg-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Pos-Bldg-OnDeath-BuffEnemyEnvDmg-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-Bldg-OnDeath-BuffEnemyEnvDmg-128.png"
     }
   },
@@ -435,7 +435,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_enemy_ondeath_knockback.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-3-M.Icon-Theater-3-M",
+      "SmallPreview": "ExportedImages\\Icon-Theater-3-M.png",
       "LargePreview": "ExportedImages\\Icon-Theater-3-M.png"
     }
   },
@@ -447,7 +447,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_enemy_ondeath_spawndamagepool.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-Enemy-OnDeath-SpawnEnemyRangeResistPool-64.T-Icon-Modifier-Neg-Enemy-OnDeath-SpawnEnemyRangeResistPool-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Neg-Enemy-OnDeath-SpawnEnemyRangeResistPool-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-Enemy-OnDeath-SpawnEnemyRangeResistPool-128.png"
     }
   },
@@ -459,7 +459,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_enemy_ondeath_spawnenemyrangeresistpool.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-Enemy-OnDeath-SpawnDamagePool-64.T-Icon-Modifier-Neg-Enemy-OnDeath-SpawnDamagePool-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Neg-Enemy-OnDeath-SpawnDamagePool-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-Enemy-OnDeath-SpawnDamagePool-128.png"
     }
   },
@@ -471,7 +471,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_enemy_ondeath_spawnenemyslowpool.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-3-M.Icon-Theater-3-M",
+      "SmallPreview": "ExportedImages\\Icon-Theater-3-M.png",
       "LargePreview": "ExportedImages\\Icon-Theater-3-M.png"
     }
   },
@@ -483,7 +483,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_enemy_ondeath_spawnplayerslowpool.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-Enemy-OnDeath-SpawnPlayerSlowPool-64.T-Icon-Modifier-Neg-Enemy-OnDeath-SpawnPlayerSlowPool-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Neg-Enemy-OnDeath-SpawnPlayerSlowPool-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-Enemy-OnDeath-SpawnPlayerSlowPool-128.png"
     }
   },
@@ -495,7 +495,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_enemy_ondmgdealt_dot.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-Enemy-OnDeath-SpawnEnemyRangeResistPool-64.T-Icon-Modifier-Neg-Enemy-OnDeath-SpawnEnemyRangeResistPool-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Neg-Enemy-OnDeath-SpawnEnemyRangeResistPool-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-Enemy-OnDeath-SpawnEnemyRangeResistPool-128.png"
     }
   },
@@ -507,7 +507,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_enemy_ondmgdealt_knockback.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-Enemy-OnDeath-ApplySpeedMods-64.T-Icon-Modifier-Neg-Enemy-OnDeath-ApplySpeedMods-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Neg-Enemy-OnDeath-ApplySpeedMods-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-Enemy-OnDeath-ApplySpeedMods-128.png"
     }
   },
@@ -519,7 +519,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_enemy_ondmgdealt_lifeleech.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-Enemy-OnDmgDealt-LifeLeech-64.T-Icon-Modifier-Neg-Enemy-OnDmgDealt-LifeLeech-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Neg-Enemy-OnDmgDealt-LifeLeech-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-Enemy-OnDmgDealt-LifeLeech-128.png"
     }
   },
@@ -531,7 +531,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_enemy_ondmgdealt_reducedmgfoe.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-3-M.Icon-Theater-3-M",
+      "SmallPreview": "ExportedImages\\Icon-Theater-3-M.png",
       "LargePreview": "ExportedImages\\Icon-Theater-3-M.png"
     }
   },
@@ -543,7 +543,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_enemy_ondmgdealt_slowdownfoe.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-Enemy-OnDmgDealt-SlowDownFoe-64.T-Icon-Modifier-Neg-Enemy-OnDmgDealt-SlowDownFoe-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Neg-Enemy-OnDmgDealt-SlowDownFoe-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-Enemy-OnDmgDealt-SlowDownFoe-128.png"
     }
   },
@@ -555,7 +555,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_enemy_ondmgreceived_dmgbuff.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-3-M.Icon-Theater-3-M",
+      "SmallPreview": "ExportedImages\\Icon-Theater-3-M.png",
       "LargePreview": "ExportedImages\\Icon-Theater-3-M.png"
     }
   },
@@ -567,7 +567,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_enemy_ondmgreceived_speedbuff.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-Enemy-OnDmgReceived-SpeedBuff-64.T-Icon-Modifier-Neg-Enemy-OnDmgReceived-SpeedBuff-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Neg-Enemy-OnDmgReceived-SpeedBuff-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-Enemy-OnDmgReceived-SpeedBuff-128.png"
     }
   },
@@ -579,7 +579,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_enemy_onevndmgdealt_lifeleech.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-1-M.Icon-Theater-1-M",
+      "SmallPreview": "ExportedImages\\Icon-Theater-1-M.png",
       "LargePreview": "ExportedImages\\Icon-Theater-1-M.png"
     }
   },
@@ -591,7 +591,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_enemy_onhitweakenbuildings.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-Enemy-OnHitWeakenBuildings-64.T-Icon-Modifier-Neg-Enemy-OnHitWeakenBuildings-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Neg-Enemy-OnHitWeakenBuildings-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-Enemy-OnHitWeakenBuildings-128.png"
     }
   },
@@ -603,7 +603,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_enemy_onlowhealth_enrage.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-Enemy-OnLowHealth-Enrage-64.T-Icon-Modifier-Neg-Enemy-OnLowHealth-Enrage-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Neg-Enemy-OnLowHealth-Enrage-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-Enemy-OnLowHealth-Enrage-128.png"
     }
   },
@@ -615,7 +615,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_enemy_ricochet.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-Enemy-Ricochet-64.T-Icon-Modifier-Neg-Enemy-Ricochet-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Neg-Enemy-Ricochet-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-Enemy-Ricochet-128.png"
     }
   },
@@ -627,7 +627,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_enemy_ricochet_major.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-Enemy-Ricochet-64.T-Icon-Modifier-Neg-Enemy-Ricochet-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Neg-Enemy-Ricochet-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-Enemy-Ricochet-128.png"
     }
   },
@@ -639,7 +639,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_enemy_thorns.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-3-M.Icon-Theater-3-M",
+      "SmallPreview": "ExportedImages\\Icon-Theater-3-M.png",
       "LargePreview": "ExportedImages\\Icon-Theater-3-M.png"
     }
   },
@@ -651,7 +651,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_enemy_weaponandabilityresist.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-MaxHealthIncrease-Major-64.T-Icon-Modifier-Neg-MaxHealthIncrease-Major-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Neg-MaxHealthIncrease-Major-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-MaxHealthIncrease-Major-128.png"
     }
   },
@@ -663,7 +663,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_harvestingdisable.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-NoHarvesting-64.T-Icon-Modifier-Neg-NoHarvesting-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Neg-NoHarvesting-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-NoHarvesting-128.png"
     }
   },
@@ -675,7 +675,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_hero_tech_buff.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-Hero-Tech-Buff-64.T-Icon-Modifier-Pos-Hero-Tech-Buff-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Pos-Hero-Tech-Buff-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-Hero-Tech-Buff-128.png"
     }
   },
@@ -687,7 +687,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_hoverboardprevent.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-NoHoverboard-128.T-Icon-Modifier-NoHoverboard-128",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-NoHoverboard-128.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-NoHoverboard-128.png"
     }
   },
@@ -699,7 +699,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_immunetotraps.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-Bldg-OnDeath-BuffEnemyEnvDmg-64.T-Icon-Modifier-Pos-Bldg-OnDeath-BuffEnemyEnvDmg-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Pos-Bldg-OnDeath-BuffEnemyEnvDmg-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-Bldg-OnDeath-BuffEnemyEnvDmg-128.png"
     }
   },
@@ -711,7 +711,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_itemsharingenabled.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T_Icon_Modifier_Pos_ItemSharingEnabled_128.T_Icon_Modifier_Pos_ItemSharingEnabled_128",
+      "SmallPreview": "ExportedImages\\T_Icon_Modifier_Pos_ItemSharingEnabled_128.png",
       "LargePreview": "ExportedImages\\T_Icon_Modifier_Pos_ItemSharingEnabled_128.png"
     }
   },
@@ -723,7 +723,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_lowg.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-Low-Gravity-64.T-Icon-Modifier-Pos-Low-Gravity-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Pos-Low-Gravity-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-Low-Gravity-128.png"
     }
   },
@@ -735,7 +735,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_ninja_abilityrate_buff.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-Ninja-AbilityRate-Buff-64.T-Icon-Modifier-Pos-Ninja-AbilityRate-Buff-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Pos-Ninja-AbilityRate-Buff-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-Ninja-AbilityRate-Buff-128.png"
     }
   },
@@ -747,7 +747,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_ninja_damage_buff.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-Ninja-Damage-Buff-64.T-Icon-Modifier-Pos-Ninja-Damage-Buff-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Pos-Ninja-Damage-Buff-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-Ninja-Damage-Buff-128.png"
     }
   },
@@ -759,7 +759,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_ninja_jumpheight_buff.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-Ninja-JumpHieght-Buff-64.T-Icon-Modifier-Pos-Ninja-JumpHieght-Buff-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Pos-Ninja-JumpHieght-Buff-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-Ninja-JumpHieght-Buff-128.png"
     }
   },
@@ -771,7 +771,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_ninja_speed_buff.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-1-M.Icon-Theater-1-M",
+      "SmallPreview": "ExportedImages\\Icon-Theater-1-M.png",
       "LargePreview": "ExportedImages\\Icon-Theater-1-M.png"
     }
   },
@@ -783,7 +783,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_ninja_sword_damagebuff.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-Ninja-Sword-DamageBuff-64.T-Icon-Modifier-Pos-Ninja-Sword-DamageBuff-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Pos-Ninja-Sword-DamageBuff-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-Ninja-Sword-DamageBuff-128.png"
     }
   },
@@ -795,7 +795,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_outlander_damage_buff.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-Outlander-Damage-Buff-64.T-Icon-Modifier-Pos-Outlander-Damage-Buff-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Pos-Outlander-Damage-Buff-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-Outlander-Damage-Buff-128.png"
     }
   },
@@ -807,7 +807,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_outlander_harvesterattack_damagebuff.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-1-M.Icon-Theater-1-M",
+      "SmallPreview": "ExportedImages\\Icon-Theater-1-M.png",
       "LargePreview": "ExportedImages\\Icon-Theater-1-M.png"
     }
   },
@@ -819,7 +819,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_outlander_harvesterenv_damagebuff.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-1-M.Icon-Theater-1-M",
+      "SmallPreview": "ExportedImages\\Icon-Theater-1-M.png",
       "LargePreview": "ExportedImages\\Icon-Theater-1-M.png"
     }
   },
@@ -831,7 +831,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_outlander_tech_buff.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-Outlander-Tech-Buff-64.T-Icon-Modifier-Pos-Outlander-Tech-Buff-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Pos-Outlander-Tech-Buff-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-Outlander-Tech-Buff-128.png"
     }
   },
@@ -843,7 +843,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/phoenix_modifiers/gm_phoenix_acidrain.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Acid-Rain-64.T-Icon-Modifier-Acid-Rain-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Acid-Rain-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Acid-Rain-128.png"
     }
   },
@@ -855,7 +855,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/phoenix_modifiers/gm_phoenix_closequarters.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Close-Quarters-64.T-Icon-Modifier-Close-Quarters-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Close-Quarters-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Close-Quarters-128.png"
     }
   },
@@ -867,7 +867,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/phoenix_modifiers/gm_phoenix_escalation.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Escalation-64.T-Icon-Modifier-Escalation-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Escalation-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Escalation-128.png"
     }
   },
@@ -879,7 +879,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/phoenix_modifiers/gm_phoenix_ragemeter.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Rage-Meter-64.T-Icon-Modifier-Rage-Meter-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Rage-Meter-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Rage-Meter-128.png"
     }
   },
@@ -891,7 +891,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/phoenix_modifiers/gm_phoenix_superconstructor.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Super-Heroic-64.T-Icon-Modifier-Super-Heroic-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Super-Heroic-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Super-Heroic-128.png"
     }
   },
@@ -903,7 +903,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/phoenix_modifiers/gm_phoenix_superheroic.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Super-Heroic-64.T-Icon-Modifier-Super-Heroic-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Super-Heroic-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Super-Heroic-128.png"
     }
   },
@@ -915,7 +915,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/phoenix_modifiers/gm_phoenix_superhusks_huskmods.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-SuperHusk-Husk-64.T-Icon-Modifier-SuperHusk-Husk-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-SuperHusk-Husk-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-SuperHusk-Husk-128.png"
     }
   },
@@ -927,7 +927,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/phoenix_modifiers/gm_phoenix_superhusks_melee.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-SuperHusk-Husk-64.T-Icon-Modifier-SuperHusk-Husk-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-SuperHusk-Husk-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-SuperHusk-Husk-128.png"
     }
   },
@@ -939,7 +939,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/phoenix_modifiers/gm_phoenix_superhusks_playerbenefits.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-SuperHusk-Treasure-64.T-Icon-Modifier-SuperHusk-Treasure-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-SuperHusk-Treasure-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-SuperHusk-Treasure-128.png"
     }
   },
@@ -951,7 +951,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/phoenix_modifiers/gm_phoenix_superhusks_ranged.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-SuperHusk-Husk-64.T-Icon-Modifier-SuperHusk-Husk-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-SuperHusk-Husk-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-SuperHusk-Husk-128.png"
     }
   },
@@ -963,7 +963,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/phoenix_modifiers/gm_phoenix_superhusks_tank.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-SuperHusk-Husk-64.T-Icon-Modifier-SuperHusk-Husk-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-SuperHusk-Husk-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-SuperHusk-Husk-128.png"
     }
   },
@@ -975,7 +975,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/phoenix_modifiers/gm_phoenix_superninja.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Super-Heroic-64.T-Icon-Modifier-Super-Heroic-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Super-Heroic-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Super-Heroic-128.png"
     }
   },
@@ -987,7 +987,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/phoenix_modifiers/gm_phoenix_superoutlander.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Super-Heroic-64.T-Icon-Modifier-Super-Heroic-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Super-Heroic-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Super-Heroic-128.png"
     }
   },
@@ -999,7 +999,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_player_abilitycooldown_buff.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-1-M.Icon-Theater-1-M",
+      "SmallPreview": "ExportedImages\\Icon-Theater-1-M.png",
       "LargePreview": "ExportedImages\\Icon-Theater-1-M.png"
     }
   },
@@ -1011,7 +1011,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_player_assaultrifle_damage_buff.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-AssaultRifle-DamageBuff-64.T-Icon-Modifier-Pos-AssaultRifle-DamageBuff-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Pos-AssaultRifle-DamageBuff-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-AssaultRifle-DamageBuff-128.png"
     }
   },
@@ -1023,7 +1023,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_player_axesscythesdamage_buff.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-AxesScythesDamage-Buff-64.T-Icon-Modifier-Pos-AxesScythesDamage-Buff-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Pos-AxesScythesDamage-Buff-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-AxesScythesDamage-Buff-128.png"
     }
   },
@@ -1035,7 +1035,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_player_bluntdamage_buff.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-BluntDamage-Buff-64.T-Icon-Modifier-Pos-BluntDamage-Buff-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Pos-BluntDamage-Buff-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-BluntDamage-Buff-128.png"
     }
   },
@@ -1047,7 +1047,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_player_buildcost_buff.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-Constructor-BuildCost-Buff-64.T-Icon-Modifier-Pos-Constructor-BuildCost-Buff-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Pos-Constructor-BuildCost-Buff-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-Constructor-BuildCost-Buff-128.png"
     }
   },
@@ -1059,7 +1059,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/attack/gm_player_critreduction_major.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-CritReduction-Major-64.T-Icon-Modifier-CritReduction-Major-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-CritReduction-Major-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-CritReduction-Major-128.png"
     }
   },
@@ -1071,7 +1071,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_player_damage_buff.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-1-M.Icon-Theater-1-M",
+      "SmallPreview": "ExportedImages\\Icon-Theater-1-M.png",
       "LargePreview": "ExportedImages\\Icon-Theater-1-M.png"
     }
   },
@@ -1083,7 +1083,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_player_disablerepair.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-DisableRepair-64.T-Icon-Modifier-Neg-DisableRepair-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Neg-DisableRepair-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-DisableRepair-128.png"
     }
   },
@@ -1095,7 +1095,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_player_edgeddamage_buff.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-EdgedDamage-Buff-64.T-Icon-Modifier-Pos-EdgedDamage-Buff-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Pos-EdgedDamage-Buff-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-EdgedDamage-Buff-128.png"
     }
   },
@@ -1107,7 +1107,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_player_energy_damagebuff.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-Player-Energy-DamageBuff-64.T-Icon-Modifier-Pos-Player-Energy-DamageBuff-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Pos-Player-Energy-DamageBuff-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-Player-Energy-DamageBuff-128.png"
     }
   },
@@ -1119,7 +1119,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_player_energyregen_buff.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-1-M.Icon-Theater-1-M",
+      "SmallPreview": "ExportedImages\\Icon-Theater-1-M.png",
       "LargePreview": "ExportedImages\\Icon-Theater-1-M.png"
     }
   },
@@ -1131,7 +1131,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_player_explosive_damagebuff.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-Player-Explosive-DamageBuff-64.T-Icon-Modifier-Pos-Player-Explosive-DamageBuff-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Pos-Player-Explosive-DamageBuff-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-Player-Explosive-DamageBuff-128.png"
     }
   },
@@ -1143,7 +1143,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/missions/modes/fortniteendless/props/gm_player_frostyturf_traps.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-1-M.Icon-Theater-1-M",
+      "SmallPreview": "ExportedImages\\Icon-Theater-1-M.png",
       "LargePreview": "ExportedImages\\Icon-Theater-1-M.png"
     }
   },
@@ -1155,7 +1155,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_player_lowgravity.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-Low-Gravity-64.T-Icon-Modifier-Pos-Low-Gravity-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Pos-Low-Gravity-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-Low-Gravity-128.png"
     }
   },
@@ -1167,7 +1167,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_player_lowgravityminor.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-Low-Gravity-64.T-Icon-Modifier-Pos-Low-Gravity-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Pos-Low-Gravity-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-Low-Gravity-128.png"
     }
   },
@@ -1179,7 +1179,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_player_meleedamage_buff.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-1-M.Icon-Theater-1-M",
+      "SmallPreview": "ExportedImages\\Icon-Theater-1-M.png",
       "LargePreview": "ExportedImages\\Icon-Theater-1-M.png"
     }
   },
@@ -1191,7 +1191,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_player_meleeknockback_buff.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-Player-MeleeKnockback-Buff-64.T-Icon-Modifier-Pos-Player-MeleeKnockback-Buff-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Pos-Player-MeleeKnockback-Buff-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-Player-MeleeKnockback-Buff-128.png"
     }
   },
@@ -1203,7 +1203,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_player_meleeswingspeed_buff.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-EdgedDamage-Buff-64.T-Icon-Modifier-Pos-EdgedDamage-Buff-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Pos-EdgedDamage-Buff-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-EdgedDamage-Buff-128.png"
     }
   },
@@ -1215,7 +1215,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/playerconstruction/gm_player_metalbuildcostincrease_major.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-MetalBuildCostIncrease-64.T-Icon-Modifier-Neg-MetalBuildCostIncrease-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Neg-MetalBuildCostIncrease-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-MetalBuildCostIncrease-128.png"
     }
   },
@@ -1227,7 +1227,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_player_movespeed_buff.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-Ninja-JumpHieght-Buff-64.T-Icon-Modifier-Pos-Ninja-JumpHieght-Buff-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Pos-Ninja-JumpHieght-Buff-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-Ninja-JumpHieght-Buff-128.png"
     }
   },
@@ -1239,7 +1239,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/defense/gm_player_noshields.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-NoShields-64.T-Icon-Modifier-Neg-NoShields-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Neg-NoShields-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-NoShields-128.png"
     }
   },
@@ -1251,7 +1251,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_player_ondmgdealt_lifeleech.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-Player-OnDmgDealt-LifeLeech-64.T-Icon-Modifier-Pos-Player-OnDmgDealt-LifeLeech-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Pos-Player-OnDmgDealt-LifeLeech-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-Player-OnDmgDealt-LifeLeech-128.png"
     }
   },
@@ -1263,7 +1263,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_player_ondmgdealt_taunt.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-1-M.Icon-Theater-1-M",
+      "SmallPreview": "ExportedImages\\Icon-Theater-1-M.png",
       "LargePreview": "ExportedImages\\Icon-Theater-1-M.png"
     }
   },
@@ -1275,7 +1275,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_player_ondmgreceived_dmgshare.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-Player-OnDmgReceived-DmgShare-64.T-Icon-Modifier-Neg-Player-OnDmgReceived-DmgShare-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Neg-Player-OnDmgReceived-DmgShare-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-Player-OnDmgReceived-DmgShare-128.png"
     }
   },
@@ -1287,7 +1287,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_player_onmeleedmgdealt_slowdownfoe.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-1-M.Icon-Theater-1-M",
+      "SmallPreview": "ExportedImages\\Icon-Theater-1-M.png",
       "LargePreview": "ExportedImages\\Icon-Theater-1-M.png"
     }
   },
@@ -1299,7 +1299,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_player_onrepair_takedamage.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-Player-OnRepair-TakeDamage-64.T-Icon-Modifier-Neg-Player-OnRepair-TakeDamage-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Neg-Player-OnRepair-TakeDamage-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-Player-OnRepair-TakeDamage-128.png"
     }
   },
@@ -1311,7 +1311,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_player_onshielddestroyed_aoe.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-Player-OnShieldDestroyed-AOE-64.T-Icon-Modifier-Pos-Player-OnShieldDestroyed-AOE-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Pos-Player-OnShieldDestroyed-AOE-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-Player-OnShieldDestroyed-AOE-128.png"
     }
   },
@@ -1323,7 +1323,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_player_piercingdamage_buff.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-PiercingDamage-Buff-64.T-Icon-Modifier-Pos-PiercingDamage-Buff-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Pos-PiercingDamage-Buff-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-PiercingDamage-Buff-128.png"
     }
   },
@@ -1335,7 +1335,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_player_pistol_damagebuff.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-Pistol-DamageBuff-64.T-Icon-Modifier-Pos-Pistol-DamageBuff-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Pos-Pistol-DamageBuff-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-Pistol-DamageBuff-128.png"
     }
   },
@@ -1347,7 +1347,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_player_pistol_minibossdamagebuff.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-Pistol-DamageBuff-64.T-Icon-Modifier-Pos-Pistol-DamageBuff-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Pos-Pistol-DamageBuff-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-Pistol-DamageBuff-128.png"
     }
   },
@@ -1359,7 +1359,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_player_ranged_damagereload_buff.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-AssaultRifle-DamageBuff-64.T-Icon-Modifier-Pos-AssaultRifle-DamageBuff-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Pos-AssaultRifle-DamageBuff-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-AssaultRifle-DamageBuff-128.png"
     }
   },
@@ -1371,7 +1371,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_player_rangedmgdealt_debuffs_playeraccuracy.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-1-M.Icon-Theater-1-M",
+      "SmallPreview": "ExportedImages\\Icon-Theater-1-M.png",
       "LargePreview": "ExportedImages\\Icon-Theater-1-M.png"
     }
   },
@@ -1383,7 +1383,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_player_reflect.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-1-M.Icon-Theater-1-M",
+      "SmallPreview": "ExportedImages\\Icon-Theater-1-M.png",
       "LargePreview": "ExportedImages\\Icon-Theater-1-M.png"
     }
   },
@@ -1395,7 +1395,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_player_shieldbuff.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-Player-OnShieldDestroyed-AOE-64.T-Icon-Modifier-Pos-Player-OnShieldDestroyed-AOE-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Pos-Player-OnShieldDestroyed-AOE-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-Player-OnShieldDestroyed-AOE-128.png"
     }
   },
@@ -1407,7 +1407,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/defense/gm_player_shieldregenratedecrease_major.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-3-M.Icon-Theater-3-M",
+      "SmallPreview": "ExportedImages\\Icon-Theater-3-M.png",
       "LargePreview": "ExportedImages\\Icon-Theater-3-M.png"
     }
   },
@@ -1419,7 +1419,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_player_shotgun_damagebuff.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-ShotGun-Damage-Buff-64.T-Icon-Modifier-Pos-ShotGun-Damage-Buff-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Pos-ShotGun-Damage-Buff-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-ShotGun-Damage-Buff-128.png"
     }
   },
@@ -1431,7 +1431,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_player_slowbuildtime.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-1-M.Icon-Theater-1-M",
+      "SmallPreview": "ExportedImages\\Icon-Theater-1-M.png",
       "LargePreview": "ExportedImages\\Icon-Theater-1-M.png"
     }
   },
@@ -1443,7 +1443,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_player_smg_damage_buff.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-SMG-DamageBuff-64.T-Icon-Modifier-Pos-SMG-DamageBuff-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Pos-SMG-DamageBuff-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-SMG-DamageBuff-128.png"
     }
   },
@@ -1455,7 +1455,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_player_sniperrifle_damagebuff.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-SniperRifle-DamageBuff-64.T-Icon-Modifier-Pos-SniperRifle-DamageBuff-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Pos-SniperRifle-DamageBuff-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-SniperRifle-DamageBuff-128.png"
     }
   },
@@ -1467,7 +1467,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_player_spearsworddamage_buff.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-PiercingDamage-Buff-64.T-Icon-Modifier-Pos-PiercingDamage-Buff-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Pos-PiercingDamage-Buff-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-PiercingDamage-Buff-128.png"
     }
   },
@@ -1479,7 +1479,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_player_sprint_unlimited.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-1-M.Icon-Theater-1-M",
+      "SmallPreview": "ExportedImages\\Icon-Theater-1-M.png",
       "LargePreview": "ExportedImages\\Icon-Theater-1-M.png"
     }
   },
@@ -1491,7 +1491,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_player_sprintspeed_buff.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-Ninja-JumpHieght-Buff-64.T-Icon-Modifier-Pos-Ninja-JumpHieght-Buff-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Pos-Ninja-JumpHieght-Buff-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-Ninja-JumpHieght-Buff-128.png"
     }
   },
@@ -1503,7 +1503,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/playerconstruction/gm_player_stonebuildcostincrease_major.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-StoneBuildCostIncrease-64.T-Icon-Modifier-Neg-StoneBuildCostIncrease-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Neg-StoneBuildCostIncrease-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-StoneBuildCostIncrease-128.png"
     }
   },
@@ -1515,7 +1515,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_player_trap_durability_increase.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-1-M.Icon-Theater-1-M",
+      "SmallPreview": "ExportedImages\\Icon-Theater-1-M.png",
       "LargePreview": "ExportedImages\\Icon-Theater-1-M.png"
     }
   },
@@ -1527,7 +1527,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_player_trap_reload_increase.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-1-M.Icon-Theater-1-M",
+      "SmallPreview": "ExportedImages\\Icon-Theater-1-M.png",
       "LargePreview": "ExportedImages\\Icon-Theater-1-M.png"
     }
   },
@@ -1539,7 +1539,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/playerconstruction/gm_player_woodbuildcostincrease_major.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-1-M.Icon-Theater-1-M",
+      "SmallPreview": "ExportedImages\\Icon-Theater-1-M.png",
       "LargePreview": "ExportedImages\\Icon-Theater-1-M.png"
     }
   },
@@ -1565,7 +1565,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/questspawn/gm_questspawn_specialevent_2018_blockbusterhusky_encountertags.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Classes/Icon-Husk/Icon-Class-Husk-Husky-Headshot.Icon-Class-Husk-Husky-Headshot",
+      "SmallPreview": "ExportedImages\\Icon-Class-Husk-Husky-Headshot.png",
       "LargePreview": "ExportedImages\\Icon-Class-Husk-Husky-Headshot.png"
     }
   },
@@ -1577,7 +1577,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_soldier_abilityrate_buff.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-Soldier-AbilityRate-Buff-64.T-Icon-Modifier-Pos-Soldier-AbilityRate-Buff-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Pos-Soldier-AbilityRate-Buff-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-Soldier-AbilityRate-Buff-128.png"
     }
   },
@@ -1589,7 +1589,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_soldier_assaultrifle_buff.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-Soldier-Assaultrifle-Damage-Buff-64.T-Icon-Modifier-Pos-Soldier-Assaultrifle-Damage-Buff-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Pos-Soldier-Assaultrifle-Damage-Buff-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-Soldier-Assaultrifle-Damage-Buff-128.png"
     }
   },
@@ -1601,7 +1601,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_soldier_damage_buff.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-Soldier-Damage-Buff-64.T-Icon-Modifier-Pos-Soldier-Damage-Buff-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Pos-Soldier-Damage-Buff-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-Soldier-Damage-Buff-128.png"
     }
   },
@@ -1613,7 +1613,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_soldier_sprint_unlimited.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-1-M.Icon-Theater-1-M",
+      "SmallPreview": "ExportedImages\\Icon-Theater-1-M.png",
       "LargePreview": "ExportedImages\\Icon-Theater-1-M.png"
     }
   },
@@ -1625,7 +1625,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_tool_damagebuff.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-Tool-Damage-Buff-64.T-Icon-Modifier-Pos-Tool-Damage-Buff-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Pos-Tool-Damage-Buff-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-Tool-Damage-Buff-128.png"
     }
   },
@@ -1637,7 +1637,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_trap_buff.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-TrapBuff-64.T-Icon-Modifier-Pos-TrapBuff-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Pos-TrapBuff-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-TrapBuff-128.png"
     }
   },
@@ -1649,7 +1649,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gm_trap_buff_major.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Pos-TrapBuff-64.T-Icon-Modifier-Pos-TrapBuff-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Pos-TrapBuff-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Pos-TrapBuff-128.png"
     }
   },
@@ -1661,7 +1661,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/gm_ug_aoe_pulse_durationheal.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-3-M.Icon-Theater-3-M",
+      "SmallPreview": "ExportedImages\\Icon-Theater-3-M.png",
       "LargePreview": "ExportedImages\\Icon-Theater-3-M.png"
     }
   },
@@ -1673,7 +1673,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/gm_ug_aoecloud_rangeresistbuff.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-Enemy-OnDeath-SpawnDamagePool-64.T-Icon-Modifier-Neg-Enemy-OnDeath-SpawnDamagePool-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Neg-Enemy-OnDeath-SpawnDamagePool-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-Enemy-OnDeath-SpawnDamagePool-64.png"
     }
   },
@@ -1685,7 +1685,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/gm_ug_base_elite.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-3-M.Icon-Theater-3-M",
+      "SmallPreview": "ExportedImages\\Icon-Theater-3-M.png",
       "LargePreview": "ExportedImages\\Icon-Theater-3-M.png"
     }
   },
@@ -1697,7 +1697,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/gm_ug_base_miniboss.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-3-M.Icon-Theater-3-M",
+      "SmallPreview": "ExportedImages\\Icon-Theater-3-M.png",
       "LargePreview": "ExportedImages\\Icon-Theater-3-M.png"
     }
   },
@@ -1708,7 +1708,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/basemodifiers/starlight/gm_ug_blaster_miniboss_starlight.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-3-M.Icon-Theater-3-M",
+      "SmallPreview": "ExportedImages\\Icon-Theater-3-M.png",
       "LargePreview": "ExportedImages\\Icon-Theater-3-M.png"
     }
   },
@@ -1720,7 +1720,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/gm_ug_bubbleshield.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-3-M.Icon-Theater-3-M",
+      "SmallPreview": "ExportedImages\\Icon-Theater-3-M.png",
       "LargePreview": "ExportedImages\\Icon-Theater-3-M.png"
     }
   },
@@ -1732,7 +1732,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/gm_ug_damagepulse.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-3-M.Icon-Theater-3-M",
+      "SmallPreview": "ExportedImages\\Icon-Theater-3-M.png",
       "LargePreview": "ExportedImages\\Icon-Theater-3-M.png"
     }
   },
@@ -1744,7 +1744,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/gm_ug_frontshield.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-3-M.Icon-Theater-3-M",
+      "SmallPreview": "ExportedImages\\Icon-Theater-3-M.png",
       "LargePreview": "ExportedImages\\Icon-Theater-3-M.png"
     }
   },
@@ -1756,7 +1756,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/gm_ug_fury.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-3-M.Icon-Theater-3-M",
+      "SmallPreview": "ExportedImages\\Icon-Theater-3-M.png",
       "LargePreview": "ExportedImages\\Icon-Theater-3-M.png"
     }
   },
@@ -1768,7 +1768,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/gm_ug_health_stability_increase.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-EnemyHealthStabilityIncrease-64.T-Icon-Modifier-Neg-EnemyHealthStabilityIncrease-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Neg-EnemyHealthStabilityIncrease-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-EnemyHealthStabilityIncrease-128.png"
     }
   },
@@ -1780,7 +1780,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/gm_ug_ondmgdealt_knockback.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-3-M.Icon-Theater-3-M",
+      "SmallPreview": "ExportedImages\\Icon-Theater-3-M.png",
       "LargePreview": "ExportedImages\\Icon-Theater-3-M.png"
     }
   },
@@ -1792,7 +1792,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/gm_ug_ondmgdealt_shieldbreaker.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-3-M.Icon-Theater-3-M",
+      "SmallPreview": "ExportedImages\\Icon-Theater-3-M.png",
       "LargePreview": "ExportedImages\\Icon-Theater-3-M.png"
     }
   },
@@ -1804,7 +1804,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/gm_ug_ondmgdealt_vampiric.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-3-M.Icon-Theater-3-M",
+      "SmallPreview": "ExportedImages\\Icon-Theater-3-M.png",
       "LargePreview": "ExportedImages\\Icon-Theater-3-M.png"
     }
   },
@@ -1816,7 +1816,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/gm_ug_onhitweakenbuildings.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-Enemy-OnHitWeakenBuildings-64.T-Icon-Modifier-Neg-Enemy-OnHitWeakenBuildings-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Neg-Enemy-OnHitWeakenBuildings-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-Enemy-OnHitWeakenBuildings-128.png"
     }
   },
@@ -1828,7 +1828,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/gm_ug_onlowhealth_berserker.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-Enemy-OnLowHealth-Enrage-64.T-Icon-Modifier-Neg-Enemy-OnLowHealth-Enrage-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Neg-Enemy-OnLowHealth-Enrage-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-Enemy-OnLowHealth-Enrage-128.png"
     }
   },
@@ -1840,7 +1840,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/gm_ug_ricochet.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-Enemy-Ricochet-64.T-Icon-Modifier-Neg-Enemy-Ricochet-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Neg-Enemy-Ricochet-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-Enemy-Ricochet-128.png"
     }
   },
@@ -1852,7 +1852,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/gm_ug_rustmonster.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-3-M.Icon-Theater-3-M",
+      "SmallPreview": "ExportedImages\\Icon-Theater-3-M.png",
       "LargePreview": "ExportedImages\\Icon-Theater-3-M.png"
     }
   },
@@ -1864,7 +1864,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/gm_ug_spawnacidpool.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-3-M.Icon-Theater-3-M",
+      "SmallPreview": "ExportedImages\\Icon-Theater-3-M.png",
       "LargePreview": "ExportedImages\\Icon-Theater-3-M.png"
     }
   },
@@ -1876,7 +1876,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/gm_ug_trail_buildingblocker.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-3-M.Icon-Theater-3-M",
+      "SmallPreview": "ExportedImages\\Icon-Theater-3-M.png",
       "LargePreview": "ExportedImages\\Icon-Theater-3-M.png"
     }
   },
@@ -1888,7 +1888,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/gm_ug_trail_buildingdamagepool.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-3-M.Icon-Theater-3-M",
+      "SmallPreview": "ExportedImages\\Icon-Theater-3-M.png",
       "LargePreview": "ExportedImages\\Icon-Theater-3-M.png"
     }
   },
@@ -1900,7 +1900,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/gm_ug_trail_minelayer.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Theater/Icon-Theater-3-M.Icon-Theater-3-M",
+      "SmallPreview": "ExportedImages\\Icon-Theater-3-M.png",
       "LargePreview": "ExportedImages\\Icon-Theater-3-M.png"
     }
   },
@@ -1912,7 +1912,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/gmid_firedamage.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-OnDeath-Explode-64.T-Icon-Modifier-Neg-OnDeath-Explode-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Neg-OnDeath-Explode-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-OnDeath-Explode-128.png"
     }
   },
@@ -1924,7 +1924,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/gmid_healpulse.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-OnDeath-Explode-64.T-Icon-Modifier-Neg-OnDeath-Explode-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Neg-OnDeath-Explode-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-OnDeath-Explode-128.png"
     }
   },
@@ -1936,7 +1936,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/gmid_icedamage.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-OnDeath-Explode-64.T-Icon-Modifier-Neg-OnDeath-Explode-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Neg-OnDeath-Explode-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-OnDeath-Explode-128.png"
     }
   },
@@ -1948,7 +1948,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/gmid_immunetoallbuttraps.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-OnDeath-Explode-64.T-Icon-Modifier-Neg-OnDeath-Explode-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Neg-OnDeath-Explode-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-OnDeath-Explode-128.png"
     }
   },
@@ -1960,7 +1960,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/gmid_immunetorangeweapons.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-OnDeath-Explode-64.T-Icon-Modifier-Neg-OnDeath-Explode-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Neg-OnDeath-Explode-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-OnDeath-Explode-128.png"
     }
   },
@@ -1972,7 +1972,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/gmid_minibossmod_itemdef_test.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-OnDeath-Explode-64.T-Icon-Modifier-Neg-OnDeath-Explode-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Neg-OnDeath-Explode-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-OnDeath-Explode-128.png"
     }
   },
@@ -1984,7 +1984,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/gmid_naturedamage.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-OnDeath-Explode-64.T-Icon-Modifier-Neg-OnDeath-Explode-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Neg-OnDeath-Explode-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-OnDeath-Explode-128.png"
     }
   },
@@ -1996,7 +1996,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/gmid_ondmgdealt_buildingdot.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-OnDeath-Explode-64.T-Icon-Modifier-Neg-OnDeath-Explode-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Neg-OnDeath-Explode-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-OnDeath-Explode-128.png"
     }
   },
@@ -2008,7 +2008,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/gmid_resisttorocketlauncher.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-OnDeath-Explode-64.T-Icon-Modifier-Neg-OnDeath-Explode-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Neg-OnDeath-Explode-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-OnDeath-Explode-128.png"
     }
   },
@@ -2020,7 +2020,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/gmid_trail_slowpool.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-OnDeath-Explode-64.T-Icon-Modifier-Neg-OnDeath-Explode-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Neg-OnDeath-Explode-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-OnDeath-Explode-128.png"
     }
   },
@@ -2032,7 +2032,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/gmid_untrappable.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-OnDeath-Explode-64.T-Icon-Modifier-Neg-OnDeath-Explode-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Neg-OnDeath-Explode-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-OnDeath-Explode-128.png"
     }
   },
@@ -2044,7 +2044,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/gmid_volcanic.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-OnDeath-Explode-64.T-Icon-Modifier-Neg-OnDeath-Explode-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Neg-OnDeath-Explode-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-OnDeath-Explode-128.png"
     }
   },
@@ -2056,7 +2056,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/mutations/gmid_volcanicplayer.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-OnDeath-Explode-64.T-Icon-Modifier-Neg-OnDeath-Explode-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Neg-OnDeath-Explode-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-OnDeath-Explode-128.png"
     }
   },
@@ -2068,7 +2068,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/gmid_vortex.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-OnDeath-Explode-64.T-Icon-Modifier-Neg-OnDeath-Explode-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Neg-OnDeath-Explode-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-OnDeath-Explode-128.png"
     }
   },
@@ -2080,7 +2080,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/unlockmodifiers/minibossenableprimarymissionitem.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/MissionModifiers/T-Icon-Modifier-Neg-Miniboss-64.T-Icon-Modifier-Neg-Miniboss-64",
+      "SmallPreview": "ExportedImages\\T-Icon-Modifier-Neg-Miniboss-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Modifier-Neg-Miniboss-128.png"
     }
   }

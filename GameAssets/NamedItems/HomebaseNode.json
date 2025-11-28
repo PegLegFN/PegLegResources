@@ -6,7 +6,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/commanderlevel_rpcollection.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Quest/T-Icon-Research-128.T-Icon-Research-128",
+      "SmallPreview": "ExportedImages\\T-Icon-Research-128.png",
       "LargePreview": "ExportedImages\\T-Icon-Research-128.png"
     }
   },
@@ -17,7 +17,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_buildingresourcecap.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/SkillTree/Icon-NH-StarterResource-128.Icon-NH-StarterResource-128",
+      "SmallPreview": "ExportedImages\\Icon-NH-StarterResource-128.png",
       "LargePreview": "ExportedImages\\Icon-NH-StarterResource-128.png"
     }
   },
@@ -28,7 +28,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_buildingresourcecap2.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/SkillTree/Icon-NH-StarterResource-128.Icon-NH-StarterResource-128",
+      "SmallPreview": "ExportedImages\\Icon-NH-StarterResource-128.png",
       "LargePreview": "ExportedImages\\Icon-NH-StarterResource-128.png"
     }
   },
@@ -39,7 +39,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_buildingresourcecap3.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/SkillTree/Icon-NH-StarterResource-128.Icon-NH-StarterResource-128",
+      "SmallPreview": "ExportedImages\\Icon-NH-StarterResource-128.png",
       "LargePreview": "ExportedImages\\Icon-NH-StarterResource-128.png"
     }
   },
@@ -50,7 +50,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_buildingupgradelevel.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/SkillTree/T-Icon-BuildingSkill-128.T-Icon-BuildingSkill-128",
+      "SmallPreview": "ExportedImages\\T-Icon-BuildingSkill-128.png",
       "LargePreview": "ExportedImages\\T-Icon-BuildingSkill-128.png"
     }
   },
@@ -61,7 +61,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_buildingupgradelevel2.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/SkillTree/T-Icon-BuildingSkill-128.T-Icon-BuildingSkill-128",
+      "SmallPreview": "ExportedImages\\T-Icon-BuildingSkill-128.png",
       "LargePreview": "ExportedImages\\T-Icon-BuildingSkill-128.png"
     }
   },
@@ -72,7 +72,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_cannyvalley_squad_ssd1.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/SkillTree/T-Icon-ST-Surv-ScoutingPartySquad-128.T-Icon-ST-Surv-ScoutingPartySquad-128",
+      "SmallPreview": "ExportedImages\\T-Icon-ST-Surv-ScoutingPartySquad-128.png",
       "LargePreview": "ExportedImages\\T-Icon-ST-Surv-ScoutingPartySquad-128.png"
     }
   },
@@ -83,7 +83,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_cannyvalley_squad_ssd2.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/SkillTree/T-Icon-ST-Surv-FireTeamAlphaSquad-128.T-Icon-ST-Surv-FireTeamAlphaSquad-128",
+      "SmallPreview": "ExportedImages\\T-Icon-ST-Surv-FireTeamAlphaSquad-128.png",
       "LargePreview": "ExportedImages\\T-Icon-ST-Surv-FireTeamAlphaSquad-128.png"
     }
   },
@@ -94,7 +94,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_cannyvalley_squad_ssd3.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/SkillTree/T-Icon-ST-Surv-EMTSquad-128.T-Icon-ST-Surv-EMTSquad-128",
+      "SmallPreview": "ExportedImages\\T-Icon-ST-Surv-EMTSquad-128.png",
       "LargePreview": "ExportedImages\\T-Icon-ST-Surv-EMTSquad-128.png"
     }
   },
@@ -105,7 +105,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_cannyvalley_squad_ssd4.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/SkillTree/T-Icon-ST-Surv-EngineeringSquad-128.T-Icon-ST-Surv-EngineeringSquad-128",
+      "SmallPreview": "ExportedImages\\T-Icon-ST-Surv-EngineeringSquad-128.png",
       "LargePreview": "ExportedImages\\T-Icon-ST-Surv-EngineeringSquad-128.png"
     }
   },
@@ -116,7 +116,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_cannyvalley_squad_ssd5.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Navigation/T-Icon-Nav-Squad-128.T-Icon-Nav-Squad-128",
+      "SmallPreview": "ExportedImages\\T-Icon-Nav-Squad-128.png",
       "LargePreview": "ExportedImages\\T-Icon-Nav-Squad-128.png"
     }
   },
@@ -127,7 +127,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_cannyvalley_squad_ssd6.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Navigation/T-Icon-Nav-Squad-128.T-Icon-Nav-Squad-128",
+      "SmallPreview": "ExportedImages\\T-Icon-Nav-Squad-128.png",
       "LargePreview": "ExportedImages\\T-Icon-Nav-Squad-128.png"
     }
   },
@@ -138,7 +138,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_evolution.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Stars/Stars-Full-128.Stars-Full-128",
+      "SmallPreview": "ExportedImages\\Stars-Full-128.png",
       "LargePreview": "ExportedImages\\Stars-Full-128.png"
     }
   },
@@ -149,7 +149,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_evolution2.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Stars/Stars-Full-128.Stars-Full-128",
+      "SmallPreview": "ExportedImages\\Stars-Full-128.png",
       "LargePreview": "ExportedImages\\Stars-Full-128.png"
     }
   },
@@ -160,7 +160,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_evolution3.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Stars/Stars-Full-128.Stars-Full-128",
+      "SmallPreview": "ExportedImages\\Stars-Full-128.png",
       "LargePreview": "ExportedImages\\Stars-Full-128.png"
     }
   },
@@ -171,7 +171,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_evolution4.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Stars/Stars-Full-128.Stars-Full-128",
+      "SmallPreview": "ExportedImages\\Stars-Full-128.png",
       "LargePreview": "ExportedImages\\Stars-Full-128.png"
     }
   },
@@ -182,7 +182,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_expedition_dirtbike.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/SkillTree/T-Icon-ST-Dirtbike-128.T-Icon-ST-Dirtbike-128",
+      "SmallPreview": "ExportedImages\\T-Icon-ST-Dirtbike-128.png",
       "LargePreview": "ExportedImages\\T-Icon-ST-Dirtbike-128.png"
     }
   },
@@ -193,7 +193,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_expedition_dirtbike2.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/SkillTree/T-Icon-ST-Dirtbike-128.T-Icon-ST-Dirtbike-128",
+      "SmallPreview": "ExportedImages\\T-Icon-ST-Dirtbike-128.png",
       "LargePreview": "ExportedImages\\T-Icon-ST-Dirtbike-128.png"
     }
   },
@@ -204,7 +204,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_expedition_dirtbike3.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/SkillTree/T-Icon-ST-Dirtbike-128.T-Icon-ST-Dirtbike-128",
+      "SmallPreview": "ExportedImages\\T-Icon-ST-Dirtbike-128.png",
       "LargePreview": "ExportedImages\\T-Icon-ST-Dirtbike-128.png"
     }
   },
@@ -215,7 +215,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_expedition_helicopter.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/SkillTree/T-Icon-ST-Helicopter-128.T-Icon-ST-Helicopter-128",
+      "SmallPreview": "ExportedImages\\T-Icon-ST-Helicopter-128.png",
       "LargePreview": "ExportedImages\\T-Icon-ST-Helicopter-128.png"
     }
   },
@@ -226,7 +226,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_expedition_helicopter2.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/SkillTree/T-Icon-ST-Helicopter-128.T-Icon-ST-Helicopter-128",
+      "SmallPreview": "ExportedImages\\T-Icon-ST-Helicopter-128.png",
       "LargePreview": "ExportedImages\\T-Icon-ST-Helicopter-128.png"
     }
   },
@@ -237,7 +237,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_expedition_helicopter3.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/SkillTree/T-Icon-ST-Helicopter-128.T-Icon-ST-Helicopter-128",
+      "SmallPreview": "ExportedImages\\T-Icon-ST-Helicopter-128.png",
       "LargePreview": "ExportedImages\\T-Icon-ST-Helicopter-128.png"
     }
   },
@@ -248,7 +248,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_expedition_helicopter4.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/SkillTree/T-Icon-ST-Helicopter-128.T-Icon-ST-Helicopter-128",
+      "SmallPreview": "ExportedImages\\T-Icon-ST-Helicopter-128.png",
       "LargePreview": "ExportedImages\\T-Icon-ST-Helicopter-128.png"
     }
   },
@@ -259,7 +259,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_expedition_propplane.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/SkillTree/T-Icon-ST-Airplane-128.T-Icon-ST-Airplane-128",
+      "SmallPreview": "ExportedImages\\T-Icon-ST-Airplane-128.png",
       "LargePreview": "ExportedImages\\T-Icon-ST-Airplane-128.png"
     }
   },
@@ -270,7 +270,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_expedition_propplane2.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/SkillTree/T-Icon-ST-Airplane-128.T-Icon-ST-Airplane-128",
+      "SmallPreview": "ExportedImages\\T-Icon-ST-Airplane-128.png",
       "LargePreview": "ExportedImages\\T-Icon-ST-Airplane-128.png"
     }
   },
@@ -281,7 +281,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_expedition_propplane3.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/SkillTree/T-Icon-ST-Airplane-128.T-Icon-ST-Airplane-128",
+      "SmallPreview": "ExportedImages\\T-Icon-ST-Airplane-128.png",
       "LargePreview": "ExportedImages\\T-Icon-ST-Airplane-128.png"
     }
   },
@@ -292,7 +292,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_expedition_rowboat.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/SkillTree/T-Icon-ST-Rowboat-128.T-Icon-ST-Rowboat-128",
+      "SmallPreview": "ExportedImages\\T-Icon-ST-Rowboat-128.png",
       "LargePreview": "ExportedImages\\T-Icon-ST-Rowboat-128.png"
     }
   },
@@ -303,7 +303,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_expedition_rowboat2.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/SkillTree/T-Icon-ST-Rowboat-128.T-Icon-ST-Rowboat-128",
+      "SmallPreview": "ExportedImages\\T-Icon-ST-Rowboat-128.png",
       "LargePreview": "ExportedImages\\T-Icon-ST-Rowboat-128.png"
     }
   },
@@ -314,7 +314,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_expedition_rowboat3.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/SkillTree/T-Icon-ST-Rowboat-128.T-Icon-ST-Rowboat-128",
+      "SmallPreview": "ExportedImages\\T-Icon-ST-Rowboat-128.png",
       "LargePreview": "ExportedImages\\T-Icon-ST-Rowboat-128.png"
     }
   },
@@ -325,7 +325,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_expedition_rowboat4.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/SkillTree/T-Icon-ST-Rowboat-128.T-Icon-ST-Rowboat-128",
+      "SmallPreview": "ExportedImages\\T-Icon-ST-Rowboat-128.png",
       "LargePreview": "ExportedImages\\T-Icon-ST-Rowboat-128.png"
     }
   },
@@ -336,7 +336,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_expedition_speedboat.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/SkillTree/T-Icon-ST-Speedboat-128.T-Icon-ST-Speedboat-128",
+      "SmallPreview": "ExportedImages\\T-Icon-ST-Speedboat-128.png",
       "LargePreview": "ExportedImages\\T-Icon-ST-Speedboat-128.png"
     }
   },
@@ -347,7 +347,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_expedition_speedboat2.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/SkillTree/T-Icon-ST-Speedboat-128.T-Icon-ST-Speedboat-128",
+      "SmallPreview": "ExportedImages\\T-Icon-ST-Speedboat-128.png",
       "LargePreview": "ExportedImages\\T-Icon-ST-Speedboat-128.png"
     }
   },
@@ -358,7 +358,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_expedition_speedboat3.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/SkillTree/T-Icon-ST-Speedboat-128.T-Icon-ST-Speedboat-128",
+      "SmallPreview": "ExportedImages\\T-Icon-ST-Speedboat-128.png",
       "LargePreview": "ExportedImages\\T-Icon-ST-Speedboat-128.png"
     }
   },
@@ -369,7 +369,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_expedition_speedboat4.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/SkillTree/T-Icon-ST-Speedboat-128.T-Icon-ST-Speedboat-128",
+      "SmallPreview": "ExportedImages\\T-Icon-ST-Speedboat-128.png",
       "LargePreview": "ExportedImages\\T-Icon-ST-Speedboat-128.png"
     }
   },
@@ -380,7 +380,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_expedition_speedboat5.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/SkillTree/T-Icon-ST-Speedboat-128.T-Icon-ST-Speedboat-128",
+      "SmallPreview": "ExportedImages\\T-Icon-ST-Speedboat-128.png",
       "LargePreview": "ExportedImages\\T-Icon-ST-Speedboat-128.png"
     }
   },
@@ -391,7 +391,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_expedition_truck.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/SkillTree/T-Icon-ST-Struck-128.T-Icon-ST-Struck-128",
+      "SmallPreview": "ExportedImages\\T-Icon-ST-Struck-128.png",
       "LargePreview": "ExportedImages\\T-Icon-ST-Struck-128.png"
     }
   },
@@ -402,7 +402,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_expedition_truck2.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/SkillTree/T-Icon-ST-Struck-128.T-Icon-ST-Struck-128",
+      "SmallPreview": "ExportedImages\\T-Icon-ST-Struck-128.png",
       "LargePreview": "ExportedImages\\T-Icon-ST-Struck-128.png"
     }
   },
@@ -413,7 +413,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_expedition_truck3.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/SkillTree/T-Icon-ST-Struck-128.T-Icon-ST-Struck-128",
+      "SmallPreview": "ExportedImages\\T-Icon-ST-Struck-128.png",
       "LargePreview": "ExportedImages\\T-Icon-ST-Struck-128.png"
     }
   },
@@ -424,7 +424,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_expedition_truck4.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/SkillTree/T-Icon-ST-Struck-128.T-Icon-ST-Struck-128",
+      "SmallPreview": "ExportedImages\\T-Icon-ST-Struck-128.png",
       "LargePreview": "ExportedImages\\T-Icon-ST-Struck-128.png"
     }
   },
@@ -435,7 +435,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_expedition_truck5.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/SkillTree/T-Icon-ST-Struck-128.T-Icon-ST-Struck-128",
+      "SmallPreview": "ExportedImages\\T-Icon-ST-Struck-128.png",
       "LargePreview": "ExportedImages\\T-Icon-ST-Struck-128.png"
     }
   },
@@ -446,7 +446,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_feature_defenderlevelup.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Nodes/Icon-DefenderMelee.Icon-DefenderMelee",
+      "SmallPreview": "ExportedImages\\Icon-DefenderMelee.png",
       "LargePreview": "ExportedImages\\Icon-DefenderMelee.png"
     }
   },
@@ -457,7 +457,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_feature_herolevelup.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Quest/T-MAJOR.T-Major",
+      "SmallPreview": "ExportedImages\\T-MAJOR.png",
       "LargePreview": "ExportedImages\\T-MAJOR.png"
     }
   },
@@ -468,7 +468,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_feature_reperk.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Items/T-Items-WeaponPerkUp-Generic.T-Items-WeaponPerkUp-Generic",
+      "SmallPreview": "ExportedImages\\T-Items-WeaponPerkUp-Generic.png",
       "LargePreview": "ExportedImages\\T-Items-WeaponPerkUp-Generic.png"
     }
   },
@@ -479,7 +479,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_feature_researchsystem.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Quest/Icon-LARS-Headshot_NOALPHA-XL.Icon-LARS-Headshot_NOALPHA-XL",
+      "SmallPreview": "ExportedImages\\Icon-LARS-Headshot_NOALPHA-XL.png",
       "LargePreview": "ExportedImages\\Icon-LARS-Headshot_NOALPHA-XL.png"
     }
   },
@@ -490,7 +490,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_feature_skillsystem.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Quest/Icon-KEVIN-ALPHA.Icon-KEVIN-ALPHA",
+      "SmallPreview": "ExportedImages\\Icon-KEVIN-ALPHA.png",
       "LargePreview": "ExportedImages\\Icon-KEVIN-ALPHA.png"
     }
   },
@@ -501,7 +501,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_feature_survivorlevelup.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Quest/T-Director.T-Director",
+      "SmallPreview": "ExportedImages\\T-Director.png",
       "LargePreview": "ExportedImages\\T-Director.png"
     }
   },
@@ -512,7 +512,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_feature_survivorslotting.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/ItemTypes/T-Icon-Survivor-128.T-Icon-Survivor-128",
+      "SmallPreview": "ExportedImages\\T-Icon-Survivor-128.png",
       "LargePreview": "ExportedImages\\T-Icon-Survivor-128.png"
     }
   },
@@ -523,7 +523,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_feature_traplevelup.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/ItemCategories/T-Icon-Traps-128.T-Icon-Traps-128",
+      "SmallPreview": "ExportedImages\\T-Icon-Traps-128.png",
       "LargePreview": "ExportedImages\\T-Icon-Traps-128.png"
     }
   },
@@ -534,7 +534,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_feature_weaponlevelup.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Quest/T-Clip.T-Clip",
+      "SmallPreview": "ExportedImages\\T-Clip.png",
       "LargePreview": "ExportedImages\\T-Clip.png"
     }
   },
@@ -545,7 +545,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_herosupport_slot.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Drilldowns/T-Icon-Support-128.T-Icon-Support-128",
+      "SmallPreview": "ExportedImages\\T-Icon-Support-128.png",
       "LargePreview": "ExportedImages\\T-Icon-Support-128.png"
     }
   },
@@ -556,7 +556,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_herotactical_slot.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Drilldowns/T-Icon-Tactical-128.T-Icon-Tactical-128",
+      "SmallPreview": "ExportedImages\\T-Icon-Tactical-128.png",
       "LargePreview": "ExportedImages\\T-Icon-Tactical-128.png"
     }
   },
@@ -567,7 +567,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_homebase_defender.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-NodeDrilldowns/Drilldown-Icon-SquadSlot-Defenders-XL.Drilldown-Icon-SquadSlot-Defenders-XL",
+      "SmallPreview": "ExportedImages\\Drilldown-Icon-SquadSlot-Defenders-XL.png",
       "LargePreview": "ExportedImages\\Drilldown-Icon-SquadSlot-Defenders-XL.png"
     }
   },
@@ -578,7 +578,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_homebase_defender2.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-NodeDrilldowns/Drilldown-Icon-SquadSlot-Defenders-XL.Drilldown-Icon-SquadSlot-Defenders-XL",
+      "SmallPreview": "ExportedImages\\Drilldown-Icon-SquadSlot-Defenders-XL.png",
       "LargePreview": "ExportedImages\\Drilldown-Icon-SquadSlot-Defenders-XL.png"
     }
   },
@@ -589,7 +589,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_homebase_defender3.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-NodeDrilldowns/Drilldown-Icon-SquadSlot-Defenders-XL.Drilldown-Icon-SquadSlot-Defenders-XL",
+      "SmallPreview": "ExportedImages\\Drilldown-Icon-SquadSlot-Defenders-XL.png",
       "LargePreview": "ExportedImages\\Drilldown-Icon-SquadSlot-Defenders-XL.png"
     }
   },
@@ -600,7 +600,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_homebase_defender4.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-NodeDrilldowns/Drilldown-Icon-SquadSlot-Defenders-XL.Drilldown-Icon-SquadSlot-Defenders-XL",
+      "SmallPreview": "ExportedImages\\Drilldown-Icon-SquadSlot-Defenders-XL.png",
       "LargePreview": "ExportedImages\\Drilldown-Icon-SquadSlot-Defenders-XL.png"
     }
   },
@@ -611,7 +611,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_homebase_defender5.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-NodeDrilldowns/Drilldown-Icon-SquadSlot-Defenders-XL.Drilldown-Icon-SquadSlot-Defenders-XL",
+      "SmallPreview": "ExportedImages\\Drilldown-Icon-SquadSlot-Defenders-XL.png",
       "LargePreview": "ExportedImages\\Drilldown-Icon-SquadSlot-Defenders-XL.png"
     }
   },
@@ -622,7 +622,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_mission_defender.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/ItemCategories/T-Icon-Defenders-128.T-Icon-Defenders-128",
+      "SmallPreview": "ExportedImages\\T-Icon-Defenders-128.png",
       "LargePreview": "ExportedImages\\T-Icon-Defenders-128.png"
     }
   },
@@ -633,7 +633,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_mission_defender2.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/ItemCategories/T-Icon-Defenders-128.T-Icon-Defenders-128",
+      "SmallPreview": "ExportedImages\\T-Icon-Defenders-128.png",
       "LargePreview": "ExportedImages\\T-Icon-Defenders-128.png"
     }
   },
@@ -644,7 +644,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_mission_defender3.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/ItemCategories/T-Icon-Defenders-128.T-Icon-Defenders-128",
+      "SmallPreview": "ExportedImages\\T-Icon-Defenders-128.png",
       "LargePreview": "ExportedImages\\T-Icon-Defenders-128.png"
     }
   },
@@ -655,7 +655,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_newfollower1_slot.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/HeroLoadout/T-Icon-NewSupportSlot-128x.T-Icon-NewSupportSlot-128x",
+      "SmallPreview": "ExportedImages\\T-Icon-NewSupportSlot-128x.png",
       "LargePreview": "ExportedImages\\T-Icon-NewSupportSlot-128x.png"
     }
   },
@@ -666,7 +666,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_newfollower2_slot.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/HeroLoadout/T-Icon-NewSupportSlot-128x.T-Icon-NewSupportSlot-128x",
+      "SmallPreview": "ExportedImages\\T-Icon-NewSupportSlot-128x.png",
       "LargePreview": "ExportedImages\\T-Icon-NewSupportSlot-128x.png"
     }
   },
@@ -677,7 +677,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_newfollower3_slot.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/HeroLoadout/T-Icon-NewSupportSlot-128x.T-Icon-NewSupportSlot-128x",
+      "SmallPreview": "ExportedImages\\T-Icon-NewSupportSlot-128x.png",
       "LargePreview": "ExportedImages\\T-Icon-NewSupportSlot-128x.png"
     }
   },
@@ -688,7 +688,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_newfollower4_slot.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/HeroLoadout/T-Icon-NewSupportSlot-128x.T-Icon-NewSupportSlot-128x",
+      "SmallPreview": "ExportedImages\\T-Icon-NewSupportSlot-128x.png",
       "LargePreview": "ExportedImages\\T-Icon-NewSupportSlot-128x.png"
     }
   },
@@ -699,7 +699,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_newfollower5_slot.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/HeroLoadout/T-Icon-NewSupportSlot-128x.T-Icon-NewSupportSlot-128x",
+      "SmallPreview": "ExportedImages\\T-Icon-NewSupportSlot-128x.png",
       "LargePreview": "ExportedImages\\T-Icon-NewSupportSlot-128x.png"
     }
   },
@@ -710,7 +710,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_newheroloadout2_dummy.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/HeroLoadout/T-Icon-NewLoadoutConfiguration-128x.T-Icon-NewLoadoutConfiguration-128x",
+      "SmallPreview": "ExportedImages\\T-Icon-NewLoadoutConfiguration-128x.png",
       "LargePreview": "ExportedImages\\T-Icon-NewLoadoutConfiguration-128x.png"
     }
   },
@@ -721,7 +721,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_newheroloadout3_dummy.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/HeroLoadout/T-Icon-NewLoadoutConfiguration-128x.T-Icon-NewLoadoutConfiguration-128x",
+      "SmallPreview": "ExportedImages\\T-Icon-NewLoadoutConfiguration-128x.png",
       "LargePreview": "ExportedImages\\T-Icon-NewLoadoutConfiguration-128x.png"
     }
   },
@@ -732,7 +732,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_newheroloadout4_dummy.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/HeroLoadout/T-Icon-NewLoadoutConfiguration-128x.T-Icon-NewLoadoutConfiguration-128x",
+      "SmallPreview": "ExportedImages\\T-Icon-NewLoadoutConfiguration-128x.png",
       "LargePreview": "ExportedImages\\T-Icon-NewLoadoutConfiguration-128x.png"
     }
   },
@@ -743,7 +743,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_newheroloadout5_dummy.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/HeroLoadout/T-Icon-NewLoadoutConfiguration-128x.T-Icon-NewLoadoutConfiguration-128x",
+      "SmallPreview": "ExportedImages\\T-Icon-NewLoadoutConfiguration-128x.png",
       "LargePreview": "ExportedImages\\T-Icon-NewLoadoutConfiguration-128x.png"
     }
   },
@@ -754,7 +754,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_newheroloadout6_dummy.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/HeroLoadout/T-Icon-NewLoadoutConfiguration-128x.T-Icon-NewLoadoutConfiguration-128x",
+      "SmallPreview": "ExportedImages\\T-Icon-NewLoadoutConfiguration-128x.png",
       "LargePreview": "ExportedImages\\T-Icon-NewLoadoutConfiguration-128x.png"
     }
   },
@@ -765,7 +765,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_newheroloadout7_dummy.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/HeroLoadout/T-Icon-NewLoadoutConfiguration-128x.T-Icon-NewLoadoutConfiguration-128x",
+      "SmallPreview": "ExportedImages\\T-Icon-NewLoadoutConfiguration-128x.png",
       "LargePreview": "ExportedImages\\T-Icon-NewLoadoutConfiguration-128x.png"
     }
   },
@@ -776,7 +776,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_newheroloadout8_dummy.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/HeroLoadout/T-Icon-NewLoadoutConfiguration-128x.T-Icon-NewLoadoutConfiguration-128x",
+      "SmallPreview": "ExportedImages\\T-Icon-NewLoadoutConfiguration-128x.png",
       "LargePreview": "ExportedImages\\T-Icon-NewLoadoutConfiguration-128x.png"
     }
   },
@@ -787,7 +787,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_pickaxe.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Outpost/Icon-OutpostTab-HarvestOptimizer-L.Icon-OutpostTab-HarvestOptimizer-L",
+      "SmallPreview": "ExportedImages\\Icon-OutpostTab-HarvestOptimizer-L.png",
       "LargePreview": "ExportedImages\\Icon-OutpostTab-HarvestOptimizer-L.png"
     }
   },
@@ -798,7 +798,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_plankerton_squad_ssd1.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/SkillTree/T-Icon-ST-Surv-Gadgeteers-128.T-Icon-ST-Surv-Gadgeteers-128",
+      "SmallPreview": "ExportedImages\\T-Icon-ST-Surv-Gadgeteers-128.png",
       "LargePreview": "ExportedImages\\T-Icon-ST-Surv-Gadgeteers-128.png"
     }
   },
@@ -809,7 +809,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_plankerton_squad_ssd2.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/SkillTree/T-Icon-ST-Surv-CloseAssaultSquad-128.T-Icon-ST-Surv-CloseAssaultSquad-128",
+      "SmallPreview": "ExportedImages\\T-Icon-ST-Surv-CloseAssaultSquad-128.png",
       "LargePreview": "ExportedImages\\T-Icon-ST-Surv-CloseAssaultSquad-128.png"
     }
   },
@@ -820,7 +820,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_plankerton_squad_ssd3.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/SkillTree/T-Icon-ST-Surv-TrainingTeamSquad-128.T-Icon-ST-Surv-TrainingTeamSquad-128",
+      "SmallPreview": "ExportedImages\\T-Icon-ST-Surv-TrainingTeamSquad-128.png",
       "LargePreview": "ExportedImages\\T-Icon-ST-Surv-TrainingTeamSquad-128.png"
     }
   },
@@ -831,7 +831,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_plankerton_squad_ssd4.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/SkillTree/T-Icon-ST-Surv-ThinkTankSquad-128.T-Icon-ST-Surv-ThinkTankSquad-128",
+      "SmallPreview": "ExportedImages\\T-Icon-ST-Surv-ThinkTankSquad-128.png",
       "LargePreview": "ExportedImages\\T-Icon-ST-Surv-ThinkTankSquad-128.png"
     }
   },
@@ -842,7 +842,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_plankerton_squad_ssd5.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Navigation/T-Icon-Nav-Squad-128.T-Icon-Nav-Squad-128",
+      "SmallPreview": "ExportedImages\\T-Icon-Nav-Squad-128.png",
       "LargePreview": "ExportedImages\\T-Icon-Nav-Squad-128.png"
     }
   },
@@ -853,7 +853,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_plankerton_squad_ssd6.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Navigation/T-Icon-Nav-Squad-128.T-Icon-Nav-Squad-128",
+      "SmallPreview": "ExportedImages\\T-Icon-Nav-Squad-128.png",
       "LargePreview": "ExportedImages\\T-Icon-Nav-Squad-128.png"
     }
   },
@@ -864,7 +864,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_recyclecollection.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Buttons/T-SlotIcon-Recycle-128.T-SlotIcon-Recycle-128",
+      "SmallPreview": "ExportedImages\\T-SlotIcon-Recycle-128.png",
       "LargePreview": "ExportedImages\\T-SlotIcon-Recycle-128.png"
     }
   },
@@ -875,7 +875,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_stonewood_squad_ssd1.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/SkillTree/T-Icon-ST-Surv-ScoutingPartySquad-128.T-Icon-ST-Surv-ScoutingPartySquad-128",
+      "SmallPreview": "ExportedImages\\T-Icon-ST-Surv-ScoutingPartySquad-128.png",
       "LargePreview": "ExportedImages\\T-Icon-ST-Surv-ScoutingPartySquad-128.png"
     }
   },
@@ -886,7 +886,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_stonewood_squad_ssd2.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/SkillTree/T-Icon-ST-Surv-ScoutingPartySquad-128.T-Icon-ST-Surv-ScoutingPartySquad-128",
+      "SmallPreview": "ExportedImages\\T-Icon-ST-Surv-ScoutingPartySquad-128.png",
       "LargePreview": "ExportedImages\\T-Icon-ST-Surv-ScoutingPartySquad-128.png"
     }
   },
@@ -897,7 +897,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_stonewood_squad_ssd3.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/SkillTree/T-Icon-ST-Surv-ScoutingPartySquad-128.T-Icon-ST-Surv-ScoutingPartySquad-128",
+      "SmallPreview": "ExportedImages\\T-Icon-ST-Surv-ScoutingPartySquad-128.png",
       "LargePreview": "ExportedImages\\T-Icon-ST-Surv-ScoutingPartySquad-128.png"
     }
   },
@@ -908,7 +908,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_stonewood_squad_ssd4.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/SkillTree/T-Icon-ST-Surv-FireTeamAlphaSquad-128.T-Icon-ST-Surv-FireTeamAlphaSquad-128",
+      "SmallPreview": "ExportedImages\\T-Icon-ST-Surv-FireTeamAlphaSquad-128.png",
       "LargePreview": "ExportedImages\\T-Icon-ST-Surv-FireTeamAlphaSquad-128.png"
     }
   },
@@ -919,7 +919,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_stonewood_squad_ssd5.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/SkillTree/T-Icon-ST-Surv-EMTSquad-128.T-Icon-ST-Surv-EMTSquad-128",
+      "SmallPreview": "ExportedImages\\T-Icon-ST-Surv-EMTSquad-128.png",
       "LargePreview": "ExportedImages\\T-Icon-ST-Surv-EMTSquad-128.png"
     }
   },
@@ -930,7 +930,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_stonewood_squad_ssd6.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/SkillTree/T-Icon-ST-Surv-EngineeringSquad-128.T-Icon-ST-Surv-EngineeringSquad-128",
+      "SmallPreview": "ExportedImages\\T-Icon-ST-Surv-EngineeringSquad-128.png",
       "LargePreview": "ExportedImages\\T-Icon-ST-Surv-EngineeringSquad-128.png"
     }
   },
@@ -941,7 +941,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_teamperk_slot1.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/HeroLoadout/T-Icon-TeamPerkSlot-128x.T-Icon-TeamPerkSlot-128x",
+      "SmallPreview": "ExportedImages\\T-Icon-TeamPerkSlot-128x.png",
       "LargePreview": "ExportedImages\\T-Icon-TeamPerkSlot-128x.png"
     }
   },
@@ -952,7 +952,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_twinepeaks_squad_ssd1.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/SkillTree/T-Icon-ST-Surv-Gadgeteers-128.T-Icon-ST-Surv-Gadgeteers-128",
+      "SmallPreview": "ExportedImages\\T-Icon-ST-Surv-Gadgeteers-128.png",
       "LargePreview": "ExportedImages\\T-Icon-ST-Surv-Gadgeteers-128.png"
     }
   },
@@ -963,7 +963,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_twinepeaks_squad_ssd2.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/SkillTree/T-Icon-ST-Surv-CloseAssaultSquad-128.T-Icon-ST-Surv-CloseAssaultSquad-128",
+      "SmallPreview": "ExportedImages\\T-Icon-ST-Surv-CloseAssaultSquad-128.png",
       "LargePreview": "ExportedImages\\T-Icon-ST-Surv-CloseAssaultSquad-128.png"
     }
   },
@@ -974,7 +974,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_twinepeaks_squad_ssd3.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/SkillTree/T-Icon-ST-Surv-TrainingTeamSquad-128.T-Icon-ST-Surv-TrainingTeamSquad-128",
+      "SmallPreview": "ExportedImages\\T-Icon-ST-Surv-TrainingTeamSquad-128.png",
       "LargePreview": "ExportedImages\\T-Icon-ST-Surv-TrainingTeamSquad-128.png"
     }
   },
@@ -985,7 +985,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_twinepeaks_squad_ssd4.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/SkillTree/T-Icon-ST-Surv-ThinkTankSquad-128.T-Icon-ST-Surv-ThinkTankSquad-128",
+      "SmallPreview": "ExportedImages\\T-Icon-ST-Surv-ThinkTankSquad-128.png",
       "LargePreview": "ExportedImages\\T-Icon-ST-Surv-ThinkTankSquad-128.png"
     }
   },
@@ -996,7 +996,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_twinepeaks_squad_ssd5.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Navigation/T-Icon-Nav-Squad-128.T-Icon-Nav-Squad-128",
+      "SmallPreview": "ExportedImages\\T-Icon-Nav-Squad-128.png",
       "LargePreview": "ExportedImages\\T-Icon-Nav-Squad-128.png"
     }
   },
@@ -1007,7 +1007,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_twinepeaks_squad_ssd6.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Navigation/T-Icon-Nav-Squad-128.T-Icon-Nav-Squad-128",
+      "SmallPreview": "ExportedImages\\T-Icon-Nav-Squad-128.png",
       "LargePreview": "ExportedImages\\T-Icon-Nav-Squad-128.png"
     }
   },
@@ -1018,7 +1018,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/skilltree_adrenalinerush.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Gadgets/Icon-Gadget-AdrenalineRush-128.Icon-Gadget-AdrenalineRush-128",
+      "SmallPreview": "ExportedImages\\Icon-Gadget-AdrenalineRush-128.png",
       "LargePreview": "ExportedImages\\Icon-Gadget-AdrenalineRush-128.png"
     }
   },
@@ -1029,7 +1029,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/skilltree_airstrike.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Gadgets/Icon-Gadget-Airstrike-128.Icon-Gadget-Airstrike-128",
+      "SmallPreview": "ExportedImages\\Icon-Gadget-Airstrike-128.png",
       "LargePreview": "ExportedImages\\Icon-Gadget-Airstrike-128.png"
     }
   },
@@ -1040,7 +1040,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/skilltree_backpacksize.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/HUD/T-Icon-Backpack-128.T-Icon-Backpack-128",
+      "SmallPreview": "ExportedImages\\T-Icon-Backpack-128.png",
       "LargePreview": "ExportedImages\\T-Icon-Backpack-128.png"
     }
   },
@@ -1051,7 +1051,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/skilltree_banner.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Gadgets/Icon-Gadget-Banner-128.Icon-Gadget-Banner-128",
+      "SmallPreview": "ExportedImages\\Icon-Gadget-Banner-128.png",
       "LargePreview": "ExportedImages\\Icon-Gadget-Banner-128.png"
     }
   },
@@ -1062,7 +1062,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/skilltree_buildandrepairspeed.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Stats/T-Icon-BuildingSpeed-128.T-Icon-BuildingSpeed-128",
+      "SmallPreview": "ExportedImages\\T-Icon-BuildingSpeed-128.png",
       "LargePreview": "ExportedImages\\T-Icon-BuildingSpeed-128.png"
     }
   },
@@ -1073,7 +1073,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/skilltree_buildinghealth.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Stats/T-Icon-BuildingHealth-128.T-Icon-BuildingHealth-128",
+      "SmallPreview": "ExportedImages\\T-Icon-BuildingHealth-128.png",
       "LargePreview": "ExportedImages\\T-Icon-BuildingHealth-128.png"
     }
   },
@@ -1084,7 +1084,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/skilltree_hoverturret.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Gadgets/Icon-Gadget-TurretBot-128.Icon-Gadget-TurretBot-128",
+      "SmallPreview": "ExportedImages\\Icon-Gadget-TurretBot-128.png",
       "LargePreview": "ExportedImages\\Icon-Gadget-TurretBot-128.png"
     }
   },
@@ -1095,7 +1095,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/skilltree_pickaxe.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Outpost/Icon-OutpostTab-HarvestOptimizer-L.Icon-OutpostTab-HarvestOptimizer-L",
+      "SmallPreview": "ExportedImages\\Icon-OutpostTab-HarvestOptimizer-L.png",
       "LargePreview": "ExportedImages\\Icon-OutpostTab-HarvestOptimizer-L.png"
     }
   },
@@ -1106,7 +1106,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/skilltree_proximitymine.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Gadgets/Icon-Gadget-ProximityMine-128.Icon-Gadget-ProximityMine-128",
+      "SmallPreview": "ExportedImages\\Icon-Gadget-ProximityMine-128.png",
       "LargePreview": "ExportedImages\\Icon-Gadget-ProximityMine-128.png"
     }
   },
@@ -1117,7 +1117,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/skilltree_slowfield.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Gadgets/Icon-Gadget-Slowfield-128.Icon-Gadget-Slowfield-128",
+      "SmallPreview": "ExportedImages\\Icon-Gadget-Slowfield-128.png",
       "LargePreview": "ExportedImages\\Icon-Gadget-Slowfield-128.png"
     }
   },
@@ -1128,7 +1128,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/skilltree_stormshieldstorage.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-Outpost/Icon-OutpostTab-Storage-128.Icon-OutpostTab-Storage-128",
+      "SmallPreview": "ExportedImages\\Icon-OutpostTab-Storage-128.png",
       "LargePreview": "ExportedImages\\Icon-OutpostTab-Storage-128.png"
     }
   },
@@ -1139,7 +1139,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/skilltree_supplydrop.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Gadgets/Icon-Gadget-SupplyDrop-128.Icon-Gadget-SupplyDrop-128",
+      "SmallPreview": "ExportedImages\\Icon-Gadget-SupplyDrop-128.png",
       "LargePreview": "ExportedImages\\Icon-Gadget-SupplyDrop-128.png"
     }
   },
@@ -1150,7 +1150,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/skilltree_teleporter.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Gadgets/Icon-Gadget-Teleporter-128.Icon-Gadget-Teleporter-128",
+      "SmallPreview": "ExportedImages\\Icon-Gadget-Teleporter-128.png",
       "LargePreview": "ExportedImages\\Icon-Gadget-Teleporter-128.png"
     }
   },
@@ -1161,7 +1161,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/startnode_commandcenter.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Heroes/Icon-Perk-Missing-M.Icon-Perk-Missing-M",
+      "SmallPreview": "ExportedImages\\Icon-Perk-Missing-M.png",
       "LargePreview": "ExportedImages\\Icon-Perk-Missing-128.png"
     }
   }

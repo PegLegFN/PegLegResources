@@ -8,7 +8,7 @@
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/accountconsumables/foundersfriendcode.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Founders/T-Icon-GiftableGame-128.T-Icon-GiftableGame-128",
+      "SmallPreview": "ExportedImages\\T-Icon-GiftableGame-128.png",
       "LargePreview": "ExportedImages\\T-Icon-GiftableGame-512.png"
     }
   },
@@ -20,7 +20,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/accountconsumables/smallxpboost.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/XP/Icon-XP-L.Icon-XP-L",
+      "SmallPreview": "ExportedImages\\Icon-XP-L.png",
       "LargePreview": "ExportedImages\\Icon-XP-XL.png"
     }
   },
@@ -32,7 +32,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/accountconsumables/smallxpboost_gift.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/XP/Icon-GiftXP-L.Icon-GiftXP-L",
+      "SmallPreview": "ExportedImages\\Icon-GiftXP-L.png",
       "LargePreview": "ExportedImages\\Icon-GiftXP-XL.png"
     }
   },

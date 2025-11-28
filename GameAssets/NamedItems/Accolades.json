@@ -9,7 +9,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_badge_building.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -23,7 +23,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_badge_building_bronze.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -37,7 +37,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_badge_building_gold.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -51,7 +51,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_badge_building_platinum.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -65,7 +65,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_badge_combat.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -79,7 +79,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_badge_combat_bronze.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -93,7 +93,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_badge_combat_gold.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -107,7 +107,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_badge_combat_platinum.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -121,7 +121,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_badge_exploration.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -135,7 +135,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_badge_utility.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -149,7 +149,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_badge_utility_bronze.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -163,7 +163,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_badge_utility_gold.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -177,7 +177,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_badge_utility_platinum.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -191,7 +191,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_endurance_w01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -205,7 +205,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_endurance_w02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -219,7 +219,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_endurance_w03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -233,7 +233,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_endurance_w04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -247,7 +247,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_endurance_w05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -261,7 +261,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_endurance_w06.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -275,7 +275,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_endurance_w07.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -289,7 +289,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_endurance_w08.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -303,7 +303,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_endurance_w09.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -317,7 +317,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_endurance_w10.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -331,7 +331,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_endurance_w11.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -345,7 +345,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_endurance_w12.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -359,7 +359,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_endurance_w13.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -373,7 +373,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_endurance_w14.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -387,7 +387,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_endurance_w15.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -401,7 +401,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_endurance_w16.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -415,7 +415,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_endurance_w17.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -429,7 +429,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_endurance_w18.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -443,7 +443,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_endurance_w19.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -457,7 +457,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_endurance_w20.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -471,7 +471,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_endurance_w21.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -485,7 +485,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_endurance_w22.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -499,7 +499,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_endurance_w23.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -513,7 +513,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_endurance_w24.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -527,7 +527,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_endurance_w25.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -541,7 +541,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_endurance_w26.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -555,7 +555,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_endurance_w27.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -569,7 +569,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_endurance_w28.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -583,7 +583,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_endurance_w29.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -597,7 +597,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_endurance_w30.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -611,7 +611,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_frostnite_w01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -625,7 +625,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_frostnite_w02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -639,7 +639,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_frostnite_w03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -653,7 +653,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_frostnite_w04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -667,7 +667,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_frostnite_w05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -681,7 +681,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_frostnite_w06.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -695,7 +695,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_frostnite_w07.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -709,7 +709,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_frostnite_w08.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -723,7 +723,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_frostnite_w09.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -737,7 +737,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_frostnite_w10.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -751,7 +751,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_frostnite_w11.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -765,7 +765,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_frostnite_w12.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -779,7 +779,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_frostnite_w13.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -793,7 +793,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_frostnite_w14.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -807,7 +807,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_frostnite_w15.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -821,7 +821,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_frostnite_w16.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -835,7 +835,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_frostnite_w17.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -849,7 +849,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_frostnite_w18.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -863,7 +863,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_frostnite_w19.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -877,7 +877,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_frostnite_w20.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -891,7 +891,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_hittheroad_prog_bridgeout.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -905,7 +905,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_hittheroad_prog_bughunt.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -919,7 +919,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_hittheroad_prog_feelinblu.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -933,7 +933,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_hittheroad_prog_minordelay.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -947,7 +947,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_hittheroad_prog_overheat.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -961,7 +961,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_hittheroad_prog_partyplanner.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -975,7 +975,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_hittheroad_prog_pitstop.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -989,7 +989,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_hittheroad_prog_signalboost.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -1003,7 +1003,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_hittheroad_prog_strangelands.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -1017,7 +1017,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_hittheroad_victory.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -1031,7 +1031,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/stw/stw_horde/content/items/stwaccolades/accolades/accoladeid_stw_horde_bonus_base1.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -1045,7 +1045,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/stw/stw_horde/content/items/stwaccolades/accolades/accoladeid_stw_horde_bonus_base2.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -1059,7 +1059,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/stw/stw_horde/content/items/stwaccolades/accolades/accoladeid_stw_horde_bonus_base3.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -1073,7 +1073,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/stw/stw_horde/content/items/stwaccolades/accolades/accoladeid_stw_horde_bonus_survive.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -1087,7 +1087,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/stw/stw_horde/content/items/stwaccolades/accolades/accoladeid_stw_horde_fail.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -1101,7 +1101,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/stw/stw_horde/content/items/stwaccolades/accolades/accoladeid_stw_horde_w01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -1115,7 +1115,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/stw/stw_horde/content/items/stwaccolades/accolades/accoladeid_stw_horde_w02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -1129,7 +1129,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/stw/stw_horde/content/items/stwaccolades/accolades/accoladeid_stw_horde_w03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -1143,7 +1143,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/stw/stw_horde/content/items/stwaccolades/accolades/accoladeid_stw_horde_w04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -1157,7 +1157,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/stw/stw_horde/content/items/stwaccolades/accolades/accoladeid_stw_horde_w05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -1171,7 +1171,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/stw/stw_horde/content/items/stwaccolades/accolades/accoladeid_stw_horde_w06.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -1185,7 +1185,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/stw/stw_horde/content/items/stwaccolades/accolades/accoladeid_stw_horde_w07.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -1199,7 +1199,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/stw/stw_horde/content/items/stwaccolades/accolades/accoladeid_stw_horde_w08.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -1213,7 +1213,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/stw/stw_horde/content/items/stwaccolades/accolades/accoladeid_stw_horde_w09.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -1227,7 +1227,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/stw/stw_horde/content/items/stwaccolades/accolades/accoladeid_stw_horde_w10.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -1241,7 +1241,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/stw/stw_horde/content/items/stwaccolades/accolades/accoladeid_stw_horde_w11.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -1255,7 +1255,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/stw/stw_horde/content/items/stwaccolades/accolades/accoladeid_stw_horde_w12.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -1269,7 +1269,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/stw/stw_horde/content/items/stwaccolades/accolades/accoladeid_stw_horde_w13.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -1283,7 +1283,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/stw/stw_horde/content/items/stwaccolades/accolades/accoladeid_stw_horde_w14.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -1297,7 +1297,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/stw/stw_horde/content/items/stwaccolades/accolades/accoladeid_stw_horde_w15.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -1311,7 +1311,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_bonus_speedrun2.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -1325,7 +1325,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_bonus_speedrun3.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -1339,7 +1339,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_bonus_speedrun4.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -1353,7 +1353,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_brt_gold.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -1367,7 +1367,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_brt_participation.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -1381,7 +1381,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_brt_platinum.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -1395,7 +1395,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_brt_victory.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -1409,7 +1409,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_dtb_bonusfindobjective.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -1423,7 +1423,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_dtb_bonushalfhealth.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -1437,7 +1437,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_dtb_failbomblost.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -1451,7 +1451,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_dtb_failfinaldefense.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -1465,7 +1465,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_dtb_victory.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -1479,7 +1479,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_dte_bronze.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -1493,7 +1493,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_dte_gold.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -1507,7 +1507,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_dte_participation.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -1521,7 +1521,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_dte_platinum.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -1535,7 +1535,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_dte_silver.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -1549,7 +1549,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_dte_victory.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -1563,7 +1563,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_elimandcollect_bonus1.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -1577,7 +1577,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_elimandcollect_bronze.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -1591,7 +1591,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_elimandcollect_fail.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -1605,7 +1605,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_elimandcollect_gold.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -1619,7 +1619,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_elimandcollect_platinum.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -1633,7 +1633,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_elimandcollect_resupply_bonus2.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -1647,7 +1647,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_elimandcollect_silver.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -1661,7 +1661,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_etshelter_bonushalfhealth.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -1675,7 +1675,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_etshelter_fail.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -1689,7 +1689,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_etshelter_victory.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -1703,7 +1703,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_fts_bonus.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -1717,7 +1717,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_fts_fail.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -1731,7 +1731,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_fts_victory1.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -1745,7 +1745,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_fts_victory2.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -1759,7 +1759,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_fts_victory3.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -1773,7 +1773,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_fts_victory4.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -1787,7 +1787,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_huntthemonster_fail.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -1801,7 +1801,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_huntthemonster_victory.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -1815,7 +1815,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_huskescape_bonus.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -1829,7 +1829,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_huskescape_bronze.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -1843,7 +1843,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_huskescape_gold.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -1857,7 +1857,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_huskescape_participation.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -1871,7 +1871,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_huskescape_platinum.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -1885,7 +1885,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_huskescape_silver.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -1899,7 +1899,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_br_bonus.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -1913,7 +1913,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_br_fail.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -1927,7 +1927,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_br_victory.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -1941,7 +1941,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_btm_bonus.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -1955,7 +1955,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_btm_fail.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -1969,7 +1969,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_btm_victory.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -1983,7 +1983,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_dtm_bonus.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -1997,7 +1997,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_dtm_fail.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -2011,7 +2011,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_dtm_victory.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -2025,7 +2025,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_dtp_fail.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -2039,7 +2039,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_dtp_victory.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -2053,7 +2053,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_ff_bonus.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -2067,7 +2067,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_ff_fail.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -2081,7 +2081,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_ff_victory.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -2095,7 +2095,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_fr_bonus.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -2109,7 +2109,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_fr_fail.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -2123,7 +2123,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_fr_victory.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -2137,7 +2137,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_ftg_fail.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -2151,7 +2151,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_ftg_victory.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -2165,7 +2165,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_hh1_fail.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -2179,7 +2179,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_hh1_victory.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -2193,7 +2193,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_hhf_bonus.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -2207,7 +2207,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_hhf_fail.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -2221,7 +2221,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_hhf_victory.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -2235,7 +2235,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_htr_fail.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -2249,7 +2249,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_htr_victory.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -2263,7 +2263,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_invendingdoom_fail.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -2277,7 +2277,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_invendingdoom_victory.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -2291,7 +2291,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_kn_fail.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -2305,7 +2305,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_kn_victory.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -2319,7 +2319,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_mhm_bonus.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -2333,7 +2333,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_mhm_fail.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -2347,7 +2347,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_mhm_victory.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -2361,7 +2361,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_pc_fail.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -2375,7 +2375,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_pc_victory.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -2389,7 +2389,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_stc_bonus.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -2403,7 +2403,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_stc_fail.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -2417,7 +2417,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_stc_victory.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -2431,7 +2431,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_str_bonus.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -2445,7 +2445,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_str_fail.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -2459,7 +2459,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_str_victory.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -2473,7 +2473,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_trv_bonus.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -2487,7 +2487,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_trv_fail.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -2501,7 +2501,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_trv_victory.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -2515,7 +2515,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_tts_fail.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -2529,7 +2529,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_tts_victory.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -2543,7 +2543,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_vl_bonus.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -2557,7 +2557,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_vl_fail.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -2571,7 +2571,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_vl_victory.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -2585,7 +2585,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_vm_bonus.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -2599,7 +2599,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_vm_fail.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -2613,7 +2613,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_vm_victory.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -2627,7 +2627,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_wtp_bonus.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -2641,7 +2641,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_wtp_fail.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -2655,7 +2655,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_wtp_victory.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -2669,7 +2669,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_yr_fail.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -2683,7 +2683,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_yr_victory.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -2697,7 +2697,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_ltr_fail.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -2711,7 +2711,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_ltr_stage1.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -2725,7 +2725,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_ltr_stage2.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -2739,7 +2739,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_ltr_stage3.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -2753,7 +2753,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_ltr_success.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -2767,7 +2767,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_ptp_bronze.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -2781,7 +2781,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_ptp_fail.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -2795,7 +2795,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_ptp_gold.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -2809,7 +2809,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_ptp_platinum.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -2823,7 +2823,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_ptp_silver.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -2837,7 +2837,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_ptr_fail.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -2851,7 +2851,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_ptr_victory.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -2865,7 +2865,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_resupply_bonus1.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -2879,7 +2879,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_resupply_bronze.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -2893,7 +2893,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_resupply_fail.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -2907,7 +2907,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_resupply_gold.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -2921,7 +2921,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_resupply_platinum.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -2935,7 +2935,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_resupply_silver.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -2949,7 +2949,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_resupply_victory.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -2963,7 +2963,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_rftb_bonus.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -2977,7 +2977,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_rftb_bronze.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -2991,7 +2991,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_rftb_fail.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -3005,7 +3005,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_rftb_gold.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -3019,7 +3019,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_rftb_platinum.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -3033,7 +3033,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_rftb_silver.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -3047,7 +3047,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_rtd_bonus.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -3061,7 +3061,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_rtd_fail.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -3075,7 +3075,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_rtd_victory1.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -3089,7 +3089,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_rtd_victory2.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -3103,7 +3103,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_rtd_victory3.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -3117,7 +3117,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_rtd_victory4.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -3131,7 +3131,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_rtl_fail.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -3145,7 +3145,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_rtl_stage1.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -3159,7 +3159,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_rtl_stage2.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -3173,7 +3173,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_rtl_success.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -3187,7 +3187,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_rts_bronze.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -3201,7 +3201,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_rts_fail.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -3215,7 +3215,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_rts_gold.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -3229,7 +3229,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_rts_platinum.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -3243,7 +3243,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_rts_silver.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -3257,7 +3257,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_rts_victory.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -3271,7 +3271,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_sk_fail.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -3285,7 +3285,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_sk_victory.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -3299,7 +3299,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_stn_eliminatet1.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -3313,7 +3313,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_stn_eliminatet2.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -3327,7 +3327,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_stn_fail.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -3341,7 +3341,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_stn_hunttakers.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -3355,7 +3355,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_stn_nodowns.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -3369,7 +3369,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_stn_victory.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -3383,7 +3383,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_tts_fail.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -3397,7 +3397,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_tts_victory.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -3411,7 +3411,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_tutorial_victory.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -3425,7 +3425,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_quest_dungeon_daily.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -3439,7 +3439,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_quest_endurance_daily_w05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -3453,7 +3453,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_quest_endurance_daily_w10.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -3467,7 +3467,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_quest_endurance_daily_w15.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -3481,7 +3481,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_quest_endurance_daily_w20.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -3495,7 +3495,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_quest_endurance_daily_w25.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -3509,7 +3509,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_quest_endurance_daily_w30.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -3523,7 +3523,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_quest_frostnite_daily.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -3537,7 +3537,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_quest_frostnite_weekly.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -3551,7 +3551,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_quest_general_daily.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -3565,7 +3565,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_quest_general_weekly.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -3579,7 +3579,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_quest_hittheroad_daily.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -3593,7 +3593,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_quest_hittheroad_weekly.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -3607,7 +3607,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/stw/stw_horde/content/items/stwaccolades/accolades/accoladeid_stw_quest_hordev3_daily_w05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -3621,7 +3621,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/stw/stw_horde/content/items/stwaccolades/accolades/accoladeid_stw_quest_hordev3_daily_w10.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -3635,7 +3635,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/stw/stw_horde/content/items/stwaccolades/accolades/accoladeid_stw_quest_hordev3_daily_w15.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -3649,7 +3649,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/stw/stw_horde/content/items/stwaccolades/accolades/accoladeid_stw_quest_hordev3_weekly.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -3663,7 +3663,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_quest_wargames_daily.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -3677,7 +3677,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_quest_wargames_weekly.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -3691,7 +3691,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_ssd_t01_bonus.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -3705,7 +3705,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_ssd_t01_l01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -3719,7 +3719,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_ssd_t01_l02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -3733,7 +3733,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_ssd_t01_l03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -3747,7 +3747,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_ssd_t01_l04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -3761,7 +3761,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_ssd_t01_l05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -3775,7 +3775,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_ssd_t01_l06.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -3789,7 +3789,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_ssd_t01_l07.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -3803,7 +3803,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_ssd_t01_l08.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -3817,7 +3817,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_ssd_t01_l09.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -3831,7 +3831,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_ssd_t01_l10.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -3845,7 +3845,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_ssd_t02_bonus.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -3859,7 +3859,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_ssd_t02_l01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -3873,7 +3873,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_ssd_t02_l02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -3887,7 +3887,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_ssd_t02_l03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -3901,7 +3901,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_ssd_t02_l04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -3915,7 +3915,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_ssd_t02_l05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -3929,7 +3929,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_ssd_t02_l06.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -3943,7 +3943,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_ssd_t02_l07.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -3957,7 +3957,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_ssd_t02_l08.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -3971,7 +3971,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_ssd_t02_l09.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -3985,7 +3985,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_ssd_t02_l10.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -3999,7 +3999,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_ssd_t03_bonus.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -4013,7 +4013,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_ssd_t03_l01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -4027,7 +4027,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_ssd_t03_l02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -4041,7 +4041,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_ssd_t03_l03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -4055,7 +4055,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_ssd_t03_l04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -4069,7 +4069,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_ssd_t03_l05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -4083,7 +4083,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_ssd_t03_l06.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -4097,7 +4097,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_ssd_t03_l07.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -4111,7 +4111,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_ssd_t03_l08.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -4125,7 +4125,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_ssd_t03_l09.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -4139,7 +4139,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_ssd_t03_l10.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -4153,7 +4153,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_ssd_t04_bonus.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -4167,7 +4167,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_ssd_t04_l01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -4181,7 +4181,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_ssd_t04_l02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -4195,7 +4195,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_ssd_t04_l03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -4209,7 +4209,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_ssd_t04_l04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -4223,7 +4223,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_ssd_t04_l05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -4237,7 +4237,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_ssd_t04_l06.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -4251,7 +4251,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_ssd_t04_l07.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -4265,7 +4265,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_ssd_t04_l08.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -4279,7 +4279,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_ssd_t04_l09.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -4293,7 +4293,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_ssd_t04_l10.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -4307,7 +4307,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_starlight_d01_keymaster.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -4321,7 +4321,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_starlight_d01_progress1.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -4335,7 +4335,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_starlight_d01_progress2.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -4349,7 +4349,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_starlight_d01_progress3.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -4363,7 +4363,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_starlight_d01_victory.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -4377,7 +4377,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_starlight_d02_keymaster.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -4391,7 +4391,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_starlight_d02_progress1.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -4405,7 +4405,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_starlight_d02_progress2.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -4419,7 +4419,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_starlight_d02_progress3.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -4433,7 +4433,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_starlight_d02_victory.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -4447,7 +4447,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_starlight_d03_keymaster.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -4461,7 +4461,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_starlight_d03_progress1.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -4475,7 +4475,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_starlight_d03_progress2.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -4489,7 +4489,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_starlight_d03_progress3.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -4503,7 +4503,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_starlight_d03_victory.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -4517,7 +4517,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_starlight_d04_keymaster.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -4531,7 +4531,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_starlight_d04_progress1.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -4545,7 +4545,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_starlight_d04_progress2.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -4559,7 +4559,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_starlight_d04_progress3.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -4573,7 +4573,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_starlight_d04_victory.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -4587,7 +4587,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_starlight_d05_keymaster.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -4601,7 +4601,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_starlight_d05_progress1.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -4615,7 +4615,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_starlight_d05_progress2.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -4629,7 +4629,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_starlight_d05_progress3.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -4643,7 +4643,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_starlight_d05_victory.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -4657,7 +4657,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_wargames_bonus.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   },
@@ -4671,7 +4671,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_wargames_victory.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_UI_FNBR_XPeverywhere_S.T_UI_FNBR_XPeverywhere_S",
+      "SmallPreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_S.png",
       "LargePreview": "ExportedImages\\T_UI_FNBR_XPeverywhere_L.png"
     }
   }

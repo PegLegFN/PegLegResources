@@ -8,7 +8,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/content/abilities/player/generic/gadgets/airstrike/g_airstrike.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Gadgets/Icon-Gadget-Airstrike-bg-128.Icon-Gadget-Airstrike-bg-128",
+      "SmallPreview": "ExportedImages\\Icon-Gadget-Airstrike-bg-128.png",
       "LargePreview": "ExportedImages\\Icon-Gadget-Airstrike-bg-128.png"
     }
   },
@@ -20,7 +20,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/generic/gadgets/onboardingairstrike/g_airstrike_onboarding.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Gadgets/Icon-Gadget-Airstrike-bg-128.Icon-Gadget-Airstrike-bg-128",
+      "SmallPreview": "ExportedImages\\Icon-Gadget-Airstrike-bg-128.png",
       "LargePreview": "ExportedImages\\Icon-Gadget-Airstrike-bg-128.png"
     }
   },
@@ -32,7 +32,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/generic/gadgets/bottlerocket/g_bottlerocket.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T-Icon-S-BottleRocket-Launcher.T-Icon-S-BottleRocket-Launcher",
+      "SmallPreview": "ExportedImages\\T-Icon-S-BottleRocket-Launcher.png",
       "LargePreview": "ExportedImages\\T-Icon-S-BottleRocket-Launcher.png"
     }
   },
@@ -44,7 +44,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/generic/gadgets/track/g_cart.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Gadgets/Teleporter.Teleporter",
+      "SmallPreview": "ExportedImages\\Teleporter.png",
       "LargePreview": "ExportedImages\\Teleporter.png"
     }
   },
@@ -56,7 +56,7 @@
     "Rarity": "Mythic",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/generic/gadgets/debug/g_debugattributegain.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/CodeReferenced/KillIcon_Skull.KillIcon_Skull",
+      "SmallPreview": "ExportedImages\\KillIcon_Skull.png",
       "LargePreview": "ExportedImages\\KillIcon_Skull.png"
     }
   },
@@ -69,7 +69,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/content/abilities/player/generic/gadgets/adrenalinerush/g_generic_adrenalinerush.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Gadgets/Icon-Gadget-AdrenalineRush-bg-128.Icon-Gadget-AdrenalineRush-bg-128",
+      "SmallPreview": "ExportedImages\\Icon-Gadget-AdrenalineRush-bg-128.png",
       "LargePreview": "ExportedImages\\Icon-Gadget-AdrenalineRush-bg-128.png"
     }
   },
@@ -82,7 +82,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/generic/gadgets/banner/g_generic_banner.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Gadgets/Icon-Gadget-Banner-bg-128.Icon-Gadget-Banner-bg-128",
+      "SmallPreview": "ExportedImages\\Icon-Gadget-Banner-bg-128.png",
       "LargePreview": "ExportedImages\\Icon-Gadget-Banner-bg-128.png"
     }
   },
@@ -95,7 +95,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/generic/gadgets/bot_turret/g_generic_botturret.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Gadgets/Icon-Gadget-TurretBot-bg-128.Icon-Gadget-TurretBot-bg-128",
+      "SmallPreview": "ExportedImages\\Icon-Gadget-TurretBot-bg-128.png",
       "LargePreview": "ExportedImages\\Icon-Gadget-TurretBot-bg-128.png"
     }
   },
@@ -107,7 +107,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/generic/gadgets/glow_torch/g_generic_glowtorch_blue.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Items/T-Icon-GlowStick-Pickup-Blue.T-Icon-GlowStick-Pickup-Blue",
+      "SmallPreview": "ExportedImages\\T-Icon-GlowStick-Pickup-Blue.png",
       "LargePreview": "ExportedImages\\T-Icon-GlowStick-Pickup-Blue.png"
     }
   },
@@ -119,7 +119,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/generic/gadgets/glow_torch/g_generic_glowtorch_green.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Items/T-Icon-GlowStick-Pickup-Green.T-Icon-GlowStick-Pickup-Green",
+      "SmallPreview": "ExportedImages\\T-Icon-GlowStick-Pickup-Green.png",
       "LargePreview": "ExportedImages\\T-Icon-GlowStick-Pickup-Green.png"
     }
   },
@@ -131,7 +131,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/generic/gadgets/glow_torch/g_generic_glowtorch_orange.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Items/T-Icon-GlowStick-Pickup-Orange.T-Icon-GlowStick-Pickup-Orange",
+      "SmallPreview": "ExportedImages\\T-Icon-GlowStick-Pickup-Orange.png",
       "LargePreview": "ExportedImages\\T-Icon-GlowStick-Pickup-Orange.png"
     }
   },
@@ -143,7 +143,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/generic/gadgets/glow_torch/g_generic_glowtorch_purple.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Items/T-Icon-GlowStick-Pickup-Purple.T-Icon-GlowStick-Pickup-Purple",
+      "SmallPreview": "ExportedImages\\T-Icon-GlowStick-Pickup-Purple.png",
       "LargePreview": "ExportedImages\\T-Icon-GlowStick-Pickup-Purple.png"
     }
   },
@@ -155,7 +155,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/generic/gadgets/glow_torch/g_generic_glowtorch_white.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Items/T-Icon-GlowStick-Pickup-White.T-Icon-GlowStick-Pickup-White",
+      "SmallPreview": "ExportedImages\\T-Icon-GlowStick-Pickup-White.png",
       "LargePreview": "ExportedImages\\T-Icon-GlowStick-Pickup-White.png"
     }
   },
@@ -167,7 +167,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/generic/gadgets/glow_torch/g_generic_glowtorch_yellow.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Items/T-Icon-GlowStick-Pickup-Yellow.T-Icon-GlowStick-Pickup-Yellow",
+      "SmallPreview": "ExportedImages\\T-Icon-GlowStick-Pickup-Yellow.png",
       "LargePreview": "ExportedImages\\T-Icon-GlowStick-Pickup-Yellow.png"
     }
   },
@@ -180,7 +180,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/generic/gadgets/proximity_mines/g_generic_proximitymines.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Gadgets/Icon-Gadget-ProximityMine-bg-128.Icon-Gadget-ProximityMine-bg-128",
+      "SmallPreview": "ExportedImages\\Icon-Gadget-ProximityMine-bg-128.png",
       "LargePreview": "ExportedImages\\Icon-Gadget-ProximityMine-bg-128.png"
     }
   },
@@ -193,7 +193,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/generic/gadgets/slowfield/g_generic_slowfield.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Gadgets/Icon-Gadget-Slowfield-bg-128.Icon-Gadget-Slowfield-bg-128",
+      "SmallPreview": "ExportedImages\\Icon-Gadget-Slowfield-bg-128.png",
       "LargePreview": "ExportedImages\\Icon-Gadget-Slowfield-bg-128.png"
     }
   },
@@ -205,7 +205,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/generic/gadgets/taunt/g_generic_taunt.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Heroes/Icon-Perk-Missing-M.Icon-Perk-Missing-M",
+      "SmallPreview": "ExportedImages\\Icon-Perk-Missing-M.png",
       "LargePreview": "ExportedImages\\Icon-Perk-Missing-M.png"
     }
   },
@@ -217,7 +217,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/generic/gadgets/grapplehook/g_grapplehook.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T-Icon-S-M80.T-Icon-S-M80",
+      "SmallPreview": "ExportedImages\\T-Icon-S-M80.png",
       "LargePreview": "ExportedImages\\T-Icon-S-M80.png"
     }
   },
@@ -229,7 +229,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/generic/gadgets/vehicles/hoverboard/g_hoverboard.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Gadgets/Icon-Gadget-SupplyDrop-128.Icon-Gadget-SupplyDrop-128",
+      "SmallPreview": "ExportedImages\\Icon-Gadget-SupplyDrop-128.png",
       "LargePreview": "ExportedImages\\Icon-Gadget-SupplyDrop-128.png"
     }
   },
@@ -241,7 +241,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/generic/gadgets/m80/g_m80.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T-Icon-S-M80.T-Icon-S-M80",
+      "SmallPreview": "ExportedImages\\T-Icon-S-M80.png",
       "LargePreview": "ExportedImages\\T-Icon-S-M80.png"
     }
   },
@@ -253,7 +253,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/generic/gadgets/llama/g_outlander_specialfragment_llama.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Gadgets/Outlander_Fragment-Full-_Special_.Outlander_Fragment-Full-_Special_",
+      "SmallPreview": "ExportedImages\\Outlander_Fragment-Full-_Special_.png",
       "LargePreview": "ExportedImages\\Outlander_Fragment-Full-_Special_.png"
     }
   },
@@ -265,7 +265,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/generic/gadgets/plasmabomb/g_plasmabomb.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T-Icon-S-M80.T-Icon-S-M80",
+      "SmallPreview": "ExportedImages\\T-Icon-S-M80.png",
       "LargePreview": "ExportedImages\\T-Icon-S-M80.png"
     }
   },
@@ -277,7 +277,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/generic/gadgets/quickbuilder/g_quickbuilder.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Icons/Gadgets/proximity_mine.proximity_mine",
+      "SmallPreview": "ExportedImages\\proximity_mine.png",
       "LargePreview": "ExportedImages\\proximity_mine.png"
     }
   },
@@ -289,7 +289,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/generic/gadgets/quicktower/g_quicktower.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Icon-HomeBase-L.Icon-HomeBase-L",
+      "SmallPreview": "ExportedImages\\Icon-HomeBase-L.png",
       "LargePreview": "ExportedImages\\Icon-HomeBase-L.png"
     }
   },
@@ -301,7 +301,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/generic/gadgets/romancandle/g_romancandle.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T-Icon-S-BottleRocket-Launcher.T-Icon-S-BottleRocket-Launcher",
+      "SmallPreview": "ExportedImages\\T-Icon-S-BottleRocket-Launcher.png",
       "LargePreview": "ExportedImages\\T-Icon-S-BottleRocket-Launcher.png"
     }
   },
@@ -313,7 +313,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/generic/gadgets/seekerbomb/g_seeker.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T-Icon-S-M80.T-Icon-S-M80",
+      "SmallPreview": "ExportedImages\\T-Icon-S-M80.png",
       "LargePreview": "ExportedImages\\T-Icon-S-M80.png"
     }
   },
@@ -326,7 +326,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/generic/gadgets/supplydrop/g_supplydrop.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Gadgets/Icon-Gadget-SupplyDrop-bg-128.Icon-Gadget-SupplyDrop-bg-128",
+      "SmallPreview": "ExportedImages\\Icon-Gadget-SupplyDrop-bg-128.png",
       "LargePreview": "ExportedImages\\Icon-Gadget-SupplyDrop-bg-128.png"
     }
   },
@@ -339,7 +339,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/generic/gadgets/teleporter/g_teleporter.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Gadgets/Icon-Gadget-Teleporter-bg-128.Icon-Gadget-Teleporter-bg-128",
+      "SmallPreview": "ExportedImages\\Icon-Gadget-Teleporter-bg-128.png",
       "LargePreview": "ExportedImages\\Icon-Gadget-Teleporter-bg-128.png"
     }
   },
@@ -351,7 +351,7 @@
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/generic/gadgets/track/g_track.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Items/T-Icon-Floor-Cart-Track-PickUp.T-Icon-Floor-Cart-Track-PickUp",
+      "SmallPreview": "ExportedImages\\T-Icon-Floor-Cart-Track-PickUp.png",
       "LargePreview": "ExportedImages\\T-Icon-Floor-Cart-Track-PickUp.png"
     }
   }

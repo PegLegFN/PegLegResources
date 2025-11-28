@@ -7,7 +7,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ammo/ammodatabottlerockets.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/Gadgets/Assets/BottleRocket/T_Icon_Gadget_BottleRocket.T_Icon_Gadget_BottleRocket",
+      "SmallPreview": "ExportedImages\\T_Icon_Gadget_BottleRocket.png",
       "LargePreview": "ExportedImages\\T_Icon_Gadget_BottleRocket.png"
     }
   },
@@ -19,7 +19,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ammo/ammodatabotturret.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Gadgets/TurretBot.TurretBot",
+      "SmallPreview": "ExportedImages\\TurretBot.png",
       "LargePreview": "ExportedImages\\TurretBot.png"
     }
   },
@@ -31,7 +31,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/content/items/ammo/ammodatabulletsheavy.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_Icon_Ammo_Heavy_256.T_Icon_Ammo_Heavy_256",
+      "SmallPreview": "ExportedImages\\T_Icon_Ammo_Heavy_256.png",
       "LargePreview": "ExportedImages\\T_Icon_Ammo_Heavy_256.png"
     }
   },
@@ -43,7 +43,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/content/items/ammo/ammodatabulletslight.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_Icon_Ammo_Light_256.T_Icon_Ammo_Light_256",
+      "SmallPreview": "ExportedImages\\T_Icon_Ammo_Light_256.png",
       "LargePreview": "ExportedImages\\T_Icon_Ammo_Light_256.png"
     }
   },
@@ -55,7 +55,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/content/items/ammo/ammodatabulletsmedium.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_Icon_Ammo_Medium_256.T_Icon_Ammo_Medium_256",
+      "SmallPreview": "ExportedImages\\T_Icon_Ammo_Medium_256.png",
       "LargePreview": "ExportedImages\\T_Icon_Ammo_Medium_256.png"
     }
   },
@@ -67,7 +67,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ammo/ammodataenergycell.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Items/T_Icon_Ammo_EnergyCells_256.T_Icon_Ammo_EnergyCells_256",
+      "SmallPreview": "ExportedImages\\T_Icon_Ammo_EnergyCells_256.png",
       "LargePreview": "ExportedImages\\T_Icon_Ammo_EnergyCells_256.png"
     }
   },
@@ -79,7 +79,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ammo/ammodataexplosive.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_Icon_Ammo_Rockets_256.T_Icon_Ammo_Rockets_256",
+      "SmallPreview": "ExportedImages\\T_Icon_Ammo_Rockets_256.png",
       "LargePreview": "ExportedImages\\T_Icon_Ammo_Rockets_256.png"
     }
   },
@@ -90,7 +90,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ammo/ammodatafiniteturret.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Ammo/T-Icon-Special-128.T-Icon-Special-128",
+      "SmallPreview": "ExportedImages\\T-Icon-Special-128.png",
       "LargePreview": "ExportedImages\\T-Icon-Special-128.png"
     }
   },
@@ -102,7 +102,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/content/items/ammo/ammodatafraggrenades.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Icons/Skills/Skill_Soldier_Grenade.Skill_Soldier_Grenade",
+      "SmallPreview": "ExportedImages\\Skill_Soldier_Grenade.png",
       "LargePreview": "ExportedImages\\Skill_Soldier_Grenade.png"
     }
   },
@@ -114,7 +114,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/content/items/ammo/ammodatafragments.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T-Items-AmmoDataFragments.T-Items-AmmoDataFragments",
+      "SmallPreview": "ExportedImages\\T-Items-AmmoDataFragments.png",
       "LargePreview": "ExportedImages\\T-Items-AmmoDataFragments.png"
     }
   },
@@ -126,7 +126,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ammo/ammodataglowtorch.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Skills/Skill_Soldier_ProximityMine.Skill_Soldier_ProximityMine",
+      "SmallPreview": "ExportedImages\\Skill_Soldier_ProximityMine.png",
       "LargePreview": "ExportedImages\\Skill_Soldier_ProximityMine.png"
     }
   },
@@ -138,7 +138,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ammo/ammodatam80.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Ammo/T-Icon-Special-128.T-Icon-Special-128",
+      "SmallPreview": "ExportedImages\\T-Icon-Special-128.png",
       "LargePreview": "ExportedImages\\T-Icon-Special-128.png"
     }
   },
@@ -150,7 +150,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ammo/ammodataproximitymine.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Icons/Skills/Skill_Soldier_ProximityMine.Skill_Soldier_ProximityMine",
+      "SmallPreview": "ExportedImages\\Skill_Soldier_ProximityMine.png",
       "LargePreview": "ExportedImages\\Skill_Soldier_ProximityMine.png"
     }
   },
@@ -162,7 +162,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ammo/ammodataproximitymines.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Icons/Gadgets/proximity_mine.proximity_mine",
+      "SmallPreview": "ExportedImages\\proximity_mine.png",
       "LargePreview": "ExportedImages\\proximity_mine.png"
     }
   },
@@ -174,7 +174,7 @@
     "IsPermanent": true,
     "AssetPath": "fortnitegame/content/items/ammo/ammodatashells.uasset",
     "ImagePaths": {
-      "SmallPreview": "/Game/UI/Foundation/Textures/Icons/Items/T_Icon_Ammo_Shells_256.T_Icon_Ammo_Shells_256",
+      "SmallPreview": "ExportedImages\\T_Icon_Ammo_Shells_256.png",
       "LargePreview": "ExportedImages\\T_Icon_Ammo_Shells_256.png"
     }
   },

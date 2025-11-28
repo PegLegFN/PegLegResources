@@ -352,7 +352,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/physical/aid_att_damage_physical_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Alterations/T-Icon-Element-Physical.T-Icon-Element-Physical",
+      "SmallPreview": "ExportedImages\\T-Icon-Element-Physical.png",
       "LargePreview": "ExportedImages\\T-Icon-Element-Physical-L.png"
     }
   },
@@ -373,7 +373,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/physical/aid_att_damage_physical_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Alterations/T-Icon-Element-Physical.T-Icon-Element-Physical",
+      "SmallPreview": "ExportedImages\\T-Icon-Element-Physical.png",
       "LargePreview": "ExportedImages\\T-Icon-Element-Physical-L.png"
     }
   },
@@ -395,7 +395,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/physical/aid_att_damage_physical_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Alterations/T-Icon-Element-Physical.T-Icon-Element-Physical",
+      "SmallPreview": "ExportedImages\\T-Icon-Element-Physical.png",
       "LargePreview": "ExportedImages\\T-Icon-Element-Physical-L.png"
     }
   },
@@ -417,7 +417,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/physical/aid_att_damage_physical_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Alterations/T-Icon-Element-Physical.T-Icon-Element-Physical",
+      "SmallPreview": "ExportedImages\\T-Icon-Element-Physical.png",
       "LargePreview": "ExportedImages\\T-Icon-Element-Physical-L.png"
     }
   },
@@ -432,7 +432,7 @@
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/physical/aid_att_damage_physical_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Alterations/T-Icon-Element-Physical.T-Icon-Element-Physical",
+      "SmallPreview": "ExportedImages\\T-Icon-Element-Physical.png",
       "LargePreview": "ExportedImages\\T-Icon-Element-Physical-L.png"
     }
   },
@@ -2470,7 +2470,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/energy/aid_ele_energy_intrin_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Alterations/T-Icon-Element-Energy.T-Icon-Element-Energy",
+      "SmallPreview": "ExportedImages\\T-Icon-Element-Energy.png",
       "LargePreview": "ExportedImages\\T-Icon-Element-Energy-L.png"
     }
   },
@@ -2493,7 +2493,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/energy/aid_ele_energy_intrin_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Alterations/T-Icon-Element-Energy.T-Icon-Element-Energy",
+      "SmallPreview": "ExportedImages\\T-Icon-Element-Energy.png",
       "LargePreview": "ExportedImages\\T-Icon-Element-Energy-L.png"
     }
   },
@@ -2517,7 +2517,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/energy/aid_ele_energy_intrin_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Alterations/T-Icon-Element-Energy.T-Icon-Element-Energy",
+      "SmallPreview": "ExportedImages\\T-Icon-Element-Energy.png",
       "LargePreview": "ExportedImages\\T-Icon-Element-Energy-L.png"
     }
   },
@@ -2541,7 +2541,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/energy/aid_ele_energy_intrin_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Alterations/T-Icon-Element-Energy.T-Icon-Element-Energy",
+      "SmallPreview": "ExportedImages\\T-Icon-Element-Energy.png",
       "LargePreview": "ExportedImages\\T-Icon-Element-Energy-L.png"
     }
   },
@@ -2558,7 +2558,7 @@
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/energy/aid_ele_energy_intrin_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Alterations/T-Icon-Element-Energy.T-Icon-Element-Energy",
+      "SmallPreview": "ExportedImages\\T-Icon-Element-Energy.png",
       "LargePreview": "ExportedImages\\T-Icon-Element-Energy-L.png"
     }
   },
@@ -2582,7 +2582,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/energy/aid_ele_energy_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Alterations/T-Icon-Element-Energy.T-Icon-Element-Energy",
+      "SmallPreview": "ExportedImages\\T-Icon-Element-Energy.png",
       "LargePreview": "ExportedImages\\T-Icon-Element-Energy-L.png"
     }
   },
@@ -2605,7 +2605,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/energy/aid_ele_energy_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Alterations/T-Icon-Element-Energy.T-Icon-Element-Energy",
+      "SmallPreview": "ExportedImages\\T-Icon-Element-Energy.png",
       "LargePreview": "ExportedImages\\T-Icon-Element-Energy-L.png"
     }
   },
@@ -2629,7 +2629,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/energy/aid_ele_energy_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Alterations/T-Icon-Element-Energy.T-Icon-Element-Energy",
+      "SmallPreview": "ExportedImages\\T-Icon-Element-Energy.png",
       "LargePreview": "ExportedImages\\T-Icon-Element-Energy-L.png"
     }
   },
@@ -2653,7 +2653,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/energy/aid_ele_energy_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Alterations/T-Icon-Element-Energy.T-Icon-Element-Energy",
+      "SmallPreview": "ExportedImages\\T-Icon-Element-Energy.png",
       "LargePreview": "ExportedImages\\T-Icon-Element-Energy-L.png"
     }
   },
@@ -2670,7 +2670,7 @@
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/energy/aid_ele_energy_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Alterations/T-Icon-Element-Energy.T-Icon-Element-Energy",
+      "SmallPreview": "ExportedImages\\T-Icon-Element-Energy.png",
       "LargePreview": "ExportedImages\\T-Icon-Element-Energy-L.png"
     }
   },
@@ -2692,7 +2692,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/fire/aid_ele_fire_intrin_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Alterations/T-Icon-Element-Fire.T-Icon-Element-Fire",
+      "SmallPreview": "ExportedImages\\T-Icon-Element-Fire.png",
       "LargePreview": "ExportedImages\\T-Icon-Element-Fire-L.png"
     }
   },
@@ -2713,7 +2713,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/fire/aid_ele_fire_intrin_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Alterations/T-Icon-Element-Fire.T-Icon-Element-Fire",
+      "SmallPreview": "ExportedImages\\T-Icon-Element-Fire.png",
       "LargePreview": "ExportedImages\\T-Icon-Element-Fire-L.png"
     }
   },
@@ -2735,7 +2735,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/fire/aid_ele_fire_intrin_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Alterations/T-Icon-Element-Fire.T-Icon-Element-Fire",
+      "SmallPreview": "ExportedImages\\T-Icon-Element-Fire.png",
       "LargePreview": "ExportedImages\\T-Icon-Element-Fire-L.png"
     }
   },
@@ -2757,7 +2757,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/fire/aid_ele_fire_intrin_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Alterations/T-Icon-Element-Fire.T-Icon-Element-Fire",
+      "SmallPreview": "ExportedImages\\T-Icon-Element-Fire.png",
       "LargePreview": "ExportedImages\\T-Icon-Element-Fire-L.png"
     }
   },
@@ -2772,7 +2772,7 @@
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/fire/aid_ele_fire_intrin_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Alterations/T-Icon-Element-Fire.T-Icon-Element-Fire",
+      "SmallPreview": "ExportedImages\\T-Icon-Element-Fire.png",
       "LargePreview": "ExportedImages\\T-Icon-Element-Fire-L.png"
     }
   },
@@ -2794,7 +2794,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/fire/aid_ele_fire_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Alterations/T-Icon-Element-Fire.T-Icon-Element-Fire",
+      "SmallPreview": "ExportedImages\\T-Icon-Element-Fire.png",
       "LargePreview": "ExportedImages\\T-Icon-Element-Fire-L.png"
     }
   },
@@ -2815,7 +2815,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/fire/aid_ele_fire_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Alterations/T-Icon-Element-Fire.T-Icon-Element-Fire",
+      "SmallPreview": "ExportedImages\\T-Icon-Element-Fire.png",
       "LargePreview": "ExportedImages\\T-Icon-Element-Fire-L.png"
     }
   },
@@ -2837,7 +2837,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/fire/aid_ele_fire_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Alterations/T-Icon-Element-Fire.T-Icon-Element-Fire",
+      "SmallPreview": "ExportedImages\\T-Icon-Element-Fire.png",
       "LargePreview": "ExportedImages\\T-Icon-Element-Fire-L.png"
     }
   },
@@ -2859,7 +2859,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/fire/aid_ele_fire_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Alterations/T-Icon-Element-Fire.T-Icon-Element-Fire",
+      "SmallPreview": "ExportedImages\\T-Icon-Element-Fire.png",
       "LargePreview": "ExportedImages\\T-Icon-Element-Fire-L.png"
     }
   },
@@ -2874,7 +2874,7 @@
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/fire/aid_ele_fire_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Alterations/T-Icon-Element-Fire.T-Icon-Element-Fire",
+      "SmallPreview": "ExportedImages\\T-Icon-Element-Fire.png",
       "LargePreview": "ExportedImages\\T-Icon-Element-Fire-L.png"
     }
   },
@@ -2896,7 +2896,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/nature/aid_ele_nature_intrin_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Alterations/T-Icon-Element-Nature.T-Icon-Element-Nature",
+      "SmallPreview": "ExportedImages\\T-Icon-Element-Nature.png",
       "LargePreview": "ExportedImages\\T-Icon-Element-Nature-L.png"
     }
   },
@@ -2917,7 +2917,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/nature/aid_ele_nature_intrin_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Alterations/T-Icon-Element-Nature.T-Icon-Element-Nature",
+      "SmallPreview": "ExportedImages\\T-Icon-Element-Nature.png",
       "LargePreview": "ExportedImages\\T-Icon-Element-Nature-L.png"
     }
   },
@@ -2939,7 +2939,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/nature/aid_ele_nature_intrin_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Alterations/T-Icon-Element-Nature.T-Icon-Element-Nature",
+      "SmallPreview": "ExportedImages\\T-Icon-Element-Nature.png",
       "LargePreview": "ExportedImages\\T-Icon-Element-Nature-L.png"
     }
   },
@@ -2961,7 +2961,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/nature/aid_ele_nature_intrin_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Alterations/T-Icon-Element-Nature.T-Icon-Element-Nature",
+      "SmallPreview": "ExportedImages\\T-Icon-Element-Nature.png",
       "LargePreview": "ExportedImages\\T-Icon-Element-Nature-L.png"
     }
   },
@@ -2976,7 +2976,7 @@
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/nature/aid_ele_nature_intrin_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Alterations/T-Icon-Element-Nature.T-Icon-Element-Nature",
+      "SmallPreview": "ExportedImages\\T-Icon-Element-Nature.png",
       "LargePreview": "ExportedImages\\T-Icon-Element-Nature-L.png"
     }
   },
@@ -2998,7 +2998,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/nature/aid_ele_nature_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Alterations/T-Icon-Element-Nature.T-Icon-Element-Nature",
+      "SmallPreview": "ExportedImages\\T-Icon-Element-Nature.png",
       "LargePreview": "ExportedImages\\T-Icon-Element-Nature-L.png"
     }
   },
@@ -3019,7 +3019,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/nature/aid_ele_nature_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Alterations/T-Icon-Element-Nature.T-Icon-Element-Nature",
+      "SmallPreview": "ExportedImages\\T-Icon-Element-Nature.png",
       "LargePreview": "ExportedImages\\T-Icon-Element-Nature-L.png"
     }
   },
@@ -3041,7 +3041,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/nature/aid_ele_nature_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Alterations/T-Icon-Element-Nature.T-Icon-Element-Nature",
+      "SmallPreview": "ExportedImages\\T-Icon-Element-Nature.png",
       "LargePreview": "ExportedImages\\T-Icon-Element-Nature-L.png"
     }
   },
@@ -3063,7 +3063,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/nature/aid_ele_nature_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Alterations/T-Icon-Element-Nature.T-Icon-Element-Nature",
+      "SmallPreview": "ExportedImages\\T-Icon-Element-Nature.png",
       "LargePreview": "ExportedImages\\T-Icon-Element-Nature-L.png"
     }
   },
@@ -3078,7 +3078,7 @@
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/nature/aid_ele_nature_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Alterations/T-Icon-Element-Nature.T-Icon-Element-Nature",
+      "SmallPreview": "ExportedImages\\T-Icon-Element-Nature.png",
       "LargePreview": "ExportedImages\\T-Icon-Element-Nature-L.png"
     }
   },
@@ -3100,7 +3100,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/water/aid_ele_water_intrin_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Alterations/T-Icon-Element-Water.T-Icon-Element-Water",
+      "SmallPreview": "ExportedImages\\T-Icon-Element-Water.png",
       "LargePreview": "ExportedImages\\T-Icon-Element-Water-L.png"
     }
   },
@@ -3121,7 +3121,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/water/aid_ele_water_intrin_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Alterations/T-Icon-Element-Water.T-Icon-Element-Water",
+      "SmallPreview": "ExportedImages\\T-Icon-Element-Water.png",
       "LargePreview": "ExportedImages\\T-Icon-Element-Water-L.png"
     }
   },
@@ -3143,7 +3143,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/water/aid_ele_water_intrin_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Alterations/T-Icon-Element-Water.T-Icon-Element-Water",
+      "SmallPreview": "ExportedImages\\T-Icon-Element-Water.png",
       "LargePreview": "ExportedImages\\T-Icon-Element-Water-L.png"
     }
   },
@@ -3165,7 +3165,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/water/aid_ele_water_intrin_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Alterations/T-Icon-Element-Water.T-Icon-Element-Water",
+      "SmallPreview": "ExportedImages\\T-Icon-Element-Water.png",
       "LargePreview": "ExportedImages\\T-Icon-Element-Water-L.png"
     }
   },
@@ -3180,7 +3180,7 @@
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/water/aid_ele_water_intrin_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Alterations/T-Icon-Element-Water.T-Icon-Element-Water",
+      "SmallPreview": "ExportedImages\\T-Icon-Element-Water.png",
       "LargePreview": "ExportedImages\\T-Icon-Element-Water-L.png"
     }
   },
@@ -3202,7 +3202,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/water/aid_ele_water_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Alterations/T-Icon-Element-Water.T-Icon-Element-Water",
+      "SmallPreview": "ExportedImages\\T-Icon-Element-Water.png",
       "LargePreview": "ExportedImages\\T-Icon-Element-Water-L.png"
     }
   },
@@ -3223,7 +3223,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/water/aid_ele_water_t02.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Alterations/T-Icon-Element-Water.T-Icon-Element-Water",
+      "SmallPreview": "ExportedImages\\T-Icon-Element-Water.png",
       "LargePreview": "ExportedImages\\T-Icon-Element-Water-L.png"
     }
   },
@@ -3245,7 +3245,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/water/aid_ele_water_t03.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Alterations/T-Icon-Element-Water.T-Icon-Element-Water",
+      "SmallPreview": "ExportedImages\\T-Icon-Element-Water.png",
       "LargePreview": "ExportedImages\\T-Icon-Element-Water-L.png"
     }
   },
@@ -3267,7 +3267,7 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/water/aid_ele_water_t04.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Alterations/T-Icon-Element-Water.T-Icon-Element-Water",
+      "SmallPreview": "ExportedImages\\T-Icon-Element-Water.png",
       "LargePreview": "ExportedImages\\T-Icon-Element-Water-L.png"
     }
   },
@@ -3282,7 +3282,7 @@
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/water/aid_ele_water_t05.uasset",
     "ImagePaths": {
-      "SmallPreview": "/SaveTheWorld/UI/Foundation/Textures/Icons/Weapons/Alterations/T-Icon-Element-Water.T-Icon-Element-Water",
+      "SmallPreview": "ExportedImages\\T-Icon-Element-Water.png",
       "LargePreview": "ExportedImages\\T-Icon-Element-Water-L.png"
     }
   },

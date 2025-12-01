@@ -25,6 +25,19 @@
       "LargePreview": "ExportedImages\\T_UI_BP_BattleStar_L.png"
     }
   },
+  "AccountResource:athenacategorystar": {
+    "Type": "AccountResource",
+    "Name": "AthenaCategoryStar",
+    "DisplayName": "Category Stars",
+    "Description": "Seasonal Resource used to unlock Battle Pass reward categories.",
+    "IsPermanent": true,
+    "Rarity": "Legendary",
+    "AssetPath": "fortnitegame/content/items/persistentresources/athenacategorystar.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_UI_BP_BattleStar_64.png",
+      "LargePreview": "ExportedImages\\T_UI_BP_BattleStar_L.png"
+    }
+  },
   "AccountResource:athenalevelup": {
     "Type": "AccountResource",
     "Name": "AthenaLevelUp",

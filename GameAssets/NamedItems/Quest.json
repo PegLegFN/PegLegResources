@@ -21478,329 +21478,6 @@
       "LargePreview": "ExportedImages\\T-Icon-Single-128.png"
     }
   },
-  "Quest:delmarquestpack_01_punchcard_01": {
-    "Type": "Quest",
-    "Name": "DelMarQuestPack_01_PunchCard_01",
-    "DisplayName": "Complete Fuse Starter Pack Quests",
-    "Category": "",
-    "Description": "Complete Fuse Starter Pack Quests",
-    "IsPermanent": true,
-    "Objectives": [
-      {
-        "BackendName": "DelMarQuestPack_01_PunchChard_01_obj0",
-        "Count": 3,
-        "Description": "Complete Fuse Starter Pack Quests",
-        "HudShortDescription": ""
-      }
-    ],
-    "Rarity": "Legendary",
-    "Rewards": [],
-    "AssetPath": "fortnitegame/plugins/gamefeatures/delmar/delmarquestpacks/delmarquestpack_01/content/quests/delmarquestpack_01_punchcard_01.uasset"
-  },
-  "Quest:delmarquestpack_01_punchcard_02": {
-    "Type": "Quest",
-    "Name": "DelMarQuestPack_01_PunchCard_02",
-    "DisplayName": "Complete Fuse Starter Pack Quests",
-    "Category": "",
-    "Description": "Complete Fuse Starter Pack Quests",
-    "IsPermanent": true,
-    "Objectives": [
-      {
-        "BackendName": "DelMarQuestPack_01_PunchCard_02_obj0",
-        "Count": 6,
-        "Description": "Complete Fuse Starter Pack Quests",
-        "HudShortDescription": ""
-      }
-    ],
-    "Rarity": "Legendary",
-    "Rewards": [],
-    "AssetPath": "fortnitegame/plugins/gamefeatures/delmar/delmarquestpacks/delmarquestpack_01/content/quests/delmarquestpack_01_punchcard_02.uasset"
-  },
-  "Quest:delmarquestpack_01_punchcard_03": {
-    "Type": "Quest",
-    "Name": "DelMarQuestPack_01_PunchCard_03",
-    "DisplayName": "Complete Fuse Starter Pack Quests",
-    "Category": "",
-    "Description": "Complete Fuse Starter Pack Quests",
-    "IsPermanent": true,
-    "Objectives": [
-      {
-        "BackendName": "DelMarQuestPack_01_PunchCard_03_obj0",
-        "Count": 10,
-        "Description": "Complete Fuse Starter Pack Quests",
-        "HudShortDescription": ""
-      }
-    ],
-    "Rarity": "Legendary",
-    "Rewards": [],
-    "AssetPath": "fortnitegame/plugins/gamefeatures/delmar/delmarquestpacks/delmarquestpack_01/content/quests/delmarquestpack_01_punchcard_03.uasset"
-  },
-  "Quest:delmarquestpack_01_punchcard_04": {
-    "Type": "Quest",
-    "Name": "DelMarQuestPack_01_PunchCard_04",
-    "DisplayName": "Complete Fuse Starter Pack Quests",
-    "Category": "",
-    "Description": "Complete Fuse Starter Pack Quests",
-    "IsPermanent": true,
-    "Objectives": [
-      {
-        "BackendName": "DelMarQuestPack_01_PunchCard_04_obj0",
-        "Count": 13,
-        "Description": "Complete Fuse Starter Quest Pack Quests",
-        "HudShortDescription": ""
-      }
-    ],
-    "Rarity": "Legendary",
-    "Rewards": [],
-    "AssetPath": "fortnitegame/plugins/gamefeatures/delmar/delmarquestpacks/delmarquestpack_01/content/quests/delmarquestpack_01_punchcard_04.uasset"
-  },
-  "Quest:delmarquestpack_01_quest_01": {
-    "Type": "Quest",
-    "Name": "DelMarQuestPack_01_Quest_01",
-    "DisplayName": "Travel Total Distance",
-    "Category": "",
-    "Description": "Travel Total Distance",
-    "IsPermanent": true,
-    "Objectives": [
-      {
-        "BackendName": "asdf_obj0",
-        "Count": 50000,
-        "Description": "Travel Total Distance",
-        "HudShortDescription": ""
-      }
-    ],
-    "Rarity": "Rare",
-    "Rewards": [],
-    "AssetPath": "fortnitegame/plugins/gamefeatures/delmar/delmarquestpacks/delmarquestpack_01/content/quests/delmarquestpack_01_quest_01.uasset"
-  },
-  "Quest:delmarquestpack_01_quest_02": {
-    "Type": "Quest",
-    "Name": "DelMarQuestPack_01_Quest_02",
-    "DisplayName": "Travel Total Distance",
-    "Category": "",
-    "Description": "Travel Total Distance",
-    "IsPermanent": true,
-    "Objectives": [
-      {
-        "BackendName": "DelMarQuestPack_01_Quest_02_obj0",
-        "Count": 100000,
-        "Description": "Travel Total Distance",
-        "HudShortDescription": ""
-      }
-    ],
-    "Rarity": "Common",
-    "Rewards": [],
-    "AssetPath": "fortnitegame/plugins/gamefeatures/delmar/delmarquestpacks/delmarquestpack_01/content/quests/delmarquestpack_01_quest_02.uasset"
-  },
-  "Quest:delmarquestpack_01_quest_03": {
-    "Type": "Quest",
-    "Name": "DelMarQuestPack_01_Quest_03",
-    "DisplayName": "Travel Total Distance",
-    "Category": "",
-    "Description": "Travel Total Distance",
-    "IsPermanent": true,
-    "Objectives": [
-      {
-        "BackendName": "DelMarQuestPack_01_Quest_03_obj0",
-        "Count": 100000,
-        "Description": "Travel Total Distance",
-        "HudShortDescription": ""
-      }
-    ],
-    "Rarity": "Common",
-    "Rewards": [],
-    "AssetPath": "fortnitegame/plugins/gamefeatures/delmar/delmarquestpacks/delmarquestpack_01/content/quests/delmarquestpack_01_quest_03.uasset"
-  },
-  "Quest:delmarquestpack_01_quest_04": {
-    "Type": "Quest",
-    "Name": "DelMarQuestPack_01_Quest_04",
-    "DisplayName": "Travel Total Distance",
-    "Category": "",
-    "Description": "Travel Total Distance",
-    "IsPermanent": true,
-    "Objectives": [
-      {
-        "BackendName": "DelMarQuestPack_01_Quest_04_obj0",
-        "Count": 150000,
-        "Description": "Travel Total Distance",
-        "HudShortDescription": ""
-      }
-    ],
-    "Rarity": "Common",
-    "Rewards": [],
-    "AssetPath": "fortnitegame/plugins/gamefeatures/delmar/delmarquestpacks/delmarquestpack_01/content/quests/delmarquestpack_01_quest_04.uasset"
-  },
-  "Quest:delmarquestpack_01_quest_05": {
-    "Type": "Quest",
-    "Name": "DelMarQuestPack_01_Quest_05",
-    "DisplayName": "Travel Total Distance",
-    "Category": "",
-    "Description": "Travel Total Distance",
-    "IsPermanent": true,
-    "Objectives": [
-      {
-        "BackendName": "DelMarQuestPack_01_Quest_05_obj0",
-        "Count": 150000,
-        "Description": "Travel Total Distance",
-        "HudShortDescription": ""
-      }
-    ],
-    "Rarity": "Common",
-    "Rewards": [],
-    "AssetPath": "fortnitegame/plugins/gamefeatures/delmar/delmarquestpacks/delmarquestpack_01/content/quests/delmarquestpack_01_quest_05.uasset"
-  },
-  "Quest:delmarquestpack_01_quest_06": {
-    "Type": "Quest",
-    "Name": "DelMarQuestPack_01_Quest_06",
-    "DisplayName": "Travel Total Distance",
-    "Category": "",
-    "Description": "Travel Total Distance",
-    "IsPermanent": true,
-    "Objectives": [
-      {
-        "BackendName": "DelMarQuestPack_01_Quest_06_obj0",
-        "Count": 200000,
-        "Description": "Travel Total Distance",
-        "HudShortDescription": ""
-      }
-    ],
-    "Rarity": "Common",
-    "Rewards": [],
-    "AssetPath": "fortnitegame/plugins/gamefeatures/delmar/delmarquestpacks/delmarquestpack_01/content/quests/delmarquestpack_01_quest_06.uasset"
-  },
-  "Quest:delmarquestpack_01_quest_07": {
-    "Type": "Quest",
-    "Name": "DelMarQuestPack_01_Quest_07",
-    "DisplayName": "Travel Total Distance",
-    "Category": "",
-    "Description": "Travel Total Distance",
-    "IsPermanent": true,
-    "Objectives": [
-      {
-        "BackendName": "DelMarQuestPack_01_Quest_07_obj0",
-        "Count": 200000,
-        "Description": "Travel Total Distance",
-        "HudShortDescription": ""
-      }
-    ],
-    "Rarity": "Common",
-    "Rewards": [],
-    "AssetPath": "fortnitegame/plugins/gamefeatures/delmar/delmarquestpacks/delmarquestpack_01/content/quests/delmarquestpack_01_quest_07.uasset"
-  },
-  "Quest:delmarquestpack_01_quest_08": {
-    "Type": "Quest",
-    "Name": "DelMarQuestPack_01_Quest_08",
-    "DisplayName": "Travel Total Distance",
-    "Category": "",
-    "Description": "Travel Total Distance",
-    "IsPermanent": true,
-    "Objectives": [
-      {
-        "BackendName": "DelMarQuestPack_01_Quest_08_obj0",
-        "Count": 250000,
-        "Description": "Travel Total Distance",
-        "HudShortDescription": ""
-      }
-    ],
-    "Rarity": "Common",
-    "Rewards": [],
-    "AssetPath": "fortnitegame/plugins/gamefeatures/delmar/delmarquestpacks/delmarquestpack_01/content/quests/delmarquestpack_01_quest_08.uasset"
-  },
-  "Quest:delmarquestpack_01_quest_09": {
-    "Type": "Quest",
-    "Name": "DelMarQuestPack_01_Quest_09",
-    "DisplayName": "Travel Total Distance",
-    "Category": "",
-    "Description": "Travel Total Distance",
-    "IsPermanent": true,
-    "Objectives": [
-      {
-        "BackendName": "DelMarQuestPack_01_Quest_09_obj0",
-        "Count": 300000,
-        "Description": "Travel Total Distance",
-        "HudShortDescription": ""
-      }
-    ],
-    "Rarity": "Common",
-    "Rewards": [],
-    "AssetPath": "fortnitegame/plugins/gamefeatures/delmar/delmarquestpacks/delmarquestpack_01/content/quests/delmarquestpack_01_quest_09.uasset"
-  },
-  "Quest:delmarquestpack_01_quest_10": {
-    "Type": "Quest",
-    "Name": "DelMarQuestPack_01_Quest_10",
-    "DisplayName": "Travel Total Distance",
-    "Category": "",
-    "Description": "Travel Total Distance",
-    "IsPermanent": true,
-    "Objectives": [
-      {
-        "BackendName": "DelMarQuestPack_01_Quest_10_obj0",
-        "Count": 350000,
-        "Description": "Travel Total Distance",
-        "HudShortDescription": ""
-      }
-    ],
-    "Rarity": "Common",
-    "Rewards": [],
-    "AssetPath": "fortnitegame/plugins/gamefeatures/delmar/delmarquestpacks/delmarquestpack_01/content/quests/delmarquestpack_01_quest_10.uasset"
-  },
-  "Quest:delmarquestpack_01_quest_11": {
-    "Type": "Quest",
-    "Name": "DelMarQuestPack_01_Quest_11",
-    "DisplayName": "Travel Total Distance",
-    "Category": "",
-    "Description": "Travel Total Distance",
-    "IsPermanent": true,
-    "Objectives": [
-      {
-        "BackendName": "DelMarQuestPack_01_Quest_11_obj0",
-        "Count": 400000,
-        "Description": "Travel Total Distance",
-        "HudShortDescription": ""
-      }
-    ],
-    "Rarity": "Common",
-    "Rewards": [],
-    "AssetPath": "fortnitegame/plugins/gamefeatures/delmar/delmarquestpacks/delmarquestpack_01/content/quests/delmarquestpack_01_quest_11.uasset"
-  },
-  "Quest:delmarquestpack_01_quest_12": {
-    "Type": "Quest",
-    "Name": "DelMarQuestPack_01_Quest_12",
-    "DisplayName": "Travel Total Distance",
-    "Category": "",
-    "Description": "Travel Total Distance",
-    "IsPermanent": true,
-    "Objectives": [
-      {
-        "BackendName": "DelMarQuestPack_01_Quest_12_obj0",
-        "Count": 450000,
-        "Description": "Travel Total Distance",
-        "HudShortDescription": ""
-      }
-    ],
-    "Rarity": "Common",
-    "Rewards": [],
-    "AssetPath": "fortnitegame/plugins/gamefeatures/delmar/delmarquestpacks/delmarquestpack_01/content/quests/delmarquestpack_01_quest_12.uasset"
-  },
-  "Quest:delmarquestpack_01_quest_13": {
-    "Type": "Quest",
-    "Name": "DelMarQuestPack_01_Quest_13",
-    "DisplayName": "Travel Total Distance",
-    "Category": "",
-    "Description": "Travel Total Distance",
-    "IsPermanent": true,
-    "Objectives": [
-      {
-        "BackendName": "DelMarQuestPack_01_Quest_13_obj0",
-        "Count": 500000,
-        "Description": "Travel Total Distance",
-        "HudShortDescription": ""
-      }
-    ],
-    "Rarity": "Common",
-    "Rewards": [],
-    "AssetPath": "fortnitegame/plugins/gamefeatures/delmar/delmarquestpacks/delmarquestpack_01/content/quests/delmarquestpack_01_quest_13.uasset"
-  },
   "Quest:elderquest_battlethehorde_1": {
     "Type": "Quest",
     "Name": "ElderQuest_BattleTheHorde_1",
@@ -40121,12 +39798,6 @@
       },
       {
         "Hidden": false,
-        "Item": "HomebaseNode:questreward_feature_skillsystem",
-        "Quantity": 1,
-        "Selectable": false
-      },
-      {
-        "Hidden": false,
         "Item": "HomebaseNode:questreward_stonewood_squad_ssd3",
         "Quantity": 1,
         "Selectable": false
@@ -40175,19 +39846,7 @@
       },
       {
         "Hidden": true,
-        "Item": "Quest:stonewoodquest_tutorial_upgrade",
-        "Quantity": 1,
-        "Selectable": false
-      },
-      {
-        "Hidden": true,
         "Item": "Quest:tutorial_loadout_gadgets",
-        "Quantity": 1,
-        "Selectable": false
-      },
-      {
-        "Hidden": false,
-        "Item": "Token:homebasepoints",
         "Quantity": 1,
         "Selectable": false
       },
@@ -40218,6 +39877,18 @@
       {
         "Hidden": false,
         "Item": "CardPack:cardpack_trap_r",
+        "Quantity": 1,
+        "Selectable": false
+      },
+      {
+        "Hidden": false,
+        "Item": "HomebaseNode:skilltree_adrenalinerush",
+        "Quantity": 1,
+        "Selectable": false
+      },
+      {
+        "Hidden": false,
+        "Item": "HomebaseNode:skilltree_airstrike",
         "Quantity": 1,
         "Selectable": false
       }
@@ -49040,36 +48711,6 @@
       "SmallPreview": "ExportedImages\\T-Icon-Quest-Journal-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Quest-Journal-64.png"
     }
-  },
-  "Quest:quest_s29_beanstalk_timeattack": {
-    "Type": "Quest",
-    "Name": "quest_s29_beanstalk_timeattack",
-    "DisplayName": "Beat the Obstacle Course",
-    "Category": "",
-    "Description": "Reach the end of the obstacle course!",
-    "IsPermanent": true,
-    "Objectives": [
-      {
-        "BackendName": "quest_s29_beanstalk_timeattack_obj4",
-        "Count": 1,
-        "Description": "Beat the obstacle course within the time limit!",
-        "HudShortDescription": "Beat the obstacle course within the time limit!"
-      },
-      {
-        "BackendName": "quest_s29_beanstalk_timeattack_obj1",
-        "Count": 1,
-        "Description": "[SILVER TIER] Reach the end with more than 0:20 left!",
-        "HudShortDescription": "[SILVER TIER] Reach the end with more than 8:45 left!"
-      },
-      {
-        "BackendName": "quest_s29_beanstalk_timeattack_obj2",
-        "Count": 1,
-        "Description": "[GOLD TIER] Reach the end with more than 0:45 left!",
-        "HudShortDescription": "[GOLD TIER] Reach the end with more than 9:15 left!"
-      }
-    ],
-    "Rewards": [],
-    "AssetPath": "fortnitegame/plugins/gamefeatures/fne/beanstalk/beanstalkinbr/content/quests/quest_s29_beanstalk_timeattack.uasset"
   },
   "Quest:quest_stw_daily_earnxp_01": {
     "Type": "Quest",
@@ -61729,27 +61370,9 @@
     ],
     "Rewards": [
       {
-        "Hidden": false,
-        "Item": "HomebaseNode:questreward_feature_researchsystem",
-        "Quantity": 1,
-        "Selectable": false
-      },
-      {
         "Hidden": true,
         "Item": "Quest:stonewoodquest_landmark_buildoff",
         "Quantity": 1,
-        "Selectable": false
-      },
-      {
-        "Hidden": true,
-        "Item": "Quest:stonewoodquest_tutorial_research",
-        "Quantity": 1,
-        "Selectable": false
-      },
-      {
-        "Hidden": false,
-        "Item": "Token:collectionresource_nodegatetoken01",
-        "Quantity": 500,
         "Selectable": false
       },
       {

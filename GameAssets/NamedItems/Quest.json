@@ -45632,14 +45632,14 @@
     "Name": "PickaxeQuest_STW002_Tier_3",
     "DisplayName": "Tech Axe",
     "Category": "SideQuests",
-    "Description": "Earn Level 1 Pickaxe upgrade. Visit the Command tab, select Upgrades, select Tools, and assign skill points to Pickaxe Upgrade.",
+    "Description": "Reach Account Level 25 to earn your first Pickaxe upgrade.",
     "IsPermanent": true,
     "Objectives": [
       {
         "BackendName": "pickaxequest_stw002_tier_3",
         "Count": 1,
-        "Description": "Earn Level 1 Pickaxe upgrade",
-        "HudShortDescription": "Level 1 Pickaxe upgrade earned"
+        "Description": "Reach Account Level 25",
+        "HudShortDescription": "Account Level 25 reached"
       }
     ],
     "Rewards": [
@@ -62965,51 +62965,6 @@
       "LargePreview": "ExportedImages\\T-Icon-Quest-Journal-64.png"
     }
   },
-  "Quest:stonewoodquest_tutorial_research": {
-    "Type": "Quest",
-    "Name": "StonewoodQuest_Tutorial_Research",
-    "DisplayName": "(Hidden) Research Point Tutorial",
-    "Category": "SideQuests",
-    "IsPermanent": true,
-    "Objectives": [
-      {
-        "BackendName": "Research_TabCallout",
-        "Count": 1,
-        "Description": "",
-        "HudShortDescription": ""
-      },
-      {
-        "BackendName": "Research_Guard_Command",
-        "Count": 1,
-        "Description": "",
-        "HudShortDescription": ""
-      },
-      {
-        "BackendName": "Research_Intro",
-        "Count": 1,
-        "Description": "",
-        "HudShortDescription": ""
-      },
-      {
-        "BackendName": "Research_Highlight",
-        "Count": 1,
-        "Description": "",
-        "HudShortDescription": ""
-      },
-      {
-        "BackendName": "Research_Guard_Research",
-        "Count": 1,
-        "Description": "",
-        "HudShortDescription": ""
-      }
-    ],
-    "Rewards": [],
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/quests/stonewood/stonewoodquest_tutorial_research.uasset",
-    "ImagePaths": {
-      "SmallPreview": "ExportedImages\\T-Icon-Quest-Journal-64.png",
-      "LargePreview": "ExportedImages\\T-Icon-Quest-Journal-64.png"
-    }
-  },
   "Quest:stonewoodquest_tutorial_survivorslotting": {
     "Type": "Quest",
     "Name": "StonewoodQuest_Tutorial_SurvivorSlotting",
@@ -63137,51 +63092,6 @@
     ],
     "Rewards": [],
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/quests/stonewood/stonewoodquest_tutorial_survivorsquads.uasset",
-    "ImagePaths": {
-      "SmallPreview": "ExportedImages\\T-Icon-Quest-Journal-64.png",
-      "LargePreview": "ExportedImages\\T-Icon-Quest-Journal-64.png"
-    }
-  },
-  "Quest:stonewoodquest_tutorial_upgrade": {
-    "Type": "Quest",
-    "Name": "StonewoodQuest_Tutorial_Upgrade",
-    "DisplayName": "(Hidden) Upgrade Point Assignment Tutorial",
-    "Category": "SideQuests",
-    "IsPermanent": true,
-    "Objectives": [
-      {
-        "BackendName": "Upgrades_TabCallout",
-        "Count": 1,
-        "Description": "",
-        "HudShortDescription": ""
-      },
-      {
-        "BackendName": "Upgrades_Guard_Command",
-        "Count": 1,
-        "Description": "",
-        "HudShortDescription": ""
-      },
-      {
-        "BackendName": "Upgrades_Intro",
-        "Count": 1,
-        "Description": "",
-        "HudShortDescription": ""
-      },
-      {
-        "BackendName": "Upgrades_Highlight",
-        "Count": 1,
-        "Description": "",
-        "HudShortDescription": ""
-      },
-      {
-        "BackendName": "Upgrades_Guard_Upgrades",
-        "Count": 1,
-        "Description": "",
-        "HudShortDescription": ""
-      }
-    ],
-    "Rewards": [],
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/quests/stonewood/stonewoodquest_tutorial_upgrade.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-Quest-Journal-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Quest-Journal-64.png"
@@ -71179,13 +71089,19 @@
     "IsPermanent": true,
     "Objectives": [
       {
-        "BackendName": "HeroLoadout_Gadgets_Intro",
+        "BackendName": "Commander_Gadgets_Intro",
         "Count": 1,
         "Description": "",
         "HudShortDescription": ""
       },
       {
-        "BackendName": "HeroLoadout_Gadgets_GuardScreen1",
+        "BackendName": "Commander_Gadgets_GuardScreen1",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "HeroLoadout_Gadgets_Intro",
         "Count": 1,
         "Description": "",
         "HudShortDescription": ""

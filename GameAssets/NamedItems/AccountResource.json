@@ -371,6 +371,20 @@
       "LargePreview": "ExportedImages\\T-HeroXP-L.png"
     }
   },
+  "AccountResource:honeyfiber_questresourcerewards": {
+    "Type": "AccountResource",
+    "Name": "HoneyFiber_QuestResourceRewards",
+    "DisplayName": "\u003CHoneyFiber_QuestResourceRewards\u003E",
+    "IsPermanent": true,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/battlepasss39_quests/content/items/persistentresources/honeyfiber/honeyfiber_questresourcerewards.uasset"
+  },
+  "AccountResource:honeyfiber_questrewards": {
+    "Type": "AccountResource",
+    "Name": "HoneyFiber_QuestRewards",
+    "DisplayName": "\u003CHoneyFiber_QuestRewards\u003E",
+    "IsPermanent": true,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/battlepasss39_quests/content/items/persistentresources/honeyfiber/honeyfiber_questrewards.uasset"
+  },
   "AccountResource:peopleresource": {
     "Type": "AccountResource",
     "Name": "PeopleResource",
@@ -732,6 +746,28 @@
       "LargePreview": "ExportedImages\\T_UI_UniversalXP_Icon_Points_Standard_128.png"
     }
   },
+  "AccountResource:s39_eventcurrency": {
+    "Type": "AccountResource",
+    "Name": "S39_EventCurrency",
+    "DisplayName": "\u003CS39_EventCurrency\u003E",
+    "IsPermanent": true,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/battlepasss39_quests/content/items/persistentresources/honeyfiber/s39_eventcurrency.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_UI_Safflower_CurrencyIcon_128.png",
+      "LargePreview": "ExportedImages\\T_UI_Safflower_CurrencyIcon_128.png"
+    }
+  },
+  "AccountResource:s39_eventcurrency_granter": {
+    "Type": "AccountResource",
+    "Name": "S39_EventCurrency_Granter",
+    "DisplayName": "Cred",
+    "IsPermanent": true,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/battlepasss39_passquestprereqs/content/items/persistentresources/s39_eventcurrency_granter.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_UI_Safflower_CurrencyIcon_128.png",
+      "LargePreview": "ExportedImages\\T_UI_Safflower_CurrencyIcon_128.png"
+    }
+  },
   "AccountResource:schematicxp": {
     "Type": "AccountResource",
     "Name": "SchematicXP",
@@ -809,6 +845,27 @@
       "SmallPreview": "ExportedImages\\T-Items-DailyCoin.png",
       "LargePreview": "ExportedImages\\T-Items-DailyCoin-L.png"
     }
+  },
+  "AccountResource:t_ui_safflower_chasereward_01": {
+    "Type": "AccountResource",
+    "Name": "T_UI_Safflower_ChaseReward_01",
+    "DisplayName": "\u003CT_UI_Safflower_ChaseReward_01\u003E",
+    "IsPermanent": true,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/battlepasss39_passquestprereqs/content/items/persistentresources/t_ui_safflower_chasereward_01.uasset"
+  },
+  "AccountResource:t_ui_safflower_currencyicon_128": {
+    "Type": "AccountResource",
+    "Name": "T_UI_Safflower_CurrencyIcon_128",
+    "DisplayName": "\u003CT_UI_Safflower_CurrencyIcon_128\u003E",
+    "IsPermanent": true,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/battlepasss39_passquestprereqs/content/items/persistentresources/t_ui_safflower_currencyicon_128.uasset"
+  },
+  "AccountResource:t_ui_safflower_currencyicon1": {
+    "Type": "AccountResource",
+    "Name": "T_UI_Safflower_CurrencyIcon1",
+    "DisplayName": "\u003CT_UI_Safflower_CurrencyIcon1\u003E",
+    "IsPermanent": true,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/battlepasss39_quests/content/items/persistentresources/honeyfiber/t_ui_safflower_currencyicon1.uasset"
   },
   "AccountResource:voucher_basicpack": {
     "Type": "AccountResource",

@@ -1,5 +1,5 @@
 {
-  "mainQuests":{
+  "questlines":{
     "displayName": "Questlines",
     "autoPopulateQuestlines": true
   },

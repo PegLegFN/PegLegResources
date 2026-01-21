@@ -49,6 +49,7 @@
       "questlines": [
         {
           "eventFlag": "EventFlag.Blockbuster2018",
+          "description": "Ray has gone missing. Investigate the comet and gear up to recruit a team of superheroes. Find Ray and bring her back home!",
           "color": "#545454",
           "keyItems": [
             "Hero:hid_commando_myth03_sr_t01",
@@ -57,6 +58,7 @@
         },
         {
           "eventFlag": "EventFlag.Season12.NoDancing.Quests",
+          "description": "Major Oswald will not allow Homebase to suffer at the hands of the enemy - the dreaded Love Storm. Operation Broken Hearts begins at oh-eight-right now.",
           "color": "#ff75aa",
           "keyItems": [
             "Hero:hid_ninja_035_f_cupid_sr_t01"
@@ -66,6 +68,7 @@
         },
         {
           "eventFlag": "EventFlag.Phoenix.NewBeginnings.SpringTraining",
+          "description": "Major Oswald has lost his cool. Help him rediscover his inner soldier.",
           "color": "#69facc",
           "keyItems": [
             "Hero:hid_commando_042_major_sr_t01",
@@ -78,13 +81,23 @@
         {
           "eventFlag": "EventFlag.Starlight",
           "displayName": "Dungeons",
+          "description": "Delve into some Dungeons and face off against terrifying foes!",
           "style": "swamp",
           "color": "#77009c",
           "keyItems": [
             "Hero:hid_commando_045_chaos_agent_sr_t01",
             "Hero:hid_commando_033_halloweenquestsoldier_sr_t01"
           ],
-          "questGroup": "eventQuests"
+          "questGroup": [
+            "eventQuests.dungeon",
+            "eventQuests.dungeon_crypts",
+            "eventQuests.dungeon_lab",
+            "eventQuests.dungeon_inferno",
+            "eventQuests.dungeon_grotto",
+            "eventQuests.dungeon_labrynth",
+            "eventQuests.dungeon_class",
+            "eventQuests.dungeon_elite"
+          ]
         },
         {
           "eventFlag": "QuestCategory.STW.Event.CramSession",
@@ -152,6 +165,7 @@
       "questlines": [
         {
           "eventFlag": "EventFlag.Spring2019.Phase2",
+          "description": "A black flag flies on the horizon, are pirates headed for Homebase?",
           "color": "#4de84f",
           "keyItems": [
             "Hero:hid_constructor_025_progressivepirateconstructor_sr_t01",
@@ -161,6 +175,7 @@
         },
         {
           "eventFlag": "EventFlag.STWIrwin",
+          "description": "Homebase is under siege by a menagerie of wild creatures. Help Ray, Dennis, and the mysteriously wolfy Gia make sense of the furry madness.",
           "color": "#f91362",
           "keyItems": [
             "Hero:hid_outlander_041_dinocollector_sr_t01"
@@ -170,6 +185,7 @@
         },
         {
           "eventFlag": "EventFlag.YarrrTwo",
+          "description": "Blakebeard's ghost haunts Homebase in hopes of creating a legacy. Help him move on, and keep the living safe!",
           "color": "#4bbf9e",
           "keyItems": [
             "Hero:hid_constructor_037_director_sr_t01"
@@ -178,6 +194,7 @@
         },
         {
           "eventFlag": "EventFlag.STWFennix",
+          "description": "After a recent loss, Riggs brings on an expert to help rebrand and train Homebase. However, something seems off about him.",
           "color": "#c631d6",
           "keyItems": [
             "Hero:hid_ninja_044_fennix_sr_t01"
@@ -189,12 +206,19 @@
         {
           "eventFlag": "EventFlag.HordeV3",
           "displayName": "Survive The Horde",
+          "description": "Join the fight against the unstoppable Horde! Do you have what it takes to survive?",
           "color": "#ffb0f8",
           "keyItems": [
             "Hero:hid_constructor_043_hotwire_sr_t01",
             "Hero:hid_constructor_042_butterfly_sr_t01"
           ],
-          "questGroup": "eventQuests"
+          "questGroup": [
+            "eventQuests.sth",
+            "eventQuests.sth_daily",
+            "eventQuests.sth_15",
+            "eventQuests.sth_modifier",
+            "eventQuests.sth_challenge"
+          ]
         },
         {
           "eventFlag": "EventFlag.HordeV3.Week10",
@@ -330,6 +354,7 @@
       "questlines": [
         {
           "eventFlag": "EventFlag.Phoenix.RoadTrip.Imposter",
+          "description": "Search the newly discovered Blasted Badlands for a true hero.",
           "color": "#9fd3a0",
           "keyItems": [
             "Hero:hid_ninja_040_dennis_sr_t01"
@@ -338,6 +363,7 @@
         },
         {
           "eventFlag": "EventFlag.Season9.Phase2",
+          "description": "Launch the VSS Gallant once more in the latest installment of Beyond the Stellar Horizon.",
           "color": "#d8e9f2",
           "keyItems": [
             "Hero:hid_outlander_028_retroscifistoryoutlander_sr_t01"
@@ -347,6 +373,7 @@
         },
         {
           "eventFlag": "EventFlag.Season9.Phase1",
+          "description": "Join the hunt for a strange visitor beyond the bounds of reality!",
           "color": "#ff8cc6",
           "keyItems": [
             "Hero:hid_ninja_029_dinoninja_sr_t01"
@@ -355,6 +382,7 @@
         },
         {
           "eventFlag": "EventFlag.STWRaptor",
+          "questGroup": "extraQuests.raptor",
           "color": "#b6ffab",
           "displayName": "Raptor Wrangler",
           "keyItems": [
@@ -365,6 +393,7 @@
         },
         {
           "eventFlag": "EventFlag.STWOutlandish",
+          "description": "In the face of mounting strangeness, an outlandish crew is assembled...",
           "color": "#215bd9",
           "keyItems": [
             "Hero:hid_outlander_042_madcap_sr_t01",
@@ -377,11 +406,12 @@
         {
           "eventFlag": "EventFlag.Mayday",
           "displayName": "Hit The Road",
+          "description": "Bring music to the masses in this summer adventure!",
           "color": "#e8d900",
           "keyItems": [
             "Hero:hid_outlander_027_dinooutlander_sr_t01"
           ],
-          "questGroup": "eventQuests"
+          "questGroup": "eventQuests.htr"
         },
         {
           "eventFlag": "EventFlag.Mayday.Quests.Phase1",
@@ -486,6 +516,7 @@
         },
         {
           "eventFlag": "BirthdaySomething.NoIdea",
+          "description": "Claim this Birthday Llama from the Llama Shop before the week ends!",
           "displayName": "Birthday Llama",
           "priority": 1,
           "color": "#ce8aff",
@@ -659,6 +690,7 @@
       "questlines": [
         {
           "eventFlag": "EventFlag.Phoenix.Fortnitemares.Clip",
+          "description": "A nauseating spell in Hexylvania. A gunsmith haunted by a figure from her past. Help Homebase dispel the curse before it's too late!",
           "color": "#ea5a53",
           "keyItems": [
             "Hero:hid_outlander_038_clip_sr_t01"
@@ -667,6 +699,7 @@
         },
         {
           "eventFlag": "EventFlag.Season11.Fortnitemares.Quests.Phase2",
+          "description": "Wolves and non-wolves beware, the Special Edition Super Wolf Moon is on the rise.",
           "color": "#ffcefb",
           "keyItems": [
             "Hero:hid_ninja_019_sr_t01"
@@ -676,6 +709,7 @@
         },
         {
           "eventFlag": "EventFlag.Season11.Fortnitemares.Quests.Phase3",
+          "description": "Summer Camp Slashers are on the loose! Join Ray in a fun slash frightening slasher adventure.",
           "color": "#ffcefb",
           "keyItems": [
             "Hero:hid_commando_myth02_sr_t01"
@@ -685,6 +719,7 @@
         },
         {
           "eventFlag": "EventFlag.Season11.Fortnitemares.Quests.Phase1",
+          "description": "Brave a seven-night stay at Oakdirge Hollows, Stoneplancantwine's third most haunted hotel!",
           "color": "#ffcefb",
           "keyItems": [
             "Hero:hid_outlander_031_halloweenoutlander_sr_t01"
@@ -693,6 +728,7 @@
         },
         {
           "eventFlag": "EventFlag.STWBrainstorm",
+          "description": "On a dark and brain-stormy night, the Door to Darkness stirs…",
           "color": "#a5c69f",
           "keyItems": [
             "Hero:hid_constructor_41_alien_agent_sr_t01",
@@ -706,11 +742,21 @@
         {
           "eventFlag": "EventFlag.Starlight",
           "displayName": "Dungeons",
+          "description": "Delve into some Dungeons and face off against terrifying foes!",
           "keyItems": [
             "Hero:hid_commando_045_chaos_agent_sr_t01",
             "Hero:hid_commando_033_halloweenquestsoldier_sr_t01"
           ],
-          "questGroup": "eventQuests"
+          "questGroup": [
+            "eventQuests.dungeon",
+            "eventQuests.dungeon_crypts",
+            "eventQuests.dungeon_lab",
+            "eventQuests.dungeon_inferno",
+            "eventQuests.dungeon_grotto",
+            "eventQuests.dungeon_labrynth",
+            "eventQuests.dungeon_class",
+            "eventQuests.dungeon_elite"
+          ]
         },
         {
           "eventFlag": "QuestCategory.STW.Event.CramSession",
@@ -782,6 +828,7 @@
       "questlines": [
         {
           "eventFlag": "EventFlag.Season11.WinterFest.Quests.Phase1",
+          "description": "It's that time of year again! Time to decorate trees, sing holiday songs, and... resolve hostage situations?",
           "color": "#E0F1E1",
           "keyItems": [
             "Hero:hid_commando_025_sr_t01"
@@ -790,6 +837,7 @@
         },
         {
           "eventFlag": "EventFlag.Season11.WinterFest.Quests.Phase3",
+          "description": "Misfit toys are loose! All they want for Christmas is vengeance!",
           "color": "#E0F1E1",
           "keyItems": [
             "Hero:hid_outlander_032_toyoutlander_sr_t01"
@@ -798,6 +846,7 @@
         },
         {
           "eventFlag": "EventFlag.Phoenix.Winterfest.GhostOfChristmas",
+          "description": "The storm is out for holiday vengeance! Help Ray concoct the ultimate Christmas antidote.",
           "color": "#954355",
           "keyItems": [
             "Hero:hid_outlander_035_palespooky_outlander_holiday_sr_t01"
@@ -809,13 +858,17 @@
         {
           "eventFlag": "EventFlag.Season11.Frostnite",
           "displayName": "Frostnite",
+          "description": "Frostnite returns! Get ready to heat things up and fight the cold and deadly storm.",
           "color": "#3159b5",
           "keyItems": [
             "Hero:hid_constructor_023_sr_t01",
             "Schematic:sid_pistol_paper_airplane_sr_ore_t01",
             "Hero:hid_constructor_020_sr_t01"
           ],
-          "questGroup": "eventQuests"
+          "questGroup": [
+            "eventQuests.frostnite",
+            "eventQuests.forstnite_elite"
+          ]
         },
         {
           "eventFlag": "EventFlag.Frostnite.Week1",
@@ -899,6 +952,7 @@
           "free": true
         },
         {
+          "description": "2 Free Llamas available each day for a fortnight!",
           "color": "#194ed4",
           "keyItems": [
             "CardPack:cardpack_bronze"

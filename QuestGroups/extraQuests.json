@@ -1,4 +1,9 @@
 {
+  "raptor": {
+    "displayName": "Raptor Wrangler",
+    "chain": true,
+    "predicate": "Quest:stwirwinraptor_quest_a01_hatching"
+  },
   "extraMainQuests": {
     "displayName": "Extra Main Quests",
     "chain": true,

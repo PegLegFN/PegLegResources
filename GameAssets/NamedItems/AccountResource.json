@@ -749,9 +749,9 @@
   "AccountResource:s39_eventcurrency": {
     "Type": "AccountResource",
     "Name": "S39_EventCurrency",
-    "DisplayName": "\u003CS39_EventCurrency\u003E",
+    "DisplayName": "Cred",
     "IsPermanent": true,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/battlepasss39_quests/content/items/persistentresources/honeyfiber/s39_eventcurrency.uasset",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/battlepasss39_passquestprereqs/content/items/persistentresources/s39_eventcurrency.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T_UI_Safflower_CurrencyIcon_128.png",
       "LargePreview": "ExportedImages\\T_UI_Safflower_CurrencyIcon_128.png"
@@ -846,12 +846,12 @@
       "LargePreview": "ExportedImages\\T-Items-DailyCoin-L.png"
     }
   },
-  "AccountResource:t_ui_safflower_chasereward_01": {
+  "AccountResource:t_ui_safflower_chaserewardicon_128": {
     "Type": "AccountResource",
-    "Name": "T_UI_Safflower_ChaseReward_01",
-    "DisplayName": "\u003CT_UI_Safflower_ChaseReward_01\u003E",
+    "Name": "T_UI_Safflower_ChaseRewardIcon_128",
+    "DisplayName": "\u003CT_UI_Safflower_ChaseRewardIcon_128\u003E",
     "IsPermanent": true,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/battlepasss39_passquestprereqs/content/items/persistentresources/t_ui_safflower_chasereward_01.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/battlepasss39_passquestprereqs/content/items/persistentresources/t_ui_safflower_chaserewardicon_128.uasset"
   },
   "AccountResource:t_ui_safflower_currencyicon_128": {
     "Type": "AccountResource",
@@ -865,7 +865,7 @@
     "Name": "T_UI_Safflower_CurrencyIcon1",
     "DisplayName": "\u003CT_UI_Safflower_CurrencyIcon1\u003E",
     "IsPermanent": true,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/battlepasss39_quests/content/items/persistentresources/honeyfiber/t_ui_safflower_currencyicon1.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/battlepasss39_passquestprereqs/content/items/persistentresources/t_ui_safflower_currencyicon1.uasset"
   },
   "AccountResource:voucher_basicpack": {
     "Type": "AccountResource",

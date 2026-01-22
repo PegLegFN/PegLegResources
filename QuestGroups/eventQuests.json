@@ -44,13 +44,13 @@
             "startsWith": "starlightquest_daily_complete"
           },
           {
-            "startsWith": "starlightquest_complete_d"
+            "startsWith": "starlightquest_complete"
           },
           {
             "startsWith": "starlightquest_dungeoneer"
           },
           {
-            "startsWith": "starlightquest_complete_all"
+            "startsWith": "starlightquest_hidden"
           }
         ]
       }
@@ -144,6 +144,12 @@
     "eventFlag": "EventFlag.Starlight",
     "chain":true,
     "predicate": "Quest:starlightquest_dungeoneer_soldier"
+  },
+  "dungeon_challenge": {
+    "displayName": "Challenges",
+    "eventFlag": "EventFlag.Starlight",
+    "chain":true,
+    "predicate": "Quest:starlightquest_complete_melee_d1"
   },
   "dungeon_elite": {
     "displayName": "Dungeon Checklist",

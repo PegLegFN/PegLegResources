@@ -96,6 +96,7 @@
             "eventQuests.dungeon_grotto",
             "eventQuests.dungeon_labrynth",
             "eventQuests.dungeon_class",
+            "eventQuests.dungeon_challenge",
             "eventQuests.dungeon_elite"
           ]
         },

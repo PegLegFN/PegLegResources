@@ -7,6 +7,7 @@
       "category": "ltr_mayday2019",
       "exclude": [
         "Quest:MaydayQuest_2019_Daily_Complete",
+        "Quest:MaydayQuest_2019_Strangelands",
         {
           "startsWith": "maydayquest_2019_complete",
           "exclude": "Quest:maydayquest_2019_completesubmissions"
@@ -32,6 +33,7 @@
   },
   "dungeon": {
     "displayName": "Dungeons",
+    "shortName": "Standard",
     "eventFlag": "EventFlag.Starlight",
     "showComplete":true,
     "predicate": {
@@ -42,13 +44,13 @@
             "startsWith": "starlightquest_daily_complete"
           },
           {
-            "startsWith": "starlightquest_complete_d"
+            "startsWith": "starlightquest_complete"
           },
           {
             "startsWith": "starlightquest_dungeoneer"
           },
           {
-            "startsWith": "starlightquest_complete_all"
+            "startsWith": "starlightquest_hidden"
           }
         ]
       }
@@ -74,6 +76,7 @@
   },
   "dungeon_crypts": {
     "displayName": "Crypts Capers",
+    "shortName": "Crypts",
     "eventFlag": "EventFlag.Starlight",
     "sequence": true,
     "predicate": {
@@ -86,6 +89,7 @@
   },
   "dungeon_lab": {
     "displayName": "Lab Looting",
+    "shortName": "Lab",
     "eventFlag": "EventFlag.Starlight",
     "sequence": true,
     "predicate": {
@@ -98,6 +102,7 @@
   },
   "dungeon_inferno": {
     "displayName": "Inferno Infiltration",
+    "shortName": "Inferno",
     "eventFlag": "EventFlag.Starlight",
     "sequence": true,
     "predicate": {
@@ -110,6 +115,7 @@
   },
   "dungeon_grotto": {
     "displayName": "Grotto Grabbing",
+    "shortName": "Grotto",
     "eventFlag": "EventFlag.Starlight",
     "sequence": true,
     "predicate": {
@@ -122,6 +128,7 @@
   },
   "dungeon_labrynth": {
     "displayName": "Labrynth Larceny",
+    "shortName": "Labrynth",
     "eventFlag": "EventFlag.Starlight",
     "sequence": true,
     "predicate": {
@@ -138,8 +145,15 @@
     "chain":true,
     "predicate": "Quest:starlightquest_dungeoneer_soldier"
   },
+  "dungeon_challenge": {
+    "displayName": "Challenges",
+    "eventFlag": "EventFlag.Starlight",
+    "chain":true,
+    "predicate": "Quest:starlightquest_complete_melee_d1"
+  },
   "dungeon_elite": {
     "displayName": "Dungeon Checklist",
+    "shortName": "Elite",
     "eventFlag": "EventFlag.Starlight",
     "showComplete":true,
     "predicate": {
@@ -151,6 +165,7 @@
   },
   "sth": {
     "displayName": "Survive The Horde",
+    "shortName": "Standard",
     "eventFlag": "EventFlag.HordeV3",
     "showComplete":true,
     "predicate": {
@@ -165,6 +180,7 @@
   },
   "sth_daily": {
     "displayName": "Daily Survive The Horde",
+    "shortName": "Daily",
     "timer": "Daily",
     "eventFlag": "EventFlag.HordeV3",
     "sequence": true,
@@ -187,6 +203,7 @@
   },
   "sth_15": {
     "displayName": "Survive The Horde: Wave 15",
+    "shortName": "Wave 15",
     "eventFlag": "EventFlag.HordeV3",
     "predicate": {
       "chain": true,
@@ -197,6 +214,7 @@
   },
   "sth_modifier": {
     "displayName": "Survive The Horde: Modifiers",
+    "shortName": "Modifiers",
     "eventFlag": "EventFlag.HordeV3",
     "sequence": true,
     "predicate": {
@@ -209,6 +227,7 @@
   },
   "sth_challenge": {
     "displayName": "Survive The Horde: Challenges",
+    "shortName": "Challenges",
     "eventFlag": "EventFlag.HordeV3",
     "sequence": true,
     "predicate": {
@@ -258,7 +277,7 @@
       ]
     }
   },
-  "forstnite_elite": {
+  "frostnite_elite": {
     "displayName": "Elite Frostnite",
     "eventFlag": "EventFlag.Season11.Frostnite",
     "showComplete":true,

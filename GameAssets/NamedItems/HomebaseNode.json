@@ -472,28 +472,6 @@
       "LargePreview": "ExportedImages\\T-Items-WeaponPerkUp-Generic.png"
     }
   },
-  "HomebaseNode:questreward_feature_researchsystem": {
-    "Type": "HomebaseNode",
-    "Name": "QuestReward_Feature_ResearchSystem",
-    "DisplayName": "Lars, the Scientist",
-    "IsPermanent": true,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_feature_researchsystem.uasset",
-    "ImagePaths": {
-      "SmallPreview": "ExportedImages\\Icon-LARS-Headshot_NOALPHA-XL.png",
-      "LargePreview": "ExportedImages\\Icon-LARS-Headshot_NOALPHA-XL.png"
-    }
-  },
-  "HomebaseNode:questreward_feature_skillsystem": {
-    "Type": "HomebaseNode",
-    "Name": "QuestReward_Feature_SkillSystem",
-    "DisplayName": "Kevin, the Technologist",
-    "IsPermanent": true,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_feature_skillsystem.uasset",
-    "ImagePaths": {
-      "SmallPreview": "ExportedImages\\Icon-KEVIN-ALPHA.png",
-      "LargePreview": "ExportedImages\\Icon-KEVIN-ALPHA.png"
-    }
-  },
   "HomebaseNode:questreward_feature_survivorlevelup": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_Feature_SurvivorLevelUp",

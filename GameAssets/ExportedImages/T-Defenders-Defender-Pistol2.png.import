@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://cxj6uxwuxw4bn"
 path.s3tc="res://.godot/imported/T-Defenders-Defender-Pistol2.png-c2634282a4e12868b0b5a7eb4232650c.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Defenders-Defender-Pistol2.png-c2634282a4e12868b0b5a7eb4232650c.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Defenders-Defender-Pistol2.png"
-dest_files=["res://.godot/imported/T-Defenders-Defender-Pistol2.png-c2634282a4e12868b0b5a7eb4232650c.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Defenders-Defender-Pistol2.png-c2634282a4e12868b0b5a7eb4232650c.s3tc.ctex", "res://.godot/imported/T-Defenders-Defender-Pistol2.png-c2634282a4e12868b0b5a7eb4232650c.etc2.ctex"]
 
 [params]
 

@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://dsxwlgq6d8kwm"
 path.s3tc="res://.godot/imported/T-Soldier-HID-246-Athena-Commando-F-Grave.png-bfbf7c8fd41cf85b7d2ba97046c387a5.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Soldier-HID-246-Athena-Commando-F-Grave.png-bfbf7c8fd41cf85b7d2ba97046c387a5.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Soldier-HID-246-Athena-Commando-F-Grave.png"
-dest_files=["res://.godot/imported/T-Soldier-HID-246-Athena-Commando-F-Grave.png-bfbf7c8fd41cf85b7d2ba97046c387a5.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Soldier-HID-246-Athena-Commando-F-Grave.png-bfbf7c8fd41cf85b7d2ba97046c387a5.s3tc.ctex", "res://.godot/imported/T-Soldier-HID-246-Athena-Commando-F-Grave.png-bfbf7c8fd41cf85b7d2ba97046c387a5.etc2.ctex"]
 
 [params]
 

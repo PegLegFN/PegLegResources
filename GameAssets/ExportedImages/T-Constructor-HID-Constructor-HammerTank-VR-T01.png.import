@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://4qd3pwrlmik3"
 path.s3tc="res://.godot/imported/T-Constructor-HID-Constructor-HammerTank-VR-T01.png-4e7c82e42e19bc9a2fe63a9ba1056c3e.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Constructor-HID-Constructor-HammerTank-VR-T01.png-4e7c82e42e19bc9a2fe63a9ba1056c3e.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Constructor-HID-Constructor-HammerTank-VR-T01.png"
-dest_files=["res://.godot/imported/T-Constructor-HID-Constructor-HammerTank-VR-T01.png-4e7c82e42e19bc9a2fe63a9ba1056c3e.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Constructor-HID-Constructor-HammerTank-VR-T01.png-4e7c82e42e19bc9a2fe63a9ba1056c3e.s3tc.ctex", "res://.godot/imported/T-Constructor-HID-Constructor-HammerTank-VR-T01.png-4e7c82e42e19bc9a2fe63a9ba1056c3e.etc2.ctex"]
 
 [params]
 

@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://cwk83j0hadcjv"
 path.s3tc="res://.godot/imported/T-Banner-Icons-S8-CumulativeLS6.png-2d363b0de566e7c43f0a34264a20123b.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Banner-Icons-S8-CumulativeLS6.png-2d363b0de566e7c43f0a34264a20123b.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Banner-Icons-S8-CumulativeLS6.png"
-dest_files=["res://.godot/imported/T-Banner-Icons-S8-CumulativeLS6.png-2d363b0de566e7c43f0a34264a20123b.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Banner-Icons-S8-CumulativeLS6.png-2d363b0de566e7c43f0a34264a20123b.s3tc.ctex", "res://.godot/imported/T-Banner-Icons-S8-CumulativeLS6.png-2d363b0de566e7c43f0a34264a20123b.etc2.ctex"]
 
 [params]
 

@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://dqxcbvfhdbwn8"
 path.s3tc="res://.godot/imported/T-Icon-Bacon.png-13b088f64d9b060901cadb0a110f2617.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Icon-Bacon.png-13b088f64d9b060901cadb0a110f2617.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Icon-Bacon.png"
-dest_files=["res://.godot/imported/T-Icon-Bacon.png-13b088f64d9b060901cadb0a110f2617.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Icon-Bacon.png-13b088f64d9b060901cadb0a110f2617.s3tc.ctex", "res://.godot/imported/T-Icon-Bacon.png-13b088f64d9b060901cadb0a110f2617.etc2.ctex"]
 
 [params]
 

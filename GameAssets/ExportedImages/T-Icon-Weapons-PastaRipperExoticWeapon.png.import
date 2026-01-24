@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://blp2hcj4y8hlb"
 path.s3tc="res://.godot/imported/T-Icon-Weapons-PastaRipperExoticWeapon.png-70f7997d1962f467a40abd944792fedd.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Icon-Weapons-PastaRipperExoticWeapon.png-70f7997d1962f467a40abd944792fedd.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Icon-Weapons-PastaRipperExoticWeapon.png"
-dest_files=["res://.godot/imported/T-Icon-Weapons-PastaRipperExoticWeapon.png-70f7997d1962f467a40abd944792fedd.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Icon-Weapons-PastaRipperExoticWeapon.png-70f7997d1962f467a40abd944792fedd.s3tc.ctex", "res://.godot/imported/T-Icon-Weapons-PastaRipperExoticWeapon.png-70f7997d1962f467a40abd944792fedd.etc2.ctex"]
 
 [params]
 

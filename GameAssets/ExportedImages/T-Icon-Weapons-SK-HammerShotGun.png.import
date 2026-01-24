@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://de730xvom3rxy"
 path.s3tc="res://.godot/imported/T-Icon-Weapons-SK-HammerShotGun.png-66e2ab00e83c2a09c3477232b9b241ab.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Icon-Weapons-SK-HammerShotGun.png-66e2ab00e83c2a09c3477232b9b241ab.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Icon-Weapons-SK-HammerShotGun.png"
-dest_files=["res://.godot/imported/T-Icon-Weapons-SK-HammerShotGun.png-66e2ab00e83c2a09c3477232b9b241ab.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Icon-Weapons-SK-HammerShotGun.png-66e2ab00e83c2a09c3477232b9b241ab.s3tc.ctex", "res://.godot/imported/T-Icon-Weapons-SK-HammerShotGun.png-66e2ab00e83c2a09c3477232b9b241ab.etc2.ctex"]
 
 [params]
 

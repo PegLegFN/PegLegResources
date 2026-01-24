@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://cwce45cvndkr"
 path.s3tc="res://.godot/imported/T-Soldier-HID-372-Athena-Commando-F-Pirate01.png-3a439eb905a687bf3afc347f9d6d3a8b.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Soldier-HID-372-Athena-Commando-F-Pirate01.png-3a439eb905a687bf3afc347f9d6d3a8b.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Soldier-HID-372-Athena-Commando-F-Pirate01.png"
-dest_files=["res://.godot/imported/T-Soldier-HID-372-Athena-Commando-F-Pirate01.png-3a439eb905a687bf3afc347f9d6d3a8b.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Soldier-HID-372-Athena-Commando-F-Pirate01.png-3a439eb905a687bf3afc347f9d6d3a8b.s3tc.ctex", "res://.godot/imported/T-Soldier-HID-372-Athena-Commando-F-Pirate01.png-3a439eb905a687bf3afc347f9d6d3a8b.etc2.ctex"]
 
 [params]
 

@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://kmuk5ps75ksd"
 path.s3tc="res://.godot/imported/T-Soldier-HID-245-Athena-Commando-F-DurrburgerPjs.png-983c22f7a154b607279f9fc87a7bd25e.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Soldier-HID-245-Athena-Commando-F-DurrburgerPjs.png-983c22f7a154b607279f9fc87a7bd25e.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Soldier-HID-245-Athena-Commando-F-DurrburgerPjs.png"
-dest_files=["res://.godot/imported/T-Soldier-HID-245-Athena-Commando-F-DurrburgerPjs.png-983c22f7a154b607279f9fc87a7bd25e.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Soldier-HID-245-Athena-Commando-F-DurrburgerPjs.png-983c22f7a154b607279f9fc87a7bd25e.s3tc.ctex", "res://.godot/imported/T-Soldier-HID-245-Athena-Commando-F-DurrburgerPjs.png-983c22f7a154b607279f9fc87a7bd25e.etc2.ctex"]
 
 [params]
 

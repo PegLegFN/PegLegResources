@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://c60yknn1jcc7p"
 path.s3tc="res://.godot/imported/T-Soldier-HID-Commando-007-UC-T01.png-ab9970d5e0d1251cd4aeda170bdfc873.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Soldier-HID-Commando-007-UC-T01.png-ab9970d5e0d1251cd4aeda170bdfc873.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Soldier-HID-Commando-007-UC-T01.png"
-dest_files=["res://.godot/imported/T-Soldier-HID-Commando-007-UC-T01.png-ab9970d5e0d1251cd4aeda170bdfc873.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Soldier-HID-Commando-007-UC-T01.png-ab9970d5e0d1251cd4aeda170bdfc873.s3tc.ctex", "res://.godot/imported/T-Soldier-HID-Commando-007-UC-T01.png-ab9970d5e0d1251cd4aeda170bdfc873.etc2.ctex"]
 
 [params]
 

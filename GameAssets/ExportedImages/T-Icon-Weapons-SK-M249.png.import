@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://cki2yd5dvmof4"
 path.s3tc="res://.godot/imported/T-Icon-Weapons-SK-M249.png-ce4a53a4c24d695ec35b6cb8f7c79b1c.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Icon-Weapons-SK-M249.png-ce4a53a4c24d695ec35b6cb8f7c79b1c.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Icon-Weapons-SK-M249.png"
-dest_files=["res://.godot/imported/T-Icon-Weapons-SK-M249.png-ce4a53a4c24d695ec35b6cb8f7c79b1c.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Icon-Weapons-SK-M249.png-ce4a53a4c24d695ec35b6cb8f7c79b1c.s3tc.ctex", "res://.godot/imported/T-Icon-Weapons-SK-M249.png-ce4a53a4c24d695ec35b6cb8f7c79b1c.etc2.ctex"]
 
 [params]
 

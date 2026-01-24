@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://bqerxyamkomsx"
 path.s3tc="res://.godot/imported/T-Icon-Weapons-Explosive-Bow.png-b6937b4a8722b8e4077461dd0990abfb.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Icon-Weapons-Explosive-Bow.png-b6937b4a8722b8e4077461dd0990abfb.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Icon-Weapons-Explosive-Bow.png"
-dest_files=["res://.godot/imported/T-Icon-Weapons-Explosive-Bow.png-b6937b4a8722b8e4077461dd0990abfb.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Icon-Weapons-Explosive-Bow.png-b6937b4a8722b8e4077461dd0990abfb.s3tc.ctex", "res://.godot/imported/T-Icon-Weapons-Explosive-Bow.png-b6937b4a8722b8e4077461dd0990abfb.etc2.ctex"]
 
 [params]
 

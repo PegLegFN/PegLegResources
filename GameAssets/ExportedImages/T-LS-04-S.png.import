@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://bssbrur3pbcvo"
 path.s3tc="res://.godot/imported/T-LS-04-S.png-6f1b86dcc65da4a670b8374d16a7e50e.s3tc.ctex"
+path.etc2="res://.godot/imported/T-LS-04-S.png-6f1b86dcc65da4a670b8374d16a7e50e.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-LS-04-S.png"
-dest_files=["res://.godot/imported/T-LS-04-S.png-6f1b86dcc65da4a670b8374d16a7e50e.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-LS-04-S.png-6f1b86dcc65da4a670b8374d16a7e50e.s3tc.ctex", "res://.godot/imported/T-LS-04-S.png-6f1b86dcc65da4a670b8374d16a7e50e.etc2.ctex"]
 
 [params]
 

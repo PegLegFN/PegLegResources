@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://cqkpm1tbdf8cx"
 path.s3tc="res://.godot/imported/T-Icon-Melee-128.png-d2af8e312a5719f363f5bd2c79f9f63f.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Icon-Melee-128.png-d2af8e312a5719f363f5bd2c79f9f63f.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Icon-Melee-128.png"
-dest_files=["res://.godot/imported/T-Icon-Melee-128.png-d2af8e312a5719f363f5bd2c79f9f63f.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Icon-Melee-128.png-d2af8e312a5719f363f5bd2c79f9f63f.s3tc.ctex", "res://.godot/imported/T-Icon-Melee-128.png-d2af8e312a5719f363f5bd2c79f9f63f.etc2.ctex"]
 
 [params]
 

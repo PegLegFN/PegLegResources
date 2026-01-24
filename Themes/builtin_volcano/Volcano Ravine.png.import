@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://201le8q6q8vf"
 path.s3tc="res://.godot/imported/Volcano Ravine.png-da058571ea85e81ffa0961d66caed5f9.s3tc.ctex"
+path.etc2="res://.godot/imported/Volcano Ravine.png-da058571ea85e81ffa0961d66caed5f9.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/Themes/builtin_volcano/Volcano Ravine.png"
-dest_files=["res://.godot/imported/Volcano Ravine.png-da058571ea85e81ffa0961d66caed5f9.s3tc.ctex"]
+dest_files=["res://.godot/imported/Volcano Ravine.png-da058571ea85e81ffa0961d66caed5f9.s3tc.ctex", "res://.godot/imported/Volcano Ravine.png-da058571ea85e81ffa0961d66caed5f9.etc2.ctex"]
 
 [params]
 

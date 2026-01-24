@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://b0ilauuhn2gcq"
 path.s3tc="res://.godot/imported/T-Soldier-HID-222-Athena-Commando-F-DarkViking.png-9e976b7cb8cae5dc5adbd7e9b8310a40.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Soldier-HID-222-Athena-Commando-F-DarkViking.png-9e976b7cb8cae5dc5adbd7e9b8310a40.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Soldier-HID-222-Athena-Commando-F-DarkViking.png"
-dest_files=["res://.godot/imported/T-Soldier-HID-222-Athena-Commando-F-DarkViking.png-9e976b7cb8cae5dc5adbd7e9b8310a40.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Soldier-HID-222-Athena-Commando-F-DarkViking.png-9e976b7cb8cae5dc5adbd7e9b8310a40.s3tc.ctex", "res://.godot/imported/T-Soldier-HID-222-Athena-Commando-F-DarkViking.png-9e976b7cb8cae5dc5adbd7e9b8310a40.etc2.ctex"]
 
 [params]
 

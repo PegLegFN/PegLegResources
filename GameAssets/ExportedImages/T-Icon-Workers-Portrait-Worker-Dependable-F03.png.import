@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://n1xf247ee1cn"
 path.s3tc="res://.godot/imported/T-Icon-Workers-Portrait-Worker-Dependable-F03.png-c974d96ebd5c2d4ab1050b7fb717b34e.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Icon-Workers-Portrait-Worker-Dependable-F03.png-c974d96ebd5c2d4ab1050b7fb717b34e.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Icon-Workers-Portrait-Worker-Dependable-F03.png"
-dest_files=["res://.godot/imported/T-Icon-Workers-Portrait-Worker-Dependable-F03.png-c974d96ebd5c2d4ab1050b7fb717b34e.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Icon-Workers-Portrait-Worker-Dependable-F03.png-c974d96ebd5c2d4ab1050b7fb717b34e.s3tc.ctex", "res://.godot/imported/T-Icon-Workers-Portrait-Worker-Dependable-F03.png-c974d96ebd5c2d4ab1050b7fb717b34e.etc2.ctex"]
 
 [params]
 

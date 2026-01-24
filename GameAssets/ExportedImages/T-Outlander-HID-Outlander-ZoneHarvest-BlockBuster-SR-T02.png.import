@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://cqljxf8b3mul"
 path.s3tc="res://.godot/imported/T-Outlander-HID-Outlander-ZoneHarvest-BlockBuster-SR-T02.png-25c3f94e3f4445ac86cf093d9cce908b.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Outlander-HID-Outlander-ZoneHarvest-BlockBuster-SR-T02.png-25c3f94e3f4445ac86cf093d9cce908b.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Outlander-HID-Outlander-ZoneHarvest-BlockBuster-SR-T02.png"
-dest_files=["res://.godot/imported/T-Outlander-HID-Outlander-ZoneHarvest-BlockBuster-SR-T02.png-25c3f94e3f4445ac86cf093d9cce908b.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Outlander-HID-Outlander-ZoneHarvest-BlockBuster-SR-T02.png-25c3f94e3f4445ac86cf093d9cce908b.s3tc.ctex", "res://.godot/imported/T-Outlander-HID-Outlander-ZoneHarvest-BlockBuster-SR-T02.png-25c3f94e3f4445ac86cf093d9cce908b.etc2.ctex"]
 
 [params]
 

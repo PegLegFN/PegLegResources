@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://hlxu2i5f8ndc"
 path.s3tc="res://.godot/imported/T-Icon-Modifier-Pos-Player-Energy-DamageBuff-64.png-464ad2ffdf3593d6f22b159a27afb09e.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Icon-Modifier-Pos-Player-Energy-DamageBuff-64.png-464ad2ffdf3593d6f22b159a27afb09e.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Icon-Modifier-Pos-Player-Energy-DamageBuff-64.png"
-dest_files=["res://.godot/imported/T-Icon-Modifier-Pos-Player-Energy-DamageBuff-64.png-464ad2ffdf3593d6f22b159a27afb09e.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Icon-Modifier-Pos-Player-Energy-DamageBuff-64.png-464ad2ffdf3593d6f22b159a27afb09e.s3tc.ctex", "res://.godot/imported/T-Icon-Modifier-Pos-Player-Energy-DamageBuff-64.png-464ad2ffdf3593d6f22b159a27afb09e.etc2.ctex"]
 
 [params]
 

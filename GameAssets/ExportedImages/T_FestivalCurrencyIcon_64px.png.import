@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://dp3lij634eb6u"
 path.s3tc="res://.godot/imported/T_FestivalCurrencyIcon_64px.png-16e9f81d6e1cf38f73a53b9244d02285.s3tc.ctex"
+path.etc2="res://.godot/imported/T_FestivalCurrencyIcon_64px.png-16e9f81d6e1cf38f73a53b9244d02285.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T_FestivalCurrencyIcon_64px.png"
-dest_files=["res://.godot/imported/T_FestivalCurrencyIcon_64px.png-16e9f81d6e1cf38f73a53b9244d02285.s3tc.ctex"]
+dest_files=["res://.godot/imported/T_FestivalCurrencyIcon_64px.png-16e9f81d6e1cf38f73a53b9244d02285.s3tc.ctex", "res://.godot/imported/T_FestivalCurrencyIcon_64px.png-16e9f81d6e1cf38f73a53b9244d02285.etc2.ctex"]
 
 [params]
 

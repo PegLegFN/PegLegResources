@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://0tsb631m7d76"
 path.s3tc="res://.godot/imported/Road Trip Loading Screen.png-37796655b3bdbc6f62b4b87e07928756.s3tc.ctex"
+path.etc2="res://.godot/imported/Road Trip Loading Screen.png-37796655b3bdbc6f62b4b87e07928756.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/Themes/builtin_desert/Road Trip Loading Screen.png"
-dest_files=["res://.godot/imported/Road Trip Loading Screen.png-37796655b3bdbc6f62b4b87e07928756.s3tc.ctex"]
+dest_files=["res://.godot/imported/Road Trip Loading Screen.png-37796655b3bdbc6f62b4b87e07928756.s3tc.ctex", "res://.godot/imported/Road Trip Loading Screen.png-37796655b3bdbc6f62b4b87e07928756.etc2.ctex"]
 
 [params]
 

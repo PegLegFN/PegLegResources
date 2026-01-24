@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://dqamh74hj01lt"
 path.s3tc="res://.godot/imported/T-Items-WeaponPerkup-Legendary.png-5a25c01b8961a7305380384b952168eb.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Items-WeaponPerkup-Legendary.png-5a25c01b8961a7305380384b952168eb.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Items-WeaponPerkup-Legendary.png"
-dest_files=["res://.godot/imported/T-Items-WeaponPerkup-Legendary.png-5a25c01b8961a7305380384b952168eb.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Items-WeaponPerkup-Legendary.png-5a25c01b8961a7305380384b952168eb.s3tc.ctex", "res://.godot/imported/T-Items-WeaponPerkup-Legendary.png-5a25c01b8961a7305380384b952168eb.etc2.ctex"]
 
 [params]
 

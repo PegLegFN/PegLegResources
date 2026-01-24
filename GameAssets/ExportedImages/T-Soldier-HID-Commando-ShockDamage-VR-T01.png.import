@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://bu5ltgp6c2qjx"
 path.s3tc="res://.godot/imported/T-Soldier-HID-Commando-ShockDamage-VR-T01.png-01f7018816bbf309e0a8a3556d5209c9.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Soldier-HID-Commando-ShockDamage-VR-T01.png-01f7018816bbf309e0a8a3556d5209c9.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Soldier-HID-Commando-ShockDamage-VR-T01.png"
-dest_files=["res://.godot/imported/T-Soldier-HID-Commando-ShockDamage-VR-T01.png-01f7018816bbf309e0a8a3556d5209c9.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Soldier-HID-Commando-ShockDamage-VR-T01.png-01f7018816bbf309e0a8a3556d5209c9.s3tc.ctex", "res://.godot/imported/T-Soldier-HID-Commando-ShockDamage-VR-T01.png-01f7018816bbf309e0a8a3556d5209c9.etc2.ctex"]
 
 [params]
 

@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://clmdkkgwgtuvl"
 path.s3tc="res://.godot/imported/T-Icon-Leaders-Portrait-Inventor-Female.png-cce3c176ea83ff2610ea9d976051db49.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Icon-Leaders-Portrait-Inventor-Female.png-cce3c176ea83ff2610ea9d976051db49.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Icon-Leaders-Portrait-Inventor-Female.png"
-dest_files=["res://.godot/imported/T-Icon-Leaders-Portrait-Inventor-Female.png-cce3c176ea83ff2610ea9d976051db49.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Icon-Leaders-Portrait-Inventor-Female.png-cce3c176ea83ff2610ea9d976051db49.s3tc.ctex", "res://.godot/imported/T-Icon-Leaders-Portrait-Inventor-Female.png-cce3c176ea83ff2610ea9d976051db49.etc2.ctex"]
 
 [params]
 

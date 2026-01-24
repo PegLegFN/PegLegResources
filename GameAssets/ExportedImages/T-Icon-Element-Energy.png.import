@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://4hm5pv6vltc2"
 path.s3tc="res://.godot/imported/T-Icon-Element-Energy.png-de63a1f8d1852f1522b23fca6b0e0335.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Icon-Element-Energy.png-de63a1f8d1852f1522b23fca6b0e0335.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Icon-Element-Energy.png"
-dest_files=["res://.godot/imported/T-Icon-Element-Energy.png-de63a1f8d1852f1522b23fca6b0e0335.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Icon-Element-Energy.png-de63a1f8d1852f1522b23fca6b0e0335.s3tc.ctex", "res://.godot/imported/T-Icon-Element-Energy.png-de63a1f8d1852f1522b23fca6b0e0335.etc2.ctex"]
 
 [params]
 

@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://i02yuk7s2c83"
 path.s3tc="res://.godot/imported/T-Icon-Schematic-128.png-63e7e4db0c59f5291f26c47072742b2b.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Icon-Schematic-128.png-63e7e4db0c59f5291f26c47072742b2b.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Icon-Schematic-128.png"
-dest_files=["res://.godot/imported/T-Icon-Schematic-128.png-63e7e4db0c59f5291f26c47072742b2b.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Icon-Schematic-128.png-63e7e4db0c59f5291f26c47072742b2b.s3tc.ctex", "res://.godot/imported/T-Icon-Schematic-128.png-63e7e4db0c59f5291f26c47072742b2b.etc2.ctex"]
 
 [params]
 

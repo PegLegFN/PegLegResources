@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://cklnir7qg3cmy"
 path.s3tc="res://.godot/imported/T-Items-WeaponPerkup-Epic.png-5c8ec74603e7afcb99e6d95a2c66594d.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Items-WeaponPerkup-Epic.png-5c8ec74603e7afcb99e6d95a2c66594d.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Items-WeaponPerkup-Epic.png"
-dest_files=["res://.godot/imported/T-Items-WeaponPerkup-Epic.png-5c8ec74603e7afcb99e6d95a2c66594d.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Items-WeaponPerkup-Epic.png-5c8ec74603e7afcb99e6d95a2c66594d.s3tc.ctex", "res://.godot/imported/T-Items-WeaponPerkup-Epic.png-5c8ec74603e7afcb99e6d95a2c66594d.etc2.ctex"]
 
 [params]
 

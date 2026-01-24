@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://ps1wdbs5joog"
 path.s3tc="res://.godot/imported/T-Icon-Weapons-SK-GardenRake.png-b05d41fd3ba705f15afac59948d157ee.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Icon-Weapons-SK-GardenRake.png-b05d41fd3ba705f15afac59948d157ee.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Icon-Weapons-SK-GardenRake.png"
-dest_files=["res://.godot/imported/T-Icon-Weapons-SK-GardenRake.png-b05d41fd3ba705f15afac59948d157ee.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Icon-Weapons-SK-GardenRake.png-b05d41fd3ba705f15afac59948d157ee.s3tc.ctex", "res://.godot/imported/T-Icon-Weapons-SK-GardenRake.png-b05d41fd3ba705f15afac59948d157ee.etc2.ctex"]
 
 [params]
 

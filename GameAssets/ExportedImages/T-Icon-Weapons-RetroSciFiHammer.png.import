@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://bjeiy2rcxnqpb"
 path.s3tc="res://.godot/imported/T-Icon-Weapons-RetroSciFiHammer.png-1526c8ec112b17ff708a4d2a228ccf4c.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Icon-Weapons-RetroSciFiHammer.png-1526c8ec112b17ff708a4d2a228ccf4c.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Icon-Weapons-RetroSciFiHammer.png"
-dest_files=["res://.godot/imported/T-Icon-Weapons-RetroSciFiHammer.png-1526c8ec112b17ff708a4d2a228ccf4c.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Icon-Weapons-RetroSciFiHammer.png-1526c8ec112b17ff708a4d2a228ccf4c.s3tc.ctex", "res://.godot/imported/T-Icon-Weapons-RetroSciFiHammer.png-1526c8ec112b17ff708a4d2a228ccf4c.etc2.ctex"]
 
 [params]
 

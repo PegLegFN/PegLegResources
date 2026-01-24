@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://bex1qadggh40w"
 path.s3tc="res://.godot/imported/T-Icon-Weapons-SK-SideFeedSMG.png-35480d7e426952ea98916550468af66b.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Icon-Weapons-SK-SideFeedSMG.png-35480d7e426952ea98916550468af66b.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Icon-Weapons-SK-SideFeedSMG.png"
-dest_files=["res://.godot/imported/T-Icon-Weapons-SK-SideFeedSMG.png-35480d7e426952ea98916550468af66b.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Icon-Weapons-SK-SideFeedSMG.png-35480d7e426952ea98916550468af66b.s3tc.ctex", "res://.godot/imported/T-Icon-Weapons-SK-SideFeedSMG.png-35480d7e426952ea98916550468af66b.etc2.ctex"]
 
 [params]
 

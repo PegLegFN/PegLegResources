@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://c7myel8mver35"
 path.s3tc="res://.godot/imported/T-Soldier-HID-241-Athena-Commando-M-Plague.png-f4cecf8cde250595fb60eee89f1739fe.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Soldier-HID-241-Athena-Commando-M-Plague.png-f4cecf8cde250595fb60eee89f1739fe.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Soldier-HID-241-Athena-Commando-M-Plague.png"
-dest_files=["res://.godot/imported/T-Soldier-HID-241-Athena-Commando-M-Plague.png-f4cecf8cde250595fb60eee89f1739fe.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Soldier-HID-241-Athena-Commando-M-Plague.png-f4cecf8cde250595fb60eee89f1739fe.s3tc.ctex", "res://.godot/imported/T-Soldier-HID-241-Athena-Commando-M-Plague.png-f4cecf8cde250595fb60eee89f1739fe.etc2.ctex"]
 
 [params]
 

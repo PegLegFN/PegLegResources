@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://bkla7vif3k5t3"
 path.s3tc="res://.godot/imported/T-Icon-Weapons-Pitchfork-Advanced.png-455e4a4d34cc955b674251973143668b.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Icon-Weapons-Pitchfork-Advanced.png-455e4a4d34cc955b674251973143668b.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Icon-Weapons-Pitchfork-Advanced.png"
-dest_files=["res://.godot/imported/T-Icon-Weapons-Pitchfork-Advanced.png-455e4a4d34cc955b674251973143668b.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Icon-Weapons-Pitchfork-Advanced.png-455e4a4d34cc955b674251973143668b.s3tc.ctex", "res://.godot/imported/T-Icon-Weapons-Pitchfork-Advanced.png-455e4a4d34cc955b674251973143668b.etc2.ctex"]
 
 [params]
 

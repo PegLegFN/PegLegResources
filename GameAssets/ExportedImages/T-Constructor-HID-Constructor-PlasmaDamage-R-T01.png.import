@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://be01y4b5i6c0r"
 path.s3tc="res://.godot/imported/T-Constructor-HID-Constructor-PlasmaDamage-R-T01.png-9560b799a6e79f081f216e9eee531caa.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Constructor-HID-Constructor-PlasmaDamage-R-T01.png-9560b799a6e79f081f216e9eee531caa.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Constructor-HID-Constructor-PlasmaDamage-R-T01.png"
-dest_files=["res://.godot/imported/T-Constructor-HID-Constructor-PlasmaDamage-R-T01.png-9560b799a6e79f081f216e9eee531caa.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Constructor-HID-Constructor-PlasmaDamage-R-T01.png-9560b799a6e79f081f216e9eee531caa.s3tc.ctex", "res://.godot/imported/T-Constructor-HID-Constructor-PlasmaDamage-R-T01.png-9560b799a6e79f081f216e9eee531caa.etc2.ctex"]
 
 [params]
 

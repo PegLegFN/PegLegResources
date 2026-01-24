@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://cfq4awk4ua48e"
 path.s3tc="res://.godot/imported/T_Icon_Weapons_Ancients_Launcher.png-1f894a8ccade2397f5d566a37fdf177f.s3tc.ctex"
+path.etc2="res://.godot/imported/T_Icon_Weapons_Ancients_Launcher.png-1f894a8ccade2397f5d566a37fdf177f.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T_Icon_Weapons_Ancients_Launcher.png"
-dest_files=["res://.godot/imported/T_Icon_Weapons_Ancients_Launcher.png-1f894a8ccade2397f5d566a37fdf177f.s3tc.ctex"]
+dest_files=["res://.godot/imported/T_Icon_Weapons_Ancients_Launcher.png-1f894a8ccade2397f5d566a37fdf177f.s3tc.ctex", "res://.godot/imported/T_Icon_Weapons_Ancients_Launcher.png-1f894a8ccade2397f5d566a37fdf177f.etc2.ctex"]
 
 [params]
 

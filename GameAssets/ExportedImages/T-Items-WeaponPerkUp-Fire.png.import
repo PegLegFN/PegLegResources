@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://bs8jw27iyi5c3"
 path.s3tc="res://.godot/imported/T-Items-WeaponPerkUp-Fire.png-9b60c236b871cba2f407a816d9cf5d83.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Items-WeaponPerkUp-Fire.png-9b60c236b871cba2f407a816d9cf5d83.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Items-WeaponPerkUp-Fire.png"
-dest_files=["res://.godot/imported/T-Items-WeaponPerkUp-Fire.png-9b60c236b871cba2f407a816d9cf5d83.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Items-WeaponPerkUp-Fire.png-9b60c236b871cba2f407a816d9cf5d83.s3tc.ctex", "res://.godot/imported/T-Items-WeaponPerkUp-Fire.png-9b60c236b871cba2f407a816d9cf5d83.etc2.ctex"]
 
 [params]
 

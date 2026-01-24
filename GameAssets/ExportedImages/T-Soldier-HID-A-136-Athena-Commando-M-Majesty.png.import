@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://73p5hp8uckjx"
 path.s3tc="res://.godot/imported/T-Soldier-HID-A-136-Athena-Commando-M-Majesty.png-bdb792a61c76c3ff7c07cd1c833117eb.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Soldier-HID-A-136-Athena-Commando-M-Majesty.png-bdb792a61c76c3ff7c07cd1c833117eb.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Soldier-HID-A-136-Athena-Commando-M-Majesty.png"
-dest_files=["res://.godot/imported/T-Soldier-HID-A-136-Athena-Commando-M-Majesty.png-bdb792a61c76c3ff7c07cd1c833117eb.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Soldier-HID-A-136-Athena-Commando-M-Majesty.png-bdb792a61c76c3ff7c07cd1c833117eb.s3tc.ctex", "res://.godot/imported/T-Soldier-HID-A-136-Athena-Commando-M-Majesty.png-bdb792a61c76c3ff7c07cd1c833117eb.etc2.ctex"]
 
 [params]
 

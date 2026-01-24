@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://b3ypdk648frre"
 path.s3tc="res://.godot/imported/T-Icon-Weapons-SK-Hydraulic-Style-Sniper-Rifle.png-4660d74ff8b2ac91ed0f24a7a66d975c.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Icon-Weapons-SK-Hydraulic-Style-Sniper-Rifle.png-4660d74ff8b2ac91ed0f24a7a66d975c.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Icon-Weapons-SK-Hydraulic-Style-Sniper-Rifle.png"
-dest_files=["res://.godot/imported/T-Icon-Weapons-SK-Hydraulic-Style-Sniper-Rifle.png-4660d74ff8b2ac91ed0f24a7a66d975c.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Icon-Weapons-SK-Hydraulic-Style-Sniper-Rifle.png-4660d74ff8b2ac91ed0f24a7a66d975c.s3tc.ctex", "res://.godot/imported/T-Icon-Weapons-SK-Hydraulic-Style-Sniper-Rifle.png-4660d74ff8b2ac91ed0f24a7a66d975c.etc2.ctex"]
 
 [params]
 

@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://m6ryqtdyyx0y"
 path.s3tc="res://.godot/imported/T-Soldier-HID-Commando-GunTough-Valentine-SR-T01.png-f19b9ff4c652544ab712cd3c98e3a1d5.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Soldier-HID-Commando-GunTough-Valentine-SR-T01.png-f19b9ff4c652544ab712cd3c98e3a1d5.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Soldier-HID-Commando-GunTough-Valentine-SR-T01.png"
-dest_files=["res://.godot/imported/T-Soldier-HID-Commando-GunTough-Valentine-SR-T01.png-f19b9ff4c652544ab712cd3c98e3a1d5.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Soldier-HID-Commando-GunTough-Valentine-SR-T01.png-f19b9ff4c652544ab712cd3c98e3a1d5.s3tc.ctex", "res://.godot/imported/T-Soldier-HID-Commando-GunTough-Valentine-SR-T01.png-f19b9ff4c652544ab712cd3c98e3a1d5.etc2.ctex"]
 
 [params]
 

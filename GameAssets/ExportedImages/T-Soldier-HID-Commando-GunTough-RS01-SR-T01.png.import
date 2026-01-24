@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://bn8my7jmkuily"
 path.s3tc="res://.godot/imported/T-Soldier-HID-Commando-GunTough-RS01-SR-T01.png-09a6087b07c90cf878dd17d2e6c5376a.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Soldier-HID-Commando-GunTough-RS01-SR-T01.png-09a6087b07c90cf878dd17d2e6c5376a.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Soldier-HID-Commando-GunTough-RS01-SR-T01.png"
-dest_files=["res://.godot/imported/T-Soldier-HID-Commando-GunTough-RS01-SR-T01.png-09a6087b07c90cf878dd17d2e6c5376a.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Soldier-HID-Commando-GunTough-RS01-SR-T01.png-09a6087b07c90cf878dd17d2e6c5376a.s3tc.ctex", "res://.godot/imported/T-Soldier-HID-Commando-GunTough-RS01-SR-T01.png-09a6087b07c90cf878dd17d2e6c5376a.etc2.ctex"]
 
 [params]
 

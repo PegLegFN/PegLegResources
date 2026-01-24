@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://dwpble51ibmyu"
 path.s3tc="res://.godot/imported/T-Icon-S-Resin.png-aeaf6fc92f7db41097f81a2d67edf733.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Icon-S-Resin.png-aeaf6fc92f7db41097f81a2d67edf733.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Icon-S-Resin.png"
-dest_files=["res://.godot/imported/T-Icon-S-Resin.png-aeaf6fc92f7db41097f81a2d67edf733.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Icon-S-Resin.png-aeaf6fc92f7db41097f81a2d67edf733.s3tc.ctex", "res://.godot/imported/T-Icon-S-Resin.png-aeaf6fc92f7db41097f81a2d67edf733.etc2.ctex"]
 
 [params]
 

@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://dt4ue23gw7kma"
 path.s3tc="res://.godot/imported/T-Icon-Weapons-SK-Shotgun-03-Break.png-97597c4b7899231d00c82ecb6a67ccd9.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Icon-Weapons-SK-Shotgun-03-Break.png-97597c4b7899231d00c82ecb6a67ccd9.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Icon-Weapons-SK-Shotgun-03-Break.png"
-dest_files=["res://.godot/imported/T-Icon-Weapons-SK-Shotgun-03-Break.png-97597c4b7899231d00c82ecb6a67ccd9.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Icon-Weapons-SK-Shotgun-03-Break.png-97597c4b7899231d00c82ecb6a67ccd9.s3tc.ctex", "res://.godot/imported/T-Icon-Weapons-SK-Shotgun-03-Break.png-97597c4b7899231d00c82ecb6a67ccd9.etc2.ctex"]
 
 [params]
 

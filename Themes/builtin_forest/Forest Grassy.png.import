@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://cc4uruvnnupg6"
 path.s3tc="res://.godot/imported/Forest Grassy.png-3850a7e7a25a6157881fa70b62f4e88c.s3tc.ctex"
+path.etc2="res://.godot/imported/Forest Grassy.png-3850a7e7a25a6157881fa70b62f4e88c.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/Themes/builtin_forest/Forest Grassy.png"
-dest_files=["res://.godot/imported/Forest Grassy.png-3850a7e7a25a6157881fa70b62f4e88c.s3tc.ctex"]
+dest_files=["res://.godot/imported/Forest Grassy.png-3850a7e7a25a6157881fa70b62f4e88c.s3tc.ctex", "res://.godot/imported/Forest Grassy.png-3850a7e7a25a6157881fa70b62f4e88c.etc2.ctex"]
 
 [params]
 

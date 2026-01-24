@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://xw5ujqi2hbuj"
 path.s3tc="res://.godot/imported/T-Soldier-HID-143-Athena-Commando-F-DarkNinja.png-1e261ca5cdd70856f3d25a2bdbd14c4e.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Soldier-HID-143-Athena-Commando-F-DarkNinja.png-1e261ca5cdd70856f3d25a2bdbd14c4e.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Soldier-HID-143-Athena-Commando-F-DarkNinja.png"
-dest_files=["res://.godot/imported/T-Soldier-HID-143-Athena-Commando-F-DarkNinja.png-1e261ca5cdd70856f3d25a2bdbd14c4e.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Soldier-HID-143-Athena-Commando-F-DarkNinja.png-1e261ca5cdd70856f3d25a2bdbd14c4e.s3tc.ctex", "res://.godot/imported/T-Soldier-HID-143-Athena-Commando-F-DarkNinja.png-1e261ca5cdd70856f3d25a2bdbd14c4e.etc2.ctex"]
 
 [params]
 

@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://b3n0wpqi0u6dh"
 path.s3tc="res://.godot/imported/Volcano Shipping.png-a421c2fd8c3facb4306e8a426a566ada.s3tc.ctex"
+path.etc2="res://.godot/imported/Volcano Shipping.png-a421c2fd8c3facb4306e8a426a566ada.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/Themes/builtin_volcano/Volcano Shipping.png"
-dest_files=["res://.godot/imported/Volcano Shipping.png-a421c2fd8c3facb4306e8a426a566ada.s3tc.ctex"]
+dest_files=["res://.godot/imported/Volcano Shipping.png-a421c2fd8c3facb4306e8a426a566ada.s3tc.ctex", "res://.godot/imported/Volcano Shipping.png-a421c2fd8c3facb4306e8a426a566ada.etc2.ctex"]
 
 [params]
 

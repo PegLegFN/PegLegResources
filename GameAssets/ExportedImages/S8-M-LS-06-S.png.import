@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://dxqr2c53ftvd1"
 path.s3tc="res://.godot/imported/S8-M-LS-06-S.png-bcfd54dc1a20cc042f5197644f3ff64b.s3tc.ctex"
+path.etc2="res://.godot/imported/S8-M-LS-06-S.png-bcfd54dc1a20cc042f5197644f3ff64b.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/S8-M-LS-06-S.png"
-dest_files=["res://.godot/imported/S8-M-LS-06-S.png-bcfd54dc1a20cc042f5197644f3ff64b.s3tc.ctex"]
+dest_files=["res://.godot/imported/S8-M-LS-06-S.png-bcfd54dc1a20cc042f5197644f3ff64b.s3tc.ctex", "res://.godot/imported/S8-M-LS-06-S.png-bcfd54dc1a20cc042f5197644f3ff64b.etc2.ctex"]
 
 [params]
 

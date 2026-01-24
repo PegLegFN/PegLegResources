@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://nbvbg6m8n0j0"
 path.s3tc="res://.godot/imported/T-Icon-Weapons-Peg-Leg-Melee-L.png-2707ff93d763562a27a03ac6b74cbb85.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Icon-Weapons-Peg-Leg-Melee-L.png-2707ff93d763562a27a03ac6b74cbb85.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Icon-Weapons-Peg-Leg-Melee-L.png"
-dest_files=["res://.godot/imported/T-Icon-Weapons-Peg-Leg-Melee-L.png-2707ff93d763562a27a03ac6b74cbb85.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Icon-Weapons-Peg-Leg-Melee-L.png-2707ff93d763562a27a03ac6b74cbb85.s3tc.ctex", "res://.godot/imported/T-Icon-Weapons-Peg-Leg-Melee-L.png-2707ff93d763562a27a03ac6b74cbb85.etc2.ctex"]
 
 [params]
 

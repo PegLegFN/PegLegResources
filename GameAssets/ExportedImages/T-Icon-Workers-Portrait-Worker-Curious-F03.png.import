@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://brbn3fquiyuku"
 path.s3tc="res://.godot/imported/T-Icon-Workers-Portrait-Worker-Curious-F03.png-cce516a5e5b9df655f532b38ef246751.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Icon-Workers-Portrait-Worker-Curious-F03.png-cce516a5e5b9df655f532b38ef246751.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Icon-Workers-Portrait-Worker-Curious-F03.png"
-dest_files=["res://.godot/imported/T-Icon-Workers-Portrait-Worker-Curious-F03.png-cce516a5e5b9df655f532b38ef246751.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Icon-Workers-Portrait-Worker-Curious-F03.png-cce516a5e5b9df655f532b38ef246751.s3tc.ctex", "res://.godot/imported/T-Icon-Workers-Portrait-Worker-Curious-F03.png-cce516a5e5b9df655f532b38ef246751.etc2.ctex"]
 
 [params]
 

@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://r6su30ucgymi"
 path.s3tc="res://.godot/imported/Desert Valley.png-64825038da18d1b38b9172f6946f4a14.s3tc.ctex"
+path.etc2="res://.godot/imported/Desert Valley.png-64825038da18d1b38b9172f6946f4a14.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/Themes/builtin_desert/Desert Valley.png"
-dest_files=["res://.godot/imported/Desert Valley.png-64825038da18d1b38b9172f6946f4a14.s3tc.ctex"]
+dest_files=["res://.godot/imported/Desert Valley.png-64825038da18d1b38b9172f6946f4a14.s3tc.ctex", "res://.godot/imported/Desert Valley.png-64825038da18d1b38b9172f6946f4a14.etc2.ctex"]
 
 [params]
 

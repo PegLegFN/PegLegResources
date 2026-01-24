@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://cqkyqd42q4rnr"
 path.s3tc="res://.godot/imported/T-Ninja-HID-Ninja-SlashTail-UC-T01.png-ad4275c570cd0fad056c84c5eea96836.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Ninja-HID-Ninja-SlashTail-UC-T01.png-ad4275c570cd0fad056c84c5eea96836.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Ninja-HID-Ninja-SlashTail-UC-T01.png"
-dest_files=["res://.godot/imported/T-Ninja-HID-Ninja-SlashTail-UC-T01.png-ad4275c570cd0fad056c84c5eea96836.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Ninja-HID-Ninja-SlashTail-UC-T01.png-ad4275c570cd0fad056c84c5eea96836.s3tc.ctex", "res://.godot/imported/T-Ninja-HID-Ninja-SlashTail-UC-T01.png-ad4275c570cd0fad056c84c5eea96836.etc2.ctex"]
 
 [params]
 

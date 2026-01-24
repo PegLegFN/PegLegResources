@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://r1lb03l1kt08"
 path.s3tc="res://.godot/imported/T-Icon-Modifier-Neg-Enemy-OnDmgReceived-SpeedBuff-64.png-3e02883de7b43c44799b10288b77edbc.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Icon-Modifier-Neg-Enemy-OnDmgReceived-SpeedBuff-64.png-3e02883de7b43c44799b10288b77edbc.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Icon-Modifier-Neg-Enemy-OnDmgReceived-SpeedBuff-64.png"
-dest_files=["res://.godot/imported/T-Icon-Modifier-Neg-Enemy-OnDmgReceived-SpeedBuff-64.png-3e02883de7b43c44799b10288b77edbc.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Icon-Modifier-Neg-Enemy-OnDmgReceived-SpeedBuff-64.png-3e02883de7b43c44799b10288b77edbc.s3tc.ctex", "res://.godot/imported/T-Icon-Modifier-Neg-Enemy-OnDmgReceived-SpeedBuff-64.png-3e02883de7b43c44799b10288b77edbc.etc2.ctex"]
 
 [params]
 

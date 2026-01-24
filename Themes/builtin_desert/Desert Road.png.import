@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://bu3t1reflmdt1"
 path.s3tc="res://.godot/imported/Desert Road.png-d972d1a63206ff8af4eb3ab13858b006.s3tc.ctex"
+path.etc2="res://.godot/imported/Desert Road.png-d972d1a63206ff8af4eb3ab13858b006.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/Themes/builtin_desert/Desert Road.png"
-dest_files=["res://.godot/imported/Desert Road.png-d972d1a63206ff8af4eb3ab13858b006.s3tc.ctex"]
+dest_files=["res://.godot/imported/Desert Road.png-d972d1a63206ff8af4eb3ab13858b006.s3tc.ctex", "res://.godot/imported/Desert Road.png-d972d1a63206ff8af4eb3ab13858b006.etc2.ctex"]
 
 [params]
 

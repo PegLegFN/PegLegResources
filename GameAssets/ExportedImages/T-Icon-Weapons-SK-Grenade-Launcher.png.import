@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://cguwyxqqty6bu"
 path.s3tc="res://.godot/imported/T-Icon-Weapons-SK-Grenade-Launcher.png-8d319db5cb1c309717be791fcd38cb2f.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Icon-Weapons-SK-Grenade-Launcher.png-8d319db5cb1c309717be791fcd38cb2f.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Icon-Weapons-SK-Grenade-Launcher.png"
-dest_files=["res://.godot/imported/T-Icon-Weapons-SK-Grenade-Launcher.png-8d319db5cb1c309717be791fcd38cb2f.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Icon-Weapons-SK-Grenade-Launcher.png-8d319db5cb1c309717be791fcd38cb2f.s3tc.ctex", "res://.godot/imported/T-Icon-Weapons-SK-Grenade-Launcher.png-8d319db5cb1c309717be791fcd38cb2f.etc2.ctex"]
 
 [params]
 

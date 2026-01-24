@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://eryy28lvl5x1"
 path.s3tc="res://.godot/imported/T-Ninja-HID-Ninja-XBOX-R-T01.png-b0be0ca4bf7ff2b38946d55f4feb8825.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Ninja-HID-Ninja-XBOX-R-T01.png-b0be0ca4bf7ff2b38946d55f4feb8825.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Ninja-HID-Ninja-XBOX-R-T01.png"
-dest_files=["res://.godot/imported/T-Ninja-HID-Ninja-XBOX-R-T01.png-b0be0ca4bf7ff2b38946d55f4feb8825.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Ninja-HID-Ninja-XBOX-R-T01.png-b0be0ca4bf7ff2b38946d55f4feb8825.s3tc.ctex", "res://.godot/imported/T-Ninja-HID-Ninja-XBOX-R-T01.png-b0be0ca4bf7ff2b38946d55f4feb8825.etc2.ctex"]
 
 [params]
 

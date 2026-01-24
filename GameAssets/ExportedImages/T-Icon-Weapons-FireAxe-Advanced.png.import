@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://bdasgrw08ch5p"
 path.s3tc="res://.godot/imported/T-Icon-Weapons-FireAxe-Advanced.png-ca564fe74aaea8ee4b06052035937d93.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Icon-Weapons-FireAxe-Advanced.png-ca564fe74aaea8ee4b06052035937d93.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Icon-Weapons-FireAxe-Advanced.png"
-dest_files=["res://.godot/imported/T-Icon-Weapons-FireAxe-Advanced.png-ca564fe74aaea8ee4b06052035937d93.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Icon-Weapons-FireAxe-Advanced.png-ca564fe74aaea8ee4b06052035937d93.s3tc.ctex", "res://.godot/imported/T-Icon-Weapons-FireAxe-Advanced.png-ca564fe74aaea8ee4b06052035937d93.etc2.ctex"]
 
 [params]
 

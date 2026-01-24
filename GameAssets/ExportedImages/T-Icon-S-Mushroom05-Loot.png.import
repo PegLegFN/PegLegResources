@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://yo1o3ec4wkpg"
 path.s3tc="res://.godot/imported/T-Icon-S-Mushroom05-Loot.png-5819cf1c8b7db06b72aca059db3dbd35.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Icon-S-Mushroom05-Loot.png-5819cf1c8b7db06b72aca059db3dbd35.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Icon-S-Mushroom05-Loot.png"
-dest_files=["res://.godot/imported/T-Icon-S-Mushroom05-Loot.png-5819cf1c8b7db06b72aca059db3dbd35.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Icon-S-Mushroom05-Loot.png-5819cf1c8b7db06b72aca059db3dbd35.s3tc.ctex", "res://.godot/imported/T-Icon-S-Mushroom05-Loot.png-5819cf1c8b7db06b72aca059db3dbd35.etc2.ctex"]
 
 [params]
 

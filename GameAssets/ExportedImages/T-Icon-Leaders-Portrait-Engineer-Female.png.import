@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://p72lc0nf0mrs"
 path.s3tc="res://.godot/imported/T-Icon-Leaders-Portrait-Engineer-Female.png-346bf0f5e199c413c2b0ea557c3349b4.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Icon-Leaders-Portrait-Engineer-Female.png-346bf0f5e199c413c2b0ea557c3349b4.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Icon-Leaders-Portrait-Engineer-Female.png"
-dest_files=["res://.godot/imported/T-Icon-Leaders-Portrait-Engineer-Female.png-346bf0f5e199c413c2b0ea557c3349b4.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Icon-Leaders-Portrait-Engineer-Female.png-346bf0f5e199c413c2b0ea557c3349b4.s3tc.ctex", "res://.godot/imported/T-Icon-Leaders-Portrait-Engineer-Female.png-346bf0f5e199c413c2b0ea557c3349b4.etc2.ctex"]
 
 [params]
 

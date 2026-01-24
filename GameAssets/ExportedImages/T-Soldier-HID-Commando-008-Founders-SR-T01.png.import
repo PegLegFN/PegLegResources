@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://dt2dmqrn0l45a"
 path.s3tc="res://.godot/imported/T-Soldier-HID-Commando-008-Founders-SR-T01.png-81d42fa467c1cb0443b72bf6d4bb491a.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Soldier-HID-Commando-008-Founders-SR-T01.png-81d42fa467c1cb0443b72bf6d4bb491a.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Soldier-HID-Commando-008-Founders-SR-T01.png"
-dest_files=["res://.godot/imported/T-Soldier-HID-Commando-008-Founders-SR-T01.png-81d42fa467c1cb0443b72bf6d4bb491a.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Soldier-HID-Commando-008-Founders-SR-T01.png-81d42fa467c1cb0443b72bf6d4bb491a.s3tc.ctex", "res://.godot/imported/T-Soldier-HID-Commando-008-Founders-SR-T01.png-81d42fa467c1cb0443b72bf6d4bb491a.etc2.ctex"]
 
 [params]
 

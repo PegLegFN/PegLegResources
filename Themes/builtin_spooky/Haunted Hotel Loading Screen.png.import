@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://1v2wahnfyb10"
 path.s3tc="res://.godot/imported/Haunted Hotel Loading Screen.png-29c01012a9eed5cc98c22827fefdc02c.s3tc.ctex"
+path.etc2="res://.godot/imported/Haunted Hotel Loading Screen.png-29c01012a9eed5cc98c22827fefdc02c.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/Themes/builtin_spooky/Haunted Hotel Loading Screen.png"
-dest_files=["res://.godot/imported/Haunted Hotel Loading Screen.png-29c01012a9eed5cc98c22827fefdc02c.s3tc.ctex"]
+dest_files=["res://.godot/imported/Haunted Hotel Loading Screen.png-29c01012a9eed5cc98c22827fefdc02c.s3tc.ctex", "res://.godot/imported/Haunted Hotel Loading Screen.png-29c01012a9eed5cc98c22827fefdc02c.etc2.ctex"]
 
 [params]
 

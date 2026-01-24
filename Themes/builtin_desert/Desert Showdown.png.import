@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://cu86x8pevkknu"
 path.s3tc="res://.godot/imported/Desert Showdown.png-f9d909103b2559c95737b09c3a33c1e1.s3tc.ctex"
+path.etc2="res://.godot/imported/Desert Showdown.png-f9d909103b2559c95737b09c3a33c1e1.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/Themes/builtin_desert/Desert Showdown.png"
-dest_files=["res://.godot/imported/Desert Showdown.png-f9d909103b2559c95737b09c3a33c1e1.s3tc.ctex"]
+dest_files=["res://.godot/imported/Desert Showdown.png-f9d909103b2559c95737b09c3a33c1e1.s3tc.ctex", "res://.godot/imported/Desert Showdown.png-f9d909103b2559c95737b09c3a33c1e1.etc2.ctex"]
 
 [params]
 

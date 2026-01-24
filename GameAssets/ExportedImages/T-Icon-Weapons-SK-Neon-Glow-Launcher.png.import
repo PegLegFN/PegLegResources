@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://q6y73f2y71x5"
 path.s3tc="res://.godot/imported/T-Icon-Weapons-SK-Neon-Glow-Launcher.png-3383d93ff8069d90b7aec2b5207356e2.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Icon-Weapons-SK-Neon-Glow-Launcher.png-3383d93ff8069d90b7aec2b5207356e2.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Icon-Weapons-SK-Neon-Glow-Launcher.png"
-dest_files=["res://.godot/imported/T-Icon-Weapons-SK-Neon-Glow-Launcher.png-3383d93ff8069d90b7aec2b5207356e2.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Icon-Weapons-SK-Neon-Glow-Launcher.png-3383d93ff8069d90b7aec2b5207356e2.s3tc.ctex", "res://.godot/imported/T-Icon-Weapons-SK-Neon-Glow-Launcher.png-3383d93ff8069d90b7aec2b5207356e2.etc2.ctex"]
 
 [params]
 

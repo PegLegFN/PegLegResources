@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://d3efqalttgdxq"
 path.s3tc="res://.godot/imported/T-SR-StephenSerif-128.png-78cb41576694fe36f1350789a19af36e.s3tc.ctex"
+path.etc2="res://.godot/imported/T-SR-StephenSerif-128.png-78cb41576694fe36f1350789a19af36e.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-SR-StephenSerif-128.png"
-dest_files=["res://.godot/imported/T-SR-StephenSerif-128.png-78cb41576694fe36f1350789a19af36e.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-SR-StephenSerif-128.png-78cb41576694fe36f1350789a19af36e.s3tc.ctex", "res://.godot/imported/T-SR-StephenSerif-128.png-78cb41576694fe36f1350789a19af36e.etc2.ctex"]
 
 [params]
 

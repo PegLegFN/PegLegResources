@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://dxnggvwgmp3wh"
 path.s3tc="res://.godot/imported/T-Ninja-HID-Ninja-SlashBreath-VR-T01.png-5333ffebeca0003ef51fbc10868c9363.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Ninja-HID-Ninja-SlashBreath-VR-T01.png-5333ffebeca0003ef51fbc10868c9363.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Ninja-HID-Ninja-SlashBreath-VR-T01.png"
-dest_files=["res://.godot/imported/T-Ninja-HID-Ninja-SlashBreath-VR-T01.png-5333ffebeca0003ef51fbc10868c9363.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Ninja-HID-Ninja-SlashBreath-VR-T01.png-5333ffebeca0003ef51fbc10868c9363.s3tc.ctex", "res://.godot/imported/T-Ninja-HID-Ninja-SlashBreath-VR-T01.png-5333ffebeca0003ef51fbc10868c9363.etc2.ctex"]
 
 [params]
 

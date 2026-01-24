@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://c13cm2ywe383s"
 path.s3tc="res://.godot/imported/AthenaToken_BRS13_UmbrellaSelection_CanopyUpgrade_128.png-2c75043796d7b616c413c3bbc88e5a98.s3tc.ctex"
+path.etc2="res://.godot/imported/AthenaToken_BRS13_UmbrellaSelection_CanopyUpgrade_128.png-2c75043796d7b616c413c3bbc88e5a98.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/AthenaToken_BRS13_UmbrellaSelection_CanopyUpgrade_128.png"
-dest_files=["res://.godot/imported/AthenaToken_BRS13_UmbrellaSelection_CanopyUpgrade_128.png-2c75043796d7b616c413c3bbc88e5a98.s3tc.ctex"]
+dest_files=["res://.godot/imported/AthenaToken_BRS13_UmbrellaSelection_CanopyUpgrade_128.png-2c75043796d7b616c413c3bbc88e5a98.s3tc.ctex", "res://.godot/imported/AthenaToken_BRS13_UmbrellaSelection_CanopyUpgrade_128.png-2c75043796d7b616c413c3bbc88e5a98.etc2.ctex"]
 
 [params]
 

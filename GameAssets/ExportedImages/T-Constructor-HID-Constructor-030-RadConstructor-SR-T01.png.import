@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://bbaki5egehhqb"
 path.s3tc="res://.godot/imported/T-Constructor-HID-Constructor-030-RadConstructor-SR-T01.png-debf161cb5db847cddf5e21cd403d1f7.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Constructor-HID-Constructor-030-RadConstructor-SR-T01.png-debf161cb5db847cddf5e21cd403d1f7.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Constructor-HID-Constructor-030-RadConstructor-SR-T01.png"
-dest_files=["res://.godot/imported/T-Constructor-HID-Constructor-030-RadConstructor-SR-T01.png-debf161cb5db847cddf5e21cd403d1f7.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Constructor-HID-Constructor-030-RadConstructor-SR-T01.png-debf161cb5db847cddf5e21cd403d1f7.s3tc.ctex", "res://.godot/imported/T-Constructor-HID-Constructor-030-RadConstructor-SR-T01.png-debf161cb5db847cddf5e21cd403d1f7.etc2.ctex"]
 
 [params]
 

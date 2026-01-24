@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://bgj6xaavs8ocj"
 path.s3tc="res://.godot/imported/T-Constructor-HID-Constructor-007-Founders-SR-T02.png-9ffe34ce88ff70abf8bbfa9444610acd.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Constructor-HID-Constructor-007-Founders-SR-T02.png-9ffe34ce88ff70abf8bbfa9444610acd.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Constructor-HID-Constructor-007-Founders-SR-T02.png"
-dest_files=["res://.godot/imported/T-Constructor-HID-Constructor-007-Founders-SR-T02.png-9ffe34ce88ff70abf8bbfa9444610acd.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Constructor-HID-Constructor-007-Founders-SR-T02.png-9ffe34ce88ff70abf8bbfa9444610acd.s3tc.ctex", "res://.godot/imported/T-Constructor-HID-Constructor-007-Founders-SR-T02.png-9ffe34ce88ff70abf8bbfa9444610acd.etc2.ctex"]
 
 [params]
 

@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://bml7ifueomofb"
 path.s3tc="res://.godot/imported/T-Icon-Leaders-Portrait-MartialArtist-Male.png-b6e2ca47ef46a62ce3812ec46a3dd7b7.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Icon-Leaders-Portrait-MartialArtist-Male.png-b6e2ca47ef46a62ce3812ec46a3dd7b7.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Icon-Leaders-Portrait-MartialArtist-Male.png"
-dest_files=["res://.godot/imported/T-Icon-Leaders-Portrait-MartialArtist-Male.png-b6e2ca47ef46a62ce3812ec46a3dd7b7.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Icon-Leaders-Portrait-MartialArtist-Male.png-b6e2ca47ef46a62ce3812ec46a3dd7b7.s3tc.ctex", "res://.godot/imported/T-Icon-Leaders-Portrait-MartialArtist-Male.png-b6e2ca47ef46a62ce3812ec46a3dd7b7.etc2.ctex"]
 
 [params]
 

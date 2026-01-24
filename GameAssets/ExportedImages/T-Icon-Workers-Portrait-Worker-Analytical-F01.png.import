@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://c2pxwg8g81qo7"
 path.s3tc="res://.godot/imported/T-Icon-Workers-Portrait-Worker-Analytical-F01.png-642fcf671d8ae738c627b20d59a1936d.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Icon-Workers-Portrait-Worker-Analytical-F01.png-642fcf671d8ae738c627b20d59a1936d.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Icon-Workers-Portrait-Worker-Analytical-F01.png"
-dest_files=["res://.godot/imported/T-Icon-Workers-Portrait-Worker-Analytical-F01.png-642fcf671d8ae738c627b20d59a1936d.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Icon-Workers-Portrait-Worker-Analytical-F01.png-642fcf671d8ae738c627b20d59a1936d.s3tc.ctex", "res://.godot/imported/T-Icon-Workers-Portrait-Worker-Analytical-F01.png-642fcf671d8ae738c627b20d59a1936d.etc2.ctex"]
 
 [params]
 

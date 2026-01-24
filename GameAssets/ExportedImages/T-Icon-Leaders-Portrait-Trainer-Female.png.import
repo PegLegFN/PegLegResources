@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://0q2btcoljmel"
 path.s3tc="res://.godot/imported/T-Icon-Leaders-Portrait-Trainer-Female.png-5aeb59a061a907d6c1bcf278621dc66f.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Icon-Leaders-Portrait-Trainer-Female.png-5aeb59a061a907d6c1bcf278621dc66f.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Icon-Leaders-Portrait-Trainer-Female.png"
-dest_files=["res://.godot/imported/T-Icon-Leaders-Portrait-Trainer-Female.png-5aeb59a061a907d6c1bcf278621dc66f.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Icon-Leaders-Portrait-Trainer-Female.png-5aeb59a061a907d6c1bcf278621dc66f.s3tc.ctex", "res://.godot/imported/T-Icon-Leaders-Portrait-Trainer-Female.png-5aeb59a061a907d6c1bcf278621dc66f.etc2.ctex"]
 
 [params]
 

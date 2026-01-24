@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://bkang4rpvo0x5"
 path.s3tc="res://.godot/imported/T-Icon-Modifier-Neg-DeathBomb-64.png-d81d01d6e6340f90350f6d4df7e9e73b.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Icon-Modifier-Neg-DeathBomb-64.png-d81d01d6e6340f90350f6d4df7e9e73b.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Icon-Modifier-Neg-DeathBomb-64.png"
-dest_files=["res://.godot/imported/T-Icon-Modifier-Neg-DeathBomb-64.png-d81d01d6e6340f90350f6d4df7e9e73b.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Icon-Modifier-Neg-DeathBomb-64.png-d81d01d6e6340f90350f6d4df7e9e73b.s3tc.ctex", "res://.godot/imported/T-Icon-Modifier-Neg-DeathBomb-64.png-d81d01d6e6340f90350f6d4df7e9e73b.etc2.ctex"]
 
 [params]
 

@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://bnkyh3wgqkyne"
 path.s3tc="res://.godot/imported/T-Icon-Modifier-Close-Quarters-64.png-727e8c3da3eb367d5cabe91432b75261.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Icon-Modifier-Close-Quarters-64.png-727e8c3da3eb367d5cabe91432b75261.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Icon-Modifier-Close-Quarters-64.png"
-dest_files=["res://.godot/imported/T-Icon-Modifier-Close-Quarters-64.png-727e8c3da3eb367d5cabe91432b75261.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Icon-Modifier-Close-Quarters-64.png-727e8c3da3eb367d5cabe91432b75261.s3tc.ctex", "res://.godot/imported/T-Icon-Modifier-Close-Quarters-64.png-727e8c3da3eb367d5cabe91432b75261.etc2.ctex"]
 
 [params]
 

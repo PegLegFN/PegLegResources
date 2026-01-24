@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://ennf460y5x66"
 path.s3tc="res://.godot/imported/T-Soldier-HID-409-Athena-Commando-M-BunkerMan.png-36d54557a797fdab4116c0ee6375541c.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Soldier-HID-409-Athena-Commando-M-BunkerMan.png-36d54557a797fdab4116c0ee6375541c.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Soldier-HID-409-Athena-Commando-M-BunkerMan.png"
-dest_files=["res://.godot/imported/T-Soldier-HID-409-Athena-Commando-M-BunkerMan.png-36d54557a797fdab4116c0ee6375541c.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Soldier-HID-409-Athena-Commando-M-BunkerMan.png-36d54557a797fdab4116c0ee6375541c.s3tc.ctex", "res://.godot/imported/T-Soldier-HID-409-Athena-Commando-M-BunkerMan.png-36d54557a797fdab4116c0ee6375541c.etc2.ctex"]
 
 [params]
 

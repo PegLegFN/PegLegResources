@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://dlntbofcxqadq"
 path.s3tc="res://.godot/imported/T-Icon-Weapons-SK-constructor-pump-shotgun.png-2d8707ee2a986056ccc6151d9f219b8b.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Icon-Weapons-SK-constructor-pump-shotgun.png-2d8707ee2a986056ccc6151d9f219b8b.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Icon-Weapons-SK-constructor-pump-shotgun.png"
-dest_files=["res://.godot/imported/T-Icon-Weapons-SK-constructor-pump-shotgun.png-2d8707ee2a986056ccc6151d9f219b8b.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Icon-Weapons-SK-constructor-pump-shotgun.png-2d8707ee2a986056ccc6151d9f219b8b.s3tc.ctex", "res://.godot/imported/T-Icon-Weapons-SK-constructor-pump-shotgun.png-2d8707ee2a986056ccc6151d9f219b8b.etc2.ctex"]
 
 [params]
 

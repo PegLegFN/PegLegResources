@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://8w4y8284pyr7"
 path.s3tc="res://.godot/imported/Volcano Refinery.png-43164bc722e193727d2575aefe1e14a4.s3tc.ctex"
+path.etc2="res://.godot/imported/Volcano Refinery.png-43164bc722e193727d2575aefe1e14a4.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/Themes/builtin_volcano/Volcano Refinery.png"
-dest_files=["res://.godot/imported/Volcano Refinery.png-43164bc722e193727d2575aefe1e14a4.s3tc.ctex"]
+dest_files=["res://.godot/imported/Volcano Refinery.png-43164bc722e193727d2575aefe1e14a4.s3tc.ctex", "res://.godot/imported/Volcano Refinery.png-43164bc722e193727d2575aefe1e14a4.etc2.ctex"]
 
 [params]
 

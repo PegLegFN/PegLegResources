@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://b76ej8j8da5y2"
 path.s3tc="res://.godot/imported/T-Icon-Weapons-SK-Sonic-Boombox-Sledgehammer.png-9961a5d276c7ae5c3b0de8b7ee8e527c.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Icon-Weapons-SK-Sonic-Boombox-Sledgehammer.png-9961a5d276c7ae5c3b0de8b7ee8e527c.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Icon-Weapons-SK-Sonic-Boombox-Sledgehammer.png"
-dest_files=["res://.godot/imported/T-Icon-Weapons-SK-Sonic-Boombox-Sledgehammer.png-9961a5d276c7ae5c3b0de8b7ee8e527c.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Icon-Weapons-SK-Sonic-Boombox-Sledgehammer.png-9961a5d276c7ae5c3b0de8b7ee8e527c.s3tc.ctex", "res://.godot/imported/T-Icon-Weapons-SK-Sonic-Boombox-Sledgehammer.png-9961a5d276c7ae5c3b0de8b7ee8e527c.etc2.ctex"]
 
 [params]
 

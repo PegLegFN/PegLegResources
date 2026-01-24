@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://dkumhmtotydy6"
 path.s3tc="res://.godot/imported/T-Icon-Workers-Portrait-Worker-Adventurous-M01.png-c6af60fc58f8eba485ed55de7ec9d0e5.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Icon-Workers-Portrait-Worker-Adventurous-M01.png-c6af60fc58f8eba485ed55de7ec9d0e5.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Icon-Workers-Portrait-Worker-Adventurous-M01.png"
-dest_files=["res://.godot/imported/T-Icon-Workers-Portrait-Worker-Adventurous-M01.png-c6af60fc58f8eba485ed55de7ec9d0e5.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Icon-Workers-Portrait-Worker-Adventurous-M01.png-c6af60fc58f8eba485ed55de7ec9d0e5.s3tc.ctex", "res://.godot/imported/T-Icon-Workers-Portrait-Worker-Adventurous-M01.png-c6af60fc58f8eba485ed55de7ec9d0e5.etc2.ctex"]
 
 [params]
 

@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://vc5l22euv15b"
 path.s3tc="res://.godot/imported/T-S6-Mystery-Character-S.png-80913273e2b9930433d43d0cc3646e9b.s3tc.ctex"
+path.etc2="res://.godot/imported/T-S6-Mystery-Character-S.png-80913273e2b9930433d43d0cc3646e9b.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-S6-Mystery-Character-S.png"
-dest_files=["res://.godot/imported/T-S6-Mystery-Character-S.png-80913273e2b9930433d43d0cc3646e9b.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-S6-Mystery-Character-S.png-80913273e2b9930433d43d0cc3646e9b.s3tc.ctex", "res://.godot/imported/T-S6-Mystery-Character-S.png-80913273e2b9930433d43d0cc3646e9b.etc2.ctex"]
 
 [params]
 

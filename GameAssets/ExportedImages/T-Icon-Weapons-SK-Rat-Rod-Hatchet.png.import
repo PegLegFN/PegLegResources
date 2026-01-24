@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://cqo5l6njdvwrt"
 path.s3tc="res://.godot/imported/T-Icon-Weapons-SK-Rat-Rod-Hatchet.png-4ee1bc9d3fc1e262e9a2c904fea13ace.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Icon-Weapons-SK-Rat-Rod-Hatchet.png-4ee1bc9d3fc1e262e9a2c904fea13ace.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Icon-Weapons-SK-Rat-Rod-Hatchet.png"
-dest_files=["res://.godot/imported/T-Icon-Weapons-SK-Rat-Rod-Hatchet.png-4ee1bc9d3fc1e262e9a2c904fea13ace.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Icon-Weapons-SK-Rat-Rod-Hatchet.png-4ee1bc9d3fc1e262e9a2c904fea13ace.s3tc.ctex", "res://.godot/imported/T-Icon-Weapons-SK-Rat-Rod-Hatchet.png-4ee1bc9d3fc1e262e9a2c904fea13ace.etc2.ctex"]
 
 [params]
 

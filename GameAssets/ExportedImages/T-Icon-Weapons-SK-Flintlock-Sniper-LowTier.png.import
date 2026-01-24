@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://b5blj1y7k2ab7"
 path.s3tc="res://.godot/imported/T-Icon-Weapons-SK-Flintlock-Sniper-LowTier.png-6d37fa0d621b6078904a3cb2fdc723a0.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Icon-Weapons-SK-Flintlock-Sniper-LowTier.png-6d37fa0d621b6078904a3cb2fdc723a0.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Icon-Weapons-SK-Flintlock-Sniper-LowTier.png"
-dest_files=["res://.godot/imported/T-Icon-Weapons-SK-Flintlock-Sniper-LowTier.png-6d37fa0d621b6078904a3cb2fdc723a0.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Icon-Weapons-SK-Flintlock-Sniper-LowTier.png-6d37fa0d621b6078904a3cb2fdc723a0.s3tc.ctex", "res://.godot/imported/T-Icon-Weapons-SK-Flintlock-Sniper-LowTier.png-6d37fa0d621b6078904a3cb2fdc723a0.etc2.ctex"]
 
 [params]
 

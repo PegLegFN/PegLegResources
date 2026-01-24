@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://br1m7wmp0nqun"
 path.s3tc="res://.godot/imported/T-Soldier-HID-104-Athena-Commando-F-Bunny.png-6cd016d8c676a28c1d6dee5975041811.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Soldier-HID-104-Athena-Commando-F-Bunny.png-6cd016d8c676a28c1d6dee5975041811.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Soldier-HID-104-Athena-Commando-F-Bunny.png"
-dest_files=["res://.godot/imported/T-Soldier-HID-104-Athena-Commando-F-Bunny.png-6cd016d8c676a28c1d6dee5975041811.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Soldier-HID-104-Athena-Commando-F-Bunny.png-6cd016d8c676a28c1d6dee5975041811.s3tc.ctex", "res://.godot/imported/T-Soldier-HID-104-Athena-Commando-F-Bunny.png-6cd016d8c676a28c1d6dee5975041811.etc2.ctex"]
 
 [params]
 

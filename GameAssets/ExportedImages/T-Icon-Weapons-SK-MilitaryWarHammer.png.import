@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://c54p5a8kmmhn6"
 path.s3tc="res://.godot/imported/T-Icon-Weapons-SK-MilitaryWarHammer.png-3a0df8b5261640d82bc88348a06d939b.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Icon-Weapons-SK-MilitaryWarHammer.png-3a0df8b5261640d82bc88348a06d939b.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Icon-Weapons-SK-MilitaryWarHammer.png"
-dest_files=["res://.godot/imported/T-Icon-Weapons-SK-MilitaryWarHammer.png-3a0df8b5261640d82bc88348a06d939b.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Icon-Weapons-SK-MilitaryWarHammer.png-3a0df8b5261640d82bc88348a06d939b.s3tc.ctex", "res://.godot/imported/T-Icon-Weapons-SK-MilitaryWarHammer.png-3a0df8b5261640d82bc88348a06d939b.etc2.ctex"]
 
 [params]
 

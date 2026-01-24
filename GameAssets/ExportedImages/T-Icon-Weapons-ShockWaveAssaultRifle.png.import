@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://dtavl30l5cpgc"
 path.s3tc="res://.godot/imported/T-Icon-Weapons-ShockWaveAssaultRifle.png-1bc5c0a81cac47ae4e1eadd799b74188.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Icon-Weapons-ShockWaveAssaultRifle.png-1bc5c0a81cac47ae4e1eadd799b74188.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Icon-Weapons-ShockWaveAssaultRifle.png"
-dest_files=["res://.godot/imported/T-Icon-Weapons-ShockWaveAssaultRifle.png-1bc5c0a81cac47ae4e1eadd799b74188.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Icon-Weapons-ShockWaveAssaultRifle.png-1bc5c0a81cac47ae4e1eadd799b74188.s3tc.ctex", "res://.godot/imported/T-Icon-Weapons-ShockWaveAssaultRifle.png-1bc5c0a81cac47ae4e1eadd799b74188.etc2.ctex"]
 
 [params]
 

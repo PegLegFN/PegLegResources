@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://tcy18h6ax5cs"
 path.s3tc="res://.godot/imported/T-Icon-Weapons-SK-Post-Apocalyptic-Assault.png-d4fd7d0b62e976b0c8b363cd3f6e2795.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Icon-Weapons-SK-Post-Apocalyptic-Assault.png-d4fd7d0b62e976b0c8b363cd3f6e2795.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Icon-Weapons-SK-Post-Apocalyptic-Assault.png"
-dest_files=["res://.godot/imported/T-Icon-Weapons-SK-Post-Apocalyptic-Assault.png-d4fd7d0b62e976b0c8b363cd3f6e2795.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Icon-Weapons-SK-Post-Apocalyptic-Assault.png-d4fd7d0b62e976b0c8b363cd3f6e2795.s3tc.ctex", "res://.godot/imported/T-Icon-Weapons-SK-Post-Apocalyptic-Assault.png-d4fd7d0b62e976b0c8b363cd3f6e2795.etc2.ctex"]
 
 [params]
 

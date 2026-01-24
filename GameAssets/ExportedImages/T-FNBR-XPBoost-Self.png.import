@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://bftku4wngfyuh"
 path.s3tc="res://.godot/imported/T-FNBR-XPBoost-Self.png-6943354dc52686d33dc7b8be9bd456bf.s3tc.ctex"
+path.etc2="res://.godot/imported/T-FNBR-XPBoost-Self.png-6943354dc52686d33dc7b8be9bd456bf.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-FNBR-XPBoost-Self.png"
-dest_files=["res://.godot/imported/T-FNBR-XPBoost-Self.png-6943354dc52686d33dc7b8be9bd456bf.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-FNBR-XPBoost-Self.png-6943354dc52686d33dc7b8be9bd456bf.s3tc.ctex", "res://.godot/imported/T-FNBR-XPBoost-Self.png-6943354dc52686d33dc7b8be9bd456bf.etc2.ctex"]
 
 [params]
 

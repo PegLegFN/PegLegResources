@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://b4nx3vx0esed"
 path.s3tc="res://.godot/imported/T-Icon-Weapons-SK-Hydraulic-Spear.png-1cbe9add47fc87c138a7c134fb0146b9.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Icon-Weapons-SK-Hydraulic-Spear.png-1cbe9add47fc87c138a7c134fb0146b9.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Icon-Weapons-SK-Hydraulic-Spear.png"
-dest_files=["res://.godot/imported/T-Icon-Weapons-SK-Hydraulic-Spear.png-1cbe9add47fc87c138a7c134fb0146b9.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Icon-Weapons-SK-Hydraulic-Spear.png-1cbe9add47fc87c138a7c134fb0146b9.s3tc.ctex", "res://.godot/imported/T-Icon-Weapons-SK-Hydraulic-Spear.png-1cbe9add47fc87c138a7c134fb0146b9.etc2.ctex"]
 
 [params]
 

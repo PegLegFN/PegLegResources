@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://24k42speirog"
 path.s3tc="res://.godot/imported/T-Icon-Workers-Portrait-Worker-Competitive-F03.png-9f8142faefc96d1295ac213377e8a266.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Icon-Workers-Portrait-Worker-Competitive-F03.png-9f8142faefc96d1295ac213377e8a266.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Icon-Workers-Portrait-Worker-Competitive-F03.png"
-dest_files=["res://.godot/imported/T-Icon-Workers-Portrait-Worker-Competitive-F03.png-9f8142faefc96d1295ac213377e8a266.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Icon-Workers-Portrait-Worker-Competitive-F03.png-9f8142faefc96d1295ac213377e8a266.s3tc.ctex", "res://.godot/imported/T-Icon-Workers-Portrait-Worker-Competitive-F03.png-9f8142faefc96d1295ac213377e8a266.etc2.ctex"]
 
 [params]
 

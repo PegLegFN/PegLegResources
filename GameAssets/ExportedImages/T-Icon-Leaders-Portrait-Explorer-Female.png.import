@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://cbvq0a3g1skha"
 path.s3tc="res://.godot/imported/T-Icon-Leaders-Portrait-Explorer-Female.png-ff62d5a656329345bab6773d4fd12986.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Icon-Leaders-Portrait-Explorer-Female.png-ff62d5a656329345bab6773d4fd12986.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Icon-Leaders-Portrait-Explorer-Female.png"
-dest_files=["res://.godot/imported/T-Icon-Leaders-Portrait-Explorer-Female.png-ff62d5a656329345bab6773d4fd12986.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Icon-Leaders-Portrait-Explorer-Female.png-ff62d5a656329345bab6773d4fd12986.s3tc.ctex", "res://.godot/imported/T-Icon-Leaders-Portrait-Explorer-Female.png-ff62d5a656329345bab6773d4fd12986.etc2.ctex"]
 
 [params]
 

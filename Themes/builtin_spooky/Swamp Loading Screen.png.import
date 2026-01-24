@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://n4qhgqbbwy0j"
 path.s3tc="res://.godot/imported/Swamp Loading Screen.png-ddcdf0ef843c9a5dec84a623b0038746.s3tc.ctex"
+path.etc2="res://.godot/imported/Swamp Loading Screen.png-ddcdf0ef843c9a5dec84a623b0038746.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/Themes/builtin_spooky/Swamp Loading Screen.png"
-dest_files=["res://.godot/imported/Swamp Loading Screen.png-ddcdf0ef843c9a5dec84a623b0038746.s3tc.ctex"]
+dest_files=["res://.godot/imported/Swamp Loading Screen.png-ddcdf0ef843c9a5dec84a623b0038746.s3tc.ctex", "res://.godot/imported/Swamp Loading Screen.png-ddcdf0ef843c9a5dec84a623b0038746.etc2.ctex"]
 
 [params]
 

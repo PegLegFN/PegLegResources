@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://c61co8di1x51u"
 path.s3tc="res://.godot/imported/T-Icon-Modifier-Super-Heroic-64.png-38ce30c4ad29cfd996b2f803f87f4c47.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Icon-Modifier-Super-Heroic-64.png-38ce30c4ad29cfd996b2f803f87f4c47.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Icon-Modifier-Super-Heroic-64.png"
-dest_files=["res://.godot/imported/T-Icon-Modifier-Super-Heroic-64.png-38ce30c4ad29cfd996b2f803f87f4c47.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Icon-Modifier-Super-Heroic-64.png-38ce30c4ad29cfd996b2f803f87f4c47.s3tc.ctex", "res://.godot/imported/T-Icon-Modifier-Super-Heroic-64.png-38ce30c4ad29cfd996b2f803f87f4c47.etc2.ctex"]
 
 [params]
 

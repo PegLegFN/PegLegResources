@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://dl045uj4iv257"
 path.s3tc="res://.godot/imported/T-Icon-Weapons-SK-SkiBoot-SkiBoot.png-09413a4aa067bbd2c982006f69615be2.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Icon-Weapons-SK-SkiBoot-SkiBoot.png-09413a4aa067bbd2c982006f69615be2.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Icon-Weapons-SK-SkiBoot-SkiBoot.png"
-dest_files=["res://.godot/imported/T-Icon-Weapons-SK-SkiBoot-SkiBoot.png-09413a4aa067bbd2c982006f69615be2.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Icon-Weapons-SK-SkiBoot-SkiBoot.png-09413a4aa067bbd2c982006f69615be2.s3tc.ctex", "res://.godot/imported/T-Icon-Weapons-SK-SkiBoot-SkiBoot.png-09413a4aa067bbd2c982006f69615be2.etc2.ctex"]
 
 [params]
 

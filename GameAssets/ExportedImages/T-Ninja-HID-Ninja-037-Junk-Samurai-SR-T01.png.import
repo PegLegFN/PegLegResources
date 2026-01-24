@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://2w6ob3c51lbp"
 path.s3tc="res://.godot/imported/T-Ninja-HID-Ninja-037-Junk-Samurai-SR-T01.png-11ca7206eb325184fa2aa6f0ecab162a.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Ninja-HID-Ninja-037-Junk-Samurai-SR-T01.png-11ca7206eb325184fa2aa6f0ecab162a.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Ninja-HID-Ninja-037-Junk-Samurai-SR-T01.png"
-dest_files=["res://.godot/imported/T-Ninja-HID-Ninja-037-Junk-Samurai-SR-T01.png-11ca7206eb325184fa2aa6f0ecab162a.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Ninja-HID-Ninja-037-Junk-Samurai-SR-T01.png-11ca7206eb325184fa2aa6f0ecab162a.s3tc.ctex", "res://.godot/imported/T-Ninja-HID-Ninja-037-Junk-Samurai-SR-T01.png-11ca7206eb325184fa2aa6f0ecab162a.etc2.ctex"]
 
 [params]
 

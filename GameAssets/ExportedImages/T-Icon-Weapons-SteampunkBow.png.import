@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://c0m1oil5cx08t"
 path.s3tc="res://.godot/imported/T-Icon-Weapons-SteampunkBow.png-f350e41d2122edae0d0f29975bbda9ae.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Icon-Weapons-SteampunkBow.png-f350e41d2122edae0d0f29975bbda9ae.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Icon-Weapons-SteampunkBow.png"
-dest_files=["res://.godot/imported/T-Icon-Weapons-SteampunkBow.png-f350e41d2122edae0d0f29975bbda9ae.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Icon-Weapons-SteampunkBow.png-f350e41d2122edae0d0f29975bbda9ae.s3tc.ctex", "res://.godot/imported/T-Icon-Weapons-SteampunkBow.png-f350e41d2122edae0d0f29975bbda9ae.etc2.ctex"]
 
 [params]
 

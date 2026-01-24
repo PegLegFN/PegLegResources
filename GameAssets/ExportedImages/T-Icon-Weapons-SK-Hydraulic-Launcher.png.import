@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://cocyv4sp5m4hi"
 path.s3tc="res://.godot/imported/T-Icon-Weapons-SK-Hydraulic-Launcher.png-292c1b88bebad875ba60df63ca722e1e.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Icon-Weapons-SK-Hydraulic-Launcher.png-292c1b88bebad875ba60df63ca722e1e.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Icon-Weapons-SK-Hydraulic-Launcher.png"
-dest_files=["res://.godot/imported/T-Icon-Weapons-SK-Hydraulic-Launcher.png-292c1b88bebad875ba60df63ca722e1e.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Icon-Weapons-SK-Hydraulic-Launcher.png-292c1b88bebad875ba60df63ca722e1e.s3tc.ctex", "res://.godot/imported/T-Icon-Weapons-SK-Hydraulic-Launcher.png-292c1b88bebad875ba60df63ca722e1e.etc2.ctex"]
 
 [params]
 

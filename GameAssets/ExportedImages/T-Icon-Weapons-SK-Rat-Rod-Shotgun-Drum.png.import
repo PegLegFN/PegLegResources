@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://pj3h8bebcsn7"
 path.s3tc="res://.godot/imported/T-Icon-Weapons-SK-Rat-Rod-Shotgun-Drum.png-5dc841daa536bec0835f04e2ee7b4df2.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Icon-Weapons-SK-Rat-Rod-Shotgun-Drum.png-5dc841daa536bec0835f04e2ee7b4df2.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Icon-Weapons-SK-Rat-Rod-Shotgun-Drum.png"
-dest_files=["res://.godot/imported/T-Icon-Weapons-SK-Rat-Rod-Shotgun-Drum.png-5dc841daa536bec0835f04e2ee7b4df2.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Icon-Weapons-SK-Rat-Rod-Shotgun-Drum.png-5dc841daa536bec0835f04e2ee7b4df2.s3tc.ctex", "res://.godot/imported/T-Icon-Weapons-SK-Rat-Rod-Shotgun-Drum.png-5dc841daa536bec0835f04e2ee7b4df2.etc2.ctex"]
 
 [params]
 

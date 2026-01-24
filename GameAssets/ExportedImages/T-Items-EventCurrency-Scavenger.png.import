@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://wdqo4edr6mru"
 path.s3tc="res://.godot/imported/T-Items-EventCurrency-Scavenger.png-1ebaf64b5fd413a5fc6419ae14615eaa.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Items-EventCurrency-Scavenger.png-1ebaf64b5fd413a5fc6419ae14615eaa.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Items-EventCurrency-Scavenger.png"
-dest_files=["res://.godot/imported/T-Items-EventCurrency-Scavenger.png-1ebaf64b5fd413a5fc6419ae14615eaa.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Items-EventCurrency-Scavenger.png-1ebaf64b5fd413a5fc6419ae14615eaa.s3tc.ctex", "res://.godot/imported/T-Items-EventCurrency-Scavenger.png-1ebaf64b5fd413a5fc6419ae14615eaa.etc2.ctex"]
 
 [params]
 

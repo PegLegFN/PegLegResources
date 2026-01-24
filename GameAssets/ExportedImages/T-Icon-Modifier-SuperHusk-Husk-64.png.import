@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://sqjrf0ohj6p"
 path.s3tc="res://.godot/imported/T-Icon-Modifier-SuperHusk-Husk-64.png-927147e88437d199b462490d40ef3556.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Icon-Modifier-SuperHusk-Husk-64.png-927147e88437d199b462490d40ef3556.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Icon-Modifier-SuperHusk-Husk-64.png"
-dest_files=["res://.godot/imported/T-Icon-Modifier-SuperHusk-Husk-64.png-927147e88437d199b462490d40ef3556.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Icon-Modifier-SuperHusk-Husk-64.png-927147e88437d199b462490d40ef3556.s3tc.ctex", "res://.godot/imported/T-Icon-Modifier-SuperHusk-Husk-64.png-927147e88437d199b462490d40ef3556.etc2.ctex"]
 
 [params]
 

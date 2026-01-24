@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://cq31emh05x78a"
 path.s3tc="res://.godot/imported/PinataAnniversaryPack_128.png-948a8dd39b6de5536da85ac4c4b7266d.s3tc.ctex"
+path.etc2="res://.godot/imported/PinataAnniversaryPack_128.png-948a8dd39b6de5536da85ac4c4b7266d.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/PinataAnniversaryPack_128.png"
-dest_files=["res://.godot/imported/PinataAnniversaryPack_128.png-948a8dd39b6de5536da85ac4c4b7266d.s3tc.ctex"]
+dest_files=["res://.godot/imported/PinataAnniversaryPack_128.png-948a8dd39b6de5536da85ac4c4b7266d.s3tc.ctex", "res://.godot/imported/PinataAnniversaryPack_128.png-948a8dd39b6de5536da85ac4c4b7266d.etc2.ctex"]
 
 [params]
 

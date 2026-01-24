@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://dhur0pwl472qy"
 path.s3tc="res://.godot/imported/T-Icon-Weapons-SK-Sonic-Boombox-Break-Action.png-2fad8f4f9e492a9db59cfe6fee920460.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Icon-Weapons-SK-Sonic-Boombox-Break-Action.png-2fad8f4f9e492a9db59cfe6fee920460.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Icon-Weapons-SK-Sonic-Boombox-Break-Action.png"
-dest_files=["res://.godot/imported/T-Icon-Weapons-SK-Sonic-Boombox-Break-Action.png-2fad8f4f9e492a9db59cfe6fee920460.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Icon-Weapons-SK-Sonic-Boombox-Break-Action.png-2fad8f4f9e492a9db59cfe6fee920460.s3tc.ctex", "res://.godot/imported/T-Icon-Weapons-SK-Sonic-Boombox-Break-Action.png-2fad8f4f9e492a9db59cfe6fee920460.etc2.ctex"]
 
 [params]
 

@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://bf5brid6grssh"
 path.s3tc="res://.godot/imported/T-Soldier-HID-Commando-XBOX-R-T01.png-9f4bed1081f99e8b36f0575bc43794ef.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Soldier-HID-Commando-XBOX-R-T01.png-9f4bed1081f99e8b36f0575bc43794ef.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Soldier-HID-Commando-XBOX-R-T01.png"
-dest_files=["res://.godot/imported/T-Soldier-HID-Commando-XBOX-R-T01.png-9f4bed1081f99e8b36f0575bc43794ef.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Soldier-HID-Commando-XBOX-R-T01.png-9f4bed1081f99e8b36f0575bc43794ef.s3tc.ctex", "res://.godot/imported/T-Soldier-HID-Commando-XBOX-R-T01.png-9f4bed1081f99e8b36f0575bc43794ef.etc2.ctex"]
 
 [params]
 

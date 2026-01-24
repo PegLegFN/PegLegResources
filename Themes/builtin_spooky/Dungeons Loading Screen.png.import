@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://bv1nyf8brmvvr"
 path.s3tc="res://.godot/imported/Dungeons Loading Screen.png-7b1c8ab302cd6c4d15c31ccf40956b47.s3tc.ctex"
+path.etc2="res://.godot/imported/Dungeons Loading Screen.png-7b1c8ab302cd6c4d15c31ccf40956b47.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/Themes/builtin_spooky/Dungeons Loading Screen.png"
-dest_files=["res://.godot/imported/Dungeons Loading Screen.png-7b1c8ab302cd6c4d15c31ccf40956b47.s3tc.ctex"]
+dest_files=["res://.godot/imported/Dungeons Loading Screen.png-7b1c8ab302cd6c4d15c31ccf40956b47.s3tc.ctex", "res://.godot/imported/Dungeons Loading Screen.png-7b1c8ab302cd6c4d15c31ccf40956b47.etc2.ctex"]
 
 [params]
 

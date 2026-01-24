@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://bjfdamhs15aa"
 path.s3tc="res://.godot/imported/T-Ninja-HID-Ninja-SmokeDimMak-VR-T01.png-7910a0f2158d857fb99f2e5f09dbf538.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Ninja-HID-Ninja-SmokeDimMak-VR-T01.png-7910a0f2158d857fb99f2e5f09dbf538.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Ninja-HID-Ninja-SmokeDimMak-VR-T01.png"
-dest_files=["res://.godot/imported/T-Ninja-HID-Ninja-SmokeDimMak-VR-T01.png-7910a0f2158d857fb99f2e5f09dbf538.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Ninja-HID-Ninja-SmokeDimMak-VR-T01.png-7910a0f2158d857fb99f2e5f09dbf538.s3tc.ctex", "res://.godot/imported/T-Ninja-HID-Ninja-SmokeDimMak-VR-T01.png-7910a0f2158d857fb99f2e5f09dbf538.etc2.ctex"]
 
 [params]
 

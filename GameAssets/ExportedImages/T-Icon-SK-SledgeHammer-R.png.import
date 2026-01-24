@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://cogsj0cu8vpgf"
 path.s3tc="res://.godot/imported/T-Icon-SK-SledgeHammer-R.png-96a77f971352afd84792db6967e39f67.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Icon-SK-SledgeHammer-R.png-96a77f971352afd84792db6967e39f67.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Icon-SK-SledgeHammer-R.png"
-dest_files=["res://.godot/imported/T-Icon-SK-SledgeHammer-R.png-96a77f971352afd84792db6967e39f67.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Icon-SK-SledgeHammer-R.png-96a77f971352afd84792db6967e39f67.s3tc.ctex", "res://.godot/imported/T-Icon-SK-SledgeHammer-R.png-96a77f971352afd84792db6967e39f67.etc2.ctex"]
 
 [params]
 

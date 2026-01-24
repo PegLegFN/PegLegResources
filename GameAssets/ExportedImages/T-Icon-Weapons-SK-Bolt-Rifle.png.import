@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://durkd7kplsuu"
 path.s3tc="res://.godot/imported/T-Icon-Weapons-SK-Bolt-Rifle.png-96193e708db8c38c0b0da5f2513ef2b7.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Icon-Weapons-SK-Bolt-Rifle.png-96193e708db8c38c0b0da5f2513ef2b7.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Icon-Weapons-SK-Bolt-Rifle.png"
-dest_files=["res://.godot/imported/T-Icon-Weapons-SK-Bolt-Rifle.png-96193e708db8c38c0b0da5f2513ef2b7.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Icon-Weapons-SK-Bolt-Rifle.png-96193e708db8c38c0b0da5f2513ef2b7.s3tc.ctex", "res://.godot/imported/T-Icon-Weapons-SK-Bolt-Rifle.png-96193e708db8c38c0b0da5f2513ef2b7.etc2.ctex"]
 
 [params]
 

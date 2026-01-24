@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://tiofav51ik6i"
 path.s3tc="res://.godot/imported/T-Icon-Items-MechanicalParts-03.png-b898f7326a187cf80b8e2d09b1b8fcda.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Icon-Items-MechanicalParts-03.png-b898f7326a187cf80b8e2d09b1b8fcda.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Icon-Items-MechanicalParts-03.png"
-dest_files=["res://.godot/imported/T-Icon-Items-MechanicalParts-03.png-b898f7326a187cf80b8e2d09b1b8fcda.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Icon-Items-MechanicalParts-03.png-b898f7326a187cf80b8e2d09b1b8fcda.s3tc.ctex", "res://.godot/imported/T-Icon-Items-MechanicalParts-03.png-b898f7326a187cf80b8e2d09b1b8fcda.etc2.ctex"]
 
 [params]
 

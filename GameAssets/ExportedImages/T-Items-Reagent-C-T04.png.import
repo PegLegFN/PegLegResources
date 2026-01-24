@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://g5lrg5b56s0o"
 path.s3tc="res://.godot/imported/T-Items-Reagent-C-T04.png-d11e7f727951002538cf55c9da982724.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Items-Reagent-C-T04.png-d11e7f727951002538cf55c9da982724.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Items-Reagent-C-T04.png"
-dest_files=["res://.godot/imported/T-Items-Reagent-C-T04.png-d11e7f727951002538cf55c9da982724.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Items-Reagent-C-T04.png-d11e7f727951002538cf55c9da982724.s3tc.ctex", "res://.godot/imported/T-Items-Reagent-C-T04.png-d11e7f727951002538cf55c9da982724.etc2.ctex"]
 
 [params]
 

@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://cb367hmatpf5f"
 path.s3tc="res://.godot/imported/T-Icon-Weapons-SK-VT-Spear.png-a44dd3fc05067b8b9b55066f92c558bd.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Icon-Weapons-SK-VT-Spear.png-a44dd3fc05067b8b9b55066f92c558bd.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Icon-Weapons-SK-VT-Spear.png"
-dest_files=["res://.godot/imported/T-Icon-Weapons-SK-VT-Spear.png-a44dd3fc05067b8b9b55066f92c558bd.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Icon-Weapons-SK-VT-Spear.png-a44dd3fc05067b8b9b55066f92c558bd.s3tc.ctex", "res://.godot/imported/T-Icon-Weapons-SK-VT-Spear.png-a44dd3fc05067b8b9b55066f92c558bd.etc2.ctex"]
 
 [params]
 

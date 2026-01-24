@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://dhyyr6d0rbete"
 path.s3tc="res://.godot/imported/T-Items-WeaponPerkUp-Uncommon.png-79fbb88bef2e1d70858a7ebbc38d26fc.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Items-WeaponPerkUp-Uncommon.png-79fbb88bef2e1d70858a7ebbc38d26fc.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Items-WeaponPerkUp-Uncommon.png"
-dest_files=["res://.godot/imported/T-Items-WeaponPerkUp-Uncommon.png-79fbb88bef2e1d70858a7ebbc38d26fc.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Items-WeaponPerkUp-Uncommon.png-79fbb88bef2e1d70858a7ebbc38d26fc.s3tc.ctex", "res://.godot/imported/T-Items-WeaponPerkUp-Uncommon.png-79fbb88bef2e1d70858a7ebbc38d26fc.etc2.ctex"]
 
 [params]
 

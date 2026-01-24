@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://bh4ws5w1l1pld"
 path.s3tc="res://.godot/imported/T-Items-EventCurrency-Spring2019.png-8561dcbf64ce5910c84707376bab5773.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Items-EventCurrency-Spring2019.png-8561dcbf64ce5910c84707376bab5773.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Items-EventCurrency-Spring2019.png"
-dest_files=["res://.godot/imported/T-Items-EventCurrency-Spring2019.png-8561dcbf64ce5910c84707376bab5773.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Items-EventCurrency-Spring2019.png-8561dcbf64ce5910c84707376bab5773.s3tc.ctex", "res://.godot/imported/T-Items-EventCurrency-Spring2019.png-8561dcbf64ce5910c84707376bab5773.etc2.ctex"]
 
 [params]
 

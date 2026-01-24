@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://fuauuobmn3tx"
 path.s3tc="res://.godot/imported/T-Icon-Weapons-SK-Military-M202-Launcher.png-23260ff68173ff8c504925fde8833abc.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Icon-Weapons-SK-Military-M202-Launcher.png-23260ff68173ff8c504925fde8833abc.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Icon-Weapons-SK-Military-M202-Launcher.png"
-dest_files=["res://.godot/imported/T-Icon-Weapons-SK-Military-M202-Launcher.png-23260ff68173ff8c504925fde8833abc.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Icon-Weapons-SK-Military-M202-Launcher.png-23260ff68173ff8c504925fde8833abc.s3tc.ctex", "res://.godot/imported/T-Icon-Weapons-SK-Military-M202-Launcher.png-23260ff68173ff8c504925fde8833abc.etc2.ctex"]
 
 [params]
 

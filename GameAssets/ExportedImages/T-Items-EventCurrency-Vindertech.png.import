@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://b0o4r041qgrvc"
 path.s3tc="res://.godot/imported/T-Items-EventCurrency-Vindertech.png-e168c66abc605611308d4d03f9fa6a4f.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Items-EventCurrency-Vindertech.png-e168c66abc605611308d4d03f9fa6a4f.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Items-EventCurrency-Vindertech.png"
-dest_files=["res://.godot/imported/T-Items-EventCurrency-Vindertech.png-e168c66abc605611308d4d03f9fa6a4f.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Items-EventCurrency-Vindertech.png-e168c66abc605611308d4d03f9fa6a4f.s3tc.ctex", "res://.godot/imported/T-Items-EventCurrency-Vindertech.png-e168c66abc605611308d4d03f9fa6a4f.etc2.ctex"]
 
 [params]
 

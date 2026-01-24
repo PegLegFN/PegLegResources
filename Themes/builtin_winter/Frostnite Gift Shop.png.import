@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://f56t7yd14wqq"
 path.s3tc="res://.godot/imported/Frostnite Gift Shop.png-587dced3acc2779b50f96eb0b6bd3040.s3tc.ctex"
+path.etc2="res://.godot/imported/Frostnite Gift Shop.png-587dced3acc2779b50f96eb0b6bd3040.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/Themes/builtin_winter/Frostnite Gift Shop.png"
-dest_files=["res://.godot/imported/Frostnite Gift Shop.png-587dced3acc2779b50f96eb0b6bd3040.s3tc.ctex"]
+dest_files=["res://.godot/imported/Frostnite Gift Shop.png-587dced3acc2779b50f96eb0b6bd3040.s3tc.ctex", "res://.godot/imported/Frostnite Gift Shop.png-587dced3acc2779b50f96eb0b6bd3040.etc2.ctex"]
 
 [params]
 

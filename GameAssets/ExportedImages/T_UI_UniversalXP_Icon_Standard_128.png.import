@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://bfl87xqnrcw80"
 path.s3tc="res://.godot/imported/T_UI_UniversalXP_Icon_Standard_128.png-7d4431fa84a5dd97aa197cb7111a1d4a.s3tc.ctex"
+path.etc2="res://.godot/imported/T_UI_UniversalXP_Icon_Standard_128.png-7d4431fa84a5dd97aa197cb7111a1d4a.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T_UI_UniversalXP_Icon_Standard_128.png"
-dest_files=["res://.godot/imported/T_UI_UniversalXP_Icon_Standard_128.png-7d4431fa84a5dd97aa197cb7111a1d4a.s3tc.ctex"]
+dest_files=["res://.godot/imported/T_UI_UniversalXP_Icon_Standard_128.png-7d4431fa84a5dd97aa197cb7111a1d4a.s3tc.ctex", "res://.godot/imported/T_UI_UniversalXP_Icon_Standard_128.png-7d4431fa84a5dd97aa197cb7111a1d4a.etc2.ctex"]
 
 [params]
 

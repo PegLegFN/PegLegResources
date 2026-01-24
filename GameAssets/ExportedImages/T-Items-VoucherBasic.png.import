@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://bmndh4rth863b"
 path.s3tc="res://.godot/imported/T-Items-VoucherBasic.png-10189d2f93f19d037ae5e42790dafe15.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Items-VoucherBasic.png-10189d2f93f19d037ae5e42790dafe15.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Items-VoucherBasic.png"
-dest_files=["res://.godot/imported/T-Items-VoucherBasic.png-10189d2f93f19d037ae5e42790dafe15.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Items-VoucherBasic.png-10189d2f93f19d037ae5e42790dafe15.s3tc.ctex", "res://.godot/imported/T-Items-VoucherBasic.png-10189d2f93f19d037ae5e42790dafe15.etc2.ctex"]
 
 [params]
 

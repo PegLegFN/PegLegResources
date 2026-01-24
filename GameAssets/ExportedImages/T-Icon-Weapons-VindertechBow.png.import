@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://dutf6k543cpg2"
 path.s3tc="res://.godot/imported/T-Icon-Weapons-VindertechBow.png-3e0b7d9d3fc7963c0b95a50e5adc52dc.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Icon-Weapons-VindertechBow.png-3e0b7d9d3fc7963c0b95a50e5adc52dc.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Icon-Weapons-VindertechBow.png"
-dest_files=["res://.godot/imported/T-Icon-Weapons-VindertechBow.png-3e0b7d9d3fc7963c0b95a50e5adc52dc.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Icon-Weapons-VindertechBow.png-3e0b7d9d3fc7963c0b95a50e5adc52dc.s3tc.ctex", "res://.godot/imported/T-Icon-Weapons-VindertechBow.png-3e0b7d9d3fc7963c0b95a50e5adc52dc.etc2.ctex"]
 
 [params]
 

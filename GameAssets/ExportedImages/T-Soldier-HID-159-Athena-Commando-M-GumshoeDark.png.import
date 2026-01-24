@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://bomu6gxnjshfi"
 path.s3tc="res://.godot/imported/T-Soldier-HID-159-Athena-Commando-M-GumshoeDark.png-a6206fabe56d747d467f8f5b1a8dfffe.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Soldier-HID-159-Athena-Commando-M-GumshoeDark.png-a6206fabe56d747d467f8f5b1a8dfffe.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Soldier-HID-159-Athena-Commando-M-GumshoeDark.png"
-dest_files=["res://.godot/imported/T-Soldier-HID-159-Athena-Commando-M-GumshoeDark.png-a6206fabe56d747d467f8f5b1a8dfffe.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Soldier-HID-159-Athena-Commando-M-GumshoeDark.png-a6206fabe56d747d467f8f5b1a8dfffe.s3tc.ctex", "res://.godot/imported/T-Soldier-HID-159-Athena-Commando-M-GumshoeDark.png-a6206fabe56d747d467f8f5b1a8dfffe.etc2.ctex"]
 
 [params]
 

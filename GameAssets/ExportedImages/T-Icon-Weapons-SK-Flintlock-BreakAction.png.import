@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://ty0w0ofyn5uf"
 path.s3tc="res://.godot/imported/T-Icon-Weapons-SK-Flintlock-BreakAction.png-122b8840dd8dbb6b6bb6779ec965f442.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Icon-Weapons-SK-Flintlock-BreakAction.png-122b8840dd8dbb6b6bb6779ec965f442.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Icon-Weapons-SK-Flintlock-BreakAction.png"
-dest_files=["res://.godot/imported/T-Icon-Weapons-SK-Flintlock-BreakAction.png-122b8840dd8dbb6b6bb6779ec965f442.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Icon-Weapons-SK-Flintlock-BreakAction.png-122b8840dd8dbb6b6bb6779ec965f442.s3tc.ctex", "res://.godot/imported/T-Icon-Weapons-SK-Flintlock-BreakAction.png-122b8840dd8dbb6b6bb6779ec965f442.etc2.ctex"]
 
 [params]
 

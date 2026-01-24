@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://cmssyl1u47gr2"
 path.s3tc="res://.godot/imported/T-Icon-Weapons-VacuumTubeBow.png-cb982fce015114f5e2d0b7e01845d8e7.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Icon-Weapons-VacuumTubeBow.png-cb982fce015114f5e2d0b7e01845d8e7.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Icon-Weapons-VacuumTubeBow.png"
-dest_files=["res://.godot/imported/T-Icon-Weapons-VacuumTubeBow.png-cb982fce015114f5e2d0b7e01845d8e7.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Icon-Weapons-VacuumTubeBow.png-cb982fce015114f5e2d0b7e01845d8e7.s3tc.ctex", "res://.godot/imported/T-Icon-Weapons-VacuumTubeBow.png-cb982fce015114f5e2d0b7e01845d8e7.etc2.ctex"]
 
 [params]
 

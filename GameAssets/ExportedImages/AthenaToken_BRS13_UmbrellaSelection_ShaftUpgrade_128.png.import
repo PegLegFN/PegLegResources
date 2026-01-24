@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://5nqenfufqns8"
 path.s3tc="res://.godot/imported/AthenaToken_BRS13_UmbrellaSelection_ShaftUpgrade_128.png-45433dc0bae402fd4331198cc843f20a.s3tc.ctex"
+path.etc2="res://.godot/imported/AthenaToken_BRS13_UmbrellaSelection_ShaftUpgrade_128.png-45433dc0bae402fd4331198cc843f20a.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/AthenaToken_BRS13_UmbrellaSelection_ShaftUpgrade_128.png"
-dest_files=["res://.godot/imported/AthenaToken_BRS13_UmbrellaSelection_ShaftUpgrade_128.png-45433dc0bae402fd4331198cc843f20a.s3tc.ctex"]
+dest_files=["res://.godot/imported/AthenaToken_BRS13_UmbrellaSelection_ShaftUpgrade_128.png-45433dc0bae402fd4331198cc843f20a.s3tc.ctex", "res://.godot/imported/AthenaToken_BRS13_UmbrellaSelection_ShaftUpgrade_128.png-45433dc0bae402fd4331198cc843f20a.etc2.ctex"]
 
 [params]
 

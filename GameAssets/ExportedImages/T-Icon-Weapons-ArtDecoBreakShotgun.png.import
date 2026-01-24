@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://bihdmxghtyfo5"
 path.s3tc="res://.godot/imported/T-Icon-Weapons-ArtDecoBreakShotgun.png-d4160760e2a19966ee8c846916dc423e.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Icon-Weapons-ArtDecoBreakShotgun.png-d4160760e2a19966ee8c846916dc423e.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Icon-Weapons-ArtDecoBreakShotgun.png"
-dest_files=["res://.godot/imported/T-Icon-Weapons-ArtDecoBreakShotgun.png-d4160760e2a19966ee8c846916dc423e.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Icon-Weapons-ArtDecoBreakShotgun.png-d4160760e2a19966ee8c846916dc423e.s3tc.ctex", "res://.godot/imported/T-Icon-Weapons-ArtDecoBreakShotgun.png-d4160760e2a19966ee8c846916dc423e.etc2.ctex"]
 
 [params]
 

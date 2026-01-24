@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://djmaab408ofpv"
 path.s3tc="res://.godot/imported/T-Soldier-HID-107-Athena-Commando-F-PajamaParty.png-3ad224b5a4781fd1c286c03bb32bcd40.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Soldier-HID-107-Athena-Commando-F-PajamaParty.png-3ad224b5a4781fd1c286c03bb32bcd40.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Soldier-HID-107-Athena-Commando-F-PajamaParty.png"
-dest_files=["res://.godot/imported/T-Soldier-HID-107-Athena-Commando-F-PajamaParty.png-3ad224b5a4781fd1c286c03bb32bcd40.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Soldier-HID-107-Athena-Commando-F-PajamaParty.png-3ad224b5a4781fd1c286c03bb32bcd40.s3tc.ctex", "res://.godot/imported/T-Soldier-HID-107-Athena-Commando-F-PajamaParty.png-3ad224b5a4781fd1c286c03bb32bcd40.etc2.ctex"]
 
 [params]
 

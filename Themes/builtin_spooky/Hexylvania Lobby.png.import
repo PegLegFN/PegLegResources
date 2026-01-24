@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://b5q5453libfd8"
 path.s3tc="res://.godot/imported/Hexylvania Lobby.png-6a24409cf7ff9c3cad58cdc241dc08bd.s3tc.ctex"
+path.etc2="res://.godot/imported/Hexylvania Lobby.png-6a24409cf7ff9c3cad58cdc241dc08bd.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/Themes/builtin_spooky/Hexylvania Lobby.png"
-dest_files=["res://.godot/imported/Hexylvania Lobby.png-6a24409cf7ff9c3cad58cdc241dc08bd.s3tc.ctex"]
+dest_files=["res://.godot/imported/Hexylvania Lobby.png-6a24409cf7ff9c3cad58cdc241dc08bd.s3tc.ctex", "res://.godot/imported/Hexylvania Lobby.png-6a24409cf7ff9c3cad58cdc241dc08bd.etc2.ctex"]
 
 [params]
 

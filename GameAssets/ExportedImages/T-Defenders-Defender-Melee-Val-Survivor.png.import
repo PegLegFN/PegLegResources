@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://8c3lrvpustkp"
 path.s3tc="res://.godot/imported/T-Defenders-Defender-Melee-Val-Survivor.png-536e0c74e88042b111e46259f5fb565c.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Defenders-Defender-Melee-Val-Survivor.png-536e0c74e88042b111e46259f5fb565c.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Defenders-Defender-Melee-Val-Survivor.png"
-dest_files=["res://.godot/imported/T-Defenders-Defender-Melee-Val-Survivor.png-536e0c74e88042b111e46259f5fb565c.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Defenders-Defender-Melee-Val-Survivor.png-536e0c74e88042b111e46259f5fb565c.s3tc.ctex", "res://.godot/imported/T-Defenders-Defender-Melee-Val-Survivor.png-536e0c74e88042b111e46259f5fb565c.etc2.ctex"]
 
 [params]
 

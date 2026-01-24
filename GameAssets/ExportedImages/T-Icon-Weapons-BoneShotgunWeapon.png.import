@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://bkpmch36inkh8"
 path.s3tc="res://.godot/imported/T-Icon-Weapons-BoneShotgunWeapon.png-398ebd61a7e6cb39bb3a9e9e23e73cda.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Icon-Weapons-BoneShotgunWeapon.png-398ebd61a7e6cb39bb3a9e9e23e73cda.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Icon-Weapons-BoneShotgunWeapon.png"
-dest_files=["res://.godot/imported/T-Icon-Weapons-BoneShotgunWeapon.png-398ebd61a7e6cb39bb3a9e9e23e73cda.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Icon-Weapons-BoneShotgunWeapon.png-398ebd61a7e6cb39bb3a9e9e23e73cda.s3tc.ctex", "res://.godot/imported/T-Icon-Weapons-BoneShotgunWeapon.png-398ebd61a7e6cb39bb3a9e9e23e73cda.etc2.ctex"]
 
 [params]
 

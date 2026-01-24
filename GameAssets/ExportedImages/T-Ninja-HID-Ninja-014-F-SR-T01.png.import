@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://ci2odeghap507"
 path.s3tc="res://.godot/imported/T-Ninja-HID-Ninja-014-F-SR-T01.png-a057eda275262558c1406ada97f4f2d5.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Ninja-HID-Ninja-014-F-SR-T01.png-a057eda275262558c1406ada97f4f2d5.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Ninja-HID-Ninja-014-F-SR-T01.png"
-dest_files=["res://.godot/imported/T-Ninja-HID-Ninja-014-F-SR-T01.png-a057eda275262558c1406ada97f4f2d5.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Ninja-HID-Ninja-014-F-SR-T01.png-a057eda275262558c1406ada97f4f2d5.s3tc.ctex", "res://.godot/imported/T-Ninja-HID-Ninja-014-F-SR-T01.png-a057eda275262558c1406ada97f4f2d5.etc2.ctex"]
 
 [params]
 

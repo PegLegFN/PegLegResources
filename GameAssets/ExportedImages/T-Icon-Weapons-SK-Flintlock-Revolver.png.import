@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://dnol20sidqqgg"
 path.s3tc="res://.godot/imported/T-Icon-Weapons-SK-Flintlock-Revolver.png-fc75c9acdc51bcb32798d01fa5c9ec27.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Icon-Weapons-SK-Flintlock-Revolver.png-fc75c9acdc51bcb32798d01fa5c9ec27.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Icon-Weapons-SK-Flintlock-Revolver.png"
-dest_files=["res://.godot/imported/T-Icon-Weapons-SK-Flintlock-Revolver.png-fc75c9acdc51bcb32798d01fa5c9ec27.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Icon-Weapons-SK-Flintlock-Revolver.png-fc75c9acdc51bcb32798d01fa5c9ec27.s3tc.ctex", "res://.godot/imported/T-Icon-Weapons-SK-Flintlock-Revolver.png-fc75c9acdc51bcb32798d01fa5c9ec27.etc2.ctex"]
 
 [params]
 

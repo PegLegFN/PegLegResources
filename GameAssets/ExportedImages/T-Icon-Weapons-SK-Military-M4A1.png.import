@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://r0288rugix1e"
 path.s3tc="res://.godot/imported/T-Icon-Weapons-SK-Military-M4A1.png-a3e4b5a1fb648ef69cc6b9bc9618ac8e.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Icon-Weapons-SK-Military-M4A1.png-a3e4b5a1fb648ef69cc6b9bc9618ac8e.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Icon-Weapons-SK-Military-M4A1.png"
-dest_files=["res://.godot/imported/T-Icon-Weapons-SK-Military-M4A1.png-a3e4b5a1fb648ef69cc6b9bc9618ac8e.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Icon-Weapons-SK-Military-M4A1.png-a3e4b5a1fb648ef69cc6b9bc9618ac8e.s3tc.ctex", "res://.godot/imported/T-Icon-Weapons-SK-Military-M4A1.png-a3e4b5a1fb648ef69cc6b9bc9618ac8e.etc2.ctex"]
 
 [params]
 

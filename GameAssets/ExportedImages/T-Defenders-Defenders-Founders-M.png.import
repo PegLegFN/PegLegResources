@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://g4av7wodncjw"
 path.s3tc="res://.godot/imported/T-Defenders-Defenders-Founders-M.png-cfb9ca3ff534754ddc33d7e1e57ffc2b.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Defenders-Defenders-Founders-M.png-cfb9ca3ff534754ddc33d7e1e57ffc2b.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Defenders-Defenders-Founders-M.png"
-dest_files=["res://.godot/imported/T-Defenders-Defenders-Founders-M.png-cfb9ca3ff534754ddc33d7e1e57ffc2b.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Defenders-Defenders-Founders-M.png-cfb9ca3ff534754ddc33d7e1e57ffc2b.s3tc.ctex", "res://.godot/imported/T-Defenders-Defenders-Founders-M.png-cfb9ca3ff534754ddc33d7e1e57ffc2b.etc2.ctex"]
 
 [params]
 

@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://b0tyuda6es0s1"
 path.s3tc="res://.godot/imported/T-Icon-Items-Twine-03.png-6bba9b2da9f3e3a1b6f3150590d90927.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Icon-Items-Twine-03.png-6bba9b2da9f3e3a1b6f3150590d90927.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Icon-Items-Twine-03.png"
-dest_files=["res://.godot/imported/T-Icon-Items-Twine-03.png-6bba9b2da9f3e3a1b6f3150590d90927.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Icon-Items-Twine-03.png-6bba9b2da9f3e3a1b6f3150590d90927.s3tc.ctex", "res://.godot/imported/T-Icon-Items-Twine-03.png-6bba9b2da9f3e3a1b6f3150590d90927.etc2.ctex"]
 
 [params]
 

@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://dedi5vaw1q1xa"
 path.s3tc="res://.godot/imported/T-Icon-Weapons-Wall-SpeakerTrap.png-17e1237a1033ac53dcb4db710c013faf.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Icon-Weapons-Wall-SpeakerTrap.png-17e1237a1033ac53dcb4db710c013faf.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Icon-Weapons-Wall-SpeakerTrap.png"
-dest_files=["res://.godot/imported/T-Icon-Weapons-Wall-SpeakerTrap.png-17e1237a1033ac53dcb4db710c013faf.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Icon-Weapons-Wall-SpeakerTrap.png-17e1237a1033ac53dcb4db710c013faf.s3tc.ctex", "res://.godot/imported/T-Icon-Weapons-Wall-SpeakerTrap.png-17e1237a1033ac53dcb4db710c013faf.etc2.ctex"]
 
 [params]
 

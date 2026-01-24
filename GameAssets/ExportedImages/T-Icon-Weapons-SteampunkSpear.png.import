@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://b7bevk6biu17k"
 path.s3tc="res://.godot/imported/T-Icon-Weapons-SteampunkSpear.png-40c90c8a3b08c92db8f5511d213e993d.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Icon-Weapons-SteampunkSpear.png-40c90c8a3b08c92db8f5511d213e993d.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Icon-Weapons-SteampunkSpear.png"
-dest_files=["res://.godot/imported/T-Icon-Weapons-SteampunkSpear.png-40c90c8a3b08c92db8f5511d213e993d.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Icon-Weapons-SteampunkSpear.png-40c90c8a3b08c92db8f5511d213e993d.s3tc.ctex", "res://.godot/imported/T-Icon-Weapons-SteampunkSpear.png-40c90c8a3b08c92db8f5511d213e993d.etc2.ctex"]
 
 [params]
 

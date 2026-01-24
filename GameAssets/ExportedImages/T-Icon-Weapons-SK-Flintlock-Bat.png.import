@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://cxombpj3gbwdf"
 path.s3tc="res://.godot/imported/T-Icon-Weapons-SK-Flintlock-Bat.png-68af1f167e81275f68ed6ecda690a836.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Icon-Weapons-SK-Flintlock-Bat.png-68af1f167e81275f68ed6ecda690a836.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Icon-Weapons-SK-Flintlock-Bat.png"
-dest_files=["res://.godot/imported/T-Icon-Weapons-SK-Flintlock-Bat.png-68af1f167e81275f68ed6ecda690a836.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Icon-Weapons-SK-Flintlock-Bat.png-68af1f167e81275f68ed6ecda690a836.s3tc.ctex", "res://.godot/imported/T-Icon-Weapons-SK-Flintlock-Bat.png-68af1f167e81275f68ed6ecda690a836.etc2.ctex"]
 
 [params]
 

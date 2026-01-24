@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://bj20y66wvlmf2"
 path.s3tc="res://.godot/imported/T-Items-Reagent-Traps.png-9e8786c177b1213a106498b3577c5b78.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Items-Reagent-Traps.png-9e8786c177b1213a106498b3577c5b78.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Items-Reagent-Traps.png"
-dest_files=["res://.godot/imported/T-Items-Reagent-Traps.png-9e8786c177b1213a106498b3577c5b78.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Items-Reagent-Traps.png-9e8786c177b1213a106498b3577c5b78.s3tc.ctex", "res://.godot/imported/T-Items-Reagent-Traps.png-9e8786c177b1213a106498b3577c5b78.etc2.ctex"]
 
 [params]
 

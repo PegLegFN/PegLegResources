@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://bh7pmk0h4y2gq"
 path.s3tc="res://.godot/imported/T-Icon-Modifier-Pos-Outlander-Tech-Buff-64.png-6c343529eccc06a856ad97f29d085cde.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Icon-Modifier-Pos-Outlander-Tech-Buff-64.png-6c343529eccc06a856ad97f29d085cde.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Icon-Modifier-Pos-Outlander-Tech-Buff-64.png"
-dest_files=["res://.godot/imported/T-Icon-Modifier-Pos-Outlander-Tech-Buff-64.png-6c343529eccc06a856ad97f29d085cde.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Icon-Modifier-Pos-Outlander-Tech-Buff-64.png-6c343529eccc06a856ad97f29d085cde.s3tc.ctex", "res://.godot/imported/T-Icon-Modifier-Pos-Outlander-Tech-Buff-64.png-6c343529eccc06a856ad97f29d085cde.etc2.ctex"]
 
 [params]
 

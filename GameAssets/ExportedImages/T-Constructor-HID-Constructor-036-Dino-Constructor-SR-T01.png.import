@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://b3062mkb2u7ao"
 path.s3tc="res://.godot/imported/T-Constructor-HID-Constructor-036-Dino-Constructor-SR-T01.png-82fc24d73479fe0de9dd8bb38087e2fa.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Constructor-HID-Constructor-036-Dino-Constructor-SR-T01.png-82fc24d73479fe0de9dd8bb38087e2fa.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Constructor-HID-Constructor-036-Dino-Constructor-SR-T01.png"
-dest_files=["res://.godot/imported/T-Constructor-HID-Constructor-036-Dino-Constructor-SR-T01.png-82fc24d73479fe0de9dd8bb38087e2fa.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Constructor-HID-Constructor-036-Dino-Constructor-SR-T01.png-82fc24d73479fe0de9dd8bb38087e2fa.s3tc.ctex", "res://.godot/imported/T-Constructor-HID-Constructor-036-Dino-Constructor-SR-T01.png-82fc24d73479fe0de9dd8bb38087e2fa.etc2.ctex"]
 
 [params]
 

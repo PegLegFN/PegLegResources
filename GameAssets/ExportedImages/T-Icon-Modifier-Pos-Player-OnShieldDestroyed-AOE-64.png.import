@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://clw8iogylfu48"
 path.s3tc="res://.godot/imported/T-Icon-Modifier-Pos-Player-OnShieldDestroyed-AOE-64.png-abdfd280ca24217811f8a3d674827ffa.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Icon-Modifier-Pos-Player-OnShieldDestroyed-AOE-64.png-abdfd280ca24217811f8a3d674827ffa.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Icon-Modifier-Pos-Player-OnShieldDestroyed-AOE-64.png"
-dest_files=["res://.godot/imported/T-Icon-Modifier-Pos-Player-OnShieldDestroyed-AOE-64.png-abdfd280ca24217811f8a3d674827ffa.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Icon-Modifier-Pos-Player-OnShieldDestroyed-AOE-64.png-abdfd280ca24217811f8a3d674827ffa.s3tc.ctex", "res://.godot/imported/T-Icon-Modifier-Pos-Player-OnShieldDestroyed-AOE-64.png-abdfd280ca24217811f8a3d674827ffa.etc2.ctex"]
 
 [params]
 

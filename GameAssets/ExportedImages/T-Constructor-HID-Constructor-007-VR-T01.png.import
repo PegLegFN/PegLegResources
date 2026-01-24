@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://byntbpjguts3g"
 path.s3tc="res://.godot/imported/T-Constructor-HID-Constructor-007-VR-T01.png-2b03fb0bca0ee8e3b0fc978335d41064.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Constructor-HID-Constructor-007-VR-T01.png-2b03fb0bca0ee8e3b0fc978335d41064.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Constructor-HID-Constructor-007-VR-T01.png"
-dest_files=["res://.godot/imported/T-Constructor-HID-Constructor-007-VR-T01.png-2b03fb0bca0ee8e3b0fc978335d41064.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Constructor-HID-Constructor-007-VR-T01.png-2b03fb0bca0ee8e3b0fc978335d41064.s3tc.ctex", "res://.godot/imported/T-Constructor-HID-Constructor-007-VR-T01.png-2b03fb0bca0ee8e3b0fc978335d41064.etc2.ctex"]
 
 [params]
 

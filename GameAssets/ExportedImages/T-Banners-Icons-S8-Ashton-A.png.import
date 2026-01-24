@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://1rahuil1r0jj"
 path.s3tc="res://.godot/imported/T-Banners-Icons-S8-Ashton-A.png-22c9ff3ff49264213d051cbeefd61651.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Banners-Icons-S8-Ashton-A.png-22c9ff3ff49264213d051cbeefd61651.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Banners-Icons-S8-Ashton-A.png"
-dest_files=["res://.godot/imported/T-Banners-Icons-S8-Ashton-A.png-22c9ff3ff49264213d051cbeefd61651.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Banners-Icons-S8-Ashton-A.png-22c9ff3ff49264213d051cbeefd61651.s3tc.ctex", "res://.godot/imported/T-Banners-Icons-S8-Ashton-A.png-22c9ff3ff49264213d051cbeefd61651.etc2.ctex"]
 
 [params]
 

@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://fuku4tki1wgd"
 path.s3tc="res://.godot/imported/T-Icon-Weapons-SK-Neon-Glow-Drum-Assault.png-c2595bf126fb3570e2e5556340ed2b6b.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Icon-Weapons-SK-Neon-Glow-Drum-Assault.png-c2595bf126fb3570e2e5556340ed2b6b.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Icon-Weapons-SK-Neon-Glow-Drum-Assault.png"
-dest_files=["res://.godot/imported/T-Icon-Weapons-SK-Neon-Glow-Drum-Assault.png-c2595bf126fb3570e2e5556340ed2b6b.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Icon-Weapons-SK-Neon-Glow-Drum-Assault.png-c2595bf126fb3570e2e5556340ed2b6b.s3tc.ctex", "res://.godot/imported/T-Icon-Weapons-SK-Neon-Glow-Drum-Assault.png-c2595bf126fb3570e2e5556340ed2b6b.etc2.ctex"]
 
 [params]
 

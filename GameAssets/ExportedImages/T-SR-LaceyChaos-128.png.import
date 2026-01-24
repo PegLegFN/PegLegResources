@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://bcise672x5snw"
 path.s3tc="res://.godot/imported/T-SR-LaceyChaos-128.png-87ed4084bad67de6c58bf969309b889c.s3tc.ctex"
+path.etc2="res://.godot/imported/T-SR-LaceyChaos-128.png-87ed4084bad67de6c58bf969309b889c.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-SR-LaceyChaos-128.png"
-dest_files=["res://.godot/imported/T-SR-LaceyChaos-128.png-87ed4084bad67de6c58bf969309b889c.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-SR-LaceyChaos-128.png-87ed4084bad67de6c58bf969309b889c.s3tc.ctex", "res://.godot/imported/T-SR-LaceyChaos-128.png-87ed4084bad67de6c58bf969309b889c.etc2.ctex"]
 
 [params]
 

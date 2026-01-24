@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://0pk7aww8ffdd"
 path.s3tc="res://.godot/imported/T-Icon-Weapons-StinkBombBow.png-5cae96094f28fe85fbd9b1e4a3a49a17.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Icon-Weapons-StinkBombBow.png-5cae96094f28fe85fbd9b1e4a3a49a17.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Icon-Weapons-StinkBombBow.png"
-dest_files=["res://.godot/imported/T-Icon-Weapons-StinkBombBow.png-5cae96094f28fe85fbd9b1e4a3a49a17.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Icon-Weapons-StinkBombBow.png-5cae96094f28fe85fbd9b1e4a3a49a17.s3tc.ctex", "res://.godot/imported/T-Icon-Weapons-StinkBombBow.png-5cae96094f28fe85fbd9b1e4a3a49a17.etc2.ctex"]
 
 [params]
 

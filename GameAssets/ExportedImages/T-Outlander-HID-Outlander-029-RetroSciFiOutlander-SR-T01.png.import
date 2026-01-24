@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://dq7x7y2x5iv4l"
 path.s3tc="res://.godot/imported/T-Outlander-HID-Outlander-029-RetroSciFiOutlander-SR-T01.png-8be100dffc1a4deda4366677f54d0dcf.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Outlander-HID-Outlander-029-RetroSciFiOutlander-SR-T01.png-8be100dffc1a4deda4366677f54d0dcf.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Outlander-HID-Outlander-029-RetroSciFiOutlander-SR-T01.png"
-dest_files=["res://.godot/imported/T-Outlander-HID-Outlander-029-RetroSciFiOutlander-SR-T01.png-8be100dffc1a4deda4366677f54d0dcf.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Outlander-HID-Outlander-029-RetroSciFiOutlander-SR-T01.png-8be100dffc1a4deda4366677f54d0dcf.s3tc.ctex", "res://.godot/imported/T-Outlander-HID-Outlander-029-RetroSciFiOutlander-SR-T01.png-8be100dffc1a4deda4366677f54d0dcf.etc2.ctex"]
 
 [params]
 

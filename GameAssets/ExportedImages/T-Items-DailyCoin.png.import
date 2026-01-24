@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://h062uahv5u6"
 path.s3tc="res://.godot/imported/T-Items-DailyCoin.png-33cfc7176c4a13c0f2bcf6c6cb1f0b42.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Items-DailyCoin.png-33cfc7176c4a13c0f2bcf6c6cb1f0b42.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Items-DailyCoin.png"
-dest_files=["res://.godot/imported/T-Items-DailyCoin.png-33cfc7176c4a13c0f2bcf6c6cb1f0b42.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Items-DailyCoin.png-33cfc7176c4a13c0f2bcf6c6cb1f0b42.s3tc.ctex", "res://.godot/imported/T-Items-DailyCoin.png-33cfc7176c4a13c0f2bcf6c6cb1f0b42.etc2.ctex"]
 
 [params]
 

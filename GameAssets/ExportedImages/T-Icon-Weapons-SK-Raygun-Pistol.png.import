@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://da8ki17m7w6du"
 path.s3tc="res://.godot/imported/T-Icon-Weapons-SK-Raygun-Pistol.png-8aa413be3c3917241cbd163f90ceb850.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Icon-Weapons-SK-Raygun-Pistol.png-8aa413be3c3917241cbd163f90ceb850.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Icon-Weapons-SK-Raygun-Pistol.png"
-dest_files=["res://.godot/imported/T-Icon-Weapons-SK-Raygun-Pistol.png-8aa413be3c3917241cbd163f90ceb850.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Icon-Weapons-SK-Raygun-Pistol.png-8aa413be3c3917241cbd163f90ceb850.s3tc.ctex", "res://.godot/imported/T-Icon-Weapons-SK-Raygun-Pistol.png-8aa413be3c3917241cbd163f90ceb850.etc2.ctex"]
 
 [params]
 

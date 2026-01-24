@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://17vrp31huiuj"
 path.s3tc="res://.godot/imported/T-Icon-Weapons-SK-Steampunk-Scythe.png-67347c5366139d62e2b777c10d54a821.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Icon-Weapons-SK-Steampunk-Scythe.png-67347c5366139d62e2b777c10d54a821.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Icon-Weapons-SK-Steampunk-Scythe.png"
-dest_files=["res://.godot/imported/T-Icon-Weapons-SK-Steampunk-Scythe.png-67347c5366139d62e2b777c10d54a821.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Icon-Weapons-SK-Steampunk-Scythe.png-67347c5366139d62e2b777c10d54a821.s3tc.ctex", "res://.godot/imported/T-Icon-Weapons-SK-Steampunk-Scythe.png-67347c5366139d62e2b777c10d54a821.etc2.ctex"]
 
 [params]
 

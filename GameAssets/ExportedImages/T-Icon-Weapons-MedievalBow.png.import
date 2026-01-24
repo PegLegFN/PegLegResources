@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://bqil7jrytxmd8"
 path.s3tc="res://.godot/imported/T-Icon-Weapons-MedievalBow.png-aa0722d74447a571dac3cd714b4cd78a.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Icon-Weapons-MedievalBow.png-aa0722d74447a571dac3cd714b4cd78a.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Icon-Weapons-MedievalBow.png"
-dest_files=["res://.godot/imported/T-Icon-Weapons-MedievalBow.png-aa0722d74447a571dac3cd714b4cd78a.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Icon-Weapons-MedievalBow.png-aa0722d74447a571dac3cd714b4cd78a.s3tc.ctex", "res://.godot/imported/T-Icon-Weapons-MedievalBow.png-aa0722d74447a571dac3cd714b4cd78a.etc2.ctex"]
 
 [params]
 

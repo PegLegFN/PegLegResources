@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://bpjsma8caqchn"
 path.s3tc="res://.godot/imported/Swamp Pond.png-618407c0cb62ad9331d85dd1f0609b61.s3tc.ctex"
+path.etc2="res://.godot/imported/Swamp Pond.png-618407c0cb62ad9331d85dd1f0609b61.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/Themes/builtin_spooky/Swamp Pond.png"
-dest_files=["res://.godot/imported/Swamp Pond.png-618407c0cb62ad9331d85dd1f0609b61.s3tc.ctex"]
+dest_files=["res://.godot/imported/Swamp Pond.png-618407c0cb62ad9331d85dd1f0609b61.s3tc.ctex", "res://.godot/imported/Swamp Pond.png-618407c0cb62ad9331d85dd1f0609b61.etc2.ctex"]
 
 [params]
 

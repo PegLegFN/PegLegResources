@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://l8feyuxe3621"
 path.s3tc="res://.godot/imported/T-Soldier-HID-330-Athena-Commando-F-IceQueen.png-bcad669f90d2db8ebf1d2d748f9b066c.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Soldier-HID-330-Athena-Commando-F-IceQueen.png-bcad669f90d2db8ebf1d2d748f9b066c.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Soldier-HID-330-Athena-Commando-F-IceQueen.png"
-dest_files=["res://.godot/imported/T-Soldier-HID-330-Athena-Commando-F-IceQueen.png-bcad669f90d2db8ebf1d2d748f9b066c.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Soldier-HID-330-Athena-Commando-F-IceQueen.png-bcad669f90d2db8ebf1d2d748f9b066c.s3tc.ctex", "res://.godot/imported/T-Soldier-HID-330-Athena-Commando-F-IceQueen.png-bcad669f90d2db8ebf1d2d748f9b066c.etc2.ctex"]
 
 [params]
 

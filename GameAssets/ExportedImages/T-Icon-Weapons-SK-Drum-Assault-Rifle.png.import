@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://c4yemfkm2bam6"
 path.s3tc="res://.godot/imported/T-Icon-Weapons-SK-Drum-Assault-Rifle.png-3a66e9f467b2cde9f545a4bdc7effabc.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Icon-Weapons-SK-Drum-Assault-Rifle.png-3a66e9f467b2cde9f545a4bdc7effabc.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Icon-Weapons-SK-Drum-Assault-Rifle.png"
-dest_files=["res://.godot/imported/T-Icon-Weapons-SK-Drum-Assault-Rifle.png-3a66e9f467b2cde9f545a4bdc7effabc.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Icon-Weapons-SK-Drum-Assault-Rifle.png-3a66e9f467b2cde9f545a4bdc7effabc.s3tc.ctex", "res://.godot/imported/T-Icon-Weapons-SK-Drum-Assault-Rifle.png-3a66e9f467b2cde9f545a4bdc7effabc.etc2.ctex"]
 
 [params]
 

@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://3x6o88x8un6q"
 path.s3tc="res://.godot/imported/T-Items-WeaponRePerk-Resource.png-f187aea365dd561cba1c10dcf9c29cf0.s3tc.ctex"
+path.etc2="res://.godot/imported/T-Items-WeaponRePerk-Resource.png-f187aea365dd561cba1c10dcf9c29cf0.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://PegLegResources/GameAssets/ExportedImages/T-Items-WeaponRePerk-Resource.png"
-dest_files=["res://.godot/imported/T-Items-WeaponRePerk-Resource.png-f187aea365dd561cba1c10dcf9c29cf0.s3tc.ctex"]
+dest_files=["res://.godot/imported/T-Items-WeaponRePerk-Resource.png-f187aea365dd561cba1c10dcf9c29cf0.s3tc.ctex", "res://.godot/imported/T-Items-WeaponRePerk-Resource.png-f187aea365dd561cba1c10dcf9c29cf0.etc2.ctex"]
 
 [params]
 

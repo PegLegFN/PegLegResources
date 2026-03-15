@@ -16,7 +16,7 @@
     "displayName": "Cram Session",
     "timer": "Event",
     "eventFlags":[
-      "QuestCategory.STW.Event.CramSession"
+      "EventFlag.CramSession"
     ],
     "content":"cramSession.json"
   },

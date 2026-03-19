@@ -165,7 +165,7 @@
     "DisplayName": "116",
     "MaximumRating": 225,
     "RecommendedRating": 116,
-    "RequiredRating": 94
+    "RequiredRating": 91
   },
   "Theater_Endgame_Zone3": {
     "DifficultyLevel": 0,
@@ -179,7 +179,7 @@
     "DisplayName": "132",
     "MaximumRating": 225,
     "RecommendedRating": 132,
-    "RequiredRating": 100
+    "RequiredRating": 97
   },
   "Theater_Endgame_Zone5": {
     "DifficultyLevel": 0,
@@ -403,7 +403,7 @@
     "DisplayName": "46",
     "MaximumRating": 225,
     "RecommendedRating": 46,
-    "RequiredRating": 40
+    "RequiredRating": 34
   },
   "Theater_Hard_Zone2": {
     "DifficultyLevel": 0,
@@ -942,7 +942,7 @@
     "DisplayName": "76",
     "MaximumRating": 225,
     "RecommendedRating": 76,
-    "RequiredRating": 70
+    "RequiredRating": 64
   },
   "Theater_Nightmare_Zone10_Dudebro": {
     "DifficultyLevel": 0,
@@ -977,7 +977,7 @@
     "DisplayName": "100",
     "MaximumRating": 225,
     "RecommendedRating": 100,
-    "RequiredRating": 88
+    "RequiredRating": 85
   },
   "Theater_Normal_Group_Zone1": {
     "DifficultyLevel": 0,
@@ -1131,7 +1131,7 @@
     "DisplayName": "19",
     "MaximumRating": 225,
     "RecommendedRating": 19,
-    "RequiredRating": 15
+    "RequiredRating": 11
   },
   "Theater_Normal_Zone2": {
     "DifficultyLevel": 0,

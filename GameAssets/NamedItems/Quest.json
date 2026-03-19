@@ -2769,20 +2769,14 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 6000,
-        "Selectable": false
-      },
-      {
-        "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 4000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 1600,
         "Selectable": false
       },
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 6000,
+        "Quantity": 1000,
         "Selectable": false
       },
       {
@@ -2817,20 +2811,14 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 18000,
-        "Selectable": false
-      },
-      {
-        "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 108000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 26700,
         "Selectable": false
       },
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 18000,
+        "Quantity": 10700,
         "Selectable": false
       }
     ],
@@ -2859,20 +2847,14 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 7000,
-        "Selectable": false
-      },
-      {
-        "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 8000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 2100,
         "Selectable": false
       },
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 7000,
+        "Quantity": 1400,
         "Selectable": false
       },
       {
@@ -2907,20 +2889,14 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 8000,
-        "Selectable": false
-      },
-      {
-        "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 12000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 2500,
         "Selectable": false
       },
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 8000,
+        "Quantity": 1700,
         "Selectable": false
       },
       {
@@ -2955,20 +2931,14 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 10000,
-        "Selectable": false
-      },
-      {
-        "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 32000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 4700,
         "Selectable": false
       },
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 10000,
+        "Quantity": 3100,
         "Selectable": false
       },
       {
@@ -3003,20 +2973,14 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 12000,
-        "Selectable": false
-      },
-      {
-        "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 40000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 8100,
         "Selectable": false
       },
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 12000,
+        "Quantity": 4000,
         "Selectable": false
       },
       {
@@ -3051,20 +3015,14 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 13000,
-        "Selectable": false
-      },
-      {
-        "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 48000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 9900,
         "Selectable": false
       },
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 13000,
+        "Quantity": 4900,
         "Selectable": false
       },
       {
@@ -3099,20 +3057,14 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 14000,
-        "Selectable": false
-      },
-      {
-        "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 56000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 11700,
         "Selectable": false
       },
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 14000,
+        "Quantity": 5900,
         "Selectable": false
       },
       {
@@ -3147,20 +3099,14 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 15000,
-        "Selectable": false
-      },
-      {
-        "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 60000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 13500,
         "Selectable": false
       },
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 15000,
+        "Quantity": 6800,
         "Selectable": false
       },
       {
@@ -3195,20 +3141,14 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 16000,
-        "Selectable": false
-      },
-      {
-        "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 96000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 18700,
         "Selectable": false
       },
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 16000,
+        "Quantity": 9400,
         "Selectable": false
       },
       {
@@ -3243,20 +3183,14 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 6000,
-        "Selectable": false
-      },
-      {
-        "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 4000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 1600,
         "Selectable": false
       },
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 6000,
+        "Quantity": 1000,
         "Selectable": false
       },
       {
@@ -3291,20 +3225,14 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 18000,
-        "Selectable": false
-      },
-      {
-        "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 108000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 26700,
         "Selectable": false
       },
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 18000,
+        "Quantity": 10700,
         "Selectable": false
       }
     ],
@@ -3333,20 +3261,14 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 7000,
-        "Selectable": false
-      },
-      {
-        "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 8000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 2100,
         "Selectable": false
       },
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 7000,
+        "Quantity": 1400,
         "Selectable": false
       },
       {
@@ -3381,20 +3303,14 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 8000,
-        "Selectable": false
-      },
-      {
-        "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 12000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 2500,
         "Selectable": false
       },
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 8000,
+        "Quantity": 1700,
         "Selectable": false
       },
       {
@@ -3429,20 +3345,14 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 10000,
-        "Selectable": false
-      },
-      {
-        "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 32000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 4700,
         "Selectable": false
       },
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 10000,
+        "Quantity": 3100,
         "Selectable": false
       },
       {
@@ -3477,20 +3387,14 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 12000,
-        "Selectable": false
-      },
-      {
-        "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 40000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 8100,
         "Selectable": false
       },
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 12000,
+        "Quantity": 4000,
         "Selectable": false
       },
       {
@@ -3525,20 +3429,14 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 13000,
-        "Selectable": false
-      },
-      {
-        "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 48000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 9900,
         "Selectable": false
       },
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 13000,
+        "Quantity": 4900,
         "Selectable": false
       },
       {
@@ -3573,20 +3471,14 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 14000,
-        "Selectable": false
-      },
-      {
-        "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 56000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 11700,
         "Selectable": false
       },
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 14000,
+        "Quantity": 5900,
         "Selectable": false
       },
       {
@@ -3621,20 +3513,14 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 15000,
-        "Selectable": false
-      },
-      {
-        "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 60000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 13500,
         "Selectable": false
       },
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 15000,
+        "Quantity": 6800,
         "Selectable": false
       },
       {
@@ -3669,20 +3555,14 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 16000,
-        "Selectable": false
-      },
-      {
-        "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 96000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 18700,
         "Selectable": false
       },
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 16000,
+        "Quantity": 9400,
         "Selectable": false
       },
       {
@@ -8677,7 +8557,7 @@
       },
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
+        "Item": "AccountResource:peoplexp",
         "Quantity": 18875,
         "Selectable": false
       },
@@ -8724,7 +8604,7 @@
       },
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
+        "Item": "AccountResource:peoplexp",
         "Quantity": 46875,
         "Selectable": false
       },
@@ -9240,8 +9120,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 4500,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 26700,
         "Selectable": false
       },
       {
@@ -9282,8 +9162,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 84000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 36400,
         "Selectable": false
       },
       {
@@ -9325,7 +9205,7 @@
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 4000,
+        "Quantity": 9400,
         "Selectable": false
       },
       {
@@ -9553,7 +9433,7 @@
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 6000,
+        "Quantity": 13300,
         "Selectable": false
       },
       {
@@ -9673,7 +9553,7 @@
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 7000,
+        "Quantity": 14600,
         "Selectable": false
       },
       {
@@ -9876,8 +9756,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 60000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 29900,
         "Selectable": false
       },
       {
@@ -9967,7 +9847,7 @@
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 4000,
+        "Quantity": 9400,
         "Selectable": false
       },
       {
@@ -10128,8 +10008,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 4000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 18700,
         "Selectable": false
       },
       {
@@ -10308,8 +10188,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 5000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 29900,
         "Selectable": false
       },
       {
@@ -10537,7 +10417,7 @@
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 7000,
+        "Quantity": 14600,
         "Selectable": false
       },
       {
@@ -10585,7 +10465,7 @@
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 5000,
+        "Quantity": 12000,
         "Selectable": false
       },
       {
@@ -11175,8 +11055,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 54000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 26700,
         "Selectable": false
       },
       {
@@ -11313,8 +11193,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 7000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 36400,
         "Selectable": false
       },
       {
@@ -11409,8 +11289,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 6000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 33200,
         "Selectable": false
       },
       {
@@ -11559,8 +11439,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 72000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 33200,
         "Selectable": false
       },
       {
@@ -11686,7 +11566,7 @@
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 4500,
+        "Quantity": 10700,
         "Selectable": false
       },
       {
@@ -11804,8 +11684,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 5000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 29900,
         "Selectable": false
       },
       {
@@ -11847,7 +11727,7 @@
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 6000,
+        "Quantity": 13300,
         "Selectable": false
       },
       {
@@ -11889,7 +11769,7 @@
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 7000,
+        "Quantity": 14600,
         "Selectable": false
       },
       {
@@ -11937,7 +11817,7 @@
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 4000,
+        "Quantity": 9400,
         "Selectable": false
       },
       {
@@ -12008,8 +11888,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 60000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 29900,
         "Selectable": false
       },
       {
@@ -12051,7 +11931,7 @@
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 6000,
+        "Quantity": 13300,
         "Selectable": false
       },
       {
@@ -12092,8 +11972,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 7500,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 36400,
         "Selectable": false
       },
       {
@@ -12134,8 +12014,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 4000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 18700,
         "Selectable": false
       },
       {
@@ -12183,7 +12063,7 @@
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 4500,
+        "Quantity": 10700,
         "Selectable": false
       },
       {
@@ -12290,8 +12170,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 84000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 36400,
         "Selectable": false
       },
       {
@@ -12339,7 +12219,7 @@
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 4500,
+        "Quantity": 10700,
         "Selectable": false
       },
       {
@@ -12416,13 +12296,7 @@
       },
       {
         "Hidden": false,
-        "Item": "AccountResource:reagent_traps",
-        "Quantity": 200,
-        "Selectable": false
-      },
-      {
-        "Hidden": false,
-        "Item": "AccountResource:reagent_weapons",
+        "Item": "AccountResource:reagent_schematic",
         "Quantity": 200,
         "Selectable": false
       },
@@ -12459,7 +12333,7 @@
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 7500,
+        "Quantity": 14600,
         "Selectable": false
       },
       {
@@ -12537,7 +12411,7 @@
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 5000,
+        "Quantity": 12000,
         "Selectable": false
       },
       {
@@ -12614,8 +12488,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 7500,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 36400,
         "Selectable": false
       },
       {
@@ -12656,8 +12530,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 54000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 26700,
         "Selectable": false
       },
       {
@@ -12698,8 +12572,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 60000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 29900,
         "Selectable": false
       },
       {
@@ -12776,8 +12650,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 7500,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 36400,
         "Selectable": false
       },
       {
@@ -12891,7 +12765,7 @@
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 7500,
+        "Quantity": 14600,
         "Selectable": false
       },
       {
@@ -12932,8 +12806,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 78000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 33200,
         "Selectable": false
       },
       {
@@ -12980,13 +12854,7 @@
       },
       {
         "Hidden": false,
-        "Item": "AccountResource:reagent_traps",
-        "Quantity": 200,
-        "Selectable": false
-      },
-      {
-        "Hidden": false,
-        "Item": "AccountResource:reagent_weapons",
+        "Item": "AccountResource:reagent_schematic",
         "Quantity": 200,
         "Selectable": false
       },
@@ -13023,7 +12891,7 @@
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 7500,
+        "Quantity": 14600,
         "Selectable": false
       },
       {
@@ -13065,7 +12933,7 @@
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 4000,
+        "Quantity": 9400,
         "Selectable": false
       },
       {
@@ -13227,8 +13095,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 84000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 36400,
         "Selectable": false
       },
       {
@@ -13275,8 +13143,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 4000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 18700,
         "Selectable": false
       },
       {
@@ -13317,8 +13185,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 54000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 26700,
         "Selectable": false
       },
       {
@@ -13360,7 +13228,7 @@
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 5000,
+        "Quantity": 12000,
         "Selectable": false
       },
       {
@@ -13401,8 +13269,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 6000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 33200,
         "Selectable": false
       },
       {
@@ -13443,8 +13311,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 7500,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 36400,
         "Selectable": false
       },
       {
@@ -13492,7 +13360,7 @@
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 4000,
+        "Quantity": 9400,
         "Selectable": false
       },
       {
@@ -13527,8 +13395,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 54000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 26700,
         "Selectable": false
       },
       {
@@ -13569,8 +13437,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 60000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 29900,
         "Selectable": false
       },
       {
@@ -13732,7 +13600,7 @@
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 4500,
+        "Quantity": 10700,
         "Selectable": false
       },
       {
@@ -13768,7 +13636,7 @@
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 5000,
+        "Quantity": 12000,
         "Selectable": false
       },
       {
@@ -13809,8 +13677,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 72000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 33200,
         "Selectable": false
       },
       {
@@ -13851,8 +13719,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 7500,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 36400,
         "Selectable": false
       },
       {
@@ -13900,7 +13768,7 @@
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 4000,
+        "Quantity": 9400,
         "Selectable": false
       },
       {
@@ -13977,8 +13845,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 5000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 29900,
         "Selectable": false
       },
       {
@@ -14026,7 +13894,7 @@
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 6000,
+        "Quantity": 13300,
         "Selectable": false
       },
       {
@@ -14067,8 +13935,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 84000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 36400,
         "Selectable": false
       },
       {
@@ -14116,7 +13984,7 @@
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 4000,
+        "Quantity": 9400,
         "Selectable": false
       },
       {
@@ -14151,8 +14019,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 4500,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 26700,
         "Selectable": false
       },
       {
@@ -14194,7 +14062,7 @@
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 5000,
+        "Quantity": 12000,
         "Selectable": false
       },
       {
@@ -14272,7 +14140,7 @@
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 7500,
+        "Quantity": 14600,
         "Selectable": false
       },
       {
@@ -14319,8 +14187,8 @@
       },
       {
         "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 48000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 18700,
         "Selectable": false
       },
       {
@@ -14361,13 +14229,7 @@
       },
       {
         "Hidden": false,
-        "Item": "AccountResource:reagent_traps",
-        "Quantity": 200,
-        "Selectable": false
-      },
-      {
-        "Hidden": false,
-        "Item": "AccountResource:reagent_weapons",
+        "Item": "AccountResource:reagent_schematic",
         "Quantity": 200,
         "Selectable": false
       },
@@ -14409,13 +14271,7 @@
       },
       {
         "Hidden": false,
-        "Item": "AccountResource:reagent_traps",
-        "Quantity": 200,
-        "Selectable": false
-      },
-      {
-        "Hidden": false,
-        "Item": "AccountResource:reagent_weapons",
+        "Item": "AccountResource:reagent_schematic",
         "Quantity": 200,
         "Selectable": false
       },
@@ -14487,8 +14343,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 90000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 36400,
         "Selectable": false
       },
       {
@@ -14572,7 +14428,7 @@
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 4500,
+        "Quantity": 10700,
         "Selectable": false
       },
       {
@@ -14608,7 +14464,7 @@
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 5000,
+        "Quantity": 12000,
         "Selectable": false
       },
       {
@@ -14649,8 +14505,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 72000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 33200,
         "Selectable": false
       },
       {
@@ -15093,8 +14949,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 4000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 18700,
         "Selectable": false
       },
       {
@@ -15135,8 +14991,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 4500,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 26700,
         "Selectable": false
       },
       {
@@ -15177,8 +15033,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 5000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 29900,
         "Selectable": false
       },
       {
@@ -15219,8 +15075,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 6500,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 33200,
         "Selectable": false
       },
       {
@@ -15334,8 +15190,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 4500,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 26700,
         "Selectable": false
       },
       {
@@ -15370,8 +15226,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 5000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 29900,
         "Selectable": false
       },
       {
@@ -15406,8 +15262,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 6500,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 33200,
         "Selectable": false
       },
       {
@@ -15479,7 +15335,7 @@
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 4000,
+        "Quantity": 9400,
         "Selectable": false
       },
       {
@@ -15515,7 +15371,7 @@
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 4500,
+        "Quantity": 10700,
         "Selectable": false
       },
       {
@@ -15557,7 +15413,7 @@
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 5000,
+        "Quantity": 12000,
         "Selectable": false
       },
       {
@@ -15598,8 +15454,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 6500,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 33200,
         "Selectable": false
       },
       {
@@ -15676,8 +15532,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 54000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 26700,
         "Selectable": false
       },
       {
@@ -15742,8 +15598,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 6500,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 33200,
         "Selectable": false
       },
       {
@@ -15844,7 +15700,7 @@
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 1000,
+        "Quantity": 700,
         "Selectable": false
       }
     ],
@@ -15872,8 +15728,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 250,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 400,
         "Selectable": false
       }
     ],
@@ -15901,7 +15757,7 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:reagent_traps",
+        "Item": "AccountResource:reagent_schematic",
         "Quantity": 75,
         "Selectable": false
       }
@@ -16625,7 +16481,7 @@
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 500,
+        "Quantity": 400,
         "Selectable": false
       },
       {
@@ -17411,8 +17267,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 2000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 1600,
         "Selectable": false
       },
       {
@@ -17452,8 +17308,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 24000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 9900,
         "Selectable": false
       },
       {
@@ -17493,8 +17349,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 24000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 9900,
         "Selectable": false
       },
       {
@@ -17534,8 +17390,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 28000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 11700,
         "Selectable": false
       },
       {
@@ -17575,8 +17431,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 28000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 11700,
         "Selectable": false
       },
       {
@@ -17616,8 +17472,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 30000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 13500,
         "Selectable": false
       },
       {
@@ -17657,8 +17513,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 30000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 13500,
         "Selectable": false
       },
       {
@@ -17698,8 +17554,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 48000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 18700,
         "Selectable": false
       },
       {
@@ -17739,8 +17595,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 48000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 18700,
         "Selectable": false
       },
       {
@@ -17780,8 +17636,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 54000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 26700,
         "Selectable": false
       },
       {
@@ -17821,8 +17677,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 54000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 26700,
         "Selectable": false
       },
       {
@@ -17862,8 +17718,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 2000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 1600,
         "Selectable": false
       },
       {
@@ -17903,8 +17759,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 54000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 26700,
         "Selectable": false
       },
       {
@@ -17938,8 +17794,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 4000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 2100,
         "Selectable": false
       },
       {
@@ -17979,8 +17835,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 4000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 2100,
         "Selectable": false
       },
       {
@@ -18020,8 +17876,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 6000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 2500,
         "Selectable": false
       },
       {
@@ -18061,8 +17917,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 6000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 2500,
         "Selectable": false
       },
       {
@@ -18102,8 +17958,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 16000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 4700,
         "Selectable": false
       },
       {
@@ -18143,8 +17999,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 16000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 4700,
         "Selectable": false
       },
       {
@@ -18184,8 +18040,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 20000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 8100,
         "Selectable": false
       },
       {
@@ -19754,7 +19610,7 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:reagent_weapons",
+        "Item": "AccountResource:reagent_schematic",
         "Quantity": 75,
         "Selectable": false
       }
@@ -19783,7 +19639,7 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:personnelxp",
+        "Item": "AccountResource:peoplexp",
         "Quantity": 400,
         "Selectable": false
       }
@@ -28571,6 +28427,78 @@
       "LargePreview": "ExportedImages\\T-Items-EventCurrency-Candy.png"
     }
   },
+  "Quest:hazelnutspread_quest_hunter": {
+    "Type": "Quest",
+    "Name": "HazelnutSpread_Quest_Hunter",
+    "DisplayName": "A new challenge has been issued! Defeat your target to earn rewards!",
+    "Category": "",
+    "Description": "A new challenge has been issued! Defeat your target to earn rewards!",
+    "IsPermanent": true,
+    "Objectives": [
+      {
+        "BackendName": "TestUrgentBountyQuest_obj0",
+        "Count": 1,
+        "Description": "Defeat your duel target!",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "TestUrgentBountyQuest_obj1",
+        "Count": 1,
+        "Description": "Defeat your duel target!",
+        "HudShortDescription": ""
+      }
+    ],
+    "Rewards": [],
+    "AssetPath": "fortnitegame/plugins/gamefeatures/hazelnutspread/content/quests/items/hazelnutspread_quest_hunter.uasset"
+  },
+  "Quest:hazelnutspread_quest_protector": {
+    "Type": "Quest",
+    "Name": "HazelnutSpread_Quest_Protector",
+    "DisplayName": "Help your teammate collect a bounty!",
+    "Category": "",
+    "Description": "Help your teammate collect a bounty!",
+    "IsPermanent": true,
+    "Objectives": [
+      {
+        "BackendName": "HazelnutSpread_Quest_Hunter1_obj0",
+        "Count": 1,
+        "Description": "Defeat your duel target!",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "HazelnutSpread_Quest_Hunter1_obj1",
+        "Count": 1,
+        "Description": "Defeat your duel target!",
+        "HudShortDescription": ""
+      }
+    ],
+    "Rewards": [],
+    "AssetPath": "fortnitegame/plugins/gamefeatures/hazelnutspread/content/quests/items/hazelnutspread_quest_protector.uasset"
+  },
+  "Quest:hazelnutspread_quest_target": {
+    "Type": "Quest",
+    "Name": "HazelnutSpread_Quest_Target",
+    "DisplayName": "A new challenge has been issued! Defeat your target to earn rewards!",
+    "Category": "",
+    "Description": "A new challenge has been issued! Defeat your target to earn rewards!",
+    "IsPermanent": true,
+    "Objectives": [
+      {
+        "BackendName": "HazelnutSpread_Quest_Target_obj0",
+        "Count": 1,
+        "Description": "Defeat your duel target!",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "HazelnutSpread_Quest_Target_obj1",
+        "Count": 1,
+        "Description": "Defeat your duel target!",
+        "HudShortDescription": ""
+      }
+    ],
+    "Rewards": [],
+    "AssetPath": "fortnitegame/plugins/gamefeatures/hazelnutspread/content/quests/items/hazelnutspread_quest_target.uasset"
+  },
   "Quest:heroquest_blakebeard_blakebeardsstash": {
     "Type": "Quest",
     "Name": "HeroQuest_Blakebeard_BlakebeardsStash",
@@ -28674,7 +28602,7 @@
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 500,
+        "Quantity": 400,
         "Selectable": false
       },
       {
@@ -28715,8 +28643,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 1000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 700,
         "Selectable": false
       },
       {
@@ -29036,8 +28964,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 1000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 700,
         "Selectable": false
       },
       {
@@ -29142,8 +29070,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 1000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 700,
         "Selectable": false
       },
       {
@@ -29277,7 +29205,7 @@
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 1500,
+        "Quantity": 1000,
         "Selectable": false
       },
       {
@@ -30710,20 +30638,14 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 2190,
-        "Selectable": true
-      },
-      {
-        "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 2190,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 36400,
         "Selectable": true
       },
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 2190,
+        "Quantity": 14600,
         "Selectable": true
       },
       {
@@ -30985,20 +30907,14 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 770,
-        "Selectable": true
-      },
-      {
-        "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 770,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 13500,
         "Selectable": true
       },
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 770,
+        "Quantity": 6800,
         "Selectable": true
       },
       {
@@ -31174,20 +31090,14 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 210,
-        "Selectable": true
-      },
-      {
-        "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 210,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 2500,
         "Selectable": true
       },
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 210,
+        "Quantity": 1700,
         "Selectable": true
       },
       {
@@ -31696,20 +31606,14 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 4375,
-        "Selectable": true
-      },
-      {
-        "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 4375,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 100200,
         "Selectable": true
       },
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 4375,
+        "Quantity": 33400,
         "Selectable": true
       },
       {
@@ -38898,14 +38802,14 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 1750,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 2100,
         "Selectable": true
       },
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 1750,
+        "Quantity": 1400,
         "Selectable": true
       },
       {
@@ -39018,14 +38922,14 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 20000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 8100,
         "Selectable": true
       },
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 3000,
+        "Quantity": 4000,
         "Selectable": true
       },
       {
@@ -39132,14 +39036,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 3750,
-        "Selectable": true
-      },
-      {
-        "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 30000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 13500,
         "Selectable": true
       },
       {
@@ -46383,7 +46281,7 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
+        "Item": "AccountResource:peoplexp",
         "Quantity": 14000,
         "Selectable": false
       },
@@ -46536,8 +46434,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 16000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 4700,
         "Selectable": false
       },
       {
@@ -46584,8 +46482,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 2500,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 4700,
         "Selectable": false
       },
       {
@@ -46632,8 +46530,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 3000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 8100,
         "Selectable": false
       },
       {
@@ -46686,8 +46584,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 3250,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 9900,
         "Selectable": false
       },
       {
@@ -46735,7 +46633,7 @@
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 3500,
+        "Quantity": 5900,
         "Selectable": false
       },
       {
@@ -46822,7 +46720,7 @@
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 2500,
+        "Quantity": 3100,
         "Selectable": false
       },
       {
@@ -46911,8 +46809,8 @@
       },
       {
         "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 24000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 9900,
         "Selectable": false
       },
       {
@@ -46996,7 +46894,7 @@
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 3750,
+        "Quantity": 6800,
         "Selectable": false
       },
       {
@@ -47185,8 +47083,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 28000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 11700,
         "Selectable": false
       },
       {
@@ -47264,7 +47162,7 @@
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 2500,
+        "Quantity": 3100,
         "Selectable": false
       },
       {
@@ -47306,7 +47204,7 @@
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 3000,
+        "Quantity": 4000,
         "Selectable": false
       },
       {
@@ -47347,8 +47245,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 24000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 9900,
         "Selectable": false
       },
       {
@@ -47396,8 +47294,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 3500,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 11700,
         "Selectable": false
       },
       {
@@ -47438,8 +47336,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 30000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 13500,
         "Selectable": false
       },
       {
@@ -47480,8 +47378,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 2500,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 4700,
         "Selectable": false
       },
       {
@@ -47522,8 +47420,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 20000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 8100,
         "Selectable": false
       },
       {
@@ -47577,7 +47475,7 @@
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 3250,
+        "Quantity": 4900,
         "Selectable": false
       },
       {
@@ -47683,8 +47581,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 3250,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 9900,
         "Selectable": false
       },
       {
@@ -47732,8 +47630,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 30000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 11700,
         "Selectable": false
       },
       {
@@ -47847,7 +47745,7 @@
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 3750,
+        "Quantity": 5900,
         "Selectable": false
       },
       {
@@ -47888,8 +47786,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 3750,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 13500,
         "Selectable": false
       },
       {
@@ -47989,8 +47887,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 3750,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 11700,
         "Selectable": false
       },
       {
@@ -48054,8 +47952,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 32000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 13500,
         "Selectable": false
       },
       {
@@ -48227,8 +48125,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 3000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 8100,
         "Selectable": false
       },
       {
@@ -48570,8 +48468,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 32000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 13500,
         "Selectable": false
       },
       {
@@ -48618,13 +48516,7 @@
       },
       {
         "Hidden": false,
-        "Item": "AccountResource:reagent_traps",
-        "Quantity": 75,
-        "Selectable": false
-      },
-      {
-        "Hidden": false,
-        "Item": "AccountResource:reagent_weapons",
+        "Item": "AccountResource:reagent_schematic",
         "Quantity": 75,
         "Selectable": false
       },
@@ -48811,8 +48703,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 16000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 4700,
         "Selectable": false
       },
       {
@@ -49320,7 +49212,7 @@
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 3250,
+        "Quantity": 4900,
         "Selectable": false
       },
       {
@@ -49631,13 +49523,7 @@
       },
       {
         "Hidden": false,
-        "Item": "AccountResource:reagent_traps",
-        "Quantity": 75,
-        "Selectable": false
-      },
-      {
-        "Hidden": false,
-        "Item": "AccountResource:reagent_weapons",
+        "Item": "AccountResource:reagent_schematic",
         "Quantity": 75,
         "Selectable": false
       },
@@ -50478,13 +50364,7 @@
       },
       {
         "Hidden": false,
-        "Item": "AccountResource:reagent_traps",
-        "Quantity": 25,
-        "Selectable": false
-      },
-      {
-        "Hidden": false,
-        "Item": "AccountResource:reagent_weapons",
+        "Item": "AccountResource:reagent_schematic",
         "Quantity": 25,
         "Selectable": false
       }
@@ -50550,8 +50430,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 28000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 11700,
         "Selectable": false
       },
       {
@@ -50593,7 +50473,7 @@
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 4000,
+        "Quantity": 6800,
         "Selectable": false
       },
       {
@@ -50741,7 +50621,7 @@
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 3000,
+        "Quantity": 4000,
         "Selectable": false
       },
       {
@@ -50782,8 +50662,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 20000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 8100,
         "Selectable": false
       },
       {
@@ -50831,7 +50711,7 @@
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 3750,
+        "Quantity": 5900,
         "Selectable": false
       },
       {
@@ -50949,7 +50829,7 @@
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 4000,
+        "Quantity": 6800,
         "Selectable": false
       },
       {
@@ -51014,7 +50894,7 @@
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 1750,
+        "Quantity": 1400,
         "Selectable": false
       },
       {
@@ -51127,7 +51007,7 @@
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 2000,
+        "Quantity": 1700,
         "Selectable": false
       },
       {
@@ -51186,7 +51066,7 @@
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 2000,
+        "Quantity": 1700,
         "Selectable": false
       },
       {
@@ -61305,8 +61185,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 6000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 2500,
         "Selectable": false
       },
       {
@@ -61388,9 +61268,9 @@
         "Selectable": false
       },
       {
-        "Hidden": false,
-        "Item": "AccountResource:currency_xrayllama",
-        "Quantity": 100,
+        "Hidden": true,
+        "Item": "Quest:tutorial_research",
+        "Quantity": 1,
         "Selectable": false
       }
     ],
@@ -61420,7 +61300,7 @@
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 2000,
+        "Quantity": 1400,
         "Selectable": false
       },
       {
@@ -61587,8 +61467,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 1000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 700,
         "Selectable": false
       },
       {
@@ -61647,8 +61527,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 1500,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 1600,
         "Selectable": false
       },
       {
@@ -61762,8 +61642,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 1750,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 2100,
         "Selectable": false
       },
       {
@@ -62352,8 +62232,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 1750,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 2100,
         "Selectable": false
       },
       {
@@ -62414,8 +62294,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 2000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 2500,
         "Selectable": false
       },
       {
@@ -62510,8 +62390,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 30000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 13500,
         "Selectable": false
       },
       {
@@ -62546,8 +62426,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 30000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 13500,
         "Selectable": false
       },
       {
@@ -62582,7 +62462,7 @@
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 1000,
+        "Quantity": 700,
         "Selectable": false
       },
       {
@@ -62654,7 +62534,7 @@
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 1500,
+        "Quantity": 1000,
         "Selectable": false
       },
       {
@@ -62730,7 +62610,7 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
+        "Item": "AccountResource:peoplexp",
         "Quantity": 2500,
         "Selectable": false
       },
@@ -62797,6 +62677,54 @@
       },
       {
         "BackendName": "CB_Intro",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "CB_Highlight",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "CB_Guard_CollectionBook_01",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "CB_HighlightCategories",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "CB_Guard_CollectionBook_02",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "CB_HighlightRewards",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "CB_Guard_CollectionBook_03",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "CB_HighlightPageCompletion",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "CB_Guard_CollectionBook_04",
         "Count": 1,
         "Description": "",
         "HudShortDescription": ""
@@ -63030,6 +62958,18 @@
         "HudShortDescription": ""
       },
       {
+        "BackendName": "SurvivorSquads_PowerIntroHighlight",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "SurvivorSquads_PowerIntroHighlight2",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
         "BackendName": "SurvivorSquads_CommandGuardAccount",
         "Count": 1,
         "Description": "",
@@ -63037,6 +62977,12 @@
       },
       {
         "BackendName": "SurvivorSquads_LevelIntro",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "SurvivorSquads_LevelHighlight",
         "Count": 1,
         "Description": "",
         "HudShortDescription": ""
@@ -64044,7 +63990,7 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
+        "Item": "AccountResource:peoplexp",
         "Quantity": 72600,
         "Selectable": false
       },
@@ -69673,6 +69619,12 @@
     "Rarity": "Legendary",
     "Rewards": [
       {
+        "Hidden": false,
+        "Item": "Token:quests_stwstarterbundle24",
+        "Quantity": 1,
+        "Selectable": false
+      },
+      {
         "Hidden": true,
         "Item": "Quest:stwstarterbundle24_01",
         "Quantity": 1,
@@ -69699,12 +69651,6 @@
       {
         "Hidden": true,
         "Item": "Quest:stwstarterbundle24_05",
-        "Quantity": 1,
-        "Selectable": false
-      },
-      {
-        "Hidden": false,
-        "Item": "Token:quests_stwstarterbundle24",
         "Quantity": 1,
         "Selectable": false
       }
@@ -71071,6 +71017,72 @@
         "Count": 1,
         "Description": "",
         "HudShortDescription": ""
+      },
+      {
+        "BackendName": "HeroLoadout_Commander_RequestUpgradeGuardScreen",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "HeroLoadout_Commander_Inspect_ClassGuardScreen",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "HeroLoadout_Commander_Inspect_ClassHighlight",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "HeroLoadout_Commander_Inspect_PerksGuardScreen",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "HeroLoadout_Commander_Inspect_PerksHighlight",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "HeroLoadout_Commander_Inspect_SelectAbilitiesGuardScreen",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "HeroLoadout_Commander_Inspect_AbilitiesTabHighlight",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "HeroLoadout_Commander_Inspect_AbilitiesGuardScreen",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "HeroLoadout_Commander_Inspect_AbilitiesHighlight",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "HeroLoadout_Commander_Inspect_BackOutGuardScreen",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "HeroLoadout_Commander_WrapUpGuardScreen",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
       }
     ],
     "Rewards": [],
@@ -71127,12 +71139,6 @@
         "Count": 1,
         "Description": "",
         "HudShortDescription": ""
-      },
-      {
-        "BackendName": "HeroLoadout_Preset_Highlight",
-        "Count": 1,
-        "Description": "",
-        "HudShortDescription": ""
       }
     ],
     "Rewards": [],
@@ -71158,6 +71164,54 @@
       },
       {
         "BackendName": "HeroLoadout_Support1_GuardScreen1",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "HeroLoadout_Suppot1_Highlight1",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "HeroLoadout_Support1_GuardScreen2",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "HeroLoadout_Suppot1_Highlight2",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "HeroLoadout_Support1_GuardScreen3",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "HeroLoadout_Suppot1_Highlight3",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "HeroLoadout_Support1_GuardScreen4",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "HeroLoadout_Suppot1_Highlight4",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "HeroLoadout_Support1_GuardScreen5",
         "Count": 1,
         "Description": "",
         "HudShortDescription": ""
@@ -71285,10 +71339,92 @@
         "Count": 1,
         "Description": "",
         "HudShortDescription": ""
+      },
+      {
+        "BackendName": "HeroLoadout_TeamPerk_Highlight",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "HeroLoadout_TeamPerk_GuardScreen2",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "HeroLoadout_TeamPerk_Highlight2",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "HeroLoadout_TeamPerk_GuardScreen_End",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
       }
     ],
     "Rewards": [],
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/quests/heroloadout/tutorial_loadout_teamperkandsupport3.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T-Icon-Quest-Journal-64.png",
+      "LargePreview": "ExportedImages\\T-Icon-Quest-Journal-64.png"
+    }
+  },
+  "Quest:tutorial_research": {
+    "Type": "Quest",
+    "Name": "Tutorial_Research",
+    "DisplayName": "(Hidden) Tutorial Research",
+    "Category": "SideQuests",
+    "Description": "Quest to track whether player has seen Research onboarding.",
+    "IsPermanent": true,
+    "Objectives": [
+      {
+        "BackendName": "Tutorial_Research_GuardScreen1",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "Tutorial_Research_Highlight1",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "Tutorial_Research_Guardscreen2",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "Tutorial_Research_Highlight_Backpack",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "Tutorial_Research_Guardscreen3",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "Tutorial_Research_Highlight_convert",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "Tutorial_Research_Guardscreen4",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      }
+    ],
+    "Rewards": [],
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/quests/heroloadout/tutorial_research.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-Quest-Journal-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Quest-Journal-64.png"
@@ -71349,8 +71485,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 128000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 71000,
         "Selectable": false
       },
       {
@@ -71391,8 +71527,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 8500,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 80700,
         "Selectable": false
       },
       {
@@ -71434,7 +71570,7 @@
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 9000,
+        "Quantity": 30200,
         "Selectable": false
       },
       {
@@ -71476,7 +71612,7 @@
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 9500,
+        "Quantity": 33400,
         "Selectable": false
       },
       {
@@ -71524,7 +71660,7 @@
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 7500,
+        "Quantity": 20400,
         "Selectable": false
       },
       {
@@ -71595,8 +71731,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 136000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 80700,
         "Selectable": false
       },
       {
@@ -71637,8 +71773,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 144000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 90500,
         "Selectable": false
       },
       {
@@ -71721,8 +71857,8 @@
       },
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 7500,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 51000,
         "Selectable": false
       },
       {
@@ -71764,7 +71900,7 @@
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 8000,
+        "Quantity": 23700,
         "Selectable": false
       },
       {
@@ -71835,8 +71971,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 9250,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 90500,
         "Selectable": false
       },
       {
@@ -71877,8 +72013,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 152000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 100200,
         "Selectable": false
       },
       {
@@ -71962,7 +72098,7 @@
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 8000,
+        "Quantity": 23700,
         "Selectable": false
       },
       {
@@ -72039,13 +72175,7 @@
       },
       {
         "Hidden": false,
-        "Item": "AccountResource:reagent_traps",
-        "Quantity": 325,
-        "Selectable": false
-      },
-      {
-        "Hidden": false,
-        "Item": "AccountResource:reagent_weapons",
+        "Item": "AccountResource:reagent_schematic",
         "Quantity": 325,
         "Selectable": false
       },
@@ -72124,7 +72254,7 @@
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 7500,
+        "Quantity": 20400,
         "Selectable": false
       },
       {
@@ -72166,7 +72296,7 @@
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 8000,
+        "Quantity": 23700,
         "Selectable": false
       },
       {
@@ -72202,7 +72332,7 @@
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 8500,
+        "Quantity": 26900,
         "Selectable": false
       },
       {
@@ -72243,8 +72373,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 9250,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 90500,
         "Selectable": false
       },
       {
@@ -72328,7 +72458,7 @@
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 7500,
+        "Quantity": 20400,
         "Selectable": false
       },
       {
@@ -72363,8 +72493,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 128000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 71000,
         "Selectable": false
       },
       {
@@ -72405,8 +72535,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 136000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 80700,
         "Selectable": false
       },
       {
@@ -72525,13 +72655,7 @@
       },
       {
         "Hidden": false,
-        "Item": "AccountResource:reagent_traps",
-        "Quantity": 325,
-        "Selectable": false
-      },
-      {
-        "Hidden": false,
-        "Item": "AccountResource:reagent_weapons",
+        "Item": "AccountResource:reagent_schematic",
         "Quantity": 325,
         "Selectable": false
       },
@@ -72573,8 +72697,8 @@
       },
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 8000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 71000,
         "Selectable": false
       },
       {
@@ -72609,8 +72733,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 8500,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 80700,
         "Selectable": false
       },
       {
@@ -72651,8 +72775,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 9250,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 90500,
         "Selectable": false
       },
       {
@@ -72772,7 +72896,7 @@
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 8000,
+        "Quantity": 23700,
         "Selectable": false
       },
       {
@@ -72849,8 +72973,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 148000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 90500,
         "Selectable": false
       },
       {
@@ -72897,13 +73021,7 @@
       },
       {
         "Hidden": false,
-        "Item": "AccountResource:reagent_traps",
-        "Quantity": 325,
-        "Selectable": false
-      },
-      {
-        "Hidden": false,
-        "Item": "AccountResource:reagent_weapons",
+        "Item": "AccountResource:reagent_schematic",
         "Quantity": 325,
         "Selectable": false
       },
@@ -72946,7 +73064,7 @@
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 7500,
+        "Quantity": 20400,
         "Selectable": false
       },
       {
@@ -72988,7 +73106,7 @@
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 8000,
+        "Quantity": 23700,
         "Selectable": false
       },
       {
@@ -73024,7 +73142,7 @@
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 8500,
+        "Quantity": 26900,
         "Selectable": false
       },
       {
@@ -73150,7 +73268,7 @@
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 7500,
+        "Quantity": 20400,
         "Selectable": false
       },
       {
@@ -73191,8 +73309,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 128000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 71000,
         "Selectable": false
       },
       {
@@ -73239,8 +73357,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 136000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 80700,
         "Selectable": false
       },
       {
@@ -73281,8 +73399,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 144000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 90500,
         "Selectable": false
       },
       {
@@ -73365,8 +73483,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 8500,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 80700,
         "Selectable": false
       },
       {
@@ -73413,8 +73531,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 9250,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 90500,
         "Selectable": false
       },
       {
@@ -73498,7 +73616,7 @@
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 7500,
+        "Quantity": 20400,
         "Selectable": false
       },
       {
@@ -73647,8 +73765,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 152000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 100200,
         "Selectable": false
       },
       {
@@ -73690,7 +73808,7 @@
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 9250,
+        "Quantity": 30200,
         "Selectable": false
       },
       {
@@ -73738,7 +73856,7 @@
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 10000,
+        "Quantity": 33400,
         "Selectable": false
       },
       {
@@ -73821,8 +73939,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 128000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 71000,
         "Selectable": false
       },
       {
@@ -73864,7 +73982,7 @@
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 8500,
+        "Quantity": 26900,
         "Selectable": false
       },
       {
@@ -73905,8 +74023,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 9000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 90500,
         "Selectable": false
       },
       {
@@ -73983,8 +74101,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 7500,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 51000,
         "Selectable": false
       },
       {
@@ -74061,8 +74179,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 136000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 80700,
         "Selectable": false
       },
       {
@@ -74181,8 +74299,8 @@
       },
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 7500,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 51000,
         "Selectable": false
       },
       {
@@ -74254,7 +74372,7 @@
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 8500,
+        "Quantity": 26900,
         "Selectable": false
       },
       {
@@ -74295,8 +74413,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 144000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 90500,
         "Selectable": false
       },
       {
@@ -74380,7 +74498,7 @@
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 7500,
+        "Quantity": 20400,
         "Selectable": false
       },
       {
@@ -74457,8 +74575,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 8500,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 80700,
         "Selectable": false
       },
       {
@@ -74500,7 +74618,7 @@
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 9000,
+        "Quantity": 30200,
         "Selectable": false
       },
       {
@@ -74541,8 +74659,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 152000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 100200,
         "Selectable": false
       },
       {
@@ -74619,8 +74737,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 8000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 71000,
         "Selectable": false
       },
       {
@@ -74662,7 +74780,7 @@
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 8500,
+        "Quantity": 26900,
         "Selectable": false
       },
       {
@@ -74703,8 +74821,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 9250,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 90500,
         "Selectable": false
       },
       {
@@ -74746,7 +74864,7 @@
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 10000,
+        "Quantity": 33400,
         "Selectable": false
       },
       {
@@ -74787,8 +74905,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 120000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 51000,
         "Selectable": false
       },
       {
@@ -74835,13 +74953,7 @@
       },
       {
         "Hidden": false,
-        "Item": "AccountResource:reagent_traps",
-        "Quantity": 325,
-        "Selectable": false
-      },
-      {
-        "Hidden": false,
-        "Item": "AccountResource:reagent_weapons",
+        "Item": "AccountResource:reagent_schematic",
         "Quantity": 325,
         "Selectable": false
       },
@@ -74883,13 +74995,7 @@
       },
       {
         "Hidden": false,
-        "Item": "AccountResource:reagent_traps",
-        "Quantity": 325,
-        "Selectable": false
-      },
-      {
-        "Hidden": false,
-        "Item": "AccountResource:reagent_weapons",
+        "Item": "AccountResource:reagent_schematic",
         "Quantity": 325,
         "Selectable": false
       },
@@ -74961,8 +75067,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 160000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 100200,
         "Selectable": false
       },
       {
@@ -75010,7 +75116,7 @@
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 7500,
+        "Quantity": 20400,
         "Selectable": false
       },
       {
@@ -75052,7 +75158,7 @@
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 8000,
+        "Quantity": 23700,
         "Selectable": false
       },
       {
@@ -75088,7 +75194,7 @@
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 8500,
+        "Quantity": 26900,
         "Selectable": false
       },
       {
@@ -75130,7 +75236,7 @@
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 9000,
+        "Quantity": 30200,
         "Selectable": false
       },
       {
@@ -75507,8 +75613,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 7500,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 51000,
         "Selectable": false
       },
       {
@@ -75549,8 +75655,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 8000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 71000,
         "Selectable": false
       },
       {
@@ -75591,8 +75697,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 8500,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 80700,
         "Selectable": false
       },
       {
@@ -75633,8 +75739,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 9250,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 90500,
         "Selectable": false
       },
       {
@@ -75675,8 +75781,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 10000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 100200,
         "Selectable": false
       },
       {
@@ -75717,8 +75823,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 120000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 51000,
         "Selectable": false
       },
       {
@@ -75753,8 +75859,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 8000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 71000,
         "Selectable": false
       },
       {
@@ -75789,8 +75895,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 8500,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 80700,
         "Selectable": false
       },
       {
@@ -75825,8 +75931,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 9250,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 90500,
         "Selectable": false
       },
       {
@@ -75861,8 +75967,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 160000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 100200,
         "Selectable": false
       },
       {
@@ -75904,7 +76010,7 @@
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 7500,
+        "Quantity": 20400,
         "Selectable": false
       },
       {
@@ -75940,7 +76046,7 @@
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 8000,
+        "Quantity": 23700,
         "Selectable": false
       },
       {
@@ -75981,8 +76087,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 136000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 80700,
         "Selectable": false
       },
       {
@@ -76059,8 +76165,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 160000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 100200,
         "Selectable": false
       },
       {
@@ -76101,8 +76207,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 128000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 71000,
         "Selectable": false
       },
       {
@@ -76138,7 +76244,7 @@
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 8500,
+        "Quantity": 26900,
         "Selectable": false
       },
       {
@@ -76173,8 +76279,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 9250,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 90500,
         "Selectable": false
       },
       {
@@ -76210,7 +76316,7 @@
       {
         "Hidden": false,
         "Item": "AccountResource:schematicxp",
-        "Quantity": 10000,
+        "Quantity": 33400,
         "Selectable": false
       },
       {
@@ -76251,8 +76357,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:heroxp",
-        "Quantity": 10000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 100200,
         "Selectable": false
       },
       {
@@ -77047,8 +77153,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 2000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 1600,
         "Selectable": false
       },
       {
@@ -77089,8 +77195,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 4000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 2100,
         "Selectable": false
       },
       {
@@ -77131,8 +77237,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 6000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 2500,
         "Selectable": false
       },
       {
@@ -77173,8 +77279,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 16000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 4700,
         "Selectable": false
       },
       {
@@ -77215,8 +77321,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 20000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 8100,
         "Selectable": false
       },
       {
@@ -77257,8 +77363,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 24000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 9900,
         "Selectable": false
       },
       {
@@ -77299,8 +77405,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 28000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 11700,
         "Selectable": false
       },
       {
@@ -77341,8 +77447,8 @@
     "Rewards": [
       {
         "Hidden": false,
-        "Item": "AccountResource:personnelxp",
-        "Quantity": 30000,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 13500,
         "Selectable": false
       },
       {

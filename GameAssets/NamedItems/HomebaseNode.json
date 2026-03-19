@@ -10,6 +10,17 @@
       "LargePreview": "ExportedImages\\T-Icon-Research-128.png"
     }
   },
+  "HomebaseNode:placeholder_defenderslots": {
+    "Type": "HomebaseNode",
+    "Name": "Placeholder_DefenderSlots",
+    "DisplayName": "Placeholder!!! Defender Slots 123",
+    "IsPermanent": true,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/placeholder_defenderslots.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T-Icon-ST-Surv-EngineeringSquad-128.png",
+      "LargePreview": "ExportedImages\\T-Icon-ST-Surv-EngineeringSquad-128.png"
+    }
+  },
   "HomebaseNode:questreward_buildingresourcecap": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_BuildingResourceCap",

@@ -29,8 +29,8 @@
     "Tier": 1,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 250,
-        "AccountResource:reagent_c_t01": 2
+        "AccountResource:peoplexp": 500,
+        "AccountResource:reagent_c_t01": 5
       },
       "Result": "Defender:did_defenderassault_basic_c_t02"
     },
@@ -75,8 +75,8 @@
     "Tier": 1,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 750,
-        "AccountResource:reagent_c_t01": 5,
+        "AccountResource:peoplexp": 1500,
+        "AccountResource:reagent_c_t01": 10,
         "AccountResource:reagent_people": 25
       },
       "Result": "Defender:did_defenderassault_basic_m_r_t02"
@@ -103,10 +103,10 @@
     "Tier": 2,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 1875,
-        "AccountResource:reagent_c_t01": 10,
+        "AccountResource:peoplexp": 3750,
+        "AccountResource:reagent_c_t01": 20,
         "AccountResource:reagent_people": 75,
-        "AccountResource:reagent_c_t02": 3
+        "AccountResource:reagent_c_t02": 7
       },
       "Result": "Defender:did_defenderassault_basic_m_r_t03"
     },
@@ -132,11 +132,11 @@
     "Tier": 3,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 3000,
-        "AccountResource:reagent_c_t01": 15,
+        "AccountResource:peoplexp": 6000,
+        "AccountResource:reagent_c_t01": 30,
         "AccountResource:reagent_people": 150,
-        "AccountResource:reagent_c_t02": 7,
-        "AccountResource:reagent_c_t03": 3
+        "AccountResource:reagent_c_t02": 14,
+        "AccountResource:reagent_c_t03": 7
       },
       "Result": "Defender:did_defenderassault_basic_m_r_t04"
     },
@@ -182,8 +182,8 @@
     "Tier": 1,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 1250,
-        "AccountResource:reagent_c_t01": 10,
+        "AccountResource:peoplexp": 2500,
+        "AccountResource:reagent_c_t01": 20,
         "AccountResource:reagent_people": 75
       },
       "Result": "Defender:did_defenderassault_basic_m_sr_t02"
@@ -210,10 +210,10 @@
     "Tier": 2,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 3125,
-        "AccountResource:reagent_c_t01": 20,
+        "AccountResource:peoplexp": 6250,
+        "AccountResource:reagent_c_t01": 40,
         "AccountResource:reagent_people": 200,
-        "AccountResource:reagent_c_t02": 5
+        "AccountResource:reagent_c_t02": 11
       },
       "Result": "Defender:did_defenderassault_basic_m_sr_t03"
     },
@@ -239,11 +239,11 @@
     "Tier": 3,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 5000,
-        "AccountResource:reagent_c_t01": 30,
+        "AccountResource:peoplexp": 10000,
+        "AccountResource:reagent_c_t01": 60,
         "AccountResource:reagent_people": 325,
-        "AccountResource:reagent_c_t02": 11,
-        "AccountResource:reagent_c_t03": 5
+        "AccountResource:reagent_c_t02": 22,
+        "AccountResource:reagent_c_t03": 11
       },
       "Result": "Defender:did_defenderassault_basic_m_sr_t04"
     },
@@ -269,12 +269,12 @@
     "Tier": 4,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 6875,
-        "AccountResource:reagent_c_t01": 40,
+        "AccountResource:peoplexp": 13750,
+        "AccountResource:reagent_c_t01": 80,
         "AccountResource:reagent_people": 450,
-        "AccountResource:reagent_c_t02": 16,
-        "AccountResource:reagent_c_t03": 11,
-        "AccountResource:reagent_c_t04": 5
+        "AccountResource:reagent_c_t02": 33,
+        "AccountResource:reagent_c_t03": 22,
+        "AccountResource:reagent_c_t04": 11
       },
       "Result": "Defender:did_defenderassault_basic_m_sr_t05"
     },
@@ -320,8 +320,8 @@
     "Tier": 1,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 1000,
-        "AccountResource:reagent_c_t01": 7,
+        "AccountResource:peoplexp": 2000,
+        "AccountResource:reagent_c_t01": 15,
         "AccountResource:reagent_people": 50
       },
       "Result": "Defender:did_defenderassault_basic_m_vr_t02"
@@ -348,10 +348,10 @@
     "Tier": 2,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 2500,
-        "AccountResource:reagent_c_t01": 15,
+        "AccountResource:peoplexp": 5000,
+        "AccountResource:reagent_c_t01": 30,
         "AccountResource:reagent_people": 125,
-        "AccountResource:reagent_c_t02": 4
+        "AccountResource:reagent_c_t02": 9
       },
       "Result": "Defender:did_defenderassault_basic_m_vr_t03"
     },
@@ -377,11 +377,11 @@
     "Tier": 3,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 4000,
-        "AccountResource:reagent_c_t01": 22,
+        "AccountResource:peoplexp": 8000,
+        "AccountResource:reagent_c_t01": 45,
         "AccountResource:reagent_people": 225,
-        "AccountResource:reagent_c_t02": 9,
-        "AccountResource:reagent_c_t03": 4
+        "AccountResource:reagent_c_t02": 18,
+        "AccountResource:reagent_c_t03": 9
       },
       "Result": "Defender:did_defenderassault_basic_m_vr_t04"
     },
@@ -407,12 +407,12 @@
     "Tier": 4,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 5500,
-        "AccountResource:reagent_c_t01": 30,
+        "AccountResource:peoplexp": 11000,
+        "AccountResource:reagent_c_t01": 60,
         "AccountResource:reagent_people": 300,
-        "AccountResource:reagent_c_t02": 13,
-        "AccountResource:reagent_c_t03": 9,
-        "AccountResource:reagent_c_t04": 4
+        "AccountResource:reagent_c_t02": 27,
+        "AccountResource:reagent_c_t03": 18,
+        "AccountResource:reagent_c_t04": 9
       },
       "Result": "Defender:did_defenderassault_basic_m_vr_t05"
     },
@@ -458,8 +458,8 @@
     "Tier": 1,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 750,
-        "AccountResource:reagent_c_t01": 5,
+        "AccountResource:peoplexp": 1500,
+        "AccountResource:reagent_c_t01": 10,
         "AccountResource:reagent_people": 25
       },
       "Result": "Defender:did_defenderassault_basic_r_t02"
@@ -486,10 +486,10 @@
     "Tier": 2,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 1875,
-        "AccountResource:reagent_c_t01": 10,
+        "AccountResource:peoplexp": 3750,
+        "AccountResource:reagent_c_t01": 20,
         "AccountResource:reagent_people": 75,
-        "AccountResource:reagent_c_t02": 3
+        "AccountResource:reagent_c_t02": 7
       },
       "Result": "Defender:did_defenderassault_basic_r_t03"
     },
@@ -515,11 +515,11 @@
     "Tier": 3,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 3000,
-        "AccountResource:reagent_c_t01": 15,
+        "AccountResource:peoplexp": 6000,
+        "AccountResource:reagent_c_t01": 30,
         "AccountResource:reagent_people": 150,
-        "AccountResource:reagent_c_t02": 7,
-        "AccountResource:reagent_c_t03": 3
+        "AccountResource:reagent_c_t02": 14,
+        "AccountResource:reagent_c_t03": 7
       },
       "Result": "Defender:did_defenderassault_basic_r_t04"
     },
@@ -565,8 +565,8 @@
     "Tier": 1,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 1250,
-        "AccountResource:reagent_c_t01": 10,
+        "AccountResource:peoplexp": 2500,
+        "AccountResource:reagent_c_t01": 20,
         "AccountResource:reagent_people": 75
       },
       "Result": "Defender:did_defenderassault_basic_sr_t02"
@@ -593,10 +593,10 @@
     "Tier": 2,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 3125,
-        "AccountResource:reagent_c_t01": 20,
+        "AccountResource:peoplexp": 6250,
+        "AccountResource:reagent_c_t01": 40,
         "AccountResource:reagent_people": 200,
-        "AccountResource:reagent_c_t02": 5
+        "AccountResource:reagent_c_t02": 11
       },
       "Result": "Defender:did_defenderassault_basic_sr_t03"
     },
@@ -622,11 +622,11 @@
     "Tier": 3,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 5000,
-        "AccountResource:reagent_c_t01": 30,
+        "AccountResource:peoplexp": 10000,
+        "AccountResource:reagent_c_t01": 60,
         "AccountResource:reagent_people": 325,
-        "AccountResource:reagent_c_t02": 11,
-        "AccountResource:reagent_c_t03": 5
+        "AccountResource:reagent_c_t02": 22,
+        "AccountResource:reagent_c_t03": 11
       },
       "Result": "Defender:did_defenderassault_basic_sr_t04"
     },
@@ -652,12 +652,12 @@
     "Tier": 4,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 6875,
-        "AccountResource:reagent_c_t01": 40,
+        "AccountResource:peoplexp": 13750,
+        "AccountResource:reagent_c_t01": 80,
         "AccountResource:reagent_people": 450,
-        "AccountResource:reagent_c_t02": 16,
-        "AccountResource:reagent_c_t03": 11,
-        "AccountResource:reagent_c_t04": 5
+        "AccountResource:reagent_c_t02": 33,
+        "AccountResource:reagent_c_t03": 22,
+        "AccountResource:reagent_c_t04": 11
       },
       "Result": "Defender:did_defenderassault_basic_sr_t05"
     },
@@ -703,8 +703,8 @@
     "Tier": 1,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 500,
-        "AccountResource:reagent_c_t01": 3
+        "AccountResource:peoplexp": 1000,
+        "AccountResource:reagent_c_t01": 7
       },
       "Result": "Defender:did_defenderassault_basic_uc_t02"
     },
@@ -730,10 +730,10 @@
     "Tier": 2,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 1250,
-        "AccountResource:reagent_c_t01": 7,
+        "AccountResource:peoplexp": 2500,
+        "AccountResource:reagent_c_t01": 14,
         "AccountResource:reagent_people": 25,
-        "AccountResource:reagent_c_t02": 2
+        "AccountResource:reagent_c_t02": 5
       },
       "Result": "Defender:did_defenderassault_basic_uc_t03"
     },
@@ -779,8 +779,8 @@
     "Tier": 1,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 1000,
-        "AccountResource:reagent_c_t01": 7,
+        "AccountResource:peoplexp": 2000,
+        "AccountResource:reagent_c_t01": 15,
         "AccountResource:reagent_people": 50
       },
       "Result": "Defender:did_defenderassault_basic_vr_t02"
@@ -807,10 +807,10 @@
     "Tier": 2,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 2500,
-        "AccountResource:reagent_c_t01": 15,
+        "AccountResource:peoplexp": 5000,
+        "AccountResource:reagent_c_t01": 30,
         "AccountResource:reagent_people": 125,
-        "AccountResource:reagent_c_t02": 4
+        "AccountResource:reagent_c_t02": 9
       },
       "Result": "Defender:did_defenderassault_basic_vr_t03"
     },
@@ -836,11 +836,11 @@
     "Tier": 3,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 4000,
-        "AccountResource:reagent_c_t01": 22,
+        "AccountResource:peoplexp": 8000,
+        "AccountResource:reagent_c_t01": 45,
         "AccountResource:reagent_people": 225,
-        "AccountResource:reagent_c_t02": 9,
-        "AccountResource:reagent_c_t03": 4
+        "AccountResource:reagent_c_t02": 18,
+        "AccountResource:reagent_c_t03": 9
       },
       "Result": "Defender:did_defenderassault_basic_vr_t04"
     },
@@ -866,12 +866,12 @@
     "Tier": 4,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 5500,
-        "AccountResource:reagent_c_t01": 30,
+        "AccountResource:peoplexp": 11000,
+        "AccountResource:reagent_c_t01": 60,
         "AccountResource:reagent_people": 300,
-        "AccountResource:reagent_c_t02": 13,
-        "AccountResource:reagent_c_t03": 9,
-        "AccountResource:reagent_c_t04": 4
+        "AccountResource:reagent_c_t02": 27,
+        "AccountResource:reagent_c_t03": 18,
+        "AccountResource:reagent_c_t04": 9
       },
       "Result": "Defender:did_defenderassault_basic_vr_t05"
     },
@@ -912,8 +912,8 @@
     "Tier": 1,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 1000,
-        "AccountResource:reagent_c_t01": 7,
+        "AccountResource:peoplexp": 2000,
+        "AccountResource:reagent_c_t01": 15,
         "AccountResource:reagent_people": 50
       },
       "Result": "Defender:did_defenderassault_founders_vr_t02"
@@ -935,10 +935,10 @@
     "Tier": 2,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 2500,
-        "AccountResource:reagent_c_t01": 15,
+        "AccountResource:peoplexp": 5000,
+        "AccountResource:reagent_c_t01": 30,
         "AccountResource:reagent_people": 125,
-        "AccountResource:reagent_c_t02": 4
+        "AccountResource:reagent_c_t02": 9
       },
       "Result": "Defender:did_defenderassault_founders_vr_t03"
     },
@@ -959,11 +959,11 @@
     "Tier": 3,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 4000,
-        "AccountResource:reagent_c_t01": 22,
+        "AccountResource:peoplexp": 8000,
+        "AccountResource:reagent_c_t01": 45,
         "AccountResource:reagent_people": 225,
-        "AccountResource:reagent_c_t02": 9,
-        "AccountResource:reagent_c_t03": 4
+        "AccountResource:reagent_c_t02": 18,
+        "AccountResource:reagent_c_t03": 9
       },
       "Result": "Defender:did_defenderassault_founders_vr_t04"
     },
@@ -984,12 +984,12 @@
     "Tier": 4,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 5500,
-        "AccountResource:reagent_c_t01": 30,
+        "AccountResource:peoplexp": 11000,
+        "AccountResource:reagent_c_t01": 60,
         "AccountResource:reagent_people": 300,
-        "AccountResource:reagent_c_t02": 13,
-        "AccountResource:reagent_c_t03": 9,
-        "AccountResource:reagent_c_t04": 4
+        "AccountResource:reagent_c_t02": 27,
+        "AccountResource:reagent_c_t03": 18,
+        "AccountResource:reagent_c_t04": 9
       },
       "Result": "Defender:did_defenderassault_founders_vr_t05"
     },
@@ -1029,8 +1029,8 @@
     "Tier": 1,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 250,
-        "AccountResource:reagent_c_t01": 2
+        "AccountResource:peoplexp": 500,
+        "AccountResource:reagent_c_t01": 5
       },
       "Result": "Defender:did_defendermelee_basic_c_t02"
     },
@@ -1075,8 +1075,8 @@
     "Tier": 1,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 1250,
-        "AccountResource:reagent_c_t01": 10,
+        "AccountResource:peoplexp": 2500,
+        "AccountResource:reagent_c_t01": 20,
         "AccountResource:reagent_people": 75
       },
       "Result": "Defender:did_defendermelee_basic_f_sr_t02"
@@ -1103,10 +1103,10 @@
     "Tier": 2,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 3125,
-        "AccountResource:reagent_c_t01": 20,
+        "AccountResource:peoplexp": 6250,
+        "AccountResource:reagent_c_t01": 40,
         "AccountResource:reagent_people": 200,
-        "AccountResource:reagent_c_t02": 5
+        "AccountResource:reagent_c_t02": 11
       },
       "Result": "Defender:did_defendermelee_basic_f_sr_t03"
     },
@@ -1132,11 +1132,11 @@
     "Tier": 3,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 5000,
-        "AccountResource:reagent_c_t01": 30,
+        "AccountResource:peoplexp": 10000,
+        "AccountResource:reagent_c_t01": 60,
         "AccountResource:reagent_people": 325,
-        "AccountResource:reagent_c_t02": 11,
-        "AccountResource:reagent_c_t03": 5
+        "AccountResource:reagent_c_t02": 22,
+        "AccountResource:reagent_c_t03": 11
       },
       "Result": "Defender:did_defendermelee_basic_f_sr_t04"
     },
@@ -1162,12 +1162,12 @@
     "Tier": 4,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 6875,
-        "AccountResource:reagent_c_t01": 40,
+        "AccountResource:peoplexp": 13750,
+        "AccountResource:reagent_c_t01": 80,
         "AccountResource:reagent_people": 450,
-        "AccountResource:reagent_c_t02": 16,
-        "AccountResource:reagent_c_t03": 11,
-        "AccountResource:reagent_c_t04": 5
+        "AccountResource:reagent_c_t02": 33,
+        "AccountResource:reagent_c_t03": 22,
+        "AccountResource:reagent_c_t04": 11
       },
       "Result": "Defender:did_defendermelee_basic_f_sr_t05"
     },
@@ -1213,8 +1213,8 @@
     "Tier": 1,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 750,
-        "AccountResource:reagent_c_t01": 5,
+        "AccountResource:peoplexp": 1500,
+        "AccountResource:reagent_c_t01": 10,
         "AccountResource:reagent_people": 25
       },
       "Result": "Defender:did_defendermelee_basic_r_t02"
@@ -1241,10 +1241,10 @@
     "Tier": 2,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 1875,
-        "AccountResource:reagent_c_t01": 10,
+        "AccountResource:peoplexp": 3750,
+        "AccountResource:reagent_c_t01": 20,
         "AccountResource:reagent_people": 75,
-        "AccountResource:reagent_c_t02": 3
+        "AccountResource:reagent_c_t02": 7
       },
       "Result": "Defender:did_defendermelee_basic_r_t03"
     },
@@ -1270,11 +1270,11 @@
     "Tier": 3,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 3000,
-        "AccountResource:reagent_c_t01": 15,
+        "AccountResource:peoplexp": 6000,
+        "AccountResource:reagent_c_t01": 30,
         "AccountResource:reagent_people": 150,
-        "AccountResource:reagent_c_t02": 7,
-        "AccountResource:reagent_c_t03": 3
+        "AccountResource:reagent_c_t02": 14,
+        "AccountResource:reagent_c_t03": 7
       },
       "Result": "Defender:did_defendermelee_basic_r_t04"
     },
@@ -1320,8 +1320,8 @@
     "Tier": 1,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 1250,
-        "AccountResource:reagent_c_t01": 10,
+        "AccountResource:peoplexp": 2500,
+        "AccountResource:reagent_c_t01": 20,
         "AccountResource:reagent_people": 75
       },
       "Result": "Defender:did_defendermelee_basic_sr_t02"
@@ -1348,10 +1348,10 @@
     "Tier": 2,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 3125,
-        "AccountResource:reagent_c_t01": 20,
+        "AccountResource:peoplexp": 6250,
+        "AccountResource:reagent_c_t01": 40,
         "AccountResource:reagent_people": 200,
-        "AccountResource:reagent_c_t02": 5
+        "AccountResource:reagent_c_t02": 11
       },
       "Result": "Defender:did_defendermelee_basic_sr_t03"
     },
@@ -1377,11 +1377,11 @@
     "Tier": 3,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 5000,
-        "AccountResource:reagent_c_t01": 30,
+        "AccountResource:peoplexp": 10000,
+        "AccountResource:reagent_c_t01": 60,
         "AccountResource:reagent_people": 325,
-        "AccountResource:reagent_c_t02": 11,
-        "AccountResource:reagent_c_t03": 5
+        "AccountResource:reagent_c_t02": 22,
+        "AccountResource:reagent_c_t03": 11
       },
       "Result": "Defender:did_defendermelee_basic_sr_t04"
     },
@@ -1407,12 +1407,12 @@
     "Tier": 4,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 6875,
-        "AccountResource:reagent_c_t01": 40,
+        "AccountResource:peoplexp": 13750,
+        "AccountResource:reagent_c_t01": 80,
         "AccountResource:reagent_people": 450,
-        "AccountResource:reagent_c_t02": 16,
-        "AccountResource:reagent_c_t03": 11,
-        "AccountResource:reagent_c_t04": 5
+        "AccountResource:reagent_c_t02": 33,
+        "AccountResource:reagent_c_t03": 22,
+        "AccountResource:reagent_c_t04": 11
       },
       "Result": "Defender:did_defendermelee_basic_sr_t05"
     },
@@ -1458,8 +1458,8 @@
     "Tier": 1,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 500,
-        "AccountResource:reagent_c_t01": 3
+        "AccountResource:peoplexp": 1000,
+        "AccountResource:reagent_c_t01": 7
       },
       "Result": "Defender:did_defendermelee_basic_uc_t02"
     },
@@ -1485,10 +1485,10 @@
     "Tier": 2,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 1250,
-        "AccountResource:reagent_c_t01": 7,
+        "AccountResource:peoplexp": 2500,
+        "AccountResource:reagent_c_t01": 14,
         "AccountResource:reagent_people": 25,
-        "AccountResource:reagent_c_t02": 2
+        "AccountResource:reagent_c_t02": 5
       },
       "Result": "Defender:did_defendermelee_basic_uc_t03"
     },
@@ -1534,8 +1534,8 @@
     "Tier": 1,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 1000,
-        "AccountResource:reagent_c_t01": 7,
+        "AccountResource:peoplexp": 2000,
+        "AccountResource:reagent_c_t01": 15,
         "AccountResource:reagent_people": 50
       },
       "Result": "Defender:did_defendermelee_basic_vr_t02"
@@ -1562,10 +1562,10 @@
     "Tier": 2,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 2500,
-        "AccountResource:reagent_c_t01": 15,
+        "AccountResource:peoplexp": 5000,
+        "AccountResource:reagent_c_t01": 30,
         "AccountResource:reagent_people": 125,
-        "AccountResource:reagent_c_t02": 4
+        "AccountResource:reagent_c_t02": 9
       },
       "Result": "Defender:did_defendermelee_basic_vr_t03"
     },
@@ -1591,11 +1591,11 @@
     "Tier": 3,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 4000,
-        "AccountResource:reagent_c_t01": 22,
+        "AccountResource:peoplexp": 8000,
+        "AccountResource:reagent_c_t01": 45,
         "AccountResource:reagent_people": 225,
-        "AccountResource:reagent_c_t02": 9,
-        "AccountResource:reagent_c_t03": 4
+        "AccountResource:reagent_c_t02": 18,
+        "AccountResource:reagent_c_t03": 9
       },
       "Result": "Defender:did_defendermelee_basic_vr_t04"
     },
@@ -1621,12 +1621,12 @@
     "Tier": 4,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 5500,
-        "AccountResource:reagent_c_t01": 30,
+        "AccountResource:peoplexp": 11000,
+        "AccountResource:reagent_c_t01": 60,
         "AccountResource:reagent_people": 300,
-        "AccountResource:reagent_c_t02": 13,
-        "AccountResource:reagent_c_t03": 9,
-        "AccountResource:reagent_c_t04": 4
+        "AccountResource:reagent_c_t02": 27,
+        "AccountResource:reagent_c_t03": 18,
+        "AccountResource:reagent_c_t04": 9
       },
       "Result": "Defender:did_defendermelee_basic_vr_t05"
     },
@@ -1671,8 +1671,8 @@
     "Tier": 1,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 250,
-        "AccountResource:reagent_c_t01": 2
+        "AccountResource:peoplexp": 500,
+        "AccountResource:reagent_c_t01": 5
       },
       "Result": "Defender:did_defenderpistol_basic_c_t02"
     },
@@ -1717,8 +1717,8 @@
     "Tier": 1,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 750,
-        "AccountResource:reagent_c_t01": 5,
+        "AccountResource:peoplexp": 1500,
+        "AccountResource:reagent_c_t01": 10,
         "AccountResource:reagent_people": 25
       },
       "Result": "Defender:did_defenderpistol_basic_f_r_t02"
@@ -1745,10 +1745,10 @@
     "Tier": 2,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 1875,
-        "AccountResource:reagent_c_t01": 10,
+        "AccountResource:peoplexp": 3750,
+        "AccountResource:reagent_c_t01": 20,
         "AccountResource:reagent_people": 75,
-        "AccountResource:reagent_c_t02": 3
+        "AccountResource:reagent_c_t02": 7
       },
       "Result": "Defender:did_defenderpistol_basic_f_r_t03"
     },
@@ -1774,11 +1774,11 @@
     "Tier": 3,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 3000,
-        "AccountResource:reagent_c_t01": 15,
+        "AccountResource:peoplexp": 6000,
+        "AccountResource:reagent_c_t01": 30,
         "AccountResource:reagent_people": 150,
-        "AccountResource:reagent_c_t02": 7,
-        "AccountResource:reagent_c_t03": 3
+        "AccountResource:reagent_c_t02": 14,
+        "AccountResource:reagent_c_t03": 7
       },
       "Result": "Defender:did_defenderpistol_basic_f_r_t04"
     },
@@ -1824,8 +1824,8 @@
     "Tier": 1,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 1250,
-        "AccountResource:reagent_c_t01": 10,
+        "AccountResource:peoplexp": 2500,
+        "AccountResource:reagent_c_t01": 20,
         "AccountResource:reagent_people": 75
       },
       "Result": "Defender:did_defenderpistol_basic_f_sr_t02"
@@ -1852,10 +1852,10 @@
     "Tier": 2,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 3125,
-        "AccountResource:reagent_c_t01": 20,
+        "AccountResource:peoplexp": 6250,
+        "AccountResource:reagent_c_t01": 40,
         "AccountResource:reagent_people": 200,
-        "AccountResource:reagent_c_t02": 5
+        "AccountResource:reagent_c_t02": 11
       },
       "Result": "Defender:did_defenderpistol_basic_f_sr_t03"
     },
@@ -1881,11 +1881,11 @@
     "Tier": 3,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 5000,
-        "AccountResource:reagent_c_t01": 30,
+        "AccountResource:peoplexp": 10000,
+        "AccountResource:reagent_c_t01": 60,
         "AccountResource:reagent_people": 325,
-        "AccountResource:reagent_c_t02": 11,
-        "AccountResource:reagent_c_t03": 5
+        "AccountResource:reagent_c_t02": 22,
+        "AccountResource:reagent_c_t03": 11
       },
       "Result": "Defender:did_defenderpistol_basic_f_sr_t04"
     },
@@ -1911,12 +1911,12 @@
     "Tier": 4,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 6875,
-        "AccountResource:reagent_c_t01": 40,
+        "AccountResource:peoplexp": 13750,
+        "AccountResource:reagent_c_t01": 80,
         "AccountResource:reagent_people": 450,
-        "AccountResource:reagent_c_t02": 16,
-        "AccountResource:reagent_c_t03": 11,
-        "AccountResource:reagent_c_t04": 5
+        "AccountResource:reagent_c_t02": 33,
+        "AccountResource:reagent_c_t03": 22,
+        "AccountResource:reagent_c_t04": 11
       },
       "Result": "Defender:did_defenderpistol_basic_f_sr_t05"
     },
@@ -1962,8 +1962,8 @@
     "Tier": 1,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 1000,
-        "AccountResource:reagent_c_t01": 7,
+        "AccountResource:peoplexp": 2000,
+        "AccountResource:reagent_c_t01": 15,
         "AccountResource:reagent_people": 50
       },
       "Result": "Defender:did_defenderpistol_basic_f_vr_t02"
@@ -1990,10 +1990,10 @@
     "Tier": 2,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 2500,
-        "AccountResource:reagent_c_t01": 15,
+        "AccountResource:peoplexp": 5000,
+        "AccountResource:reagent_c_t01": 30,
         "AccountResource:reagent_people": 125,
-        "AccountResource:reagent_c_t02": 4
+        "AccountResource:reagent_c_t02": 9
       },
       "Result": "Defender:did_defenderpistol_basic_f_vr_t03"
     },
@@ -2019,11 +2019,11 @@
     "Tier": 3,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 4000,
-        "AccountResource:reagent_c_t01": 22,
+        "AccountResource:peoplexp": 8000,
+        "AccountResource:reagent_c_t01": 45,
         "AccountResource:reagent_people": 225,
-        "AccountResource:reagent_c_t02": 9,
-        "AccountResource:reagent_c_t03": 4
+        "AccountResource:reagent_c_t02": 18,
+        "AccountResource:reagent_c_t03": 9
       },
       "Result": "Defender:did_defenderpistol_basic_f_vr_t04"
     },
@@ -2049,12 +2049,12 @@
     "Tier": 4,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 5500,
-        "AccountResource:reagent_c_t01": 30,
+        "AccountResource:peoplexp": 11000,
+        "AccountResource:reagent_c_t01": 60,
         "AccountResource:reagent_people": 300,
-        "AccountResource:reagent_c_t02": 13,
-        "AccountResource:reagent_c_t03": 9,
-        "AccountResource:reagent_c_t04": 4
+        "AccountResource:reagent_c_t02": 27,
+        "AccountResource:reagent_c_t03": 18,
+        "AccountResource:reagent_c_t04": 9
       },
       "Result": "Defender:did_defenderpistol_basic_f_vr_t05"
     },
@@ -2100,8 +2100,8 @@
     "Tier": 1,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 750,
-        "AccountResource:reagent_c_t01": 5,
+        "AccountResource:peoplexp": 1500,
+        "AccountResource:reagent_c_t01": 10,
         "AccountResource:reagent_people": 25
       },
       "Result": "Defender:did_defenderpistol_basic_r_t02"
@@ -2128,10 +2128,10 @@
     "Tier": 2,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 1875,
-        "AccountResource:reagent_c_t01": 10,
+        "AccountResource:peoplexp": 3750,
+        "AccountResource:reagent_c_t01": 20,
         "AccountResource:reagent_people": 75,
-        "AccountResource:reagent_c_t02": 3
+        "AccountResource:reagent_c_t02": 7
       },
       "Result": "Defender:did_defenderpistol_basic_r_t03"
     },
@@ -2157,11 +2157,11 @@
     "Tier": 3,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 3000,
-        "AccountResource:reagent_c_t01": 15,
+        "AccountResource:peoplexp": 6000,
+        "AccountResource:reagent_c_t01": 30,
         "AccountResource:reagent_people": 150,
-        "AccountResource:reagent_c_t02": 7,
-        "AccountResource:reagent_c_t03": 3
+        "AccountResource:reagent_c_t02": 14,
+        "AccountResource:reagent_c_t03": 7
       },
       "Result": "Defender:did_defenderpistol_basic_r_t04"
     },
@@ -2207,8 +2207,8 @@
     "Tier": 1,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 1250,
-        "AccountResource:reagent_c_t01": 10,
+        "AccountResource:peoplexp": 2500,
+        "AccountResource:reagent_c_t01": 20,
         "AccountResource:reagent_people": 75
       },
       "Result": "Defender:did_defenderpistol_basic_sr_t02"
@@ -2235,10 +2235,10 @@
     "Tier": 2,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 3125,
-        "AccountResource:reagent_c_t01": 20,
+        "AccountResource:peoplexp": 6250,
+        "AccountResource:reagent_c_t01": 40,
         "AccountResource:reagent_people": 200,
-        "AccountResource:reagent_c_t02": 5
+        "AccountResource:reagent_c_t02": 11
       },
       "Result": "Defender:did_defenderpistol_basic_sr_t03"
     },
@@ -2264,11 +2264,11 @@
     "Tier": 3,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 5000,
-        "AccountResource:reagent_c_t01": 30,
+        "AccountResource:peoplexp": 10000,
+        "AccountResource:reagent_c_t01": 60,
         "AccountResource:reagent_people": 325,
-        "AccountResource:reagent_c_t02": 11,
-        "AccountResource:reagent_c_t03": 5
+        "AccountResource:reagent_c_t02": 22,
+        "AccountResource:reagent_c_t03": 11
       },
       "Result": "Defender:did_defenderpistol_basic_sr_t04"
     },
@@ -2294,12 +2294,12 @@
     "Tier": 4,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 6875,
-        "AccountResource:reagent_c_t01": 40,
+        "AccountResource:peoplexp": 13750,
+        "AccountResource:reagent_c_t01": 80,
         "AccountResource:reagent_people": 450,
-        "AccountResource:reagent_c_t02": 16,
-        "AccountResource:reagent_c_t03": 11,
-        "AccountResource:reagent_c_t04": 5
+        "AccountResource:reagent_c_t02": 33,
+        "AccountResource:reagent_c_t03": 22,
+        "AccountResource:reagent_c_t04": 11
       },
       "Result": "Defender:did_defenderpistol_basic_sr_t05"
     },
@@ -2345,8 +2345,8 @@
     "Tier": 1,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 500,
-        "AccountResource:reagent_c_t01": 3
+        "AccountResource:peoplexp": 1000,
+        "AccountResource:reagent_c_t01": 7
       },
       "Result": "Defender:did_defenderpistol_basic_uc_t02"
     },
@@ -2372,10 +2372,10 @@
     "Tier": 2,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 1250,
-        "AccountResource:reagent_c_t01": 7,
+        "AccountResource:peoplexp": 2500,
+        "AccountResource:reagent_c_t01": 14,
         "AccountResource:reagent_people": 25,
-        "AccountResource:reagent_c_t02": 2
+        "AccountResource:reagent_c_t02": 5
       },
       "Result": "Defender:did_defenderpistol_basic_uc_t03"
     },
@@ -2421,8 +2421,8 @@
     "Tier": 1,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 1000,
-        "AccountResource:reagent_c_t01": 7,
+        "AccountResource:peoplexp": 2000,
+        "AccountResource:reagent_c_t01": 15,
         "AccountResource:reagent_people": 50
       },
       "Result": "Defender:did_defenderpistol_basic_vr_t02"
@@ -2449,10 +2449,10 @@
     "Tier": 2,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 2500,
-        "AccountResource:reagent_c_t01": 15,
+        "AccountResource:peoplexp": 5000,
+        "AccountResource:reagent_c_t01": 30,
         "AccountResource:reagent_people": 125,
-        "AccountResource:reagent_c_t02": 4
+        "AccountResource:reagent_c_t02": 9
       },
       "Result": "Defender:did_defenderpistol_basic_vr_t03"
     },
@@ -2478,11 +2478,11 @@
     "Tier": 3,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 4000,
-        "AccountResource:reagent_c_t01": 22,
+        "AccountResource:peoplexp": 8000,
+        "AccountResource:reagent_c_t01": 45,
         "AccountResource:reagent_people": 225,
-        "AccountResource:reagent_c_t02": 9,
-        "AccountResource:reagent_c_t03": 4
+        "AccountResource:reagent_c_t02": 18,
+        "AccountResource:reagent_c_t03": 9
       },
       "Result": "Defender:did_defenderpistol_basic_vr_t04"
     },
@@ -2508,12 +2508,12 @@
     "Tier": 4,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 5500,
-        "AccountResource:reagent_c_t01": 30,
+        "AccountResource:peoplexp": 11000,
+        "AccountResource:reagent_c_t01": 60,
         "AccountResource:reagent_people": 300,
-        "AccountResource:reagent_c_t02": 13,
-        "AccountResource:reagent_c_t03": 9,
-        "AccountResource:reagent_c_t04": 4
+        "AccountResource:reagent_c_t02": 27,
+        "AccountResource:reagent_c_t03": 18,
+        "AccountResource:reagent_c_t04": 9
       },
       "Result": "Defender:did_defenderpistol_basic_vr_t05"
     },
@@ -2554,8 +2554,8 @@
     "Tier": 1,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 1000,
-        "AccountResource:reagent_c_t01": 7,
+        "AccountResource:peoplexp": 2000,
+        "AccountResource:reagent_c_t01": 15,
         "AccountResource:reagent_people": 50
       },
       "Result": "Defender:did_defenderpistol_founders_vr_t02"
@@ -2577,10 +2577,10 @@
     "Tier": 2,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 2500,
-        "AccountResource:reagent_c_t01": 15,
+        "AccountResource:peoplexp": 5000,
+        "AccountResource:reagent_c_t01": 30,
         "AccountResource:reagent_people": 125,
-        "AccountResource:reagent_c_t02": 4
+        "AccountResource:reagent_c_t02": 9
       },
       "Result": "Defender:did_defenderpistol_founders_vr_t03"
     },
@@ -2601,11 +2601,11 @@
     "Tier": 3,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 4000,
-        "AccountResource:reagent_c_t01": 22,
+        "AccountResource:peoplexp": 8000,
+        "AccountResource:reagent_c_t01": 45,
         "AccountResource:reagent_people": 225,
-        "AccountResource:reagent_c_t02": 9,
-        "AccountResource:reagent_c_t03": 4
+        "AccountResource:reagent_c_t02": 18,
+        "AccountResource:reagent_c_t03": 9
       },
       "Result": "Defender:did_defenderpistol_founders_vr_t04"
     },
@@ -2626,12 +2626,12 @@
     "Tier": 4,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 5500,
-        "AccountResource:reagent_c_t01": 30,
+        "AccountResource:peoplexp": 11000,
+        "AccountResource:reagent_c_t01": 60,
         "AccountResource:reagent_people": 300,
-        "AccountResource:reagent_c_t02": 13,
-        "AccountResource:reagent_c_t03": 9,
-        "AccountResource:reagent_c_t04": 4
+        "AccountResource:reagent_c_t02": 27,
+        "AccountResource:reagent_c_t03": 18,
+        "AccountResource:reagent_c_t04": 9
       },
       "Result": "Defender:did_defenderpistol_founders_vr_t05"
     },
@@ -2671,8 +2671,8 @@
     "Tier": 1,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 250,
-        "AccountResource:reagent_c_t01": 2
+        "AccountResource:peoplexp": 500,
+        "AccountResource:reagent_c_t01": 5
       },
       "Result": "Defender:did_defendershotgun_basic_c_t02"
     },
@@ -2717,8 +2717,8 @@
     "Tier": 1,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 750,
-        "AccountResource:reagent_c_t01": 5,
+        "AccountResource:peoplexp": 1500,
+        "AccountResource:reagent_c_t01": 10,
         "AccountResource:reagent_people": 25
       },
       "Result": "Defender:did_defendershotgun_basic_f_r_t02"
@@ -2745,10 +2745,10 @@
     "Tier": 2,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 1875,
-        "AccountResource:reagent_c_t01": 10,
+        "AccountResource:peoplexp": 3750,
+        "AccountResource:reagent_c_t01": 20,
         "AccountResource:reagent_people": 75,
-        "AccountResource:reagent_c_t02": 3
+        "AccountResource:reagent_c_t02": 7
       },
       "Result": "Defender:did_defendershotgun_basic_f_r_t03"
     },
@@ -2774,11 +2774,11 @@
     "Tier": 3,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 3000,
-        "AccountResource:reagent_c_t01": 15,
+        "AccountResource:peoplexp": 6000,
+        "AccountResource:reagent_c_t01": 30,
         "AccountResource:reagent_people": 150,
-        "AccountResource:reagent_c_t02": 7,
-        "AccountResource:reagent_c_t03": 3
+        "AccountResource:reagent_c_t02": 14,
+        "AccountResource:reagent_c_t03": 7
       },
       "Result": "Defender:did_defendershotgun_basic_f_r_t04"
     },
@@ -2824,8 +2824,8 @@
     "Tier": 1,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 1250,
-        "AccountResource:reagent_c_t01": 10,
+        "AccountResource:peoplexp": 2500,
+        "AccountResource:reagent_c_t01": 20,
         "AccountResource:reagent_people": 75
       },
       "Result": "Defender:did_defendershotgun_basic_f_sr_t02"
@@ -2852,10 +2852,10 @@
     "Tier": 2,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 3125,
-        "AccountResource:reagent_c_t01": 20,
+        "AccountResource:peoplexp": 6250,
+        "AccountResource:reagent_c_t01": 40,
         "AccountResource:reagent_people": 200,
-        "AccountResource:reagent_c_t02": 5
+        "AccountResource:reagent_c_t02": 11
       },
       "Result": "Defender:did_defendershotgun_basic_f_sr_t03"
     },
@@ -2881,11 +2881,11 @@
     "Tier": 3,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 5000,
-        "AccountResource:reagent_c_t01": 30,
+        "AccountResource:peoplexp": 10000,
+        "AccountResource:reagent_c_t01": 60,
         "AccountResource:reagent_people": 325,
-        "AccountResource:reagent_c_t02": 11,
-        "AccountResource:reagent_c_t03": 5
+        "AccountResource:reagent_c_t02": 22,
+        "AccountResource:reagent_c_t03": 11
       },
       "Result": "Defender:did_defendershotgun_basic_f_sr_t04"
     },
@@ -2911,12 +2911,12 @@
     "Tier": 4,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 6875,
-        "AccountResource:reagent_c_t01": 40,
+        "AccountResource:peoplexp": 13750,
+        "AccountResource:reagent_c_t01": 80,
         "AccountResource:reagent_people": 450,
-        "AccountResource:reagent_c_t02": 16,
-        "AccountResource:reagent_c_t03": 11,
-        "AccountResource:reagent_c_t04": 5
+        "AccountResource:reagent_c_t02": 33,
+        "AccountResource:reagent_c_t03": 22,
+        "AccountResource:reagent_c_t04": 11
       },
       "Result": "Defender:did_defendershotgun_basic_f_sr_t05"
     },
@@ -2962,8 +2962,8 @@
     "Tier": 1,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 1000,
-        "AccountResource:reagent_c_t01": 7,
+        "AccountResource:peoplexp": 2000,
+        "AccountResource:reagent_c_t01": 15,
         "AccountResource:reagent_people": 50
       },
       "Result": "Defender:did_defendershotgun_basic_f_vr_t02"
@@ -2990,10 +2990,10 @@
     "Tier": 2,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 2500,
-        "AccountResource:reagent_c_t01": 15,
+        "AccountResource:peoplexp": 5000,
+        "AccountResource:reagent_c_t01": 30,
         "AccountResource:reagent_people": 125,
-        "AccountResource:reagent_c_t02": 4
+        "AccountResource:reagent_c_t02": 9
       },
       "Result": "Defender:did_defendershotgun_basic_f_vr_t03"
     },
@@ -3019,11 +3019,11 @@
     "Tier": 3,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 4000,
-        "AccountResource:reagent_c_t01": 22,
+        "AccountResource:peoplexp": 8000,
+        "AccountResource:reagent_c_t01": 45,
         "AccountResource:reagent_people": 225,
-        "AccountResource:reagent_c_t02": 9,
-        "AccountResource:reagent_c_t03": 4
+        "AccountResource:reagent_c_t02": 18,
+        "AccountResource:reagent_c_t03": 9
       },
       "Result": "Defender:did_defendershotgun_basic_f_vr_t04"
     },
@@ -3049,12 +3049,12 @@
     "Tier": 4,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 5500,
-        "AccountResource:reagent_c_t01": 30,
+        "AccountResource:peoplexp": 11000,
+        "AccountResource:reagent_c_t01": 60,
         "AccountResource:reagent_people": 300,
-        "AccountResource:reagent_c_t02": 13,
-        "AccountResource:reagent_c_t03": 9,
-        "AccountResource:reagent_c_t04": 4
+        "AccountResource:reagent_c_t02": 27,
+        "AccountResource:reagent_c_t03": 18,
+        "AccountResource:reagent_c_t04": 9
       },
       "Result": "Defender:did_defendershotgun_basic_f_vr_t05"
     },
@@ -3100,8 +3100,8 @@
     "Tier": 1,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 750,
-        "AccountResource:reagent_c_t01": 5,
+        "AccountResource:peoplexp": 1500,
+        "AccountResource:reagent_c_t01": 10,
         "AccountResource:reagent_people": 25
       },
       "Result": "Defender:did_defendershotgun_basic_r_t02"
@@ -3128,10 +3128,10 @@
     "Tier": 2,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 1875,
-        "AccountResource:reagent_c_t01": 10,
+        "AccountResource:peoplexp": 3750,
+        "AccountResource:reagent_c_t01": 20,
         "AccountResource:reagent_people": 75,
-        "AccountResource:reagent_c_t02": 3
+        "AccountResource:reagent_c_t02": 7
       },
       "Result": "Defender:did_defendershotgun_basic_r_t03"
     },
@@ -3157,11 +3157,11 @@
     "Tier": 3,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 3000,
-        "AccountResource:reagent_c_t01": 15,
+        "AccountResource:peoplexp": 6000,
+        "AccountResource:reagent_c_t01": 30,
         "AccountResource:reagent_people": 150,
-        "AccountResource:reagent_c_t02": 7,
-        "AccountResource:reagent_c_t03": 3
+        "AccountResource:reagent_c_t02": 14,
+        "AccountResource:reagent_c_t03": 7
       },
       "Result": "Defender:did_defendershotgun_basic_r_t04"
     },
@@ -3207,8 +3207,8 @@
     "Tier": 1,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 1250,
-        "AccountResource:reagent_c_t01": 10,
+        "AccountResource:peoplexp": 2500,
+        "AccountResource:reagent_c_t01": 20,
         "AccountResource:reagent_people": 75
       },
       "Result": "Defender:did_defendershotgun_basic_sr_t02"
@@ -3235,10 +3235,10 @@
     "Tier": 2,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 3125,
-        "AccountResource:reagent_c_t01": 20,
+        "AccountResource:peoplexp": 6250,
+        "AccountResource:reagent_c_t01": 40,
         "AccountResource:reagent_people": 200,
-        "AccountResource:reagent_c_t02": 5
+        "AccountResource:reagent_c_t02": 11
       },
       "Result": "Defender:did_defendershotgun_basic_sr_t03"
     },
@@ -3264,11 +3264,11 @@
     "Tier": 3,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 5000,
-        "AccountResource:reagent_c_t01": 30,
+        "AccountResource:peoplexp": 10000,
+        "AccountResource:reagent_c_t01": 60,
         "AccountResource:reagent_people": 325,
-        "AccountResource:reagent_c_t02": 11,
-        "AccountResource:reagent_c_t03": 5
+        "AccountResource:reagent_c_t02": 22,
+        "AccountResource:reagent_c_t03": 11
       },
       "Result": "Defender:did_defendershotgun_basic_sr_t04"
     },
@@ -3294,12 +3294,12 @@
     "Tier": 4,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 6875,
-        "AccountResource:reagent_c_t01": 40,
+        "AccountResource:peoplexp": 13750,
+        "AccountResource:reagent_c_t01": 80,
         "AccountResource:reagent_people": 450,
-        "AccountResource:reagent_c_t02": 16,
-        "AccountResource:reagent_c_t03": 11,
-        "AccountResource:reagent_c_t04": 5
+        "AccountResource:reagent_c_t02": 33,
+        "AccountResource:reagent_c_t03": 22,
+        "AccountResource:reagent_c_t04": 11
       },
       "Result": "Defender:did_defendershotgun_basic_sr_t05"
     },
@@ -3345,8 +3345,8 @@
     "Tier": 1,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 500,
-        "AccountResource:reagent_c_t01": 3
+        "AccountResource:peoplexp": 1000,
+        "AccountResource:reagent_c_t01": 7
       },
       "Result": "Defender:did_defendershotgun_basic_uc_t02"
     },
@@ -3372,10 +3372,10 @@
     "Tier": 2,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 1250,
-        "AccountResource:reagent_c_t01": 7,
+        "AccountResource:peoplexp": 2500,
+        "AccountResource:reagent_c_t01": 14,
         "AccountResource:reagent_people": 25,
-        "AccountResource:reagent_c_t02": 2
+        "AccountResource:reagent_c_t02": 5
       },
       "Result": "Defender:did_defendershotgun_basic_uc_t03"
     },
@@ -3421,8 +3421,8 @@
     "Tier": 1,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 1000,
-        "AccountResource:reagent_c_t01": 7,
+        "AccountResource:peoplexp": 2000,
+        "AccountResource:reagent_c_t01": 15,
         "AccountResource:reagent_people": 50
       },
       "Result": "Defender:did_defendershotgun_basic_vr_t02"
@@ -3449,10 +3449,10 @@
     "Tier": 2,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 2500,
-        "AccountResource:reagent_c_t01": 15,
+        "AccountResource:peoplexp": 5000,
+        "AccountResource:reagent_c_t01": 30,
         "AccountResource:reagent_people": 125,
-        "AccountResource:reagent_c_t02": 4
+        "AccountResource:reagent_c_t02": 9
       },
       "Result": "Defender:did_defendershotgun_basic_vr_t03"
     },
@@ -3478,11 +3478,11 @@
     "Tier": 3,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 4000,
-        "AccountResource:reagent_c_t01": 22,
+        "AccountResource:peoplexp": 8000,
+        "AccountResource:reagent_c_t01": 45,
         "AccountResource:reagent_people": 225,
-        "AccountResource:reagent_c_t02": 9,
-        "AccountResource:reagent_c_t03": 4
+        "AccountResource:reagent_c_t02": 18,
+        "AccountResource:reagent_c_t03": 9
       },
       "Result": "Defender:did_defendershotgun_basic_vr_t04"
     },
@@ -3508,12 +3508,12 @@
     "Tier": 4,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 5500,
-        "AccountResource:reagent_c_t01": 30,
+        "AccountResource:peoplexp": 11000,
+        "AccountResource:reagent_c_t01": 60,
         "AccountResource:reagent_people": 300,
-        "AccountResource:reagent_c_t02": 13,
-        "AccountResource:reagent_c_t03": 9,
-        "AccountResource:reagent_c_t04": 4
+        "AccountResource:reagent_c_t02": 27,
+        "AccountResource:reagent_c_t03": 18,
+        "AccountResource:reagent_c_t04": 9
       },
       "Result": "Defender:did_defendershotgun_basic_vr_t05"
     },
@@ -3558,8 +3558,8 @@
     "Tier": 1,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 250,
-        "AccountResource:reagent_c_t01": 2
+        "AccountResource:peoplexp": 500,
+        "AccountResource:reagent_c_t01": 5
       },
       "Result": "Defender:did_defendersniper_basic_c_t02"
     },
@@ -3604,8 +3604,8 @@
     "Tier": 1,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 750,
-        "AccountResource:reagent_c_t01": 5,
+        "AccountResource:peoplexp": 1500,
+        "AccountResource:reagent_c_t01": 10,
         "AccountResource:reagent_people": 25
       },
       "Result": "Defender:did_defendersniper_basic_m_r_t02"
@@ -3632,10 +3632,10 @@
     "Tier": 2,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 1875,
-        "AccountResource:reagent_c_t01": 10,
+        "AccountResource:peoplexp": 3750,
+        "AccountResource:reagent_c_t01": 20,
         "AccountResource:reagent_people": 75,
-        "AccountResource:reagent_c_t02": 3
+        "AccountResource:reagent_c_t02": 7
       },
       "Result": "Defender:did_defendersniper_basic_m_r_t03"
     },
@@ -3661,11 +3661,11 @@
     "Tier": 3,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 3000,
-        "AccountResource:reagent_c_t01": 15,
+        "AccountResource:peoplexp": 6000,
+        "AccountResource:reagent_c_t01": 30,
         "AccountResource:reagent_people": 150,
-        "AccountResource:reagent_c_t02": 7,
-        "AccountResource:reagent_c_t03": 3
+        "AccountResource:reagent_c_t02": 14,
+        "AccountResource:reagent_c_t03": 7
       },
       "Result": "Defender:did_defendersniper_basic_m_r_t04"
     },
@@ -3711,8 +3711,8 @@
     "Tier": 1,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 1250,
-        "AccountResource:reagent_c_t01": 10,
+        "AccountResource:peoplexp": 2500,
+        "AccountResource:reagent_c_t01": 20,
         "AccountResource:reagent_people": 75
       },
       "Result": "Defender:did_defendersniper_basic_m_sr_t02"
@@ -3739,10 +3739,10 @@
     "Tier": 2,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 3125,
-        "AccountResource:reagent_c_t01": 20,
+        "AccountResource:peoplexp": 6250,
+        "AccountResource:reagent_c_t01": 40,
         "AccountResource:reagent_people": 200,
-        "AccountResource:reagent_c_t02": 5
+        "AccountResource:reagent_c_t02": 11
       },
       "Result": "Defender:did_defendersniper_basic_m_sr_t03"
     },
@@ -3768,11 +3768,11 @@
     "Tier": 3,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 5000,
-        "AccountResource:reagent_c_t01": 30,
+        "AccountResource:peoplexp": 10000,
+        "AccountResource:reagent_c_t01": 60,
         "AccountResource:reagent_people": 325,
-        "AccountResource:reagent_c_t02": 11,
-        "AccountResource:reagent_c_t03": 5
+        "AccountResource:reagent_c_t02": 22,
+        "AccountResource:reagent_c_t03": 11
       },
       "Result": "Defender:did_defendersniper_basic_m_sr_t04"
     },
@@ -3798,12 +3798,12 @@
     "Tier": 4,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 6875,
-        "AccountResource:reagent_c_t01": 40,
+        "AccountResource:peoplexp": 13750,
+        "AccountResource:reagent_c_t01": 80,
         "AccountResource:reagent_people": 450,
-        "AccountResource:reagent_c_t02": 16,
-        "AccountResource:reagent_c_t03": 11,
-        "AccountResource:reagent_c_t04": 5
+        "AccountResource:reagent_c_t02": 33,
+        "AccountResource:reagent_c_t03": 22,
+        "AccountResource:reagent_c_t04": 11
       },
       "Result": "Defender:did_defendersniper_basic_m_sr_t05"
     },
@@ -3849,8 +3849,8 @@
     "Tier": 1,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 1000,
-        "AccountResource:reagent_c_t01": 7,
+        "AccountResource:peoplexp": 2000,
+        "AccountResource:reagent_c_t01": 15,
         "AccountResource:reagent_people": 50
       },
       "Result": "Defender:did_defendersniper_basic_m_vr_t02"
@@ -3877,10 +3877,10 @@
     "Tier": 2,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 2500,
-        "AccountResource:reagent_c_t01": 15,
+        "AccountResource:peoplexp": 5000,
+        "AccountResource:reagent_c_t01": 30,
         "AccountResource:reagent_people": 125,
-        "AccountResource:reagent_c_t02": 4
+        "AccountResource:reagent_c_t02": 9
       },
       "Result": "Defender:did_defendersniper_basic_m_vr_t03"
     },
@@ -3906,11 +3906,11 @@
     "Tier": 3,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 4000,
-        "AccountResource:reagent_c_t01": 22,
+        "AccountResource:peoplexp": 8000,
+        "AccountResource:reagent_c_t01": 45,
         "AccountResource:reagent_people": 225,
-        "AccountResource:reagent_c_t02": 9,
-        "AccountResource:reagent_c_t03": 4
+        "AccountResource:reagent_c_t02": 18,
+        "AccountResource:reagent_c_t03": 9
       },
       "Result": "Defender:did_defendersniper_basic_m_vr_t04"
     },
@@ -3936,12 +3936,12 @@
     "Tier": 4,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 5500,
-        "AccountResource:reagent_c_t01": 30,
+        "AccountResource:peoplexp": 11000,
+        "AccountResource:reagent_c_t01": 60,
         "AccountResource:reagent_people": 300,
-        "AccountResource:reagent_c_t02": 13,
-        "AccountResource:reagent_c_t03": 9,
-        "AccountResource:reagent_c_t04": 4
+        "AccountResource:reagent_c_t02": 27,
+        "AccountResource:reagent_c_t03": 18,
+        "AccountResource:reagent_c_t04": 9
       },
       "Result": "Defender:did_defendersniper_basic_m_vr_t05"
     },
@@ -3987,8 +3987,8 @@
     "Tier": 1,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 750,
-        "AccountResource:reagent_c_t01": 5,
+        "AccountResource:peoplexp": 1500,
+        "AccountResource:reagent_c_t01": 10,
         "AccountResource:reagent_people": 25
       },
       "Result": "Defender:did_defendersniper_basic_r_t02"
@@ -4015,10 +4015,10 @@
     "Tier": 2,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 1875,
-        "AccountResource:reagent_c_t01": 10,
+        "AccountResource:peoplexp": 3750,
+        "AccountResource:reagent_c_t01": 20,
         "AccountResource:reagent_people": 75,
-        "AccountResource:reagent_c_t02": 3
+        "AccountResource:reagent_c_t02": 7
       },
       "Result": "Defender:did_defendersniper_basic_r_t03"
     },
@@ -4044,11 +4044,11 @@
     "Tier": 3,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 3000,
-        "AccountResource:reagent_c_t01": 15,
+        "AccountResource:peoplexp": 6000,
+        "AccountResource:reagent_c_t01": 30,
         "AccountResource:reagent_people": 150,
-        "AccountResource:reagent_c_t02": 7,
-        "AccountResource:reagent_c_t03": 3
+        "AccountResource:reagent_c_t02": 14,
+        "AccountResource:reagent_c_t03": 7
       },
       "Result": "Defender:did_defendersniper_basic_r_t04"
     },
@@ -4094,8 +4094,8 @@
     "Tier": 1,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 1250,
-        "AccountResource:reagent_c_t01": 10,
+        "AccountResource:peoplexp": 2500,
+        "AccountResource:reagent_c_t01": 20,
         "AccountResource:reagent_people": 75
       },
       "Result": "Defender:did_defendersniper_basic_sr_t02"
@@ -4122,10 +4122,10 @@
     "Tier": 2,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 3125,
-        "AccountResource:reagent_c_t01": 20,
+        "AccountResource:peoplexp": 6250,
+        "AccountResource:reagent_c_t01": 40,
         "AccountResource:reagent_people": 200,
-        "AccountResource:reagent_c_t02": 5
+        "AccountResource:reagent_c_t02": 11
       },
       "Result": "Defender:did_defendersniper_basic_sr_t03"
     },
@@ -4151,11 +4151,11 @@
     "Tier": 3,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 5000,
-        "AccountResource:reagent_c_t01": 30,
+        "AccountResource:peoplexp": 10000,
+        "AccountResource:reagent_c_t01": 60,
         "AccountResource:reagent_people": 325,
-        "AccountResource:reagent_c_t02": 11,
-        "AccountResource:reagent_c_t03": 5
+        "AccountResource:reagent_c_t02": 22,
+        "AccountResource:reagent_c_t03": 11
       },
       "Result": "Defender:did_defendersniper_basic_sr_t04"
     },
@@ -4181,12 +4181,12 @@
     "Tier": 4,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 6875,
-        "AccountResource:reagent_c_t01": 40,
+        "AccountResource:peoplexp": 13750,
+        "AccountResource:reagent_c_t01": 80,
         "AccountResource:reagent_people": 450,
-        "AccountResource:reagent_c_t02": 16,
-        "AccountResource:reagent_c_t03": 11,
-        "AccountResource:reagent_c_t04": 5
+        "AccountResource:reagent_c_t02": 33,
+        "AccountResource:reagent_c_t03": 22,
+        "AccountResource:reagent_c_t04": 11
       },
       "Result": "Defender:did_defendersniper_basic_sr_t05"
     },
@@ -4232,8 +4232,8 @@
     "Tier": 1,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 500,
-        "AccountResource:reagent_c_t01": 3
+        "AccountResource:peoplexp": 1000,
+        "AccountResource:reagent_c_t01": 7
       },
       "Result": "Defender:did_defendersniper_basic_uc_t02"
     },
@@ -4259,10 +4259,10 @@
     "Tier": 2,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 1250,
-        "AccountResource:reagent_c_t01": 7,
+        "AccountResource:peoplexp": 2500,
+        "AccountResource:reagent_c_t01": 14,
         "AccountResource:reagent_people": 25,
-        "AccountResource:reagent_c_t02": 2
+        "AccountResource:reagent_c_t02": 5
       },
       "Result": "Defender:did_defendersniper_basic_uc_t03"
     },
@@ -4308,8 +4308,8 @@
     "Tier": 1,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 1000,
-        "AccountResource:reagent_c_t01": 7,
+        "AccountResource:peoplexp": 2000,
+        "AccountResource:reagent_c_t01": 15,
         "AccountResource:reagent_people": 50
       },
       "Result": "Defender:did_defendersniper_basic_vr_t02"
@@ -4336,10 +4336,10 @@
     "Tier": 2,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 2500,
-        "AccountResource:reagent_c_t01": 15,
+        "AccountResource:peoplexp": 5000,
+        "AccountResource:reagent_c_t01": 30,
         "AccountResource:reagent_people": 125,
-        "AccountResource:reagent_c_t02": 4
+        "AccountResource:reagent_c_t02": 9
       },
       "Result": "Defender:did_defendersniper_basic_vr_t03"
     },
@@ -4365,11 +4365,11 @@
     "Tier": 3,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 4000,
-        "AccountResource:reagent_c_t01": 22,
+        "AccountResource:peoplexp": 8000,
+        "AccountResource:reagent_c_t01": 45,
         "AccountResource:reagent_people": 225,
-        "AccountResource:reagent_c_t02": 9,
-        "AccountResource:reagent_c_t03": 4
+        "AccountResource:reagent_c_t02": 18,
+        "AccountResource:reagent_c_t03": 9
       },
       "Result": "Defender:did_defendersniper_basic_vr_t04"
     },
@@ -4395,12 +4395,12 @@
     "Tier": 4,
     "TierUpRecipe": {
       "Cost": {
-        "AccountResource:heroxp": 5500,
-        "AccountResource:reagent_c_t01": 30,
+        "AccountResource:peoplexp": 11000,
+        "AccountResource:reagent_c_t01": 60,
         "AccountResource:reagent_people": 300,
-        "AccountResource:reagent_c_t02": 13,
-        "AccountResource:reagent_c_t03": 9,
-        "AccountResource:reagent_c_t04": 4
+        "AccountResource:reagent_c_t02": 27,
+        "AccountResource:reagent_c_t03": 18,
+        "AccountResource:reagent_c_t04": 9
       },
       "Result": "Defender:did_defendersniper_basic_vr_t05"
     },

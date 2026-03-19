@@ -371,20 +371,6 @@
       "LargePreview": "ExportedImages\\T-HeroXP-L.png"
     }
   },
-  "AccountResource:honeyfiber_questresourcerewards": {
-    "Type": "AccountResource",
-    "Name": "HoneyFiber_QuestResourceRewards",
-    "DisplayName": "\u003CHoneyFiber_QuestResourceRewards\u003E",
-    "IsPermanent": true,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/battlepasss39_quests/content/items/persistentresources/honeyfiber/honeyfiber_questresourcerewards.uasset"
-  },
-  "AccountResource:honeyfiber_questrewards": {
-    "Type": "AccountResource",
-    "Name": "HoneyFiber_QuestRewards",
-    "DisplayName": "\u003CHoneyFiber_QuestRewards\u003E",
-    "IsPermanent": true,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/battlepasss39_quests/content/items/persistentresources/honeyfiber/honeyfiber_questrewards.uasset"
-  },
   "AccountResource:peopleresource": {
     "Type": "AccountResource",
     "Name": "PeopleResource",
@@ -396,6 +382,19 @@
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-People.png",
       "LargePreview": "ExportedImages\\T-Icon-People-L.png"
+    }
+  },
+  "AccountResource:peoplexp": {
+    "Type": "AccountResource",
+    "Name": "PeopleXP",
+    "DisplayName": "People XP",
+    "Description": "Used to level heroes, defenders and survivors. Can be found in llamas and by retiring heroes, defenders or survivors.",
+    "IsPermanent": true,
+    "Rarity": "Common",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/peoplexp.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T-CrewXP.png",
+      "LargePreview": "ExportedImages\\T-CrewXP-L.png"
     }
   },
   "AccountResource:personnelxp": {
@@ -709,6 +708,19 @@
       "LargePreview": "ExportedImages\\T-Items-Weapon-PromotionCurrency-L.png"
     }
   },
+  "AccountResource:reagent_schematic": {
+    "Type": "AccountResource",
+    "Name": "Reagent_Schematic",
+    "DisplayName": "Schematic Manuals",
+    "Description": "Manuals used to evolve weapons or traps. Found by recycling weapons and traps or as mission rewards.",
+    "IsPermanent": true,
+    "Rarity": "Common",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/reagent_schematic.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T-Items-Reagent-Weapons.png",
+      "LargePreview": "ExportedImages\\T-Items-Reagent-Weapons-L.png"
+    }
+  },
   "AccountResource:reagent_traps": {
     "Type": "AccountResource",
     "Name": "Reagent_Traps",
@@ -749,24 +761,9 @@
   "AccountResource:s39_eventcurrency": {
     "Type": "AccountResource",
     "Name": "S39_EventCurrency",
-    "DisplayName": "Cred",
+    "DisplayName": "\u003CS39_EventCurrency\u003E",
     "IsPermanent": true,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/battlepasss39_passquestprereqs/content/items/persistentresources/s39_eventcurrency.uasset",
-    "ImagePaths": {
-      "SmallPreview": "ExportedImages\\T_UI_Safflower_CurrencyIcon_128.png",
-      "LargePreview": "ExportedImages\\T_UI_Safflower_CurrencyIcon_128.png"
-    }
-  },
-  "AccountResource:s39_eventcurrency_granter": {
-    "Type": "AccountResource",
-    "Name": "S39_EventCurrency_Granter",
-    "DisplayName": "Cred",
-    "IsPermanent": true,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/battlepasss39_passquestprereqs/content/items/persistentresources/s39_eventcurrency_granter.uasset",
-    "ImagePaths": {
-      "SmallPreview": "ExportedImages\\T_UI_Safflower_CurrencyIcon_128.png",
-      "LargePreview": "ExportedImages\\T_UI_Safflower_CurrencyIcon_128.png"
-    }
+    "AssetPath": "fortnitegame/plugins/gamefeatures/battlepasss39_quests/content/items/persistentresources/honeyfiber/s39_eventcurrency.uasset"
   },
   "AccountResource:schematicxp": {
     "Type": "AccountResource",
@@ -846,26 +843,12 @@
       "LargePreview": "ExportedImages\\T-Items-DailyCoin-L.png"
     }
   },
-  "AccountResource:t_ui_safflower_chaserewardicon_128": {
-    "Type": "AccountResource",
-    "Name": "T_UI_Safflower_ChaseRewardIcon_128",
-    "DisplayName": "\u003CT_UI_Safflower_ChaseRewardIcon_128\u003E",
-    "IsPermanent": true,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/battlepasss39_passquestprereqs/content/items/persistentresources/t_ui_safflower_chaserewardicon_128.uasset"
-  },
-  "AccountResource:t_ui_safflower_currencyicon_128": {
-    "Type": "AccountResource",
-    "Name": "T_UI_Safflower_CurrencyIcon_128",
-    "DisplayName": "\u003CT_UI_Safflower_CurrencyIcon_128\u003E",
-    "IsPermanent": true,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/battlepasss39_passquestprereqs/content/items/persistentresources/t_ui_safflower_currencyicon_128.uasset"
-  },
   "AccountResource:t_ui_safflower_currencyicon1": {
     "Type": "AccountResource",
     "Name": "T_UI_Safflower_CurrencyIcon1",
     "DisplayName": "\u003CT_UI_Safflower_CurrencyIcon1\u003E",
     "IsPermanent": true,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/battlepasss39_passquestprereqs/content/items/persistentresources/t_ui_safflower_currencyicon1.uasset"
+    "AssetPath": "fortnitegame/plugins/gamefeatures/battlepasss39_quests/content/items/persistentresources/honeyfiber/t_ui_safflower_currencyicon1.uasset"
   },
   "AccountResource:voucher_basicpack": {
     "Type": "AccountResource",

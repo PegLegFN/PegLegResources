@@ -29,6 +29,16 @@
       "Icon": "ExportedImages\\T-Icon-4Player-FightTheStorm-Lvl1-128.png"
     }
   },
+  "MissionGen:missiongen_1gate_short_c": {
+    "Type": "MissionGen",
+    "Name": "MissionGen_1Gate_Short_C",
+    "DisplayName": "Fight the Storm",
+    "Description": "Find the target. Deploy the ATLAS. Fight the Storm!",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/world/missiongens/missiongen_1gate_short",
+    "ImagePaths": {
+      "Icon": "ExportedImages\\Icon-Mission-Gate1-XL.png"
+    }
+  },
   "MissionGen:missiongen_1gate_vlt_c": {
     "Type": "MissionGen",
     "Name": "MissionGen_1Gate_VLT_C",

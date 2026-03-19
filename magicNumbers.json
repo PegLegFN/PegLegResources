@@ -1,5 +1,5 @@
 {
-  "comment": "This file is for any data that Epic doesnt provide in the game files, or that are to inconvenient to extract from the game files",
+  "comment": "This file was originally for any data that Epic doesnt provide in the game files, or that are to inconvenient to extract from the game files, but is basically just used for Xp Cap stuff",
   "stwXPResetDay": 2,
   "playtimeXPResetDay": 4,
   "playtimeXPLimit": 4000000

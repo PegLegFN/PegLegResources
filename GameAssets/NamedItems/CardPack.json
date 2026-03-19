@@ -10505,61 +10505,61 @@
   "CardPack:zcp_heroxp_outpost_theater0": {
     "Type": "CardPack",
     "Name": "ZCP_HeroXP_Outpost_Theater0",
-    "DisplayName": "Hero XP",
-    "Description": "A bundle of xp used to upgrade your heroes. Harder missions give significantly higher quantities of resources!",
+    "DisplayName": "People XP",
+    "Description": "A bundle of XP used to upgrade your heroes and survivors. Harder missions give significantly higher quantities of resources!",
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/cardpacks/zonerewards/zcp_heroxp_outpost_theater0.uasset",
     "ImagePaths": {
-      "SmallPreview": "ExportedImages\\Icon-HeroXP-XL.png",
-      "LargePreview": "ExportedImages\\Icon-HeroXP-XL.png"
+      "SmallPreview": "ExportedImages\\Icon-CrewXP-XL.png",
+      "LargePreview": "ExportedImages\\Icon-CrewXP-XL.png"
     }
   },
   "CardPack:zcp_heroxp_outpost_theater1": {
     "Type": "CardPack",
     "Name": "ZCP_HeroXP_Outpost_Theater1",
-    "DisplayName": "Hero XP",
-    "Description": "A bundle of xp used to upgrade your heroes. Harder missions give significantly higher quantities of resources!",
+    "DisplayName": "People XP",
+    "Description": "A bundle of XP used to upgrade your heroes and survivors. Harder missions give significantly higher quantities of resources!",
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/cardpacks/zonerewards/zcp_heroxp_outpost_theater1.uasset",
     "ImagePaths": {
-      "SmallPreview": "ExportedImages\\Icon-HeroXP-XL.png",
-      "LargePreview": "ExportedImages\\Icon-HeroXP-XL.png"
+      "SmallPreview": "ExportedImages\\Icon-CrewXP-XL.png",
+      "LargePreview": "ExportedImages\\Icon-CrewXP-XL.png"
     }
   },
   "CardPack:zcp_heroxp_outpost_theater2": {
     "Type": "CardPack",
     "Name": "ZCP_HeroXP_Outpost_Theater2",
-    "DisplayName": "Hero XP",
-    "Description": "A bundle of xp used to upgrade your heroes. Harder missions give significantly higher quantities of resources!",
+    "DisplayName": "People XP",
+    "Description": "A bundle of XP used to upgrade your heroes and survivors. Harder missions give significantly higher quantities of resources!",
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/cardpacks/zonerewards/zcp_heroxp_outpost_theater2.uasset",
     "ImagePaths": {
-      "SmallPreview": "ExportedImages\\Icon-HeroXP-XL.png",
-      "LargePreview": "ExportedImages\\Icon-HeroXP-XL.png"
+      "SmallPreview": "ExportedImages\\Icon-CrewXP-XL.png",
+      "LargePreview": "ExportedImages\\Icon-CrewXP-XL.png"
     }
   },
   "CardPack:zcp_heroxp_outpost_theater3": {
     "Type": "CardPack",
     "Name": "ZCP_HeroXP_Outpost_Theater3",
-    "DisplayName": "Hero XP",
-    "Description": "A bundle of xp used to upgrade your heroes. Harder missions give significantly higher quantities of resources!",
+    "DisplayName": "People XP",
+    "Description": "A bundle of XP used to upgrade your heroes and survivors. Harder missions give significantly higher quantities of resources!",
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/cardpacks/zonerewards/zcp_heroxp_outpost_theater3.uasset",
     "ImagePaths": {
-      "SmallPreview": "ExportedImages\\Icon-HeroXP-XL.png",
-      "LargePreview": "ExportedImages\\Icon-HeroXP-XL.png"
+      "SmallPreview": "ExportedImages\\Icon-CrewXP-XL.png",
+      "LargePreview": "ExportedImages\\Icon-CrewXP-XL.png"
     }
   },
   "CardPack:zcp_heroxp_outpost_theater4": {
     "Type": "CardPack",
     "Name": "ZCP_HeroXP_Outpost_Theater4",
-    "DisplayName": "Hero XP",
-    "Description": "A bundle of xp used to upgrade your heroes. Harder missions give significantly higher quantities of resources!",
+    "DisplayName": "People XP",
+    "Description": "A bundle of XP used to upgrade your heroes and survivors. Harder missions give significantly higher quantities of resources!",
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/cardpacks/zonerewards/zcp_heroxp_outpost_theater4.uasset",
     "ImagePaths": {
-      "SmallPreview": "ExportedImages\\Icon-HeroXP-XL.png",
-      "LargePreview": "ExportedImages\\Icon-HeroXP-XL.png"
+      "SmallPreview": "ExportedImages\\Icon-CrewXP-XL.png",
+      "LargePreview": "ExportedImages\\Icon-CrewXP-XL.png"
     }
   },
   "CardPack:zcp_heroxp_t01": {
@@ -11621,8 +11621,8 @@
   "CardPack:zcp_personnelxp_t01": {
     "Type": "CardPack",
     "Name": "ZCP_PersonnelXP_T01",
-    "DisplayName": "Survivor XP",
-    "Description": "A bundle of XP used to upgrade your survivors. Harder missions give significantly higher quantities of resources!",
+    "DisplayName": "People XP",
+    "Description": "A bundle of XP used to upgrade your heroes and survivors. Harder missions give significantly higher quantities of resources!",
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/cardpacks/zonerewards/zcp_personnelxp_t01.uasset",
     "ImagePaths": {
@@ -11633,8 +11633,8 @@
   "CardPack:zcp_personnelxp_t02": {
     "Type": "CardPack",
     "Name": "ZCP_PersonnelXP_T02",
-    "DisplayName": "Survivor XP",
-    "Description": "A bundle of XP used to upgrade your survivors. Harder missions give significantly higher quantities of resources!",
+    "DisplayName": "People XP",
+    "Description": "A bundle of XP used to upgrade your heroes and survivors. Harder missions give significantly higher quantities of resources!",
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/cardpacks/zonerewards/zcp_personnelxp_t02.uasset",
     "ImagePaths": {
@@ -11645,8 +11645,8 @@
   "CardPack:zcp_personnelxp_t03": {
     "Type": "CardPack",
     "Name": "ZCP_PersonnelXP_T03",
-    "DisplayName": "Survivor XP",
-    "Description": "A bundle of XP used to upgrade your survivors. Harder missions give significantly higher quantities of resources!",
+    "DisplayName": "People XP",
+    "Description": "A bundle of XP used to upgrade your heroes and survivors. Harder missions give significantly higher quantities of resources!",
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/cardpacks/zonerewards/zcp_personnelxp_t03.uasset",
     "ImagePaths": {
@@ -11657,8 +11657,8 @@
   "CardPack:zcp_personnelxp_t04": {
     "Type": "CardPack",
     "Name": "ZCP_PersonnelXP_T04",
-    "DisplayName": "Survivor XP",
-    "Description": "A bundle of XP used to upgrade your survivors. Harder missions give significantly higher quantities of resources!",
+    "DisplayName": "People XP",
+    "Description": "A bundle of XP used to upgrade your heroes and survivors. Harder missions give significantly higher quantities of resources!",
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/cardpacks/zonerewards/zcp_personnelxp_t04.uasset",
     "ImagePaths": {
@@ -11669,8 +11669,8 @@
   "CardPack:zcp_personnelxp_t05": {
     "Type": "CardPack",
     "Name": "ZCP_PersonnelXP_T05",
-    "DisplayName": "Survivor XP",
-    "Description": "A bundle of XP used to upgrade your survivors. Harder missions give significantly higher quantities of resources!",
+    "DisplayName": "People XP",
+    "Description": "A bundle of XP used to upgrade your heroes and survivors. Harder missions give significantly higher quantities of resources!",
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/cardpacks/zonerewards/zcp_personnelxp_t05.uasset",
     "ImagePaths": {
@@ -11681,8 +11681,8 @@
   "CardPack:zcp_personnelxp_t06": {
     "Type": "CardPack",
     "Name": "ZCP_PersonnelXP_T06",
-    "DisplayName": "Survivor XP",
-    "Description": "A bundle of XP used to upgrade your survivors. Harder missions give significantly higher quantities of resources!",
+    "DisplayName": "People XP",
+    "Description": "A bundle of XP used to upgrade your heroes and survivors. Harder missions give significantly higher quantities of resources!",
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/cardpacks/zonerewards/zcp_personnelxp_t06.uasset",
     "ImagePaths": {
@@ -11693,8 +11693,8 @@
   "CardPack:zcp_personnelxp_t07": {
     "Type": "CardPack",
     "Name": "ZCP_PersonnelXP_T07",
-    "DisplayName": "Survivor XP",
-    "Description": "A bundle of XP used to upgrade your survivors. Harder missions give significantly higher quantities of resources!",
+    "DisplayName": "People XP",
+    "Description": "A bundle of XP used to upgrade your heroes and survivors. Harder missions give significantly higher quantities of resources!",
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/cardpacks/zonerewards/zcp_personnelxp_t07.uasset",
     "ImagePaths": {
@@ -11705,8 +11705,8 @@
   "CardPack:zcp_personnelxp_t08": {
     "Type": "CardPack",
     "Name": "ZCP_PersonnelXP_T08",
-    "DisplayName": "Survivor XP",
-    "Description": "A bundle of XP used to upgrade your survivors. Harder missions give significantly higher quantities of resources!",
+    "DisplayName": "People XP",
+    "Description": "A bundle of XP used to upgrade your heroes and survivors. Harder missions give significantly higher quantities of resources!",
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/cardpacks/zonerewards/zcp_personnelxp_t08.uasset",
     "ImagePaths": {
@@ -11717,8 +11717,8 @@
   "CardPack:zcp_personnelxp_t09": {
     "Type": "CardPack",
     "Name": "ZCP_PersonnelXP_T09",
-    "DisplayName": "Survivor XP",
-    "Description": "A bundle of XP used to upgrade your survivors. Harder missions give significantly higher quantities of resources!",
+    "DisplayName": "People XP",
+    "Description": "A bundle of XP used to upgrade your heroes and survivors. Harder missions give significantly higher quantities of resources!",
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/cardpacks/zonerewards/zcp_personnelxp_t09.uasset",
     "ImagePaths": {
@@ -11729,8 +11729,8 @@
   "CardPack:zcp_personnelxp_t10": {
     "Type": "CardPack",
     "Name": "ZCP_PersonnelXP_T10",
-    "DisplayName": "Survivor XP",
-    "Description": "A bundle of XP used to upgrade your survivors. Harder missions give significantly higher quantities of resources!",
+    "DisplayName": "People XP",
+    "Description": "A bundle of XP used to upgrade your heroes and survivors. Harder missions give significantly higher quantities of resources!",
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/cardpacks/zonerewards/zcp_personnelxp_t10.uasset",
     "ImagePaths": {
@@ -11741,8 +11741,8 @@
   "CardPack:zcp_personnelxp_t11": {
     "Type": "CardPack",
     "Name": "ZCP_PersonnelXP_T11",
-    "DisplayName": "Survivor XP",
-    "Description": "A bundle of XP used to upgrade your survivors. Harder missions give significantly higher quantities of resources!",
+    "DisplayName": "People XP",
+    "Description": "A bundle of XP used to upgrade your heroes and survivors. Harder missions give significantly higher quantities of resources!",
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/cardpacks/zonerewards/zcp_personnelxp_t11.uasset",
     "ImagePaths": {
@@ -11753,8 +11753,8 @@
   "CardPack:zcp_personnelxp_t12": {
     "Type": "CardPack",
     "Name": "ZCP_PersonnelXP_T12",
-    "DisplayName": "Survivor XP",
-    "Description": "A bundle of XP used to upgrade your survivors. Harder missions give significantly higher quantities of resources!",
+    "DisplayName": "People XP",
+    "Description": "A bundle of XP used to upgrade your heroes and survivors. Harder missions give significantly higher quantities of resources!",
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/cardpacks/zonerewards/zcp_personnelxp_t12.uasset",
     "ImagePaths": {
@@ -11765,8 +11765,8 @@
   "CardPack:zcp_personnelxp_t13": {
     "Type": "CardPack",
     "Name": "ZCP_PersonnelXP_T13",
-    "DisplayName": "Survivor XP",
-    "Description": "A bundle of XP used to upgrade your survivors. Harder missions give significantly higher quantities of resources!",
+    "DisplayName": "People XP",
+    "Description": "A bundle of XP used to upgrade your heroes and survivors. Harder missions give significantly higher quantities of resources!",
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/cardpacks/zonerewards/zcp_personnelxp_t13.uasset",
     "ImagePaths": {
@@ -11777,8 +11777,8 @@
   "CardPack:zcp_personnelxp_t14": {
     "Type": "CardPack",
     "Name": "ZCP_PersonnelXP_T14",
-    "DisplayName": "Survivor XP",
-    "Description": "A bundle of XP used to upgrade your survivors. Harder missions give significantly higher quantities of resources!",
+    "DisplayName": "People XP",
+    "Description": "A bundle of XP used to upgrade your heroes and survivors. Harder missions give significantly higher quantities of resources!",
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/cardpacks/zonerewards/zcp_personnelxp_t14.uasset",
     "ImagePaths": {
@@ -11789,8 +11789,8 @@
   "CardPack:zcp_personnelxp_t15": {
     "Type": "CardPack",
     "Name": "ZCP_PersonnelXP_T15",
-    "DisplayName": "Survivor XP",
-    "Description": "A bundle of XP used to upgrade your survivors. Harder missions give significantly higher quantities of resources!",
+    "DisplayName": "People XP",
+    "Description": "A bundle of XP used to upgrade your heroes and survivors. Harder missions give significantly higher quantities of resources!",
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/cardpacks/zonerewards/zcp_personnelxp_t15.uasset",
     "ImagePaths": {
@@ -11801,8 +11801,8 @@
   "CardPack:zcp_personnelxp_t16": {
     "Type": "CardPack",
     "Name": "ZCP_PersonnelXP_T16",
-    "DisplayName": "Survivor XP",
-    "Description": "A bundle of XP used to upgrade your survivors. Harder missions give significantly higher quantities of resources!",
+    "DisplayName": "People XP",
+    "Description": "A bundle of XP used to upgrade your heroes and survivors. Harder missions give significantly higher quantities of resources!",
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/cardpacks/zonerewards/zcp_personnelxp_t16.uasset",
     "ImagePaths": {
@@ -11813,8 +11813,8 @@
   "CardPack:zcp_personnelxp_t17": {
     "Type": "CardPack",
     "Name": "ZCP_PersonnelXP_T17",
-    "DisplayName": "Survivor XP",
-    "Description": "A bundle of XP used to upgrade your survivors. Harder missions give significantly higher quantities of resources!",
+    "DisplayName": "People XP",
+    "Description": "A bundle of XP used to upgrade your heroes and survivors. Harder missions give significantly higher quantities of resources!",
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/cardpacks/zonerewards/zcp_personnelxp_t17.uasset",
     "ImagePaths": {
@@ -11825,8 +11825,8 @@
   "CardPack:zcp_personnelxp_t18": {
     "Type": "CardPack",
     "Name": "ZCP_PersonnelXP_T18",
-    "DisplayName": "Survivor XP",
-    "Description": "A bundle of XP used to upgrade your survivors. Harder missions give significantly higher quantities of resources!",
+    "DisplayName": "People XP",
+    "Description": "A bundle of XP used to upgrade your heroes and survivors. Harder missions give significantly higher quantities of resources!",
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/cardpacks/zonerewards/zcp_personnelxp_t18.uasset",
     "ImagePaths": {
@@ -11837,8 +11837,8 @@
   "CardPack:zcp_personnelxp_t19": {
     "Type": "CardPack",
     "Name": "ZCP_PersonnelXP_T19",
-    "DisplayName": "Survivor XP",
-    "Description": "A bundle of XP used to upgrade your survivors. Harder missions give significantly higher quantities of resources!",
+    "DisplayName": "People XP",
+    "Description": "A bundle of XP used to upgrade your heroes and survivors. Harder missions give significantly higher quantities of resources!",
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/cardpacks/zonerewards/zcp_personnelxp_t19.uasset",
     "ImagePaths": {
@@ -11849,8 +11849,8 @@
   "CardPack:zcp_personnelxp_t20": {
     "Type": "CardPack",
     "Name": "ZCP_PersonnelXP_T20",
-    "DisplayName": "Survivor XP",
-    "Description": "A bundle of XP used to upgrade your survivors. Harder missions give significantly higher quantities of resources!",
+    "DisplayName": "People XP",
+    "Description": "A bundle of XP used to upgrade your heroes and survivors. Harder missions give significantly higher quantities of resources!",
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/cardpacks/zonerewards/zcp_personnelxp_t20.uasset",
     "ImagePaths": {
@@ -11861,8 +11861,8 @@
   "CardPack:zcp_personnelxp_t21": {
     "Type": "CardPack",
     "Name": "ZCP_PersonnelXP_T21",
-    "DisplayName": "Survivor XP",
-    "Description": "A bundle of XP used to upgrade your survivors. Harder missions give significantly higher quantities of resources!",
+    "DisplayName": "People XP",
+    "Description": "A bundle of XP used to upgrade your heroes and survivors. Harder missions give significantly higher quantities of resources!",
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/cardpacks/zonerewards/zcp_personnelxp_t21.uasset",
     "ImagePaths": {
@@ -11873,8 +11873,8 @@
   "CardPack:zcp_personnelxp_t22": {
     "Type": "CardPack",
     "Name": "ZCP_PersonnelXP_T22",
-    "DisplayName": "Survivor XP",
-    "Description": "A bundle of XP used to upgrade your survivors. Harder missions give significantly higher quantities of resources!",
+    "DisplayName": "People XP",
+    "Description": "A bundle of XP used to upgrade your heroes and survivors. Harder missions give significantly higher quantities of resources!",
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/cardpacks/zonerewards/zcp_personnelxp_t22.uasset",
     "ImagePaths": {
@@ -11885,8 +11885,8 @@
   "CardPack:zcp_personnelxp_t23": {
     "Type": "CardPack",
     "Name": "ZCP_PersonnelXP_T23",
-    "DisplayName": "Survivor XP",
-    "Description": "A bundle of XP used to upgrade your survivors. Harder missions give significantly higher quantities of resources!",
+    "DisplayName": "People XP",
+    "Description": "A bundle of XP used to upgrade your heroes and survivors. Harder missions give significantly higher quantities of resources!",
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/cardpacks/zonerewards/zcp_personnelxp_t23.uasset",
     "ImagePaths": {
@@ -11897,8 +11897,8 @@
   "CardPack:zcp_personnelxp_t24": {
     "Type": "CardPack",
     "Name": "ZCP_PersonnelXP_T24",
-    "DisplayName": "Survivor XP",
-    "Description": "A bundle of XP used to upgrade your survivors. Harder missions give significantly higher quantities of resources!",
+    "DisplayName": "People XP",
+    "Description": "A bundle of XP used to upgrade your heroes and survivors. Harder missions give significantly higher quantities of resources!",
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/cardpacks/zonerewards/zcp_personnelxp_t24.uasset",
     "ImagePaths": {
@@ -11909,8 +11909,8 @@
   "CardPack:zcp_personnelxp_t25": {
     "Type": "CardPack",
     "Name": "ZCP_PersonnelXP_T25",
-    "DisplayName": "Survivor XP",
-    "Description": "A bundle of XP used to upgrade your survivors. Harder missions give significantly higher quantities of resources!",
+    "DisplayName": "People XP",
+    "Description": "A bundle of XP used to upgrade your heroes and survivors. Harder missions give significantly higher quantities of resources!",
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/cardpacks/zonerewards/zcp_personnelxp_t25.uasset",
     "ImagePaths": {
@@ -11921,8 +11921,8 @@
   "CardPack:zcp_personnelxp_t26": {
     "Type": "CardPack",
     "Name": "ZCP_PersonnelXP_T26",
-    "DisplayName": "Survivor XP",
-    "Description": "A bundle of XP used to upgrade your survivors. Harder missions give significantly higher quantities of resources!",
+    "DisplayName": "People XP",
+    "Description": "A bundle of XP used to upgrade your heroes and survivors. Harder missions give significantly higher quantities of resources!",
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/cardpacks/zonerewards/zcp_personnelxp_t26.uasset",
     "ImagePaths": {

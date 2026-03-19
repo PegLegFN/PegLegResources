@@ -337,15 +337,15 @@
         ],
         [
           "Schematic:sid_blunt_hammer_boombox_sr_ore_t01",
-          "Schematic:sid_pistol_bone_pistol_sr_ore_t01"
+          "Schematic:sid_pistol_bone_pistol_vr_ore_t01"
         ],
         [
           "Hero:hid_commando_011_f_v1_roadtrip_sr_t01",
-          "Schematic:sid_smg_bone_sr_ore_t01"
+          "Schematic:sid_smg_bone_vr_ore_t01"
         ],
         [
           "Hero:hid_commando_gunheadshot_m_v1_roadtrip_sr_t01",
-          "Schematic:sid_assault_bone_sr_ore_t01"
+          "Schematic:sid_assault_bone_vr_ore_t01"
         ],
         [
           "Schematic:sid_pistol_boombox_sr_ore_t01",
@@ -358,7 +358,8 @@
           "description": "Search the newly discovered Blasted Badlands for a true hero.",
           "color": "#9fd3a0",
           "keyItems": [
-            "Hero:hid_ninja_040_dennis_sr_t01"
+            "Hero:hid_ninja_040_dennis_sr_t01",
+            "AccountResource:reagent_alteration_gameplay_generic"
           ],
           "endWeek": 5
         },
@@ -388,7 +389,7 @@
           "displayName": "Raptor Wrangler",
           "keyItems": [
             "Hero:hid_commando_047_prickly_patroller_sr_t01",
-            "Schematic:sid_shotgun_bone_sr_crystal_t04"
+            "Schematic:sid_shotgun_bone_vr_ore_t01"
           ],
           "startWeek": 7
         },
@@ -398,7 +399,7 @@
           "color": "#215bd9",
           "keyItems": [
             "Hero:hid_outlander_042_madcap_sr_t01",
-            "Hero:hid_outlander_043_madcommander_sr_t01"
+            "Hero:hid_outlander_043_madcommander_vr_t01"
           ],
           "startWeek": 7
         }
@@ -525,7 +526,7 @@
             "CardPack:cardpack_event_persistent_anniversary"
           ],
           "targetMonth": 7,
-          "targetDay": 7,
+          "targetDay": 25,
           "weekOfTarget": true,
           "free": true
         },
@@ -537,7 +538,7 @@
             "CardPack:cardpack_event_persistent_anniversary"
           ],
           "targetMonth": 7,
-          "targetDay": 7,
+          "targetDay": 25,
           "weekOfTarget": true
         },
         {
@@ -550,7 +551,7 @@
           ],
           "questGroup": "birthday",
           "targetMonth": 7,
-          "targetDay": 7,
+          "targetDay": 25,
           "weekdayOfTarget": 0
         },
         {
@@ -563,7 +564,7 @@
           ],
           "questGroup": "birthday",
           "targetMonth": 7,
-          "targetDay": 7,
+          "targetDay": 25,
           "weekdayOfTarget": 1
         },
         {
@@ -577,7 +578,7 @@
           ],
           "questGroup": "birthday",
           "targetMonth": 7,
-          "targetDay": 7,
+          "targetDay": 25,
           "weekdayOfTarget": 2
         },
         {
@@ -591,7 +592,7 @@
           ],
           "questGroup": "birthday",
           "targetMonth": 7,
-          "targetDay": 7,
+          "targetDay": 25,
           "weekdayOfTarget": 3
         },
         {
@@ -605,7 +606,7 @@
           ],
           "questGroup": "birthday",
           "targetMonth": 7,
-          "targetDay": 7,
+          "targetDay": 25,
           "weekdayOfTarget": 4
         },
         {
@@ -619,7 +620,7 @@
           ],
           "questGroup": "birthday",
           "targetMonth": 7,
-          "targetDay": 7,
+          "targetDay": 25,
           "weekdayOfTarget": 5
         },
         {
@@ -633,7 +634,7 @@
           ],
           "questGroup": "birthday",
           "targetMonth": 7,
-          "targetDay": 7,
+          "targetDay": 25,
           "weekdayOfTarget": 6
         }
       ]
@@ -685,7 +686,7 @@
         ],
         [
           "Schematic:sid_explosive_blackmetal_sr_ore_t01",
-          "Schematic:sid_sniper_invasion_railgun_sr_ore_t01"
+          "Schematic:sid_sniper_invasion_railgun_vr_ore_t01"
         ]
       ],
       "questlines": [
@@ -733,8 +734,8 @@
           "color": "#a5c69f",
           "keyItems": [
             "Hero:hid_constructor_41_alien_agent_sr_t01",
-            "Schematic:sid_assault_smg_invasion_raygun_sr_ore_t01",
-            "Schematic:sid_assault_invasion_pulserifle_sr_ore_t01"
+            "Schematic:sid_assault_invasion_pulserifle_vr_ore_t01",
+            "Schematic:sid_assault_smg_invasion_raygun_vr_ore_t01"
           ],
           "startWeek": 8
         }

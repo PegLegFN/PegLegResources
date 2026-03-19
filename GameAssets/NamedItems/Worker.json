@@ -82,7 +82,7 @@
     "SubType": "Doctor",
     "Description": "A lead survivor that provides increased power in the EMT Squad. Assign to a squad with survivors of the same personality type to increase the power they provide!",
     "LevelToXPRow": "Manager_Rare",
-    "Rarity": "Uncommon",
+    "Rarity": "Epic",
     "RecycleRecipe": {
       "Amount": 100,
       "Cost": {},
@@ -110,7 +110,7 @@
     "SubType": "Doctor",
     "Description": "A lead survivor that provides increased power in the EMT Squad. Assign to a squad with survivors of the same personality type to increase the power they provide!",
     "LevelToXPRow": "Manager_Rare",
-    "Rarity": "Uncommon",
+    "Rarity": "Epic",
     "RecycleRecipe": {
       "Amount": 100,
       "Cost": {},
@@ -139,7 +139,7 @@
     "SubType": "Doctor",
     "Description": "A lead survivor that provides increased power in the EMT Squad. Assign to a squad with survivors of the same personality type to increase the power they provide!",
     "LevelToXPRow": "Manager_Rare",
-    "Rarity": "Uncommon",
+    "Rarity": "Epic",
     "RecycleRecipe": {
       "Amount": 100,
       "Cost": {},
@@ -169,7 +169,7 @@
     "SubType": "Doctor",
     "Description": "A lead survivor that provides increased power in the EMT Squad. Assign to a squad with survivors of the same personality type to increase the power they provide!",
     "LevelToXPRow": "Manager_Rare",
-    "Rarity": "Uncommon",
+    "Rarity": "Epic",
     "RecycleRecipe": {
       "Amount": 100,
       "Cost": {},
@@ -200,7 +200,7 @@
     "SubType": "Doctor",
     "Description": "A lead survivor that provides increased power in the EMT Squad. Assign to a squad with survivors of the same personality type to increase the power they provide!",
     "LevelToXPRow": "Manager_Rare",
-    "Rarity": "Uncommon",
+    "Rarity": "Epic",
     "RecycleRecipe": {
       "Amount": 100,
       "Cost": {},
@@ -221,7 +221,7 @@
     "Description": "In addition to being an exceptional doctor, Mr. Kingsly is an eloquent speaker who won\u0027t back down in the face of opposition. Kingsly is a lead survivor that provides increased power in the EMT Squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsCompetitive",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -250,7 +250,7 @@
     "Description": "In addition to being an exceptional doctor, Mr. Kingsly is an eloquent speaker who won\u0027t back down in the face of opposition. Kingsly is a lead survivor that provides increased power in the EMT Squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsCompetitive",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -280,7 +280,7 @@
     "Description": "In addition to being an exceptional doctor, Mr. Kingsly is an eloquent speaker who won\u0027t back down in the face of opposition. Kingsly is a lead survivor that provides increased power in the EMT Squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsCompetitive",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -311,7 +311,7 @@
     "Description": "In addition to being an exceptional doctor, Mr. Kingsly is an eloquent speaker who won\u0027t back down in the face of opposition. Kingsly is a lead survivor that provides increased power in the EMT Squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsCompetitive",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -343,7 +343,7 @@
     "Description": "In addition to being an exceptional doctor, Mr. Kingsly is an eloquent speaker who won\u0027t back down in the face of opposition. Kingsly is a lead survivor that provides increased power in the EMT Squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsCompetitive",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -364,7 +364,7 @@
     "Description": "Cagey and challenging to work with, Dr. Holmes is nonetheless a brilliant doctor who thinks outside the box. Noctor is a lead survivor that provides increased power in the EMT Squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsAnalytical",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -393,7 +393,7 @@
     "Description": "Cagey and challenging to work with, Dr. Holmes is nonetheless a brilliant doctor who thinks outside the box. Noctor is a lead survivor that provides increased power in the EMT Squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsAnalytical",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -423,7 +423,7 @@
     "Description": "Cagey and challenging to work with, Dr. Holmes is nonetheless a brilliant doctor who thinks outside the box. Noctor is a lead survivor that provides increased power in the EMT Squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsAnalytical",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -454,7 +454,7 @@
     "Description": "Cagey and challenging to work with, Dr. Holmes is nonetheless a brilliant doctor who thinks outside the box. Noctor is a lead survivor that provides increased power in the EMT Squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsAnalytical",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -486,7 +486,7 @@
     "Description": "Cagey and challenging to work with, Dr. Holmes is nonetheless a brilliant doctor who thinks outside the box. Noctor is a lead survivor that provides increased power in the EMT Squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsAnalytical",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -507,7 +507,7 @@
     "Description": "May\u0027s an accomplished and versatile doctor capable of performing any task that stands before her. Treky is a lead survivor that provides increased power in the EMT Squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsPragmatic",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -536,7 +536,7 @@
     "Description": "May\u0027s an accomplished and versatile doctor capable of performing any task that stands before her. Treky is a lead survivor that provides increased power in the EMT Squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsPragmatic",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -566,7 +566,7 @@
     "Description": "May\u0027s an accomplished and versatile doctor capable of performing any task that stands before her. Treky is a lead survivor that provides increased power in the EMT Squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsPragmatic",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -597,7 +597,7 @@
     "Description": "May\u0027s an accomplished and versatile doctor capable of performing any task that stands before her. Treky is a lead survivor that provides increased power in the EMT Squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsPragmatic",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -629,7 +629,7 @@
     "Description": "May\u0027s an accomplished and versatile doctor capable of performing any task that stands before her. Treky is a lead survivor that provides increased power in the EMT Squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsPragmatic",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -649,7 +649,7 @@
     "SubType": "Doctor",
     "Description": "A lead survivor that provides increased power in the EMT Squad. Assign to a squad with survivors of the same personality type to increase the power they provide!",
     "LevelToXPRow": "Manager_Uncommon",
-    "Rarity": "Uncommon",
+    "Rarity": "Rare",
     "RecycleRecipe": {
       "Amount": 25,
       "Cost": {},
@@ -677,7 +677,7 @@
     "SubType": "Doctor",
     "Description": "A lead survivor that provides increased power in the EMT Squad. Assign to a squad with survivors of the same personality type to increase the power they provide!",
     "LevelToXPRow": "Manager_Uncommon",
-    "Rarity": "Uncommon",
+    "Rarity": "Rare",
     "RecycleRecipe": {
       "Amount": 25,
       "Cost": {},
@@ -706,7 +706,7 @@
     "SubType": "Doctor",
     "Description": "A lead survivor that provides increased power in the EMT Squad. Assign to a squad with survivors of the same personality type to increase the power they provide!",
     "LevelToXPRow": "Manager_Uncommon",
-    "Rarity": "Uncommon",
+    "Rarity": "Rare",
     "RecycleRecipe": {
       "Amount": 25,
       "Cost": {},
@@ -736,7 +736,7 @@
     "SubType": "Doctor",
     "Description": "A lead survivor that provides increased power in the EMT Squad. Assign to a squad with survivors of the same personality type to increase the power they provide!",
     "LevelToXPRow": "Manager_Uncommon",
-    "Rarity": "Uncommon",
+    "Rarity": "Rare",
     "RecycleRecipe": {
       "Amount": 25,
       "Cost": {},
@@ -756,7 +756,7 @@
     "SubType": "Doctor",
     "Description": "A lead survivor that provides increased power in the EMT Squad. Assign to a squad with survivors of the same personality type to increase the power they provide!",
     "LevelToXPRow": "Manager_VeryRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Legendary",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -784,7 +784,7 @@
     "SubType": "Doctor",
     "Description": "A lead survivor that provides increased power in the EMT Squad. Assign to a squad with survivors of the same personality type to increase the power they provide!",
     "LevelToXPRow": "Manager_VeryRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Legendary",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -813,7 +813,7 @@
     "SubType": "Doctor",
     "Description": "A lead survivor that provides increased power in the EMT Squad. Assign to a squad with survivors of the same personality type to increase the power they provide!",
     "LevelToXPRow": "Manager_VeryRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Legendary",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -843,7 +843,7 @@
     "SubType": "Doctor",
     "Description": "A lead survivor that provides increased power in the EMT Squad. Assign to a squad with survivors of the same personality type to increase the power they provide!",
     "LevelToXPRow": "Manager_VeryRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Legendary",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -874,7 +874,7 @@
     "SubType": "Doctor",
     "Description": "A lead survivor that provides increased power in the EMT Squad. Assign to a squad with survivors of the same personality type to increase the power they provide!",
     "LevelToXPRow": "Manager_VeryRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Legendary",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -970,7 +970,7 @@
     "SubType": "Engineer",
     "Description": "A lead survivor that provides increased power in the Corps of Engineering squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_Rare",
-    "Rarity": "Uncommon",
+    "Rarity": "Epic",
     "RecycleRecipe": {
       "Amount": 100,
       "Cost": {},
@@ -998,7 +998,7 @@
     "SubType": "Engineer",
     "Description": "A lead survivor that provides increased power in the Corps of Engineering squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_Rare",
-    "Rarity": "Uncommon",
+    "Rarity": "Epic",
     "RecycleRecipe": {
       "Amount": 100,
       "Cost": {},
@@ -1027,7 +1027,7 @@
     "SubType": "Engineer",
     "Description": "A lead survivor that provides increased power in the Corps of Engineering squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_Rare",
-    "Rarity": "Uncommon",
+    "Rarity": "Epic",
     "RecycleRecipe": {
       "Amount": 100,
       "Cost": {},
@@ -1057,7 +1057,7 @@
     "SubType": "Engineer",
     "Description": "A lead survivor that provides increased power in the Corps of Engineering squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_Rare",
-    "Rarity": "Uncommon",
+    "Rarity": "Epic",
     "RecycleRecipe": {
       "Amount": 100,
       "Cost": {},
@@ -1088,7 +1088,7 @@
     "SubType": "Engineer",
     "Description": "A lead survivor that provides increased power in the Corps of Engineering squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_Rare",
-    "Rarity": "Uncommon",
+    "Rarity": "Epic",
     "RecycleRecipe": {
       "Amount": 100,
       "Cost": {},
@@ -1109,7 +1109,7 @@
     "Description": "Equally known for her regal demeanour and intelligence, Countess is one of the key engineers behind Vindertech\u0027s systems. Countess is a lead survivor that provides increased power in the Corps of Engineering squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsPragmatic",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -1138,7 +1138,7 @@
     "Description": "Equally known for her regal demeanour and intelligence, Countess is one of the key engineers behind Vindertech\u0027s systems. Countess is a lead survivor that provides increased power in the Corps of Engineering squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsPragmatic",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -1168,7 +1168,7 @@
     "Description": "Equally known for her regal demeanour and intelligence, Countess is one of the key engineers behind Vindertech\u0027s systems. Countess is a lead survivor that provides increased power in the Corps of Engineering squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsPragmatic",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -1199,7 +1199,7 @@
     "Description": "Equally known for her regal demeanour and intelligence, Countess is one of the key engineers behind Vindertech\u0027s systems. Countess is a lead survivor that provides increased power in the Corps of Engineering squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsPragmatic",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -1231,7 +1231,7 @@
     "Description": "Equally known for her regal demeanour and intelligence, Countess is one of the key engineers behind Vindertech\u0027s systems. Countess is a lead survivor that provides increased power in the Corps of Engineering squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsPragmatic",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -1252,7 +1252,7 @@
     "Description": "One of the smartest people on the planet, Emma earned the nickname \u0022Maths\u0027 as a kid because her friends joked she could probably figure out a way to kill them with numbers. Maths is a lead survivor that provides increased power in the Corps of Engineering squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsAnalytical",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -1281,7 +1281,7 @@
     "Description": "One of the smartest people on the planet, Emma earned the nickname \u0022Maths\u0027 as a kid because her friends joked she could probably figure out a way to kill them with numbers. Maths is a lead survivor that provides increased power in the Corps of Engineering squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsAnalytical",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -1311,7 +1311,7 @@
     "Description": "One of the smartest people on the planet, Emma earned the nickname \u0022Maths\u0027 as a kid because her friends joked she could probably figure out a way to kill them with numbers. Maths is a lead survivor that provides increased power in the Corps of Engineering squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsAnalytical",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -1342,7 +1342,7 @@
     "Description": "One of the smartest people on the planet, Emma earned the nickname \u0022Maths\u0027 as a kid because her friends joked she could probably figure out a way to kill them with numbers. Maths is a lead survivor that provides increased power in the Corps of Engineering squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsAnalytical",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -1374,7 +1374,7 @@
     "Description": "One of the smartest people on the planet, Emma earned the nickname \u0022Maths\u0027 as a kid because her friends joked she could probably figure out a way to kill them with numbers. Maths is a lead survivor that provides increased power in the Corps of Engineering squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsAnalytical",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -1395,7 +1395,7 @@
     "Description": "A dreamer driven by a great mind, Mr. Sobs is an engineering powerhouse. Jeev is a lead survivor that provides increased power in the Corps of Engineering squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsDreamer",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -1424,7 +1424,7 @@
     "Description": "A dreamer driven by a great mind, Mr. Sobs is an engineering powerhouse. Jeev is a lead survivor that provides increased power in the Corps of Engineering squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsDreamer",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -1454,7 +1454,7 @@
     "Description": "A dreamer driven by a great mind, Mr. Sobs is an engineering powerhouse. Jeev is a lead survivor that provides increased power in the Corps of Engineering squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsDreamer",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -1485,7 +1485,7 @@
     "Description": "A dreamer driven by a great mind, Mr. Sobs is an engineering powerhouse. Jeev is a lead survivor that provides increased power in the Corps of Engineering squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsDreamer",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -1517,7 +1517,7 @@
     "Description": "A dreamer driven by a great mind, Mr. Sobs is an engineering powerhouse. Jeev is a lead survivor that provides increased power in the Corps of Engineering squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsDreamer",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -1537,7 +1537,7 @@
     "SubType": "Engineer",
     "Description": "A lead survivor that provides increased power in the Corps of Engineering squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_Uncommon",
-    "Rarity": "Uncommon",
+    "Rarity": "Rare",
     "RecycleRecipe": {
       "Amount": 25,
       "Cost": {},
@@ -1565,7 +1565,7 @@
     "SubType": "Engineer",
     "Description": "A lead survivor that provides increased power in the Corps of Engineering squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_Uncommon",
-    "Rarity": "Uncommon",
+    "Rarity": "Rare",
     "RecycleRecipe": {
       "Amount": 25,
       "Cost": {},
@@ -1594,7 +1594,7 @@
     "SubType": "Engineer",
     "Description": "A lead survivor that provides increased power in the Corps of Engineering squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_Uncommon",
-    "Rarity": "Uncommon",
+    "Rarity": "Rare",
     "RecycleRecipe": {
       "Amount": 25,
       "Cost": {},
@@ -1624,7 +1624,7 @@
     "SubType": "Engineer",
     "Description": "A lead survivor that provides increased power in the Corps of Engineering squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_Uncommon",
-    "Rarity": "Uncommon",
+    "Rarity": "Rare",
     "RecycleRecipe": {
       "Amount": 25,
       "Cost": {},
@@ -1644,7 +1644,7 @@
     "SubType": "Engineer",
     "Description": "A lead survivor that provides increased power in the Corps of Engineering squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_VeryRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Legendary",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -1672,7 +1672,7 @@
     "SubType": "Engineer",
     "Description": "A lead survivor that provides increased power in the Corps of Engineering squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_VeryRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Legendary",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -1701,7 +1701,7 @@
     "SubType": "Engineer",
     "Description": "A lead survivor that provides increased power in the Corps of Engineering squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_VeryRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Legendary",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -1731,7 +1731,7 @@
     "SubType": "Engineer",
     "Description": "A lead survivor that provides increased power in the Corps of Engineering squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_VeryRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Legendary",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -1762,7 +1762,7 @@
     "SubType": "Engineer",
     "Description": "A lead survivor that provides increased power in the Corps of Engineering squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_VeryRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Legendary",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -1858,7 +1858,7 @@
     "SubType": "Explorer",
     "Description": "A lead survivor that provides increased power in the Scouting Party squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_Rare",
-    "Rarity": "Uncommon",
+    "Rarity": "Epic",
     "RecycleRecipe": {
       "Amount": 100,
       "Cost": {},
@@ -1886,7 +1886,7 @@
     "SubType": "Explorer",
     "Description": "A lead survivor that provides increased power in the Scouting Party squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_Rare",
-    "Rarity": "Uncommon",
+    "Rarity": "Epic",
     "RecycleRecipe": {
       "Amount": 100,
       "Cost": {},
@@ -1915,7 +1915,7 @@
     "SubType": "Explorer",
     "Description": "A lead survivor that provides increased power in the Scouting Party squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_Rare",
-    "Rarity": "Uncommon",
+    "Rarity": "Epic",
     "RecycleRecipe": {
       "Amount": 100,
       "Cost": {},
@@ -1945,7 +1945,7 @@
     "SubType": "Explorer",
     "Description": "A lead survivor that provides increased power in the Scouting Party squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_Rare",
-    "Rarity": "Uncommon",
+    "Rarity": "Epic",
     "RecycleRecipe": {
       "Amount": 100,
       "Cost": {},
@@ -1976,7 +1976,7 @@
     "SubType": "Explorer",
     "Description": "A lead survivor that provides increased power in the Scouting Party squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_Rare",
-    "Rarity": "Uncommon",
+    "Rarity": "Epic",
     "RecycleRecipe": {
       "Amount": 100,
       "Cost": {},
@@ -1997,7 +1997,7 @@
     "Description": "Saka is one of the most experienced explorers alive. It\u0027s said she glides like a bird across the land. Saka is a lead survivor that provides increased power in the Scouting Party squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsCurious",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -2026,7 +2026,7 @@
     "Description": "Saka is one of the most experienced explorers alive. It\u0027s said she glides like a bird across the land. Saka is a lead survivor that provides increased power in the Scouting Party squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsCurious",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -2056,7 +2056,7 @@
     "Description": "Saka is one of the most experienced explorers alive. It\u0027s said she glides like a bird across the land. Saka is a lead survivor that provides increased power in the Scouting Party squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsCurious",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -2087,7 +2087,7 @@
     "Description": "Saka is one of the most experienced explorers alive. It\u0027s said she glides like a bird across the land. Saka is a lead survivor that provides increased power in the Scouting Party squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsCurious",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -2119,7 +2119,7 @@
     "Description": "Saka is one of the most experienced explorers alive. It\u0027s said she glides like a bird across the land. Saka is a lead survivor that provides increased power in the Scouting Party squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsCurious",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -2140,7 +2140,7 @@
     "Description": "As a child, Amy dreamed of soaring through the skies like an eagle, and that drive led to her becoming an expert explorer. Eagle is a lead survivor that provides increased power in the Scouting Party squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsAdventurous",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -2169,7 +2169,7 @@
     "Description": "As a child, Amy dreamed of soaring through the skies like an eagle, and that drive led to her becoming an expert explorer. Eagle is a lead survivor that provides increased power in the Scouting Party squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsAdventurous",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -2199,7 +2199,7 @@
     "Description": "As a child, Amy dreamed of soaring through the skies like an eagle, and that drive led to her becoming an expert explorer. Eagle is a lead survivor that provides increased power in the Scouting Party squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsAdventurous",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -2230,7 +2230,7 @@
     "Description": "As a child, Amy dreamed of soaring through the skies like an eagle, and that drive led to her becoming an expert explorer. Eagle is a lead survivor that provides increased power in the Scouting Party squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsAdventurous",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -2262,7 +2262,7 @@
     "Description": "As a child, Amy dreamed of soaring through the skies like an eagle, and that drive led to her becoming an expert explorer. Eagle is a lead survivor that provides increased power in the Scouting Party squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsAdventurous",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -2283,7 +2283,7 @@
     "Description": "Ned is often credited as the first man to walk on Venus, but naysayers doubt the truth of his legacy. Spacebound is a lead survivor that provides increased power in the Scouting Party squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsDreamer",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -2312,7 +2312,7 @@
     "Description": "Ned is often credited as the first man to walk on Venus, but naysayers doubt the truth of his legacy. Spacebound is a lead survivor that provides increased power in the Scouting Party squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsDreamer",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -2342,7 +2342,7 @@
     "Description": "Ned is often credited as the first man to walk on Venus, but naysayers doubt the truth of his legacy. Spacebound is a lead survivor that provides increased power in the Scouting Party squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsDreamer",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -2373,7 +2373,7 @@
     "Description": "Ned is often credited as the first man to walk on Venus, but naysayers doubt the truth of his legacy. Spacebound is a lead survivor that provides increased power in the Scouting Party squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsDreamer",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -2405,7 +2405,7 @@
     "Description": "Ned is often credited as the first man to walk on Venus, but naysayers doubt the truth of his legacy. Spacebound is a lead survivor that provides increased power in the Scouting Party squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsDreamer",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -2425,7 +2425,7 @@
     "SubType": "Explorer",
     "Description": "A lead survivor that provides increased power in the Scouting Party squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_Uncommon",
-    "Rarity": "Uncommon",
+    "Rarity": "Rare",
     "RecycleRecipe": {
       "Amount": 25,
       "Cost": {},
@@ -2453,7 +2453,7 @@
     "SubType": "Explorer",
     "Description": "A lead survivor that provides increased power in the Scouting Party squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_Uncommon",
-    "Rarity": "Uncommon",
+    "Rarity": "Rare",
     "RecycleRecipe": {
       "Amount": 25,
       "Cost": {},
@@ -2482,7 +2482,7 @@
     "SubType": "Explorer",
     "Description": "A lead survivor that provides increased power in the Scouting Party squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_Uncommon",
-    "Rarity": "Uncommon",
+    "Rarity": "Rare",
     "RecycleRecipe": {
       "Amount": 25,
       "Cost": {},
@@ -2512,7 +2512,7 @@
     "SubType": "Explorer",
     "Description": "A lead survivor that provides increased power in the Scouting Party squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_Uncommon",
-    "Rarity": "Uncommon",
+    "Rarity": "Rare",
     "RecycleRecipe": {
       "Amount": 25,
       "Cost": {},
@@ -2532,7 +2532,7 @@
     "SubType": "Explorer",
     "Description": "A lead survivor that provides increased power in the Scouting Party squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_VeryRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Legendary",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -2560,7 +2560,7 @@
     "SubType": "Explorer",
     "Description": "A lead survivor that provides increased power in the Scouting Party squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_VeryRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Legendary",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -2589,7 +2589,7 @@
     "SubType": "Explorer",
     "Description": "A lead survivor that provides increased power in the Scouting Party squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_VeryRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Legendary",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -2619,7 +2619,7 @@
     "SubType": "Explorer",
     "Description": "A lead survivor that provides increased power in the Scouting Party squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_VeryRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Legendary",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -2650,7 +2650,7 @@
     "SubType": "Explorer",
     "Description": "A lead survivor that provides increased power in the Scouting Party squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_VeryRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Legendary",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -2746,7 +2746,7 @@
     "SubType": "Gadgeteer",
     "Description": "A lead survivor that provides increased power in the Gadgeteers squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_Rare",
-    "Rarity": "Uncommon",
+    "Rarity": "Epic",
     "RecycleRecipe": {
       "Amount": 100,
       "Cost": {},
@@ -2774,7 +2774,7 @@
     "SubType": "Gadgeteer",
     "Description": "A lead survivor that provides increased power in the Gadgeteers squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_Rare",
-    "Rarity": "Uncommon",
+    "Rarity": "Epic",
     "RecycleRecipe": {
       "Amount": 100,
       "Cost": {},
@@ -2803,7 +2803,7 @@
     "SubType": "Gadgeteer",
     "Description": "A lead survivor that provides increased power in the Gadgeteers squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_Rare",
-    "Rarity": "Uncommon",
+    "Rarity": "Epic",
     "RecycleRecipe": {
       "Amount": 100,
       "Cost": {},
@@ -2833,7 +2833,7 @@
     "SubType": "Gadgeteer",
     "Description": "A lead survivor that provides increased power in the Gadgeteers squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_Rare",
-    "Rarity": "Uncommon",
+    "Rarity": "Epic",
     "RecycleRecipe": {
       "Amount": 100,
       "Cost": {},
@@ -2864,7 +2864,7 @@
     "SubType": "Gadgeteer",
     "Description": "A lead survivor that provides increased power in the Gadgeteers squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_Rare",
-    "Rarity": "Uncommon",
+    "Rarity": "Epic",
     "RecycleRecipe": {
       "Amount": 100,
       "Cost": {},
@@ -2885,7 +2885,7 @@
     "Description": "After spending countless hours tinkering in his lab, Hamlet discovered that all problems can be solved with some duct tape and a paper clip. Fixer is a lead survivor that provides increased power in the Gadgeteers squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsAnalytical",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -2914,7 +2914,7 @@
     "Description": "After spending countless hours tinkering in his lab, Hamlet discovered that all problems can be solved with some duct tape and a paper clip. Fixer is a lead survivor that provides increased power in the Gadgeteers squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsAnalytical",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -2944,7 +2944,7 @@
     "Description": "After spending countless hours tinkering in his lab, Hamlet discovered that all problems can be solved with some duct tape and a paper clip. Fixer is a lead survivor that provides increased power in the Gadgeteers squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsAnalytical",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -2975,7 +2975,7 @@
     "Description": "After spending countless hours tinkering in his lab, Hamlet discovered that all problems can be solved with some duct tape and a paper clip. Fixer is a lead survivor that provides increased power in the Gadgeteers squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsAnalytical",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -3007,7 +3007,7 @@
     "Description": "After spending countless hours tinkering in his lab, Hamlet discovered that all problems can be solved with some duct tape and a paper clip. Fixer is a lead survivor that provides increased power in the Gadgeteers squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsAnalytical",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -3028,7 +3028,7 @@
     "Description": "Known for making tremendous advances in personal safety technology, Kelly doesn\u0027t take flak from anyone. Kelly is a lead survivor that provides increased power in the Gadgeteers squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsDependable",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -3057,7 +3057,7 @@
     "Description": "Known for making tremendous advances in personal safety technology, Kelly doesn\u0027t take flak from anyone. Kelly is a lead survivor that provides increased power in the Gadgeteers squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsDependable",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -3087,7 +3087,7 @@
     "Description": "Known for making tremendous advances in personal safety technology, Kelly doesn\u0027t take flak from anyone. Kelly is a lead survivor that provides increased power in the Gadgeteers squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsDependable",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -3118,7 +3118,7 @@
     "Description": "Known for making tremendous advances in personal safety technology, Kelly doesn\u0027t take flak from anyone. Kelly is a lead survivor that provides increased power in the Gadgeteers squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsDependable",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -3150,7 +3150,7 @@
     "Description": "Known for making tremendous advances in personal safety technology, Kelly doesn\u0027t take flak from anyone. Kelly is a lead survivor that provides increased power in the Gadgeteers squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsDependable",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -3171,7 +3171,7 @@
     "Description": "Ellie is a pioneer in her field, and designed many of the tools that a modern Gadgeteer wouldn\u0027t want to do without. Ellie provides increased power in The Gadgeteers squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsCurious",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -3200,7 +3200,7 @@
     "Description": "Ellie is a pioneer in her field, and designed many of the tools that a modern Gadgeteer wouldn\u0027t want to do without. Ellie provides increased power in The Gadgeteers squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsCurious",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -3230,7 +3230,7 @@
     "Description": "Ellie is a pioneer in her field, and designed many of the tools that a modern Gadgeteer wouldn\u0027t want to do without. Ellie provides increased power in The Gadgeteers squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsCurious",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -3261,7 +3261,7 @@
     "Description": "Ellie is a pioneer in her field, and designed many of the tools that a modern Gadgeteer wouldn\u0027t want to do without. Ellie provides increased power in The Gadgeteers squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsCurious",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -3293,7 +3293,7 @@
     "Description": "Ellie is a pioneer in her field, and designed many of the tools that a modern Gadgeteer wouldn\u0027t want to do without. Ellie provides increased power in The Gadgeteers squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsCurious",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -3313,7 +3313,7 @@
     "SubType": "Gadgeteer",
     "Description": "A lead survivor that provides increased power in the Gadgeteers squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_Uncommon",
-    "Rarity": "Uncommon",
+    "Rarity": "Rare",
     "RecycleRecipe": {
       "Amount": 25,
       "Cost": {},
@@ -3341,7 +3341,7 @@
     "SubType": "Gadgeteer",
     "Description": "A lead survivor that provides increased power in the Gadgeteers squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_Uncommon",
-    "Rarity": "Uncommon",
+    "Rarity": "Rare",
     "RecycleRecipe": {
       "Amount": 25,
       "Cost": {},
@@ -3370,7 +3370,7 @@
     "SubType": "Gadgeteer",
     "Description": "A lead survivor that provides increased power in the Gadgeteers squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_Uncommon",
-    "Rarity": "Uncommon",
+    "Rarity": "Rare",
     "RecycleRecipe": {
       "Amount": 25,
       "Cost": {},
@@ -3400,7 +3400,7 @@
     "SubType": "Gadgeteer",
     "Description": "A lead survivor that provides increased power in the Gadgeteers squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_Uncommon",
-    "Rarity": "Uncommon",
+    "Rarity": "Rare",
     "RecycleRecipe": {
       "Amount": 25,
       "Cost": {},
@@ -3420,7 +3420,7 @@
     "SubType": "Gadgeteer",
     "Description": "A lead survivor that provides increased power in the Gadgeteers squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_VeryRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Legendary",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -3448,7 +3448,7 @@
     "SubType": "Gadgeteer",
     "Description": "A lead survivor that provides increased power in the Gadgeteers squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_VeryRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Legendary",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -3477,7 +3477,7 @@
     "SubType": "Gadgeteer",
     "Description": "A lead survivor that provides increased power in the Gadgeteers squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_VeryRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Legendary",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -3507,7 +3507,7 @@
     "SubType": "Gadgeteer",
     "Description": "A lead survivor that provides increased power in the Gadgeteers squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_VeryRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Legendary",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -3538,7 +3538,7 @@
     "SubType": "Gadgeteer",
     "Description": "A lead survivor that provides increased power in the Gadgeteers squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_VeryRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Legendary",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -3634,7 +3634,7 @@
     "SubType": "Inventor",
     "Description": "A lead survivor that provides increased power in The Think Tank squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_Rare",
-    "Rarity": "Uncommon",
+    "Rarity": "Epic",
     "RecycleRecipe": {
       "Amount": 100,
       "Cost": {},
@@ -3662,7 +3662,7 @@
     "SubType": "Inventor",
     "Description": "A lead survivor that provides increased power in The Think Tank squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_Rare",
-    "Rarity": "Uncommon",
+    "Rarity": "Epic",
     "RecycleRecipe": {
       "Amount": 100,
       "Cost": {},
@@ -3691,7 +3691,7 @@
     "SubType": "Inventor",
     "Description": "A lead survivor that provides increased power in The Think Tank squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_Rare",
-    "Rarity": "Uncommon",
+    "Rarity": "Epic",
     "RecycleRecipe": {
       "Amount": 100,
       "Cost": {},
@@ -3721,7 +3721,7 @@
     "SubType": "Inventor",
     "Description": "A lead survivor that provides increased power in The Think Tank squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_Rare",
-    "Rarity": "Uncommon",
+    "Rarity": "Epic",
     "RecycleRecipe": {
       "Amount": 100,
       "Cost": {},
@@ -3752,7 +3752,7 @@
     "SubType": "Inventor",
     "Description": "A lead survivor that provides increased power in The Think Tank squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_Rare",
-    "Rarity": "Uncommon",
+    "Rarity": "Epic",
     "RecycleRecipe": {
       "Amount": 100,
       "Cost": {},
@@ -3773,7 +3773,7 @@
     "Description": "Nick likes electricity. He\u0027s invented more ways to zap people and things than any other person alive. Nick provides increased power in the Think Tank squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsDreamer",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -3802,7 +3802,7 @@
     "Description": "Nick likes electricity. He\u0027s invented more ways to zap people and things than any other person alive. Nick provides increased power in the Think Tank squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsDreamer",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -3832,7 +3832,7 @@
     "Description": "Nick likes electricity. He\u0027s invented more ways to zap people and things than any other person alive. Nick provides increased power in the Think Tank squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsDreamer",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -3863,7 +3863,7 @@
     "Description": "Nick likes electricity. He\u0027s invented more ways to zap people and things than any other person alive. Nick provides increased power in the Think Tank squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsDreamer",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -3895,7 +3895,7 @@
     "Description": "Nick likes electricity. He\u0027s invented more ways to zap people and things than any other person alive. Nick provides increased power in the Think Tank squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsDreamer",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -3916,7 +3916,7 @@
     "Description": "Cary has a long history researching and experimenting with dangerous materials. Cary is a lead survivor that provides increased power in The Think Tank squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsCooperative",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -3945,7 +3945,7 @@
     "Description": "Cary has a long history researching and experimenting with dangerous materials. Cary is a lead survivor that provides increased power in The Think Tank squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsCooperative",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -3975,7 +3975,7 @@
     "Description": "Cary has a long history researching and experimenting with dangerous materials. Cary is a lead survivor that provides increased power in The Think Tank squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsCooperative",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -4006,7 +4006,7 @@
     "Description": "Cary has a long history researching and experimenting with dangerous materials. Cary is a lead survivor that provides increased power in The Think Tank squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsCooperative",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -4038,7 +4038,7 @@
     "Description": "Cary has a long history researching and experimenting with dangerous materials. Cary is a lead survivor that provides increased power in The Think Tank squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsCooperative",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -4059,7 +4059,7 @@
     "Description": "Alfred is all about relativity and fitting things in squares. Alfred is a lead survivor that provides increased power in The Think Tank squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsPragmatic",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -4088,7 +4088,7 @@
     "Description": "Alfred is all about relativity and fitting things in squares. Alfred is a lead survivor that provides increased power in The Think Tank squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsPragmatic",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -4118,7 +4118,7 @@
     "Description": "Alfred is all about relativity and fitting things in squares. Alfred is a lead survivor that provides increased power in The Think Tank squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsPragmatic",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -4149,7 +4149,7 @@
     "Description": "Alfred is all about relativity and fitting things in squares. Alfred is a lead survivor that provides increased power in The Think Tank squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsPragmatic",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -4181,7 +4181,7 @@
     "Description": "Alfred is all about relativity and fitting things in squares. Alfred is a lead survivor that provides increased power in The Think Tank squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsPragmatic",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -4201,7 +4201,7 @@
     "SubType": "Inventor",
     "Description": "A lead survivor that provides increased power in The Think Tank squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_Uncommon",
-    "Rarity": "Uncommon",
+    "Rarity": "Rare",
     "RecycleRecipe": {
       "Amount": 25,
       "Cost": {},
@@ -4229,7 +4229,7 @@
     "SubType": "Inventor",
     "Description": "A lead survivor that provides increased power in The Think Tank squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_Uncommon",
-    "Rarity": "Uncommon",
+    "Rarity": "Rare",
     "RecycleRecipe": {
       "Amount": 25,
       "Cost": {},
@@ -4258,7 +4258,7 @@
     "SubType": "Inventor",
     "Description": "A lead survivor that provides increased power in The Think Tank squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_Uncommon",
-    "Rarity": "Uncommon",
+    "Rarity": "Rare",
     "RecycleRecipe": {
       "Amount": 25,
       "Cost": {},
@@ -4288,7 +4288,7 @@
     "SubType": "Inventor",
     "Description": "A lead survivor that provides increased power in The Think Tank squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_Uncommon",
-    "Rarity": "Uncommon",
+    "Rarity": "Rare",
     "RecycleRecipe": {
       "Amount": 25,
       "Cost": {},
@@ -4308,7 +4308,7 @@
     "SubType": "Inventor",
     "Description": "A lead survivor that provides increased power in The Think Tank squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_VeryRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Legendary",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -4336,7 +4336,7 @@
     "SubType": "Inventor",
     "Description": "A lead survivor that provides increased power in The Think Tank squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_VeryRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Legendary",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -4365,7 +4365,7 @@
     "SubType": "Inventor",
     "Description": "A lead survivor that provides increased power in The Think Tank squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_VeryRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Legendary",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -4395,7 +4395,7 @@
     "SubType": "Inventor",
     "Description": "A lead survivor that provides increased power in The Think Tank squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_VeryRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Legendary",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -4426,7 +4426,7 @@
     "SubType": "Inventor",
     "Description": "A lead survivor that provides increased power in The Think Tank squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_VeryRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Legendary",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -4522,7 +4522,7 @@
     "SubType": "Martial Artist",
     "Description": "A lead survivor that provides increased power in the Close Assault Squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_Rare",
-    "Rarity": "Uncommon",
+    "Rarity": "Epic",
     "RecycleRecipe": {
       "Amount": 100,
       "Cost": {},
@@ -4550,7 +4550,7 @@
     "SubType": "Martial Artist",
     "Description": "A lead survivor that provides increased power in the Close Assault Squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_Rare",
-    "Rarity": "Uncommon",
+    "Rarity": "Epic",
     "RecycleRecipe": {
       "Amount": 100,
       "Cost": {},
@@ -4579,7 +4579,7 @@
     "SubType": "Martial Artist",
     "Description": "A lead survivor that provides increased power in the Close Assault Squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_Rare",
-    "Rarity": "Uncommon",
+    "Rarity": "Epic",
     "RecycleRecipe": {
       "Amount": 100,
       "Cost": {},
@@ -4609,7 +4609,7 @@
     "SubType": "Martial Artist",
     "Description": "A lead survivor that provides increased power in the Close Assault Squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_Rare",
-    "Rarity": "Uncommon",
+    "Rarity": "Epic",
     "RecycleRecipe": {
       "Amount": 100,
       "Cost": {},
@@ -4640,7 +4640,7 @@
     "SubType": "Martial Artist",
     "Description": "A lead survivor that provides increased power in the Close Assault Squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_Rare",
-    "Rarity": "Uncommon",
+    "Rarity": "Epic",
     "RecycleRecipe": {
       "Amount": 100,
       "Cost": {},
@@ -4661,7 +4661,7 @@
     "Description": "Sie\u0027s small stature can be misleading, as he is a true martial arts master. Dragon is a lead survivor that provides increased power in the Close Assault Squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsAdventurous",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -4690,7 +4690,7 @@
     "Description": "Sie\u0027s small stature can be misleading, as he is a true martial arts master. Dragon is a lead survivor that provides increased power in the Close Assault Squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsAdventurous",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -4720,7 +4720,7 @@
     "Description": "Sie\u0027s small stature can be misleading, as he is a true martial arts master. Dragon is a lead survivor that provides increased power in the Close Assault Squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsAdventurous",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -4751,7 +4751,7 @@
     "Description": "Sie\u0027s small stature can be misleading, as he is a true martial arts master. Dragon is a lead survivor that provides increased power in the Close Assault Squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsAdventurous",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -4783,7 +4783,7 @@
     "Description": "Sie\u0027s small stature can be misleading, as he is a true martial arts master. Dragon is a lead survivor that provides increased power in the Close Assault Squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsAdventurous",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -4804,7 +4804,7 @@
     "Description": "After years of training in the ancient arts of the samurai, Tofune considered becoming an actor. That thought didn\u0027t last long, because he was considered too authentic and scary for the screen. Samurai is a lead survivor that provides increased power in the Close Assault Squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsCompetitive",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -4833,7 +4833,7 @@
     "Description": "After years of training in the ancient arts of the samurai, Tofune considered becoming an actor. That thought didn\u0027t last long, because he was considered too authentic and scary for the screen. Samurai is a lead survivor that provides increased power in the Close Assault Squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsCompetitive",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -4863,7 +4863,7 @@
     "Description": "After years of training in the ancient arts of the samurai, Tofune considered becoming an actor. That thought didn\u0027t last long, because he was considered too authentic and scary for the screen. Samurai is a lead survivor that provides increased power in the Close Assault Squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsCompetitive",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -4894,7 +4894,7 @@
     "Description": "After years of training in the ancient arts of the samurai, Tofune considered becoming an actor. That thought didn\u0027t last long, because he was considered too authentic and scary for the screen. Samurai is a lead survivor that provides increased power in the Close Assault Squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsCompetitive",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -4926,7 +4926,7 @@
     "Description": "After years of training in the ancient arts of the samurai, Tofune considered becoming an actor. That thought didn\u0027t last long, because he was considered too authentic and scary for the screen. Samurai is a lead survivor that provides increased power in the Close Assault Squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsCompetitive",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -4947,7 +4947,7 @@
     "Description": "Fierce as it is, Misha\u0027s nickname is but a small flicker of his inner fire. Misha\u0027s Tiger spirit provides increased power in the Close Assault Squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsDependable",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -4976,7 +4976,7 @@
     "Description": "Fierce as it is, Misha\u0027s nickname is but a small flicker of his inner fire. Misha\u0027s Tiger spirit provides increased power in the Close Assault Squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsDependable",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -5006,7 +5006,7 @@
     "Description": "Fierce as it is, Misha\u0027s nickname is but a small flicker of his inner fire. Misha\u0027s Tiger spirit provides increased power in the Close Assault Squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsDependable",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -5037,7 +5037,7 @@
     "Description": "Fierce as it is, Misha\u0027s nickname is but a small flicker of his inner fire. Misha\u0027s Tiger spirit provides increased power in the Close Assault Squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsDependable",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -5069,7 +5069,7 @@
     "Description": "Fierce as it is, Misha\u0027s nickname is but a small flicker of his inner fire. Misha\u0027s Tiger spirit provides increased power in the Close Assault Squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsDependable",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -5089,7 +5089,7 @@
     "SubType": "Martial Artist",
     "Description": "A lead survivor that provides increased power in the Close Assault Squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_Uncommon",
-    "Rarity": "Uncommon",
+    "Rarity": "Rare",
     "RecycleRecipe": {
       "Amount": 25,
       "Cost": {},
@@ -5117,7 +5117,7 @@
     "SubType": "Martial Artist",
     "Description": "A lead survivor that provides increased power in the Close Assault Squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_Uncommon",
-    "Rarity": "Uncommon",
+    "Rarity": "Rare",
     "RecycleRecipe": {
       "Amount": 25,
       "Cost": {},
@@ -5146,7 +5146,7 @@
     "SubType": "Martial Artist",
     "Description": "A lead survivor that provides increased power in the Close Assault Squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_Uncommon",
-    "Rarity": "Uncommon",
+    "Rarity": "Rare",
     "RecycleRecipe": {
       "Amount": 25,
       "Cost": {},
@@ -5176,7 +5176,7 @@
     "SubType": "Martial Artist",
     "Description": "A lead survivor that provides increased power in the Close Assault Squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_Uncommon",
-    "Rarity": "Uncommon",
+    "Rarity": "Rare",
     "RecycleRecipe": {
       "Amount": 25,
       "Cost": {},
@@ -5196,7 +5196,7 @@
     "SubType": "Martial Artist",
     "Description": "A lead survivor that provides increased power in the Close Assault Squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_VeryRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Legendary",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -5224,7 +5224,7 @@
     "SubType": "Martial Artist",
     "Description": "A lead survivor that provides increased power in the Close Assault Squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_VeryRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Legendary",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -5253,7 +5253,7 @@
     "SubType": "Martial Artist",
     "Description": "A lead survivor that provides increased power in the Close Assault Squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_VeryRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Legendary",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -5283,7 +5283,7 @@
     "SubType": "Martial Artist",
     "Description": "A lead survivor that provides increased power in the Close Assault Squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_VeryRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Legendary",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -5314,7 +5314,7 @@
     "SubType": "Martial Artist",
     "Description": "A lead survivor that provides increased power in the Close Assault Squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_VeryRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Legendary",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -5334,7 +5334,7 @@
     "SubType": "Doctor",
     "Description": "An ambitious and inventive EMT lead, Dr. Blackwell\u0027s \u201Ccut first, ask questions later\u201D approach to medicine is terrifyingly effective. Blackwell is a lead survivor that provides increased power in the EMT Squad.",
     "LevelToXPRow": "Manager_Rare",
-    "Rarity": "Uncommon",
+    "Rarity": "Epic",
     "RecycleRecipe": {
       "Amount": 100,
       "Cost": {},
@@ -5362,7 +5362,7 @@
     "SubType": "Doctor",
     "Description": "An ambitious and inventive EMT lead, Dr. Blackwell\u0027s \u201Ccut first, ask questions later\u201D approach to medicine is terrifyingly effective. Blackwell is a lead survivor that provides increased power in the EMT Squad.",
     "LevelToXPRow": "Manager_Rare",
-    "Rarity": "Uncommon",
+    "Rarity": "Epic",
     "RecycleRecipe": {
       "Amount": 100,
       "Cost": {},
@@ -5391,7 +5391,7 @@
     "SubType": "Doctor",
     "Description": "An ambitious and inventive EMT lead, Dr. Blackwell\u0027s \u201Ccut first, ask questions later\u201D approach to medicine is terrifyingly effective. Blackwell is a lead survivor that provides increased power in the EMT Squad.",
     "LevelToXPRow": "Manager_Rare",
-    "Rarity": "Uncommon",
+    "Rarity": "Epic",
     "RecycleRecipe": {
       "Amount": 100,
       "Cost": {},
@@ -5421,7 +5421,7 @@
     "SubType": "Doctor",
     "Description": "An ambitious and inventive EMT lead, Dr. Blackwell\u0027s \u201Ccut first, ask questions later\u201D approach to medicine is terrifyingly effective. Blackwell is a lead survivor that provides increased power in the EMT Squad.",
     "LevelToXPRow": "Manager_Rare",
-    "Rarity": "Uncommon",
+    "Rarity": "Epic",
     "RecycleRecipe": {
       "Amount": 100,
       "Cost": {},
@@ -5441,7 +5441,7 @@
     "SubType": "Doctor",
     "Description": "An ambitious and inventive EMT lead, Dr. Blackwell\u0027s \u201Ccut first, ask questions later\u201D approach to medicine is terrifyingly effective. Blackwell is a lead survivor that provides increased power in the EMT Squad.",
     "LevelToXPRow": "Manager_Rare",
-    "Rarity": "Uncommon",
+    "Rarity": "Epic",
     "RecycleRecipe": {
       "Amount": 100,
       "Cost": {},
@@ -5537,7 +5537,7 @@
     "SubType": "Marksman",
     "Description": "A lead survivor that provides increased power in the Fire Team Alpha squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_Rare",
-    "Rarity": "Uncommon",
+    "Rarity": "Epic",
     "RecycleRecipe": {
       "Amount": 100,
       "Cost": {},
@@ -5565,7 +5565,7 @@
     "SubType": "Marksman",
     "Description": "A lead survivor that provides increased power in the Fire Team Alpha squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_Rare",
-    "Rarity": "Uncommon",
+    "Rarity": "Epic",
     "RecycleRecipe": {
       "Amount": 100,
       "Cost": {},
@@ -5594,7 +5594,7 @@
     "SubType": "Marksman",
     "Description": "A lead survivor that provides increased power in the Fire Team Alpha squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_Rare",
-    "Rarity": "Uncommon",
+    "Rarity": "Epic",
     "RecycleRecipe": {
       "Amount": 100,
       "Cost": {},
@@ -5624,7 +5624,7 @@
     "SubType": "Marksman",
     "Description": "A lead survivor that provides increased power in the Fire Team Alpha squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_Rare",
-    "Rarity": "Uncommon",
+    "Rarity": "Epic",
     "RecycleRecipe": {
       "Amount": 100,
       "Cost": {},
@@ -5655,7 +5655,7 @@
     "SubType": "Marksman",
     "Description": "A lead survivor that provides increased power in the Fire Team Alpha squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_Rare",
-    "Rarity": "Uncommon",
+    "Rarity": "Epic",
     "RecycleRecipe": {
       "Amount": 100,
       "Cost": {},
@@ -5676,7 +5676,7 @@
     "Description": "With his calm pride and strong sense of loyalty, Malcolm is a true survivor and a born leader. Malcolm is a lead survivor that provides increased power in the Fire Team Alpha squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsCooperative",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -5705,7 +5705,7 @@
     "Description": "With his calm pride and strong sense of loyalty, Malcolm is a true survivor and a born leader. Malcolm is a lead survivor that provides increased power in the Fire Team Alpha squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsCooperative",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -5735,7 +5735,7 @@
     "Description": "With his calm pride and strong sense of loyalty, Malcolm is a true survivor and a born leader. Malcolm is a lead survivor that provides increased power in the Fire Team Alpha squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsCooperative",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -5766,7 +5766,7 @@
     "Description": "With his calm pride and strong sense of loyalty, Malcolm is a true survivor and a born leader. Malcolm is a lead survivor that provides increased power in the Fire Team Alpha squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsCooperative",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -5798,7 +5798,7 @@
     "Description": "With his calm pride and strong sense of loyalty, Malcolm is a true survivor and a born leader. Malcolm is a lead survivor that provides increased power in the Fire Team Alpha squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsCooperative",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -5819,7 +5819,7 @@
     "Description": "A natural soldier, Lacy has a background as a special ops infiltrator, although she preferred busting down the front door. Princess is a lead survivor that provides increased power in the Fire Team Alpha squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsDependable",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -5848,7 +5848,7 @@
     "Description": "A natural soldier, Lacy has a background as a special ops infiltrator, although she preferred busting down the front door. Princess is a lead survivor that provides increased power in the Fire Team Alpha squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsDependable",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -5878,7 +5878,7 @@
     "Description": "A natural soldier, Lacy has a background as a special ops infiltrator, although she preferred busting down the front door. Princess is a lead survivor that provides increased power in the Fire Team Alpha squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsDependable",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -5909,7 +5909,7 @@
     "Description": "A natural soldier, Lacy has a background as a special ops infiltrator, although she preferred busting down the front door. Princess is a lead survivor that provides increased power in the Fire Team Alpha squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsDependable",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -5941,7 +5941,7 @@
     "Description": "A natural soldier, Lacy has a background as a special ops infiltrator, although she preferred busting down the front door. Princess is a lead survivor that provides increased power in the Fire Team Alpha squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsDependable",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -5962,7 +5962,7 @@
     "Description": "Joe once beat a man in a bar fight, but he swears he didn\u0027t draw first blood. Ramsie is a lead survivor that provides increased power in the Fire Team Alpha squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsAdventurous",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -5991,7 +5991,7 @@
     "Description": "Joe once beat a man in a bar fight, but he swears he didn\u0027t draw first blood. Ramsie is a lead survivor that provides increased power in the Fire Team Alpha squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsAdventurous",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -6021,7 +6021,7 @@
     "Description": "Joe once beat a man in a bar fight, but he swears he didn\u0027t draw first blood. Ramsie is a lead survivor that provides increased power in the Fire Team Alpha squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsAdventurous",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -6052,7 +6052,7 @@
     "Description": "Joe once beat a man in a bar fight, but he swears he didn\u0027t draw first blood. Ramsie is a lead survivor that provides increased power in the Fire Team Alpha squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsAdventurous",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -6084,7 +6084,7 @@
     "Description": "Joe once beat a man in a bar fight, but he swears he didn\u0027t draw first blood. Ramsie is a lead survivor that provides increased power in the Fire Team Alpha squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsAdventurous",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -6104,7 +6104,7 @@
     "SubType": "Marksman",
     "Description": "A lead survivor that provides increased power in the Fire Team Alpha squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_Uncommon",
-    "Rarity": "Uncommon",
+    "Rarity": "Rare",
     "RecycleRecipe": {
       "Amount": 25,
       "Cost": {},
@@ -6132,7 +6132,7 @@
     "SubType": "Marksman",
     "Description": "A lead survivor that provides increased power in the Fire Team Alpha squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_Uncommon",
-    "Rarity": "Uncommon",
+    "Rarity": "Rare",
     "RecycleRecipe": {
       "Amount": 25,
       "Cost": {},
@@ -6161,7 +6161,7 @@
     "SubType": "Marksman",
     "Description": "A lead survivor that provides increased power in the Fire Team Alpha squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_Uncommon",
-    "Rarity": "Uncommon",
+    "Rarity": "Rare",
     "RecycleRecipe": {
       "Amount": 25,
       "Cost": {},
@@ -6191,7 +6191,7 @@
     "SubType": "Marksman",
     "Description": "A lead survivor that provides increased power in the Fire Team Alpha squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_Uncommon",
-    "Rarity": "Uncommon",
+    "Rarity": "Rare",
     "RecycleRecipe": {
       "Amount": 25,
       "Cost": {},
@@ -6211,7 +6211,7 @@
     "SubType": "Marksman",
     "Description": "A lead survivor that provides increased power in the Fire Team Alpha squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_VeryRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Legendary",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -6239,7 +6239,7 @@
     "SubType": "Marksman",
     "Description": "A lead survivor that provides increased power in the Fire Team Alpha squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_VeryRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Legendary",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -6268,7 +6268,7 @@
     "SubType": "Marksman",
     "Description": "A lead survivor that provides increased power in the Fire Team Alpha squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_VeryRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Legendary",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -6298,7 +6298,7 @@
     "SubType": "Marksman",
     "Description": "A lead survivor that provides increased power in the Fire Team Alpha squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_VeryRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Legendary",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -6329,7 +6329,7 @@
     "SubType": "Marksman",
     "Description": "A lead survivor that provides increased power in the Fire Team Alpha squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_VeryRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Legendary",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -6425,7 +6425,7 @@
     "SubType": "Trainer",
     "Description": "A lead survivor that provides increased power when assigned to the Training Team squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_Rare",
-    "Rarity": "Uncommon",
+    "Rarity": "Epic",
     "RecycleRecipe": {
       "Amount": 100,
       "Cost": {},
@@ -6453,7 +6453,7 @@
     "SubType": "Trainer",
     "Description": "A lead survivor that provides increased power when assigned to the Training Team squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_Rare",
-    "Rarity": "Uncommon",
+    "Rarity": "Epic",
     "RecycleRecipe": {
       "Amount": 100,
       "Cost": {},
@@ -6482,7 +6482,7 @@
     "SubType": "Trainer",
     "Description": "A lead survivor that provides increased power when assigned to the Training Team squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_Rare",
-    "Rarity": "Uncommon",
+    "Rarity": "Epic",
     "RecycleRecipe": {
       "Amount": 100,
       "Cost": {},
@@ -6512,7 +6512,7 @@
     "SubType": "Trainer",
     "Description": "A lead survivor that provides increased power when assigned to the Training Team squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_Rare",
-    "Rarity": "Uncommon",
+    "Rarity": "Epic",
     "RecycleRecipe": {
       "Amount": 100,
       "Cost": {},
@@ -6543,7 +6543,7 @@
     "SubType": "Trainer",
     "Description": "A lead survivor that provides increased power when assigned to the Training Team squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_Rare",
-    "Rarity": "Uncommon",
+    "Rarity": "Epic",
     "RecycleRecipe": {
       "Amount": 100,
       "Cost": {},
@@ -6564,7 +6564,7 @@
     "Description": "A retired kickboxing champ, Damon is the type of personal trainer you don\u0027t ignore. If he wants five more reps... he gets five more reps. Damon provides increased power in the Training Team Squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsCooperative",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -6593,7 +6593,7 @@
     "Description": "A retired kickboxing champ, Damon is the type of personal trainer you don\u0027t ignore. If he wants five more reps... he gets five more reps. Damon provides increased power in the Training Team Squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsCooperative",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -6623,7 +6623,7 @@
     "Description": "A retired kickboxing champ, Damon is the type of personal trainer you don\u0027t ignore. If he wants five more reps... he gets five more reps. Damon provides increased power in the Training Team Squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsCooperative",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -6654,7 +6654,7 @@
     "Description": "A retired kickboxing champ, Damon is the type of personal trainer you don\u0027t ignore. If he wants five more reps... he gets five more reps. Damon provides increased power in the Training Team Squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsCooperative",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -6686,7 +6686,7 @@
     "Description": "A retired kickboxing champ, Damon is the type of personal trainer you don\u0027t ignore. If he wants five more reps... he gets five more reps. Damon provides increased power in the Training Team Squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsCooperative",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -6707,7 +6707,7 @@
     "Description": "Cara\u0027s curiosity leads her to so many adventures that her friends started calling her Indiana. Indiana is a lead survivor that provides increased power in the Training Team squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsCurious",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -6736,7 +6736,7 @@
     "Description": "Cara\u0027s curiosity leads her to so many adventures that her friends started calling her Indiana. Indiana is a lead survivor that provides increased power in the Training Team squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsCurious",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -6766,7 +6766,7 @@
     "Description": "Cara\u0027s curiosity leads her to so many adventures that her friends started calling her Indiana. Indiana is a lead survivor that provides increased power in the Training Team squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsCurious",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -6797,7 +6797,7 @@
     "Description": "Cara\u0027s curiosity leads her to so many adventures that her friends started calling her Indiana. Indiana is a lead survivor that provides increased power in the Training Team squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsCurious",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -6829,7 +6829,7 @@
     "Description": "Cara\u0027s curiosity leads her to so many adventures that her friends started calling her Indiana. Indiana is a lead survivor that provides increased power in the Training Team squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsCurious",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -6850,7 +6850,7 @@
     "Description": "A passionate coffee and yoga enthusiast, Michelle opened the world\u2019s first Hot Coffee Yoga studio, Yoglattes. The studio closed following multiple yoglawsuits. Yoglattes is a lead survivor that provides increased power in the Training Team squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsCompetitive",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -6879,7 +6879,7 @@
     "Description": "A passionate coffee and yoga enthusiast, Michelle opened the world\u2019s first Hot Coffee Yoga studio, Yoglattes. The studio closed following multiple yoglawsuits. Yoglattes is a lead survivor that provides increased power in the Training Team squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsCompetitive",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -6909,7 +6909,7 @@
     "Description": "A passionate coffee and yoga enthusiast, Michelle opened the world\u2019s first Hot Coffee Yoga studio, Yoglattes. The studio closed following multiple yoglawsuits. Yoglattes is a lead survivor that provides increased power in the Training Team squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsCompetitive",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -6940,7 +6940,7 @@
     "Description": "A passionate coffee and yoga enthusiast, Michelle opened the world\u2019s first Hot Coffee Yoga studio, Yoglattes. The studio closed following multiple yoglawsuits. Yoglattes is a lead survivor that provides increased power in the Training Team squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsCompetitive",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -6972,7 +6972,7 @@
     "Description": "A passionate coffee and yoga enthusiast, Michelle opened the world\u2019s first Hot Coffee Yoga studio, Yoglattes. The studio closed following multiple yoglawsuits. Yoglattes is a lead survivor that provides increased power in the Training Team squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsCompetitive",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -6992,7 +6992,7 @@
     "SubType": "Trainer",
     "Description": "A lead survivor that provides increased power when assigned to the Training Team squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_Uncommon",
-    "Rarity": "Uncommon",
+    "Rarity": "Rare",
     "RecycleRecipe": {
       "Amount": 25,
       "Cost": {},
@@ -7020,7 +7020,7 @@
     "SubType": "Trainer",
     "Description": "A lead survivor that provides increased power when assigned to the Training Team squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_Uncommon",
-    "Rarity": "Uncommon",
+    "Rarity": "Rare",
     "RecycleRecipe": {
       "Amount": 25,
       "Cost": {},
@@ -7049,7 +7049,7 @@
     "SubType": "Trainer",
     "Description": "A lead survivor that provides increased power when assigned to the Training Team squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_Uncommon",
-    "Rarity": "Uncommon",
+    "Rarity": "Rare",
     "RecycleRecipe": {
       "Amount": 25,
       "Cost": {},
@@ -7079,7 +7079,7 @@
     "SubType": "Trainer",
     "Description": "A lead survivor that provides increased power when assigned to the Training Team squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_Uncommon",
-    "Rarity": "Uncommon",
+    "Rarity": "Rare",
     "RecycleRecipe": {
       "Amount": 25,
       "Cost": {},
@@ -7099,7 +7099,7 @@
     "SubType": "Trainer",
     "Description": "A lead survivor that provides increased power when assigned to the Training Team squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_VeryRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Legendary",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -7127,7 +7127,7 @@
     "SubType": "Trainer",
     "Description": "A lead survivor that provides increased power when assigned to the Training Team squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_VeryRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Legendary",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -7156,7 +7156,7 @@
     "SubType": "Trainer",
     "Description": "A lead survivor that provides increased power when assigned to the Training Team squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_VeryRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Legendary",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -7186,7 +7186,7 @@
     "SubType": "Trainer",
     "Description": "A lead survivor that provides increased power when assigned to the Training Team squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_VeryRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Legendary",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -7217,7 +7217,7 @@
     "SubType": "Trainer",
     "Description": "A lead survivor that provides increased power when assigned to the Training Team squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_VeryRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Legendary",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -7236,7 +7236,7 @@
     "DisplayName": "Husk",
     "Description": "One of the winners from this year\u0027s Husk Costume Party! You don\u0027t know why they\u0027re still wearing their costume, but they\u0027re good at their jobs!",
     "LevelToXPRow": "Common",
-    "Rarity": "Uncommon",
+    "Rarity": "Common",
     "RecycleRecipe": {
       "Cost": {},
       "Result": "AccountResource:reagent_people"
@@ -7261,7 +7261,7 @@
     "DisplayName": "Husk",
     "Description": "One of the winners from this year\u0027s Husk Costume Party! You don\u0027t know why they\u0027re still wearing their costume, but they\u0027re good at their jobs!",
     "LevelToXPRow": "Common",
-    "Rarity": "Uncommon",
+    "Rarity": "Common",
     "RecycleRecipe": {
       "Cost": {},
       "Result": "AccountResource:reagent_people"
@@ -7352,7 +7352,7 @@
     "DisplayName": "Husky",
     "Description": "One of the winners from this year\u0027s Husk Costume Party! You don\u0027t know why they\u0027re still wearing their costume, but they\u0027re good at their jobs!",
     "LevelToXPRow": "Common",
-    "Rarity": "Uncommon",
+    "Rarity": "Common",
     "RecycleRecipe": {
       "Cost": {},
       "Result": "AccountResource:reagent_people"
@@ -7377,7 +7377,7 @@
     "DisplayName": "Husky",
     "Description": "One of the winners from this year\u0027s Husk Costume Party! You don\u0027t know why they\u0027re still wearing their costume, but they\u0027re good at their jobs!",
     "LevelToXPRow": "Common",
-    "Rarity": "Uncommon",
+    "Rarity": "Common",
     "RecycleRecipe": {
       "Cost": {},
       "Result": "AccountResource:reagent_people"
@@ -7395,7 +7395,7 @@
     "DisplayName": "Husky",
     "Description": "One of the winners from this year\u0027s Husk Costume Party! You don\u0027t know why they\u0027re still wearing their costume, but they\u0027re good at their jobs!",
     "LevelToXPRow": "Rare",
-    "Rarity": "Uncommon",
+    "Rarity": "Rare",
     "RecycleRecipe": {
       "Amount": 25,
       "Cost": {},
@@ -7422,7 +7422,7 @@
     "DisplayName": "Husky",
     "Description": "One of the winners from this year\u0027s Husk Costume Party! You don\u0027t know why they\u0027re still wearing their costume, but they\u0027re good at their jobs!",
     "LevelToXPRow": "Rare",
-    "Rarity": "Uncommon",
+    "Rarity": "Rare",
     "RecycleRecipe": {
       "Amount": 25,
       "Cost": {},
@@ -7450,7 +7450,7 @@
     "DisplayName": "Husky",
     "Description": "One of the winners from this year\u0027s Husk Costume Party! You don\u0027t know why they\u0027re still wearing their costume, but they\u0027re good at their jobs!",
     "LevelToXPRow": "Rare",
-    "Rarity": "Uncommon",
+    "Rarity": "Rare",
     "RecycleRecipe": {
       "Amount": 25,
       "Cost": {},
@@ -7479,7 +7479,7 @@
     "DisplayName": "Husky",
     "Description": "One of the winners from this year\u0027s Husk Costume Party! You don\u0027t know why they\u0027re still wearing their costume, but they\u0027re good at their jobs!",
     "LevelToXPRow": "Rare",
-    "Rarity": "Uncommon",
+    "Rarity": "Rare",
     "RecycleRecipe": {
       "Amount": 25,
       "Cost": {},
@@ -7571,7 +7571,7 @@
     "DisplayName": "Husky",
     "Description": "One of the winners from this year\u0027s Husk Costume Party! You don\u0027t know why they\u0027re still wearing their costume, but they\u0027re good at their jobs!",
     "LevelToXPRow": "VeryRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Epic",
     "RecycleRecipe": {
       "Amount": 100,
       "Cost": {},
@@ -7598,7 +7598,7 @@
     "DisplayName": "Husky",
     "Description": "One of the winners from this year\u0027s Husk Costume Party! You don\u0027t know why they\u0027re still wearing their costume, but they\u0027re good at their jobs!",
     "LevelToXPRow": "VeryRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Epic",
     "RecycleRecipe": {
       "Amount": 100,
       "Cost": {},
@@ -7626,7 +7626,7 @@
     "DisplayName": "Husky",
     "Description": "One of the winners from this year\u0027s Husk Costume Party! You don\u0027t know why they\u0027re still wearing their costume, but they\u0027re good at their jobs!",
     "LevelToXPRow": "VeryRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Epic",
     "RecycleRecipe": {
       "Amount": 100,
       "Cost": {},
@@ -7655,7 +7655,7 @@
     "DisplayName": "Husky",
     "Description": "One of the winners from this year\u0027s Husk Costume Party! You don\u0027t know why they\u0027re still wearing their costume, but they\u0027re good at their jobs!",
     "LevelToXPRow": "VeryRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Epic",
     "RecycleRecipe": {
       "Amount": 100,
       "Cost": {},
@@ -7685,7 +7685,7 @@
     "DisplayName": "Husky",
     "Description": "One of the winners from this year\u0027s Husk Costume Party! You don\u0027t know why they\u0027re still wearing their costume, but they\u0027re good at their jobs!",
     "LevelToXPRow": "VeryRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Epic",
     "RecycleRecipe": {
       "Amount": 100,
       "Cost": {},
@@ -7704,7 +7704,7 @@
     "DisplayName": "Lobber",
     "Description": "One of the winners from this year\u0027s Husk Costume Party! You don\u0027t know why they\u0027re still wearing their costume, but they\u0027re good at their jobs!",
     "LevelToXPRow": "Rare",
-    "Rarity": "Uncommon",
+    "Rarity": "Rare",
     "RecycleRecipe": {
       "Amount": 25,
       "Cost": {},
@@ -7731,7 +7731,7 @@
     "DisplayName": "Lobber",
     "Description": "One of the winners from this year\u0027s Husk Costume Party! You don\u0027t know why they\u0027re still wearing their costume, but they\u0027re good at their jobs!",
     "LevelToXPRow": "Rare",
-    "Rarity": "Uncommon",
+    "Rarity": "Rare",
     "RecycleRecipe": {
       "Amount": 25,
       "Cost": {},
@@ -7759,7 +7759,7 @@
     "DisplayName": "Lobber",
     "Description": "One of the winners from this year\u0027s Husk Costume Party! You don\u0027t know why they\u0027re still wearing their costume, but they\u0027re good at their jobs!",
     "LevelToXPRow": "Rare",
-    "Rarity": "Uncommon",
+    "Rarity": "Rare",
     "RecycleRecipe": {
       "Amount": 25,
       "Cost": {},
@@ -7788,7 +7788,7 @@
     "DisplayName": "Lobber",
     "Description": "One of the winners from this year\u0027s Husk Costume Party! You don\u0027t know why they\u0027re still wearing their costume, but they\u0027re good at their jobs!",
     "LevelToXPRow": "Rare",
-    "Rarity": "Uncommon",
+    "Rarity": "Rare",
     "RecycleRecipe": {
       "Amount": 25,
       "Cost": {},
@@ -7807,7 +7807,7 @@
     "DisplayName": "Lobber",
     "Description": "One of the winners from this year\u0027s Husk Costume Party! You don\u0027t know why they\u0027re still wearing their costume, but they\u0027re good at their jobs!",
     "LevelToXPRow": "SuperRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Legendary",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -7834,7 +7834,7 @@
     "DisplayName": "Lobber",
     "Description": "One of the winners from this year\u0027s Husk Costume Party! You don\u0027t know why they\u0027re still wearing their costume, but they\u0027re good at their jobs!",
     "LevelToXPRow": "SuperRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Legendary",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -7862,7 +7862,7 @@
     "DisplayName": "Lobber",
     "Description": "One of the winners from this year\u0027s Husk Costume Party! You don\u0027t know why they\u0027re still wearing their costume, but they\u0027re good at their jobs!",
     "LevelToXPRow": "SuperRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Legendary",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -7891,7 +7891,7 @@
     "DisplayName": "Lobber",
     "Description": "One of the winners from this year\u0027s Husk Costume Party! You don\u0027t know why they\u0027re still wearing their costume, but they\u0027re good at their jobs!",
     "LevelToXPRow": "SuperRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Legendary",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -7921,7 +7921,7 @@
     "DisplayName": "Lobber",
     "Description": "One of the winners from this year\u0027s Husk Costume Party! You don\u0027t know why they\u0027re still wearing their costume, but they\u0027re good at their jobs!",
     "LevelToXPRow": "SuperRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Legendary",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -7940,7 +7940,7 @@
     "DisplayName": "Lobber",
     "Description": "One of the winners from this year\u0027s Husk Costume Party! You don\u0027t know why they\u0027re still wearing their costume, but they\u0027re good at their jobs!",
     "LevelToXPRow": "VeryRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Epic",
     "RecycleRecipe": {
       "Amount": 100,
       "Cost": {},
@@ -7967,7 +7967,7 @@
     "DisplayName": "Lobber",
     "Description": "One of the winners from this year\u0027s Husk Costume Party! You don\u0027t know why they\u0027re still wearing their costume, but they\u0027re good at their jobs!",
     "LevelToXPRow": "VeryRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Epic",
     "RecycleRecipe": {
       "Amount": 100,
       "Cost": {},
@@ -7995,7 +7995,7 @@
     "DisplayName": "Lobber",
     "Description": "One of the winners from this year\u0027s Husk Costume Party! You don\u0027t know why they\u0027re still wearing their costume, but they\u0027re good at their jobs!",
     "LevelToXPRow": "VeryRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Epic",
     "RecycleRecipe": {
       "Amount": 100,
       "Cost": {},
@@ -8024,7 +8024,7 @@
     "DisplayName": "Lobber",
     "Description": "One of the winners from this year\u0027s Husk Costume Party! You don\u0027t know why they\u0027re still wearing their costume, but they\u0027re good at their jobs!",
     "LevelToXPRow": "VeryRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Epic",
     "RecycleRecipe": {
       "Amount": 100,
       "Cost": {},
@@ -8054,7 +8054,7 @@
     "DisplayName": "Lobber",
     "Description": "One of the winners from this year\u0027s Husk Costume Party! You don\u0027t know why they\u0027re still wearing their costume, but they\u0027re good at their jobs!",
     "LevelToXPRow": "VeryRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Epic",
     "RecycleRecipe": {
       "Amount": 100,
       "Cost": {},
@@ -8073,7 +8073,7 @@
     "DisplayName": "Pitcher",
     "Description": "One of the winners from this year\u0027s Husk Costume Party! You don\u0027t know why they\u0027re still wearing their costume, but they\u0027re good at their jobs!",
     "LevelToXPRow": "Common",
-    "Rarity": "Uncommon",
+    "Rarity": "Common",
     "RecycleRecipe": {
       "Cost": {},
       "Result": "AccountResource:reagent_people"
@@ -8098,7 +8098,7 @@
     "DisplayName": "Pitcher",
     "Description": "One of the winners from this year\u0027s Husk Costume Party! You don\u0027t know why they\u0027re still wearing their costume, but they\u0027re good at their jobs!",
     "LevelToXPRow": "Common",
-    "Rarity": "Uncommon",
+    "Rarity": "Common",
     "RecycleRecipe": {
       "Cost": {},
       "Result": "AccountResource:reagent_people"
@@ -8116,7 +8116,7 @@
     "DisplayName": "Pitcher",
     "Description": "One of the winners from this year\u0027s Husk Costume Party! You don\u0027t know why they\u0027re still wearing their costume, but they\u0027re good at their jobs!",
     "LevelToXPRow": "Rare",
-    "Rarity": "Uncommon",
+    "Rarity": "Rare",
     "RecycleRecipe": {
       "Amount": 25,
       "Cost": {},
@@ -8143,7 +8143,7 @@
     "DisplayName": "Pitcher",
     "Description": "One of the winners from this year\u0027s Husk Costume Party! You don\u0027t know why they\u0027re still wearing their costume, but they\u0027re good at their jobs!",
     "LevelToXPRow": "Rare",
-    "Rarity": "Uncommon",
+    "Rarity": "Rare",
     "RecycleRecipe": {
       "Amount": 25,
       "Cost": {},
@@ -8171,7 +8171,7 @@
     "DisplayName": "Pitcher",
     "Description": "One of the winners from this year\u0027s Husk Costume Party! You don\u0027t know why they\u0027re still wearing their costume, but they\u0027re good at their jobs!",
     "LevelToXPRow": "Rare",
-    "Rarity": "Uncommon",
+    "Rarity": "Rare",
     "RecycleRecipe": {
       "Amount": 25,
       "Cost": {},
@@ -8200,7 +8200,7 @@
     "DisplayName": "Pitcher",
     "Description": "One of the winners from this year\u0027s Husk Costume Party! You don\u0027t know why they\u0027re still wearing their costume, but they\u0027re good at their jobs!",
     "LevelToXPRow": "Rare",
-    "Rarity": "Uncommon",
+    "Rarity": "Rare",
     "RecycleRecipe": {
       "Amount": 25,
       "Cost": {},
@@ -8292,7 +8292,7 @@
     "DisplayName": "Smasher",
     "Description": "One of the winners from this year\u0027s Husk Costume Party! You don\u0027t know why they\u0027re still wearing their costume, but they\u0027re good at their jobs!",
     "LevelToXPRow": "SuperRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Legendary",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -8319,7 +8319,7 @@
     "DisplayName": "Smasher",
     "Description": "One of the winners from this year\u0027s Husk Costume Party! You don\u0027t know why they\u0027re still wearing their costume, but they\u0027re good at their jobs!",
     "LevelToXPRow": "SuperRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Legendary",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -8347,7 +8347,7 @@
     "DisplayName": "Smasher",
     "Description": "One of the winners from this year\u0027s Husk Costume Party! You don\u0027t know why they\u0027re still wearing their costume, but they\u0027re good at their jobs!",
     "LevelToXPRow": "SuperRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Legendary",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -8376,7 +8376,7 @@
     "DisplayName": "Smasher",
     "Description": "One of the winners from this year\u0027s Husk Costume Party! You don\u0027t know why they\u0027re still wearing their costume, but they\u0027re good at their jobs!",
     "LevelToXPRow": "SuperRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Legendary",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -8406,7 +8406,7 @@
     "DisplayName": "Smasher",
     "Description": "One of the winners from this year\u0027s Husk Costume Party! You don\u0027t know why they\u0027re still wearing their costume, but they\u0027re good at their jobs!",
     "LevelToXPRow": "SuperRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Legendary",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -8425,7 +8425,7 @@
     "DisplayName": "Troll",
     "Description": "One of the winners from this year\u0027s Husk Costume Party! You don\u0027t know why they\u0027re still wearing their costume, but they\u0027re good at their jobs!",
     "LevelToXPRow": "SuperRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Legendary",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -8452,7 +8452,7 @@
     "DisplayName": "Troll",
     "Description": "One of the winners from this year\u0027s Husk Costume Party! You don\u0027t know why they\u0027re still wearing their costume, but they\u0027re good at their jobs!",
     "LevelToXPRow": "SuperRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Legendary",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -8480,7 +8480,7 @@
     "DisplayName": "Troll",
     "Description": "One of the winners from this year\u0027s Husk Costume Party! You don\u0027t know why they\u0027re still wearing their costume, but they\u0027re good at their jobs!",
     "LevelToXPRow": "SuperRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Legendary",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -8509,7 +8509,7 @@
     "DisplayName": "Troll",
     "Description": "One of the winners from this year\u0027s Husk Costume Party! You don\u0027t know why they\u0027re still wearing their costume, but they\u0027re good at their jobs!",
     "LevelToXPRow": "SuperRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Legendary",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -8539,7 +8539,7 @@
     "DisplayName": "Troll",
     "Description": "One of the winners from this year\u0027s Husk Costume Party! You don\u0027t know why they\u0027re still wearing their costume, but they\u0027re good at their jobs!",
     "LevelToXPRow": "SuperRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Legendary",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -8558,7 +8558,7 @@
     "DisplayName": "Troll",
     "Description": "One of the winners from this year\u0027s Husk Costume Party! You don\u0027t know why they\u0027re still wearing their costume, but they\u0027re good at their jobs!",
     "LevelToXPRow": "VeryRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Epic",
     "RecycleRecipe": {
       "Amount": 100,
       "Cost": {},
@@ -8585,7 +8585,7 @@
     "DisplayName": "Troll",
     "Description": "One of the winners from this year\u0027s Husk Costume Party! You don\u0027t know why they\u0027re still wearing their costume, but they\u0027re good at their jobs!",
     "LevelToXPRow": "VeryRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Epic",
     "RecycleRecipe": {
       "Amount": 100,
       "Cost": {},
@@ -8613,7 +8613,7 @@
     "DisplayName": "Troll",
     "Description": "One of the winners from this year\u0027s Husk Costume Party! You don\u0027t know why they\u0027re still wearing their costume, but they\u0027re good at their jobs!",
     "LevelToXPRow": "VeryRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Epic",
     "RecycleRecipe": {
       "Amount": 100,
       "Cost": {},
@@ -8642,7 +8642,7 @@
     "DisplayName": "Troll",
     "Description": "One of the winners from this year\u0027s Husk Costume Party! You don\u0027t know why they\u0027re still wearing their costume, but they\u0027re good at their jobs!",
     "LevelToXPRow": "VeryRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Epic",
     "RecycleRecipe": {
       "Amount": 100,
       "Cost": {},
@@ -8672,7 +8672,7 @@
     "DisplayName": "Troll",
     "Description": "One of the winners from this year\u0027s Husk Costume Party! You don\u0027t know why they\u0027re still wearing their costume, but they\u0027re good at their jobs!",
     "LevelToXPRow": "VeryRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Epic",
     "RecycleRecipe": {
       "Amount": 100,
       "Cost": {},
@@ -8692,7 +8692,7 @@
     "Description": "Joel is beloved by the survivors of Homebase for his humor, unbelievable stories, and stubbornly joyful approach to life.",
     "IsPermanent": true,
     "Personality": "IsDreamer",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "Tier": 1,
     "TierUpRecipe": {
       "Cost": {
@@ -8715,7 +8715,7 @@
     "Description": "Joel is beloved by the survivors of Homebase for his humor, unbelievable stories, and stubbornly joyful approach to life.",
     "IsPermanent": true,
     "Personality": "IsDreamer",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "Tier": 2,
     "TierUpRecipe": {
       "Cost": {
@@ -8739,7 +8739,7 @@
     "Description": "Joel is beloved by the survivors of Homebase for his humor, unbelievable stories, and stubbornly joyful approach to life.",
     "IsPermanent": true,
     "Personality": "IsDreamer",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "Tier": 3,
     "TierUpRecipe": {
       "Cost": {
@@ -8764,7 +8764,7 @@
     "Description": "Joel is beloved by the survivors of Homebase for his humor, unbelievable stories, and stubbornly joyful approach to life.",
     "IsPermanent": true,
     "Personality": "IsDreamer",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "Tier": 4,
     "TierUpRecipe": {
       "Cost": {
@@ -8790,7 +8790,7 @@
     "Description": "Joel is beloved by the survivors of Homebase for his humor, unbelievable stories, and stubbornly joyful approach to life.",
     "IsPermanent": true,
     "Personality": "IsDreamer",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "Tier": 5,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/worker_joel_ur_t05.uasset",
     "ImagePaths": {
@@ -8805,7 +8805,7 @@
     "Description": "Karolina is beloved by the survivors of Homebase for her passion, bravery, and uncompromising badassery. ",
     "IsPermanent": true,
     "Personality": "IsAdventurous",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "Tier": 1,
     "TierUpRecipe": {
       "Cost": {
@@ -8828,7 +8828,7 @@
     "Description": "Karolina is beloved by the survivors of Homebase for her passion, bravery, and uncompromising badassery. ",
     "IsPermanent": true,
     "Personality": "IsAdventurous",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "Tier": 2,
     "TierUpRecipe": {
       "Cost": {
@@ -8852,7 +8852,7 @@
     "Description": "Karolina is beloved by the survivors of Homebase for her passion, bravery, and uncompromising badassery. ",
     "IsPermanent": true,
     "Personality": "IsAdventurous",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "Tier": 3,
     "TierUpRecipe": {
       "Cost": {
@@ -8877,7 +8877,7 @@
     "Description": "Karolina is beloved by the survivors of Homebase for her passion, bravery, and uncompromising badassery. ",
     "IsPermanent": true,
     "Personality": "IsAdventurous",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "Tier": 4,
     "TierUpRecipe": {
       "Cost": {
@@ -8903,7 +8903,7 @@
     "Description": "Karolina is beloved by the survivors of Homebase for her passion, bravery, and uncompromising badassery. ",
     "IsPermanent": true,
     "Personality": "IsAdventurous",
-    "Rarity": "Uncommon",
+    "Rarity": "Mythic",
     "Tier": 5,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/worker_karolina_ur_t05.uasset",
     "ImagePaths": {
@@ -8917,7 +8917,7 @@
     "DisplayName": "Leprechaun",
     "Description": "Is that Wee Crumblesnacks O\u0027Plenty?! Nope, it\u0027s the winner of this year\u0027s Spring It On! Leprechaun costume contest.",
     "LevelToXPRow": "VeryRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Epic",
     "RecycleRecipe": {
       "Amount": 100,
       "Cost": {},
@@ -8944,7 +8944,7 @@
     "DisplayName": "Leprechaun",
     "Description": "Is that Wee Crumblesnacks O\u0027Plenty?! Nope, it\u0027s the winner of this year\u0027s Spring It On! Leprechaun costume contest.",
     "LevelToXPRow": "VeryRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Epic",
     "RecycleRecipe": {
       "Amount": 100,
       "Cost": {},
@@ -8972,7 +8972,7 @@
     "DisplayName": "Leprechaun",
     "Description": "Is that Wee Crumblesnacks O\u0027Plenty?! Nope, it\u0027s the winner of this year\u0027s Spring It On! Leprechaun costume contest.",
     "LevelToXPRow": "VeryRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Epic",
     "RecycleRecipe": {
       "Amount": 100,
       "Cost": {},
@@ -9001,7 +9001,7 @@
     "DisplayName": "Leprechaun",
     "Description": "Is that Wee Crumblesnacks O\u0027Plenty?! Nope, it\u0027s the winner of this year\u0027s Spring It On! Leprechaun costume contest.",
     "LevelToXPRow": "VeryRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Epic",
     "RecycleRecipe": {
       "Amount": 100,
       "Cost": {},
@@ -9031,7 +9031,7 @@
     "DisplayName": "Leprechaun",
     "Description": "Is that Wee Crumblesnacks O\u0027Plenty?! Nope, it\u0027s the winner of this year\u0027s Spring It On! Leprechaun costume contest.",
     "LevelToXPRow": "VeryRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Epic",
     "RecycleRecipe": {
       "Amount": 100,
       "Cost": {},
@@ -9050,7 +9050,7 @@
     "DisplayName": "Survivor",
     "Description": "Assign this Survivor to a Squad to increase Squad power and gain Fortitude, Offense, Resistance or Tech. Assign {Gender}|gender(him, her) to a squad where the Lead Survivor is [Worker.Personality] to gain more power. Match set bonuses with other Survivors to gain [Worker.SetBonus.Buff].",
     "LevelToXPRow": "Common",
-    "Rarity": "Uncommon",
+    "Rarity": "Common",
     "RecycleRecipe": {
       "Cost": {},
       "Result": "AccountResource:reagent_people"
@@ -9075,7 +9075,7 @@
     "DisplayName": "Survivor",
     "Description": "Assign this Survivor to a Squad to increase Squad power and gain Fortitude, Offense, Resistance or Tech. Assign {Gender}|gender(him, her) to a squad where the Lead Survivor is [Worker.Personality] to gain more power. Match set bonuses with other Survivors to gain [Worker.SetBonus.Buff].",
     "LevelToXPRow": "Common",
-    "Rarity": "Uncommon",
+    "Rarity": "Common",
     "RecycleRecipe": {
       "Cost": {},
       "Result": "AccountResource:reagent_people"
@@ -9093,7 +9093,7 @@
     "DisplayName": "Survivor",
     "Description": "Assign this Survivor to a Squad to increase Squad power and gain Fortitude, Offense, Resistance or Tech. Assign {Gender}|gender(him, her) to a squad where the Lead Survivor is [Worker.Personality] to gain more power. Match set bonuses with other Survivors to gain [Worker.SetBonus.Buff].",
     "LevelToXPRow": "Rare",
-    "Rarity": "Uncommon",
+    "Rarity": "Rare",
     "RecycleRecipe": {
       "Amount": 25,
       "Cost": {},
@@ -9120,7 +9120,7 @@
     "DisplayName": "Survivor",
     "Description": "Assign this Survivor to a Squad to increase Squad power and gain Fortitude, Offense, Resistance or Tech. Assign {Gender}|gender(him, her) to a squad where the Lead Survivor is [Worker.Personality] to gain more power. Match set bonuses with other Survivors to gain [Worker.SetBonus.Buff].",
     "LevelToXPRow": "Rare",
-    "Rarity": "Uncommon",
+    "Rarity": "Rare",
     "RecycleRecipe": {
       "Amount": 25,
       "Cost": {},
@@ -9148,7 +9148,7 @@
     "DisplayName": "Survivor",
     "Description": "Assign this Survivor to a Squad to increase Squad power and gain Fortitude, Offense, Resistance or Tech. Assign {Gender}|gender(him, her) to a squad where the Lead Survivor is [Worker.Personality] to gain more power. Match set bonuses with other Survivors to gain [Worker.SetBonus.Buff].",
     "LevelToXPRow": "Rare",
-    "Rarity": "Uncommon",
+    "Rarity": "Rare",
     "RecycleRecipe": {
       "Amount": 25,
       "Cost": {},
@@ -9177,7 +9177,7 @@
     "DisplayName": "Survivor",
     "Description": "Assign this Survivor to a Squad to increase Squad power and gain Fortitude, Offense, Resistance or Tech. Assign {Gender}|gender(him, her) to a squad where the Lead Survivor is [Worker.Personality] to gain more power. Match set bonuses with other Survivors to gain [Worker.SetBonus.Buff].",
     "LevelToXPRow": "Rare",
-    "Rarity": "Uncommon",
+    "Rarity": "Rare",
     "RecycleRecipe": {
       "Amount": 25,
       "Cost": {},
@@ -9196,7 +9196,7 @@
     "DisplayName": "Survivor",
     "Description": "Assign this Survivor to a Squad to increase Squad power and gain Fortitude, Offense, Resistance or Tech. Assign {Gender}|gender(him, her) to a squad where the Lead Survivor is [Worker.Personality] to gain more power. Match set bonuses with other Survivors to gain [Worker.SetBonus.Buff].",
     "LevelToXPRow": "SuperRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Legendary",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -9223,7 +9223,7 @@
     "DisplayName": "Survivor",
     "Description": "Assign this Survivor to a Squad to increase Squad power and gain Fortitude, Offense, Resistance or Tech. Assign {Gender}|gender(him, her) to a squad where the Lead Survivor is [Worker.Personality] to gain more power. Match set bonuses with other Survivors to gain [Worker.SetBonus.Buff].",
     "LevelToXPRow": "SuperRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Legendary",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -9251,7 +9251,7 @@
     "DisplayName": "Survivor",
     "Description": "Assign this Survivor to a Squad to increase Squad power and gain Fortitude, Offense, Resistance or Tech. Assign {Gender}|gender(him, her) to a squad where the Lead Survivor is [Worker.Personality] to gain more power. Match set bonuses with other Survivors to gain [Worker.SetBonus.Buff].",
     "LevelToXPRow": "SuperRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Legendary",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -9280,7 +9280,7 @@
     "DisplayName": "Survivor",
     "Description": "Assign this Survivor to a Squad to increase Squad power and gain Fortitude, Offense, Resistance or Tech. Assign {Gender}|gender(him, her) to a squad where the Lead Survivor is [Worker.Personality] to gain more power. Match set bonuses with other Survivors to gain [Worker.SetBonus.Buff].",
     "LevelToXPRow": "SuperRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Legendary",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -9310,7 +9310,7 @@
     "DisplayName": "Survivor",
     "Description": "Assign this Survivor to a Squad to increase Squad power and gain Fortitude, Offense, Resistance or Tech. Assign {Gender}|gender(him, her) to a squad where the Lead Survivor is [Worker.Personality] to gain more power. Match set bonuses with other Survivors to gain [Worker.SetBonus.Buff].",
     "LevelToXPRow": "SuperRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Legendary",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -9402,7 +9402,7 @@
     "DisplayName": "Survivor",
     "Description": "Assign this Survivor to a Squad to increase Squad power and gain Fortitude, Offense, Resistance or Tech. Assign {Gender}|gender(him, her) to a squad where the Lead Survivor is [Worker.Personality] to gain more power. Match set bonuses with other Survivors to gain [Worker.SetBonus.Buff].",
     "LevelToXPRow": "VeryRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Epic",
     "RecycleRecipe": {
       "Amount": 100,
       "Cost": {},
@@ -9429,7 +9429,7 @@
     "DisplayName": "Survivor",
     "Description": "Assign this Survivor to a Squad to increase Squad power and gain Fortitude, Offense, Resistance or Tech. Assign {Gender}|gender(him, her) to a squad where the Lead Survivor is [Worker.Personality] to gain more power. Match set bonuses with other Survivors to gain [Worker.SetBonus.Buff].",
     "LevelToXPRow": "VeryRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Epic",
     "RecycleRecipe": {
       "Amount": 100,
       "Cost": {},
@@ -9457,7 +9457,7 @@
     "DisplayName": "Survivor",
     "Description": "Assign this Survivor to a Squad to increase Squad power and gain Fortitude, Offense, Resistance or Tech. Assign {Gender}|gender(him, her) to a squad where the Lead Survivor is [Worker.Personality] to gain more power. Match set bonuses with other Survivors to gain [Worker.SetBonus.Buff].",
     "LevelToXPRow": "VeryRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Epic",
     "RecycleRecipe": {
       "Amount": 100,
       "Cost": {},
@@ -9486,7 +9486,7 @@
     "DisplayName": "Survivor",
     "Description": "Assign this Survivor to a Squad to increase Squad power and gain Fortitude, Offense, Resistance or Tech. Assign {Gender}|gender(him, her) to a squad where the Lead Survivor is [Worker.Personality] to gain more power. Match set bonuses with other Survivors to gain [Worker.SetBonus.Buff].",
     "LevelToXPRow": "VeryRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Epic",
     "RecycleRecipe": {
       "Amount": 100,
       "Cost": {},
@@ -9516,7 +9516,7 @@
     "DisplayName": "Survivor",
     "Description": "Assign this Survivor to a Squad to increase Squad power and gain Fortitude, Offense, Resistance or Tech. Assign {Gender}|gender(him, her) to a squad where the Lead Survivor is [Worker.Personality] to gain more power. Match set bonuses with other Survivors to gain [Worker.SetBonus.Buff].",
     "LevelToXPRow": "VeryRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Epic",
     "RecycleRecipe": {
       "Amount": 100,
       "Cost": {},
@@ -9535,7 +9535,7 @@
     "DisplayName": "Troll",
     "Description": "One of the winners from this year\u0027s Husk Costume Party! You don\u0027t know why they\u0027re still wearing their costume, but they\u0027re good at their jobs!",
     "LevelToXPRow": "SuperRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Legendary",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -9562,7 +9562,7 @@
     "DisplayName": "Troll",
     "Description": "One of the winners from this year\u0027s Husk Costume Party! You don\u0027t know why they\u0027re still wearing their costume, but they\u0027re good at their jobs!",
     "LevelToXPRow": "SuperRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Legendary",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -9590,7 +9590,7 @@
     "DisplayName": "Troll",
     "Description": "One of the winners from this year\u0027s Husk Costume Party! You don\u0027t know why they\u0027re still wearing their costume, but they\u0027re good at their jobs!",
     "LevelToXPRow": "SuperRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Legendary",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -9619,7 +9619,7 @@
     "DisplayName": "Troll",
     "Description": "One of the winners from this year\u0027s Husk Costume Party! You don\u0027t know why they\u0027re still wearing their costume, but they\u0027re good at their jobs!",
     "LevelToXPRow": "SuperRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Legendary",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -9649,7 +9649,7 @@
     "DisplayName": "Troll",
     "Description": "One of the winners from this year\u0027s Husk Costume Party! You don\u0027t know why they\u0027re still wearing their costume, but they\u0027re good at their jobs!",
     "LevelToXPRow": "SuperRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Legendary",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -9668,7 +9668,7 @@
     "DisplayName": "Husk",
     "Description": "One of the winners from this year\u0027s Husk Costume Party! You don\u0027t know why they\u0027re still wearing their costume, but they\u0027re good at their jobs!",
     "LevelToXPRow": "Common",
-    "Rarity": "Uncommon",
+    "Rarity": "Common",
     "RecycleRecipe": {
       "Cost": {},
       "Result": "AccountResource:reagent_people"
@@ -9693,7 +9693,7 @@
     "DisplayName": "Husk",
     "Description": "One of the winners from this year\u0027s Husk Costume Party! You don\u0027t know why they\u0027re still wearing their costume, but they\u0027re good at their jobs!",
     "LevelToXPRow": "Common",
-    "Rarity": "Uncommon",
+    "Rarity": "Common",
     "RecycleRecipe": {
       "Cost": {},
       "Result": "AccountResource:reagent_people"
@@ -9711,7 +9711,7 @@
     "DisplayName": "Pitcher",
     "Description": "One of the winners from this year\u0027s Husk Costume Party! You don\u0027t know why they\u0027re still wearing their costume, but they\u0027re good at their jobs!",
     "LevelToXPRow": "Rare",
-    "Rarity": "Uncommon",
+    "Rarity": "Rare",
     "RecycleRecipe": {
       "Amount": 25,
       "Cost": {},
@@ -9738,7 +9738,7 @@
     "DisplayName": "Pitcher",
     "Description": "One of the winners from this year\u0027s Husk Costume Party! You don\u0027t know why they\u0027re still wearing their costume, but they\u0027re good at their jobs!",
     "LevelToXPRow": "Rare",
-    "Rarity": "Uncommon",
+    "Rarity": "Rare",
     "RecycleRecipe": {
       "Amount": 25,
       "Cost": {},
@@ -9766,7 +9766,7 @@
     "DisplayName": "Pitcher",
     "Description": "One of the winners from this year\u0027s Husk Costume Party! You don\u0027t know why they\u0027re still wearing their costume, but they\u0027re good at their jobs!",
     "LevelToXPRow": "Rare",
-    "Rarity": "Uncommon",
+    "Rarity": "Rare",
     "RecycleRecipe": {
       "Amount": 25,
       "Cost": {},
@@ -9795,7 +9795,7 @@
     "DisplayName": "Pitcher",
     "Description": "One of the winners from this year\u0027s Husk Costume Party! You don\u0027t know why they\u0027re still wearing their costume, but they\u0027re good at their jobs!",
     "LevelToXPRow": "Rare",
-    "Rarity": "Uncommon",
+    "Rarity": "Rare",
     "RecycleRecipe": {
       "Amount": 25,
       "Cost": {},
@@ -9814,7 +9814,7 @@
     "DisplayName": "Smasher",
     "Description": "One of the winners from this year\u0027s Husk Costume Party! You don\u0027t know why they\u0027re still wearing their costume, but they\u0027re good at their jobs!",
     "LevelToXPRow": "SuperRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Legendary",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -9841,7 +9841,7 @@
     "DisplayName": "Smasher",
     "Description": "One of the winners from this year\u0027s Husk Costume Party! You don\u0027t know why they\u0027re still wearing their costume, but they\u0027re good at their jobs!",
     "LevelToXPRow": "SuperRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Legendary",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -9869,7 +9869,7 @@
     "DisplayName": "Smasher",
     "Description": "One of the winners from this year\u0027s Husk Costume Party! You don\u0027t know why they\u0027re still wearing their costume, but they\u0027re good at their jobs!",
     "LevelToXPRow": "SuperRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Legendary",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -9898,7 +9898,7 @@
     "DisplayName": "Smasher",
     "Description": "One of the winners from this year\u0027s Husk Costume Party! You don\u0027t know why they\u0027re still wearing their costume, but they\u0027re good at their jobs!",
     "LevelToXPRow": "SuperRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Legendary",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -9928,7 +9928,7 @@
     "DisplayName": "Smasher",
     "Description": "One of the winners from this year\u0027s Husk Costume Party! You don\u0027t know why they\u0027re still wearing their costume, but they\u0027re good at their jobs!",
     "LevelToXPRow": "SuperRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Legendary",
     "RecycleRecipe": {
       "Amount": 225,
       "Cost": {},
@@ -10020,7 +10020,7 @@
     "DisplayName": "Lobber",
     "Description": "One of the winners from this year\u0027s Husk Costume Party! You don\u0027t know why they\u0027re still wearing their costume, but they\u0027re good at their jobs!",
     "LevelToXPRow": "VeryRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Epic",
     "RecycleRecipe": {
       "Amount": 100,
       "Cost": {},
@@ -10047,7 +10047,7 @@
     "DisplayName": "Lobber",
     "Description": "One of the winners from this year\u0027s Husk Costume Party! You don\u0027t know why they\u0027re still wearing their costume, but they\u0027re good at their jobs!",
     "LevelToXPRow": "VeryRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Epic",
     "RecycleRecipe": {
       "Amount": 100,
       "Cost": {},
@@ -10075,7 +10075,7 @@
     "DisplayName": "Lobber",
     "Description": "One of the winners from this year\u0027s Husk Costume Party! You don\u0027t know why they\u0027re still wearing their costume, but they\u0027re good at their jobs!",
     "LevelToXPRow": "VeryRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Epic",
     "RecycleRecipe": {
       "Amount": 100,
       "Cost": {},
@@ -10104,7 +10104,7 @@
     "DisplayName": "Lobber",
     "Description": "One of the winners from this year\u0027s Husk Costume Party! You don\u0027t know why they\u0027re still wearing their costume, but they\u0027re good at their jobs!",
     "LevelToXPRow": "VeryRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Epic",
     "RecycleRecipe": {
       "Amount": 100,
       "Cost": {},
@@ -10134,7 +10134,7 @@
     "DisplayName": "Lobber",
     "Description": "One of the winners from this year\u0027s Husk Costume Party! You don\u0027t know why they\u0027re still wearing their costume, but they\u0027re good at their jobs!",
     "LevelToXPRow": "VeryRare",
-    "Rarity": "Uncommon",
+    "Rarity": "Epic",
     "RecycleRecipe": {
       "Amount": 100,
       "Cost": {},

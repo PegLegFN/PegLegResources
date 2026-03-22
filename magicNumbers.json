@@ -1,6 +1,22 @@
 {
-  "comment": "This file was originally for any data that Epic doesnt provide in the game files, or that are to inconvenient to extract from the game files, but is basically just used for Xp Cap stuff",
+  "comment": "This file was originally for any data that Epic doesnt provide in the game files, or that are to inconvenient to extract from the game files",
   "stwXPResetDay": 2,
   "playtimeXPResetDay": 4,
-  "playtimeXPLimit": 4000000
+  "playtimeXPLimit": 4000000,
+  "fulfillmentsToMissionRewards": {
+    "63DF20E845940D7264D778AE0784FF6D": "CardPack:cardpack_hero_commando_sr",
+    "3E8904304CF1828E389C2181B34D2C5E": "CardPack:cardpack_hero_constructor_vr",
+    "F4B90E244FC2BCA3F466B2A2836F6D2C": "CardPack:cardpack_hero_ninja_vr",
+    "D45C1F26453386B25266CCBB25C45A80": "CardPack:cardpack_hero_outlander_vr",
+    "8D242FAA4F69E9B23F315A8BBC20604D": "unknown",
+    "A29AAE1A460E299AC766EB9250FBD174": "unknown",
+    "1BF7BFF84BBCC52BD873999108947953": "unknown"
+  },
+  "secretMissionQuests":{
+    "CannyValleyQuest_Filler_2_D1":[
+      "Quest:outpostquest_t3_l1",
+      "Quest:cannyvalleyquest_filler_1_d1",
+      "Quest:cannyvalleyquest_filler_2_d1"
+    ]
+  }
 }

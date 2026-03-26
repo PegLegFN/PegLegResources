@@ -4,15 +4,17 @@
   "playtimeXPResetDay": 4,
   "playtimeXPLimit": 4000000,
   "fulfillmentsToMissionRewards": {
-    "63DF20E845940D7264D778AE0784FF6D": "CardPack:cardpack_hero_commando_sr",
     "1BF7BFF84BBCC52BD873999108947953": "CardPack:cardpack_hero_commando_vr",
-    "A29AAE1A460E299AC766EB9250FBD174": "CardPack:cardpack_hero_constructor_sr",
+    "63DF20E845940D7264D778AE0784FF6D": "CardPack:cardpack_hero_commando_sr",
     "3E8904304CF1828E389C2181B34D2C5E": "CardPack:cardpack_hero_constructor_vr",
+    "A29AAE1A460E299AC766EB9250FBD174": "CardPack:cardpack_hero_constructor_sr",
     "F4B90E244FC2BCA3F466B2A2836F6D2C": "CardPack:cardpack_hero_ninja_vr",
     "8D242FAA4F69E9B23F315A8BBC20604D": "CardPack:cardpack_hero_ninja_sr",
     "D45C1F26453386B25266CCBB25C45A80": "CardPack:cardpack_hero_outlander_vr",
-    "C8B6CD3546C8B6D1E52AD2BD3381FD58": "CardPack:cardpack_manager_martialartist_sr"
+    "C8B6CD3546C8B6D1E52AD2BD3381FD58": "CardPack:cardpack_manager_martialartist_sr",
+    "41FD23434C9D74FB5228A383DC8B94F6": "CardPack:cardpack_manager_explorer_sr"
   },
+  "fallbackFulfillment":"Token:athena_unrevealedsummerquest",
   "secretMissionQuests":{
     "CannyValleyQuest_Filler_2_D1":[
       "Quest:outpostquest_t3_l1",

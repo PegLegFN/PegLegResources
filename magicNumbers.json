@@ -16,7 +16,8 @@
     "41FD23434C9D74FB5228A383DC8B94F6": "CardPack:cardpack_manager_explorer_sr",
     "E474FDA448466AD4F694928F54E91CC2": "CardPack:cardpack_manager_soldier_sr",
     "95EC174643B92070EA975AB58F18EA0E": "CardPack:cardpack_manager_inventor_sr",
-    "D9A43FBD4E943CDE89063497DE68E2B1" : "CardPack:cardpack_manager_gadgeteer_sr"
+    "D9A43FBD4E943CDE89063497DE68E2B1": "CardPack:cardpack_manager_gadgeteer_sr",
+    "317D97C34E085CE9DA5F6295D2C40887": "CardPack:cardpack_manager_engineer_sr"
   },
   "fallbackFulfillmentUK":"Token:athena_unrevealedsummerquest",
   "fallbackFulfillment":"CardPack:cardpack_manager_sr",

@@ -17,10 +17,11 @@
     "E474FDA448466AD4F694928F54E91CC2": "CardPack:cardpack_manager_soldier_sr",
     "95EC174643B92070EA975AB58F18EA0E": "CardPack:cardpack_manager_inventor_sr",
     "D9A43FBD4E943CDE89063497DE68E2B1": "CardPack:cardpack_manager_gadgeteer_sr",
-    "317D97C34E085CE9DA5F6295D2C40887": "CardPack:cardpack_manager_engineer_sr"
+    "317D97C34E085CE9DA5F6295D2C40887": "CardPack:cardpack_manager_engineer_sr",
+    "56A3574E49688095BEADC28A639C66C5": "CardPack:cardpack_manager_doctor_sr"
   },
   "fallbackFulfillmentUK":"Token:athena_unrevealedsummerquest",
-  "fallbackFulfillment":"CardPack:cardpack_manager_sr",
+  "fallbackFulfillment":"CardPack:cardpack_manager_trainer_sr",
   "rivalryURLPath":"mesh/Fortnite/Fortnite.Hera_Terrain.51618937/metadata",
   "questErrorDelay":5.0,
   "secretMissionQuests":{

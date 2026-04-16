@@ -1,4 +1,14 @@
 {
+  "A Voyager\u0027s Arrival": {
+    "EventTag": "EventFlag.Spring2026",
+    "QuestPages": [
+      [
+        "Quest:DVI_Quest_A01_Interact",
+        "Quest:DVI_Quest_A02_Interact",
+        "Quest:DVI_Quest_A03_Destroy"
+      ]
+    ]
+  },
   "Beyond the Stellar Horizon": {
     "EventTag": "EventFlag.Season9.Phase2",
     "QuestPages": [

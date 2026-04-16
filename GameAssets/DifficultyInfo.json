@@ -440,6 +440,13 @@
     "RecommendedRating": 70,
     "RequiredRating": 64
   },
+  "Theater_HestiaBeauty": {
+    "DifficultyLevel": 0,
+    "DisplayName": "1 - Normal",
+    "MaximumRating": 225,
+    "RecommendedRating": 1,
+    "RequiredRating": 0
+  },
   "Theater_Horde_Base": {
     "DifficultyLevel": 0,
     "DisplayName": "1 - 4 Players",

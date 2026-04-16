@@ -9352,7 +9352,7 @@
       {
         "BackendName": "cannyvalley_mechanical_exploration",
         "Count": 1,
-        "Description": "Fully explore a Ghost Town zone in a successful mission",
+        "Description": "Fully explore a 58\u002B Ghost Town zone in a successful mission",
         "HudShortDescription": "Ghost Town explored",
         "ZonePowerLevel": 58
       }
@@ -9811,6 +9811,12 @@
       {
         "Hidden": true,
         "Item": "Quest:cannyvalleyquest_outpost_l6",
+        "Quantity": 1,
+        "Selectable": false
+      },
+      {
+        "Hidden": false,
+        "Item": "SparksSong:sid_placeholder_745",
         "Quantity": 1,
         "Selectable": false
       },
@@ -14855,12 +14861,6 @@
       {
         "Hidden": false,
         "Item": "HomebaseNode:questreward_expedition_truck3",
-        "Quantity": 1,
-        "Selectable": false
-      },
-      {
-        "Hidden": false,
-        "Item": "HomebaseNode:questreward_homebase_defender4",
         "Quantity": 1,
         "Selectable": false
       },
@@ -21332,6 +21332,105 @@
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-Single-128.png",
       "LargePreview": "ExportedImages\\T-Icon-Single-128.png"
+    }
+  },
+  "Quest:dvi_quest_a01_interact": {
+    "Type": "Quest",
+    "Name": "DVI_Quest_A01_Interact",
+    "DisplayName": "Pondering The Orb",
+    "Category": "LTE_Spring2026",
+    "Description": "A giant Orb has appeared in the sky above Homebase, and we\u2019re getting reports it appears anywhere we operate! Place some scanners to gather intel in any zone!",
+    "IsPermanent": true,
+    "Objectives": [
+      {
+        "BackendName": "DVI_Quest_A01_Interact_obj0",
+        "Count": 6,
+        "Description": "Place scanners in any zone",
+        "HudShortDescription": "Scanners Placed"
+      }
+    ],
+    "Rewards": [
+      {
+        "Hidden": false,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 5000,
+        "Selectable": false
+      },
+      {
+        "Hidden": true,
+        "Item": "Quest:dvi_quest_a02_interact",
+        "Quantity": 1,
+        "Selectable": false
+      }
+    ],
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/quests/events/spring2026/dvi_quest_a01_interact.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T-IconMagnifying-Glass-128.png",
+      "LargePreview": "ExportedImages\\T-IconMagnifying-Glass-128.png"
+    }
+  },
+  "Quest:dvi_quest_a02_interact": {
+    "Type": "Quest",
+    "Name": "DVI_Quest_A02_Interact",
+    "DisplayName": "Droning On",
+    "Category": "LTE_Spring2026",
+    "Description": "A swarm of drones has been flowing out of that Orb in the sky! Some of them have crashed, go out there and gather those crashed drones and bring them back!",
+    "IsPermanent": true,
+    "Objectives": [
+      {
+        "BackendName": "DVI_Quest_A02_Interact_obj0",
+        "Count": 10,
+        "Description": "Gather crashed drone parts in any zone.",
+        "HudShortDescription": "Crashed Drone Parts Gathered"
+      }
+    ],
+    "Rewards": [
+      {
+        "Hidden": false,
+        "Item": "AccountResource:schematicxp",
+        "Quantity": 5000,
+        "Selectable": false
+      },
+      {
+        "Hidden": true,
+        "Item": "Quest:dvi_quest_a03_destroy",
+        "Quantity": 1,
+        "Selectable": false
+      }
+    ],
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/quests/events/spring2026/dvi_quest_a02_interact.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T-Icon-Research-128.png",
+      "LargePreview": "ExportedImages\\T-Icon-Research-128.png"
+    }
+  },
+  "Quest:dvi_quest_a03_destroy": {
+    "Type": "Quest",
+    "Name": "DVI_Quest_A03_Destroy",
+    "DisplayName": "Drone-Be-Gone",
+    "Category": "LTE_Spring2026",
+    "Description": "Don\u2019t let the drones get back to the Orb ship! Take out the remaining drones!",
+    "IsPermanent": true,
+    "Objectives": [
+      {
+        "BackendName": "DVI_Quest_A03_Destroy_obj0",
+        "Count": 10,
+        "Description": "Destroy Orb ship drones!",
+        "HudShortDescription": "Drones Destroyed"
+      }
+    ],
+    "Rewards": [
+      {
+        "Hidden": false,
+        "Item": "AccountResource:voucher_cardpack_bronze",
+        "Quantity": 1,
+        "Selectable": false
+      }
+    ],
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/quests/events/spring2026/dvi_quest_a03_destroy.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\Icon-Constructor-ActuatedAttacks-128.png",
+      "LargePreview": "ExportedImages\\Icon-Constructor-ActuatedAttacks-128.png"
     }
   },
   "Quest:elderquest_battlethehorde_1": {
@@ -39512,26 +39611,20 @@
     ],
     "Rewards": [
       {
-        "Hidden": false,
+        "Hidden": true,
         "Item": "CardPack:cardpack_worker_c",
         "Quantity": 2,
         "Selectable": false
       },
       {
-        "Hidden": false,
+        "Hidden": true,
         "Item": "AccountResource:currency_mtxswap",
         "Quantity": 100,
         "Selectable": false
       },
       {
-        "Hidden": false,
+        "Hidden": true,
         "Item": "Hero:hid_constructor_rushbase_uc_t01",
-        "Quantity": 1,
-        "Selectable": false
-      },
-      {
-        "Hidden": false,
-        "Item": "HomebaseNode:questreward_stonewood_squad_ssd1",
         "Quantity": 1,
         "Selectable": false
       },
@@ -39543,13 +39636,139 @@
       },
       {
         "Hidden": true,
-        "Item": "Quest:stonewoodquest_tutorial_survivorsquads",
+        "Item": "Token:campaigntutorialcomplete",
         "Quantity": 1,
         "Selectable": false
       },
       {
         "Hidden": true,
-        "Item": "Token:campaigntutorialcomplete",
+        "Item": "Weapon:wid_edged_sword_medium_c_ore_t00",
+        "Quantity": 1,
+        "Selectable": false
+      },
+      {
+        "Hidden": true,
+        "Item": "Trap:tid_ceiling_electric_aoe_r_t01",
+        "Quantity": 2,
+        "Selectable": false
+      },
+      {
+        "Hidden": true,
+        "Item": "Trap:tid_wall_darts_r_t01",
+        "Quantity": 2,
+        "Selectable": false
+      },
+      {
+        "Hidden": true,
+        "Item": "Trap:tid_floor_spikes_wood_c_t01",
+        "Quantity": 3,
+        "Selectable": false
+      },
+      {
+        "Hidden": true,
+        "Item": "Ingredient:ingredient_twine_t01",
+        "Quantity": 4,
+        "Selectable": false
+      },
+      {
+        "Hidden": true,
+        "Item": "Ingredient:ingredient_ore_alloy",
+        "Quantity": 6,
+        "Selectable": false
+      },
+      {
+        "Hidden": true,
+        "Item": "Ammo:ammodataexplosive",
+        "Quantity": 48,
+        "Selectable": false
+      },
+      {
+        "Hidden": true,
+        "Item": "Weapon:wid_pistol_semiauto_c_ore_t00",
+        "Quantity": 1,
+        "Selectable": false
+      },
+      {
+        "Hidden": true,
+        "Item": "Weapon:wid_assault_auto_c_ore_t00",
+        "Quantity": 1,
+        "Selectable": false
+      },
+      {
+        "Hidden": true,
+        "Item": "Ammo:ammodatabulletsheavy",
+        "Quantity": 60,
+        "Selectable": false
+      },
+      {
+        "Hidden": true,
+        "Item": "Ammo:ammodatashells",
+        "Quantity": 52,
+        "Selectable": false
+      },
+      {
+        "Hidden": true,
+        "Item": "Weapon:wid_launcher_rocket_r_ore_t01",
+        "Quantity": 1,
+        "Selectable": false
+      },
+      {
+        "Hidden": true,
+        "Item": "Ingredient:ingredient_mechanical_parts_t01",
+        "Quantity": 4,
+        "Selectable": false
+      },
+      {
+        "Hidden": true,
+        "Item": "Ingredient:ingredient_nuts_bolts",
+        "Quantity": 10,
+        "Selectable": false
+      },
+      {
+        "Hidden": true,
+        "Item": "Ammo:ammodatabulletslight",
+        "Quantity": 1100,
+        "Selectable": false
+      },
+      {
+        "Hidden": true,
+        "Item": "WorldItem:wooditemdata",
+        "Quantity": 250,
+        "Selectable": false
+      },
+      {
+        "Hidden": true,
+        "Item": "WorldItem:stoneitemdata",
+        "Quantity": 250,
+        "Selectable": false
+      },
+      {
+        "Hidden": true,
+        "Item": "WorldItem:metalitemdata",
+        "Quantity": 250,
+        "Selectable": false
+      },
+      {
+        "Hidden": true,
+        "Item": "Schematic:sid_pistol_semiauto_c_ore_t00",
+        "Quantity": 1,
+        "Selectable": false
+      },
+      {
+        "Hidden": true,
+        "Item": "Schematic:sid_assault_semiauto_c_ore_t00",
+        "Quantity": 1,
+        "Selectable": false
+      },
+      {
+        "Hidden": true,
+        "Item": "Schematic:sid_floor_spikes_wood_c_t01",
+        "Quantity": 1,
+        "Selectable": false
+      },
+      {
+        "Hidden": true,
+        "Item": "AccountResource:voucher_basicpack",
         "Quantity": 1,
         "Selectable": false
       }
@@ -39664,6 +39883,12 @@
         "Item": "Quest:tutorial_loadout_support1",
         "Quantity": 1,
         "Selectable": false
+      },
+      {
+        "Hidden": true,
+        "Item": "Quest:stonewoodquest_tutorial_survivorsquadleader",
+        "Quantity": 1,
+        "Selectable": false
       }
     ],
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/quests/outpost/outpostquest_t1_l2.uasset",
@@ -39744,7 +39969,7 @@
       },
       {
         "Hidden": true,
-        "Item": "Quest:tutorial_loadout_gadgets",
+        "Item": "Quest:stonewoodquest_tutorial_gadgets",
         "Quantity": 1,
         "Selectable": false
       },
@@ -39805,12 +40030,6 @@
     "Description": "Install your Storm Shield Amplifier and defend your Storm Shield. ",
     "IsPermanent": true,
     "Objectives": [
-      {
-        "BackendName": "custom_defendersupplyreceived",
-        "Count": 1,
-        "Description": "Defender Supply Drop Received",
-        "HudShortDescription": ""
-      },
       {
         "BackendName": "complete_outpost_1_4",
         "Count": 1,
@@ -39947,6 +40166,12 @@
       {
         "Hidden": true,
         "Item": "Quest:stonewoodquest_reactive_fetch_hoverboard",
+        "Quantity": 1,
+        "Selectable": false
+      },
+      {
+        "Hidden": true,
+        "Item": "Quest:stonewoodquest_tutorial_seasonalcontent_exchange",
         "Quantity": 1,
         "Selectable": false
       }
@@ -40521,12 +40746,6 @@
       {
         "Hidden": false,
         "Item": "HomebaseNode:questreward_expedition_propplane2",
-        "Quantity": 1,
-        "Selectable": false
-      },
-      {
-        "Hidden": false,
-        "Item": "HomebaseNode:questreward_homebase_defender3",
         "Quantity": 1,
         "Selectable": false
       },
@@ -41129,12 +41348,6 @@
         "Selectable": false
       },
       {
-        "Hidden": false,
-        "Item": "HomebaseNode:questreward_homebase_defender4",
-        "Quantity": 1,
-        "Selectable": false
-      },
-      {
         "Hidden": true,
         "Item": "Quest:cannyvalleyquest_filler_1_d5",
         "Quantity": 1,
@@ -41663,12 +41876,6 @@
       {
         "Hidden": false,
         "Item": "HomebaseNode:questreward_expedition_truck5",
-        "Quantity": 1,
-        "Selectable": false
-      },
-      {
-        "Hidden": false,
-        "Item": "HomebaseNode:questreward_homebase_defender5",
         "Quantity": 1,
         "Selectable": false
       },
@@ -45530,14 +45737,14 @@
     "Name": "PickaxeQuest_STW002_Tier_3",
     "DisplayName": "Tech Axe",
     "Category": "SideQuests",
-    "Description": "Reach Account Level 25 to earn your first Pickaxe upgrade.",
+    "Description": "Reach Homebase Level 25 to earn your first Pickaxe upgrade.",
     "IsPermanent": true,
     "Objectives": [
       {
         "BackendName": "pickaxequest_stw002_tier_3",
         "Count": 1,
-        "Description": "Reach Account Level 25",
-        "HudShortDescription": "Account Level 25 reached"
+        "Description": "Reach Homebase Level 25",
+        "HudShortDescription": "Homebase Level 25 reached"
       }
     ],
     "Rewards": [
@@ -48349,12 +48556,6 @@
       },
       {
         "Hidden": false,
-        "Item": "HomebaseNode:questreward_homebase_defender3",
-        "Quantity": 1,
-        "Selectable": false
-      },
-      {
-        "Hidden": false,
         "Item": "HomebaseNode:questreward_plankerton_squad_ssd5",
         "Quantity": 1,
         "Selectable": false
@@ -48541,13 +48742,103 @@
     "IsPermanent": true,
     "Objectives": [
       {
-        "BackendName": "PlankertonQuest_Tutorial_Perk_OBJ_TabCallout",
+        "BackendName": "PlankertonQuest_Tutorial_Perk_OBJ_GuardScreen01",
         "Count": 1,
         "Description": "",
         "HudShortDescription": ""
       },
       {
-        "BackendName": "PlankertonQuest_Tutorial_Perk_OBJ_GuardScreen01",
+        "BackendName": "PlankertonQuest_Tutorial_Perk_OBJ_HighlightSchemBtn",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "PlankertonQuest_Tutorial_Perk_OBJ_InspectCommand",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "PlankertonQuest_Tutorial_Perk_OBJ_UpgradeCommand",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "PlankertonQuest_Tutorial_Perk_OBJ_Recombobulator",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "PlankertonQuest_Tutorial_Perk_OBJ_RecomboPerkCommand",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "PlankertonQuest_Tutorial_Perk_OBJ_RecomboPerkHighlight",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "PlankertonQuest_Tutorial_Perk_OBJ_RecomboUpgrade",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "PlankertonQuest_Tutorial_Perk_OBJ_RecomboUpgradeHighlight",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "PlankertonQuest_Tutorial_Perk_OBJ_RecomboCost",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "PlankertonQuest_Tutorial_Perk_OBJ_RecomboCostHighlight",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "PlankertonQuest_Tutorial_Perk_OBJ_RecomboPerkUpTier",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "PlankertonQuest_Tutorial_Perk_OBJ_RecomboPerkUpTierHighlight",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "PlankertonQuest_Tutorial_Perk_OBJ_RecomboPerkUpElement",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "PlankertonQuest_Tutorial_Perk_OBJ_RecomboPerkUpElementHighlight",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "PlankertonQuest_Tutorial_Perk_OBJ_RecomboResources",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "PlankertonQuest_Tutorial_Perk_OBJ_RecomboCustomizing",
         "Count": 1,
         "Description": "",
         "HudShortDescription": ""
@@ -61113,6 +61404,24 @@
     "Rewards": [
       {
         "Hidden": false,
+        "Item": "HomebaseNode:questreward_stonewood_squad_ssd1",
+        "Quantity": 1,
+        "Selectable": false
+      },
+      {
+        "Hidden": true,
+        "Item": "Quest:stonewoodquest_tutorial_survivorsquads",
+        "Quantity": 1,
+        "Selectable": false
+      },
+      {
+        "Hidden": true,
+        "Item": "Quest:stonewoodquest_tutorial_schematics",
+        "Quantity": 1,
+        "Selectable": false
+      },
+      {
+        "Hidden": false,
         "Item": "Ammo:ammodatabulletsmedium",
         "Quantity": 200,
         "Selectable": false
@@ -61271,6 +61580,12 @@
         "Hidden": true,
         "Item": "Quest:tutorial_research",
         "Quantity": 1,
+        "Selectable": false
+      },
+      {
+        "Hidden": false,
+        "Item": "AccountResource:currency_xrayllama",
+        "Quantity": 100,
         "Selectable": false
       }
     ],
@@ -61447,7 +61762,7 @@
     "Name": "StonewoodQuest_Filler_1_D2",
     "DisplayName": "Gimme Three",
     "Category": "MainQuests",
-    "Description": "Survivors are in need of rescue! Complete a mission and bring them home.",
+    "Description": "Survivors are in need of rescue! Bring them home.",
     "IsPermanent": true,
     "Objectives": [
       {
@@ -61455,13 +61770,6 @@
         "Count": 3,
         "Description": "Save 3 Survivors",
         "HudShortDescription": "Survivors saved"
-      },
-      {
-        "BackendName": "complete_pve01_diff2",
-        "Count": 1,
-        "Description": "Complete a mission in a 3\u002B zone",
-        "HudShortDescription": "",
-        "ZonePowerLevel": 3
       }
     ],
     "Rewards": [
@@ -61557,12 +61865,6 @@
       },
       {
         "Hidden": false,
-        "Item": "HomebaseNode:questreward_homebase_defender",
-        "Quantity": 1,
-        "Selectable": false
-      },
-      {
-        "Hidden": false,
         "Item": "HomebaseNode:questreward_mission_defender",
         "Quantity": 1,
         "Selectable": false
@@ -61588,18 +61890,6 @@
       {
         "Hidden": true,
         "Item": "Quest:stonewoodquest_tutorial_levelup_defender",
-        "Quantity": 1,
-        "Selectable": false
-      },
-      {
-        "Hidden": true,
-        "Item": "Quest:tutorial_loadout_preset1",
-        "Quantity": 1,
-        "Selectable": false
-      },
-      {
-        "Hidden": false,
-        "Item": "Schematic:sid_floor_defender",
         "Quantity": 1,
         "Selectable": false
       },
@@ -62117,6 +62407,12 @@
         "Selectable": false
       },
       {
+        "Hidden": true,
+        "Item": "Quest:welcome_quest_a01_destroy",
+        "Quantity": 1,
+        "Selectable": false
+      },
+      {
         "Hidden": false,
         "Item": "Schematic:sid_floor_health_c_t00",
         "Quantity": 1,
@@ -62155,12 +62451,6 @@
       {
         "Hidden": false,
         "Item": "HomebaseNode:questreward_expedition_dirtbike",
-        "Quantity": 1,
-        "Selectable": false
-      },
-      {
-        "Hidden": false,
-        "Item": "HomebaseNode:questreward_homebase_defender2",
         "Quantity": 1,
         "Selectable": false
       },
@@ -62769,7 +63059,97 @@
         "HudShortDescription": ""
       },
       {
+        "BackendName": "Expeditions_Highlight_Command_Exp",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
         "BackendName": "Expeditions_Intro",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "Expeditions_Highlight_Exp_Avail",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "Expeditions_Highlight_Exp_Details",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "Expeditions_Highlight_Exp_Prep",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "Expeditions_Guard_Exp_Prep",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "Expeditions_Hightlight_Exp_Slot",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "Expeditions_Guard_Exp_Slot",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "Expeditions_Hightlight_Exp_Heroes",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "Expeditions_Hightlight_Exp_Success",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "Expeditions_Guard_Exp_Slot_2",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "Expeditions_Guard_Exp_Slot_3",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "Expeditions_Highlight_Exp_Start",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "Expeditions_Highlight_Exp_Start_Warn",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "Expeditions_Highlight_Exp_Progress",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "Expeditions_Highlight_Exp_Abandon",
         "Count": 1,
         "Description": "",
         "HudShortDescription": ""
@@ -62777,6 +63157,111 @@
     ],
     "Rewards": [],
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/quests/stonewood/stonewoodquest_tutorial_expeditions.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T-Icon-Quest-Journal-64.png",
+      "LargePreview": "ExportedImages\\T-Icon-Quest-Journal-64.png"
+    }
+  },
+  "Quest:stonewoodquest_tutorial_gadgets": {
+    "Type": "Quest",
+    "Name": "StonewoodQuest_Tutorial_Gadgets",
+    "DisplayName": "(Hidden) Tutorial Gadgets",
+    "Category": "SideQuests",
+    "IsPermanent": true,
+    "Objectives": [
+      {
+        "BackendName": "GadgetsTutorial_Intro_Gadgets",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "GadgetsTutorial_Guard_Kevin",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "GadgetsTutorial_Guard_RayIntro",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "GadgetsTutorial_Highlight_Gadgets",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "GadgetsTutorial_Guard_Upgrades",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "GadgetsTutorial_Highlight_Upgrades",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "GadgetsTutorial_Guard_GadgetsGrid",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "GadgetsTutorial_Guard_ChangeHero",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "GadgetsTutorial_Highlight_ChangeHero",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "GadgetsTutorial_Guard_IntroGadgets",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "GadgetsTutorial_Guard_AddGadget",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "GadgetsTutorial_Highlight_AddGadget",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "GadgetsTutorial_Guard_AvailableGadgets",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "GadgetsTutorial_Highlight_AvailableGadgets",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "GadgetsTutorial_Guard_Conclusion",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      }
+    ],
+    "Rewards": [],
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/quests/stonewood/stonewoodquest_tutorial_gadgets.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-Quest-Journal-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Quest-Journal-64.png"
@@ -62790,7 +63275,43 @@
     "IsPermanent": true,
     "Objectives": [
       {
-        "BackendName": "DefenderUpgrade_TabCallout",
+        "BackendName": "DefenderUpgrade_Guard_Ready",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "DefenderUpgrade_Highlight_Loadout",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "DefenderUpgrade_Guard_Loadout",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "DefenderUpgrade_Highlight_Defender_Select",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "DefenderUpgrade_Guard_Defender_Select",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "DefenderUpgrade_Guard_Defender_Nice",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "DefenderUpgrade_Intro_Defender_Button",
         "Count": 1,
         "Description": "",
         "HudShortDescription": ""
@@ -62802,25 +63323,38 @@
         "HudShortDescription": ""
       },
       {
-        "BackendName": "DefenderUpgrade_Highlight_Command",
+        "BackendName": "DefenderUpgrade_Highlight_Defenders",
         "Count": 1,
         "Description": "",
         "HudShortDescription": ""
       },
       {
-        "BackendName": "DefenderUpgrade_Guard_Heroes",
+        "BackendName": "DefenderUpgrade_Guard_Defenders",
         "Count": 1,
         "Description": "",
         "HudShortDescription": ""
       },
       {
-        "BackendName": "DefenderUpgrade_Intro_Defenders",
+        "BackendName": "DefenderUpgrade_Highlight_Defenders_TileList",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "DefenderUpgrade_Guard_Roster",
         "Count": 1,
         "Description": "",
         "HudShortDescription": ""
       }
     ],
-    "Rewards": [],
+    "Rewards": [
+      {
+        "Hidden": true,
+        "Item": "Quest:tutorial_loadout_preset1",
+        "Quantity": 1,
+        "Selectable": false
+      }
+    ],
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/quests/stonewood/stonewoodquest_tutorial_levelup_defender.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-Quest-Journal-64.png",
@@ -62835,12 +63369,6 @@
     "IsPermanent": true,
     "Objectives": [
       {
-        "BackendName": "HeroUpgrade_TabCallout",
-        "Count": 1,
-        "Description": "",
-        "HudShortDescription": ""
-      },
-      {
         "BackendName": "HeroUpgrade_Guard_Command",
         "Count": 1,
         "Description": "",
@@ -62854,6 +63382,48 @@
       },
       {
         "BackendName": "HeroUpgrade_Guard_Heroes",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "HeroUpgrade_Highlight_Manage_Button",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "HeroUpgrade_Guard_SelectAHero",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "HeroUpgrade_Guard_HeroAttributes",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "HeroUpgrade_Highlight_HeroAttributes",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "HeroUpgrade_Guard_LevelUp",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "HeroUpgrade_Highlight_LevelUp",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "HeroUpgrade_Guard_Conclusion",
         "Count": 1,
         "Description": "",
         "HudShortDescription": ""
@@ -62880,7 +63450,79 @@
         "HudShortDescription": ""
       },
       {
-        "BackendName": "SchematicUpgrade_ArmoryGuard",
+        "BackendName": "SchematicUpgrade_Guard_Armory",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "StonewoodQuest_Highlight_Schematics",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "SchematicUpgrade_Guard_Item",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "StonewoodQuest_Highlight_Item",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "SchematicUpgrade_Guard_Level",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "SchematicUpgrade_Highlight_Level",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "SchematicUpgrade_Guard_Cost",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "SchematicUpgrade_Highlight_Cost",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "SchematicUpgrade_Guard_Stats",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "SchematicUpgrade_Highlight_Stats",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "SchematicUpgrade_Guard_Confirm",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "SchematicUpgrade_Highlight_Confirm",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "SchematicUpgrade_Guard_End",
         "Count": 1,
         "Description": "",
         "HudShortDescription": ""
@@ -62893,6 +63535,112 @@
       "LargePreview": "ExportedImages\\T-Icon-Quest-Journal-64.png"
     }
   },
+  "Quest:stonewoodquest_tutorial_schematics": {
+    "Type": "Quest",
+    "Name": "StonewoodQuest_Tutorial_Schematics",
+    "DisplayName": "(Hidden) Schematics Tutorial",
+    "Category": "SideQuests",
+    "IsPermanent": true,
+    "Objectives": [
+      {
+        "BackendName": "StonewoodQuest_Tutorial_Schematics_01",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "StonewoodQuest_Tutorial_Schematics_02",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "StonewoodQuest_Tutorial_Schematics_03",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "StonewoodQuest_Tutorial_Schematics_04",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "StonewoodQuest_Tutorial_Schematics_05",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "StonewoodQuest_Tutorial_Schematics_06",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "StonewoodQuest_Tutorial_Schematics_07",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "StonewoodQuest_Tutorial_Schematics_08",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "StonewoodQuest_Tutorial_Schematics_09",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "StonewoodQuest_Tutorial_Schematics_10",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "StonewoodQuest_Tutorial_Schematics_11",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "StonewoodQuest_Tutorial_Schematics_12",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "StonewoodQuest_Tutorial_Schematics_13",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      }
+    ],
+    "Rewards": [],
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/quests/stonewood/stonewoodquest_tutorial_schematics.uasset"
+  },
+  "Quest:stonewoodquest_tutorial_seasonalcontent_exchange": {
+    "Type": "Quest",
+    "Name": "StonewoodQuest_Tutorial_SeasonalContent_Exchange",
+    "DisplayName": "(Hidden) Seasonal Content \u0026 Exchanges Tutorial",
+    "Category": "",
+    "IsPermanent": true,
+    "Objectives": [
+      {
+        "BackendName": "SeasonalContent_Exchange_Guard",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      }
+    ],
+    "Rewards": [],
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/quests/stonewood/stonewoodquest_tutorial_seasonalcontent_exchange.uasset"
+  },
   "Quest:stonewoodquest_tutorial_survivorslotting": {
     "Type": "Quest",
     "Name": "StonewoodQuest_Tutorial_SurvivorSlotting",
@@ -62901,25 +63649,43 @@
     "IsPermanent": true,
     "Objectives": [
       {
-        "BackendName": "SurvivorSlotting_TabCallout",
+        "BackendName": "SurvivorSlotting_Guard_Intro",
         "Count": 1,
         "Description": "",
         "HudShortDescription": ""
       },
       {
-        "BackendName": "SurvivorSlotting_Guard_Command",
+        "BackendName": "SurvivorSlotting_Guard_SelectSurvivorsHighlight",
         "Count": 1,
         "Description": "",
         "HudShortDescription": ""
       },
       {
-        "BackendName": "SurvivorSlotting_Highlight_Command",
+        "BackendName": "SurvivorSlotting_Guard_SelectManageCommand",
         "Count": 1,
         "Description": "",
         "HudShortDescription": ""
       },
       {
-        "BackendName": "SurvivorSlotting_Guard_Survivors",
+        "BackendName": "SurvivorSlotting_Guard_SelectManageHighlight",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "SurvivorSlotting_Guard_SurvivorIcons",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "SurvivorSlotting_Guard_SurvivorIconsHighlight",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "SurvivorSlotting_Guard_PowerLevel",
         "Count": 1,
         "Description": "",
         "HudShortDescription": ""
@@ -62927,6 +63693,75 @@
     ],
     "Rewards": [],
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/quests/stonewood/stonewoodquest_tutorial_survivorslotting.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T-Icon-Quest-Journal-64.png",
+      "LargePreview": "ExportedImages\\T-Icon-Quest-Journal-64.png"
+    }
+  },
+  "Quest:stonewoodquest_tutorial_survivorsquadleader": {
+    "Type": "Quest",
+    "Name": "StonewoodQuest_Tutorial_SurvivorSquadLeader",
+    "DisplayName": "(Hidden) Squads Leader Tutorial",
+    "Category": "SideQuests",
+    "IsPermanent": true,
+    "Objectives": [
+      {
+        "BackendName": "SquadsLeader_CommandGuard",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "SquadsLeader_SurvivorsHighlight",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "SquadsLeader_SquadsGuard",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "SquadsLeader_SquadsHighlight",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "SquadsLeader_SquadTilesGuard",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "SquadsLeader_SquadPartyHighlight",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "SquadsLeader_ScoutingPartyGuardScreen",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "SquadsLeader_ScoutingPartydetailsHighlight",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      },
+      {
+        "BackendName": "SquadsLeader_ScoutingPartyGuardScreen2",
+        "Count": 1,
+        "Description": "",
+        "HudShortDescription": ""
+      }
+    ],
+    "Rewards": [],
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/quests/stonewood/stonewoodquest_tutorial_survivorsquadleader.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-Quest-Journal-64.png",
       "LargePreview": "ExportedImages\\T-Icon-Quest-Journal-64.png"
@@ -62940,55 +63775,7 @@
     "IsPermanent": true,
     "Objectives": [
       {
-        "BackendName": "SurvivorSquads_TabCallout",
-        "Count": 1,
-        "Description": "",
-        "HudShortDescription": ""
-      },
-      {
-        "BackendName": "SurvivorSquads_CommandGuardIntro",
-        "Count": 1,
-        "Description": "",
-        "HudShortDescription": ""
-      },
-      {
-        "BackendName": "SurvivorSquads_PowerIntro",
-        "Count": 1,
-        "Description": "",
-        "HudShortDescription": ""
-      },
-      {
-        "BackendName": "SurvivorSquads_PowerIntroHighlight",
-        "Count": 1,
-        "Description": "",
-        "HudShortDescription": ""
-      },
-      {
-        "BackendName": "SurvivorSquads_PowerIntroHighlight2",
-        "Count": 1,
-        "Description": "",
-        "HudShortDescription": ""
-      },
-      {
-        "BackendName": "SurvivorSquads_CommandGuardAccount",
-        "Count": 1,
-        "Description": "",
-        "HudShortDescription": ""
-      },
-      {
-        "BackendName": "SurvivorSquads_LevelIntro",
-        "Count": 1,
-        "Description": "",
-        "HudShortDescription": ""
-      },
-      {
-        "BackendName": "SurvivorSquads_LevelHighlight",
-        "Count": 1,
-        "Description": "",
-        "HudShortDescription": ""
-      },
-      {
-        "BackendName": "SurvivorSquads_CommandGuardSquad",
+        "BackendName": "SurvivorSquads_CommandGuardNewSquad",
         "Count": 1,
         "Description": "",
         "HudShortDescription": ""
@@ -63000,13 +63787,13 @@
         "HudShortDescription": ""
       },
       {
-        "BackendName": "SurvivorSquads_SquadsGuard",
+        "BackendName": "SurvivorSquads_SquadsIntro",
         "Count": 1,
         "Description": "",
         "HudShortDescription": ""
       },
       {
-        "BackendName": "SurvivorSquads_SquadsIntro",
+        "BackendName": "SurvivorSquads_SquadsGuard",
         "Count": 1,
         "Description": "",
         "HudShortDescription": ""
@@ -63024,13 +63811,13 @@
         "HudShortDescription": ""
       },
       {
-        "BackendName": "SurvivorSquads_ChangeHeroGuard",
+        "BackendName": "SurvivorSquads_PowerLevelHighlight1",
         "Count": 1,
         "Description": "",
         "HudShortDescription": ""
       },
       {
-        "BackendName": "SurvivorSquads_ChangeHeroIntro",
+        "BackendName": "SurvivorSquads_SquadTilesGuard2",
         "Count": 1,
         "Description": "",
         "HudShortDescription": ""
@@ -69619,12 +70406,6 @@
     "Rarity": "Legendary",
     "Rewards": [
       {
-        "Hidden": false,
-        "Item": "Token:quests_stwstarterbundle24",
-        "Quantity": 1,
-        "Selectable": false
-      },
-      {
         "Hidden": true,
         "Item": "Quest:stwstarterbundle24_01",
         "Quantity": 1,
@@ -69651,6 +70432,12 @@
       {
         "Hidden": true,
         "Item": "Quest:stwstarterbundle24_05",
+        "Quantity": 1,
+        "Selectable": false
+      },
+      {
+        "Hidden": false,
+        "Item": "Token:quests_stwstarterbundle24",
         "Quantity": 1,
         "Selectable": false
       }
@@ -75507,12 +76294,6 @@
       {
         "Hidden": false,
         "Item": "HomebaseNode:questreward_expedition_truck5",
-        "Quantity": 1,
-        "Selectable": false
-      },
-      {
-        "Hidden": false,
-        "Item": "HomebaseNode:questreward_homebase_defender5",
         "Quantity": 1,
         "Selectable": false
       },
@@ -87776,6 +88557,359 @@
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-StormZone-128.png",
       "LargePreview": "ExportedImages\\T-Icon-StormZone-128.png"
+    }
+  },
+  "Quest:welcome_quest_a01_destroy": {
+    "Type": "Quest",
+    "Name": "Welcome_Quest_A01_Destroy",
+    "DisplayName": "The Nuts and Bolts",
+    "Category": "LTE_Welcome",
+    "Description": "Destroy cars in any hex and gather nuts and bolts to be able to craft ammo.",
+    "IsPermanent": true,
+    "Objectives": [
+      {
+        "BackendName": "Welcome_Quest_A01_Destroy",
+        "Count": 6,
+        "Description": "Destroy cars in any hex to gather nuts and bolts for ammo",
+        "HudShortDescription": "Cars destroyed"
+      }
+    ],
+    "Rewards": [
+      {
+        "Hidden": false,
+        "Item": "Ammo:ammodatabulletslight",
+        "Quantity": 1000,
+        "Selectable": false
+      },
+      {
+        "Hidden": false,
+        "Item": "CardPack:cardpack_ranged_uc",
+        "Quantity": 1,
+        "Selectable": false
+      },
+      {
+        "Hidden": true,
+        "Item": "Quest:welcome_quest_a02_eliminate",
+        "Quantity": 1,
+        "Selectable": false
+      }
+    ],
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/quests/events/welcome2026/welcome_quest_a01_destroy.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\Icon-Quest-HarvestOptimizer-XL.png",
+      "LargePreview": "ExportedImages\\Icon-Quest-HarvestOptimizer-XL.png"
+    }
+  },
+  "Quest:welcome_quest_a02_eliminate": {
+    "Type": "Quest",
+    "Name": "Welcome_Quest_A02_eliminate",
+    "DisplayName": "Soldiering On",
+    "Category": "LTE_Welcome",
+    "Description": "Mow down those husks and show off what makes a soldier a soldier!",
+    "IsPermanent": true,
+    "Objectives": [
+      {
+        "BackendName": "Welcome_Quest_A02_eliminate",
+        "Count": 50,
+        "Description": "Eliminate Husks with any ranged weapon in any zone",
+        "HudShortDescription": "Husks eliminated by ranged weapon"
+      },
+      {
+        "BackendName": "Welcome_Quest_A02_Commando_Ability1",
+        "Count": 20,
+        "Description": "Activate the Stay Frosty passive by getting 3 eliminations in a row, then use it to shoot husks with enhanced shots",
+        "HudShortDescription": "Shoot a husk while the Stay Frosty perk is active."
+      },
+      {
+        "BackendName": "Welcome_Quest_A02_Commando_Ability2",
+        "Count": 4,
+        "Description": "Activate the Suppressive Fire passive by landing consecutive hits on the same target ",
+        "HudShortDescription": "Suppressive Fire activated."
+      }
+    ],
+    "Rewards": [
+      {
+        "Hidden": false,
+        "Item": "Hero:hid_ninja_starsassassin_uc_t01",
+        "Quantity": 1,
+        "Selectable": false
+      },
+      {
+        "Hidden": false,
+        "Item": "CardPack:cardpack_melee_sword_uc",
+        "Quantity": 1,
+        "Selectable": false
+      },
+      {
+        "Hidden": true,
+        "Item": "Quest:welcome_quest_a03_eliminate",
+        "Quantity": 1,
+        "Selectable": false
+      }
+    ],
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/quests/events/welcome2026/welcome_quest_a02_eliminate.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T-Icon-EliminateAndCollect-128.png",
+      "LargePreview": "ExportedImages\\T-Icon-EliminateAndCollect-128.png"
+    }
+  },
+  "Quest:welcome_quest_a03_eliminate": {
+    "Type": "Quest",
+    "Name": "Welcome_Quest_A03_Eliminate",
+    "DisplayName": "You\u2019re That Ninja",
+    "Category": "LTE_Welcome",
+    "Description": "Slice and dice through those Husks and exemplify the Way of the Ninja!",
+    "IsPermanent": true,
+    "Objectives": [
+      {
+        "BackendName": "Welcome_Quest_A03_Eliminate_obj0",
+        "Count": 20,
+        "Description": "Eliminate Husks with any melee weapon in any zone",
+        "HudShortDescription": "Husks eliminated"
+      },
+      {
+        "BackendName": "Welcome_Quest_A03_Ninja_Ability1",
+        "Count": 3,
+        "Description": "Activate Mantis Leap by jumping again while in the air",
+        "HudShortDescription": "Mantis Leap activated"
+      },
+      {
+        "BackendName": "Welcome_Quest_A03_Ninja_Ability2",
+        "Count": 4,
+        "Description": "Activate Shadow Stance by getting an elimination with any melee weapon",
+        "HudShortDescription": "Shadow Stance activated"
+      }
+    ],
+    "Rewards": [
+      {
+        "Hidden": false,
+        "Item": "Hero:hid_outlander_007_uc_t01",
+        "Quantity": 1,
+        "Selectable": false
+      },
+      {
+        "Hidden": false,
+        "Item": "CardPack:cardpack_ranged_pistol_uc",
+        "Quantity": 1,
+        "Selectable": false
+      },
+      {
+        "Hidden": true,
+        "Item": "Quest:welcome_quest_a04_destroy",
+        "Quantity": 1,
+        "Selectable": false
+      }
+    ],
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/quests/events/welcome2026/welcome_quest_a03_eliminate.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T-Icon-EliminateAndCollect-128.png",
+      "LargePreview": "ExportedImages\\T-Icon-EliminateAndCollect-128.png"
+    }
+  },
+  "Quest:welcome_quest_a04_destroy": {
+    "Type": "Quest",
+    "Name": "Welcome_Quest_A04_Destroy",
+    "DisplayName": "Search and Destroy",
+    "Category": "LTE_Welcome",
+    "Description": "Scavenge up a storm and refill your stockpile by searching every nook and cranny like a true Outlander!",
+    "IsPermanent": true,
+    "Objectives": [
+      {
+        "BackendName": "Welcome_Quest_A04_Destroy",
+        "Count": 20,
+        "Description": "Harvest any object as an Outlander in any zone",
+        "HudShortDescription": "Objects harvested"
+      },
+      {
+        "BackendName": "Welcome_Quest_A04_Outlander_Ability1",
+        "Count": 3,
+        "Description": "Activate Anti-Material charge by using alternate fire while holding a pickaxe",
+        "HudShortDescription": "Anti-Material Charge activated"
+      },
+      {
+        "BackendName": "Welcome_Quest_A04_Outlander_Ability2",
+        "Count": 3,
+        "Description": "Activate In The Zone by hitting an object 5 times in a row with a pickaxe",
+        "HudShortDescription": "In The Zone activated"
+      },
+      {
+        "BackendName": "Welcome_Quest_A04_Outlander_Ability3",
+        "Count": 3,
+        "Description": "Interact with an Outlander Fragment in any zone",
+        "HudShortDescription": "Outlander Fragment collected"
+      }
+    ],
+    "Rewards": [
+      {
+        "Hidden": false,
+        "Item": "Hero:hid_constructor_013_uc_t01",
+        "Quantity": 1,
+        "Selectable": false
+      },
+      {
+        "Hidden": false,
+        "Item": "CardPack:cardpack_melee_tool_uc",
+        "Quantity": 1,
+        "Selectable": false
+      },
+      {
+        "Hidden": true,
+        "Item": "Quest:welcome_quest_a05_eliminate",
+        "Quantity": 1,
+        "Selectable": false
+      }
+    ],
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/quests/events/welcome2026/welcome_quest_a04_destroy.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T-Icon-Harvesting-128.png",
+      "LargePreview": "ExportedImages\\T-Icon-Harvesting-128.png"
+    }
+  },
+  "Quest:welcome_quest_a05_eliminate": {
+    "Type": "Quest",
+    "Name": "Welcome_Quest_A05_Eliminate",
+    "DisplayName": "Tower Defense",
+    "Category": "LTE_Welcome",
+    "Description": "Trap up and defend the objective while fortifying it with your B.A.S.E to showcase what a Constructor can really do!",
+    "IsPermanent": true,
+    "Objectives": [
+      {
+        "BackendName": "Welcome_Quest_A05 _Eliminate",
+        "Count": 20,
+        "Description": "Eliminate Husks with traps in any zone",
+        "HudShortDescription": "Husk Trap eliminates"
+      },
+      {
+        "BackendName": "Welcome_Quest_A05_Constructor_Ability1",
+        "Count": 3,
+        "Description": "Use your B.A.S.E in any zone",
+        "HudShortDescription": "B.A.S.E placed"
+      },
+      {
+        "BackendName": "Welcome_Quest_A05_Constructor_Ability2",
+        "Count": 3,
+        "Description": "Activate Kinetic Overload by staggering or knocking back Husks with a melee weapon",
+        "HudShortDescription": "Kinetic Overload activated"
+      }
+    ],
+    "Rewards": [
+      {
+        "Hidden": false,
+        "Item": "CardPack:cardpack_trap_uc",
+        "Quantity": 1,
+        "Selectable": false
+      },
+      {
+        "Hidden": false,
+        "Item": "CardPack:cardpack_trap_uc",
+        "Quantity": 1,
+        "Selectable": false
+      },
+      {
+        "Hidden": true,
+        "Item": "Quest:welcome_quest_a06_complete",
+        "Quantity": 1,
+        "Selectable": false
+      }
+    ],
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/quests/events/welcome2026/welcome_quest_a05_eliminate.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T-Icon-Traps-128.png",
+      "LargePreview": "ExportedImages\\T-Icon-Traps-128.png"
+    }
+  },
+  "Quest:welcome_quest_a06_complete": {
+    "Type": "Quest",
+    "Name": "Welcome_Quest_A06_Complete",
+    "DisplayName": "Check Your Radar",
+    "Category": "LTE_Welcome",
+    "Description": "Repair the broken Radar Towers to reveal resources around the zone!",
+    "IsPermanent": true,
+    "Objectives": [
+      {
+        "BackendName": "Welcome_Quest_A06_Complete",
+        "Count": 2,
+        "Description": "Repair Radar Towers in any zone",
+        "HudShortDescription": "Radar Towers repaired"
+      },
+      {
+        "BackendName": "Welcome_Quest_A06_Search",
+        "Count": 10,
+        "Description": "Search containers in any zone",
+        "HudShortDescription": "Containers searched"
+      }
+    ],
+    "Rewards": [
+      {
+        "Hidden": false,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 1000,
+        "Selectable": false
+      },
+      {
+        "Hidden": false,
+        "Item": "AccountResource:schematicxp",
+        "Quantity": 1000,
+        "Selectable": false
+      },
+      {
+        "Hidden": false,
+        "Item": "AccountResource:reagent_c_t01",
+        "Quantity": 7,
+        "Selectable": false
+      },
+      {
+        "Hidden": true,
+        "Item": "Quest:welcome_quest_a07_collect",
+        "Quantity": 1,
+        "Selectable": false
+      }
+    ],
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/quests/events/welcome2026/welcome_quest_a06_complete.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\Icon-Mission-RadarTower-128.png",
+      "LargePreview": "ExportedImages\\Icon-Mission-RadarTower-128.png"
+    }
+  },
+  "Quest:welcome_quest_a07_collect": {
+    "Type": "Quest",
+    "Name": "Welcome_Quest_A07_Collect",
+    "DisplayName": "Shifting Focus",
+    "Category": "LTE_Welcome",
+    "Description": "There are people still out there, rescue them and bring them back and clear up some Husks while you\u2019re at it!",
+    "IsPermanent": true,
+    "Objectives": [
+      {
+        "BackendName": "Welcome_Quest_A07_Collect",
+        "Count": 3,
+        "Description": "Rescue survivors in any zone",
+        "HudShortDescription": "Survivors rescued"
+      },
+      {
+        "BackendName": "Welcome_Quest_A07_Complete",
+        "Count": 3,
+        "Description": "Destroy Husk Encampments in any zone",
+        "HudShortDescription": "Encampments destroyed"
+      }
+    ],
+    "Rewards": [
+      {
+        "Hidden": false,
+        "Item": "AthenaLoadingScreen:loadingscreen_stw_f2pkeyart",
+        "Quantity": 1,
+        "Selectable": false
+      },
+      {
+        "Hidden": false,
+        "Item": "AccountResource:voucher_herobuyback",
+        "Quantity": 1,
+        "Selectable": false
+      }
+    ],
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/quests/events/welcome2026/welcome_quest_a07_collect.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T-Icon-Survivor-128.png",
+      "LargePreview": "ExportedImages\\T-Icon-Survivor-128.png"
     }
   },
   "Quest:winter_phoenix_quest_side_01": {

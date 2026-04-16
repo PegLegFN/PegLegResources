@@ -42,7 +42,7 @@
     "Type": "AccountResource",
     "Name": "AthenaLevelUp",
     "DisplayName": "Level Up",
-    "Description": "Increases the Battle Royale Season Level.",
+    "Description": "Increases your Battle Royale Season Level.",
     "IsPermanent": true,
     "AssetPath": "fortnitegame/content/items/persistentresources/athenalevelup.uasset",
     "ImagePaths": {
@@ -758,13 +758,6 @@
       "LargePreview": "ExportedImages\\T_UI_UniversalXP_Icon_Points_Standard_128.png"
     }
   },
-  "AccountResource:s39_eventcurrency": {
-    "Type": "AccountResource",
-    "Name": "S39_EventCurrency",
-    "DisplayName": "\u003CS39_EventCurrency\u003E",
-    "IsPermanent": true,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/battlepasss39_quests/content/items/persistentresources/honeyfiber/s39_eventcurrency.uasset"
-  },
   "AccountResource:schematicxp": {
     "Type": "AccountResource",
     "Name": "SchematicXP",
@@ -842,13 +835,6 @@
       "SmallPreview": "ExportedImages\\T-Items-DailyCoin.png",
       "LargePreview": "ExportedImages\\T-Items-DailyCoin-L.png"
     }
-  },
-  "AccountResource:t_ui_safflower_currencyicon1": {
-    "Type": "AccountResource",
-    "Name": "T_UI_Safflower_CurrencyIcon1",
-    "DisplayName": "\u003CT_UI_Safflower_CurrencyIcon1\u003E",
-    "IsPermanent": true,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/battlepasss39_quests/content/items/persistentresources/honeyfiber/t_ui_safflower_currencyicon1.uasset"
   },
   "AccountResource:voucher_basicpack": {
     "Type": "AccountResource",

@@ -16,7 +16,7 @@
     "Type": "ConsumableAccountItem",
     "Name": "SmallXpBoost",
     "DisplayName": "XP Boost",
-    "Description": "Activate an XP Boost to gain Account XP boost points. Boost points earn [XpBoost.Self.Value] more experience for yourself, as well as give a [XpBoost.Team.Value] bonus to all other players on your team! If you are a Founder, you automatically grant a 5% bonus to all your team mates. The more players that use XP Boosts, the bigger the bonus for everyone!",
+    "Description": "Activate an XP Boost to gain Homebase XP boost points. Boost points earn [XpBoost.Self.Value] more experience for yourself, as well as give a [XpBoost.Team.Value] bonus to all other players on your team! If you are a Founder, you automatically grant a 5% bonus to all your team mates. The more players that use XP Boosts, the bigger the bonus for everyone!",
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/accountconsumables/smallxpboost.uasset",
     "ImagePaths": {
@@ -28,7 +28,7 @@
     "Type": "ConsumableAccountItem",
     "Name": "SmallXpBoost_Gift",
     "DisplayName": "Teammate XP Boost",
-    "Description": "Activate a Teammate XP Boost to give a teammate Account XP boost points. Boost points earn [XpBoost.Self.Value] more experience for a teammate, as well as give a [XpBoost.Team.Value] bonus to you and the other players on your team!  The more players that use XP Boosts, the bigger the bonus for everyone!",
+    "Description": "Activate a Teammate XP Boost to give a teammate Homebase XP boost points. Boost points earn [XpBoost.Self.Value] more experience for a teammate, as well as give a [XpBoost.Team.Value] bonus to you and the other players on your team!  The more players that use XP Boosts, the bigger the bonus for everyone!",
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/accountconsumables/smallxpboost_gift.uasset",
     "ImagePaths": {

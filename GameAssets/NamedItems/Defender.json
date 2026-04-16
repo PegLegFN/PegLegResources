@@ -4,7 +4,7 @@
     "Name": "DID_DefenderAssault_Basic_C_T00",
     "DisplayName": "Rifleman Trainee",
     "SubType": "Assault Defender",
-    "Description": "A defender (sort of) trained to fight with assault weapons. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with assault weapons.",
     "IsPermanent": true,
     "Rarity": "Common",
     "Tier": 1,
@@ -19,7 +19,7 @@
     "Name": "DID_DefenderAssault_Basic_C_T01",
     "DisplayName": "Common Assault Defender",
     "SubType": "Assault Defender",
-    "Description": "A defender trained to fight with assault weapons. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with assault weapons.",
     "LevelToXPRow": "Defender_Common",
     "Rarity": "Common",
     "RecycleRecipe": {
@@ -45,7 +45,7 @@
     "Name": "DID_DefenderAssault_Basic_C_T02",
     "DisplayName": "Common Assault Defender",
     "SubType": "Assault Defender",
-    "Description": "A defender trained to fight with assault weapons. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with assault weapons.",
     "LevelToXPRow": "Defender_Common",
     "Rarity": "Common",
     "RecycleRecipe": {
@@ -64,7 +64,7 @@
     "Name": "DID_DefenderAssault_Basic_M_R_T01",
     "DisplayName": "Rare Assault Defender",
     "SubType": "Assault Defender",
-    "Description": "A defender trained to fight with assault weapons. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with assault weapons.",
     "LevelToXPRow": "Defender_Rare",
     "Rarity": "Rare",
     "RecycleRecipe": {
@@ -92,7 +92,7 @@
     "Name": "DID_DefenderAssault_Basic_M_R_T02",
     "DisplayName": "Rare Assault Defender",
     "SubType": "Assault Defender",
-    "Description": "A defender trained to fight with assault weapons. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with assault weapons.",
     "LevelToXPRow": "Defender_Rare",
     "Rarity": "Rare",
     "RecycleRecipe": {
@@ -121,7 +121,7 @@
     "Name": "DID_DefenderAssault_Basic_M_R_T03",
     "DisplayName": "Rare Assault Defender",
     "SubType": "Assault Defender",
-    "Description": "A defender trained to fight with assault weapons. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with assault weapons.",
     "LevelToXPRow": "Defender_Rare",
     "Rarity": "Rare",
     "RecycleRecipe": {
@@ -151,7 +151,7 @@
     "Name": "DID_DefenderAssault_Basic_M_R_T04",
     "DisplayName": "Rare Assault Defender",
     "SubType": "Assault Defender",
-    "Description": "A defender trained to fight with assault weapons. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with assault weapons.",
     "LevelToXPRow": "Defender_Rare",
     "Rarity": "Rare",
     "RecycleRecipe": {
@@ -171,7 +171,7 @@
     "Name": "DID_DefenderAssault_Basic_M_SR_T01",
     "DisplayName": "Legendary Assault Defender",
     "SubType": "Assault Defender",
-    "Description": "A defender trained to fight with assault weapons. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with assault weapons.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -199,7 +199,7 @@
     "Name": "DID_DefenderAssault_Basic_M_SR_T02",
     "DisplayName": "Legendary Assault Defender",
     "SubType": "Assault Defender",
-    "Description": "A defender trained to fight with assault weapons. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with assault weapons.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -228,7 +228,7 @@
     "Name": "DID_DefenderAssault_Basic_M_SR_T03",
     "DisplayName": "Legendary Assault Defender",
     "SubType": "Assault Defender",
-    "Description": "A defender trained to fight with assault weapons. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with assault weapons.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -258,7 +258,7 @@
     "Name": "DID_DefenderAssault_Basic_M_SR_T04",
     "DisplayName": "Legendary Assault Defender",
     "SubType": "Assault Defender",
-    "Description": "A defender trained to fight with assault weapons. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with assault weapons.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -289,7 +289,7 @@
     "Name": "DID_DefenderAssault_Basic_M_SR_T05",
     "DisplayName": "Legendary Assault Defender",
     "SubType": "Assault Defender",
-    "Description": "A defender trained to fight with assault weapons. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with assault weapons.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -309,7 +309,7 @@
     "Name": "DID_DefenderAssault_Basic_M_VR_T01",
     "DisplayName": "Epic Assault Defender",
     "SubType": "Assault Defender",
-    "Description": "A defender trained to fight with assault weapons. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with assault weapons.",
     "LevelToXPRow": "Defender_VeryRare",
     "Rarity": "Epic",
     "RecycleRecipe": {
@@ -337,7 +337,7 @@
     "Name": "DID_DefenderAssault_Basic_M_VR_T02",
     "DisplayName": "Epic Assault Defender",
     "SubType": "Assault Defender",
-    "Description": "A defender trained to fight with assault weapons. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with assault weapons.",
     "LevelToXPRow": "Defender_VeryRare",
     "Rarity": "Epic",
     "RecycleRecipe": {
@@ -366,7 +366,7 @@
     "Name": "DID_DefenderAssault_Basic_M_VR_T03",
     "DisplayName": "Epic Assault Defender",
     "SubType": "Assault Defender",
-    "Description": "A defender trained to fight with assault weapons. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with assault weapons.",
     "LevelToXPRow": "Defender_VeryRare",
     "Rarity": "Epic",
     "RecycleRecipe": {
@@ -396,7 +396,7 @@
     "Name": "DID_DefenderAssault_Basic_M_VR_T04",
     "DisplayName": "Epic Assault Defender",
     "SubType": "Assault Defender",
-    "Description": "A defender trained to fight with assault weapons. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with assault weapons.",
     "LevelToXPRow": "Defender_VeryRare",
     "Rarity": "Epic",
     "RecycleRecipe": {
@@ -427,7 +427,7 @@
     "Name": "DID_DefenderAssault_Basic_M_VR_T05",
     "DisplayName": "Epic Assault Defender",
     "SubType": "Assault Defender",
-    "Description": "A defender trained to fight with assault weapons. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with assault weapons.",
     "LevelToXPRow": "Defender_VeryRare",
     "Rarity": "Epic",
     "RecycleRecipe": {
@@ -447,7 +447,7 @@
     "Name": "DID_DefenderAssault_Basic_R_T01",
     "DisplayName": "Rare Assault Defender",
     "SubType": "Assault Defender",
-    "Description": "A defender trained to fight with assault weapons. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with assault weapons.",
     "LevelToXPRow": "Defender_Rare",
     "Rarity": "Rare",
     "RecycleRecipe": {
@@ -475,7 +475,7 @@
     "Name": "DID_DefenderAssault_Basic_R_T02",
     "DisplayName": "Rare Assault Defender",
     "SubType": "Assault Defender",
-    "Description": "A defender trained to fight with assault weapons. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with assault weapons.",
     "LevelToXPRow": "Defender_Rare",
     "Rarity": "Rare",
     "RecycleRecipe": {
@@ -504,7 +504,7 @@
     "Name": "DID_DefenderAssault_Basic_R_T03",
     "DisplayName": "Rare Assault Defender",
     "SubType": "Assault Defender",
-    "Description": "A defender trained to fight with assault weapons. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with assault weapons.",
     "LevelToXPRow": "Defender_Rare",
     "Rarity": "Rare",
     "RecycleRecipe": {
@@ -534,7 +534,7 @@
     "Name": "DID_DefenderAssault_Basic_R_T04",
     "DisplayName": "Rare Assault Defender",
     "SubType": "Assault Defender",
-    "Description": "A defender trained to fight with assault weapons. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with assault weapons.",
     "LevelToXPRow": "Defender_Rare",
     "Rarity": "Rare",
     "RecycleRecipe": {
@@ -554,7 +554,7 @@
     "Name": "DID_DefenderAssault_Basic_SR_T01",
     "DisplayName": "Legendary Assault Defender",
     "SubType": "Assault Defender",
-    "Description": "A defender trained to fight with assault weapons. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with assault weapons.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -582,7 +582,7 @@
     "Name": "DID_DefenderAssault_Basic_SR_T02",
     "DisplayName": "Legendary Assault Defender",
     "SubType": "Assault Defender",
-    "Description": "A defender trained to fight with assault weapons. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with assault weapons.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -611,7 +611,7 @@
     "Name": "DID_DefenderAssault_Basic_SR_T03",
     "DisplayName": "Legendary Assault Defender",
     "SubType": "Assault Defender",
-    "Description": "A defender trained to fight with assault weapons. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with assault weapons.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -641,7 +641,7 @@
     "Name": "DID_DefenderAssault_Basic_SR_T04",
     "DisplayName": "Legendary Assault Defender",
     "SubType": "Assault Defender",
-    "Description": "A defender trained to fight with assault weapons. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with assault weapons.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -672,7 +672,7 @@
     "Name": "DID_DefenderAssault_Basic_SR_T05",
     "DisplayName": "Legendary Assault Defender",
     "SubType": "Assault Defender",
-    "Description": "A defender trained to fight with assault weapons. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with assault weapons.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -692,7 +692,7 @@
     "Name": "DID_DefenderAssault_Basic_UC_T01",
     "DisplayName": "Uncommon Assault Defender",
     "SubType": "Assault Defender",
-    "Description": "A defender trained to fight with assault weapons. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with assault weapons.",
     "LevelToXPRow": "Defender_Uncommon",
     "Rarity": "Uncommon",
     "RecycleRecipe": {
@@ -719,7 +719,7 @@
     "Name": "DID_DefenderAssault_Basic_UC_T02",
     "DisplayName": "Uncommon Assault Defender",
     "SubType": "Assault Defender",
-    "Description": "A defender trained to fight with assault weapons. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with assault weapons.",
     "LevelToXPRow": "Defender_Uncommon",
     "Rarity": "Uncommon",
     "RecycleRecipe": {
@@ -748,7 +748,7 @@
     "Name": "DID_DefenderAssault_Basic_UC_T03",
     "DisplayName": "Uncommon Assault Defender",
     "SubType": "Assault Defender",
-    "Description": "A defender trained to fight with assault weapons. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with assault weapons.",
     "LevelToXPRow": "Defender_Uncommon",
     "Rarity": "Uncommon",
     "RecycleRecipe": {
@@ -768,7 +768,7 @@
     "Name": "DID_DefenderAssault_Basic_VR_T01",
     "DisplayName": "Epic Assault Defender",
     "SubType": "Assault Defender",
-    "Description": "A defender trained to fight with assault weapons. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with assault weapons.",
     "LevelToXPRow": "Defender_VeryRare",
     "Rarity": "Epic",
     "RecycleRecipe": {
@@ -796,7 +796,7 @@
     "Name": "DID_DefenderAssault_Basic_VR_T02",
     "DisplayName": "Epic Assault Defender",
     "SubType": "Assault Defender",
-    "Description": "A defender trained to fight with assault weapons. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with assault weapons.",
     "LevelToXPRow": "Defender_VeryRare",
     "Rarity": "Epic",
     "RecycleRecipe": {
@@ -825,7 +825,7 @@
     "Name": "DID_DefenderAssault_Basic_VR_T03",
     "DisplayName": "Epic Assault Defender",
     "SubType": "Assault Defender",
-    "Description": "A defender trained to fight with assault weapons. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with assault weapons.",
     "LevelToXPRow": "Defender_VeryRare",
     "Rarity": "Epic",
     "RecycleRecipe": {
@@ -855,7 +855,7 @@
     "Name": "DID_DefenderAssault_Basic_VR_T04",
     "DisplayName": "Epic Assault Defender",
     "SubType": "Assault Defender",
-    "Description": "A defender trained to fight with assault weapons. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with assault weapons.",
     "LevelToXPRow": "Defender_VeryRare",
     "Rarity": "Epic",
     "RecycleRecipe": {
@@ -886,7 +886,7 @@
     "Name": "DID_DefenderAssault_Basic_VR_T05",
     "DisplayName": "Epic Assault Defender",
     "SubType": "Assault Defender",
-    "Description": "A defender trained to fight with assault weapons. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with assault weapons.",
     "LevelToXPRow": "Defender_VeryRare",
     "Rarity": "Epic",
     "RecycleRecipe": {
@@ -906,7 +906,7 @@
     "Name": "DID_DefenderAssault_Founders_VR_T01",
     "DisplayName": "Jill",
     "SubType": "Assault Defender",
-    "Description": "A defender trained to fight with assault weapons. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with assault weapons.",
     "IsPermanent": true,
     "Rarity": "Epic",
     "Tier": 1,
@@ -929,7 +929,7 @@
     "Name": "DID_DefenderAssault_Founders_VR_T02",
     "DisplayName": "Jill",
     "SubType": "Assault Defender",
-    "Description": "A defender trained to fight with assault weapons. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with assault weapons.",
     "IsPermanent": true,
     "Rarity": "Epic",
     "Tier": 2,
@@ -953,7 +953,7 @@
     "Name": "DID_DefenderAssault_Founders_VR_T03",
     "DisplayName": "Jill",
     "SubType": "Assault Defender",
-    "Description": "A defender trained to fight with assault weapons. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with assault weapons.",
     "IsPermanent": true,
     "Rarity": "Epic",
     "Tier": 3,
@@ -978,7 +978,7 @@
     "Name": "DID_DefenderAssault_Founders_VR_T04",
     "DisplayName": "Jill",
     "SubType": "Assault Defender",
-    "Description": "A defender trained to fight with assault weapons. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with assault weapons.",
     "IsPermanent": true,
     "Rarity": "Epic",
     "Tier": 4,
@@ -1004,7 +1004,7 @@
     "Name": "DID_DefenderAssault_Founders_VR_T05",
     "DisplayName": "Jill",
     "SubType": "Assault Defender",
-    "Description": "A defender trained to fight with assault weapons. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with assault weapons.",
     "IsPermanent": true,
     "Rarity": "Epic",
     "Tier": 5,
@@ -1019,7 +1019,7 @@
     "Name": "DID_DefenderMelee_Basic_C_T01",
     "DisplayName": "Common Melee Defender",
     "SubType": "Melee Defender",
-    "Description": "A defender trained to fight with melee weapons. Defender Training: Consumes 33% less weapon durability.",
+    "Description": "A defender trained to fight with melee weapons.",
     "LevelToXPRow": "Defender_Common",
     "Rarity": "Common",
     "RecycleRecipe": {
@@ -1045,7 +1045,7 @@
     "Name": "DID_DefenderMelee_Basic_C_T02",
     "DisplayName": "Common Melee Defender",
     "SubType": "Melee Defender",
-    "Description": "A defender trained to fight with melee weapons. Defender Training: Consumes 33% less weapon durability.",
+    "Description": "A defender trained to fight with melee weapons.",
     "LevelToXPRow": "Defender_Common",
     "Rarity": "Common",
     "RecycleRecipe": {
@@ -1064,7 +1064,7 @@
     "Name": "DID_DefenderMelee_Basic_F_SR_T01",
     "DisplayName": "Val",
     "SubType": "Melee Defender",
-    "Description": "A defender trained to fight with melee weapons. Defender Training: Consumes 33% less weapon durability.",
+    "Description": "A defender trained to fight with melee weapons.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -1092,7 +1092,7 @@
     "Name": "DID_DefenderMelee_Basic_F_SR_T02",
     "DisplayName": "Val",
     "SubType": "Melee Defender",
-    "Description": "A defender trained to fight with melee weapons. Defender Training: Consumes 33% less weapon durability.",
+    "Description": "A defender trained to fight with melee weapons.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -1121,7 +1121,7 @@
     "Name": "DID_DefenderMelee_Basic_F_SR_T03",
     "DisplayName": "Val",
     "SubType": "Melee Defender",
-    "Description": "A defender trained to fight with melee weapons. Defender Training: Consumes 33% less weapon durability.",
+    "Description": "A defender trained to fight with melee weapons.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -1151,7 +1151,7 @@
     "Name": "DID_DefenderMelee_Basic_F_SR_T04",
     "DisplayName": "Val",
     "SubType": "Melee Defender",
-    "Description": "A defender trained to fight with melee weapons. Defender Training: Consumes 33% less weapon durability.",
+    "Description": "A defender trained to fight with melee weapons.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -1182,7 +1182,7 @@
     "Name": "DID_DefenderMelee_Basic_F_SR_T05",
     "DisplayName": "Val",
     "SubType": "Melee Defender",
-    "Description": "A defender trained to fight with melee weapons. Defender Training: Consumes 33% less weapon durability.",
+    "Description": "A defender trained to fight with melee weapons.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -1202,7 +1202,7 @@
     "Name": "DID_DefenderMelee_Basic_R_T01",
     "DisplayName": "Rare Melee Defender",
     "SubType": "Melee Defender",
-    "Description": "A defender trained to fight with melee weapons. Defender Training: Consumes 33% less weapon durability.",
+    "Description": "A defender trained to fight with melee weapons.",
     "LevelToXPRow": "Defender_Rare",
     "Rarity": "Rare",
     "RecycleRecipe": {
@@ -1230,7 +1230,7 @@
     "Name": "DID_DefenderMelee_Basic_R_T02",
     "DisplayName": "Rare Melee Defender",
     "SubType": "Melee Defender",
-    "Description": "A defender trained to fight with melee weapons. Defender Training: Consumes 33% less weapon durability.",
+    "Description": "A defender trained to fight with melee weapons.",
     "LevelToXPRow": "Defender_Rare",
     "Rarity": "Rare",
     "RecycleRecipe": {
@@ -1259,7 +1259,7 @@
     "Name": "DID_DefenderMelee_Basic_R_T03",
     "DisplayName": "Rare Melee Defender",
     "SubType": "Melee Defender",
-    "Description": "A defender trained to fight with melee weapons. Defender Training: Consumes 33% less weapon durability.",
+    "Description": "A defender trained to fight with melee weapons.",
     "LevelToXPRow": "Defender_Rare",
     "Rarity": "Rare",
     "RecycleRecipe": {
@@ -1289,7 +1289,7 @@
     "Name": "DID_DefenderMelee_Basic_R_T04",
     "DisplayName": "Rare Melee Defender",
     "SubType": "Melee Defender",
-    "Description": "A defender trained to fight with melee weapons. Defender Training: Consumes 33% less weapon durability.",
+    "Description": "A defender trained to fight with melee weapons.",
     "LevelToXPRow": "Defender_Rare",
     "Rarity": "Rare",
     "RecycleRecipe": {
@@ -1309,7 +1309,7 @@
     "Name": "DID_DefenderMelee_Basic_SR_T01",
     "DisplayName": "Legendary Melee Defender",
     "SubType": "Melee Defender",
-    "Description": "A defender trained to fight with melee weapons. Defender Training: Consumes 33% less weapon durability.",
+    "Description": "A defender trained to fight with melee weapons.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -1337,7 +1337,7 @@
     "Name": "DID_DefenderMelee_Basic_SR_T02",
     "DisplayName": "Legendary Melee Defender",
     "SubType": "Melee Defender",
-    "Description": "A defender trained to fight with melee weapons. Defender Training: Consumes 33% less weapon durability.",
+    "Description": "A defender trained to fight with melee weapons.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -1366,7 +1366,7 @@
     "Name": "DID_DefenderMelee_Basic_SR_T03",
     "DisplayName": "Legendary Melee Defender",
     "SubType": "Melee Defender",
-    "Description": "A defender trained to fight with melee weapons. Defender Training: Consumes 33% less weapon durability.",
+    "Description": "A defender trained to fight with melee weapons.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -1396,7 +1396,7 @@
     "Name": "DID_DefenderMelee_Basic_SR_T04",
     "DisplayName": "Legendary Melee Defender",
     "SubType": "Melee Defender",
-    "Description": "A defender trained to fight with melee weapons. Defender Training: Consumes 33% less weapon durability.",
+    "Description": "A defender trained to fight with melee weapons.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -1427,7 +1427,7 @@
     "Name": "DID_DefenderMelee_Basic_SR_T05",
     "DisplayName": "Legendary Melee Defender",
     "SubType": "Melee Defender",
-    "Description": "A defender trained to fight with melee weapons. Defender Training: Consumes 33% less weapon durability.",
+    "Description": "A defender trained to fight with melee weapons.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -1447,7 +1447,7 @@
     "Name": "DID_DefenderMelee_Basic_UC_T01",
     "DisplayName": "Uncommon Melee Defender",
     "SubType": "Melee Defender",
-    "Description": "A defender trained to fight with melee weapons. Defender Training: Consumes 33% less weapon durability.",
+    "Description": "A defender trained to fight with melee weapons.",
     "LevelToXPRow": "Defender_Uncommon",
     "Rarity": "Uncommon",
     "RecycleRecipe": {
@@ -1474,7 +1474,7 @@
     "Name": "DID_DefenderMelee_Basic_UC_T02",
     "DisplayName": "Uncommon Melee Defender",
     "SubType": "Melee Defender",
-    "Description": "A defender trained to fight with melee weapons. Defender Training: Consumes 33% less weapon durability.",
+    "Description": "A defender trained to fight with melee weapons.",
     "LevelToXPRow": "Defender_Uncommon",
     "Rarity": "Uncommon",
     "RecycleRecipe": {
@@ -1503,7 +1503,7 @@
     "Name": "DID_DefenderMelee_Basic_UC_T03",
     "DisplayName": "Uncommon Melee Defender",
     "SubType": "Melee Defender",
-    "Description": "A defender trained to fight with melee weapons. Defender Training: Consumes 33% less weapon durability.",
+    "Description": "A defender trained to fight with melee weapons.",
     "LevelToXPRow": "Defender_Uncommon",
     "Rarity": "Uncommon",
     "RecycleRecipe": {
@@ -1523,7 +1523,7 @@
     "Name": "DID_DefenderMelee_Basic_VR_T01",
     "DisplayName": "Epic Melee Defender",
     "SubType": "Melee Defender",
-    "Description": "A defender trained to fight with melee weapons. Defender Training: Consumes 33% less weapon durability.",
+    "Description": "A defender trained to fight with melee weapons.",
     "LevelToXPRow": "Defender_VeryRare",
     "Rarity": "Epic",
     "RecycleRecipe": {
@@ -1551,7 +1551,7 @@
     "Name": "DID_DefenderMelee_Basic_VR_T02",
     "DisplayName": "Epic Melee Defender",
     "SubType": "Melee Defender",
-    "Description": "A defender trained to fight with melee weapons. Defender Training: Consumes 33% less weapon durability.",
+    "Description": "A defender trained to fight with melee weapons.",
     "LevelToXPRow": "Defender_VeryRare",
     "Rarity": "Epic",
     "RecycleRecipe": {
@@ -1580,7 +1580,7 @@
     "Name": "DID_DefenderMelee_Basic_VR_T03",
     "DisplayName": "Epic Melee Defender",
     "SubType": "Melee Defender",
-    "Description": "A defender trained to fight with melee weapons. Defender Training: Consumes 33% less weapon durability.",
+    "Description": "A defender trained to fight with melee weapons.",
     "LevelToXPRow": "Defender_VeryRare",
     "Rarity": "Epic",
     "RecycleRecipe": {
@@ -1610,7 +1610,7 @@
     "Name": "DID_DefenderMelee_Basic_VR_T04",
     "DisplayName": "Epic Melee Defender",
     "SubType": "Melee Defender",
-    "Description": "A defender trained to fight with melee weapons. Defender Training: Consumes 33% less weapon durability.",
+    "Description": "A defender trained to fight with melee weapons.",
     "LevelToXPRow": "Defender_VeryRare",
     "Rarity": "Epic",
     "RecycleRecipe": {
@@ -1641,7 +1641,7 @@
     "Name": "DID_DefenderMelee_Basic_VR_T05",
     "DisplayName": "Epic Melee Defender",
     "SubType": "Melee Defender",
-    "Description": "A defender trained to fight with melee weapons. Defender Training: Consumes 33% less weapon durability.",
+    "Description": "A defender trained to fight with melee weapons.",
     "LevelToXPRow": "Defender_VeryRare",
     "Rarity": "Epic",
     "RecycleRecipe": {
@@ -1661,7 +1661,7 @@
     "Name": "DID_DefenderPistol_Basic_C_T01",
     "DisplayName": "Common Pistol Defender",
     "SubType": "Pistol Defender",
-    "Description": "A defender trained to fight with pistols. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with pistols.",
     "LevelToXPRow": "Defender_Common",
     "Rarity": "Common",
     "RecycleRecipe": {
@@ -1687,7 +1687,7 @@
     "Name": "DID_DefenderPistol_Basic_C_T02",
     "DisplayName": "Common Pistol Defender",
     "SubType": "Pistol Defender",
-    "Description": "A defender trained to fight with pistols. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with pistols.",
     "LevelToXPRow": "Defender_Common",
     "Rarity": "Common",
     "RecycleRecipe": {
@@ -1706,7 +1706,7 @@
     "Name": "DID_DefenderPistol_Basic_F_R_T01",
     "DisplayName": "Rare Pistol Defender",
     "SubType": "Pistol Defender",
-    "Description": "A defender trained to fight with pistols. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with pistols.",
     "LevelToXPRow": "Defender_Rare",
     "Rarity": "Rare",
     "RecycleRecipe": {
@@ -1734,7 +1734,7 @@
     "Name": "DID_DefenderPistol_Basic_F_R_T02",
     "DisplayName": "Rare Pistol Defender",
     "SubType": "Pistol Defender",
-    "Description": "A defender trained to fight with pistols. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with pistols.",
     "LevelToXPRow": "Defender_Rare",
     "Rarity": "Rare",
     "RecycleRecipe": {
@@ -1763,7 +1763,7 @@
     "Name": "DID_DefenderPistol_Basic_F_R_T03",
     "DisplayName": "Rare Pistol Defender",
     "SubType": "Pistol Defender",
-    "Description": "A defender trained to fight with pistols. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with pistols.",
     "LevelToXPRow": "Defender_Rare",
     "Rarity": "Rare",
     "RecycleRecipe": {
@@ -1793,7 +1793,7 @@
     "Name": "DID_DefenderPistol_Basic_F_R_T04",
     "DisplayName": "Rare Pistol Defender",
     "SubType": "Pistol Defender",
-    "Description": "A defender trained to fight with pistols. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with pistols.",
     "LevelToXPRow": "Defender_Rare",
     "Rarity": "Rare",
     "RecycleRecipe": {
@@ -1813,7 +1813,7 @@
     "Name": "DID_DefenderPistol_Basic_F_SR_T01",
     "DisplayName": "Legendary Pistol Defender",
     "SubType": "Pistol Defender",
-    "Description": "A defender trained to fight with pistols. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with pistols.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -1841,7 +1841,7 @@
     "Name": "DID_DefenderPistol_Basic_F_SR_T02",
     "DisplayName": "Legendary Pistol Defender",
     "SubType": "Pistol Defender",
-    "Description": "A defender trained to fight with pistols. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with pistols.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -1870,7 +1870,7 @@
     "Name": "DID_DefenderPistol_Basic_F_SR_T03",
     "DisplayName": "Legendary Pistol Defender",
     "SubType": "Pistol Defender",
-    "Description": "A defender trained to fight with pistols. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with pistols.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -1900,7 +1900,7 @@
     "Name": "DID_DefenderPistol_Basic_F_SR_T04",
     "DisplayName": "Legendary Pistol Defender",
     "SubType": "Pistol Defender",
-    "Description": "A defender trained to fight with pistols. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with pistols.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -1931,7 +1931,7 @@
     "Name": "DID_DefenderPistol_Basic_F_SR_T05",
     "DisplayName": "Legendary Pistol Defender",
     "SubType": "Pistol Defender",
-    "Description": "A defender trained to fight with pistols. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with pistols.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -1951,7 +1951,7 @@
     "Name": "DID_DefenderPistol_Basic_F_VR_T01",
     "DisplayName": "Epic Pistol Defender",
     "SubType": "Pistol Defender",
-    "Description": "A defender trained to fight with pistols. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with pistols.",
     "LevelToXPRow": "Defender_VeryRare",
     "Rarity": "Epic",
     "RecycleRecipe": {
@@ -1979,7 +1979,7 @@
     "Name": "DID_DefenderPistol_Basic_F_VR_T02",
     "DisplayName": "Epic Pistol Defender",
     "SubType": "Pistol Defender",
-    "Description": "A defender trained to fight with pistols. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with pistols.",
     "LevelToXPRow": "Defender_VeryRare",
     "Rarity": "Epic",
     "RecycleRecipe": {
@@ -2008,7 +2008,7 @@
     "Name": "DID_DefenderPistol_Basic_F_VR_T03",
     "DisplayName": "Epic Pistol Defender",
     "SubType": "Pistol Defender",
-    "Description": "A defender trained to fight with pistols. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with pistols.",
     "LevelToXPRow": "Defender_VeryRare",
     "Rarity": "Epic",
     "RecycleRecipe": {
@@ -2038,7 +2038,7 @@
     "Name": "DID_DefenderPistol_Basic_F_VR_T04",
     "DisplayName": "Epic Pistol Defender",
     "SubType": "Pistol Defender",
-    "Description": "A defender trained to fight with pistols. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with pistols.",
     "LevelToXPRow": "Defender_VeryRare",
     "Rarity": "Epic",
     "RecycleRecipe": {
@@ -2069,7 +2069,7 @@
     "Name": "DID_DefenderPistol_Basic_F_VR_T05",
     "DisplayName": "Epic Pistol Defender",
     "SubType": "Pistol Defender",
-    "Description": "A defender trained to fight with pistols. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with pistols.",
     "LevelToXPRow": "Defender_VeryRare",
     "Rarity": "Epic",
     "RecycleRecipe": {
@@ -2089,7 +2089,7 @@
     "Name": "DID_DefenderPistol_Basic_R_T01",
     "DisplayName": "Rare Pistol Defender",
     "SubType": "Pistol Defender",
-    "Description": "A defender trained to fight with pistols. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with pistols.",
     "LevelToXPRow": "Defender_Rare",
     "Rarity": "Rare",
     "RecycleRecipe": {
@@ -2117,7 +2117,7 @@
     "Name": "DID_DefenderPistol_Basic_R_T02",
     "DisplayName": "Rare Pistol Defender",
     "SubType": "Pistol Defender",
-    "Description": "A defender trained to fight with pistols. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with pistols.",
     "LevelToXPRow": "Defender_Rare",
     "Rarity": "Rare",
     "RecycleRecipe": {
@@ -2146,7 +2146,7 @@
     "Name": "DID_DefenderPistol_Basic_R_T03",
     "DisplayName": "Rare Pistol Defender",
     "SubType": "Pistol Defender",
-    "Description": "A defender trained to fight with pistols. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with pistols.",
     "LevelToXPRow": "Defender_Rare",
     "Rarity": "Rare",
     "RecycleRecipe": {
@@ -2176,7 +2176,7 @@
     "Name": "DID_DefenderPistol_Basic_R_T04",
     "DisplayName": "Rare Pistol Defender",
     "SubType": "Pistol Defender",
-    "Description": "A defender trained to fight with pistols. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with pistols.",
     "LevelToXPRow": "Defender_Rare",
     "Rarity": "Rare",
     "RecycleRecipe": {
@@ -2196,7 +2196,7 @@
     "Name": "DID_DefenderPistol_Basic_SR_T01",
     "DisplayName": "Legendary Pistol Defender",
     "SubType": "Pistol Defender",
-    "Description": "A defender trained to fight with pistols. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with pistols.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -2224,7 +2224,7 @@
     "Name": "DID_DefenderPistol_Basic_SR_T02",
     "DisplayName": "Legendary Pistol Defender",
     "SubType": "Pistol Defender",
-    "Description": "A defender trained to fight with pistols. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with pistols.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -2253,7 +2253,7 @@
     "Name": "DID_DefenderPistol_Basic_SR_T03",
     "DisplayName": "Legendary Pistol Defender",
     "SubType": "Pistol Defender",
-    "Description": "A defender trained to fight with pistols. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with pistols.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -2283,7 +2283,7 @@
     "Name": "DID_DefenderPistol_Basic_SR_T04",
     "DisplayName": "Legendary Pistol Defender",
     "SubType": "Pistol Defender",
-    "Description": "A defender trained to fight with pistols. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with pistols.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -2314,7 +2314,7 @@
     "Name": "DID_DefenderPistol_Basic_SR_T05",
     "DisplayName": "Legendary Pistol Defender",
     "SubType": "Pistol Defender",
-    "Description": "A defender trained to fight with pistols. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with pistols.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -2334,7 +2334,7 @@
     "Name": "DID_DefenderPistol_Basic_UC_T01",
     "DisplayName": "Uncommon Pistol Defender",
     "SubType": "Pistol Defender",
-    "Description": "A defender trained to fight with pistols. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with pistols.",
     "LevelToXPRow": "Defender_Uncommon",
     "Rarity": "Uncommon",
     "RecycleRecipe": {
@@ -2361,7 +2361,7 @@
     "Name": "DID_DefenderPistol_Basic_UC_T02",
     "DisplayName": "Uncommon Pistol Defender",
     "SubType": "Pistol Defender",
-    "Description": "A defender trained to fight with pistols. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with pistols.",
     "LevelToXPRow": "Defender_Uncommon",
     "Rarity": "Uncommon",
     "RecycleRecipe": {
@@ -2390,7 +2390,7 @@
     "Name": "DID_DefenderPistol_Basic_UC_T03",
     "DisplayName": "Uncommon Pistol Defender",
     "SubType": "Pistol Defender",
-    "Description": "A defender trained to fight with pistols. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with pistols.",
     "LevelToXPRow": "Defender_Uncommon",
     "Rarity": "Uncommon",
     "RecycleRecipe": {
@@ -2410,7 +2410,7 @@
     "Name": "DID_DefenderPistol_Basic_VR_T01",
     "DisplayName": "Epic Pistol Defender",
     "SubType": "Pistol Defender",
-    "Description": "A defender trained to fight with pistols. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with pistols.",
     "LevelToXPRow": "Defender_VeryRare",
     "Rarity": "Epic",
     "RecycleRecipe": {
@@ -2438,7 +2438,7 @@
     "Name": "DID_DefenderPistol_Basic_VR_T02",
     "DisplayName": "Epic Pistol Defender",
     "SubType": "Pistol Defender",
-    "Description": "A defender trained to fight with pistols. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with pistols.",
     "LevelToXPRow": "Defender_VeryRare",
     "Rarity": "Epic",
     "RecycleRecipe": {
@@ -2467,7 +2467,7 @@
     "Name": "DID_DefenderPistol_Basic_VR_T03",
     "DisplayName": "Epic Pistol Defender",
     "SubType": "Pistol Defender",
-    "Description": "A defender trained to fight with pistols. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with pistols.",
     "LevelToXPRow": "Defender_VeryRare",
     "Rarity": "Epic",
     "RecycleRecipe": {
@@ -2497,7 +2497,7 @@
     "Name": "DID_DefenderPistol_Basic_VR_T04",
     "DisplayName": "Epic Pistol Defender",
     "SubType": "Pistol Defender",
-    "Description": "A defender trained to fight with pistols. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with pistols.",
     "LevelToXPRow": "Defender_VeryRare",
     "Rarity": "Epic",
     "RecycleRecipe": {
@@ -2528,7 +2528,7 @@
     "Name": "DID_DefenderPistol_Basic_VR_T05",
     "DisplayName": "Epic Pistol Defender",
     "SubType": "Pistol Defender",
-    "Description": "A defender trained to fight with pistols. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with pistols.",
     "LevelToXPRow": "Defender_VeryRare",
     "Rarity": "Epic",
     "RecycleRecipe": {
@@ -2548,7 +2548,7 @@
     "Name": "DID_DefenderPistol_Founders_VR_T01",
     "DisplayName": "Idris",
     "SubType": "Pistol Defender",
-    "Description": "A defender trained to fight with pistols. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with pistols.",
     "IsPermanent": true,
     "Rarity": "Epic",
     "Tier": 1,
@@ -2571,7 +2571,7 @@
     "Name": "DID_DefenderPistol_Founders_VR_T02",
     "DisplayName": "Idris",
     "SubType": "Pistol Defender",
-    "Description": "A defender trained to fight with pistols. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with pistols.",
     "IsPermanent": true,
     "Rarity": "Epic",
     "Tier": 2,
@@ -2595,7 +2595,7 @@
     "Name": "DID_DefenderPistol_Founders_VR_T03",
     "DisplayName": "Idris",
     "SubType": "Pistol Defender",
-    "Description": "A defender trained to fight with pistols. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with pistols.",
     "IsPermanent": true,
     "Rarity": "Epic",
     "Tier": 3,
@@ -2620,7 +2620,7 @@
     "Name": "DID_DefenderPistol_Founders_VR_T04",
     "DisplayName": "Idris",
     "SubType": "Pistol Defender",
-    "Description": "A defender trained to fight with pistols. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with pistols.",
     "IsPermanent": true,
     "Rarity": "Epic",
     "Tier": 4,
@@ -2646,7 +2646,7 @@
     "Name": "DID_DefenderPistol_Founders_VR_T05",
     "DisplayName": "Idris",
     "SubType": "Pistol Defender",
-    "Description": "A defender trained to fight with pistols. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with pistols.",
     "IsPermanent": true,
     "Rarity": "Epic",
     "Tier": 5,
@@ -2661,7 +2661,7 @@
     "Name": "DID_DefenderShotgun_Basic_C_T01",
     "DisplayName": "Common Shotgun Defender",
     "SubType": "Shotgun Defender",
-    "Description": "A defender trained to fight with shotguns. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with shotguns.",
     "LevelToXPRow": "Defender_Common",
     "Rarity": "Common",
     "RecycleRecipe": {
@@ -2687,7 +2687,7 @@
     "Name": "DID_DefenderShotgun_Basic_C_T02",
     "DisplayName": "Common Shotgun Defender",
     "SubType": "Shotgun Defender",
-    "Description": "A defender trained to fight with shotguns. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with shotguns.",
     "LevelToXPRow": "Defender_Common",
     "Rarity": "Common",
     "RecycleRecipe": {
@@ -2706,7 +2706,7 @@
     "Name": "DID_DefenderShotgun_Basic_F_R_T01",
     "DisplayName": "Rare Shotgun Defender",
     "SubType": "Shotgun Defender",
-    "Description": "A defender trained to fight with shotguns. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with shotguns.",
     "LevelToXPRow": "Defender_Rare",
     "Rarity": "Rare",
     "RecycleRecipe": {
@@ -2734,7 +2734,7 @@
     "Name": "DID_DefenderShotgun_Basic_F_R_T02",
     "DisplayName": "Rare Shotgun Defender",
     "SubType": "Shotgun Defender",
-    "Description": "A defender trained to fight with shotguns. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with shotguns.",
     "LevelToXPRow": "Defender_Rare",
     "Rarity": "Rare",
     "RecycleRecipe": {
@@ -2763,7 +2763,7 @@
     "Name": "DID_DefenderShotgun_Basic_F_R_T03",
     "DisplayName": "Rare Shotgun Defender",
     "SubType": "Shotgun Defender",
-    "Description": "A defender trained to fight with shotguns. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with shotguns.",
     "LevelToXPRow": "Defender_Rare",
     "Rarity": "Rare",
     "RecycleRecipe": {
@@ -2793,7 +2793,7 @@
     "Name": "DID_DefenderShotgun_Basic_F_R_T04",
     "DisplayName": "Rare Shotgun Defender",
     "SubType": "Shotgun Defender",
-    "Description": "A defender trained to fight with shotguns. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with shotguns.",
     "LevelToXPRow": "Defender_Rare",
     "Rarity": "Rare",
     "RecycleRecipe": {
@@ -2813,7 +2813,7 @@
     "Name": "DID_DefenderShotgun_Basic_F_SR_T01",
     "DisplayName": "Legendary Shotgun Defender",
     "SubType": "Shotgun Defender",
-    "Description": "A defender trained to fight with shotguns. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with shotguns.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -2841,7 +2841,7 @@
     "Name": "DID_DefenderShotgun_Basic_F_SR_T02",
     "DisplayName": "Legendary Shotgun Defender",
     "SubType": "Shotgun Defender",
-    "Description": "A defender trained to fight with shotguns. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with shotguns.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -2870,7 +2870,7 @@
     "Name": "DID_DefenderShotgun_Basic_F_SR_T03",
     "DisplayName": "Legendary Shotgun Defender",
     "SubType": "Shotgun Defender",
-    "Description": "A defender trained to fight with shotguns. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with shotguns.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -2900,7 +2900,7 @@
     "Name": "DID_DefenderShotgun_Basic_F_SR_T04",
     "DisplayName": "Legendary Shotgun Defender",
     "SubType": "Shotgun Defender",
-    "Description": "A defender trained to fight with shotguns. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with shotguns.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -2931,7 +2931,7 @@
     "Name": "DID_DefenderShotgun_Basic_F_SR_T05",
     "DisplayName": "Legendary Shotgun Defender",
     "SubType": "Shotgun Defender",
-    "Description": "A defender trained to fight with shotguns. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with shotguns.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -2951,7 +2951,7 @@
     "Name": "DID_DefenderShotgun_Basic_F_VR_T01",
     "DisplayName": "Epic Shotgun Defender",
     "SubType": "Shotgun Defender",
-    "Description": "A defender trained to fight with shotguns. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with shotguns.",
     "LevelToXPRow": "Defender_VeryRare",
     "Rarity": "Epic",
     "RecycleRecipe": {
@@ -2979,7 +2979,7 @@
     "Name": "DID_DefenderShotgun_Basic_F_VR_T02",
     "DisplayName": "Epic Shotgun Defender",
     "SubType": "Shotgun Defender",
-    "Description": "A defender trained to fight with shotguns. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with shotguns.",
     "LevelToXPRow": "Defender_VeryRare",
     "Rarity": "Epic",
     "RecycleRecipe": {
@@ -3008,7 +3008,7 @@
     "Name": "DID_DefenderShotgun_Basic_F_VR_T03",
     "DisplayName": "Epic Shotgun Defender",
     "SubType": "Shotgun Defender",
-    "Description": "A defender trained to fight with shotguns. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with shotguns.",
     "LevelToXPRow": "Defender_VeryRare",
     "Rarity": "Epic",
     "RecycleRecipe": {
@@ -3038,7 +3038,7 @@
     "Name": "DID_DefenderShotgun_Basic_F_VR_T04",
     "DisplayName": "Epic Shotgun Defender",
     "SubType": "Shotgun Defender",
-    "Description": "A defender trained to fight with shotguns. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with shotguns.",
     "LevelToXPRow": "Defender_VeryRare",
     "Rarity": "Epic",
     "RecycleRecipe": {
@@ -3069,7 +3069,7 @@
     "Name": "DID_DefenderShotgun_Basic_F_VR_T05",
     "DisplayName": "Epic Shotgun Defender",
     "SubType": "Shotgun Defender",
-    "Description": "A defender trained to fight with shotguns. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with shotguns.",
     "LevelToXPRow": "Defender_VeryRare",
     "Rarity": "Epic",
     "RecycleRecipe": {
@@ -3089,7 +3089,7 @@
     "Name": "DID_DefenderShotgun_Basic_R_T01",
     "DisplayName": "Rare Shotgun Defender",
     "SubType": "Shotgun Defender",
-    "Description": "A defender trained to fight with shotguns. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with shotguns.",
     "LevelToXPRow": "Defender_Rare",
     "Rarity": "Rare",
     "RecycleRecipe": {
@@ -3117,7 +3117,7 @@
     "Name": "DID_DefenderShotgun_Basic_R_T02",
     "DisplayName": "Rare Shotgun Defender",
     "SubType": "Shotgun Defender",
-    "Description": "A defender trained to fight with shotguns. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with shotguns.",
     "LevelToXPRow": "Defender_Rare",
     "Rarity": "Rare",
     "RecycleRecipe": {
@@ -3146,7 +3146,7 @@
     "Name": "DID_DefenderShotgun_Basic_R_T03",
     "DisplayName": "Rare Shotgun Defender",
     "SubType": "Shotgun Defender",
-    "Description": "A defender trained to fight with shotguns. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with shotguns.",
     "LevelToXPRow": "Defender_Rare",
     "Rarity": "Rare",
     "RecycleRecipe": {
@@ -3176,7 +3176,7 @@
     "Name": "DID_DefenderShotgun_Basic_R_T04",
     "DisplayName": "Rare Shotgun Defender",
     "SubType": "Shotgun Defender",
-    "Description": "A defender trained to fight with shotguns. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with shotguns.",
     "LevelToXPRow": "Defender_Rare",
     "Rarity": "Rare",
     "RecycleRecipe": {
@@ -3196,7 +3196,7 @@
     "Name": "DID_DefenderShotgun_Basic_SR_T01",
     "DisplayName": "Legendary Shotgun Defender",
     "SubType": "Shotgun Defender",
-    "Description": "A defender trained to fight with shotguns. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with shotguns.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -3224,7 +3224,7 @@
     "Name": "DID_DefenderShotgun_Basic_SR_T02",
     "DisplayName": "Legendary Shotgun Defender",
     "SubType": "Shotgun Defender",
-    "Description": "A defender trained to fight with shotguns. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with shotguns.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -3253,7 +3253,7 @@
     "Name": "DID_DefenderShotgun_Basic_SR_T03",
     "DisplayName": "Legendary Shotgun Defender",
     "SubType": "Shotgun Defender",
-    "Description": "A defender trained to fight with shotguns. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with shotguns.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -3283,7 +3283,7 @@
     "Name": "DID_DefenderShotgun_Basic_SR_T04",
     "DisplayName": "Legendary Shotgun Defender",
     "SubType": "Shotgun Defender",
-    "Description": "A defender trained to fight with shotguns. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with shotguns.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -3314,7 +3314,7 @@
     "Name": "DID_DefenderShotgun_Basic_SR_T05",
     "DisplayName": "Legendary Shotgun Defender",
     "SubType": "Shotgun Defender",
-    "Description": "A defender trained to fight with shotguns. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with shotguns.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -3334,7 +3334,7 @@
     "Name": "DID_DefenderShotgun_Basic_UC_T01",
     "DisplayName": "Uncommon Shotgun Defender",
     "SubType": "Shotgun Defender",
-    "Description": "A defender trained to fight with shotguns. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with shotguns.",
     "LevelToXPRow": "Defender_Uncommon",
     "Rarity": "Uncommon",
     "RecycleRecipe": {
@@ -3361,7 +3361,7 @@
     "Name": "DID_DefenderShotgun_Basic_UC_T02",
     "DisplayName": "Uncommon Shotgun Defender",
     "SubType": "Shotgun Defender",
-    "Description": "A defender trained to fight with shotguns. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with shotguns.",
     "LevelToXPRow": "Defender_Uncommon",
     "Rarity": "Uncommon",
     "RecycleRecipe": {
@@ -3390,7 +3390,7 @@
     "Name": "DID_DefenderShotgun_Basic_UC_T03",
     "DisplayName": "Uncommon Shotgun Defender",
     "SubType": "Shotgun Defender",
-    "Description": "A defender trained to fight with shotguns. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with shotguns.",
     "LevelToXPRow": "Defender_Uncommon",
     "Rarity": "Uncommon",
     "RecycleRecipe": {
@@ -3410,7 +3410,7 @@
     "Name": "DID_DefenderShotgun_Basic_VR_T01",
     "DisplayName": "Epic Shotgun Defender",
     "SubType": "Shotgun Defender",
-    "Description": "A defender trained to fight with shotguns. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with shotguns.",
     "LevelToXPRow": "Defender_VeryRare",
     "Rarity": "Epic",
     "RecycleRecipe": {
@@ -3438,7 +3438,7 @@
     "Name": "DID_DefenderShotgun_Basic_VR_T02",
     "DisplayName": "Epic Shotgun Defender",
     "SubType": "Shotgun Defender",
-    "Description": "A defender trained to fight with shotguns. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with shotguns.",
     "LevelToXPRow": "Defender_VeryRare",
     "Rarity": "Epic",
     "RecycleRecipe": {
@@ -3467,7 +3467,7 @@
     "Name": "DID_DefenderShotgun_Basic_VR_T03",
     "DisplayName": "Epic Shotgun Defender",
     "SubType": "Shotgun Defender",
-    "Description": "A defender trained to fight with shotguns. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with shotguns.",
     "LevelToXPRow": "Defender_VeryRare",
     "Rarity": "Epic",
     "RecycleRecipe": {
@@ -3497,7 +3497,7 @@
     "Name": "DID_DefenderShotgun_Basic_VR_T04",
     "DisplayName": "Epic Shotgun Defender",
     "SubType": "Shotgun Defender",
-    "Description": "A defender trained to fight with shotguns. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with shotguns.",
     "LevelToXPRow": "Defender_VeryRare",
     "Rarity": "Epic",
     "RecycleRecipe": {
@@ -3528,7 +3528,7 @@
     "Name": "DID_DefenderShotgun_Basic_VR_T05",
     "DisplayName": "Epic Shotgun Defender",
     "SubType": "Shotgun Defender",
-    "Description": "A defender trained to fight with shotguns. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with shotguns.",
     "LevelToXPRow": "Defender_VeryRare",
     "Rarity": "Epic",
     "RecycleRecipe": {
@@ -3548,7 +3548,7 @@
     "Name": "DID_DefenderSniper_Basic_C_T01",
     "DisplayName": "Common Sniper Defender",
     "SubType": "Sniper Defender",
-    "Description": "A defender trained to fight with sniper rifles. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with sniper rifles.",
     "LevelToXPRow": "Defender_Common",
     "Rarity": "Common",
     "RecycleRecipe": {
@@ -3574,7 +3574,7 @@
     "Name": "DID_DefenderSniper_Basic_C_T02",
     "DisplayName": "Common Sniper Defender",
     "SubType": "Sniper Defender",
-    "Description": "A defender trained to fight with sniper rifles. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with sniper rifles.",
     "LevelToXPRow": "Defender_Common",
     "Rarity": "Common",
     "RecycleRecipe": {
@@ -3593,7 +3593,7 @@
     "Name": "DID_DefenderSniper_Basic_M_R_T01",
     "DisplayName": "Rare Sniper Defender",
     "SubType": "Sniper Defender",
-    "Description": "A defender trained to fight with sniper rifles. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with sniper rifles.",
     "LevelToXPRow": "Defender_Rare",
     "Rarity": "Rare",
     "RecycleRecipe": {
@@ -3621,7 +3621,7 @@
     "Name": "DID_DefenderSniper_Basic_M_R_T02",
     "DisplayName": "Rare Sniper Defender",
     "SubType": "Sniper Defender",
-    "Description": "A defender trained to fight with sniper rifles. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with sniper rifles.",
     "LevelToXPRow": "Defender_Rare",
     "Rarity": "Rare",
     "RecycleRecipe": {
@@ -3650,7 +3650,7 @@
     "Name": "DID_DefenderSniper_Basic_M_R_T03",
     "DisplayName": "Rare Sniper Defender",
     "SubType": "Sniper Defender",
-    "Description": "A defender trained to fight with sniper rifles. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with sniper rifles.",
     "LevelToXPRow": "Defender_Rare",
     "Rarity": "Rare",
     "RecycleRecipe": {
@@ -3680,7 +3680,7 @@
     "Name": "DID_DefenderSniper_Basic_M_R_T04",
     "DisplayName": "Rare Sniper Defender",
     "SubType": "Sniper Defender",
-    "Description": "A defender trained to fight with sniper rifles. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with sniper rifles.",
     "LevelToXPRow": "Defender_Rare",
     "Rarity": "Rare",
     "RecycleRecipe": {
@@ -3700,7 +3700,7 @@
     "Name": "DID_DefenderSniper_Basic_M_SR_T01",
     "DisplayName": "Legendary Sniper Defender",
     "SubType": "Sniper Defender",
-    "Description": "A defender trained to fight with sniper rifles. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with sniper rifles.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -3728,7 +3728,7 @@
     "Name": "DID_DefenderSniper_Basic_M_SR_T02",
     "DisplayName": "Legendary Sniper Defender",
     "SubType": "Sniper Defender",
-    "Description": "A defender trained to fight with sniper rifles. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with sniper rifles.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -3757,7 +3757,7 @@
     "Name": "DID_DefenderSniper_Basic_M_SR_T03",
     "DisplayName": "Legendary Sniper Defender",
     "SubType": "Sniper Defender",
-    "Description": "A defender trained to fight with sniper rifles. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with sniper rifles.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -3787,7 +3787,7 @@
     "Name": "DID_DefenderSniper_Basic_M_SR_T04",
     "DisplayName": "Legendary Sniper Defender",
     "SubType": "Sniper Defender",
-    "Description": "A defender trained to fight with sniper rifles. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with sniper rifles.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -3818,7 +3818,7 @@
     "Name": "DID_DefenderSniper_Basic_M_SR_T05",
     "DisplayName": "Legendary Sniper Defender",
     "SubType": "Sniper Defender",
-    "Description": "A defender trained to fight with sniper rifles. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with sniper rifles.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -3838,7 +3838,7 @@
     "Name": "DID_DefenderSniper_Basic_M_VR_T01",
     "DisplayName": "Epic Sniper Defender",
     "SubType": "Sniper Defender",
-    "Description": "A defender trained to fight with sniper rifles. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with sniper rifles.",
     "LevelToXPRow": "Defender_VeryRare",
     "Rarity": "Epic",
     "RecycleRecipe": {
@@ -3866,7 +3866,7 @@
     "Name": "DID_DefenderSniper_Basic_M_VR_T02",
     "DisplayName": "Epic Sniper Defender",
     "SubType": "Sniper Defender",
-    "Description": "A defender trained to fight with sniper rifles. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with sniper rifles.",
     "LevelToXPRow": "Defender_VeryRare",
     "Rarity": "Epic",
     "RecycleRecipe": {
@@ -3895,7 +3895,7 @@
     "Name": "DID_DefenderSniper_Basic_M_VR_T03",
     "DisplayName": "Epic Sniper Defender",
     "SubType": "Sniper Defender",
-    "Description": "A defender trained to fight with sniper rifles. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with sniper rifles.",
     "LevelToXPRow": "Defender_VeryRare",
     "Rarity": "Epic",
     "RecycleRecipe": {
@@ -3925,7 +3925,7 @@
     "Name": "DID_DefenderSniper_Basic_M_VR_T04",
     "DisplayName": "Epic Sniper Defender",
     "SubType": "Sniper Defender",
-    "Description": "A defender trained to fight with sniper rifles. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with sniper rifles.",
     "LevelToXPRow": "Defender_VeryRare",
     "Rarity": "Epic",
     "RecycleRecipe": {
@@ -3956,7 +3956,7 @@
     "Name": "DID_DefenderSniper_Basic_M_VR_T05",
     "DisplayName": "Epic Sniper Defender",
     "SubType": "Sniper Defender",
-    "Description": "A defender trained to fight with sniper rifles. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with sniper rifles.",
     "LevelToXPRow": "Defender_VeryRare",
     "Rarity": "Epic",
     "RecycleRecipe": {
@@ -3976,7 +3976,7 @@
     "Name": "DID_DefenderSniper_Basic_R_T01",
     "DisplayName": "Rare Sniper Defender",
     "SubType": "Sniper Defender",
-    "Description": "A defender trained to fight with sniper rifles. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with sniper rifles.",
     "LevelToXPRow": "Defender_Rare",
     "Rarity": "Rare",
     "RecycleRecipe": {
@@ -4004,7 +4004,7 @@
     "Name": "DID_DefenderSniper_Basic_R_T02",
     "DisplayName": "Rare Sniper Defender",
     "SubType": "Sniper Defender",
-    "Description": "A defender trained to fight with sniper rifles. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with sniper rifles.",
     "LevelToXPRow": "Defender_Rare",
     "Rarity": "Rare",
     "RecycleRecipe": {
@@ -4033,7 +4033,7 @@
     "Name": "DID_DefenderSniper_Basic_R_T03",
     "DisplayName": "Rare Sniper Defender",
     "SubType": "Sniper Defender",
-    "Description": "A defender trained to fight with sniper rifles. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with sniper rifles.",
     "LevelToXPRow": "Defender_Rare",
     "Rarity": "Rare",
     "RecycleRecipe": {
@@ -4063,7 +4063,7 @@
     "Name": "DID_DefenderSniper_Basic_R_T04",
     "DisplayName": "Rare Sniper Defender",
     "SubType": "Sniper Defender",
-    "Description": "A defender trained to fight with sniper rifles. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with sniper rifles.",
     "LevelToXPRow": "Defender_Rare",
     "Rarity": "Rare",
     "RecycleRecipe": {
@@ -4083,7 +4083,7 @@
     "Name": "DID_DefenderSniper_Basic_SR_T01",
     "DisplayName": "Legendary Sniper Defender",
     "SubType": "Sniper Defender",
-    "Description": "A defender trained to fight with sniper rifles. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with sniper rifles.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -4111,7 +4111,7 @@
     "Name": "DID_DefenderSniper_Basic_SR_T02",
     "DisplayName": "Legendary Sniper Defender",
     "SubType": "Sniper Defender",
-    "Description": "A defender trained to fight with sniper rifles. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with sniper rifles.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -4140,7 +4140,7 @@
     "Name": "DID_DefenderSniper_Basic_SR_T03",
     "DisplayName": "Legendary Sniper Defender",
     "SubType": "Sniper Defender",
-    "Description": "A defender trained to fight with sniper rifles. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with sniper rifles.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -4170,7 +4170,7 @@
     "Name": "DID_DefenderSniper_Basic_SR_T04",
     "DisplayName": "Legendary Sniper Defender",
     "SubType": "Sniper Defender",
-    "Description": "A defender trained to fight with sniper rifles. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with sniper rifles.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -4201,7 +4201,7 @@
     "Name": "DID_DefenderSniper_Basic_SR_T05",
     "DisplayName": "Legendary Sniper Defender",
     "SubType": "Sniper Defender",
-    "Description": "A defender trained to fight with sniper rifles. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with sniper rifles.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -4221,7 +4221,7 @@
     "Name": "DID_DefenderSniper_Basic_UC_T01",
     "DisplayName": "Uncommon Sniper Defender",
     "SubType": "Sniper Defender",
-    "Description": "A defender trained to fight with sniper rifles. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with sniper rifles.",
     "LevelToXPRow": "Defender_Uncommon",
     "Rarity": "Uncommon",
     "RecycleRecipe": {
@@ -4248,7 +4248,7 @@
     "Name": "DID_DefenderSniper_Basic_UC_T02",
     "DisplayName": "Uncommon Sniper Defender",
     "SubType": "Sniper Defender",
-    "Description": "A defender trained to fight with sniper rifles. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with sniper rifles.",
     "LevelToXPRow": "Defender_Uncommon",
     "Rarity": "Uncommon",
     "RecycleRecipe": {
@@ -4277,7 +4277,7 @@
     "Name": "DID_DefenderSniper_Basic_UC_T03",
     "DisplayName": "Uncommon Sniper Defender",
     "SubType": "Sniper Defender",
-    "Description": "A defender trained to fight with sniper rifles. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with sniper rifles.",
     "LevelToXPRow": "Defender_Uncommon",
     "Rarity": "Uncommon",
     "RecycleRecipe": {
@@ -4297,7 +4297,7 @@
     "Name": "DID_DefenderSniper_Basic_VR_T01",
     "DisplayName": "Epic Sniper Defender",
     "SubType": "Sniper Defender",
-    "Description": "A defender trained to fight with sniper rifles. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with sniper rifles.",
     "LevelToXPRow": "Defender_VeryRare",
     "Rarity": "Epic",
     "RecycleRecipe": {
@@ -4325,7 +4325,7 @@
     "Name": "DID_DefenderSniper_Basic_VR_T02",
     "DisplayName": "Epic Sniper Defender",
     "SubType": "Sniper Defender",
-    "Description": "A defender trained to fight with sniper rifles. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with sniper rifles.",
     "LevelToXPRow": "Defender_VeryRare",
     "Rarity": "Epic",
     "RecycleRecipe": {
@@ -4354,7 +4354,7 @@
     "Name": "DID_DefenderSniper_Basic_VR_T03",
     "DisplayName": "Epic Sniper Defender",
     "SubType": "Sniper Defender",
-    "Description": "A defender trained to fight with sniper rifles. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with sniper rifles.",
     "LevelToXPRow": "Defender_VeryRare",
     "Rarity": "Epic",
     "RecycleRecipe": {
@@ -4384,7 +4384,7 @@
     "Name": "DID_DefenderSniper_Basic_VR_T04",
     "DisplayName": "Epic Sniper Defender",
     "SubType": "Sniper Defender",
-    "Description": "A defender trained to fight with sniper rifles. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with sniper rifles.",
     "LevelToXPRow": "Defender_VeryRare",
     "Rarity": "Epic",
     "RecycleRecipe": {
@@ -4415,7 +4415,7 @@
     "Name": "DID_DefenderSniper_Basic_VR_T05",
     "DisplayName": "Epic Sniper Defender",
     "SubType": "Sniper Defender",
-    "Description": "A defender trained to fight with sniper rifles. Defender Training: Consumes 33% less ammunition and weapon durability.",
+    "Description": "A defender trained to fight with sniper rifles.",
     "LevelToXPRow": "Defender_VeryRare",
     "Rarity": "Epic",
     "RecycleRecipe": {

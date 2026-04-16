@@ -39029,8 +39029,8 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/heroes/constructor/itemdefinition/hid_constructor_015_r_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "ExportedImages\\T-Constructor-HID-Constructor-015-R-T02.png",
-      "LargePreview": "ExportedImages\\T-Constructor-HID-Constructor-015-R-T02-L.png"
+      "SmallPreview": "ExportedImages\\T-Constructor-HID-Constructor-015-R-T01.png",
+      "LargePreview": "ExportedImages\\T-Constructor-HID-Constructor-015-R-T01-L.png"
     }
   },
   "Hero:hid_constructor_015_r_t02": {
@@ -39255,8 +39255,8 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/heroes/constructor/itemdefinition/hid_constructor_015_sr_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "ExportedImages\\T-Constructor-HID-Constructor-015-SR-T02.png",
-      "LargePreview": "ExportedImages\\T-Constructor-HID-Constructor-015-SR-T02-L.png"
+      "SmallPreview": "ExportedImages\\T-Constructor-HID-Constructor-015-R-T01.png",
+      "LargePreview": "ExportedImages\\T-Constructor-HID-Constructor-015-R-T01-L.png"
     }
   },
   "Hero:hid_constructor_015_sr_t02": {
@@ -39514,8 +39514,8 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/heroes/constructor/itemdefinition/hid_constructor_015_vr_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "ExportedImages\\T-Constructor-HID-Constructor-015-VR-T02.png",
-      "LargePreview": "ExportedImages\\T-Constructor-HID-Constructor-015-VR-T02-L.png"
+      "SmallPreview": "ExportedImages\\T-Constructor-HID-Constructor-015-R-T01.png",
+      "LargePreview": "ExportedImages\\T-Constructor-HID-Constructor-015-R-T01-L.png"
     }
   },
   "Hero:hid_constructor_015_vr_t02": {
@@ -66188,8 +66188,8 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/heroes/ninja/itemdefinition/hid_ninja_015_f_v1_r_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "ExportedImages\\T-Ninja-HID-Ninja-015-F-V1-R-T02.png",
-      "LargePreview": "ExportedImages\\T-Ninja-HID-Ninja-015-F-V1-R-T02-L.png"
+      "SmallPreview": "ExportedImages\\T-Ninja-HID-Ninja-015-F-V1-UC-T02.png",
+      "LargePreview": "ExportedImages\\T-Ninja-HID-Ninja-015-F-V1-UC-T01-L.png"
     }
   },
   "Hero:hid_ninja_015_f_v1_r_t02": {
@@ -66631,8 +66631,8 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/heroes/ninja/itemdefinition/hid_ninja_015_f_v1_sr_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "ExportedImages\\T-Ninja-HID-Ninja-015-F-V1-SR-T02.png",
-      "LargePreview": "ExportedImages\\T-Ninja-HID-Ninja-015-F-V1-SR-T02-L.png"
+      "SmallPreview": "ExportedImages\\T-Ninja-HID-Ninja-015-F-V1-UC-T02.png",
+      "LargePreview": "ExportedImages\\T-Ninja-HID-Ninja-015-F-V1-UC-T01-L.png"
     }
   },
   "Hero:hid_ninja_015_f_v1_sr_t02": {
@@ -67026,8 +67026,8 @@
     },
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/heroes/ninja/itemdefinition/hid_ninja_015_f_v1_vr_t01.uasset",
     "ImagePaths": {
-      "SmallPreview": "ExportedImages\\T-Ninja-HID-Ninja-015-F-V1-VR-T02.png",
-      "LargePreview": "ExportedImages\\T-Ninja-HID-Ninja-015-F-V1-VR-T02-L.png"
+      "SmallPreview": "ExportedImages\\T-Ninja-HID-Ninja-015-F-V1-UC-T02.png",
+      "LargePreview": "ExportedImages\\T-Ninja-HID-Ninja-015-F-V1-UC-T01-L.png"
     }
   },
   "Hero:hid_ninja_015_f_v1_vr_t02": {

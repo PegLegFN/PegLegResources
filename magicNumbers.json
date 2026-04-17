@@ -22,7 +22,13 @@
   },
   "fallbackFulfillmentUK":"Token:athena_unrevealedsummerquest",
   "fallbackFulfillment":"CardPack:cardpack_manager_trainer_sr",
-  "rivalryURLPath":"mesh/Fortnite/Fortnite.Hera_Terrain.51618937/metadata",
+  "questTemplateToItemLevelCap":{
+    "Quest:outpostquest_t1_l6":20,
+    "Quest:plankertonquest_outpost_l4":30,
+    "Quest:cannyvalleyquest_outpost_l2":40,
+    "Quest:cannyvalleyquest_outpost_l6":50
+  },
+  "rivalryURLPath":"mesh/Fortnite/Fortnite.Hera_Terrain.51979515/metadata",
   "questErrorDelay":5.0,
   "secretMissionQuests":{
     "CannyValleyQuest_Filler_2_D1":[

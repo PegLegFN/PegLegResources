@@ -98,22 +98,6 @@
       ]
     ]
   },
-  "Brawl of the Wild": {
-    "EventTag": "EventFlag.STWIrwin",
-    "QuestPages": [
-      [
-        "Quest:STWIrwinIntro_ReactiveKill_Quest_A1",
-        "Quest:STWIrwinIntro_Feed_Quest_A2",
-        "Quest:STWIrwinIntro_Fetch_Quest_A3",
-        "Quest:STWIrwinIntro_ReactiveKill_Quest_A4"
-      ],
-      [
-        "Quest:STWIrwinIntro_Fetch_Quest_A5",
-        "Quest:STWIrwinIntro_ReactiveKill_Quest_A6",
-        "Quest:STWIrwinIntro_Build_Quest_A7"
-      ]
-    ]
-  },
   "Clip\u0027s Nightmare": {
     "EventTag": "EventFlag.Phoenix.Fortnitemares.Clip",
     "QuestPages": [
@@ -458,6 +442,21 @@
         "Quest:V_GatherCollect_Quest_A5",
         "Quest:V_Eliminate_Quest_A6",
         "Quest:V_Fetch_Quest_A7"
+      ]
+    ]
+  },
+  "Wildlife Introduction": {
+    "EventTag": "EventFlag.STWIrwin",
+    "QuestPages": [
+      [
+        "Quest:STWIrwinIntro_ReactiveKill_Quest_A1",
+        "Quest:STWIrwinIntro_Fetch_Quest_A3",
+        "Quest:STWIrwinIntro_ReactiveKill_Quest_A4"
+      ],
+      [
+        "Quest:STWIrwinIntro_Fetch_Quest_A5",
+        "Quest:STWIrwinIntro_ReactiveKill_Quest_A6",
+        "Quest:STWIrwinIntro_Build_Quest_A7"
       ]
     ]
   },

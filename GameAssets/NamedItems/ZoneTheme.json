@@ -581,46 +581,6 @@
     "AssetPath": "fortnitegame/plugins/gamefeatures/stw/stw_zones/content/world/zonethemes/mayday/bp_zt_mayday_twine2",
     "ImagePaths": {}
   },
-  "ZoneTheme:bp_zt_mk_ad1_c": {
-    "Type": "ZoneTheme",
-    "Name": "BP_ZT_MK_AD1_C",
-    "DisplayName": "MK Autumn City",
-    "Description": "A stable map playground",
-    "AssetPath": "fortnitegame/plugins/gamefeatures/stw/stw_zones/content/world/zonethemes/testzonethemes/bp_zt_mk_ad1",
-    "ImagePaths": {}
-  },
-  "ZoneTheme:bp_zt_mk_ad2_c": {
-    "Type": "ZoneTheme",
-    "Name": "BP_ZT_MK_AD2_C",
-    "DisplayName": "MK Autumn Lakeside",
-    "Description": "A stable map playground",
-    "AssetPath": "fortnitegame/plugins/gamefeatures/stw/stw_zones/content/world/zonethemes/testzonethemes/bp_zt_mk_ad2",
-    "ImagePaths": {}
-  },
-  "ZoneTheme:bp_zt_mk_c": {
-    "Type": "ZoneTheme",
-    "Name": "BP_ZT_Mk_C",
-    "DisplayName": "Mk City",
-    "Description": "A stable map playground",
-    "AssetPath": "fortnitegame/plugins/gamefeatures/stw/stw_zones/content/world/zonethemes/testzonethemes/bp_zt_mk",
-    "ImagePaths": {}
-  },
-  "ZoneTheme:bp_zt_mk_tp1_c": {
-    "Type": "ZoneTheme",
-    "Name": "BP_ZT_MK_TP1_C",
-    "DisplayName": "MK Tropical zone",
-    "Description": "A stable map playground",
-    "AssetPath": "fortnitegame/plugins/gamefeatures/stw/stw_zones/content/world/zonethemes/testzonethemes/bp_zt_mk_tp1",
-    "ImagePaths": {}
-  },
-  "ZoneTheme:bp_zt_mk_wz1_c": {
-    "Type": "ZoneTheme",
-    "Name": "BP_ZT_MK_WZ1_C",
-    "DisplayName": "MK Arctic Base",
-    "Description": "A stable map playground",
-    "AssetPath": "fortnitegame/plugins/gamefeatures/stw/stw_zones/content/world/zonethemes/testzonethemes/bp_zt_mk_wz1",
-    "ImagePaths": {}
-  },
   "ZoneTheme:bp_zt_observetheskies_c": {
     "Type": "ZoneTheme",
     "Name": "BP_ZT_ObserveTheSkies_C",

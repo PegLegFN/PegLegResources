@@ -63450,79 +63450,7 @@
         "HudShortDescription": ""
       },
       {
-        "BackendName": "SchematicUpgrade_Guard_Armory",
-        "Count": 1,
-        "Description": "",
-        "HudShortDescription": ""
-      },
-      {
-        "BackendName": "StonewoodQuest_Highlight_Schematics",
-        "Count": 1,
-        "Description": "",
-        "HudShortDescription": ""
-      },
-      {
-        "BackendName": "SchematicUpgrade_Guard_Item",
-        "Count": 1,
-        "Description": "",
-        "HudShortDescription": ""
-      },
-      {
-        "BackendName": "StonewoodQuest_Highlight_Item",
-        "Count": 1,
-        "Description": "",
-        "HudShortDescription": ""
-      },
-      {
-        "BackendName": "SchematicUpgrade_Guard_Level",
-        "Count": 1,
-        "Description": "",
-        "HudShortDescription": ""
-      },
-      {
-        "BackendName": "SchematicUpgrade_Highlight_Level",
-        "Count": 1,
-        "Description": "",
-        "HudShortDescription": ""
-      },
-      {
-        "BackendName": "SchematicUpgrade_Guard_Cost",
-        "Count": 1,
-        "Description": "",
-        "HudShortDescription": ""
-      },
-      {
-        "BackendName": "SchematicUpgrade_Highlight_Cost",
-        "Count": 1,
-        "Description": "",
-        "HudShortDescription": ""
-      },
-      {
-        "BackendName": "SchematicUpgrade_Guard_Stats",
-        "Count": 1,
-        "Description": "",
-        "HudShortDescription": ""
-      },
-      {
-        "BackendName": "SchematicUpgrade_Highlight_Stats",
-        "Count": 1,
-        "Description": "",
-        "HudShortDescription": ""
-      },
-      {
-        "BackendName": "SchematicUpgrade_Guard_Confirm",
-        "Count": 1,
-        "Description": "",
-        "HudShortDescription": ""
-      },
-      {
-        "BackendName": "SchematicUpgrade_Highlight_Confirm",
-        "Count": 1,
-        "Description": "",
-        "HudShortDescription": ""
-      },
-      {
-        "BackendName": "SchematicUpgrade_Guard_End",
+        "BackendName": "SchematicUpgrade_ArmoryGuard",
         "Count": 1,
         "Description": "",
         "HudShortDescription": ""
@@ -65136,6 +65064,12 @@
     "Rewards": [
       {
         "Hidden": false,
+        "Item": "AccountResource:campaign_event_currency",
+        "Quantity": 250,
+        "Selectable": false
+      },
+      {
+        "Hidden": false,
         "Item": "Hero:hid_outlander_041_dinocollector_sr_t01",
         "Quantity": 1,
         "Selectable": false
@@ -65162,20 +65096,7 @@
         "HudShortDescription": "Animals fed"
       }
     ],
-    "Rewards": [
-      {
-        "Hidden": true,
-        "Item": "Quest:stwirwinintro_fetch_quest_a3",
-        "Quantity": 1,
-        "Selectable": false
-      },
-      {
-        "Hidden": false,
-        "Item": "AccountResource:campaign_event_currency",
-        "Quantity": 250,
-        "Selectable": false
-      }
-    ],
+    "Rewards": [],
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/quests/stwirwin/stwirwinintro_feed_quest_a2.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\Icon-Consumable-Buff-L.png",
@@ -65270,7 +65191,7 @@
     "Rewards": [
       {
         "Hidden": true,
-        "Item": "Quest:stwirwinintro_feed_quest_a2",
+        "Item": "Quest:stwirwinintro_fetch_quest_a3",
         "Quantity": 1,
         "Selectable": false
       },

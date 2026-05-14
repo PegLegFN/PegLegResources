@@ -9146,6 +9146,366 @@
       "LargePreview": "ExportedImages\\reward_resource_wood.png"
     }
   },
+  "CardPack:zcp_chrysus_coins1": {
+    "Type": "CardPack",
+    "Name": "ZCP_Chrysus_Coins1",
+    "DisplayName": "Gold",
+    "Description": "Special currency earned by completing missions and opening mini llamas. Can be traded for items in the Event Store.",
+    "IsPermanent": true,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/cardpacks/zonerewards/chrysus/zcp_chrysus_coins1.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T-Item-GoldBars-L.png",
+      "LargePreview": "ExportedImages\\T-Item-GoldBars-L.png"
+    }
+  },
+  "CardPack:zcp_chrysus_coins10": {
+    "Type": "CardPack",
+    "Name": "ZCP_Chrysus_Coins10",
+    "DisplayName": "Gold",
+    "Description": "Special currency earned by completing missions and opening mini llamas. Can be traded for items in the Event Store.",
+    "IsPermanent": true,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/cardpacks/zonerewards/chrysus/zcp_chrysus_coins10.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T-Item-GoldBars-L.png",
+      "LargePreview": "ExportedImages\\T-Item-GoldBars-L.png"
+    }
+  },
+  "CardPack:zcp_chrysus_coins11": {
+    "Type": "CardPack",
+    "Name": "ZCP_Chrysus_Coins11",
+    "DisplayName": "Gold",
+    "Description": "Special currency earned by completing missions and opening mini llamas. Can be traded for items in the Event Store.",
+    "IsPermanent": true,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/cardpacks/zonerewards/chrysus/zcp_chrysus_coins11.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T-Item-GoldBars-L.png",
+      "LargePreview": "ExportedImages\\T-Item-GoldBars-L.png"
+    }
+  },
+  "CardPack:zcp_chrysus_coins12": {
+    "Type": "CardPack",
+    "Name": "ZCP_Chrysus_Coins12",
+    "DisplayName": "Gold",
+    "Description": "Special currency earned by completing missions and opening mini llamas. Can be traded for items in the Event Store.",
+    "IsPermanent": true,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/cardpacks/zonerewards/chrysus/zcp_chrysus_coins12.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T-Item-GoldBars-L.png",
+      "LargePreview": "ExportedImages\\T-Item-GoldBars-L.png"
+    }
+  },
+  "CardPack:zcp_chrysus_coins13": {
+    "Type": "CardPack",
+    "Name": "ZCP_Chrysus_Coins13",
+    "DisplayName": "Gold",
+    "Description": "Special currency earned by completing missions and opening mini llamas. Can be traded for items in the Event Store.",
+    "IsPermanent": true,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/cardpacks/zonerewards/chrysus/zcp_chrysus_coins13.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T-Item-GoldBars-L.png",
+      "LargePreview": "ExportedImages\\T-Item-GoldBars-L.png"
+    }
+  },
+  "CardPack:zcp_chrysus_coins14": {
+    "Type": "CardPack",
+    "Name": "ZCP_Chrysus_Coins14",
+    "DisplayName": "Gold",
+    "Description": "Special currency earned by completing missions and opening mini llamas. Can be traded for items in the Event Store.",
+    "IsPermanent": true,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/cardpacks/zonerewards/chrysus/zcp_chrysus_coins14.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T-Item-GoldBars-L.png",
+      "LargePreview": "ExportedImages\\T-Item-GoldBars-L.png"
+    }
+  },
+  "CardPack:zcp_chrysus_coins15": {
+    "Type": "CardPack",
+    "Name": "ZCP_Chrysus_Coins15",
+    "DisplayName": "Gold",
+    "Description": "Special currency earned by completing missions and opening mini llamas. Can be traded for items in the Event Store.",
+    "IsPermanent": true,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/cardpacks/zonerewards/chrysus/zcp_chrysus_coins15.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T-Item-GoldBars-L.png",
+      "LargePreview": "ExportedImages\\T-Item-GoldBars-L.png"
+    }
+  },
+  "CardPack:zcp_chrysus_coins16": {
+    "Type": "CardPack",
+    "Name": "ZCP_Chrysus_Coins16",
+    "DisplayName": "Gold",
+    "Description": "Special currency earned by completing missions and opening mini llamas. Can be traded for items in the Event Store.",
+    "IsPermanent": true,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/cardpacks/zonerewards/chrysus/zcp_chrysus_coins16.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T-Item-GoldBars-L.png",
+      "LargePreview": "ExportedImages\\T-Item-GoldBars-L.png"
+    }
+  },
+  "CardPack:zcp_chrysus_coins17": {
+    "Type": "CardPack",
+    "Name": "ZCP_Chrysus_Coins17",
+    "DisplayName": "Gold",
+    "Description": "Special currency earned by completing missions and opening mini llamas. Can be traded for items in the Event Store.",
+    "IsPermanent": true,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/cardpacks/zonerewards/chrysus/zcp_chrysus_coins17.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T-Item-GoldBars-L.png",
+      "LargePreview": "ExportedImages\\T-Item-GoldBars-L.png"
+    }
+  },
+  "CardPack:zcp_chrysus_coins18": {
+    "Type": "CardPack",
+    "Name": "ZCP_Chrysus_Coins18",
+    "DisplayName": "Gold",
+    "Description": "Special currency earned by completing missions and opening mini llamas. Can be traded for items in the Event Store.",
+    "IsPermanent": true,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/cardpacks/zonerewards/chrysus/zcp_chrysus_coins18.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T-Item-GoldBars-L.png",
+      "LargePreview": "ExportedImages\\T-Item-GoldBars-L.png"
+    }
+  },
+  "CardPack:zcp_chrysus_coins19": {
+    "Type": "CardPack",
+    "Name": "ZCP_Chrysus_Coins19",
+    "DisplayName": "Gold",
+    "Description": "Special currency earned by completing missions and opening mini llamas. Can be traded for items in the Event Store.",
+    "IsPermanent": true,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/cardpacks/zonerewards/chrysus/zcp_chrysus_coins19.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T-Item-GoldBars-L.png",
+      "LargePreview": "ExportedImages\\T-Item-GoldBars-L.png"
+    }
+  },
+  "CardPack:zcp_chrysus_coins2": {
+    "Type": "CardPack",
+    "Name": "ZCP_Chrysus_Coins2",
+    "DisplayName": "Gold",
+    "Description": "Special currency earned by completing missions and opening mini llamas. Can be traded for items in the Event Store.",
+    "IsPermanent": true,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/cardpacks/zonerewards/chrysus/zcp_chrysus_coins2.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T-Item-GoldBars-L.png",
+      "LargePreview": "ExportedImages\\T-Item-GoldBars-L.png"
+    }
+  },
+  "CardPack:zcp_chrysus_coins20": {
+    "Type": "CardPack",
+    "Name": "ZCP_Chrysus_Coins20",
+    "DisplayName": "Gold",
+    "Description": "Special currency earned by completing missions and opening mini llamas. Can be traded for items in the Event Store.",
+    "IsPermanent": true,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/cardpacks/zonerewards/chrysus/zcp_chrysus_coins20.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T-Item-GoldBars-L.png",
+      "LargePreview": "ExportedImages\\T-Item-GoldBars-L.png"
+    }
+  },
+  "CardPack:zcp_chrysus_coins21": {
+    "Type": "CardPack",
+    "Name": "ZCP_Chrysus_Coins21",
+    "DisplayName": "Gold",
+    "Description": "Special currency earned by completing missions and opening mini llamas. Can be traded for items in the Event Store.",
+    "IsPermanent": true,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/cardpacks/zonerewards/chrysus/zcp_chrysus_coins21.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T-Item-GoldBars-L.png",
+      "LargePreview": "ExportedImages\\T-Item-GoldBars-L.png"
+    }
+  },
+  "CardPack:zcp_chrysus_coins22": {
+    "Type": "CardPack",
+    "Name": "ZCP_Chrysus_Coins22",
+    "DisplayName": "Gold",
+    "Description": "Special currency earned by completing missions and opening mini llamas. Can be traded for items in the Event Store.",
+    "IsPermanent": true,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/cardpacks/zonerewards/chrysus/zcp_chrysus_coins22.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T-Item-GoldBars-L.png",
+      "LargePreview": "ExportedImages\\T-Item-GoldBars-L.png"
+    }
+  },
+  "CardPack:zcp_chrysus_coins23": {
+    "Type": "CardPack",
+    "Name": "ZCP_Chrysus_Coins23",
+    "DisplayName": "Gold",
+    "Description": "Special currency earned by completing missions and opening mini llamas. Can be traded for items in the Event Store.",
+    "IsPermanent": true,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/cardpacks/zonerewards/chrysus/zcp_chrysus_coins23.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T-Item-GoldBars-L.png",
+      "LargePreview": "ExportedImages\\T-Item-GoldBars-L.png"
+    }
+  },
+  "CardPack:zcp_chrysus_coins24": {
+    "Type": "CardPack",
+    "Name": "ZCP_Chrysus_Coins24",
+    "DisplayName": "Gold",
+    "Description": "Special currency earned by completing missions and opening mini llamas. Can be traded for items in the Event Store.",
+    "IsPermanent": true,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/cardpacks/zonerewards/chrysus/zcp_chrysus_coins24.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T-Item-GoldBars-L.png",
+      "LargePreview": "ExportedImages\\T-Item-GoldBars-L.png"
+    }
+  },
+  "CardPack:zcp_chrysus_coins25": {
+    "Type": "CardPack",
+    "Name": "ZCP_Chrysus_Coins25",
+    "DisplayName": "Gold",
+    "Description": "Special currency earned by completing missions and opening mini llamas. Can be traded for items in the Event Store.",
+    "IsPermanent": true,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/cardpacks/zonerewards/chrysus/zcp_chrysus_coins25.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T-Item-GoldBars-L.png",
+      "LargePreview": "ExportedImages\\T-Item-GoldBars-L.png"
+    }
+  },
+  "CardPack:zcp_chrysus_coins26": {
+    "Type": "CardPack",
+    "Name": "ZCP_Chrysus_Coins26",
+    "DisplayName": "Gold",
+    "Description": "Special currency earned by completing missions and opening mini llamas. Can be traded for items in the Event Store.",
+    "IsPermanent": true,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/cardpacks/zonerewards/chrysus/zcp_chrysus_coins26.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T-Item-GoldBars-L.png",
+      "LargePreview": "ExportedImages\\T-Item-GoldBars-L.png"
+    }
+  },
+  "CardPack:zcp_chrysus_coins27": {
+    "Type": "CardPack",
+    "Name": "ZCP_Chrysus_Coins27",
+    "DisplayName": "Gold",
+    "Description": "Special currency earned by completing missions and opening mini llamas. Can be traded for items in the Event Store.",
+    "IsPermanent": true,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/cardpacks/zonerewards/chrysus/zcp_chrysus_coins27.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T-Item-GoldBars-L.png",
+      "LargePreview": "ExportedImages\\T-Item-GoldBars-L.png"
+    }
+  },
+  "CardPack:zcp_chrysus_coins28": {
+    "Type": "CardPack",
+    "Name": "ZCP_Chrysus_Coins28",
+    "DisplayName": "Gold",
+    "Description": "Special currency earned by completing missions and opening mini llamas. Can be traded for items in the Event Store.",
+    "IsPermanent": true,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/cardpacks/zonerewards/chrysus/zcp_chrysus_coins28.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T-Item-GoldBars-L.png",
+      "LargePreview": "ExportedImages\\T-Item-GoldBars-L.png"
+    }
+  },
+  "CardPack:zcp_chrysus_coins29": {
+    "Type": "CardPack",
+    "Name": "ZCP_Chrysus_Coins29",
+    "DisplayName": "Gold",
+    "Description": "Special currency earned by completing missions and opening mini llamas. Can be traded for items in the Event Store.",
+    "IsPermanent": true,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/cardpacks/zonerewards/chrysus/zcp_chrysus_coins29.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T-Item-GoldBars-L.png",
+      "LargePreview": "ExportedImages\\T-Item-GoldBars-L.png"
+    }
+  },
+  "CardPack:zcp_chrysus_coins3": {
+    "Type": "CardPack",
+    "Name": "ZCP_Chrysus_Coins3",
+    "DisplayName": "Gold",
+    "Description": "Special currency earned by completing missions and opening mini llamas. Can be traded for items in the Event Store.",
+    "IsPermanent": true,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/cardpacks/zonerewards/chrysus/zcp_chrysus_coins3.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T-Item-GoldBars-L.png",
+      "LargePreview": "ExportedImages\\T-Item-GoldBars-L.png"
+    }
+  },
+  "CardPack:zcp_chrysus_coins30": {
+    "Type": "CardPack",
+    "Name": "ZCP_Chrysus_Coins30",
+    "DisplayName": "Gold",
+    "Description": "Special currency earned by completing missions and opening mini llamas. Can be traded for items in the Event Store.",
+    "IsPermanent": true,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/cardpacks/zonerewards/chrysus/zcp_chrysus_coins30.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T-Item-GoldBars-L.png",
+      "LargePreview": "ExportedImages\\T-Item-GoldBars-L.png"
+    }
+  },
+  "CardPack:zcp_chrysus_coins4": {
+    "Type": "CardPack",
+    "Name": "ZCP_Chrysus_Coins4",
+    "DisplayName": "Gold",
+    "Description": "Special currency earned by completing missions and opening mini llamas. Can be traded for items in the Event Store.",
+    "IsPermanent": true,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/cardpacks/zonerewards/chrysus/zcp_chrysus_coins4.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T-Item-GoldBars-L.png",
+      "LargePreview": "ExportedImages\\T-Item-GoldBars-L.png"
+    }
+  },
+  "CardPack:zcp_chrysus_coins5": {
+    "Type": "CardPack",
+    "Name": "ZCP_Chrysus_Coins5",
+    "DisplayName": "Gold",
+    "Description": "Special currency earned by completing missions and opening mini llamas. Can be traded for items in the Event Store.",
+    "IsPermanent": true,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/cardpacks/zonerewards/chrysus/zcp_chrysus_coins5.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T-Item-GoldBars-L.png",
+      "LargePreview": "ExportedImages\\T-Item-GoldBars-L.png"
+    }
+  },
+  "CardPack:zcp_chrysus_coins6": {
+    "Type": "CardPack",
+    "Name": "ZCP_Chrysus_Coins6",
+    "DisplayName": "Gold",
+    "Description": "Special currency earned by completing missions and opening mini llamas. Can be traded for items in the Event Store.",
+    "IsPermanent": true,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/cardpacks/zonerewards/chrysus/zcp_chrysus_coins6.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T-Item-GoldBars-L.png",
+      "LargePreview": "ExportedImages\\T-Item-GoldBars-L.png"
+    }
+  },
+  "CardPack:zcp_chrysus_coins7": {
+    "Type": "CardPack",
+    "Name": "ZCP_Chrysus_Coins7",
+    "DisplayName": "Gold",
+    "Description": "Special currency earned by completing missions and opening mini llamas. Can be traded for items in the Event Store.",
+    "IsPermanent": true,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/cardpacks/zonerewards/chrysus/zcp_chrysus_coins7.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T-Item-GoldBars-L.png",
+      "LargePreview": "ExportedImages\\T-Item-GoldBars-L.png"
+    }
+  },
+  "CardPack:zcp_chrysus_coins8": {
+    "Type": "CardPack",
+    "Name": "ZCP_Chrysus_Coins8",
+    "DisplayName": "Gold",
+    "Description": "Special currency earned by completing missions and opening mini llamas. Can be traded for items in the Event Store.",
+    "IsPermanent": true,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/cardpacks/zonerewards/chrysus/zcp_chrysus_coins8.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T-Item-GoldBars-L.png",
+      "LargePreview": "ExportedImages\\T-Item-GoldBars-L.png"
+    }
+  },
+  "CardPack:zcp_chrysus_coins9": {
+    "Type": "CardPack",
+    "Name": "ZCP_Chrysus_Coins9",
+    "DisplayName": "Gold",
+    "Description": "Special currency earned by completing missions and opening mini llamas. Can be traded for items in the Event Store.",
+    "IsPermanent": true,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/cardpacks/zonerewards/chrysus/zcp_chrysus_coins9.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T-Item-GoldBars-L.png",
+      "LargePreview": "ExportedImages\\T-Item-GoldBars-L.png"
+    }
+  },
   "CardPack:zcp_crystal_quartz_extreme": {
     "Type": "CardPack",
     "Name": "ZCP_Crystal_Quartz_Extreme",

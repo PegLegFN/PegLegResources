@@ -19679,6 +19679,93 @@
       "LargePreview": "ExportedImages\\T-Icon-Survivor-128.png"
     }
   },
+  "Quest:chrysus_quest_a01_eliminate": {
+    "Type": "Quest",
+    "Name": "Chrysus_Quest_A01_Eliminate",
+    "DisplayName": "24-Karat Storm",
+    "Category": "LTE_Chrysus",
+    "Description": "In any zone eliminate 5 Golden Mist Monsters in successful missions",
+    "IsPermanent": true,
+    "Objectives": [
+      {
+        "BackendName": "Chrysus_Quest_A01_Eliminate",
+        "Count": 5,
+        "Description": "In successful missions eliminate 5 Golden Mist Monsters",
+        "HudShortDescription": "Golden Mist Monsters eliminated"
+      }
+    ],
+    "Rewards": [
+      {
+        "Hidden": false,
+        "Item": "AccountResource:voucher_basicpack",
+        "Quantity": 1,
+        "Selectable": false
+      }
+    ],
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/quests/events/chrysus/chrysus_quest_a01_eliminate.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T-Icon-EliminateAndCollect-128.png",
+      "LargePreview": "ExportedImages\\T-Icon-EliminateAndCollect-128.png"
+    }
+  },
+  "Quest:chrysus_quest_a02_eliminate": {
+    "Type": "Quest",
+    "Name": "Chrysus_Quest_A02_Eliminate",
+    "DisplayName": "A Prospecting Time",
+    "Category": "LTE_Chrysus",
+    "Description": "In any zone eliminate 15 Golden Mist Monsters in successful missions",
+    "IsPermanent": true,
+    "Objectives": [
+      {
+        "BackendName": "Chrysus_Quest_A02_Eliminate_obj0",
+        "Count": 15,
+        "Description": "In successful missions eliminate 15 Golden Mist Monsters",
+        "HudShortDescription": "Golden Mist Monsters eliminated"
+      }
+    ],
+    "Rewards": [
+      {
+        "Hidden": false,
+        "Item": "AccountResource:voucher_cardpack_bronze",
+        "Quantity": 1,
+        "Selectable": false
+      }
+    ],
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/quests/events/chrysus/chrysus_quest_a02_eliminate.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T-Icon-EliminateAndCollect-128.png",
+      "LargePreview": "ExportedImages\\T-Icon-EliminateAndCollect-128.png"
+    }
+  },
+  "Quest:chrysus_quest_a03_eliminate": {
+    "Type": "Quest",
+    "Name": "Chrysus_Quest_A03_Eliminate",
+    "DisplayName": "I Have the POWER",
+    "Category": "LTE_Chrysus",
+    "Description": "In any zone eliminate 30 Golden Mist Monsters in successful missions",
+    "IsPermanent": true,
+    "Objectives": [
+      {
+        "BackendName": "Chrysus_Quest_A03_Eliminate1_obj0",
+        "Count": 30,
+        "Description": "In successful missions eliminate 30 Golden Mist Monsters",
+        "HudShortDescription": "Golden Mist Monsters eliminated"
+      }
+    ],
+    "Rewards": [
+      {
+        "Hidden": false,
+        "Item": "AccountResource:voucher_cardpack_jackpot",
+        "Quantity": 1,
+        "Selectable": false
+      }
+    ],
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/quests/events/chrysus/chrysus_quest_a03_eliminate.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T-Icon-EliminateAndCollect-128.png",
+      "LargePreview": "ExportedImages\\T-Icon-EliminateAndCollect-128.png"
+    }
+  },
   "Quest:daily_destroyarcademachines": {
     "Type": "Quest",
     "Name": "Daily_DestroyArcadeMachines",

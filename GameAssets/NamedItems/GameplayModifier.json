@@ -191,6 +191,18 @@
       "LargePreview": "ExportedImages\\Icon-Theater-1-M.png"
     }
   },
+  "GameplayModifier:gm_chrysus_enemymod": {
+    "Type": "GameplayModifier",
+    "Name": "GM_Chrysus_EnemyMod",
+    "DisplayName": "Golden Mist Monsters",
+    "Description": "Collect gold coins by defeating golden enemies! They are melted down into a Gold reward at the end of the mission.",
+    "IsPermanent": true,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/chrysus_modifiers/gm_chrysus_enemymod.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\Icon-Dungeon-Coin-M.png",
+      "LargePreview": "ExportedImages\\Icon-Dungeon-Coin-XXL.png"
+    }
+  },
   "GameplayModifier:gm_constructor_blunt_damagebuff": {
     "Type": "GameplayModifier",
     "Name": "GM_Constructor_Blunt_DamageBuff",

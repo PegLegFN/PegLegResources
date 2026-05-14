@@ -36,5 +36,10 @@
       "Quest:cannyvalleyquest_filler_1_d1",
       "Quest:cannyvalleyquest_filler_2_d1"
     ]
+  },
+  "cosmo":{
+    "version":"40.40",
+    "key": "otRg6EEDUM+ZE9v5GZzq+dX8AklDcUb6NY0YI9lyNJU=",
+    "comment": "TODO: Make this auto-extracted, seems to change every update and would be annoying to update manually"
   }
 }

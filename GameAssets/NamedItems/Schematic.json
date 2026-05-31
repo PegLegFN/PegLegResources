@@ -1107,7 +1107,7 @@
   "Schematic:sid_assault_auto_halloween_sr_crystal_t04": {
     "Type": "Schematic",
     "Name": "SID_Assault_Auto_Halloween_SR_Crystal_T04",
-    "DisplayName": "Grave Digger  ",
+    "DisplayName": "Grave Digger",
     "SubType": "Assault",
     "AlterationLoadoutRow": "SlotLoadout.Event.Halloween.Explicit.Assault",
     "AlterationNamedExclusions": [
@@ -1153,7 +1153,7 @@
   "Schematic:sid_assault_auto_halloween_sr_crystal_t05": {
     "Type": "Schematic",
     "Name": "SID_Assault_Auto_Halloween_SR_Crystal_T05",
-    "DisplayName": "Grave Digger  ",
+    "DisplayName": "Grave Digger",
     "SubType": "Assault",
     "AlterationLoadoutRow": "SlotLoadout.Event.Halloween.Explicit.Assault",
     "AlterationNamedExclusions": [
@@ -1188,7 +1188,7 @@
   "Schematic:sid_assault_auto_halloween_sr_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Assault_Auto_Halloween_SR_Ore_T01",
-    "DisplayName": "Grave Digger  ",
+    "DisplayName": "Grave Digger",
     "SubType": "Assault",
     "AlterationLoadoutRow": "SlotLoadout.Event.Halloween.Explicit.Assault",
     "AlterationNamedExclusions": [
@@ -1231,7 +1231,7 @@
   "Schematic:sid_assault_auto_halloween_sr_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Assault_Auto_Halloween_SR_Ore_T02",
-    "DisplayName": "Grave Digger  ",
+    "DisplayName": "Grave Digger",
     "SubType": "Assault",
     "AlterationLoadoutRow": "SlotLoadout.Event.Halloween.Explicit.Assault",
     "AlterationNamedExclusions": [
@@ -1275,7 +1275,7 @@
   "Schematic:sid_assault_auto_halloween_sr_ore_t03": {
     "Type": "Schematic",
     "Name": "SID_Assault_Auto_Halloween_SR_Ore_T03",
-    "DisplayName": "Grave Digger  ",
+    "DisplayName": "Grave Digger",
     "SubType": "Assault",
     "AlterationLoadoutRow": "SlotLoadout.Event.Halloween.Explicit.Assault",
     "AlterationNamedExclusions": [
@@ -1330,7 +1330,7 @@
   "Schematic:sid_assault_auto_halloween_sr_ore_t04": {
     "Type": "Schematic",
     "Name": "SID_Assault_Auto_Halloween_SR_Ore_T04",
-    "DisplayName": "Grave Digger  ",
+    "DisplayName": "Grave Digger",
     "SubType": "Assault",
     "AlterationLoadoutRow": "SlotLoadout.Event.Halloween.Explicit.Assault",
     "AlterationNamedExclusions": [
@@ -1376,7 +1376,7 @@
   "Schematic:sid_assault_auto_halloween_sr_ore_t05": {
     "Type": "Schematic",
     "Name": "SID_Assault_Auto_Halloween_SR_Ore_T05",
-    "DisplayName": "Grave Digger  ",
+    "DisplayName": "Grave Digger",
     "SubType": "Assault",
     "AlterationLoadoutRow": "SlotLoadout.Event.Halloween.Explicit.Assault",
     "AlterationNamedExclusions": [
@@ -1411,7 +1411,7 @@
   "Schematic:sid_assault_auto_r_crystal_t04": {
     "Type": "Schematic",
     "Name": "SID_Assault_Auto_R_Crystal_T04",
-    "DisplayName": "Breacher   ",
+    "DisplayName": "Breacher",
     "SubType": "Assault",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Breacher",
     "Category": "Ranged",
@@ -1453,7 +1453,7 @@
   "Schematic:sid_assault_auto_r_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Assault_Auto_R_Ore_T01",
-    "DisplayName": "Breacher   ",
+    "DisplayName": "Breacher",
     "SubType": "Assault",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Breacher",
     "Category": "Ranged",
@@ -1499,7 +1499,7 @@
   "Schematic:sid_assault_auto_r_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Assault_Auto_R_Ore_T02",
-    "DisplayName": "Breacher   ",
+    "DisplayName": "Breacher",
     "SubType": "Assault",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Breacher",
     "Category": "Ranged",
@@ -1548,7 +1548,7 @@
   "Schematic:sid_assault_auto_r_ore_t03": {
     "Type": "Schematic",
     "Name": "SID_Assault_Auto_R_Ore_T03",
-    "DisplayName": "Breacher   ",
+    "DisplayName": "Breacher",
     "SubType": "Assault",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Breacher",
     "AlternateTierUpRecipe": {
@@ -1609,7 +1609,7 @@
   "Schematic:sid_assault_auto_r_ore_t04": {
     "Type": "Schematic",
     "Name": "SID_Assault_Auto_R_Ore_T04",
-    "DisplayName": "Breacher   ",
+    "DisplayName": "Breacher",
     "SubType": "Assault",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Breacher",
     "Category": "Ranged",
@@ -1651,7 +1651,7 @@
   "Schematic:sid_assault_auto_sr_crystal_t04": {
     "Type": "Schematic",
     "Name": "SID_Assault_Auto_SR_Crystal_T04",
-    "DisplayName": "Siegebreaker   ",
+    "DisplayName": "Siegebreaker",
     "SubType": "Assault",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Breacher",
     "Category": "Ranged",
@@ -1694,7 +1694,7 @@
   "Schematic:sid_assault_auto_sr_crystal_t05": {
     "Type": "Schematic",
     "Name": "SID_Assault_Auto_SR_Crystal_T05",
-    "DisplayName": "Siegebreaker   ",
+    "DisplayName": "Siegebreaker",
     "SubType": "Assault",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Breacher",
     "Category": "Ranged",
@@ -1726,7 +1726,7 @@
   "Schematic:sid_assault_auto_sr_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Assault_Auto_SR_Ore_T01",
-    "DisplayName": "Siegebreaker   ",
+    "DisplayName": "Siegebreaker",
     "SubType": "Assault",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Breacher",
     "Category": "Ranged",
@@ -1766,7 +1766,7 @@
   "Schematic:sid_assault_auto_sr_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Assault_Auto_SR_Ore_T02",
-    "DisplayName": "Siegebreaker   ",
+    "DisplayName": "Siegebreaker",
     "SubType": "Assault",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Breacher",
     "Category": "Ranged",
@@ -1807,7 +1807,7 @@
   "Schematic:sid_assault_auto_sr_ore_t03": {
     "Type": "Schematic",
     "Name": "SID_Assault_Auto_SR_Ore_T03",
-    "DisplayName": "Siegebreaker   ",
+    "DisplayName": "Siegebreaker",
     "SubType": "Assault",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Breacher",
     "AlternateTierUpRecipe": {
@@ -1859,7 +1859,7 @@
   "Schematic:sid_assault_auto_sr_ore_t04": {
     "Type": "Schematic",
     "Name": "SID_Assault_Auto_SR_Ore_T04",
-    "DisplayName": "Siegebreaker   ",
+    "DisplayName": "Siegebreaker",
     "SubType": "Assault",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Breacher",
     "Category": "Ranged",
@@ -1902,7 +1902,7 @@
   "Schematic:sid_assault_auto_sr_ore_t05": {
     "Type": "Schematic",
     "Name": "SID_Assault_Auto_SR_Ore_T05",
-    "DisplayName": "Siegebreaker   ",
+    "DisplayName": "Siegebreaker",
     "SubType": "Assault",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Breacher",
     "Category": "Ranged",
@@ -5646,7 +5646,7 @@
   "Schematic:sid_assault_burst_r_crystal_t04": {
     "Type": "Schematic",
     "Name": "SID_Assault_Burst_R_Crystal_T04",
-    "DisplayName": "Razor   ",
+    "DisplayName": "Razor",
     "SubType": "Assault",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Razor",
     "Category": "Ranged",
@@ -5688,7 +5688,7 @@
   "Schematic:sid_assault_burst_r_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Assault_Burst_R_Ore_T01",
-    "DisplayName": "Razor   ",
+    "DisplayName": "Razor",
     "SubType": "Assault",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Razor",
     "Category": "Ranged",
@@ -5734,7 +5734,7 @@
   "Schematic:sid_assault_burst_r_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Assault_Burst_R_Ore_T02",
-    "DisplayName": "Razor   ",
+    "DisplayName": "Razor",
     "SubType": "Assault",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Razor",
     "Category": "Ranged",
@@ -5783,7 +5783,7 @@
   "Schematic:sid_assault_burst_r_ore_t03": {
     "Type": "Schematic",
     "Name": "SID_Assault_Burst_R_Ore_T03",
-    "DisplayName": "Razor   ",
+    "DisplayName": "Razor",
     "SubType": "Assault",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Razor",
     "AlternateTierUpRecipe": {
@@ -5844,7 +5844,7 @@
   "Schematic:sid_assault_burst_r_ore_t04": {
     "Type": "Schematic",
     "Name": "SID_Assault_Burst_R_Ore_T04",
-    "DisplayName": "Razor   ",
+    "DisplayName": "Razor",
     "SubType": "Assault",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Razor",
     "Category": "Ranged",
@@ -6517,7 +6517,7 @@
   "Schematic:sid_assault_burst_sr_crystal_t04": {
     "Type": "Schematic",
     "Name": "SID_Assault_Burst_SR_Crystal_T04",
-    "DisplayName": "Razorblade   ",
+    "DisplayName": "Razorblade",
     "SubType": "Assault",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Razor",
     "Category": "Ranged",
@@ -6560,7 +6560,7 @@
   "Schematic:sid_assault_burst_sr_crystal_t05": {
     "Type": "Schematic",
     "Name": "SID_Assault_Burst_SR_Crystal_T05",
-    "DisplayName": "Razorblade   ",
+    "DisplayName": "Razorblade",
     "SubType": "Assault",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Razor",
     "Category": "Ranged",
@@ -6592,7 +6592,7 @@
   "Schematic:sid_assault_burst_sr_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Assault_Burst_SR_Ore_T01",
-    "DisplayName": "Razorblade   ",
+    "DisplayName": "Razorblade",
     "SubType": "Assault",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Razor",
     "Category": "Ranged",
@@ -6632,7 +6632,7 @@
   "Schematic:sid_assault_burst_sr_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Assault_Burst_SR_Ore_T02",
-    "DisplayName": "Razorblade   ",
+    "DisplayName": "Razorblade",
     "SubType": "Assault",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Razor",
     "Category": "Ranged",
@@ -6673,7 +6673,7 @@
   "Schematic:sid_assault_burst_sr_ore_t03": {
     "Type": "Schematic",
     "Name": "SID_Assault_Burst_SR_Ore_T03",
-    "DisplayName": "Razorblade   ",
+    "DisplayName": "Razorblade",
     "SubType": "Assault",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Razor",
     "AlternateTierUpRecipe": {
@@ -6725,7 +6725,7 @@
   "Schematic:sid_assault_burst_sr_ore_t04": {
     "Type": "Schematic",
     "Name": "SID_Assault_Burst_SR_Ore_T04",
-    "DisplayName": "Razorblade   ",
+    "DisplayName": "Razorblade",
     "SubType": "Assault",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Razor",
     "Category": "Ranged",
@@ -6768,7 +6768,7 @@
   "Schematic:sid_assault_burst_sr_ore_t05": {
     "Type": "Schematic",
     "Name": "SID_Assault_Burst_SR_Ore_T05",
-    "DisplayName": "Razorblade   ",
+    "DisplayName": "Razorblade",
     "SubType": "Assault",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Razor",
     "Category": "Ranged",
@@ -7283,7 +7283,7 @@
   "Schematic:sid_assault_doubleshot_sr_crystal_t04": {
     "Type": "Schematic",
     "Name": "SID_Assault_Doubleshot_SR_Crystal_T04",
-    "DisplayName": "Ranger   ",
+    "DisplayName": "Ranger",
     "SubType": "Assault",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Ranger",
     "Category": "Ranged",
@@ -7326,7 +7326,7 @@
   "Schematic:sid_assault_doubleshot_sr_crystal_t05": {
     "Type": "Schematic",
     "Name": "SID_Assault_Doubleshot_SR_Crystal_T05",
-    "DisplayName": "Ranger   ",
+    "DisplayName": "Ranger",
     "SubType": "Assault",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Ranger",
     "Category": "Ranged",
@@ -7358,7 +7358,7 @@
   "Schematic:sid_assault_doubleshot_sr_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Assault_Doubleshot_SR_Ore_T01",
-    "DisplayName": "Ranger   ",
+    "DisplayName": "Ranger",
     "SubType": "Assault",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Ranger",
     "Category": "Ranged",
@@ -7398,7 +7398,7 @@
   "Schematic:sid_assault_doubleshot_sr_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Assault_Doubleshot_SR_Ore_T02",
-    "DisplayName": "Ranger   ",
+    "DisplayName": "Ranger",
     "SubType": "Assault",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Ranger",
     "Category": "Ranged",
@@ -7439,7 +7439,7 @@
   "Schematic:sid_assault_doubleshot_sr_ore_t03": {
     "Type": "Schematic",
     "Name": "SID_Assault_Doubleshot_SR_Ore_T03",
-    "DisplayName": "Ranger   ",
+    "DisplayName": "Ranger",
     "SubType": "Assault",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Ranger",
     "AlternateTierUpRecipe": {
@@ -7491,7 +7491,7 @@
   "Schematic:sid_assault_doubleshot_sr_ore_t04": {
     "Type": "Schematic",
     "Name": "SID_Assault_Doubleshot_SR_Ore_T04",
-    "DisplayName": "Ranger   ",
+    "DisplayName": "Ranger",
     "SubType": "Assault",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Ranger",
     "Category": "Ranged",
@@ -7534,7 +7534,7 @@
   "Schematic:sid_assault_doubleshot_sr_ore_t05": {
     "Type": "Schematic",
     "Name": "SID_Assault_Doubleshot_SR_Ore_T05",
-    "DisplayName": "Ranger   ",
+    "DisplayName": "Ranger",
     "SubType": "Assault",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Ranger",
     "Category": "Ranged",
@@ -10131,7 +10131,7 @@
   "Schematic:sid_assault_hydra_sr_crystal_t04": {
     "Type": "Schematic",
     "Name": "SID_Assault_Hydra_SR_Crystal_T04",
-    "DisplayName": "Hydra   ",
+    "DisplayName": "Hydra",
     "SubType": "Assault",
     "AlterationLoadoutRow": "SlotLoadout.Event.Hydraulic.Explicit.Assault.Hydra",
     "AlterationNamedExclusions": [
@@ -10177,7 +10177,7 @@
   "Schematic:sid_assault_hydra_sr_crystal_t05": {
     "Type": "Schematic",
     "Name": "SID_Assault_Hydra_SR_Crystal_T05",
-    "DisplayName": "Hydra   ",
+    "DisplayName": "Hydra",
     "SubType": "Assault",
     "AlterationLoadoutRow": "SlotLoadout.Event.Hydraulic.Explicit.Assault.Hydra",
     "AlterationNamedExclusions": [
@@ -10212,7 +10212,7 @@
   "Schematic:sid_assault_hydra_sr_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Assault_Hydra_SR_Ore_T01",
-    "DisplayName": "Hydra   ",
+    "DisplayName": "Hydra",
     "SubType": "Assault",
     "AlterationLoadoutRow": "SlotLoadout.Event.Hydraulic.Explicit.Assault.Hydra",
     "AlterationNamedExclusions": [
@@ -10255,7 +10255,7 @@
   "Schematic:sid_assault_hydra_sr_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Assault_Hydra_SR_Ore_T02",
-    "DisplayName": "Hydra   ",
+    "DisplayName": "Hydra",
     "SubType": "Assault",
     "AlterationLoadoutRow": "SlotLoadout.Event.Hydraulic.Explicit.Assault.Hydra",
     "AlterationNamedExclusions": [
@@ -10299,7 +10299,7 @@
   "Schematic:sid_assault_hydra_sr_ore_t03": {
     "Type": "Schematic",
     "Name": "SID_Assault_Hydra_SR_Ore_T03",
-    "DisplayName": "Hydra   ",
+    "DisplayName": "Hydra",
     "SubType": "Assault",
     "AlterationLoadoutRow": "SlotLoadout.Event.Hydraulic.Explicit.Assault.Hydra",
     "AlterationNamedExclusions": [
@@ -10354,7 +10354,7 @@
   "Schematic:sid_assault_hydra_sr_ore_t04": {
     "Type": "Schematic",
     "Name": "SID_Assault_Hydra_SR_Ore_T04",
-    "DisplayName": "Hydra   ",
+    "DisplayName": "Hydra",
     "SubType": "Assault",
     "AlterationLoadoutRow": "SlotLoadout.Event.Hydraulic.Explicit.Assault.Hydra",
     "AlterationNamedExclusions": [
@@ -10400,7 +10400,7 @@
   "Schematic:sid_assault_hydra_sr_ore_t05": {
     "Type": "Schematic",
     "Name": "SID_Assault_Hydra_SR_Ore_T05",
-    "DisplayName": "Hydra   ",
+    "DisplayName": "Hydra",
     "SubType": "Assault",
     "AlterationLoadoutRow": "SlotLoadout.Event.Hydraulic.Explicit.Assault.Hydra",
     "AlterationNamedExclusions": [
@@ -13389,7 +13389,7 @@
   "Schematic:sid_assault_lmg_sr_crystal_t04": {
     "Type": "Schematic",
     "Name": "SID_Assault_LMG_SR_Crystal_T04",
-    "DisplayName": "Terminator   ",
+    "DisplayName": "Terminator",
     "SubType": "Assault",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Terminator",
     "Category": "Ranged",
@@ -13432,7 +13432,7 @@
   "Schematic:sid_assault_lmg_sr_crystal_t05": {
     "Type": "Schematic",
     "Name": "SID_Assault_LMG_SR_Crystal_T05",
-    "DisplayName": "Terminator   ",
+    "DisplayName": "Terminator",
     "SubType": "Assault",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Terminator",
     "Category": "Ranged",
@@ -13464,7 +13464,7 @@
   "Schematic:sid_assault_lmg_sr_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Assault_LMG_SR_Ore_T01",
-    "DisplayName": "Terminator   ",
+    "DisplayName": "Terminator",
     "SubType": "Assault",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Terminator",
     "Category": "Ranged",
@@ -13504,7 +13504,7 @@
   "Schematic:sid_assault_lmg_sr_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Assault_LMG_SR_Ore_T02",
-    "DisplayName": "Terminator   ",
+    "DisplayName": "Terminator",
     "SubType": "Assault",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Terminator",
     "Category": "Ranged",
@@ -13545,7 +13545,7 @@
   "Schematic:sid_assault_lmg_sr_ore_t03": {
     "Type": "Schematic",
     "Name": "SID_Assault_LMG_SR_Ore_T03",
-    "DisplayName": "Terminator   ",
+    "DisplayName": "Terminator",
     "SubType": "Assault",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Terminator",
     "AlternateTierUpRecipe": {
@@ -13597,7 +13597,7 @@
   "Schematic:sid_assault_lmg_sr_ore_t04": {
     "Type": "Schematic",
     "Name": "SID_Assault_LMG_SR_Ore_T04",
-    "DisplayName": "Terminator   ",
+    "DisplayName": "Terminator",
     "SubType": "Assault",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Terminator",
     "Category": "Ranged",
@@ -13640,7 +13640,7 @@
   "Schematic:sid_assault_lmg_sr_ore_t05": {
     "Type": "Schematic",
     "Name": "SID_Assault_LMG_SR_Ore_T05",
-    "DisplayName": "Terminator   ",
+    "DisplayName": "Terminator",
     "SubType": "Assault",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Terminator",
     "Category": "Ranged",
@@ -19344,7 +19344,7 @@
   "Schematic:sid_assault_raygun_sr_crystal_t04": {
     "Type": "Schematic",
     "Name": "SID_Assault_Raygun_SR_Crystal_T04",
-    "DisplayName": "Deathray   ",
+    "DisplayName": "Deathray",
     "SubType": "Assault",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Deathray",
     "Category": "Ranged",
@@ -19388,7 +19388,7 @@
   "Schematic:sid_assault_raygun_sr_crystal_t05": {
     "Type": "Schematic",
     "Name": "SID_Assault_Raygun_SR_Crystal_T05",
-    "DisplayName": "Deathray   ",
+    "DisplayName": "Deathray",
     "SubType": "Assault",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Deathray",
     "Category": "Ranged",
@@ -19421,7 +19421,7 @@
   "Schematic:sid_assault_raygun_sr_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Assault_Raygun_SR_Ore_T01",
-    "DisplayName": "Deathray   ",
+    "DisplayName": "Deathray",
     "SubType": "Assault",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Deathray",
     "Category": "Ranged",
@@ -19462,7 +19462,7 @@
   "Schematic:sid_assault_raygun_sr_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Assault_Raygun_SR_Ore_T02",
-    "DisplayName": "Deathray   ",
+    "DisplayName": "Deathray",
     "SubType": "Assault",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Deathray",
     "Category": "Ranged",
@@ -19504,7 +19504,7 @@
   "Schematic:sid_assault_raygun_sr_ore_t03": {
     "Type": "Schematic",
     "Name": "SID_Assault_Raygun_SR_Ore_T03",
-    "DisplayName": "Deathray   ",
+    "DisplayName": "Deathray",
     "SubType": "Assault",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Deathray",
     "AlternateTierUpRecipe": {
@@ -19557,7 +19557,7 @@
   "Schematic:sid_assault_raygun_sr_ore_t04": {
     "Type": "Schematic",
     "Name": "SID_Assault_Raygun_SR_Ore_T04",
-    "DisplayName": "Deathray   ",
+    "DisplayName": "Deathray",
     "SubType": "Assault",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Deathray",
     "Category": "Ranged",
@@ -19601,7 +19601,7 @@
   "Schematic:sid_assault_raygun_sr_ore_t05": {
     "Type": "Schematic",
     "Name": "SID_Assault_Raygun_SR_Ore_T05",
-    "DisplayName": "Deathray   ",
+    "DisplayName": "Deathray",
     "SubType": "Assault",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Deathray",
     "Category": "Ranged",
@@ -21011,7 +21011,7 @@
   "Schematic:sid_assault_semiauto_r_crystal_t04": {
     "Type": "Schematic",
     "Name": "SID_Assault_SemiAuto_R_Crystal_T04",
-    "DisplayName": "Predator   ",
+    "DisplayName": "Predator",
     "SubType": "Assault",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.HunterKiller",
     "Category": "Ranged",
@@ -21053,7 +21053,7 @@
   "Schematic:sid_assault_semiauto_r_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Assault_SemiAuto_R_Ore_T01",
-    "DisplayName": "Predator   ",
+    "DisplayName": "Predator",
     "SubType": "Assault",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.HunterKiller",
     "Category": "Ranged",
@@ -21099,7 +21099,7 @@
   "Schematic:sid_assault_semiauto_r_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Assault_SemiAuto_R_Ore_T02",
-    "DisplayName": "Predator   ",
+    "DisplayName": "Predator",
     "SubType": "Assault",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.HunterKiller",
     "Category": "Ranged",
@@ -21148,7 +21148,7 @@
   "Schematic:sid_assault_semiauto_r_ore_t03": {
     "Type": "Schematic",
     "Name": "SID_Assault_SemiAuto_R_Ore_T03",
-    "DisplayName": "Predator   ",
+    "DisplayName": "Predator",
     "SubType": "Assault",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.HunterKiller",
     "AlternateTierUpRecipe": {
@@ -21209,7 +21209,7 @@
   "Schematic:sid_assault_semiauto_r_ore_t04": {
     "Type": "Schematic",
     "Name": "SID_Assault_SemiAuto_R_Ore_T04",
-    "DisplayName": "Predator   ",
+    "DisplayName": "Predator",
     "SubType": "Assault",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.HunterKiller",
     "Category": "Ranged",
@@ -21251,7 +21251,7 @@
   "Schematic:sid_assault_semiauto_sr_crystal_t04": {
     "Type": "Schematic",
     "Name": "SID_Assault_SemiAuto_SR_Crystal_T04",
-    "DisplayName": "Hunter-killer   ",
+    "DisplayName": "Hunter-killer",
     "SubType": "Assault",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.HunterKiller",
     "Category": "Ranged",
@@ -21294,7 +21294,7 @@
   "Schematic:sid_assault_semiauto_sr_crystal_t05": {
     "Type": "Schematic",
     "Name": "SID_Assault_SemiAuto_SR_Crystal_T05",
-    "DisplayName": "Hunter-killer   ",
+    "DisplayName": "Hunter-killer",
     "SubType": "Assault",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.HunterKiller",
     "Category": "Ranged",
@@ -21326,7 +21326,7 @@
   "Schematic:sid_assault_semiauto_sr_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Assault_SemiAuto_SR_Ore_T01",
-    "DisplayName": "Hunter-killer   ",
+    "DisplayName": "Hunter-killer",
     "SubType": "Assault",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.HunterKiller",
     "Category": "Ranged",
@@ -21366,7 +21366,7 @@
   "Schematic:sid_assault_semiauto_sr_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Assault_SemiAuto_SR_Ore_T02",
-    "DisplayName": "Hunter-killer   ",
+    "DisplayName": "Hunter-killer",
     "SubType": "Assault",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.HunterKiller",
     "Category": "Ranged",
@@ -21407,7 +21407,7 @@
   "Schematic:sid_assault_semiauto_sr_ore_t03": {
     "Type": "Schematic",
     "Name": "SID_Assault_SemiAuto_SR_Ore_T03",
-    "DisplayName": "Hunter-killer   ",
+    "DisplayName": "Hunter-killer",
     "SubType": "Assault",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.HunterKiller",
     "AlternateTierUpRecipe": {
@@ -21459,7 +21459,7 @@
   "Schematic:sid_assault_semiauto_sr_ore_t04": {
     "Type": "Schematic",
     "Name": "SID_Assault_SemiAuto_SR_Ore_T04",
-    "DisplayName": "Hunter-killer   ",
+    "DisplayName": "Hunter-killer",
     "SubType": "Assault",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.HunterKiller",
     "Category": "Ranged",
@@ -21502,7 +21502,7 @@
   "Schematic:sid_assault_semiauto_sr_ore_t05": {
     "Type": "Schematic",
     "Name": "SID_Assault_SemiAuto_SR_Ore_T05",
-    "DisplayName": "Hunter-killer   ",
+    "DisplayName": "Hunter-killer",
     "SubType": "Assault",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.HunterKiller",
     "Category": "Ranged",
@@ -24450,7 +24450,7 @@
   "Schematic:sid_assault_singleshot_sr_crystal_t04": {
     "Type": "Schematic",
     "Name": "SID_Assault_SingleShot_SR_Crystal_T04",
-    "DisplayName": "Hammercrush   ",
+    "DisplayName": "Hammercrush",
     "SubType": "Assault",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Hammercrush",
     "Category": "Ranged",
@@ -24493,7 +24493,7 @@
   "Schematic:sid_assault_singleshot_sr_crystal_t05": {
     "Type": "Schematic",
     "Name": "SID_Assault_SingleShot_SR_Crystal_T05",
-    "DisplayName": "Hammercrush   ",
+    "DisplayName": "Hammercrush",
     "SubType": "Assault",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Hammercrush",
     "Category": "Ranged",
@@ -24525,7 +24525,7 @@
   "Schematic:sid_assault_singleshot_sr_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Assault_SingleShot_SR_Ore_T01",
-    "DisplayName": "Hammercrush   ",
+    "DisplayName": "Hammercrush",
     "SubType": "Assault",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Hammercrush",
     "Category": "Ranged",
@@ -24565,7 +24565,7 @@
   "Schematic:sid_assault_singleshot_sr_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Assault_SingleShot_SR_Ore_T02",
-    "DisplayName": "Hammercrush   ",
+    "DisplayName": "Hammercrush",
     "SubType": "Assault",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Hammercrush",
     "Category": "Ranged",
@@ -24606,7 +24606,7 @@
   "Schematic:sid_assault_singleshot_sr_ore_t03": {
     "Type": "Schematic",
     "Name": "SID_Assault_SingleShot_SR_Ore_T03",
-    "DisplayName": "Hammercrush   ",
+    "DisplayName": "Hammercrush",
     "SubType": "Assault",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Hammercrush",
     "AlternateTierUpRecipe": {
@@ -24658,7 +24658,7 @@
   "Schematic:sid_assault_singleshot_sr_ore_t04": {
     "Type": "Schematic",
     "Name": "SID_Assault_SingleShot_SR_Ore_T04",
-    "DisplayName": "Hammercrush   ",
+    "DisplayName": "Hammercrush",
     "SubType": "Assault",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Hammercrush",
     "Category": "Ranged",
@@ -24701,7 +24701,7 @@
   "Schematic:sid_assault_singleshot_sr_ore_t05": {
     "Type": "Schematic",
     "Name": "SID_Assault_SingleShot_SR_Ore_T05",
-    "DisplayName": "Hammercrush   ",
+    "DisplayName": "Hammercrush",
     "SubType": "Assault",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Hammercrush",
     "Category": "Ranged",
@@ -28376,7 +28376,7 @@
   "Schematic:sid_assault_surgical_sr_crystal_t04": {
     "Type": "Schematic",
     "Name": "SID_Assault_Surgical_SR_Crystal_T04",
-    "DisplayName": "Deathstalker   ",
+    "DisplayName": "Deathstalker",
     "SubType": "Assault",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Deathstalker",
     "Category": "Ranged",
@@ -28419,7 +28419,7 @@
   "Schematic:sid_assault_surgical_sr_crystal_t05": {
     "Type": "Schematic",
     "Name": "SID_Assault_Surgical_SR_Crystal_T05",
-    "DisplayName": "Deathstalker   ",
+    "DisplayName": "Deathstalker",
     "SubType": "Assault",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Deathstalker",
     "Category": "Ranged",
@@ -28451,7 +28451,7 @@
   "Schematic:sid_assault_surgical_sr_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Assault_Surgical_SR_Ore_T01",
-    "DisplayName": "Deathstalker   ",
+    "DisplayName": "Deathstalker",
     "SubType": "Assault",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Deathstalker",
     "Category": "Ranged",
@@ -28491,7 +28491,7 @@
   "Schematic:sid_assault_surgical_sr_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Assault_Surgical_SR_Ore_T02",
-    "DisplayName": "Deathstalker   ",
+    "DisplayName": "Deathstalker",
     "SubType": "Assault",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Deathstalker",
     "Category": "Ranged",
@@ -28532,7 +28532,7 @@
   "Schematic:sid_assault_surgical_sr_ore_t03": {
     "Type": "Schematic",
     "Name": "SID_Assault_Surgical_SR_Ore_T03",
-    "DisplayName": "Deathstalker   ",
+    "DisplayName": "Deathstalker",
     "SubType": "Assault",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Deathstalker",
     "AlternateTierUpRecipe": {
@@ -28584,7 +28584,7 @@
   "Schematic:sid_assault_surgical_sr_ore_t04": {
     "Type": "Schematic",
     "Name": "SID_Assault_Surgical_SR_Ore_T04",
-    "DisplayName": "Deathstalker   ",
+    "DisplayName": "Deathstalker",
     "SubType": "Assault",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Deathstalker",
     "Category": "Ranged",
@@ -28627,7 +28627,7 @@
   "Schematic:sid_assault_surgical_sr_ore_t05": {
     "Type": "Schematic",
     "Name": "SID_Assault_Surgical_SR_Ore_T05",
-    "DisplayName": "Deathstalker   ",
+    "DisplayName": "Deathstalker",
     "SubType": "Assault",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Deathstalker",
     "Category": "Ranged",
@@ -33059,7 +33059,7 @@
   "Schematic:sid_blunt_hammer_heavy_c_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Blunt_Hammer_Heavy_C_Ore_T01",
-    "DisplayName": "Crude Hammer  ",
+    "DisplayName": "Crude Hammer",
     "SubType": "Hardware",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Doomhammer",
     "Category": "Melee",
@@ -33103,7 +33103,7 @@
   "Schematic:sid_blunt_hammer_heavy_c_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Blunt_Hammer_Heavy_C_Ore_T02",
-    "DisplayName": "Crude Hammer  ",
+    "DisplayName": "Crude Hammer",
     "SubType": "Hardware",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Doomhammer",
     "Category": "Melee",
@@ -34056,7 +34056,7 @@
   "Schematic:sid_blunt_hammer_heavy_r_crystal_t04": {
     "Type": "Schematic",
     "Name": "SID_Blunt_Hammer_Heavy_R_Crystal_T04",
-    "DisplayName": "Heavy Sledge  ",
+    "DisplayName": "Heavy Sledge",
     "SubType": "Hardware",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Doomhammer",
     "Category": "Melee",
@@ -34098,7 +34098,7 @@
   "Schematic:sid_blunt_hammer_heavy_r_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Blunt_Hammer_Heavy_R_Ore_T01",
-    "DisplayName": "Heavy Sledge  ",
+    "DisplayName": "Heavy Sledge",
     "SubType": "Hardware",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Doomhammer",
     "Category": "Melee",
@@ -34144,7 +34144,7 @@
   "Schematic:sid_blunt_hammer_heavy_r_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Blunt_Hammer_Heavy_R_Ore_T02",
-    "DisplayName": "Heavy Sledge  ",
+    "DisplayName": "Heavy Sledge",
     "SubType": "Hardware",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Doomhammer",
     "Category": "Melee",
@@ -34193,7 +34193,7 @@
   "Schematic:sid_blunt_hammer_heavy_r_ore_t03": {
     "Type": "Schematic",
     "Name": "SID_Blunt_Hammer_Heavy_R_Ore_T03",
-    "DisplayName": "Heavy Sledge  ",
+    "DisplayName": "Heavy Sledge",
     "SubType": "Hardware",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Doomhammer",
     "AlternateTierUpRecipe": {
@@ -34254,7 +34254,7 @@
   "Schematic:sid_blunt_hammer_heavy_r_ore_t04": {
     "Type": "Schematic",
     "Name": "SID_Blunt_Hammer_Heavy_R_Ore_T04",
-    "DisplayName": "Heavy Sledge  ",
+    "DisplayName": "Heavy Sledge",
     "SubType": "Hardware",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Doomhammer",
     "Category": "Melee",
@@ -34296,7 +34296,7 @@
   "Schematic:sid_blunt_hammer_heavy_sr_crystal_t04": {
     "Type": "Schematic",
     "Name": "SID_Blunt_Hammer_Heavy_SR_Crystal_T04",
-    "DisplayName": "Doomhammer   ",
+    "DisplayName": "Doomhammer",
     "SubType": "Hardware",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Doomhammer",
     "Category": "Melee",
@@ -34339,7 +34339,7 @@
   "Schematic:sid_blunt_hammer_heavy_sr_crystal_t05": {
     "Type": "Schematic",
     "Name": "SID_Blunt_Hammer_Heavy_SR_Crystal_T05",
-    "DisplayName": "Doomhammer   ",
+    "DisplayName": "Doomhammer",
     "SubType": "Hardware",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Doomhammer",
     "Category": "Melee",
@@ -34371,7 +34371,7 @@
   "Schematic:sid_blunt_hammer_heavy_sr_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Blunt_Hammer_Heavy_SR_Ore_T01",
-    "DisplayName": "Doomhammer   ",
+    "DisplayName": "Doomhammer",
     "SubType": "Hardware",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Doomhammer",
     "Category": "Melee",
@@ -34411,7 +34411,7 @@
   "Schematic:sid_blunt_hammer_heavy_sr_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Blunt_Hammer_Heavy_SR_Ore_T02",
-    "DisplayName": "Doomhammer   ",
+    "DisplayName": "Doomhammer",
     "SubType": "Hardware",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Doomhammer",
     "Category": "Melee",
@@ -34452,7 +34452,7 @@
   "Schematic:sid_blunt_hammer_heavy_sr_ore_t03": {
     "Type": "Schematic",
     "Name": "SID_Blunt_Hammer_Heavy_SR_Ore_T03",
-    "DisplayName": "Doomhammer   ",
+    "DisplayName": "Doomhammer",
     "SubType": "Hardware",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Doomhammer",
     "AlternateTierUpRecipe": {
@@ -34504,7 +34504,7 @@
   "Schematic:sid_blunt_hammer_heavy_sr_ore_t04": {
     "Type": "Schematic",
     "Name": "SID_Blunt_Hammer_Heavy_SR_Ore_T04",
-    "DisplayName": "Doomhammer   ",
+    "DisplayName": "Doomhammer",
     "SubType": "Hardware",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Doomhammer",
     "Category": "Melee",
@@ -34547,7 +34547,7 @@
   "Schematic:sid_blunt_hammer_heavy_sr_ore_t05": {
     "Type": "Schematic",
     "Name": "SID_Blunt_Hammer_Heavy_SR_Ore_T05",
-    "DisplayName": "Doomhammer   ",
+    "DisplayName": "Doomhammer",
     "SubType": "Hardware",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Doomhammer",
     "Category": "Melee",
@@ -34579,7 +34579,7 @@
   "Schematic:sid_blunt_hammer_heavy_uc_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Blunt_Hammer_Heavy_UC_Ore_T01",
-    "DisplayName": "Sledgehammer   ",
+    "DisplayName": "Sledgehammer",
     "SubType": "Hardware",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Doomhammer",
     "Category": "Melee",
@@ -34624,7 +34624,7 @@
   "Schematic:sid_blunt_hammer_heavy_uc_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Blunt_Hammer_Heavy_UC_Ore_T02",
-    "DisplayName": "Sledgehammer   ",
+    "DisplayName": "Sledgehammer",
     "SubType": "Hardware",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Doomhammer",
     "Category": "Melee",
@@ -34673,7 +34673,7 @@
   "Schematic:sid_blunt_hammer_heavy_uc_ore_t03": {
     "Type": "Schematic",
     "Name": "SID_Blunt_Hammer_Heavy_UC_Ore_T03",
-    "DisplayName": "Sledgehammer   ",
+    "DisplayName": "Sledgehammer",
     "SubType": "Hardware",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Doomhammer",
     "Category": "Melee",
@@ -37600,7 +37600,7 @@
   "Schematic:sid_blunt_hammer_rocket_sr_crystal_t04": {
     "Type": "Schematic",
     "Name": "SID_Blunt_Hammer_Rocket_SR_Crystal_T04",
-    "DisplayName": "Husk Stomper  ",
+    "DisplayName": "Husk Stomper",
     "SubType": "Hardware",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.HuskStomper",
     "Category": "Melee",
@@ -37644,7 +37644,7 @@
   "Schematic:sid_blunt_hammer_rocket_sr_crystal_t05": {
     "Type": "Schematic",
     "Name": "SID_Blunt_Hammer_Rocket_SR_Crystal_T05",
-    "DisplayName": "Husk Stomper  ",
+    "DisplayName": "Husk Stomper",
     "SubType": "Hardware",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.HuskStomper",
     "Category": "Melee",
@@ -37677,7 +37677,7 @@
   "Schematic:sid_blunt_hammer_rocket_sr_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Blunt_Hammer_Rocket_SR_Ore_T01",
-    "DisplayName": "Husk Stomper  ",
+    "DisplayName": "Husk Stomper",
     "SubType": "Hardware",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.HuskStomper",
     "Category": "Melee",
@@ -37718,7 +37718,7 @@
   "Schematic:sid_blunt_hammer_rocket_sr_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Blunt_Hammer_Rocket_SR_Ore_T02",
-    "DisplayName": "Husk Stomper  ",
+    "DisplayName": "Husk Stomper",
     "SubType": "Hardware",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.HuskStomper",
     "Category": "Melee",
@@ -37760,7 +37760,7 @@
   "Schematic:sid_blunt_hammer_rocket_sr_ore_t03": {
     "Type": "Schematic",
     "Name": "SID_Blunt_Hammer_Rocket_SR_Ore_T03",
-    "DisplayName": "Husk Stomper  ",
+    "DisplayName": "Husk Stomper",
     "SubType": "Hardware",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.HuskStomper",
     "AlternateTierUpRecipe": {
@@ -37813,7 +37813,7 @@
   "Schematic:sid_blunt_hammer_rocket_sr_ore_t04": {
     "Type": "Schematic",
     "Name": "SID_Blunt_Hammer_Rocket_SR_Ore_T04",
-    "DisplayName": "Husk Stomper  ",
+    "DisplayName": "Husk Stomper",
     "SubType": "Hardware",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.HuskStomper",
     "Category": "Melee",
@@ -37857,7 +37857,7 @@
   "Schematic:sid_blunt_hammer_rocket_sr_ore_t05": {
     "Type": "Schematic",
     "Name": "SID_Blunt_Hammer_Rocket_SR_Ore_T05",
-    "DisplayName": "Husk Stomper  ",
+    "DisplayName": "Husk Stomper",
     "SubType": "Hardware",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.HuskStomper",
     "Category": "Melee",
@@ -41125,7 +41125,7 @@
   "Schematic:sid_blunt_light_bat_r_crystal_t04": {
     "Type": "Schematic",
     "Name": "SID_Blunt_Light_Bat_R_Crystal_T04",
-    "DisplayName": "Mighty Slugger  ",
+    "DisplayName": "Mighty Slugger",
     "SubType": "Club",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.MightySlugger",
     "Category": "Melee",
@@ -41157,7 +41157,7 @@
   "Schematic:sid_blunt_light_bat_r_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Blunt_Light_Bat_R_Ore_T01",
-    "DisplayName": "Mighty Slugger  ",
+    "DisplayName": "Mighty Slugger",
     "SubType": "Club",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.MightySlugger",
     "Category": "Melee",
@@ -41197,7 +41197,7 @@
   "Schematic:sid_blunt_light_bat_r_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Blunt_Light_Bat_R_Ore_T02",
-    "DisplayName": "Mighty Slugger  ",
+    "DisplayName": "Mighty Slugger",
     "SubType": "Club",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.MightySlugger",
     "Category": "Melee",
@@ -41238,7 +41238,7 @@
   "Schematic:sid_blunt_light_bat_r_ore_t03": {
     "Type": "Schematic",
     "Name": "SID_Blunt_Light_Bat_R_Ore_T03",
-    "DisplayName": "Mighty Slugger  ",
+    "DisplayName": "Mighty Slugger",
     "SubType": "Club",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.MightySlugger",
     "AlternateTierUpRecipe": {
@@ -41290,7 +41290,7 @@
   "Schematic:sid_blunt_light_bat_r_ore_t04": {
     "Type": "Schematic",
     "Name": "SID_Blunt_Light_Bat_R_Ore_T04",
-    "DisplayName": "Mighty Slugger  ",
+    "DisplayName": "Mighty Slugger",
     "SubType": "Club",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.MightySlugger",
     "Category": "Melee",
@@ -42328,7 +42328,7 @@
   "Schematic:sid_blunt_light_c_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Blunt_Light_C_Ore_T01",
-    "DisplayName": "Baseball Bat  ",
+    "DisplayName": "Baseball Bat",
     "SubType": "Club",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.MightySlugger",
     "Category": "Melee",
@@ -42372,7 +42372,7 @@
   "Schematic:sid_blunt_light_c_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Blunt_Light_C_Ore_T02",
-    "DisplayName": "Baseball Bat  ",
+    "DisplayName": "Baseball Bat",
     "SubType": "Club",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.MightySlugger",
     "Category": "Melee",
@@ -42411,7 +42411,7 @@
   "Schematic:sid_blunt_light_r_crystal_t04": {
     "Type": "Schematic",
     "Name": "SID_Blunt_Light_R_Crystal_T04",
-    "DisplayName": "Mighty Driver  ",
+    "DisplayName": "Mighty Driver",
     "SubType": "Club",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.MastersDriver",
     "Category": "Melee",
@@ -42453,7 +42453,7 @@
   "Schematic:sid_blunt_light_r_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Blunt_Light_R_Ore_T01",
-    "DisplayName": "Mighty Driver  ",
+    "DisplayName": "Mighty Driver",
     "SubType": "Club",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.MastersDriver",
     "Category": "Melee",
@@ -42499,7 +42499,7 @@
   "Schematic:sid_blunt_light_r_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Blunt_Light_R_Ore_T02",
-    "DisplayName": "Mighty Driver  ",
+    "DisplayName": "Mighty Driver",
     "SubType": "Club",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.MastersDriver",
     "Category": "Melee",
@@ -42548,7 +42548,7 @@
   "Schematic:sid_blunt_light_r_ore_t03": {
     "Type": "Schematic",
     "Name": "SID_Blunt_Light_R_Ore_T03",
-    "DisplayName": "Mighty Driver  ",
+    "DisplayName": "Mighty Driver",
     "SubType": "Club",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.MastersDriver",
     "AlternateTierUpRecipe": {
@@ -42609,7 +42609,7 @@
   "Schematic:sid_blunt_light_r_ore_t04": {
     "Type": "Schematic",
     "Name": "SID_Blunt_Light_R_Ore_T04",
-    "DisplayName": "Mighty Driver  ",
+    "DisplayName": "Mighty Driver",
     "SubType": "Club",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.MastersDriver",
     "Category": "Melee",
@@ -43282,7 +43282,7 @@
   "Schematic:sid_blunt_light_rocketbat_sr_crystal_t04": {
     "Type": "Schematic",
     "Name": "SID_Blunt_Light_Rocketbat_SR_Crystal_T04",
-    "DisplayName": "Fortsville Slugger 3000 ",
+    "DisplayName": "Fortsville Slugger 3000",
     "SubType": "Club",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.FortsvilleSlugger3000",
     "Category": "Melee",
@@ -43326,7 +43326,7 @@
   "Schematic:sid_blunt_light_rocketbat_sr_crystal_t05": {
     "Type": "Schematic",
     "Name": "SID_Blunt_Light_Rocketbat_SR_Crystal_T05",
-    "DisplayName": "Fortsville Slugger 3000 ",
+    "DisplayName": "Fortsville Slugger 3000",
     "SubType": "Club",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.FortsvilleSlugger3000",
     "Category": "Melee",
@@ -43359,7 +43359,7 @@
   "Schematic:sid_blunt_light_rocketbat_sr_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Blunt_Light_Rocketbat_SR_Ore_T01",
-    "DisplayName": "Fortsville Slugger 3000 ",
+    "DisplayName": "Fortsville Slugger 3000",
     "SubType": "Club",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.FortsvilleSlugger3000",
     "Category": "Melee",
@@ -43400,7 +43400,7 @@
   "Schematic:sid_blunt_light_rocketbat_sr_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Blunt_Light_Rocketbat_SR_Ore_T02",
-    "DisplayName": "Fortsville Slugger 3000 ",
+    "DisplayName": "Fortsville Slugger 3000",
     "SubType": "Club",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.FortsvilleSlugger3000",
     "Category": "Melee",
@@ -43442,7 +43442,7 @@
   "Schematic:sid_blunt_light_rocketbat_sr_ore_t03": {
     "Type": "Schematic",
     "Name": "SID_Blunt_Light_Rocketbat_SR_Ore_T03",
-    "DisplayName": "Fortsville Slugger 3000 ",
+    "DisplayName": "Fortsville Slugger 3000",
     "SubType": "Club",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.FortsvilleSlugger3000",
     "AlternateTierUpRecipe": {
@@ -43495,7 +43495,7 @@
   "Schematic:sid_blunt_light_rocketbat_sr_ore_t04": {
     "Type": "Schematic",
     "Name": "SID_Blunt_Light_Rocketbat_SR_Ore_T04",
-    "DisplayName": "Fortsville Slugger 3000 ",
+    "DisplayName": "Fortsville Slugger 3000",
     "SubType": "Club",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.FortsvilleSlugger3000",
     "Category": "Melee",
@@ -43539,7 +43539,7 @@
   "Schematic:sid_blunt_light_rocketbat_sr_ore_t05": {
     "Type": "Schematic",
     "Name": "SID_Blunt_Light_Rocketbat_SR_Ore_T05",
-    "DisplayName": "Fortsville Slugger 3000 ",
+    "DisplayName": "Fortsville Slugger 3000",
     "SubType": "Club",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.FortsvilleSlugger3000",
     "Category": "Melee",
@@ -43927,7 +43927,7 @@
   "Schematic:sid_blunt_light_sr_crystal_t04": {
     "Type": "Schematic",
     "Name": "SID_Blunt_Light_SR_Crystal_T04",
-    "DisplayName": "Mr. Red  ",
+    "DisplayName": "Mr. Red",
     "SubType": "Hardware",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.MrRed",
     "Category": "Melee",
@@ -43970,7 +43970,7 @@
   "Schematic:sid_blunt_light_sr_crystal_t05": {
     "Type": "Schematic",
     "Name": "SID_Blunt_Light_SR_Crystal_T05",
-    "DisplayName": "Mr. Red  ",
+    "DisplayName": "Mr. Red",
     "SubType": "Hardware",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.MrRed",
     "Category": "Melee",
@@ -44002,7 +44002,7 @@
   "Schematic:sid_blunt_light_sr_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Blunt_Light_SR_Ore_T01",
-    "DisplayName": "Mr. Red  ",
+    "DisplayName": "Mr. Red",
     "SubType": "Hardware",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.MrRed",
     "Category": "Melee",
@@ -44042,7 +44042,7 @@
   "Schematic:sid_blunt_light_sr_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Blunt_Light_SR_Ore_T02",
-    "DisplayName": "Mr. Red  ",
+    "DisplayName": "Mr. Red",
     "SubType": "Hardware",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.MrRed",
     "Category": "Melee",
@@ -44083,7 +44083,7 @@
   "Schematic:sid_blunt_light_sr_ore_t03": {
     "Type": "Schematic",
     "Name": "SID_Blunt_Light_SR_Ore_T03",
-    "DisplayName": "Mr. Red  ",
+    "DisplayName": "Mr. Red",
     "SubType": "Hardware",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.MrRed",
     "AlternateTierUpRecipe": {
@@ -44135,7 +44135,7 @@
   "Schematic:sid_blunt_light_sr_ore_t04": {
     "Type": "Schematic",
     "Name": "SID_Blunt_Light_SR_Ore_T04",
-    "DisplayName": "Mr. Red  ",
+    "DisplayName": "Mr. Red",
     "SubType": "Hardware",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.MrRed",
     "Category": "Melee",
@@ -44178,7 +44178,7 @@
   "Schematic:sid_blunt_light_sr_ore_t05": {
     "Type": "Schematic",
     "Name": "SID_Blunt_Light_SR_Ore_T05",
-    "DisplayName": "Mr. Red  ",
+    "DisplayName": "Mr. Red",
     "SubType": "Hardware",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.MrRed",
     "Category": "Melee",
@@ -44693,7 +44693,7 @@
   "Schematic:sid_blunt_medium_c_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Blunt_Medium_C_Ore_T01",
-    "DisplayName": "Trusty Pipe  ",
+    "DisplayName": "Trusty Pipe",
     "SubType": "Hardware",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.TrustyPipe",
     "Category": "Melee",
@@ -44731,7 +44731,7 @@
   "Schematic:sid_blunt_medium_c_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Blunt_Medium_C_Ore_T02",
-    "DisplayName": "Trusty Pipe  ",
+    "DisplayName": "Trusty Pipe",
     "SubType": "Hardware",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.TrustyPipe",
     "Category": "Melee",
@@ -44762,7 +44762,7 @@
   "Schematic:sid_blunt_medium_r_crystal_t04": {
     "Type": "Schematic",
     "Name": "SID_Blunt_Medium_R_Crystal_T04",
-    "DisplayName": "Heavy Wrench  ",
+    "DisplayName": "Heavy Wrench",
     "SubType": "Hardware",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.HeavyWrench",
     "Category": "Melee",
@@ -44794,7 +44794,7 @@
   "Schematic:sid_blunt_medium_r_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Blunt_Medium_R_Ore_T01",
-    "DisplayName": "Heavy Wrench  ",
+    "DisplayName": "Heavy Wrench",
     "SubType": "Hardware",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.HeavyWrench",
     "Category": "Melee",
@@ -44834,7 +44834,7 @@
   "Schematic:sid_blunt_medium_r_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Blunt_Medium_R_Ore_T02",
-    "DisplayName": "Heavy Wrench  ",
+    "DisplayName": "Heavy Wrench",
     "SubType": "Hardware",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.HeavyWrench",
     "Category": "Melee",
@@ -44875,7 +44875,7 @@
   "Schematic:sid_blunt_medium_r_ore_t03": {
     "Type": "Schematic",
     "Name": "SID_Blunt_Medium_R_Ore_T03",
-    "DisplayName": "Heavy Wrench  ",
+    "DisplayName": "Heavy Wrench",
     "SubType": "Hardware",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.HeavyWrench",
     "AlternateTierUpRecipe": {
@@ -44927,7 +44927,7 @@
   "Schematic:sid_blunt_medium_r_ore_t04": {
     "Type": "Schematic",
     "Name": "SID_Blunt_Medium_R_Ore_T04",
-    "DisplayName": "Heavy Wrench  ",
+    "DisplayName": "Heavy Wrench",
     "SubType": "Hardware",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.HeavyWrench",
     "Category": "Melee",
@@ -45590,7 +45590,7 @@
   "Schematic:sid_blunt_medium_sr_crystal_t04": {
     "Type": "Schematic",
     "Name": "SID_Blunt_Medium_SR_Crystal_T04",
-    "DisplayName": "Socket Slugger  ",
+    "DisplayName": "Socket Slugger",
     "SubType": "Hardware",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.SocketSlugger",
     "Category": "Melee",
@@ -45633,7 +45633,7 @@
   "Schematic:sid_blunt_medium_sr_crystal_t05": {
     "Type": "Schematic",
     "Name": "SID_Blunt_Medium_SR_Crystal_T05",
-    "DisplayName": "Socket Slugger  ",
+    "DisplayName": "Socket Slugger",
     "SubType": "Hardware",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.SocketSlugger",
     "Category": "Melee",
@@ -45665,7 +45665,7 @@
   "Schematic:sid_blunt_medium_sr_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Blunt_Medium_SR_Ore_T01",
-    "DisplayName": "Socket Slugger  ",
+    "DisplayName": "Socket Slugger",
     "SubType": "Hardware",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.SocketSlugger",
     "Category": "Melee",
@@ -45705,7 +45705,7 @@
   "Schematic:sid_blunt_medium_sr_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Blunt_Medium_SR_Ore_T02",
-    "DisplayName": "Socket Slugger  ",
+    "DisplayName": "Socket Slugger",
     "SubType": "Hardware",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.SocketSlugger",
     "Category": "Melee",
@@ -45746,7 +45746,7 @@
   "Schematic:sid_blunt_medium_sr_ore_t03": {
     "Type": "Schematic",
     "Name": "SID_Blunt_Medium_SR_Ore_T03",
-    "DisplayName": "Socket Slugger  ",
+    "DisplayName": "Socket Slugger",
     "SubType": "Hardware",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.SocketSlugger",
     "AlternateTierUpRecipe": {
@@ -45798,7 +45798,7 @@
   "Schematic:sid_blunt_medium_sr_ore_t04": {
     "Type": "Schematic",
     "Name": "SID_Blunt_Medium_SR_Ore_T04",
-    "DisplayName": "Socket Slugger  ",
+    "DisplayName": "Socket Slugger",
     "SubType": "Hardware",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.SocketSlugger",
     "Category": "Melee",
@@ -45841,7 +45841,7 @@
   "Schematic:sid_blunt_medium_sr_ore_t05": {
     "Type": "Schematic",
     "Name": "SID_Blunt_Medium_SR_Ore_T05",
-    "DisplayName": "Socket Slugger  ",
+    "DisplayName": "Socket Slugger",
     "SubType": "Hardware",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.SocketSlugger",
     "Category": "Melee",
@@ -52508,7 +52508,7 @@
   "Schematic:sid_edged_axe_heavy_c_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Edged_Axe_Heavy_C_Ore_T01",
-    "DisplayName": "Stop Axe  ",
+    "DisplayName": "Stop Axe",
     "SubType": "Axe",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.StormChasersRevenge",
     "Category": "Melee",
@@ -52546,7 +52546,7 @@
   "Schematic:sid_edged_axe_heavy_c_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Edged_Axe_Heavy_C_Ore_T02",
-    "DisplayName": "Stop Axe  ",
+    "DisplayName": "Stop Axe",
     "SubType": "Axe",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.StormChasersRevenge",
     "Category": "Melee",
@@ -52577,7 +52577,7 @@
   "Schematic:sid_edged_axe_heavy_r_crystal_t04": {
     "Type": "Schematic",
     "Name": "SID_Edged_Axe_Heavy_R_Crystal_T04",
-    "DisplayName": "Greataxe   ",
+    "DisplayName": "Greataxe",
     "SubType": "Axe",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.StormChasersRevenge",
     "Category": "Melee",
@@ -52619,7 +52619,7 @@
   "Schematic:sid_edged_axe_heavy_r_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Edged_Axe_Heavy_R_Ore_T01",
-    "DisplayName": "Greataxe   ",
+    "DisplayName": "Greataxe",
     "SubType": "Axe",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.StormChasersRevenge",
     "Category": "Melee",
@@ -52665,7 +52665,7 @@
   "Schematic:sid_edged_axe_heavy_r_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Edged_Axe_Heavy_R_Ore_T02",
-    "DisplayName": "Greataxe   ",
+    "DisplayName": "Greataxe",
     "SubType": "Axe",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.StormChasersRevenge",
     "Category": "Melee",
@@ -52714,7 +52714,7 @@
   "Schematic:sid_edged_axe_heavy_r_ore_t03": {
     "Type": "Schematic",
     "Name": "SID_Edged_Axe_Heavy_R_Ore_T03",
-    "DisplayName": "Greataxe   ",
+    "DisplayName": "Greataxe",
     "SubType": "Axe",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.StormChasersRevenge",
     "AlternateTierUpRecipe": {
@@ -52775,7 +52775,7 @@
   "Schematic:sid_edged_axe_heavy_r_ore_t04": {
     "Type": "Schematic",
     "Name": "SID_Edged_Axe_Heavy_R_Ore_T04",
-    "DisplayName": "Greataxe   ",
+    "DisplayName": "Greataxe",
     "SubType": "Axe",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.StormChasersRevenge",
     "Category": "Melee",
@@ -52817,7 +52817,7 @@
   "Schematic:sid_edged_axe_heavy_sr_crystal_t04": {
     "Type": "Schematic",
     "Name": "SID_Edged_Axe_Heavy_SR_Crystal_T04",
-    "DisplayName": "Stormchaser\u0027s Revenge  ",
+    "DisplayName": "Stormchaser\u0027s Revenge",
     "SubType": "Axe",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.StormChasersRevenge",
     "Category": "Melee",
@@ -52860,7 +52860,7 @@
   "Schematic:sid_edged_axe_heavy_sr_crystal_t05": {
     "Type": "Schematic",
     "Name": "SID_Edged_Axe_Heavy_SR_Crystal_T05",
-    "DisplayName": "Stormchaser\u0027s Revenge  ",
+    "DisplayName": "Stormchaser\u0027s Revenge",
     "SubType": "Axe",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.StormChasersRevenge",
     "Category": "Melee",
@@ -52892,7 +52892,7 @@
   "Schematic:sid_edged_axe_heavy_sr_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Edged_Axe_Heavy_SR_Ore_T01",
-    "DisplayName": "Stormchaser\u0027s Revenge  ",
+    "DisplayName": "Stormchaser\u0027s Revenge",
     "SubType": "Axe",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.StormChasersRevenge",
     "Category": "Melee",
@@ -52932,7 +52932,7 @@
   "Schematic:sid_edged_axe_heavy_sr_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Edged_Axe_Heavy_SR_Ore_T02",
-    "DisplayName": "Stormchaser\u0027s Revenge  ",
+    "DisplayName": "Stormchaser\u0027s Revenge",
     "SubType": "Axe",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.StormChasersRevenge",
     "Category": "Melee",
@@ -52973,7 +52973,7 @@
   "Schematic:sid_edged_axe_heavy_sr_ore_t03": {
     "Type": "Schematic",
     "Name": "SID_Edged_Axe_Heavy_SR_Ore_T03",
-    "DisplayName": "Stormchaser\u0027s Revenge  ",
+    "DisplayName": "Stormchaser\u0027s Revenge",
     "SubType": "Axe",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.StormChasersRevenge",
     "AlternateTierUpRecipe": {
@@ -53025,7 +53025,7 @@
   "Schematic:sid_edged_axe_heavy_sr_ore_t04": {
     "Type": "Schematic",
     "Name": "SID_Edged_Axe_Heavy_SR_Ore_T04",
-    "DisplayName": "Stormchaser\u0027s Revenge  ",
+    "DisplayName": "Stormchaser\u0027s Revenge",
     "SubType": "Axe",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.StormChasersRevenge",
     "Category": "Melee",
@@ -53068,7 +53068,7 @@
   "Schematic:sid_edged_axe_heavy_sr_ore_t05": {
     "Type": "Schematic",
     "Name": "SID_Edged_Axe_Heavy_SR_Ore_T05",
-    "DisplayName": "Stormchaser\u0027s Revenge  ",
+    "DisplayName": "Stormchaser\u0027s Revenge",
     "SubType": "Axe",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.StormChasersRevenge",
     "Category": "Melee",
@@ -53100,7 +53100,7 @@
   "Schematic:sid_edged_axe_heavy_uc_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Edged_Axe_Heavy_UC_Ore_T01",
-    "DisplayName": "Fractured Axe  ",
+    "DisplayName": "Fractured Axe",
     "SubType": "Axe",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.StormChasersRevenge",
     "Category": "Melee",
@@ -53145,7 +53145,7 @@
   "Schematic:sid_edged_axe_heavy_uc_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Edged_Axe_Heavy_UC_Ore_T02",
-    "DisplayName": "Fractured Axe  ",
+    "DisplayName": "Fractured Axe",
     "SubType": "Axe",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.StormChasersRevenge",
     "Category": "Melee",
@@ -53194,7 +53194,7 @@
   "Schematic:sid_edged_axe_heavy_uc_ore_t03": {
     "Type": "Schematic",
     "Name": "SID_Edged_Axe_Heavy_UC_Ore_T03",
-    "DisplayName": "Fractured Axe  ",
+    "DisplayName": "Fractured Axe",
     "SubType": "Axe",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.StormChasersRevenge",
     "Category": "Melee",
@@ -54311,7 +54311,7 @@
   "Schematic:sid_edged_axe_light_r_crystal_t04": {
     "Type": "Schematic",
     "Name": "SID_Edged_Axe_Light_R_Crystal_T04",
-    "DisplayName": "Ski Cleaver  ",
+    "DisplayName": "Ski Cleaver",
     "SubType": "Axe",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.SkiCleaver",
     "Category": "Melee",
@@ -54343,7 +54343,7 @@
   "Schematic:sid_edged_axe_light_r_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Edged_Axe_Light_R_Ore_T01",
-    "DisplayName": "Ski Cleaver  ",
+    "DisplayName": "Ski Cleaver",
     "SubType": "Axe",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.SkiCleaver",
     "Category": "Melee",
@@ -54383,7 +54383,7 @@
   "Schematic:sid_edged_axe_light_r_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Edged_Axe_Light_R_Ore_T02",
-    "DisplayName": "Ski Cleaver  ",
+    "DisplayName": "Ski Cleaver",
     "SubType": "Axe",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.SkiCleaver",
     "Category": "Melee",
@@ -54424,7 +54424,7 @@
   "Schematic:sid_edged_axe_light_r_ore_t03": {
     "Type": "Schematic",
     "Name": "SID_Edged_Axe_Light_R_Ore_T03",
-    "DisplayName": "Ski Cleaver  ",
+    "DisplayName": "Ski Cleaver",
     "SubType": "Axe",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.SkiCleaver",
     "AlternateTierUpRecipe": {
@@ -54476,7 +54476,7 @@
   "Schematic:sid_edged_axe_light_r_ore_t04": {
     "Type": "Schematic",
     "Name": "SID_Edged_Axe_Light_R_Ore_T04",
-    "DisplayName": "Ski Cleaver  ",
+    "DisplayName": "Ski Cleaver",
     "SubType": "Axe",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.SkiCleaver",
     "Category": "Melee",
@@ -55139,7 +55139,7 @@
   "Schematic:sid_edged_axe_light_sr_crystal_t04": {
     "Type": "Schematic",
     "Name": "SID_Edged_Axe_Light_SR_Crystal_T04",
-    "DisplayName": "Claxe   ",
+    "DisplayName": "Claxe",
     "SubType": "Axe",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Claxe",
     "Category": "Melee",
@@ -55182,7 +55182,7 @@
   "Schematic:sid_edged_axe_light_sr_crystal_t05": {
     "Type": "Schematic",
     "Name": "SID_Edged_Axe_Light_SR_Crystal_T05",
-    "DisplayName": "Claxe   ",
+    "DisplayName": "Claxe",
     "SubType": "Axe",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Claxe",
     "Category": "Melee",
@@ -55214,7 +55214,7 @@
   "Schematic:sid_edged_axe_light_sr_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Edged_Axe_Light_SR_Ore_T01",
-    "DisplayName": "Claxe   ",
+    "DisplayName": "Claxe",
     "SubType": "Axe",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Claxe",
     "Category": "Melee",
@@ -55254,7 +55254,7 @@
   "Schematic:sid_edged_axe_light_sr_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Edged_Axe_Light_SR_Ore_T02",
-    "DisplayName": "Claxe   ",
+    "DisplayName": "Claxe",
     "SubType": "Axe",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Claxe",
     "Category": "Melee",
@@ -55295,7 +55295,7 @@
   "Schematic:sid_edged_axe_light_sr_ore_t03": {
     "Type": "Schematic",
     "Name": "SID_Edged_Axe_Light_SR_Ore_T03",
-    "DisplayName": "Claxe   ",
+    "DisplayName": "Claxe",
     "SubType": "Axe",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Claxe",
     "AlternateTierUpRecipe": {
@@ -55347,7 +55347,7 @@
   "Schematic:sid_edged_axe_light_sr_ore_t04": {
     "Type": "Schematic",
     "Name": "SID_Edged_Axe_Light_SR_Ore_T04",
-    "DisplayName": "Claxe   ",
+    "DisplayName": "Claxe",
     "SubType": "Axe",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Claxe",
     "Category": "Melee",
@@ -55390,7 +55390,7 @@
   "Schematic:sid_edged_axe_light_sr_ore_t05": {
     "Type": "Schematic",
     "Name": "SID_Edged_Axe_Light_SR_Ore_T05",
-    "DisplayName": "Claxe   ",
+    "DisplayName": "Claxe",
     "SubType": "Axe",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Claxe",
     "Category": "Melee",
@@ -56536,7 +56536,7 @@
   "Schematic:sid_edged_axe_medium_c_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Edged_Axe_Medium_C_Ore_T01",
-    "DisplayName": "Handmade Axe  ",
+    "DisplayName": "Handmade Axe",
     "SubType": "Axe",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.RevenantsWrath",
     "Category": "Melee",
@@ -56580,7 +56580,7 @@
   "Schematic:sid_edged_axe_medium_c_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Edged_Axe_Medium_C_Ore_T02",
-    "DisplayName": "Handmade Axe  ",
+    "DisplayName": "Handmade Axe",
     "SubType": "Axe",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.RevenantsWrath",
     "Category": "Melee",
@@ -56902,7 +56902,7 @@
   "Schematic:sid_edged_axe_medium_laser_sr_crystal_t04": {
     "Type": "Schematic",
     "Name": "SID_Edged_Axe_Medium_Laser_SR_Crystal_T04",
-    "DisplayName": "Armaggeddon   ",
+    "DisplayName": "Armaggeddon",
     "SubType": "Axe",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Armaggeddon",
     "AlterationNamedExclusions": [
@@ -56952,7 +56952,7 @@
   "Schematic:sid_edged_axe_medium_laser_sr_crystal_t05": {
     "Type": "Schematic",
     "Name": "SID_Edged_Axe_Medium_Laser_SR_Crystal_T05",
-    "DisplayName": "Armaggeddon   ",
+    "DisplayName": "Armaggeddon",
     "SubType": "Axe",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Armaggeddon",
     "AlterationNamedExclusions": [
@@ -56991,7 +56991,7 @@
   "Schematic:sid_edged_axe_medium_laser_sr_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Edged_Axe_Medium_Laser_SR_Ore_T01",
-    "DisplayName": "Armaggeddon   ",
+    "DisplayName": "Armaggeddon",
     "SubType": "Axe",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Armaggeddon",
     "AlterationNamedExclusions": [
@@ -57038,7 +57038,7 @@
   "Schematic:sid_edged_axe_medium_laser_sr_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Edged_Axe_Medium_Laser_SR_Ore_T02",
-    "DisplayName": "Armaggeddon   ",
+    "DisplayName": "Armaggeddon",
     "SubType": "Axe",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Armaggeddon",
     "AlterationNamedExclusions": [
@@ -57086,7 +57086,7 @@
   "Schematic:sid_edged_axe_medium_laser_sr_ore_t03": {
     "Type": "Schematic",
     "Name": "SID_Edged_Axe_Medium_Laser_SR_Ore_T03",
-    "DisplayName": "Armaggeddon   ",
+    "DisplayName": "Armaggeddon",
     "SubType": "Axe",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Armaggeddon",
     "AlterationNamedExclusions": [
@@ -57145,7 +57145,7 @@
   "Schematic:sid_edged_axe_medium_laser_sr_ore_t04": {
     "Type": "Schematic",
     "Name": "SID_Edged_Axe_Medium_Laser_SR_Ore_T04",
-    "DisplayName": "Armaggeddon   ",
+    "DisplayName": "Armaggeddon",
     "SubType": "Axe",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Armaggeddon",
     "AlterationNamedExclusions": [
@@ -57195,7 +57195,7 @@
   "Schematic:sid_edged_axe_medium_laser_sr_ore_t05": {
     "Type": "Schematic",
     "Name": "SID_Edged_Axe_Medium_Laser_SR_Ore_T05",
-    "DisplayName": "Armaggeddon   ",
+    "DisplayName": "Armaggeddon",
     "SubType": "Axe",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Armaggeddon",
     "AlterationNamedExclusions": [
@@ -57631,7 +57631,7 @@
   "Schematic:sid_edged_axe_medium_r_crystal_t04": {
     "Type": "Schematic",
     "Name": "SID_Edged_Axe_Medium_R_Crystal_T04",
-    "DisplayName": "Splinter Axe  ",
+    "DisplayName": "Splinter Axe",
     "SubType": "Axe",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.RevenantsWrath",
     "Category": "Melee",
@@ -57673,7 +57673,7 @@
   "Schematic:sid_edged_axe_medium_r_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Edged_Axe_Medium_R_Ore_T01",
-    "DisplayName": "Splinter Axe  ",
+    "DisplayName": "Splinter Axe",
     "SubType": "Axe",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.RevenantsWrath",
     "Category": "Melee",
@@ -57719,7 +57719,7 @@
   "Schematic:sid_edged_axe_medium_r_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Edged_Axe_Medium_R_Ore_T02",
-    "DisplayName": "Splinter Axe  ",
+    "DisplayName": "Splinter Axe",
     "SubType": "Axe",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.RevenantsWrath",
     "Category": "Melee",
@@ -57768,7 +57768,7 @@
   "Schematic:sid_edged_axe_medium_r_ore_t03": {
     "Type": "Schematic",
     "Name": "SID_Edged_Axe_Medium_R_Ore_T03",
-    "DisplayName": "Splinter Axe  ",
+    "DisplayName": "Splinter Axe",
     "SubType": "Axe",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.RevenantsWrath",
     "AlternateTierUpRecipe": {
@@ -57829,7 +57829,7 @@
   "Schematic:sid_edged_axe_medium_r_ore_t04": {
     "Type": "Schematic",
     "Name": "SID_Edged_Axe_Medium_R_Ore_T04",
-    "DisplayName": "Splinter Axe  ",
+    "DisplayName": "Splinter Axe",
     "SubType": "Axe",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.RevenantsWrath",
     "Category": "Melee",
@@ -57871,7 +57871,7 @@
   "Schematic:sid_edged_axe_medium_sr_crystal_t04": {
     "Type": "Schematic",
     "Name": "SID_Edged_Axe_Medium_SR_Crystal_T04",
-    "DisplayName": "Revenant\u0027s Wrath  ",
+    "DisplayName": "Revenant\u0027s Wrath",
     "SubType": "Axe",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.RevenantsWrath",
     "Category": "Melee",
@@ -57914,7 +57914,7 @@
   "Schematic:sid_edged_axe_medium_sr_crystal_t05": {
     "Type": "Schematic",
     "Name": "SID_Edged_Axe_Medium_SR_Crystal_T05",
-    "DisplayName": "Revenant\u0027s Wrath  ",
+    "DisplayName": "Revenant\u0027s Wrath",
     "SubType": "Axe",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.RevenantsWrath",
     "Category": "Melee",
@@ -57946,7 +57946,7 @@
   "Schematic:sid_edged_axe_medium_sr_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Edged_Axe_Medium_SR_Ore_T01",
-    "DisplayName": "Revenant\u0027s Wrath  ",
+    "DisplayName": "Revenant\u0027s Wrath",
     "SubType": "Axe",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.RevenantsWrath",
     "Category": "Melee",
@@ -57986,7 +57986,7 @@
   "Schematic:sid_edged_axe_medium_sr_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Edged_Axe_Medium_SR_Ore_T02",
-    "DisplayName": "Revenant\u0027s Wrath  ",
+    "DisplayName": "Revenant\u0027s Wrath",
     "SubType": "Axe",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.RevenantsWrath",
     "Category": "Melee",
@@ -58027,7 +58027,7 @@
   "Schematic:sid_edged_axe_medium_sr_ore_t03": {
     "Type": "Schematic",
     "Name": "SID_Edged_Axe_Medium_SR_Ore_T03",
-    "DisplayName": "Revenant\u0027s Wrath  ",
+    "DisplayName": "Revenant\u0027s Wrath",
     "SubType": "Axe",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.RevenantsWrath",
     "AlternateTierUpRecipe": {
@@ -58079,7 +58079,7 @@
   "Schematic:sid_edged_axe_medium_sr_ore_t04": {
     "Type": "Schematic",
     "Name": "SID_Edged_Axe_Medium_SR_Ore_T04",
-    "DisplayName": "Revenant\u0027s Wrath  ",
+    "DisplayName": "Revenant\u0027s Wrath",
     "SubType": "Axe",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.RevenantsWrath",
     "Category": "Melee",
@@ -58122,7 +58122,7 @@
   "Schematic:sid_edged_axe_medium_sr_ore_t05": {
     "Type": "Schematic",
     "Name": "SID_Edged_Axe_Medium_SR_Ore_T05",
-    "DisplayName": "Revenant\u0027s Wrath  ",
+    "DisplayName": "Revenant\u0027s Wrath",
     "SubType": "Axe",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.RevenantsWrath",
     "Category": "Melee",
@@ -61890,7 +61890,7 @@
   "Schematic:sid_edged_scythe_c_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Edged_Scythe_C_Ore_T01",
-    "DisplayName": "Hockey Stick  ",
+    "DisplayName": "Hockey Stick",
     "SubType": "Scythe",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.HockeyStick",
     "Category": "Melee",
@@ -61928,7 +61928,7 @@
   "Schematic:sid_edged_scythe_c_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Edged_Scythe_C_Ore_T02",
-    "DisplayName": "Hockey Stick  ",
+    "DisplayName": "Hockey Stick",
     "SubType": "Scythe",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.HockeyStick",
     "Category": "Melee",
@@ -62590,7 +62590,7 @@
   "Schematic:sid_edged_scythe_laser_sr_crystal_t04": {
     "Type": "Schematic",
     "Name": "SID_Edged_Scythe_Laser_SR_Crystal_T04",
-    "DisplayName": "Reaper Scythe  ",
+    "DisplayName": "Reaper Scythe",
     "SubType": "Scythe",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.ReaperScythe",
     "AlterationNamedExclusions": [
@@ -62640,7 +62640,7 @@
   "Schematic:sid_edged_scythe_laser_sr_crystal_t05": {
     "Type": "Schematic",
     "Name": "SID_Edged_Scythe_Laser_SR_Crystal_T05",
-    "DisplayName": "Reaper Scythe  ",
+    "DisplayName": "Reaper Scythe",
     "SubType": "Scythe",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.ReaperScythe",
     "AlterationNamedExclusions": [
@@ -62679,7 +62679,7 @@
   "Schematic:sid_edged_scythe_laser_sr_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Edged_Scythe_Laser_SR_Ore_T01",
-    "DisplayName": "Reaper Scythe  ",
+    "DisplayName": "Reaper Scythe",
     "SubType": "Scythe",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.ReaperScythe",
     "AlterationNamedExclusions": [
@@ -62726,7 +62726,7 @@
   "Schematic:sid_edged_scythe_laser_sr_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Edged_Scythe_Laser_SR_Ore_T02",
-    "DisplayName": "Reaper Scythe  ",
+    "DisplayName": "Reaper Scythe",
     "SubType": "Scythe",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.ReaperScythe",
     "AlterationNamedExclusions": [
@@ -62774,7 +62774,7 @@
   "Schematic:sid_edged_scythe_laser_sr_ore_t03": {
     "Type": "Schematic",
     "Name": "SID_Edged_Scythe_Laser_SR_Ore_T03",
-    "DisplayName": "Reaper Scythe  ",
+    "DisplayName": "Reaper Scythe",
     "SubType": "Scythe",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.ReaperScythe",
     "AlterationNamedExclusions": [
@@ -62833,7 +62833,7 @@
   "Schematic:sid_edged_scythe_laser_sr_ore_t04": {
     "Type": "Schematic",
     "Name": "SID_Edged_Scythe_Laser_SR_Ore_T04",
-    "DisplayName": "Reaper Scythe  ",
+    "DisplayName": "Reaper Scythe",
     "SubType": "Scythe",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.ReaperScythe",
     "AlterationNamedExclusions": [
@@ -62883,7 +62883,7 @@
   "Schematic:sid_edged_scythe_laser_sr_ore_t05": {
     "Type": "Schematic",
     "Name": "SID_Edged_Scythe_Laser_SR_Ore_T05",
-    "DisplayName": "Reaper Scythe  ",
+    "DisplayName": "Reaper Scythe",
     "SubType": "Scythe",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.ReaperScythe",
     "AlterationNamedExclusions": [
@@ -63964,7 +63964,7 @@
   "Schematic:sid_edged_scythe_r_crystal_t04": {
     "Type": "Schematic",
     "Name": "SID_Edged_Scythe_R_Crystal_T04",
-    "DisplayName": "Reaver   ",
+    "DisplayName": "Reaver",
     "SubType": "Scythe",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Reaver",
     "Category": "Melee",
@@ -64006,7 +64006,7 @@
   "Schematic:sid_edged_scythe_r_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Edged_Scythe_R_Ore_T01",
-    "DisplayName": "Reaver   ",
+    "DisplayName": "Reaver",
     "SubType": "Scythe",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Reaver",
     "Category": "Melee",
@@ -64052,7 +64052,7 @@
   "Schematic:sid_edged_scythe_r_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Edged_Scythe_R_Ore_T02",
-    "DisplayName": "Reaver   ",
+    "DisplayName": "Reaver",
     "SubType": "Scythe",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Reaver",
     "Category": "Melee",
@@ -64101,7 +64101,7 @@
   "Schematic:sid_edged_scythe_r_ore_t03": {
     "Type": "Schematic",
     "Name": "SID_Edged_Scythe_R_Ore_T03",
-    "DisplayName": "Reaver   ",
+    "DisplayName": "Reaver",
     "SubType": "Scythe",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Reaver",
     "AlternateTierUpRecipe": {
@@ -64162,7 +64162,7 @@
   "Schematic:sid_edged_scythe_r_ore_t04": {
     "Type": "Schematic",
     "Name": "SID_Edged_Scythe_R_Ore_T04",
-    "DisplayName": "Reaver   ",
+    "DisplayName": "Reaver",
     "SubType": "Scythe",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Reaver",
     "Category": "Melee",
@@ -64204,7 +64204,7 @@
   "Schematic:sid_edged_scythe_sr_crystal_t04": {
     "Type": "Schematic",
     "Name": "SID_Edged_Scythe_SR_Crystal_T04",
-    "DisplayName": "Elegant Scythe  ",
+    "DisplayName": "Elegant Scythe",
     "SubType": "Scythe",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.ElegantScythe",
     "Category": "Melee",
@@ -64247,7 +64247,7 @@
   "Schematic:sid_edged_scythe_sr_crystal_t05": {
     "Type": "Schematic",
     "Name": "SID_Edged_Scythe_SR_Crystal_T05",
-    "DisplayName": "Elegant Scythe  ",
+    "DisplayName": "Elegant Scythe",
     "SubType": "Scythe",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.ElegantScythe",
     "Category": "Melee",
@@ -64279,7 +64279,7 @@
   "Schematic:sid_edged_scythe_sr_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Edged_Scythe_SR_Ore_T01",
-    "DisplayName": "Elegant Scythe  ",
+    "DisplayName": "Elegant Scythe",
     "SubType": "Scythe",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.ElegantScythe",
     "Category": "Melee",
@@ -64319,7 +64319,7 @@
   "Schematic:sid_edged_scythe_sr_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Edged_Scythe_SR_Ore_T02",
-    "DisplayName": "Elegant Scythe  ",
+    "DisplayName": "Elegant Scythe",
     "SubType": "Scythe",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.ElegantScythe",
     "Category": "Melee",
@@ -64360,7 +64360,7 @@
   "Schematic:sid_edged_scythe_sr_ore_t03": {
     "Type": "Schematic",
     "Name": "SID_Edged_Scythe_SR_Ore_T03",
-    "DisplayName": "Elegant Scythe  ",
+    "DisplayName": "Elegant Scythe",
     "SubType": "Scythe",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.ElegantScythe",
     "AlternateTierUpRecipe": {
@@ -64412,7 +64412,7 @@
   "Schematic:sid_edged_scythe_sr_ore_t04": {
     "Type": "Schematic",
     "Name": "SID_Edged_Scythe_SR_Ore_T04",
-    "DisplayName": "Elegant Scythe  ",
+    "DisplayName": "Elegant Scythe",
     "SubType": "Scythe",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.ElegantScythe",
     "Category": "Melee",
@@ -64455,7 +64455,7 @@
   "Schematic:sid_edged_scythe_sr_ore_t05": {
     "Type": "Schematic",
     "Name": "SID_Edged_Scythe_SR_Ore_T05",
-    "DisplayName": "Elegant Scythe  ",
+    "DisplayName": "Elegant Scythe",
     "SubType": "Scythe",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.ElegantScythe",
     "Category": "Melee",
@@ -68437,7 +68437,7 @@
   "Schematic:sid_edged_sword_heavy_r_crystal_t04": {
     "Type": "Schematic",
     "Name": "SID_Edged_Sword_Heavy_R_Crystal_T04",
-    "DisplayName": "Highlander   ",
+    "DisplayName": "Highlander",
     "SubType": "Sword",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.HuskCleaver",
     "Category": "Melee",
@@ -68479,7 +68479,7 @@
   "Schematic:sid_edged_sword_heavy_r_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Edged_Sword_Heavy_R_Ore_T01",
-    "DisplayName": "Highlander   ",
+    "DisplayName": "Highlander",
     "SubType": "Sword",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.HuskCleaver",
     "Category": "Melee",
@@ -68525,7 +68525,7 @@
   "Schematic:sid_edged_sword_heavy_r_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Edged_Sword_Heavy_R_Ore_T02",
-    "DisplayName": "Highlander   ",
+    "DisplayName": "Highlander",
     "SubType": "Sword",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.HuskCleaver",
     "Category": "Melee",
@@ -68574,7 +68574,7 @@
   "Schematic:sid_edged_sword_heavy_r_ore_t03": {
     "Type": "Schematic",
     "Name": "SID_Edged_Sword_Heavy_R_Ore_T03",
-    "DisplayName": "Highlander   ",
+    "DisplayName": "Highlander",
     "SubType": "Sword",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.HuskCleaver",
     "AlternateTierUpRecipe": {
@@ -68635,7 +68635,7 @@
   "Schematic:sid_edged_sword_heavy_r_ore_t04": {
     "Type": "Schematic",
     "Name": "SID_Edged_Sword_Heavy_R_Ore_T04",
-    "DisplayName": "Highlander   ",
+    "DisplayName": "Highlander",
     "SubType": "Sword",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.HuskCleaver",
     "Category": "Melee",
@@ -68677,7 +68677,7 @@
   "Schematic:sid_edged_sword_heavy_sr_crystal_t04": {
     "Type": "Schematic",
     "Name": "SID_Edged_Sword_Heavy_SR_Crystal_T04",
-    "DisplayName": "Huskcleaver   ",
+    "DisplayName": "Huskcleaver",
     "SubType": "Sword",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.HuskCleaver",
     "Category": "Melee",
@@ -68720,7 +68720,7 @@
   "Schematic:sid_edged_sword_heavy_sr_crystal_t05": {
     "Type": "Schematic",
     "Name": "SID_Edged_Sword_Heavy_SR_Crystal_T05",
-    "DisplayName": "Huskcleaver   ",
+    "DisplayName": "Huskcleaver",
     "SubType": "Sword",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.HuskCleaver",
     "Category": "Melee",
@@ -68752,7 +68752,7 @@
   "Schematic:sid_edged_sword_heavy_sr_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Edged_Sword_Heavy_SR_Ore_T01",
-    "DisplayName": "Huskcleaver   ",
+    "DisplayName": "Huskcleaver",
     "SubType": "Sword",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.HuskCleaver",
     "Category": "Melee",
@@ -68792,7 +68792,7 @@
   "Schematic:sid_edged_sword_heavy_sr_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Edged_Sword_Heavy_SR_Ore_T02",
-    "DisplayName": "Huskcleaver   ",
+    "DisplayName": "Huskcleaver",
     "SubType": "Sword",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.HuskCleaver",
     "Category": "Melee",
@@ -68833,7 +68833,7 @@
   "Schematic:sid_edged_sword_heavy_sr_ore_t03": {
     "Type": "Schematic",
     "Name": "SID_Edged_Sword_Heavy_SR_Ore_T03",
-    "DisplayName": "Huskcleaver   ",
+    "DisplayName": "Huskcleaver",
     "SubType": "Sword",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.HuskCleaver",
     "AlternateTierUpRecipe": {
@@ -68885,7 +68885,7 @@
   "Schematic:sid_edged_sword_heavy_sr_ore_t04": {
     "Type": "Schematic",
     "Name": "SID_Edged_Sword_Heavy_SR_Ore_T04",
-    "DisplayName": "Huskcleaver   ",
+    "DisplayName": "Huskcleaver",
     "SubType": "Sword",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.HuskCleaver",
     "Category": "Melee",
@@ -68928,7 +68928,7 @@
   "Schematic:sid_edged_sword_heavy_sr_ore_t05": {
     "Type": "Schematic",
     "Name": "SID_Edged_Sword_Heavy_SR_Ore_T05",
-    "DisplayName": "Huskcleaver   ",
+    "DisplayName": "Huskcleaver",
     "SubType": "Sword",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.HuskCleaver",
     "Category": "Melee",
@@ -69443,7 +69443,7 @@
   "Schematic:sid_edged_sword_hydraulic_sr_crystal_t04": {
     "Type": "Schematic",
     "Name": "SID_Edged_Sword_Hydraulic_SR_Crystal_T04",
-    "DisplayName": "Pressure Cutter  ",
+    "DisplayName": "Pressure Cutter",
     "SubType": "Sword",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Hydraulic.Sword",
     "Category": "Melee",
@@ -69487,7 +69487,7 @@
   "Schematic:sid_edged_sword_hydraulic_sr_crystal_t05": {
     "Type": "Schematic",
     "Name": "SID_Edged_Sword_Hydraulic_SR_Crystal_T05",
-    "DisplayName": "Pressure Cutter  ",
+    "DisplayName": "Pressure Cutter",
     "SubType": "Sword",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Hydraulic.Sword",
     "Category": "Melee",
@@ -69520,7 +69520,7 @@
   "Schematic:sid_edged_sword_hydraulic_sr_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Edged_Sword_Hydraulic_SR_Ore_T01",
-    "DisplayName": "Pressure Cutter  ",
+    "DisplayName": "Pressure Cutter",
     "SubType": "Sword",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Hydraulic.Sword",
     "Category": "Melee",
@@ -69561,7 +69561,7 @@
   "Schematic:sid_edged_sword_hydraulic_sr_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Edged_Sword_Hydraulic_SR_Ore_T02",
-    "DisplayName": "Pressure Cutter  ",
+    "DisplayName": "Pressure Cutter",
     "SubType": "Sword",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Hydraulic.Sword",
     "Category": "Melee",
@@ -69603,7 +69603,7 @@
   "Schematic:sid_edged_sword_hydraulic_sr_ore_t03": {
     "Type": "Schematic",
     "Name": "SID_Edged_Sword_Hydraulic_SR_Ore_T03",
-    "DisplayName": "Pressure Cutter  ",
+    "DisplayName": "Pressure Cutter",
     "SubType": "Sword",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Hydraulic.Sword",
     "AlternateTierUpRecipe": {
@@ -69656,7 +69656,7 @@
   "Schematic:sid_edged_sword_hydraulic_sr_ore_t04": {
     "Type": "Schematic",
     "Name": "SID_Edged_Sword_Hydraulic_SR_Ore_T04",
-    "DisplayName": "Pressure Cutter  ",
+    "DisplayName": "Pressure Cutter",
     "SubType": "Sword",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Hydraulic.Sword",
     "Category": "Melee",
@@ -69700,7 +69700,7 @@
   "Schematic:sid_edged_sword_hydraulic_sr_ore_t05": {
     "Type": "Schematic",
     "Name": "SID_Edged_Sword_Hydraulic_SR_Ore_T05",
-    "DisplayName": "Pressure Cutter  ",
+    "DisplayName": "Pressure Cutter",
     "SubType": "Sword",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Hydraulic.Sword",
     "Category": "Melee",
@@ -70088,7 +70088,7 @@
   "Schematic:sid_edged_sword_light_c_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Edged_Sword_Light_C_Ore_T01",
-    "DisplayName": "Shortblade   ",
+    "DisplayName": "Shortblade",
     "SubType": "Sword",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Stabsworth",
     "Category": "Melee",
@@ -70132,7 +70132,7 @@
   "Schematic:sid_edged_sword_light_c_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Edged_Sword_Light_C_Ore_T02",
-    "DisplayName": "Shortblade   ",
+    "DisplayName": "Shortblade",
     "SubType": "Sword",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Stabsworth",
     "Category": "Melee",
@@ -70454,7 +70454,7 @@
   "Schematic:sid_edged_sword_light_r_crystal_t04": {
     "Type": "Schematic",
     "Name": "SID_Edged_Sword_Light_R_Crystal_T04",
-    "DisplayName": "Shortblade Slicer  ",
+    "DisplayName": "Shortblade Slicer",
     "SubType": "Sword",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Stabsworth",
     "Category": "Melee",
@@ -70496,7 +70496,7 @@
   "Schematic:sid_edged_sword_light_r_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Edged_Sword_Light_R_Ore_T01",
-    "DisplayName": "Shortblade Slicer  ",
+    "DisplayName": "Shortblade Slicer",
     "SubType": "Sword",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Stabsworth",
     "Category": "Melee",
@@ -70542,7 +70542,7 @@
   "Schematic:sid_edged_sword_light_r_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Edged_Sword_Light_R_Ore_T02",
-    "DisplayName": "Shortblade Slicer  ",
+    "DisplayName": "Shortblade Slicer",
     "SubType": "Sword",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Stabsworth",
     "Category": "Melee",
@@ -70591,7 +70591,7 @@
   "Schematic:sid_edged_sword_light_r_ore_t03": {
     "Type": "Schematic",
     "Name": "SID_Edged_Sword_Light_R_Ore_T03",
-    "DisplayName": "Shortblade Slicer  ",
+    "DisplayName": "Shortblade Slicer",
     "SubType": "Sword",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Stabsworth",
     "AlternateTierUpRecipe": {
@@ -70652,7 +70652,7 @@
   "Schematic:sid_edged_sword_light_r_ore_t04": {
     "Type": "Schematic",
     "Name": "SID_Edged_Sword_Light_R_Ore_T04",
-    "DisplayName": "Shortblade Slicer  ",
+    "DisplayName": "Shortblade Slicer",
     "SubType": "Sword",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Stabsworth",
     "Category": "Melee",
@@ -70694,7 +70694,7 @@
   "Schematic:sid_edged_sword_light_sr_crystal_t04": {
     "Type": "Schematic",
     "Name": "SID_Edged_Sword_Light_SR_Crystal_T04",
-    "DisplayName": "Stabsworth the III ",
+    "DisplayName": "Stabsworth the III",
     "SubType": "Sword",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Stabsworth",
     "Category": "Melee",
@@ -70737,7 +70737,7 @@
   "Schematic:sid_edged_sword_light_sr_crystal_t05": {
     "Type": "Schematic",
     "Name": "SID_Edged_Sword_Light_SR_Crystal_T05",
-    "DisplayName": "Stabsworth the III ",
+    "DisplayName": "Stabsworth the III",
     "SubType": "Sword",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Stabsworth",
     "Category": "Melee",
@@ -70769,7 +70769,7 @@
   "Schematic:sid_edged_sword_light_sr_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Edged_Sword_Light_SR_Ore_T01",
-    "DisplayName": "Stabsworth the III ",
+    "DisplayName": "Stabsworth the III",
     "SubType": "Sword",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Stabsworth",
     "Category": "Melee",
@@ -70809,7 +70809,7 @@
   "Schematic:sid_edged_sword_light_sr_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Edged_Sword_Light_SR_Ore_T02",
-    "DisplayName": "Stabsworth the III ",
+    "DisplayName": "Stabsworth the III",
     "SubType": "Sword",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Stabsworth",
     "Category": "Melee",
@@ -70850,7 +70850,7 @@
   "Schematic:sid_edged_sword_light_sr_ore_t03": {
     "Type": "Schematic",
     "Name": "SID_Edged_Sword_Light_SR_Ore_T03",
-    "DisplayName": "Stabsworth the III ",
+    "DisplayName": "Stabsworth the III",
     "SubType": "Sword",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Stabsworth",
     "AlternateTierUpRecipe": {
@@ -70902,7 +70902,7 @@
   "Schematic:sid_edged_sword_light_sr_ore_t04": {
     "Type": "Schematic",
     "Name": "SID_Edged_Sword_Light_SR_Ore_T04",
-    "DisplayName": "Stabsworth the III ",
+    "DisplayName": "Stabsworth the III",
     "SubType": "Sword",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Stabsworth",
     "Category": "Melee",
@@ -70945,7 +70945,7 @@
   "Schematic:sid_edged_sword_light_sr_ore_t05": {
     "Type": "Schematic",
     "Name": "SID_Edged_Sword_Light_SR_Ore_T05",
-    "DisplayName": "Stabsworth the III ",
+    "DisplayName": "Stabsworth the III",
     "SubType": "Sword",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Stabsworth",
     "Category": "Melee",
@@ -71743,7 +71743,7 @@
   "Schematic:sid_edged_sword_medium_c_ore_t00": {
     "Type": "Schematic",
     "Name": "SID_Edged_Sword_Medium_C_Ore_T00",
-    "DisplayName": "Ruler Sword  ",
+    "DisplayName": "Ruler Sword",
     "SubType": "Sword",
     "Category": "Melee",
     "CraftingCost": {
@@ -71767,7 +71767,7 @@
   "Schematic:sid_edged_sword_medium_c_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Edged_Sword_Medium_C_Ore_T01",
-    "DisplayName": "Ruler Sword  ",
+    "DisplayName": "Ruler Sword",
     "SubType": "Sword",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.SliceNDice",
     "Category": "Melee",
@@ -71811,7 +71811,7 @@
   "Schematic:sid_edged_sword_medium_c_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Edged_Sword_Medium_C_Ore_T02",
-    "DisplayName": "Ruler Sword  ",
+    "DisplayName": "Ruler Sword",
     "SubType": "Sword",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.SliceNDice",
     "Category": "Melee",
@@ -72532,7 +72532,7 @@
   "Schematic:sid_edged_sword_medium_laser_sr_crystal_t04": {
     "Type": "Schematic",
     "Name": "SID_Edged_Sword_Medium_Laser_SR_Crystal_T04",
-    "DisplayName": "Stormblade   ",
+    "DisplayName": "Stormblade",
     "SubType": "Sword",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Stormblade",
     "AlterationNamedExclusions": [
@@ -72582,7 +72582,7 @@
   "Schematic:sid_edged_sword_medium_laser_sr_crystal_t05": {
     "Type": "Schematic",
     "Name": "SID_Edged_Sword_Medium_Laser_SR_Crystal_T05",
-    "DisplayName": "Stormblade   ",
+    "DisplayName": "Stormblade",
     "SubType": "Sword",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Stormblade",
     "AlterationNamedExclusions": [
@@ -72621,7 +72621,7 @@
   "Schematic:sid_edged_sword_medium_laser_sr_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Edged_Sword_Medium_Laser_SR_Ore_T01",
-    "DisplayName": "Stormblade   ",
+    "DisplayName": "Stormblade",
     "SubType": "Sword",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Stormblade",
     "AlterationNamedExclusions": [
@@ -72668,7 +72668,7 @@
   "Schematic:sid_edged_sword_medium_laser_sr_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Edged_Sword_Medium_Laser_SR_Ore_T02",
-    "DisplayName": "Stormblade   ",
+    "DisplayName": "Stormblade",
     "SubType": "Sword",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Stormblade",
     "AlterationNamedExclusions": [
@@ -72716,7 +72716,7 @@
   "Schematic:sid_edged_sword_medium_laser_sr_ore_t03": {
     "Type": "Schematic",
     "Name": "SID_Edged_Sword_Medium_Laser_SR_Ore_T03",
-    "DisplayName": "Stormblade   ",
+    "DisplayName": "Stormblade",
     "SubType": "Sword",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Stormblade",
     "AlterationNamedExclusions": [
@@ -72775,7 +72775,7 @@
   "Schematic:sid_edged_sword_medium_laser_sr_ore_t04": {
     "Type": "Schematic",
     "Name": "SID_Edged_Sword_Medium_Laser_SR_Ore_T04",
-    "DisplayName": "Stormblade   ",
+    "DisplayName": "Stormblade",
     "SubType": "Sword",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Stormblade",
     "AlterationNamedExclusions": [
@@ -72825,7 +72825,7 @@
   "Schematic:sid_edged_sword_medium_laser_sr_ore_t05": {
     "Type": "Schematic",
     "Name": "SID_Edged_Sword_Medium_Laser_SR_Ore_T05",
-    "DisplayName": "Stormblade   ",
+    "DisplayName": "Stormblade",
     "SubType": "Sword",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Stormblade",
     "AlterationNamedExclusions": [
@@ -73261,7 +73261,7 @@
   "Schematic:sid_edged_sword_medium_r_crystal_t04": {
     "Type": "Schematic",
     "Name": "SID_Edged_Sword_Medium_R_Crystal_T04",
-    "DisplayName": "Shadow Blade  ",
+    "DisplayName": "Shadow Blade",
     "SubType": "Sword",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.SliceNDice",
     "Category": "Melee",
@@ -73303,7 +73303,7 @@
   "Schematic:sid_edged_sword_medium_r_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Edged_Sword_Medium_R_Ore_T01",
-    "DisplayName": "Shadow Blade  ",
+    "DisplayName": "Shadow Blade",
     "SubType": "Sword",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.SliceNDice",
     "Category": "Melee",
@@ -73349,7 +73349,7 @@
   "Schematic:sid_edged_sword_medium_r_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Edged_Sword_Medium_R_Ore_T02",
-    "DisplayName": "Shadow Blade  ",
+    "DisplayName": "Shadow Blade",
     "SubType": "Sword",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.SliceNDice",
     "Category": "Melee",
@@ -73398,7 +73398,7 @@
   "Schematic:sid_edged_sword_medium_r_ore_t03": {
     "Type": "Schematic",
     "Name": "SID_Edged_Sword_Medium_R_Ore_T03",
-    "DisplayName": "Shadow Blade  ",
+    "DisplayName": "Shadow Blade",
     "SubType": "Sword",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.SliceNDice",
     "AlternateTierUpRecipe": {
@@ -73459,7 +73459,7 @@
   "Schematic:sid_edged_sword_medium_r_ore_t04": {
     "Type": "Schematic",
     "Name": "SID_Edged_Sword_Medium_R_Ore_T04",
-    "DisplayName": "Shadow Blade  ",
+    "DisplayName": "Shadow Blade",
     "SubType": "Sword",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.SliceNDice",
     "Category": "Melee",
@@ -73501,7 +73501,7 @@
   "Schematic:sid_edged_sword_medium_sr_crystal_t04": {
     "Type": "Schematic",
     "Name": "SID_Edged_Sword_Medium_SR_Crystal_T04",
-    "DisplayName": "Slice n\u0027 Dice ",
+    "DisplayName": "Slice n\u0027 Dice",
     "SubType": "Sword",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.SliceNDice",
     "Category": "Melee",
@@ -73544,7 +73544,7 @@
   "Schematic:sid_edged_sword_medium_sr_crystal_t05": {
     "Type": "Schematic",
     "Name": "SID_Edged_Sword_Medium_SR_Crystal_T05",
-    "DisplayName": "Slice n\u0027 Dice ",
+    "DisplayName": "Slice n\u0027 Dice",
     "SubType": "Sword",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.SliceNDice",
     "Category": "Melee",
@@ -73576,7 +73576,7 @@
   "Schematic:sid_edged_sword_medium_sr_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Edged_Sword_Medium_SR_Ore_T01",
-    "DisplayName": "Slice n\u0027 Dice ",
+    "DisplayName": "Slice n\u0027 Dice",
     "SubType": "Sword",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.SliceNDice",
     "Category": "Melee",
@@ -73616,7 +73616,7 @@
   "Schematic:sid_edged_sword_medium_sr_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Edged_Sword_Medium_SR_Ore_T02",
-    "DisplayName": "Slice n\u0027 Dice ",
+    "DisplayName": "Slice n\u0027 Dice",
     "SubType": "Sword",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.SliceNDice",
     "Category": "Melee",
@@ -73657,7 +73657,7 @@
   "Schematic:sid_edged_sword_medium_sr_ore_t03": {
     "Type": "Schematic",
     "Name": "SID_Edged_Sword_Medium_SR_Ore_T03",
-    "DisplayName": "Slice n\u0027 Dice ",
+    "DisplayName": "Slice n\u0027 Dice",
     "SubType": "Sword",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.SliceNDice",
     "AlternateTierUpRecipe": {
@@ -73709,7 +73709,7 @@
   "Schematic:sid_edged_sword_medium_sr_ore_t04": {
     "Type": "Schematic",
     "Name": "SID_Edged_Sword_Medium_SR_Ore_T04",
-    "DisplayName": "Slice n\u0027 Dice ",
+    "DisplayName": "Slice n\u0027 Dice",
     "SubType": "Sword",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.SliceNDice",
     "Category": "Melee",
@@ -73752,7 +73752,7 @@
   "Schematic:sid_edged_sword_medium_sr_ore_t05": {
     "Type": "Schematic",
     "Name": "SID_Edged_Sword_Medium_SR_Ore_T05",
-    "DisplayName": "Slice n\u0027 Dice ",
+    "DisplayName": "Slice n\u0027 Dice",
     "SubType": "Sword",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.SliceNDice",
     "Category": "Melee",
@@ -88175,7 +88175,7 @@
   "Schematic:sid_launcher_grenade_sr_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Launcher_Grenade_SR_Ore_T01",
-    "DisplayName": "Thumper  ",
+    "DisplayName": "Thumper",
     "SubType": "Explosive",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Thumper",
     "AlterationNamedExclusions": [
@@ -88219,7 +88219,7 @@
   "Schematic:sid_launcher_grenade_sr_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Launcher_Grenade_SR_Ore_T02",
-    "DisplayName": "Thumper  ",
+    "DisplayName": "Thumper",
     "SubType": "Explosive",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Thumper",
     "AlterationNamedExclusions": [
@@ -88264,7 +88264,7 @@
   "Schematic:sid_launcher_grenade_sr_ore_t03": {
     "Type": "Schematic",
     "Name": "SID_Launcher_Grenade_SR_Ore_T03",
-    "DisplayName": "Thumper  ",
+    "DisplayName": "Thumper",
     "SubType": "Explosive",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Thumper",
     "AlterationNamedExclusions": [
@@ -88310,7 +88310,7 @@
   "Schematic:sid_launcher_grenade_sr_ore_t04": {
     "Type": "Schematic",
     "Name": "SID_Launcher_Grenade_SR_Ore_T04",
-    "DisplayName": "Thumper  ",
+    "DisplayName": "Thumper",
     "SubType": "Explosive",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Thumper",
     "AlterationNamedExclusions": [
@@ -88357,7 +88357,7 @@
   "Schematic:sid_launcher_grenade_sr_ore_t05": {
     "Type": "Schematic",
     "Name": "SID_Launcher_Grenade_SR_Ore_T05",
-    "DisplayName": "Thumper  ",
+    "DisplayName": "Thumper",
     "SubType": "Explosive",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Thumper",
     "AlterationNamedExclusions": [
@@ -88868,7 +88868,7 @@
   "Schematic:sid_launcher_hydraulic_sr_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Launcher_Hydraulic_SR_Ore_T01",
-    "DisplayName": "Dam Buster  ",
+    "DisplayName": "Dam Buster",
     "SubType": "Explosive",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Hydraulic.Launcher",
     "AlterationNamedExclusions": [
@@ -88913,7 +88913,7 @@
   "Schematic:sid_launcher_hydraulic_sr_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Launcher_Hydraulic_SR_Ore_T02",
-    "DisplayName": "Dam Buster  ",
+    "DisplayName": "Dam Buster",
     "SubType": "Explosive",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Hydraulic.Launcher",
     "AlterationNamedExclusions": [
@@ -88959,7 +88959,7 @@
   "Schematic:sid_launcher_hydraulic_sr_ore_t03": {
     "Type": "Schematic",
     "Name": "SID_Launcher_Hydraulic_SR_Ore_T03",
-    "DisplayName": "Dam Buster  ",
+    "DisplayName": "Dam Buster",
     "SubType": "Explosive",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Hydraulic.Launcher",
     "AlterationNamedExclusions": [
@@ -89006,7 +89006,7 @@
   "Schematic:sid_launcher_hydraulic_sr_ore_t04": {
     "Type": "Schematic",
     "Name": "SID_Launcher_Hydraulic_SR_Ore_T04",
-    "DisplayName": "Dam Buster  ",
+    "DisplayName": "Dam Buster",
     "SubType": "Explosive",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Hydraulic.Launcher",
     "AlterationNamedExclusions": [
@@ -89054,7 +89054,7 @@
   "Schematic:sid_launcher_hydraulic_sr_ore_t05": {
     "Type": "Schematic",
     "Name": "SID_Launcher_Hydraulic_SR_Ore_T05",
-    "DisplayName": "Dam Buster  ",
+    "DisplayName": "Dam Buster",
     "SubType": "Explosive",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Hydraulic.Launcher",
     "AlterationNamedExclusions": [
@@ -89358,7 +89358,7 @@
   "Schematic:sid_launcher_pumpkin_rpg_sr_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Launcher_Pumpkin_RPG_SR_Ore_T01",
-    "DisplayName": "Jack-O-Launcher   ",
+    "DisplayName": "Jack-O-Launcher",
     "SubType": "Explosive",
     "AlterationLoadoutRow": "SlotLoadout.Event.Halloween.Explicit.Launcher",
     "AlterationNamedExclusions": [
@@ -89403,7 +89403,7 @@
   "Schematic:sid_launcher_pumpkin_rpg_sr_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Launcher_Pumpkin_RPG_SR_Ore_T02",
-    "DisplayName": "Jack-O-Launcher   ",
+    "DisplayName": "Jack-O-Launcher",
     "SubType": "Explosive",
     "AlterationLoadoutRow": "SlotLoadout.Event.Halloween.Explicit.Launcher",
     "AlterationNamedExclusions": [
@@ -89449,7 +89449,7 @@
   "Schematic:sid_launcher_pumpkin_rpg_sr_ore_t03": {
     "Type": "Schematic",
     "Name": "SID_Launcher_Pumpkin_RPG_SR_Ore_T03",
-    "DisplayName": "Jack-O-Launcher   ",
+    "DisplayName": "Jack-O-Launcher",
     "SubType": "Explosive",
     "AlterationLoadoutRow": "SlotLoadout.Event.Halloween.Explicit.Launcher",
     "AlterationNamedExclusions": [
@@ -89496,7 +89496,7 @@
   "Schematic:sid_launcher_pumpkin_rpg_sr_ore_t04": {
     "Type": "Schematic",
     "Name": "SID_Launcher_Pumpkin_RPG_SR_Ore_T04",
-    "DisplayName": "Jack-O-Launcher   ",
+    "DisplayName": "Jack-O-Launcher",
     "SubType": "Explosive",
     "AlterationLoadoutRow": "SlotLoadout.Event.Halloween.Explicit.Launcher",
     "AlterationNamedExclusions": [
@@ -89544,7 +89544,7 @@
   "Schematic:sid_launcher_pumpkin_rpg_sr_ore_t05": {
     "Type": "Schematic",
     "Name": "SID_Launcher_Pumpkin_RPG_SR_Ore_T05",
-    "DisplayName": "Jack-O-Launcher   ",
+    "DisplayName": "Jack-O-Launcher",
     "SubType": "Explosive",
     "AlterationLoadoutRow": "SlotLoadout.Event.Halloween.Explicit.Launcher",
     "AlterationNamedExclusions": [
@@ -90279,7 +90279,7 @@
   "Schematic:sid_launcher_rocket_sr_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Launcher_Rocket_SR_Ore_T01",
-    "DisplayName": "Bazooka   ",
+    "DisplayName": "Bazooka",
     "SubType": "Explosive",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Bazooka",
     "AlterationNamedExclusions": [
@@ -90324,7 +90324,7 @@
   "Schematic:sid_launcher_rocket_sr_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Launcher_Rocket_SR_Ore_T02",
-    "DisplayName": "Bazooka   ",
+    "DisplayName": "Bazooka",
     "SubType": "Explosive",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Bazooka",
     "AlterationNamedExclusions": [
@@ -90370,7 +90370,7 @@
   "Schematic:sid_launcher_rocket_sr_ore_t03": {
     "Type": "Schematic",
     "Name": "SID_Launcher_Rocket_SR_Ore_T03",
-    "DisplayName": "Bazooka   ",
+    "DisplayName": "Bazooka",
     "SubType": "Explosive",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Bazooka",
     "AlterationNamedExclusions": [
@@ -90417,7 +90417,7 @@
   "Schematic:sid_launcher_rocket_sr_ore_t04": {
     "Type": "Schematic",
     "Name": "SID_Launcher_Rocket_SR_Ore_T04",
-    "DisplayName": "Bazooka   ",
+    "DisplayName": "Bazooka",
     "SubType": "Explosive",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Bazooka",
     "AlterationNamedExclusions": [
@@ -90465,7 +90465,7 @@
   "Schematic:sid_launcher_rocket_sr_ore_t05": {
     "Type": "Schematic",
     "Name": "SID_Launcher_Rocket_SR_Ore_T05",
-    "DisplayName": "Bazooka   ",
+    "DisplayName": "Bazooka",
     "SubType": "Explosive",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Bazooka",
     "AlterationNamedExclusions": [
@@ -93969,7 +93969,7 @@
   "Schematic:sid_piercing_spear_c_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Piercing_Spear_C_Ore_T01",
-    "DisplayName": "Simple Pitchfork  ",
+    "DisplayName": "Simple Pitchfork",
     "SubType": "Spear",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.MightyPitchfork",
     "Category": "Melee",
@@ -94013,7 +94013,7 @@
   "Schematic:sid_piercing_spear_c_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Piercing_Spear_C_Ore_T02",
-    "DisplayName": "Simple Pitchfork  ",
+    "DisplayName": "Simple Pitchfork",
     "SubType": "Spear",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.MightyPitchfork",
     "Category": "Melee",
@@ -95328,7 +95328,7 @@
   "Schematic:sid_piercing_spear_laser_sr_crystal_t04": {
     "Type": "Schematic",
     "Name": "SID_Piercing_Spear_Laser_SR_Crystal_T04",
-    "DisplayName": "Farmer\u0027s Glory  ",
+    "DisplayName": "Farmer\u0027s Glory",
     "SubType": "Spear",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.FarmersGlory",
     "AlterationNamedExclusions": [
@@ -95378,7 +95378,7 @@
   "Schematic:sid_piercing_spear_laser_sr_crystal_t05": {
     "Type": "Schematic",
     "Name": "SID_Piercing_Spear_Laser_SR_Crystal_T05",
-    "DisplayName": "Farmer\u0027s Glory  ",
+    "DisplayName": "Farmer\u0027s Glory",
     "SubType": "Spear",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.FarmersGlory",
     "AlterationNamedExclusions": [
@@ -95417,7 +95417,7 @@
   "Schematic:sid_piercing_spear_laser_sr_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Piercing_Spear_Laser_SR_Ore_T01",
-    "DisplayName": "Farmer\u0027s Glory  ",
+    "DisplayName": "Farmer\u0027s Glory",
     "SubType": "Spear",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.FarmersGlory",
     "AlterationNamedExclusions": [
@@ -95464,7 +95464,7 @@
   "Schematic:sid_piercing_spear_laser_sr_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Piercing_Spear_Laser_SR_Ore_T02",
-    "DisplayName": "Farmer\u0027s Glory  ",
+    "DisplayName": "Farmer\u0027s Glory",
     "SubType": "Spear",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.FarmersGlory",
     "AlterationNamedExclusions": [
@@ -95512,7 +95512,7 @@
   "Schematic:sid_piercing_spear_laser_sr_ore_t03": {
     "Type": "Schematic",
     "Name": "SID_Piercing_Spear_Laser_SR_Ore_T03",
-    "DisplayName": "Farmer\u0027s Glory  ",
+    "DisplayName": "Farmer\u0027s Glory",
     "SubType": "Spear",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.FarmersGlory",
     "AlterationNamedExclusions": [
@@ -95571,7 +95571,7 @@
   "Schematic:sid_piercing_spear_laser_sr_ore_t04": {
     "Type": "Schematic",
     "Name": "SID_Piercing_Spear_Laser_SR_Ore_T04",
-    "DisplayName": "Farmer\u0027s Glory  ",
+    "DisplayName": "Farmer\u0027s Glory",
     "SubType": "Spear",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.FarmersGlory",
     "AlterationNamedExclusions": [
@@ -95621,7 +95621,7 @@
   "Schematic:sid_piercing_spear_laser_sr_ore_t05": {
     "Type": "Schematic",
     "Name": "SID_Piercing_Spear_Laser_SR_Ore_T05",
-    "DisplayName": "Farmer\u0027s Glory  ",
+    "DisplayName": "Farmer\u0027s Glory",
     "SubType": "Spear",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.FarmersGlory",
     "AlterationNamedExclusions": [
@@ -97211,7 +97211,7 @@
   "Schematic:sid_piercing_spear_r_crystal_t04": {
     "Type": "Schematic",
     "Name": "SID_Piercing_Spear_R_Crystal_T04",
-    "DisplayName": "Mighty Pitchfork  ",
+    "DisplayName": "Mighty Pitchfork",
     "SubType": "Spear",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.MightyPitchfork",
     "Category": "Melee",
@@ -97243,7 +97243,7 @@
   "Schematic:sid_piercing_spear_r_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Piercing_Spear_R_Ore_T01",
-    "DisplayName": "Mighty Pitchfork  ",
+    "DisplayName": "Mighty Pitchfork",
     "SubType": "Spear",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.MightyPitchfork",
     "Category": "Melee",
@@ -97283,7 +97283,7 @@
   "Schematic:sid_piercing_spear_r_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Piercing_Spear_R_Ore_T02",
-    "DisplayName": "Mighty Pitchfork  ",
+    "DisplayName": "Mighty Pitchfork",
     "SubType": "Spear",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.MightyPitchfork",
     "Category": "Melee",
@@ -97324,7 +97324,7 @@
   "Schematic:sid_piercing_spear_r_ore_t03": {
     "Type": "Schematic",
     "Name": "SID_Piercing_Spear_R_Ore_T03",
-    "DisplayName": "Mighty Pitchfork  ",
+    "DisplayName": "Mighty Pitchfork",
     "SubType": "Spear",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.MightyPitchfork",
     "AlternateTierUpRecipe": {
@@ -97376,7 +97376,7 @@
   "Schematic:sid_piercing_spear_r_ore_t04": {
     "Type": "Schematic",
     "Name": "SID_Piercing_Spear_R_Ore_T04",
-    "DisplayName": "Mighty Pitchfork  ",
+    "DisplayName": "Mighty Pitchfork",
     "SubType": "Spear",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.MightyPitchfork",
     "Category": "Melee",
@@ -98670,7 +98670,7 @@
   "Schematic:sid_piercing_spear_sr_crystal_t04": {
     "Type": "Schematic",
     "Name": "SID_Piercing_Spear_SR_Crystal_T04",
-    "DisplayName": "Whirling Doom  ",
+    "DisplayName": "Whirling Doom",
     "SubType": "Spear",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.WhirlingDoom",
     "Category": "Melee",
@@ -98713,7 +98713,7 @@
   "Schematic:sid_piercing_spear_sr_crystal_t05": {
     "Type": "Schematic",
     "Name": "SID_Piercing_Spear_SR_Crystal_T05",
-    "DisplayName": "Whirling Doom  ",
+    "DisplayName": "Whirling Doom",
     "SubType": "Spear",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.WhirlingDoom",
     "Category": "Melee",
@@ -98745,7 +98745,7 @@
   "Schematic:sid_piercing_spear_sr_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Piercing_Spear_SR_Ore_T01",
-    "DisplayName": "Whirling Doom  ",
+    "DisplayName": "Whirling Doom",
     "SubType": "Spear",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.WhirlingDoom",
     "Category": "Melee",
@@ -98785,7 +98785,7 @@
   "Schematic:sid_piercing_spear_sr_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Piercing_Spear_SR_Ore_T02",
-    "DisplayName": "Whirling Doom  ",
+    "DisplayName": "Whirling Doom",
     "SubType": "Spear",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.WhirlingDoom",
     "Category": "Melee",
@@ -98826,7 +98826,7 @@
   "Schematic:sid_piercing_spear_sr_ore_t03": {
     "Type": "Schematic",
     "Name": "SID_Piercing_Spear_SR_Ore_T03",
-    "DisplayName": "Whirling Doom  ",
+    "DisplayName": "Whirling Doom",
     "SubType": "Spear",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.WhirlingDoom",
     "AlternateTierUpRecipe": {
@@ -98878,7 +98878,7 @@
   "Schematic:sid_piercing_spear_sr_ore_t04": {
     "Type": "Schematic",
     "Name": "SID_Piercing_Spear_SR_Ore_T04",
-    "DisplayName": "Whirling Doom  ",
+    "DisplayName": "Whirling Doom",
     "SubType": "Spear",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.WhirlingDoom",
     "Category": "Melee",
@@ -98921,7 +98921,7 @@
   "Schematic:sid_piercing_spear_sr_ore_t05": {
     "Type": "Schematic",
     "Name": "SID_Piercing_Spear_SR_Ore_T05",
-    "DisplayName": "Whirling Doom  ",
+    "DisplayName": "Whirling Doom",
     "SubType": "Spear",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.WhirlingDoom",
     "Category": "Melee",
@@ -102005,7 +102005,7 @@
   "Schematic:sid_pistol_auto_sr_crystal_t04": {
     "Type": "Schematic",
     "Name": "SID_Pistol_Auto_SR_Crystal_T04",
-    "DisplayName": "Viper   ",
+    "DisplayName": "Viper",
     "SubType": "SMG",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Viper",
     "Category": "Ranged",
@@ -102048,7 +102048,7 @@
   "Schematic:sid_pistol_auto_sr_crystal_t05": {
     "Type": "Schematic",
     "Name": "SID_Pistol_Auto_SR_Crystal_T05",
-    "DisplayName": "Viper   ",
+    "DisplayName": "Viper",
     "SubType": "SMG",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Viper",
     "Category": "Ranged",
@@ -102080,7 +102080,7 @@
   "Schematic:sid_pistol_auto_sr_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Pistol_Auto_SR_Ore_T01",
-    "DisplayName": "Viper   ",
+    "DisplayName": "Viper",
     "SubType": "SMG",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Viper",
     "Category": "Ranged",
@@ -102120,7 +102120,7 @@
   "Schematic:sid_pistol_auto_sr_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Pistol_Auto_SR_Ore_T02",
-    "DisplayName": "Viper   ",
+    "DisplayName": "Viper",
     "SubType": "SMG",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Viper",
     "Category": "Ranged",
@@ -102161,7 +102161,7 @@
   "Schematic:sid_pistol_auto_sr_ore_t03": {
     "Type": "Schematic",
     "Name": "SID_Pistol_Auto_SR_Ore_T03",
-    "DisplayName": "Viper   ",
+    "DisplayName": "Viper",
     "SubType": "SMG",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Viper",
     "AlternateTierUpRecipe": {
@@ -102213,7 +102213,7 @@
   "Schematic:sid_pistol_auto_sr_ore_t04": {
     "Type": "Schematic",
     "Name": "SID_Pistol_Auto_SR_Ore_T04",
-    "DisplayName": "Viper   ",
+    "DisplayName": "Viper",
     "SubType": "SMG",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Viper",
     "Category": "Ranged",
@@ -102256,7 +102256,7 @@
   "Schematic:sid_pistol_auto_sr_ore_t05": {
     "Type": "Schematic",
     "Name": "SID_Pistol_Auto_SR_Ore_T05",
-    "DisplayName": "Viper   ",
+    "DisplayName": "Viper",
     "SubType": "SMG",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Viper",
     "Category": "Ranged",
@@ -104955,7 +104955,7 @@
   "Schematic:sid_pistol_bolt_sr_crystal_t04": {
     "Type": "Schematic",
     "Name": "SID_Pistol_Bolt_SR_Crystal_T04",
-    "DisplayName": "Bolt Bolt  ",
+    "DisplayName": "Bolt Bolt",
     "SubType": "Pistol",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.BoltBolt",
     "Category": "Ranged",
@@ -104998,7 +104998,7 @@
   "Schematic:sid_pistol_bolt_sr_crystal_t05": {
     "Type": "Schematic",
     "Name": "SID_Pistol_Bolt_SR_Crystal_T05",
-    "DisplayName": "Bolt Bolt  ",
+    "DisplayName": "Bolt Bolt",
     "SubType": "Pistol",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.BoltBolt",
     "Category": "Ranged",
@@ -105030,7 +105030,7 @@
   "Schematic:sid_pistol_bolt_sr_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Pistol_Bolt_SR_Ore_T01",
-    "DisplayName": "Bolt Bolt  ",
+    "DisplayName": "Bolt Bolt",
     "SubType": "Pistol",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.BoltBolt",
     "Category": "Ranged",
@@ -105070,7 +105070,7 @@
   "Schematic:sid_pistol_bolt_sr_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Pistol_Bolt_SR_Ore_T02",
-    "DisplayName": "Bolt Bolt  ",
+    "DisplayName": "Bolt Bolt",
     "SubType": "Pistol",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.BoltBolt",
     "Category": "Ranged",
@@ -105111,7 +105111,7 @@
   "Schematic:sid_pistol_bolt_sr_ore_t03": {
     "Type": "Schematic",
     "Name": "SID_Pistol_Bolt_SR_Ore_T03",
-    "DisplayName": "Bolt Bolt  ",
+    "DisplayName": "Bolt Bolt",
     "SubType": "Pistol",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.BoltBolt",
     "AlternateTierUpRecipe": {
@@ -105163,7 +105163,7 @@
   "Schematic:sid_pistol_bolt_sr_ore_t04": {
     "Type": "Schematic",
     "Name": "SID_Pistol_Bolt_SR_Ore_T04",
-    "DisplayName": "Bolt Bolt  ",
+    "DisplayName": "Bolt Bolt",
     "SubType": "Pistol",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.BoltBolt",
     "Category": "Ranged",
@@ -105206,7 +105206,7 @@
   "Schematic:sid_pistol_bolt_sr_ore_t05": {
     "Type": "Schematic",
     "Name": "SID_Pistol_Bolt_SR_Ore_T05",
-    "DisplayName": "Bolt Bolt  ",
+    "DisplayName": "Bolt Bolt",
     "SubType": "Pistol",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.BoltBolt",
     "Category": "Ranged",
@@ -105669,7 +105669,7 @@
   "Schematic:sid_pistol_boltrevolver_r_crystal_t04": {
     "Type": "Schematic",
     "Name": "SID_Pistol_BoltRevolver_R_Crystal_T04",
-    "DisplayName": "Junkyard Pal  ",
+    "DisplayName": "Junkyard Pal",
     "SubType": "Pistol",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.JunkyardPal",
     "Category": "Ranged",
@@ -105701,7 +105701,7 @@
   "Schematic:sid_pistol_boltrevolver_r_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Pistol_BoltRevolver_R_Ore_T01",
-    "DisplayName": "Junkyard Pal  ",
+    "DisplayName": "Junkyard Pal",
     "SubType": "Pistol",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.JunkyardPal",
     "Category": "Ranged",
@@ -105741,7 +105741,7 @@
   "Schematic:sid_pistol_boltrevolver_r_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Pistol_BoltRevolver_R_Ore_T02",
-    "DisplayName": "Junkyard Pal  ",
+    "DisplayName": "Junkyard Pal",
     "SubType": "Pistol",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.JunkyardPal",
     "Category": "Ranged",
@@ -105782,7 +105782,7 @@
   "Schematic:sid_pistol_boltrevolver_r_ore_t03": {
     "Type": "Schematic",
     "Name": "SID_Pistol_BoltRevolver_R_Ore_T03",
-    "DisplayName": "Junkyard Pal  ",
+    "DisplayName": "Junkyard Pal",
     "SubType": "Pistol",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.JunkyardPal",
     "AlternateTierUpRecipe": {
@@ -105834,7 +105834,7 @@
   "Schematic:sid_pistol_boltrevolver_r_ore_t04": {
     "Type": "Schematic",
     "Name": "SID_Pistol_BoltRevolver_R_Ore_T04",
-    "DisplayName": "Junkyard Pal  ",
+    "DisplayName": "Junkyard Pal",
     "SubType": "Pistol",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.JunkyardPal",
     "Category": "Ranged",
@@ -106950,7 +106950,7 @@
   "Schematic:sid_pistol_dragon_sr_crystal_t04": {
     "Type": "Schematic",
     "Name": "SID_Pistol_Dragon_SR_Crystal_T04",
-    "DisplayName": "Dragon\u0027s Breath  ",
+    "DisplayName": "Dragon\u0027s Breath",
     "SubType": "Pistol",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Dragon.Pistol",
     "AlterationNamedExclusions": [
@@ -106996,7 +106996,7 @@
   "Schematic:sid_pistol_dragon_sr_crystal_t05": {
     "Type": "Schematic",
     "Name": "SID_Pistol_Dragon_SR_Crystal_T05",
-    "DisplayName": "Dragon\u0027s Breath  ",
+    "DisplayName": "Dragon\u0027s Breath",
     "SubType": "Pistol",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Dragon.Pistol",
     "AlterationNamedExclusions": [
@@ -107031,7 +107031,7 @@
   "Schematic:sid_pistol_dragon_sr_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Pistol_Dragon_SR_Ore_T01",
-    "DisplayName": "Dragon\u0027s Breath  ",
+    "DisplayName": "Dragon\u0027s Breath",
     "SubType": "Pistol",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Dragon.Pistol",
     "AlterationNamedExclusions": [
@@ -107074,7 +107074,7 @@
   "Schematic:sid_pistol_dragon_sr_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Pistol_Dragon_SR_Ore_T02",
-    "DisplayName": "Dragon\u0027s Breath  ",
+    "DisplayName": "Dragon\u0027s Breath",
     "SubType": "Pistol",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Dragon.Pistol",
     "AlterationNamedExclusions": [
@@ -107118,7 +107118,7 @@
   "Schematic:sid_pistol_dragon_sr_ore_t03": {
     "Type": "Schematic",
     "Name": "SID_Pistol_Dragon_SR_Ore_T03",
-    "DisplayName": "Dragon\u0027s Breath  ",
+    "DisplayName": "Dragon\u0027s Breath",
     "SubType": "Pistol",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Dragon.Pistol",
     "AlterationNamedExclusions": [
@@ -107173,7 +107173,7 @@
   "Schematic:sid_pistol_dragon_sr_ore_t04": {
     "Type": "Schematic",
     "Name": "SID_Pistol_Dragon_SR_Ore_T04",
-    "DisplayName": "Dragon\u0027s Breath  ",
+    "DisplayName": "Dragon\u0027s Breath",
     "SubType": "Pistol",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Dragon.Pistol",
     "AlterationNamedExclusions": [
@@ -107219,7 +107219,7 @@
   "Schematic:sid_pistol_dragon_sr_ore_t05": {
     "Type": "Schematic",
     "Name": "SID_Pistol_Dragon_SR_Ore_T05",
-    "DisplayName": "Dragon\u0027s Breath  ",
+    "DisplayName": "Dragon\u0027s Breath",
     "SubType": "Pistol",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Dragon.Pistol",
     "AlterationNamedExclusions": [
@@ -107883,7 +107883,7 @@
   "Schematic:sid_pistol_firecracker_sr_crystal_t04": {
     "Type": "Schematic",
     "Name": "SID_Pistol_FireCracker_SR_Crystal_T04",
-    "DisplayName": "Freedom\u0027s Herald  ",
+    "DisplayName": "Freedom\u0027s Herald",
     "SubType": "Pistol",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.FreedomsHerald",
     "AlterationNamedExclusions": [
@@ -107930,7 +107930,7 @@
   "Schematic:sid_pistol_firecracker_sr_crystal_t05": {
     "Type": "Schematic",
     "Name": "SID_Pistol_FireCracker_SR_Crystal_T05",
-    "DisplayName": "Freedom\u0027s Herald  ",
+    "DisplayName": "Freedom\u0027s Herald",
     "SubType": "Pistol",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.FreedomsHerald",
     "AlterationNamedExclusions": [
@@ -107966,7 +107966,7 @@
   "Schematic:sid_pistol_firecracker_sr_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Pistol_FireCracker_SR_Ore_T01",
-    "DisplayName": "Freedom\u0027s Herald  ",
+    "DisplayName": "Freedom\u0027s Herald",
     "SubType": "Pistol",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.FreedomsHerald",
     "AlterationNamedExclusions": [
@@ -108010,7 +108010,7 @@
   "Schematic:sid_pistol_firecracker_sr_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Pistol_FireCracker_SR_Ore_T02",
-    "DisplayName": "Freedom\u0027s Herald  ",
+    "DisplayName": "Freedom\u0027s Herald",
     "SubType": "Pistol",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.FreedomsHerald",
     "AlterationNamedExclusions": [
@@ -108055,7 +108055,7 @@
   "Schematic:sid_pistol_firecracker_sr_ore_t03": {
     "Type": "Schematic",
     "Name": "SID_Pistol_FireCracker_SR_Ore_T03",
-    "DisplayName": "Freedom\u0027s Herald  ",
+    "DisplayName": "Freedom\u0027s Herald",
     "SubType": "Pistol",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.FreedomsHerald",
     "AlterationNamedExclusions": [
@@ -108111,7 +108111,7 @@
   "Schematic:sid_pistol_firecracker_sr_ore_t04": {
     "Type": "Schematic",
     "Name": "SID_Pistol_FireCracker_SR_Ore_T04",
-    "DisplayName": "Freedom\u0027s Herald  ",
+    "DisplayName": "Freedom\u0027s Herald",
     "SubType": "Pistol",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.FreedomsHerald",
     "AlterationNamedExclusions": [
@@ -108158,7 +108158,7 @@
   "Schematic:sid_pistol_firecracker_sr_ore_t05": {
     "Type": "Schematic",
     "Name": "SID_Pistol_FireCracker_SR_Ore_T05",
-    "DisplayName": "Freedom\u0027s Herald  ",
+    "DisplayName": "Freedom\u0027s Herald",
     "SubType": "Pistol",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.FreedomsHerald",
     "AlterationNamedExclusions": [
@@ -110760,7 +110760,7 @@
   "Schematic:sid_pistol_gatling_sr_crystal_t04": {
     "Type": "Schematic",
     "Name": "SID_Pistol_Gatling_SR_Crystal_T04",
-    "DisplayName": "Monsoon   ",
+    "DisplayName": "Monsoon",
     "SubType": "SMG",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Monsoon",
     "Category": "Ranged",
@@ -110803,7 +110803,7 @@
   "Schematic:sid_pistol_gatling_sr_crystal_t05": {
     "Type": "Schematic",
     "Name": "SID_Pistol_Gatling_SR_Crystal_T05",
-    "DisplayName": "Monsoon   ",
+    "DisplayName": "Monsoon",
     "SubType": "SMG",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Monsoon",
     "Category": "Ranged",
@@ -110835,7 +110835,7 @@
   "Schematic:sid_pistol_gatling_sr_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Pistol_Gatling_SR_Ore_T01",
-    "DisplayName": "Monsoon   ",
+    "DisplayName": "Monsoon",
     "SubType": "SMG",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Monsoon",
     "Category": "Ranged",
@@ -110875,7 +110875,7 @@
   "Schematic:sid_pistol_gatling_sr_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Pistol_Gatling_SR_Ore_T02",
-    "DisplayName": "Monsoon   ",
+    "DisplayName": "Monsoon",
     "SubType": "SMG",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Monsoon",
     "Category": "Ranged",
@@ -110916,7 +110916,7 @@
   "Schematic:sid_pistol_gatling_sr_ore_t03": {
     "Type": "Schematic",
     "Name": "SID_Pistol_Gatling_SR_Ore_T03",
-    "DisplayName": "Monsoon   ",
+    "DisplayName": "Monsoon",
     "SubType": "SMG",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Monsoon",
     "AlternateTierUpRecipe": {
@@ -110968,7 +110968,7 @@
   "Schematic:sid_pistol_gatling_sr_ore_t04": {
     "Type": "Schematic",
     "Name": "SID_Pistol_Gatling_SR_Ore_T04",
-    "DisplayName": "Monsoon   ",
+    "DisplayName": "Monsoon",
     "SubType": "SMG",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Monsoon",
     "Category": "Ranged",
@@ -111011,7 +111011,7 @@
   "Schematic:sid_pistol_gatling_sr_ore_t05": {
     "Type": "Schematic",
     "Name": "SID_Pistol_Gatling_SR_Ore_T05",
-    "DisplayName": "Monsoon   ",
+    "DisplayName": "Monsoon",
     "SubType": "SMG",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Monsoon",
     "Category": "Ranged",
@@ -112326,7 +112326,7 @@
   "Schematic:sid_pistol_handcannon_founders_vr_crystal_t04": {
     "Type": "Schematic",
     "Name": "SID_Pistol_Handcannon_Founders_VR_Crystal_T04",
-    "DisplayName": "Founder\u0027s Lawbringer   ",
+    "DisplayName": "Founder\u0027s Lawbringer",
     "SubType": "Pistol",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Judge",
     "Category": "Ranged",
@@ -112369,7 +112369,7 @@
   "Schematic:sid_pistol_handcannon_founders_vr_crystal_t05": {
     "Type": "Schematic",
     "Name": "SID_Pistol_Handcannon_Founders_VR_Crystal_T05",
-    "DisplayName": "Founder\u0027s Lawbringer   ",
+    "DisplayName": "Founder\u0027s Lawbringer",
     "SubType": "Pistol",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Judge",
     "Category": "Ranged",
@@ -112401,7 +112401,7 @@
   "Schematic:sid_pistol_handcannon_founders_vr_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Pistol_Handcannon_Founders_VR_Ore_T01",
-    "DisplayName": "Founder\u0027s Lawbringer   ",
+    "DisplayName": "Founder\u0027s Lawbringer",
     "SubType": "Pistol",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Judge",
     "Category": "Ranged",
@@ -112441,7 +112441,7 @@
   "Schematic:sid_pistol_handcannon_founders_vr_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Pistol_Handcannon_Founders_VR_Ore_T02",
-    "DisplayName": "Founder\u0027s Lawbringer   ",
+    "DisplayName": "Founder\u0027s Lawbringer",
     "SubType": "Pistol",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Judge",
     "Category": "Ranged",
@@ -112482,7 +112482,7 @@
   "Schematic:sid_pistol_handcannon_founders_vr_ore_t03": {
     "Type": "Schematic",
     "Name": "SID_Pistol_Handcannon_Founders_VR_Ore_T03",
-    "DisplayName": "Founder\u0027s Lawbringer   ",
+    "DisplayName": "Founder\u0027s Lawbringer",
     "SubType": "Pistol",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Judge",
     "AlternateTierUpRecipe": {
@@ -112534,7 +112534,7 @@
   "Schematic:sid_pistol_handcannon_founders_vr_ore_t04": {
     "Type": "Schematic",
     "Name": "SID_Pistol_Handcannon_Founders_VR_Ore_T04",
-    "DisplayName": "Founder\u0027s Lawbringer   ",
+    "DisplayName": "Founder\u0027s Lawbringer",
     "SubType": "Pistol",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Judge",
     "Category": "Ranged",
@@ -112577,7 +112577,7 @@
   "Schematic:sid_pistol_handcannon_founders_vr_ore_t05": {
     "Type": "Schematic",
     "Name": "SID_Pistol_Handcannon_Founders_VR_Ore_T05",
-    "DisplayName": "Founder\u0027s Lawbringer   ",
+    "DisplayName": "Founder\u0027s Lawbringer",
     "SubType": "Pistol",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Judge",
     "Category": "Ranged",
@@ -114365,7 +114365,7 @@
   "Schematic:sid_pistol_handcannon_sr_crystal_t04": {
     "Type": "Schematic",
     "Name": "SID_Pistol_Handcannon_SR_Crystal_T04",
-    "DisplayName": "Judge   ",
+    "DisplayName": "Judge",
     "SubType": "Pistol",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Judge",
     "Category": "Ranged",
@@ -114408,7 +114408,7 @@
   "Schematic:sid_pistol_handcannon_sr_crystal_t05": {
     "Type": "Schematic",
     "Name": "SID_Pistol_Handcannon_SR_Crystal_T05",
-    "DisplayName": "Judge   ",
+    "DisplayName": "Judge",
     "SubType": "Pistol",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Judge",
     "Category": "Ranged",
@@ -114440,7 +114440,7 @@
   "Schematic:sid_pistol_handcannon_sr_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Pistol_Handcannon_SR_Ore_T01",
-    "DisplayName": "Judge   ",
+    "DisplayName": "Judge",
     "SubType": "Pistol",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Judge",
     "Category": "Ranged",
@@ -114480,7 +114480,7 @@
   "Schematic:sid_pistol_handcannon_sr_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Pistol_Handcannon_SR_Ore_T02",
-    "DisplayName": "Judge   ",
+    "DisplayName": "Judge",
     "SubType": "Pistol",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Judge",
     "Category": "Ranged",
@@ -114521,7 +114521,7 @@
   "Schematic:sid_pistol_handcannon_sr_ore_t03": {
     "Type": "Schematic",
     "Name": "SID_Pistol_Handcannon_SR_Ore_T03",
-    "DisplayName": "Judge   ",
+    "DisplayName": "Judge",
     "SubType": "Pistol",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Judge",
     "AlternateTierUpRecipe": {
@@ -114573,7 +114573,7 @@
   "Schematic:sid_pistol_handcannon_sr_ore_t04": {
     "Type": "Schematic",
     "Name": "SID_Pistol_Handcannon_SR_Ore_T04",
-    "DisplayName": "Judge   ",
+    "DisplayName": "Judge",
     "SubType": "Pistol",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Judge",
     "Category": "Ranged",
@@ -114616,7 +114616,7 @@
   "Schematic:sid_pistol_handcannon_sr_ore_t05": {
     "Type": "Schematic",
     "Name": "SID_Pistol_Handcannon_SR_Ore_T05",
-    "DisplayName": "Judge   ",
+    "DisplayName": "Judge",
     "SubType": "Pistol",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Judge",
     "Category": "Ranged",
@@ -115286,7 +115286,7 @@
   "Schematic:sid_pistol_hydraulic_sr_crystal_t04": {
     "Type": "Schematic",
     "Name": "SID_Pistol_Hydraulic_SR_Crystal_T04",
-    "DisplayName": "Piston Spitter  ",
+    "DisplayName": "Piston Spitter",
     "SubType": "Pistol",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Hydraulic.Pistol",
     "Category": "Ranged",
@@ -115329,7 +115329,7 @@
   "Schematic:sid_pistol_hydraulic_sr_crystal_t05": {
     "Type": "Schematic",
     "Name": "SID_Pistol_Hydraulic_SR_Crystal_T05",
-    "DisplayName": "Piston Spitter  ",
+    "DisplayName": "Piston Spitter",
     "SubType": "Pistol",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Hydraulic.Pistol",
     "Category": "Ranged",
@@ -115361,7 +115361,7 @@
   "Schematic:sid_pistol_hydraulic_sr_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Pistol_Hydraulic_SR_Ore_T01",
-    "DisplayName": "Piston Spitter  ",
+    "DisplayName": "Piston Spitter",
     "SubType": "Pistol",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Hydraulic.Pistol",
     "Category": "Ranged",
@@ -115401,7 +115401,7 @@
   "Schematic:sid_pistol_hydraulic_sr_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Pistol_Hydraulic_SR_Ore_T02",
-    "DisplayName": "Piston Spitter  ",
+    "DisplayName": "Piston Spitter",
     "SubType": "Pistol",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Hydraulic.Pistol",
     "Category": "Ranged",
@@ -115442,7 +115442,7 @@
   "Schematic:sid_pistol_hydraulic_sr_ore_t03": {
     "Type": "Schematic",
     "Name": "SID_Pistol_Hydraulic_SR_Ore_T03",
-    "DisplayName": "Piston Spitter  ",
+    "DisplayName": "Piston Spitter",
     "SubType": "Pistol",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Hydraulic.Pistol",
     "AlternateTierUpRecipe": {
@@ -115494,7 +115494,7 @@
   "Schematic:sid_pistol_hydraulic_sr_ore_t04": {
     "Type": "Schematic",
     "Name": "SID_Pistol_Hydraulic_SR_Ore_T04",
-    "DisplayName": "Piston Spitter  ",
+    "DisplayName": "Piston Spitter",
     "SubType": "Pistol",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Hydraulic.Pistol",
     "Category": "Ranged",
@@ -115537,7 +115537,7 @@
   "Schematic:sid_pistol_hydraulic_sr_ore_t05": {
     "Type": "Schematic",
     "Name": "SID_Pistol_Hydraulic_SR_Ore_T05",
-    "DisplayName": "Piston Spitter  ",
+    "DisplayName": "Piston Spitter",
     "SubType": "Pistol",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Hydraulic.Pistol",
     "Category": "Ranged",
@@ -118247,7 +118247,7 @@
   "Schematic:sid_pistol_rapid_sr_crystal_t04": {
     "Type": "Schematic",
     "Name": "SID_Pistol_Rapid_SR_Crystal_T04",
-    "DisplayName": "Haywire Storm  ",
+    "DisplayName": "Haywire Storm",
     "SubType": "Pistol",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.HaywireStorm",
     "Category": "Ranged",
@@ -118290,7 +118290,7 @@
   "Schematic:sid_pistol_rapid_sr_crystal_t05": {
     "Type": "Schematic",
     "Name": "SID_Pistol_Rapid_SR_Crystal_T05",
-    "DisplayName": "Haywire Storm  ",
+    "DisplayName": "Haywire Storm",
     "SubType": "Pistol",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.HaywireStorm",
     "Category": "Ranged",
@@ -118322,7 +118322,7 @@
   "Schematic:sid_pistol_rapid_sr_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Pistol_Rapid_SR_Ore_T01",
-    "DisplayName": "Haywire Storm  ",
+    "DisplayName": "Haywire Storm",
     "SubType": "Pistol",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.HaywireStorm",
     "Category": "Ranged",
@@ -118362,7 +118362,7 @@
   "Schematic:sid_pistol_rapid_sr_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Pistol_Rapid_SR_Ore_T02",
-    "DisplayName": "Haywire Storm  ",
+    "DisplayName": "Haywire Storm",
     "SubType": "Pistol",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.HaywireStorm",
     "Category": "Ranged",
@@ -118403,7 +118403,7 @@
   "Schematic:sid_pistol_rapid_sr_ore_t03": {
     "Type": "Schematic",
     "Name": "SID_Pistol_Rapid_SR_Ore_T03",
-    "DisplayName": "Haywire Storm  ",
+    "DisplayName": "Haywire Storm",
     "SubType": "Pistol",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.HaywireStorm",
     "AlternateTierUpRecipe": {
@@ -118455,7 +118455,7 @@
   "Schematic:sid_pistol_rapid_sr_ore_t04": {
     "Type": "Schematic",
     "Name": "SID_Pistol_Rapid_SR_Ore_T04",
-    "DisplayName": "Haywire Storm  ",
+    "DisplayName": "Haywire Storm",
     "SubType": "Pistol",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.HaywireStorm",
     "Category": "Ranged",
@@ -118498,7 +118498,7 @@
   "Schematic:sid_pistol_rapid_sr_ore_t05": {
     "Type": "Schematic",
     "Name": "SID_Pistol_Rapid_SR_Ore_T05",
-    "DisplayName": "Haywire Storm  ",
+    "DisplayName": "Haywire Storm",
     "SubType": "Pistol",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.HaywireStorm",
     "Category": "Ranged",
@@ -121422,7 +121422,7 @@
   "Schematic:sid_pistol_semiauto_r_crystal_t04": {
     "Type": "Schematic",
     "Name": "SID_Pistol_SemiAuto_R_Crystal_T04",
-    "DisplayName": "Vigilante   ",
+    "DisplayName": "Vigilante",
     "SubType": "Pistol",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Jackal",
     "Category": "Ranged",
@@ -121464,7 +121464,7 @@
   "Schematic:sid_pistol_semiauto_r_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Pistol_SemiAuto_R_Ore_T01",
-    "DisplayName": "Vigilante   ",
+    "DisplayName": "Vigilante",
     "SubType": "Pistol",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Jackal",
     "Category": "Ranged",
@@ -121510,7 +121510,7 @@
   "Schematic:sid_pistol_semiauto_r_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Pistol_SemiAuto_R_Ore_T02",
-    "DisplayName": "Vigilante   ",
+    "DisplayName": "Vigilante",
     "SubType": "Pistol",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Jackal",
     "Category": "Ranged",
@@ -121559,7 +121559,7 @@
   "Schematic:sid_pistol_semiauto_r_ore_t03": {
     "Type": "Schematic",
     "Name": "SID_Pistol_SemiAuto_R_Ore_T03",
-    "DisplayName": "Vigilante   ",
+    "DisplayName": "Vigilante",
     "SubType": "Pistol",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Jackal",
     "AlternateTierUpRecipe": {
@@ -121620,7 +121620,7 @@
   "Schematic:sid_pistol_semiauto_r_ore_t04": {
     "Type": "Schematic",
     "Name": "SID_Pistol_SemiAuto_R_Ore_T04",
-    "DisplayName": "Vigilante   ",
+    "DisplayName": "Vigilante",
     "SubType": "Pistol",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Jackal",
     "Category": "Ranged",
@@ -123743,7 +123743,7 @@
   "Schematic:sid_pistol_sixshooter_r_crystal_t04": {
     "Type": "Schematic",
     "Name": "SID_Pistol_SixShooter_R_Crystal_T04",
-    "DisplayName": "Nighthawk   ",
+    "DisplayName": "Nighthawk",
     "SubType": "Pistol",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Nighthawk",
     "Category": "Ranged",
@@ -123775,7 +123775,7 @@
   "Schematic:sid_pistol_sixshooter_r_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Pistol_SixShooter_R_Ore_T01",
-    "DisplayName": "Nighthawk   ",
+    "DisplayName": "Nighthawk",
     "SubType": "Pistol",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Nighthawk",
     "Category": "Ranged",
@@ -123815,7 +123815,7 @@
   "Schematic:sid_pistol_sixshooter_r_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Pistol_SixShooter_R_Ore_T02",
-    "DisplayName": "Nighthawk   ",
+    "DisplayName": "Nighthawk",
     "SubType": "Pistol",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Nighthawk",
     "Category": "Ranged",
@@ -123856,7 +123856,7 @@
   "Schematic:sid_pistol_sixshooter_r_ore_t03": {
     "Type": "Schematic",
     "Name": "SID_Pistol_SixShooter_R_Ore_T03",
-    "DisplayName": "Nighthawk   ",
+    "DisplayName": "Nighthawk",
     "SubType": "Pistol",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Nighthawk",
     "AlternateTierUpRecipe": {
@@ -123908,7 +123908,7 @@
   "Schematic:sid_pistol_sixshooter_r_ore_t04": {
     "Type": "Schematic",
     "Name": "SID_Pistol_SixShooter_R_Ore_T04",
-    "DisplayName": "Nighthawk   ",
+    "DisplayName": "Nighthawk",
     "SubType": "Pistol",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Nighthawk",
     "Category": "Ranged",
@@ -124075,7 +124075,7 @@
   "Schematic:sid_pistol_space_sr_crystal_t04": {
     "Type": "Schematic",
     "Name": "SID_Pistol_Space_SR_Crystal_T04",
-    "DisplayName": "Space Invader  ",
+    "DisplayName": "Space Invader",
     "SubType": "Pistol",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.SpaceInvader",
     "AlterationNamedExclusions": [
@@ -124125,7 +124125,7 @@
   "Schematic:sid_pistol_space_sr_crystal_t05": {
     "Type": "Schematic",
     "Name": "SID_Pistol_Space_SR_Crystal_T05",
-    "DisplayName": "Space Invader  ",
+    "DisplayName": "Space Invader",
     "SubType": "Pistol",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.SpaceInvader",
     "AlterationNamedExclusions": [
@@ -124164,7 +124164,7 @@
   "Schematic:sid_pistol_space_sr_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Pistol_Space_SR_Ore_T01",
-    "DisplayName": "Space Invader  ",
+    "DisplayName": "Space Invader",
     "SubType": "Pistol",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.SpaceInvader",
     "AlterationNamedExclusions": [
@@ -124211,7 +124211,7 @@
   "Schematic:sid_pistol_space_sr_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Pistol_Space_SR_Ore_T02",
-    "DisplayName": "Space Invader  ",
+    "DisplayName": "Space Invader",
     "SubType": "Pistol",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.SpaceInvader",
     "AlterationNamedExclusions": [
@@ -124259,7 +124259,7 @@
   "Schematic:sid_pistol_space_sr_ore_t03": {
     "Type": "Schematic",
     "Name": "SID_Pistol_Space_SR_Ore_T03",
-    "DisplayName": "Space Invader  ",
+    "DisplayName": "Space Invader",
     "SubType": "Pistol",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.SpaceInvader",
     "AlterationNamedExclusions": [
@@ -124318,7 +124318,7 @@
   "Schematic:sid_pistol_space_sr_ore_t04": {
     "Type": "Schematic",
     "Name": "SID_Pistol_Space_SR_Ore_T04",
-    "DisplayName": "Space Invader  ",
+    "DisplayName": "Space Invader",
     "SubType": "Pistol",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.SpaceInvader",
     "AlterationNamedExclusions": [
@@ -124368,7 +124368,7 @@
   "Schematic:sid_pistol_space_sr_ore_t05": {
     "Type": "Schematic",
     "Name": "SID_Pistol_Space_SR_Ore_T05",
-    "DisplayName": "Space Invader  ",
+    "DisplayName": "Space Invader",
     "SubType": "Pistol",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.SpaceInvader",
     "AlterationNamedExclusions": [
@@ -127716,7 +127716,7 @@
   "Schematic:sid_pistol_zapper_sr_crystal_t04": {
     "Type": "Schematic",
     "Name": "SID_Pistol_Zapper_SR_Crystal_T04",
-    "DisplayName": "Zap Zapp  ",
+    "DisplayName": "Zap Zapp",
     "SubType": "Pistol",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Zap.Zapp",
     "AlterationNamedExclusions": [
@@ -127763,7 +127763,7 @@
   "Schematic:sid_pistol_zapper_sr_crystal_t05": {
     "Type": "Schematic",
     "Name": "SID_Pistol_Zapper_SR_Crystal_T05",
-    "DisplayName": "Zap Zapp  ",
+    "DisplayName": "Zap Zapp",
     "SubType": "Pistol",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Zap.Zapp",
     "AlterationNamedExclusions": [
@@ -127799,7 +127799,7 @@
   "Schematic:sid_pistol_zapper_sr_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Pistol_Zapper_SR_Ore_T01",
-    "DisplayName": "Zap Zapp  ",
+    "DisplayName": "Zap Zapp",
     "SubType": "Pistol",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Zap.Zapp",
     "AlterationNamedExclusions": [
@@ -127843,7 +127843,7 @@
   "Schematic:sid_pistol_zapper_sr_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Pistol_Zapper_SR_Ore_T02",
-    "DisplayName": "Zap Zapp  ",
+    "DisplayName": "Zap Zapp",
     "SubType": "Pistol",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Zap.Zapp",
     "AlterationNamedExclusions": [
@@ -127888,7 +127888,7 @@
   "Schematic:sid_pistol_zapper_sr_ore_t03": {
     "Type": "Schematic",
     "Name": "SID_Pistol_Zapper_SR_Ore_T03",
-    "DisplayName": "Zap Zapp  ",
+    "DisplayName": "Zap Zapp",
     "SubType": "Pistol",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Zap.Zapp",
     "AlterationNamedExclusions": [
@@ -127944,7 +127944,7 @@
   "Schematic:sid_pistol_zapper_sr_ore_t04": {
     "Type": "Schematic",
     "Name": "SID_Pistol_Zapper_SR_Ore_T04",
-    "DisplayName": "Zap Zapp  ",
+    "DisplayName": "Zap Zapp",
     "SubType": "Pistol",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Zap.Zapp",
     "AlterationNamedExclusions": [
@@ -127991,7 +127991,7 @@
   "Schematic:sid_pistol_zapper_sr_ore_t05": {
     "Type": "Schematic",
     "Name": "SID_Pistol_Zapper_SR_Ore_T05",
-    "DisplayName": "Zap Zapp  ",
+    "DisplayName": "Zap Zapp",
     "SubType": "Pistol",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Zap.Zapp",
     "AlterationNamedExclusions": [
@@ -130314,7 +130314,7 @@
   "Schematic:sid_shotgun_auto_sr_crystal_t04": {
     "Type": "Schematic",
     "Name": "SID_Shotgun_Auto_SR_Crystal_T04",
-    "DisplayName": "Tigerjaw   ",
+    "DisplayName": "Tigerjaw",
     "SubType": "Shotgun",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Tigerjaw",
     "Category": "Ranged",
@@ -130357,7 +130357,7 @@
   "Schematic:sid_shotgun_auto_sr_crystal_t05": {
     "Type": "Schematic",
     "Name": "SID_Shotgun_Auto_SR_Crystal_T05",
-    "DisplayName": "Tigerjaw   ",
+    "DisplayName": "Tigerjaw",
     "SubType": "Shotgun",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Tigerjaw",
     "Category": "Ranged",
@@ -130389,7 +130389,7 @@
   "Schematic:sid_shotgun_auto_sr_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Shotgun_Auto_SR_Ore_T01",
-    "DisplayName": "Tigerjaw   ",
+    "DisplayName": "Tigerjaw",
     "SubType": "Shotgun",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Tigerjaw",
     "Category": "Ranged",
@@ -130429,7 +130429,7 @@
   "Schematic:sid_shotgun_auto_sr_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Shotgun_Auto_SR_Ore_T02",
-    "DisplayName": "Tigerjaw   ",
+    "DisplayName": "Tigerjaw",
     "SubType": "Shotgun",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Tigerjaw",
     "Category": "Ranged",
@@ -130470,7 +130470,7 @@
   "Schematic:sid_shotgun_auto_sr_ore_t03": {
     "Type": "Schematic",
     "Name": "SID_Shotgun_Auto_SR_Ore_T03",
-    "DisplayName": "Tigerjaw   ",
+    "DisplayName": "Tigerjaw",
     "SubType": "Shotgun",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Tigerjaw",
     "AlternateTierUpRecipe": {
@@ -130522,7 +130522,7 @@
   "Schematic:sid_shotgun_auto_sr_ore_t04": {
     "Type": "Schematic",
     "Name": "SID_Shotgun_Auto_SR_Ore_T04",
-    "DisplayName": "Tigerjaw   ",
+    "DisplayName": "Tigerjaw",
     "SubType": "Shotgun",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Tigerjaw",
     "Category": "Ranged",
@@ -130565,7 +130565,7 @@
   "Schematic:sid_shotgun_auto_sr_ore_t05": {
     "Type": "Schematic",
     "Name": "SID_Shotgun_Auto_SR_Ore_T05",
-    "DisplayName": "Tigerjaw   ",
+    "DisplayName": "Tigerjaw",
     "SubType": "Shotgun",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Tigerjaw",
     "Category": "Ranged",
@@ -135086,7 +135086,7 @@
   "Schematic:sid_shotgun_break_r_crystal_t04": {
     "Type": "Schematic",
     "Name": "SID_Shotgun_Break_R_Crystal_T04",
-    "DisplayName": "Double-punch   ",
+    "DisplayName": "Double-punch",
     "SubType": "Shotgun",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Thunderbolt",
     "AlterationNamedExclusions": [
@@ -135132,7 +135132,7 @@
   "Schematic:sid_shotgun_break_r_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Shotgun_Break_R_Ore_T01",
-    "DisplayName": "Double-punch   ",
+    "DisplayName": "Double-punch",
     "SubType": "Shotgun",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Thunderbolt",
     "AlterationNamedExclusions": [
@@ -135182,7 +135182,7 @@
   "Schematic:sid_shotgun_break_r_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Shotgun_Break_R_Ore_T02",
-    "DisplayName": "Double-punch   ",
+    "DisplayName": "Double-punch",
     "SubType": "Shotgun",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Thunderbolt",
     "AlterationNamedExclusions": [
@@ -135235,7 +135235,7 @@
   "Schematic:sid_shotgun_break_r_ore_t03": {
     "Type": "Schematic",
     "Name": "SID_Shotgun_Break_R_Ore_T03",
-    "DisplayName": "Double-punch   ",
+    "DisplayName": "Double-punch",
     "SubType": "Shotgun",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Thunderbolt",
     "AlterationNamedExclusions": [
@@ -135300,7 +135300,7 @@
   "Schematic:sid_shotgun_break_r_ore_t04": {
     "Type": "Schematic",
     "Name": "SID_Shotgun_Break_R_Ore_T04",
-    "DisplayName": "Double-punch   ",
+    "DisplayName": "Double-punch",
     "SubType": "Shotgun",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Thunderbolt",
     "AlterationNamedExclusions": [
@@ -136033,7 +136033,7 @@
   "Schematic:sid_shotgun_break_sr_crystal_t04": {
     "Type": "Schematic",
     "Name": "SID_Shotgun_Break_SR_Crystal_T04",
-    "DisplayName": "Thunderbolt   ",
+    "DisplayName": "Thunderbolt",
     "SubType": "Shotgun",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Thunderbolt",
     "AlterationNamedExclusions": [
@@ -136080,7 +136080,7 @@
   "Schematic:sid_shotgun_break_sr_crystal_t05": {
     "Type": "Schematic",
     "Name": "SID_Shotgun_Break_SR_Crystal_T05",
-    "DisplayName": "Thunderbolt   ",
+    "DisplayName": "Thunderbolt",
     "SubType": "Shotgun",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Thunderbolt",
     "AlterationNamedExclusions": [
@@ -136116,7 +136116,7 @@
   "Schematic:sid_shotgun_break_sr_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Shotgun_Break_SR_Ore_T01",
-    "DisplayName": "Thunderbolt   ",
+    "DisplayName": "Thunderbolt",
     "SubType": "Shotgun",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Thunderbolt",
     "AlterationNamedExclusions": [
@@ -136160,7 +136160,7 @@
   "Schematic:sid_shotgun_break_sr_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Shotgun_Break_SR_Ore_T02",
-    "DisplayName": "Thunderbolt   ",
+    "DisplayName": "Thunderbolt",
     "SubType": "Shotgun",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Thunderbolt",
     "AlterationNamedExclusions": [
@@ -136205,7 +136205,7 @@
   "Schematic:sid_shotgun_break_sr_ore_t03": {
     "Type": "Schematic",
     "Name": "SID_Shotgun_Break_SR_Ore_T03",
-    "DisplayName": "Thunderbolt   ",
+    "DisplayName": "Thunderbolt",
     "SubType": "Shotgun",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Thunderbolt",
     "AlterationNamedExclusions": [
@@ -136261,7 +136261,7 @@
   "Schematic:sid_shotgun_break_sr_ore_t04": {
     "Type": "Schematic",
     "Name": "SID_Shotgun_Break_SR_Ore_T04",
-    "DisplayName": "Thunderbolt   ",
+    "DisplayName": "Thunderbolt",
     "SubType": "Shotgun",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Thunderbolt",
     "AlterationNamedExclusions": [
@@ -136308,7 +136308,7 @@
   "Schematic:sid_shotgun_break_sr_ore_t05": {
     "Type": "Schematic",
     "Name": "SID_Shotgun_Break_SR_Ore_T05",
-    "DisplayName": "Thunderbolt   ",
+    "DisplayName": "Thunderbolt",
     "SubType": "Shotgun",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Thunderbolt",
     "AlterationNamedExclusions": [
@@ -139810,7 +139810,7 @@
   "Schematic:sid_shotgun_heavy_sr_crystal_t04": {
     "Type": "Schematic",
     "Name": "SID_Shotgun_Heavy_SR_Crystal_T04",
-    "DisplayName": "Backbreaker   ",
+    "DisplayName": "Backbreaker",
     "SubType": "Shotgun",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Backbreaker",
     "Category": "Ranged",
@@ -139853,7 +139853,7 @@
   "Schematic:sid_shotgun_heavy_sr_crystal_t05": {
     "Type": "Schematic",
     "Name": "SID_Shotgun_Heavy_SR_Crystal_T05",
-    "DisplayName": "Backbreaker   ",
+    "DisplayName": "Backbreaker",
     "SubType": "Shotgun",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Backbreaker",
     "Category": "Ranged",
@@ -139885,7 +139885,7 @@
   "Schematic:sid_shotgun_heavy_sr_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Shotgun_Heavy_SR_Ore_T01",
-    "DisplayName": "Backbreaker   ",
+    "DisplayName": "Backbreaker",
     "SubType": "Shotgun",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Backbreaker",
     "Category": "Ranged",
@@ -139925,7 +139925,7 @@
   "Schematic:sid_shotgun_heavy_sr_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Shotgun_Heavy_SR_Ore_T02",
-    "DisplayName": "Backbreaker   ",
+    "DisplayName": "Backbreaker",
     "SubType": "Shotgun",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Backbreaker",
     "Category": "Ranged",
@@ -139966,7 +139966,7 @@
   "Schematic:sid_shotgun_heavy_sr_ore_t03": {
     "Type": "Schematic",
     "Name": "SID_Shotgun_Heavy_SR_Ore_T03",
-    "DisplayName": "Backbreaker   ",
+    "DisplayName": "Backbreaker",
     "SubType": "Shotgun",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Backbreaker",
     "AlternateTierUpRecipe": {
@@ -140018,7 +140018,7 @@
   "Schematic:sid_shotgun_heavy_sr_ore_t04": {
     "Type": "Schematic",
     "Name": "SID_Shotgun_Heavy_SR_Ore_T04",
-    "DisplayName": "Backbreaker   ",
+    "DisplayName": "Backbreaker",
     "SubType": "Shotgun",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Backbreaker",
     "Category": "Ranged",
@@ -140061,7 +140061,7 @@
   "Schematic:sid_shotgun_heavy_sr_ore_t05": {
     "Type": "Schematic",
     "Name": "SID_Shotgun_Heavy_SR_Ore_T05",
-    "DisplayName": "Backbreaker   ",
+    "DisplayName": "Backbreaker",
     "SubType": "Shotgun",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Backbreaker",
     "Category": "Ranged",
@@ -140724,7 +140724,7 @@
   "Schematic:sid_shotgun_longarm_sr_crystal_t04": {
     "Type": "Schematic",
     "Name": "SID_Shotgun_Longarm_SR_Crystal_T04",
-    "DisplayName": "Longarm Enforcer  ",
+    "DisplayName": "Longarm Enforcer",
     "SubType": "Shotgun",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.LongarmEnforcer",
     "Category": "Ranged",
@@ -140767,7 +140767,7 @@
   "Schematic:sid_shotgun_longarm_sr_crystal_t05": {
     "Type": "Schematic",
     "Name": "SID_Shotgun_Longarm_SR_Crystal_T05",
-    "DisplayName": "Longarm Enforcer  ",
+    "DisplayName": "Longarm Enforcer",
     "SubType": "Shotgun",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.LongarmEnforcer",
     "Category": "Ranged",
@@ -140799,7 +140799,7 @@
   "Schematic:sid_shotgun_longarm_sr_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Shotgun_Longarm_SR_Ore_T01",
-    "DisplayName": "Longarm Enforcer  ",
+    "DisplayName": "Longarm Enforcer",
     "SubType": "Shotgun",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.LongarmEnforcer",
     "Category": "Ranged",
@@ -140839,7 +140839,7 @@
   "Schematic:sid_shotgun_longarm_sr_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Shotgun_Longarm_SR_Ore_T02",
-    "DisplayName": "Longarm Enforcer  ",
+    "DisplayName": "Longarm Enforcer",
     "SubType": "Shotgun",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.LongarmEnforcer",
     "Category": "Ranged",
@@ -140880,7 +140880,7 @@
   "Schematic:sid_shotgun_longarm_sr_ore_t03": {
     "Type": "Schematic",
     "Name": "SID_Shotgun_Longarm_SR_Ore_T03",
-    "DisplayName": "Longarm Enforcer  ",
+    "DisplayName": "Longarm Enforcer",
     "SubType": "Shotgun",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.LongarmEnforcer",
     "AlternateTierUpRecipe": {
@@ -140932,7 +140932,7 @@
   "Schematic:sid_shotgun_longarm_sr_ore_t04": {
     "Type": "Schematic",
     "Name": "SID_Shotgun_Longarm_SR_Ore_T04",
-    "DisplayName": "Longarm Enforcer  ",
+    "DisplayName": "Longarm Enforcer",
     "SubType": "Shotgun",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.LongarmEnforcer",
     "Category": "Ranged",
@@ -140975,7 +140975,7 @@
   "Schematic:sid_shotgun_longarm_sr_ore_t05": {
     "Type": "Schematic",
     "Name": "SID_Shotgun_Longarm_SR_Ore_T05",
-    "DisplayName": "Longarm Enforcer  ",
+    "DisplayName": "Longarm Enforcer",
     "SubType": "Shotgun",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.LongarmEnforcer",
     "Category": "Ranged",
@@ -142617,7 +142617,7 @@
   "Schematic:sid_shotgun_minigun_sr_crystal_t04": {
     "Type": "Schematic",
     "Name": "SID_Shotgun_Minigun_SR_Crystal_T04",
-    "DisplayName": "Room Sweeper  ",
+    "DisplayName": "Room Sweeper",
     "SubType": "Shotgun",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.RoomSweeper",
     "Category": "Ranged",
@@ -142660,7 +142660,7 @@
   "Schematic:sid_shotgun_minigun_sr_crystal_t05": {
     "Type": "Schematic",
     "Name": "SID_Shotgun_Minigun_SR_Crystal_T05",
-    "DisplayName": "Room Sweeper  ",
+    "DisplayName": "Room Sweeper",
     "SubType": "Shotgun",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.RoomSweeper",
     "Category": "Ranged",
@@ -142692,7 +142692,7 @@
   "Schematic:sid_shotgun_minigun_sr_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Shotgun_Minigun_SR_Ore_T01",
-    "DisplayName": "Room Sweeper  ",
+    "DisplayName": "Room Sweeper",
     "SubType": "Shotgun",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.RoomSweeper",
     "Category": "Ranged",
@@ -142732,7 +142732,7 @@
   "Schematic:sid_shotgun_minigun_sr_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Shotgun_Minigun_SR_Ore_T02",
-    "DisplayName": "Room Sweeper  ",
+    "DisplayName": "Room Sweeper",
     "SubType": "Shotgun",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.RoomSweeper",
     "Category": "Ranged",
@@ -142773,7 +142773,7 @@
   "Schematic:sid_shotgun_minigun_sr_ore_t03": {
     "Type": "Schematic",
     "Name": "SID_Shotgun_Minigun_SR_Ore_T03",
-    "DisplayName": "Room Sweeper  ",
+    "DisplayName": "Room Sweeper",
     "SubType": "Shotgun",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.RoomSweeper",
     "AlternateTierUpRecipe": {
@@ -142825,7 +142825,7 @@
   "Schematic:sid_shotgun_minigun_sr_ore_t04": {
     "Type": "Schematic",
     "Name": "SID_Shotgun_Minigun_SR_Ore_T04",
-    "DisplayName": "Room Sweeper  ",
+    "DisplayName": "Room Sweeper",
     "SubType": "Shotgun",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.RoomSweeper",
     "Category": "Ranged",
@@ -142868,7 +142868,7 @@
   "Schematic:sid_shotgun_minigun_sr_ore_t05": {
     "Type": "Schematic",
     "Name": "SID_Shotgun_Minigun_SR_Ore_T05",
-    "DisplayName": "Room Sweeper  ",
+    "DisplayName": "Room Sweeper",
     "SubType": "Shotgun",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.RoomSweeper",
     "Category": "Ranged",
@@ -146744,7 +146744,7 @@
   "Schematic:sid_shotgun_standard_uc_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Shotgun_Standard_UC_Ore_T01",
-    "DisplayName": "Knight   ",
+    "DisplayName": "Knight",
     "SubType": "Shotgun",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Knight",
     "Category": "Ranged",
@@ -146789,7 +146789,7 @@
   "Schematic:sid_shotgun_standard_uc_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Shotgun_Standard_UC_Ore_T02",
-    "DisplayName": "Knight   ",
+    "DisplayName": "Knight",
     "SubType": "Shotgun",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Knight",
     "Category": "Ranged",
@@ -146838,7 +146838,7 @@
   "Schematic:sid_shotgun_standard_uc_ore_t03": {
     "Type": "Schematic",
     "Name": "SID_Shotgun_Standard_UC_Ore_T03",
-    "DisplayName": "Knight   ",
+    "DisplayName": "Knight",
     "SubType": "Shotgun",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Knight",
     "Category": "Ranged",
@@ -146879,7 +146879,7 @@
   "Schematic:sid_shotgun_standard_vr_crystal_t04": {
     "Type": "Schematic",
     "Name": "SID_Shotgun_Standard_VR_Crystal_T04",
-    "DisplayName": "Templar   ",
+    "DisplayName": "Templar",
     "SubType": "Shotgun",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Knight",
     "Category": "Ranged",
@@ -146932,7 +146932,7 @@
   "Schematic:sid_shotgun_standard_vr_crystal_t05": {
     "Type": "Schematic",
     "Name": "SID_Shotgun_Standard_VR_Crystal_T05",
-    "DisplayName": "Templar   ",
+    "DisplayName": "Templar",
     "SubType": "Shotgun",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Knight",
     "Category": "Ranged",
@@ -146975,7 +146975,7 @@
   "Schematic:sid_shotgun_standard_vr_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Shotgun_Standard_VR_Ore_T01",
-    "DisplayName": "Templar   ",
+    "DisplayName": "Templar",
     "SubType": "Shotgun",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Knight",
     "Category": "Ranged",
@@ -147021,7 +147021,7 @@
   "Schematic:sid_shotgun_standard_vr_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Shotgun_Standard_VR_Ore_T02",
-    "DisplayName": "Templar   ",
+    "DisplayName": "Templar",
     "SubType": "Shotgun",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Knight",
     "Category": "Ranged",
@@ -147070,7 +147070,7 @@
   "Schematic:sid_shotgun_standard_vr_ore_t03": {
     "Type": "Schematic",
     "Name": "SID_Shotgun_Standard_VR_Ore_T03",
-    "DisplayName": "Templar   ",
+    "DisplayName": "Templar",
     "SubType": "Shotgun",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Knight",
     "AlternateTierUpRecipe": {
@@ -147131,7 +147131,7 @@
   "Schematic:sid_shotgun_standard_vr_ore_t04": {
     "Type": "Schematic",
     "Name": "SID_Shotgun_Standard_VR_Ore_T04",
-    "DisplayName": "Templar   ",
+    "DisplayName": "Templar",
     "SubType": "Shotgun",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Knight",
     "Category": "Ranged",
@@ -147184,7 +147184,7 @@
   "Schematic:sid_shotgun_standard_vr_ore_t05": {
     "Type": "Schematic",
     "Name": "SID_Shotgun_Standard_VR_Ore_T05",
-    "DisplayName": "Templar   ",
+    "DisplayName": "Templar",
     "SubType": "Shotgun",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Knight",
     "Category": "Ranged",
@@ -149536,7 +149536,7 @@
   "Schematic:sid_shotgun_tactical_precision_sr_crystal_t04": {
     "Type": "Schematic",
     "Name": "SID_Shotgun_Tactical_Precision_SR_Crystal_T04",
-    "DisplayName": "Nightclaw   ",
+    "DisplayName": "Nightclaw",
     "SubType": "Shotgun",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Nightclaw",
     "Category": "Ranged",
@@ -149579,7 +149579,7 @@
   "Schematic:sid_shotgun_tactical_precision_sr_crystal_t05": {
     "Type": "Schematic",
     "Name": "SID_Shotgun_Tactical_Precision_SR_Crystal_T05",
-    "DisplayName": "Nightclaw   ",
+    "DisplayName": "Nightclaw",
     "SubType": "Shotgun",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Nightclaw",
     "Category": "Ranged",
@@ -149611,7 +149611,7 @@
   "Schematic:sid_shotgun_tactical_precision_sr_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Shotgun_Tactical_Precision_SR_Ore_T01",
-    "DisplayName": "Nightclaw   ",
+    "DisplayName": "Nightclaw",
     "SubType": "Shotgun",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Nightclaw",
     "Category": "Ranged",
@@ -149651,7 +149651,7 @@
   "Schematic:sid_shotgun_tactical_precision_sr_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Shotgun_Tactical_Precision_SR_Ore_T02",
-    "DisplayName": "Nightclaw   ",
+    "DisplayName": "Nightclaw",
     "SubType": "Shotgun",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Nightclaw",
     "Category": "Ranged",
@@ -149692,7 +149692,7 @@
   "Schematic:sid_shotgun_tactical_precision_sr_ore_t03": {
     "Type": "Schematic",
     "Name": "SID_Shotgun_Tactical_Precision_SR_Ore_T03",
-    "DisplayName": "Nightclaw   ",
+    "DisplayName": "Nightclaw",
     "SubType": "Shotgun",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Nightclaw",
     "AlternateTierUpRecipe": {
@@ -149744,7 +149744,7 @@
   "Schematic:sid_shotgun_tactical_precision_sr_ore_t04": {
     "Type": "Schematic",
     "Name": "SID_Shotgun_Tactical_Precision_SR_Ore_T04",
-    "DisplayName": "Nightclaw   ",
+    "DisplayName": "Nightclaw",
     "SubType": "Shotgun",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Nightclaw",
     "Category": "Ranged",
@@ -149787,7 +149787,7 @@
   "Schematic:sid_shotgun_tactical_precision_sr_ore_t05": {
     "Type": "Schematic",
     "Name": "SID_Shotgun_Tactical_Precision_SR_Ore_T05",
-    "DisplayName": "Nightclaw   ",
+    "DisplayName": "Nightclaw",
     "SubType": "Shotgun",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Nightclaw",
     "Category": "Ranged",
@@ -150167,7 +150167,7 @@
   "Schematic:sid_shotgun_tactical_r_crystal_t04": {
     "Type": "Schematic",
     "Name": "SID_Shotgun_Tactical_R_Crystal_T04",
-    "DisplayName": "Panther   ",
+    "DisplayName": "Panther",
     "SubType": "Shotgun",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Panther",
     "Category": "Ranged",
@@ -150199,7 +150199,7 @@
   "Schematic:sid_shotgun_tactical_r_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Shotgun_Tactical_R_Ore_T01",
-    "DisplayName": "Panther   ",
+    "DisplayName": "Panther",
     "SubType": "Shotgun",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Panther",
     "Category": "Ranged",
@@ -150239,7 +150239,7 @@
   "Schematic:sid_shotgun_tactical_r_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Shotgun_Tactical_R_Ore_T02",
-    "DisplayName": "Panther   ",
+    "DisplayName": "Panther",
     "SubType": "Shotgun",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Panther",
     "Category": "Ranged",
@@ -150280,7 +150280,7 @@
   "Schematic:sid_shotgun_tactical_r_ore_t03": {
     "Type": "Schematic",
     "Name": "SID_Shotgun_Tactical_R_Ore_T03",
-    "DisplayName": "Panther   ",
+    "DisplayName": "Panther",
     "SubType": "Shotgun",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Panther",
     "AlternateTierUpRecipe": {
@@ -150332,7 +150332,7 @@
   "Schematic:sid_shotgun_tactical_r_ore_t04": {
     "Type": "Schematic",
     "Name": "SID_Shotgun_Tactical_R_Ore_T04",
-    "DisplayName": "Panther   ",
+    "DisplayName": "Panther",
     "SubType": "Shotgun",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Panther",
     "Category": "Ranged",
@@ -154148,7 +154148,7 @@
   "Schematic:sid_sniper_amr_sr_crystal_t04": {
     "Type": "Schematic",
     "Name": "SID_Sniper_AMR_SR_Crystal_T04",
-    "DisplayName": "Zapotron   ",
+    "DisplayName": "Zapotron",
     "SubType": "Sniper",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Zapotron",
     "Category": "Ranged",
@@ -154192,7 +154192,7 @@
   "Schematic:sid_sniper_amr_sr_crystal_t05": {
     "Type": "Schematic",
     "Name": "SID_Sniper_AMR_SR_Crystal_T05",
-    "DisplayName": "Zapotron   ",
+    "DisplayName": "Zapotron",
     "SubType": "Sniper",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Zapotron",
     "Category": "Ranged",
@@ -154225,7 +154225,7 @@
   "Schematic:sid_sniper_amr_sr_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Sniper_AMR_SR_Ore_T01",
-    "DisplayName": "Zapotron   ",
+    "DisplayName": "Zapotron",
     "SubType": "Sniper",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Zapotron",
     "Category": "Ranged",
@@ -154266,7 +154266,7 @@
   "Schematic:sid_sniper_amr_sr_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Sniper_AMR_SR_Ore_T02",
-    "DisplayName": "Zapotron   ",
+    "DisplayName": "Zapotron",
     "SubType": "Sniper",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Zapotron",
     "Category": "Ranged",
@@ -154308,7 +154308,7 @@
   "Schematic:sid_sniper_amr_sr_ore_t03": {
     "Type": "Schematic",
     "Name": "SID_Sniper_AMR_SR_Ore_T03",
-    "DisplayName": "Zapotron   ",
+    "DisplayName": "Zapotron",
     "SubType": "Sniper",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Zapotron",
     "AlternateTierUpRecipe": {
@@ -154361,7 +154361,7 @@
   "Schematic:sid_sniper_amr_sr_ore_t04": {
     "Type": "Schematic",
     "Name": "SID_Sniper_AMR_SR_Ore_T04",
-    "DisplayName": "Zapotron   ",
+    "DisplayName": "Zapotron",
     "SubType": "Sniper",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Zapotron",
     "Category": "Ranged",
@@ -154405,7 +154405,7 @@
   "Schematic:sid_sniper_amr_sr_ore_t05": {
     "Type": "Schematic",
     "Name": "SID_Sniper_AMR_SR_Ore_T05",
-    "DisplayName": "Zapotron   ",
+    "DisplayName": "Zapotron",
     "SubType": "Sniper",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Zapotron",
     "Category": "Ranged",
@@ -155763,7 +155763,7 @@
   "Schematic:sid_sniper_auto_r_crystal_t04": {
     "Type": "Schematic",
     "Name": "SID_Sniper_Auto_R_Crystal_T04",
-    "DisplayName": "Extinguisher   ",
+    "DisplayName": "Extinguisher",
     "SubType": "Sniper",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Deathwing",
     "Category": "Ranged",
@@ -155805,7 +155805,7 @@
   "Schematic:sid_sniper_auto_r_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Sniper_Auto_R_Ore_T01",
-    "DisplayName": "Extinguisher   ",
+    "DisplayName": "Extinguisher",
     "SubType": "Sniper",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Deathwing",
     "Category": "Ranged",
@@ -155851,7 +155851,7 @@
   "Schematic:sid_sniper_auto_r_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Sniper_Auto_R_Ore_T02",
-    "DisplayName": "Extinguisher   ",
+    "DisplayName": "Extinguisher",
     "SubType": "Sniper",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Deathwing",
     "Category": "Ranged",
@@ -155900,7 +155900,7 @@
   "Schematic:sid_sniper_auto_r_ore_t03": {
     "Type": "Schematic",
     "Name": "SID_Sniper_Auto_R_Ore_T03",
-    "DisplayName": "Extinguisher   ",
+    "DisplayName": "Extinguisher",
     "SubType": "Sniper",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Deathwing",
     "AlternateTierUpRecipe": {
@@ -155961,7 +155961,7 @@
   "Schematic:sid_sniper_auto_r_ore_t04": {
     "Type": "Schematic",
     "Name": "SID_Sniper_Auto_R_Ore_T04",
-    "DisplayName": "Extinguisher   ",
+    "DisplayName": "Extinguisher",
     "SubType": "Sniper",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Deathwing",
     "Category": "Ranged",
@@ -156003,7 +156003,7 @@
   "Schematic:sid_sniper_auto_sr_crystal_t04": {
     "Type": "Schematic",
     "Name": "SID_Sniper_Auto_SR_Crystal_T04",
-    "DisplayName": "Deathwing   ",
+    "DisplayName": "Deathwing",
     "SubType": "Sniper",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Deathwing",
     "Category": "Ranged",
@@ -156046,7 +156046,7 @@
   "Schematic:sid_sniper_auto_sr_crystal_t05": {
     "Type": "Schematic",
     "Name": "SID_Sniper_Auto_SR_Crystal_T05",
-    "DisplayName": "Deathwing   ",
+    "DisplayName": "Deathwing",
     "SubType": "Sniper",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Deathwing",
     "Category": "Ranged",
@@ -156078,7 +156078,7 @@
   "Schematic:sid_sniper_auto_sr_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Sniper_Auto_SR_Ore_T01",
-    "DisplayName": "Deathwing   ",
+    "DisplayName": "Deathwing",
     "SubType": "Sniper",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Deathwing",
     "Category": "Ranged",
@@ -156118,7 +156118,7 @@
   "Schematic:sid_sniper_auto_sr_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Sniper_Auto_SR_Ore_T02",
-    "DisplayName": "Deathwing   ",
+    "DisplayName": "Deathwing",
     "SubType": "Sniper",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Deathwing",
     "Category": "Ranged",
@@ -156159,7 +156159,7 @@
   "Schematic:sid_sniper_auto_sr_ore_t03": {
     "Type": "Schematic",
     "Name": "SID_Sniper_Auto_SR_Ore_T03",
-    "DisplayName": "Deathwing   ",
+    "DisplayName": "Deathwing",
     "SubType": "Sniper",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Deathwing",
     "AlternateTierUpRecipe": {
@@ -156211,7 +156211,7 @@
   "Schematic:sid_sniper_auto_sr_ore_t04": {
     "Type": "Schematic",
     "Name": "SID_Sniper_Auto_SR_Ore_T04",
-    "DisplayName": "Deathwing   ",
+    "DisplayName": "Deathwing",
     "SubType": "Sniper",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Deathwing",
     "Category": "Ranged",
@@ -156254,7 +156254,7 @@
   "Schematic:sid_sniper_auto_sr_ore_t05": {
     "Type": "Schematic",
     "Name": "SID_Sniper_Auto_SR_Ore_T05",
-    "DisplayName": "Deathwing   ",
+    "DisplayName": "Deathwing",
     "SubType": "Sniper",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Deathwing",
     "Category": "Ranged",
@@ -158742,7 +158742,7 @@
   "Schematic:sid_sniper_boltaction_r_crystal_t04": {
     "Type": "Schematic",
     "Name": "SID_Sniper_BoltAction_R_Crystal_T04",
-    "DisplayName": "Deadeye   ",
+    "DisplayName": "Deadeye",
     "SubType": "Sniper",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Deadeye",
     "Category": "Ranged",
@@ -158774,7 +158774,7 @@
   "Schematic:sid_sniper_boltaction_r_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Sniper_BoltAction_R_Ore_T01",
-    "DisplayName": "Deadeye   ",
+    "DisplayName": "Deadeye",
     "SubType": "Sniper",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Deadeye",
     "Category": "Ranged",
@@ -158814,7 +158814,7 @@
   "Schematic:sid_sniper_boltaction_r_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Sniper_BoltAction_R_Ore_T02",
-    "DisplayName": "Deadeye   ",
+    "DisplayName": "Deadeye",
     "SubType": "Sniper",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Deadeye",
     "Category": "Ranged",
@@ -158855,7 +158855,7 @@
   "Schematic:sid_sniper_boltaction_r_ore_t03": {
     "Type": "Schematic",
     "Name": "SID_Sniper_BoltAction_R_Ore_T03",
-    "DisplayName": "Deadeye   ",
+    "DisplayName": "Deadeye",
     "SubType": "Sniper",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Deadeye",
     "AlternateTierUpRecipe": {
@@ -158907,7 +158907,7 @@
   "Schematic:sid_sniper_boltaction_r_ore_t04": {
     "Type": "Schematic",
     "Name": "SID_Sniper_BoltAction_R_Ore_T04",
-    "DisplayName": "Deadeye   ",
+    "DisplayName": "Deadeye",
     "SubType": "Sniper",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Deadeye",
     "Category": "Ranged",
@@ -159179,7 +159179,7 @@
   "Schematic:sid_sniper_boltaction_scope_sr_crystal_t04": {
     "Type": "Schematic",
     "Name": "SID_Sniper_BoltAction_Scope_SR_Crystal_T04",
-    "DisplayName": "One Shot  ",
+    "DisplayName": "One Shot",
     "SubType": "Sniper",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.OneShot",
     "Category": "Ranged",
@@ -159222,7 +159222,7 @@
   "Schematic:sid_sniper_boltaction_scope_sr_crystal_t05": {
     "Type": "Schematic",
     "Name": "SID_Sniper_BoltAction_Scope_SR_Crystal_T05",
-    "DisplayName": "One Shot  ",
+    "DisplayName": "One Shot",
     "SubType": "Sniper",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.OneShot",
     "Category": "Ranged",
@@ -159254,7 +159254,7 @@
   "Schematic:sid_sniper_boltaction_scope_sr_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Sniper_BoltAction_Scope_SR_Ore_T01",
-    "DisplayName": "One Shot  ",
+    "DisplayName": "One Shot",
     "SubType": "Sniper",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.OneShot",
     "Category": "Ranged",
@@ -159294,7 +159294,7 @@
   "Schematic:sid_sniper_boltaction_scope_sr_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Sniper_BoltAction_Scope_SR_Ore_T02",
-    "DisplayName": "One Shot  ",
+    "DisplayName": "One Shot",
     "SubType": "Sniper",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.OneShot",
     "Category": "Ranged",
@@ -159335,7 +159335,7 @@
   "Schematic:sid_sniper_boltaction_scope_sr_ore_t03": {
     "Type": "Schematic",
     "Name": "SID_Sniper_BoltAction_Scope_SR_Ore_T03",
-    "DisplayName": "One Shot  ",
+    "DisplayName": "One Shot",
     "SubType": "Sniper",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.OneShot",
     "AlternateTierUpRecipe": {
@@ -159387,7 +159387,7 @@
   "Schematic:sid_sniper_boltaction_scope_sr_ore_t04": {
     "Type": "Schematic",
     "Name": "SID_Sniper_BoltAction_Scope_SR_Ore_T04",
-    "DisplayName": "One Shot  ",
+    "DisplayName": "One Shot",
     "SubType": "Sniper",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.OneShot",
     "Category": "Ranged",
@@ -159430,7 +159430,7 @@
   "Schematic:sid_sniper_boltaction_scope_sr_ore_t05": {
     "Type": "Schematic",
     "Name": "SID_Sniper_BoltAction_Scope_SR_Ore_T05",
-    "DisplayName": "One Shot  ",
+    "DisplayName": "One Shot",
     "SubType": "Sniper",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.OneShot",
     "Category": "Ranged",
@@ -165683,7 +165683,7 @@
   "Schematic:sid_sniper_hydraulic_sr_crystal_t04": {
     "Type": "Schematic",
     "Name": "SID_Sniper_Hydraulic_SR_Crystal_T04",
-    "DisplayName": "Tsunami   ",
+    "DisplayName": "Tsunami",
     "SubType": "Sniper",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Hydraulic.Sniper",
     "Category": "Ranged",
@@ -165726,7 +165726,7 @@
   "Schematic:sid_sniper_hydraulic_sr_crystal_t05": {
     "Type": "Schematic",
     "Name": "SID_Sniper_Hydraulic_SR_Crystal_T05",
-    "DisplayName": "Tsunami   ",
+    "DisplayName": "Tsunami",
     "SubType": "Sniper",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Hydraulic.Sniper",
     "Category": "Ranged",
@@ -165758,7 +165758,7 @@
   "Schematic:sid_sniper_hydraulic_sr_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Sniper_Hydraulic_SR_Ore_T01",
-    "DisplayName": "Tsunami   ",
+    "DisplayName": "Tsunami",
     "SubType": "Sniper",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Hydraulic.Sniper",
     "Category": "Ranged",
@@ -165798,7 +165798,7 @@
   "Schematic:sid_sniper_hydraulic_sr_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Sniper_Hydraulic_SR_Ore_T02",
-    "DisplayName": "Tsunami   ",
+    "DisplayName": "Tsunami",
     "SubType": "Sniper",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Hydraulic.Sniper",
     "Category": "Ranged",
@@ -165839,7 +165839,7 @@
   "Schematic:sid_sniper_hydraulic_sr_ore_t03": {
     "Type": "Schematic",
     "Name": "SID_Sniper_Hydraulic_SR_Ore_T03",
-    "DisplayName": "Tsunami   ",
+    "DisplayName": "Tsunami",
     "SubType": "Sniper",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Hydraulic.Sniper",
     "AlternateTierUpRecipe": {
@@ -165891,7 +165891,7 @@
   "Schematic:sid_sniper_hydraulic_sr_ore_t04": {
     "Type": "Schematic",
     "Name": "SID_Sniper_Hydraulic_SR_Ore_T04",
-    "DisplayName": "Tsunami   ",
+    "DisplayName": "Tsunami",
     "SubType": "Sniper",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Hydraulic.Sniper",
     "Category": "Ranged",
@@ -165934,7 +165934,7 @@
   "Schematic:sid_sniper_hydraulic_sr_ore_t05": {
     "Type": "Schematic",
     "Name": "SID_Sniper_Hydraulic_SR_Ore_T05",
-    "DisplayName": "Tsunami   ",
+    "DisplayName": "Tsunami",
     "SubType": "Sniper",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Hydraulic.Sniper",
     "Category": "Ranged",
@@ -172007,7 +172007,7 @@
   "Schematic:sid_sniper_shredder_sr_crystal_t04": {
     "Type": "Schematic",
     "Name": "SID_Sniper_Shredder_SR_Crystal_T04",
-    "DisplayName": "Super Shredder  ",
+    "DisplayName": "Super Shredder",
     "SubType": "Sniper",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.SuperShredder",
     "Category": "Ranged",
@@ -172050,7 +172050,7 @@
   "Schematic:sid_sniper_shredder_sr_crystal_t05": {
     "Type": "Schematic",
     "Name": "SID_Sniper_Shredder_SR_Crystal_T05",
-    "DisplayName": "Super Shredder  ",
+    "DisplayName": "Super Shredder",
     "SubType": "Sniper",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.SuperShredder",
     "Category": "Ranged",
@@ -172082,7 +172082,7 @@
   "Schematic:sid_sniper_shredder_sr_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Sniper_Shredder_SR_Ore_T01",
-    "DisplayName": "Super Shredder  ",
+    "DisplayName": "Super Shredder",
     "SubType": "Sniper",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.SuperShredder",
     "Category": "Ranged",
@@ -172122,7 +172122,7 @@
   "Schematic:sid_sniper_shredder_sr_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Sniper_Shredder_SR_Ore_T02",
-    "DisplayName": "Super Shredder  ",
+    "DisplayName": "Super Shredder",
     "SubType": "Sniper",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.SuperShredder",
     "Category": "Ranged",
@@ -172163,7 +172163,7 @@
   "Schematic:sid_sniper_shredder_sr_ore_t03": {
     "Type": "Schematic",
     "Name": "SID_Sniper_Shredder_SR_Ore_T03",
-    "DisplayName": "Super Shredder  ",
+    "DisplayName": "Super Shredder",
     "SubType": "Sniper",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.SuperShredder",
     "AlternateTierUpRecipe": {
@@ -172215,7 +172215,7 @@
   "Schematic:sid_sniper_shredder_sr_ore_t04": {
     "Type": "Schematic",
     "Name": "SID_Sniper_Shredder_SR_Ore_T04",
-    "DisplayName": "Super Shredder  ",
+    "DisplayName": "Super Shredder",
     "SubType": "Sniper",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.SuperShredder",
     "Category": "Ranged",
@@ -172258,7 +172258,7 @@
   "Schematic:sid_sniper_shredder_sr_ore_t05": {
     "Type": "Schematic",
     "Name": "SID_Sniper_Shredder_SR_Ore_T05",
-    "DisplayName": "Super Shredder  ",
+    "DisplayName": "Super Shredder",
     "SubType": "Sniper",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.SuperShredder",
     "Category": "Ranged",
@@ -173004,7 +173004,7 @@
   "Schematic:sid_sniper_standard_r_crystal_t04": {
     "Type": "Schematic",
     "Name": "SID_Sniper_Standard_R_Crystal_T04",
-    "DisplayName": "Stinger   ",
+    "DisplayName": "Stinger",
     "SubType": "Sniper",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Dragonfly",
     "Category": "Ranged",
@@ -173046,7 +173046,7 @@
   "Schematic:sid_sniper_standard_r_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Sniper_Standard_R_Ore_T01",
-    "DisplayName": "Stinger   ",
+    "DisplayName": "Stinger",
     "SubType": "Sniper",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Dragonfly",
     "Category": "Ranged",
@@ -173092,7 +173092,7 @@
   "Schematic:sid_sniper_standard_r_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Sniper_Standard_R_Ore_T02",
-    "DisplayName": "Stinger   ",
+    "DisplayName": "Stinger",
     "SubType": "Sniper",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Dragonfly",
     "Category": "Ranged",
@@ -173141,7 +173141,7 @@
   "Schematic:sid_sniper_standard_r_ore_t03": {
     "Type": "Schematic",
     "Name": "SID_Sniper_Standard_R_Ore_T03",
-    "DisplayName": "Stinger   ",
+    "DisplayName": "Stinger",
     "SubType": "Sniper",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Dragonfly",
     "AlternateTierUpRecipe": {
@@ -173202,7 +173202,7 @@
   "Schematic:sid_sniper_standard_r_ore_t04": {
     "Type": "Schematic",
     "Name": "SID_Sniper_Standard_R_Ore_T04",
-    "DisplayName": "Stinger   ",
+    "DisplayName": "Stinger",
     "SubType": "Sniper",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Dragonfly",
     "Category": "Ranged",
@@ -173244,7 +173244,7 @@
   "Schematic:sid_sniper_standard_scope_sr_crystal_t04": {
     "Type": "Schematic",
     "Name": "SID_Sniper_Standard_Scope_SR_Crystal_T04",
-    "DisplayName": "Scoped Dragonfly   ",
+    "DisplayName": "Scoped Dragonfly",
     "SubType": "Sniper",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Dragonfly",
     "Category": "Ranged",
@@ -173287,7 +173287,7 @@
   "Schematic:sid_sniper_standard_scope_sr_crystal_t05": {
     "Type": "Schematic",
     "Name": "SID_Sniper_Standard_Scope_SR_Crystal_T05",
-    "DisplayName": "Scoped Dragonfly   ",
+    "DisplayName": "Scoped Dragonfly",
     "SubType": "Sniper",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Dragonfly",
     "Category": "Ranged",
@@ -173319,7 +173319,7 @@
   "Schematic:sid_sniper_standard_scope_sr_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Sniper_Standard_Scope_SR_Ore_T01",
-    "DisplayName": "Scoped Dragonfly   ",
+    "DisplayName": "Scoped Dragonfly",
     "SubType": "Sniper",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Dragonfly",
     "Category": "Ranged",
@@ -173359,7 +173359,7 @@
   "Schematic:sid_sniper_standard_scope_sr_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Sniper_Standard_Scope_SR_Ore_T02",
-    "DisplayName": "Scoped Dragonfly   ",
+    "DisplayName": "Scoped Dragonfly",
     "SubType": "Sniper",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Dragonfly",
     "Category": "Ranged",
@@ -173400,7 +173400,7 @@
   "Schematic:sid_sniper_standard_scope_sr_ore_t03": {
     "Type": "Schematic",
     "Name": "SID_Sniper_Standard_Scope_SR_Ore_T03",
-    "DisplayName": "Scoped Dragonfly   ",
+    "DisplayName": "Scoped Dragonfly",
     "SubType": "Sniper",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Dragonfly",
     "AlternateTierUpRecipe": {
@@ -173452,7 +173452,7 @@
   "Schematic:sid_sniper_standard_scope_sr_ore_t04": {
     "Type": "Schematic",
     "Name": "SID_Sniper_Standard_Scope_SR_Ore_T04",
-    "DisplayName": "Scoped Dragonfly   ",
+    "DisplayName": "Scoped Dragonfly",
     "SubType": "Sniper",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Dragonfly",
     "Category": "Ranged",
@@ -173495,7 +173495,7 @@
   "Schematic:sid_sniper_standard_scope_sr_ore_t05": {
     "Type": "Schematic",
     "Name": "SID_Sniper_Standard_Scope_SR_Ore_T05",
-    "DisplayName": "Scoped Dragonfly   ",
+    "DisplayName": "Scoped Dragonfly",
     "SubType": "Sniper",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Dragonfly",
     "Category": "Ranged",
@@ -174520,7 +174520,7 @@
   "Schematic:sid_sniper_standard_sr_crystal_t04": {
     "Type": "Schematic",
     "Name": "SID_Sniper_Standard_SR_Crystal_T04",
-    "DisplayName": "Dragonfly   ",
+    "DisplayName": "Dragonfly",
     "SubType": "Sniper",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Dragonfly",
     "Category": "Ranged",
@@ -174563,7 +174563,7 @@
   "Schematic:sid_sniper_standard_sr_crystal_t05": {
     "Type": "Schematic",
     "Name": "SID_Sniper_Standard_SR_Crystal_T05",
-    "DisplayName": "Dragonfly   ",
+    "DisplayName": "Dragonfly",
     "SubType": "Sniper",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Dragonfly",
     "Category": "Ranged",
@@ -174595,7 +174595,7 @@
   "Schematic:sid_sniper_standard_sr_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Sniper_Standard_SR_Ore_T01",
-    "DisplayName": "Dragonfly   ",
+    "DisplayName": "Dragonfly",
     "SubType": "Sniper",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Dragonfly",
     "Category": "Ranged",
@@ -174635,7 +174635,7 @@
   "Schematic:sid_sniper_standard_sr_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Sniper_Standard_SR_Ore_T02",
-    "DisplayName": "Dragonfly   ",
+    "DisplayName": "Dragonfly",
     "SubType": "Sniper",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Dragonfly",
     "Category": "Ranged",
@@ -174676,7 +174676,7 @@
   "Schematic:sid_sniper_standard_sr_ore_t03": {
     "Type": "Schematic",
     "Name": "SID_Sniper_Standard_SR_Ore_T03",
-    "DisplayName": "Dragonfly   ",
+    "DisplayName": "Dragonfly",
     "SubType": "Sniper",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Dragonfly",
     "AlternateTierUpRecipe": {
@@ -174728,7 +174728,7 @@
   "Schematic:sid_sniper_standard_sr_ore_t04": {
     "Type": "Schematic",
     "Name": "SID_Sniper_Standard_SR_Ore_T04",
-    "DisplayName": "Dragonfly   ",
+    "DisplayName": "Dragonfly",
     "SubType": "Sniper",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Dragonfly",
     "Category": "Ranged",
@@ -174771,7 +174771,7 @@
   "Schematic:sid_sniper_standard_sr_ore_t05": {
     "Type": "Schematic",
     "Name": "SID_Sniper_Standard_SR_Ore_T05",
-    "DisplayName": "Dragonfly   ",
+    "DisplayName": "Dragonfly",
     "SubType": "Sniper",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.Dragonfly",
     "Category": "Ranged",
@@ -176483,7 +176483,7 @@
   "Schematic:sid_sniper_tripleshot_sr_crystal_t04": {
     "Type": "Schematic",
     "Name": "SID_Sniper_TripleShot_SR_Crystal_T04",
-    "DisplayName": "Triple Tap  ",
+    "DisplayName": "Triple Tap",
     "SubType": "Sniper",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.TripleTap",
     "Category": "Ranged",
@@ -176526,7 +176526,7 @@
   "Schematic:sid_sniper_tripleshot_sr_crystal_t05": {
     "Type": "Schematic",
     "Name": "SID_Sniper_TripleShot_SR_Crystal_T05",
-    "DisplayName": "Triple Tap  ",
+    "DisplayName": "Triple Tap",
     "SubType": "Sniper",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.TripleTap",
     "Category": "Ranged",
@@ -176558,7 +176558,7 @@
   "Schematic:sid_sniper_tripleshot_sr_ore_t01": {
     "Type": "Schematic",
     "Name": "SID_Sniper_TripleShot_SR_Ore_T01",
-    "DisplayName": "Triple Tap  ",
+    "DisplayName": "Triple Tap",
     "SubType": "Sniper",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.TripleTap",
     "Category": "Ranged",
@@ -176598,7 +176598,7 @@
   "Schematic:sid_sniper_tripleshot_sr_ore_t02": {
     "Type": "Schematic",
     "Name": "SID_Sniper_TripleShot_SR_Ore_T02",
-    "DisplayName": "Triple Tap  ",
+    "DisplayName": "Triple Tap",
     "SubType": "Sniper",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.TripleTap",
     "Category": "Ranged",
@@ -176639,7 +176639,7 @@
   "Schematic:sid_sniper_tripleshot_sr_ore_t03": {
     "Type": "Schematic",
     "Name": "SID_Sniper_TripleShot_SR_Ore_T03",
-    "DisplayName": "Triple Tap  ",
+    "DisplayName": "Triple Tap",
     "SubType": "Sniper",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.TripleTap",
     "AlternateTierUpRecipe": {
@@ -176691,7 +176691,7 @@
   "Schematic:sid_sniper_tripleshot_sr_ore_t04": {
     "Type": "Schematic",
     "Name": "SID_Sniper_TripleShot_SR_Ore_T04",
-    "DisplayName": "Triple Tap  ",
+    "DisplayName": "Triple Tap",
     "SubType": "Sniper",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.TripleTap",
     "Category": "Ranged",
@@ -176734,7 +176734,7 @@
   "Schematic:sid_sniper_tripleshot_sr_ore_t05": {
     "Type": "Schematic",
     "Name": "SID_Sniper_TripleShot_SR_Ore_T05",
-    "DisplayName": "Triple Tap  ",
+    "DisplayName": "Triple Tap",
     "SubType": "Sniper",
     "AlterationLoadoutRow": "SlotLoadout.Explicit.TripleTap",
     "Category": "Ranged",

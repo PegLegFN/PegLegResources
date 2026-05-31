@@ -38,7 +38,7 @@
     ]
   },
   "powerHourPrediction":{
-    "expires":"2026-05-16T00:00:00.000Z",
+    "expires":"2026-06-10T00:00:00.000Z",
     "modifiers":[
       "GameplayModifier:GM_Chrysus_EnemyMod",
       "GameplayModifier:GM_Phoenix_SuperNinja"

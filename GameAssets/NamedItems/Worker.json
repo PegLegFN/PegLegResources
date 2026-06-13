@@ -200,6 +200,28 @@
     "SubType": "Doctor",
     "Description": "A lead survivor that provides increased power in the EMT Squad. Assign to a squad with survivors of the same personality type to increase the power they provide!",
     "LevelToXPRow": "Manager_Rare",
+    "PromotionCosts": [
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 350
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 400
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 450
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 500
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 550
+      }
+    ],
     "Rarity": "Epic",
     "RecycleRecipe": {
       "Amount": 100,
@@ -343,6 +365,28 @@
     "Description": "In addition to being an exceptional doctor, Mr. Kingsly is an eloquent speaker who won\u0027t back down in the face of opposition. Kingsly is a lead survivor that provides increased power in the EMT Squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsCompetitive",
+    "PromotionCosts": [
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 350
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 400
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 450
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 500
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 550
+      }
+    ],
     "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
@@ -486,6 +530,28 @@
     "Description": "Cagey and challenging to work with, Dr. Holmes is nonetheless a brilliant doctor who thinks outside the box. Noctor is a lead survivor that provides increased power in the EMT Squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsAnalytical",
+    "PromotionCosts": [
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 350
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 400
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 450
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 500
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 550
+      }
+    ],
     "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
@@ -629,6 +695,28 @@
     "Description": "May\u0027s an accomplished and versatile doctor capable of performing any task that stands before her. Treky is a lead survivor that provides increased power in the EMT Squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsPragmatic",
+    "PromotionCosts": [
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 350
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 400
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 450
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 500
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 550
+      }
+    ],
     "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
@@ -874,6 +962,28 @@
     "SubType": "Doctor",
     "Description": "A lead survivor that provides increased power in the EMT Squad. Assign to a squad with survivors of the same personality type to increase the power they provide!",
     "LevelToXPRow": "Manager_VeryRare",
+    "PromotionCosts": [
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 350
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 400
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 450
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 500
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 550
+      }
+    ],
     "Rarity": "Legendary",
     "RecycleRecipe": {
       "Amount": 225,
@@ -1088,6 +1198,28 @@
     "SubType": "Engineer",
     "Description": "A lead survivor that provides increased power in the Corps of Engineering squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_Rare",
+    "PromotionCosts": [
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 350
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 400
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 450
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 500
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 550
+      }
+    ],
     "Rarity": "Epic",
     "RecycleRecipe": {
       "Amount": 100,
@@ -1231,6 +1363,28 @@
     "Description": "Equally known for her regal demeanour and intelligence, Countess is one of the key engineers behind Vindertech\u0027s systems. Countess is a lead survivor that provides increased power in the Corps of Engineering squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsPragmatic",
+    "PromotionCosts": [
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 350
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 400
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 450
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 500
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 550
+      }
+    ],
     "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
@@ -1374,6 +1528,28 @@
     "Description": "One of the smartest people on the planet, Emma earned the nickname \u0022Maths\u0027 as a kid because her friends joked she could probably figure out a way to kill them with numbers. Maths is a lead survivor that provides increased power in the Corps of Engineering squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsAnalytical",
+    "PromotionCosts": [
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 350
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 400
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 450
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 500
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 550
+      }
+    ],
     "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
@@ -1517,6 +1693,28 @@
     "Description": "A dreamer driven by a great mind, Mr. Sobs is an engineering powerhouse. Jeev is a lead survivor that provides increased power in the Corps of Engineering squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsDreamer",
+    "PromotionCosts": [
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 350
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 400
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 450
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 500
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 550
+      }
+    ],
     "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
@@ -1762,6 +1960,28 @@
     "SubType": "Engineer",
     "Description": "A lead survivor that provides increased power in the Corps of Engineering squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_VeryRare",
+    "PromotionCosts": [
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 350
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 400
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 450
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 500
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 550
+      }
+    ],
     "Rarity": "Legendary",
     "RecycleRecipe": {
       "Amount": 225,
@@ -1976,6 +2196,28 @@
     "SubType": "Explorer",
     "Description": "A lead survivor that provides increased power in the Scouting Party squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_Rare",
+    "PromotionCosts": [
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 350
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 400
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 450
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 500
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 550
+      }
+    ],
     "Rarity": "Epic",
     "RecycleRecipe": {
       "Amount": 100,
@@ -2119,6 +2361,28 @@
     "Description": "Saka is one of the most experienced explorers alive. It\u0027s said she glides like a bird across the land. Saka is a lead survivor that provides increased power in the Scouting Party squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsCurious",
+    "PromotionCosts": [
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 350
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 400
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 450
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 500
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 550
+      }
+    ],
     "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
@@ -2262,6 +2526,28 @@
     "Description": "As a child, Amy dreamed of soaring through the skies like an eagle, and that drive led to her becoming an expert explorer. Eagle is a lead survivor that provides increased power in the Scouting Party squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsAdventurous",
+    "PromotionCosts": [
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 350
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 400
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 450
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 500
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 550
+      }
+    ],
     "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
@@ -2405,6 +2691,28 @@
     "Description": "Ned is often credited as the first man to walk on Venus, but naysayers doubt the truth of his legacy. Spacebound is a lead survivor that provides increased power in the Scouting Party squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsDreamer",
+    "PromotionCosts": [
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 350
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 400
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 450
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 500
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 550
+      }
+    ],
     "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
@@ -2650,6 +2958,28 @@
     "SubType": "Explorer",
     "Description": "A lead survivor that provides increased power in the Scouting Party squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_VeryRare",
+    "PromotionCosts": [
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 350
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 400
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 450
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 500
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 550
+      }
+    ],
     "Rarity": "Legendary",
     "RecycleRecipe": {
       "Amount": 225,
@@ -2864,6 +3194,28 @@
     "SubType": "Gadgeteer",
     "Description": "A lead survivor that provides increased power in the Gadgeteers squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_Rare",
+    "PromotionCosts": [
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 350
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 400
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 450
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 500
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 550
+      }
+    ],
     "Rarity": "Epic",
     "RecycleRecipe": {
       "Amount": 100,
@@ -3007,6 +3359,28 @@
     "Description": "After spending countless hours tinkering in his lab, Hamlet discovered that all problems can be solved with some duct tape and a paper clip. Fixer is a lead survivor that provides increased power in the Gadgeteers squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsAnalytical",
+    "PromotionCosts": [
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 350
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 400
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 450
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 500
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 550
+      }
+    ],
     "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
@@ -3150,6 +3524,28 @@
     "Description": "Known for making tremendous advances in personal safety technology, Kelly doesn\u0027t take flak from anyone. Kelly is a lead survivor that provides increased power in the Gadgeteers squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsDependable",
+    "PromotionCosts": [
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 350
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 400
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 450
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 500
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 550
+      }
+    ],
     "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
@@ -3293,6 +3689,28 @@
     "Description": "Ellie is a pioneer in her field, and designed many of the tools that a modern Gadgeteer wouldn\u0027t want to do without. Ellie provides increased power in The Gadgeteers squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsCurious",
+    "PromotionCosts": [
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 350
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 400
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 450
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 500
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 550
+      }
+    ],
     "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
@@ -3538,6 +3956,28 @@
     "SubType": "Gadgeteer",
     "Description": "A lead survivor that provides increased power in the Gadgeteers squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_VeryRare",
+    "PromotionCosts": [
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 350
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 400
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 450
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 500
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 550
+      }
+    ],
     "Rarity": "Legendary",
     "RecycleRecipe": {
       "Amount": 225,
@@ -3752,6 +4192,28 @@
     "SubType": "Inventor",
     "Description": "A lead survivor that provides increased power in The Think Tank squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_Rare",
+    "PromotionCosts": [
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 350
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 400
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 450
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 500
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 550
+      }
+    ],
     "Rarity": "Epic",
     "RecycleRecipe": {
       "Amount": 100,
@@ -3895,6 +4357,28 @@
     "Description": "Nick likes electricity. He\u0027s invented more ways to zap people and things than any other person alive. Nick provides increased power in the Think Tank squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsDreamer",
+    "PromotionCosts": [
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 350
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 400
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 450
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 500
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 550
+      }
+    ],
     "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
@@ -4038,6 +4522,28 @@
     "Description": "Cary has a long history researching and experimenting with dangerous materials. Cary is a lead survivor that provides increased power in The Think Tank squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsCooperative",
+    "PromotionCosts": [
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 350
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 400
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 450
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 500
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 550
+      }
+    ],
     "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
@@ -4181,6 +4687,28 @@
     "Description": "Alfred is all about relativity and fitting things in squares. Alfred is a lead survivor that provides increased power in The Think Tank squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsPragmatic",
+    "PromotionCosts": [
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 350
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 400
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 450
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 500
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 550
+      }
+    ],
     "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
@@ -4426,6 +4954,28 @@
     "SubType": "Inventor",
     "Description": "A lead survivor that provides increased power in The Think Tank squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_VeryRare",
+    "PromotionCosts": [
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 350
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 400
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 450
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 500
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 550
+      }
+    ],
     "Rarity": "Legendary",
     "RecycleRecipe": {
       "Amount": 225,
@@ -4640,6 +5190,28 @@
     "SubType": "Martial Artist",
     "Description": "A lead survivor that provides increased power in the Close Assault Squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_Rare",
+    "PromotionCosts": [
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 350
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 400
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 450
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 500
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 550
+      }
+    ],
     "Rarity": "Epic",
     "RecycleRecipe": {
       "Amount": 100,
@@ -4783,6 +5355,28 @@
     "Description": "Sie\u0027s small stature can be misleading, as he is a true martial arts master. Dragon is a lead survivor that provides increased power in the Close Assault Squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsAdventurous",
+    "PromotionCosts": [
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 350
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 400
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 450
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 500
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 550
+      }
+    ],
     "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
@@ -4926,6 +5520,28 @@
     "Description": "After years of training in the ancient arts of the samurai, Tofune considered becoming an actor. That thought didn\u0027t last long, because he was considered too authentic and scary for the screen. Samurai is a lead survivor that provides increased power in the Close Assault Squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsCompetitive",
+    "PromotionCosts": [
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 350
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 400
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 450
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 500
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 550
+      }
+    ],
     "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
@@ -5069,6 +5685,28 @@
     "Description": "Fierce as it is, Misha\u0027s nickname is but a small flicker of his inner fire. Misha\u0027s Tiger spirit provides increased power in the Close Assault Squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsDependable",
+    "PromotionCosts": [
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 350
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 400
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 450
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 500
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 550
+      }
+    ],
     "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
@@ -5314,6 +5952,28 @@
     "SubType": "Martial Artist",
     "Description": "A lead survivor that provides increased power in the Close Assault Squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_VeryRare",
+    "PromotionCosts": [
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 350
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 400
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 450
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 500
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 550
+      }
+    ],
     "Rarity": "Legendary",
     "RecycleRecipe": {
       "Amount": 225,
@@ -5655,6 +6315,28 @@
     "SubType": "Marksman",
     "Description": "A lead survivor that provides increased power in the Fire Team Alpha squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_Rare",
+    "PromotionCosts": [
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 350
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 400
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 450
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 500
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 550
+      }
+    ],
     "Rarity": "Epic",
     "RecycleRecipe": {
       "Amount": 100,
@@ -5798,6 +6480,28 @@
     "Description": "With his calm pride and strong sense of loyalty, Malcolm is a true survivor and a born leader. Malcolm is a lead survivor that provides increased power in the Fire Team Alpha squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsCooperative",
+    "PromotionCosts": [
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 350
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 400
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 450
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 500
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 550
+      }
+    ],
     "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
@@ -5941,6 +6645,28 @@
     "Description": "A natural soldier, Lacy has a background as a special ops infiltrator, although she preferred busting down the front door. Princess is a lead survivor that provides increased power in the Fire Team Alpha squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsDependable",
+    "PromotionCosts": [
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 350
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 400
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 450
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 500
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 550
+      }
+    ],
     "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
@@ -6084,6 +6810,28 @@
     "Description": "Joe once beat a man in a bar fight, but he swears he didn\u0027t draw first blood. Ramsie is a lead survivor that provides increased power in the Fire Team Alpha squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsAdventurous",
+    "PromotionCosts": [
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 350
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 400
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 450
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 500
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 550
+      }
+    ],
     "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
@@ -6329,6 +7077,28 @@
     "SubType": "Marksman",
     "Description": "A lead survivor that provides increased power in the Fire Team Alpha squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_VeryRare",
+    "PromotionCosts": [
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 350
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 400
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 450
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 500
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 550
+      }
+    ],
     "Rarity": "Legendary",
     "RecycleRecipe": {
       "Amount": 225,
@@ -6543,6 +7313,28 @@
     "SubType": "Trainer",
     "Description": "A lead survivor that provides increased power when assigned to the Training Team squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_Rare",
+    "PromotionCosts": [
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 350
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 400
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 450
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 500
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 550
+      }
+    ],
     "Rarity": "Epic",
     "RecycleRecipe": {
       "Amount": 100,
@@ -6686,6 +7478,28 @@
     "Description": "A retired kickboxing champ, Damon is the type of personal trainer you don\u0027t ignore. If he wants five more reps... he gets five more reps. Damon provides increased power in the Training Team Squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsCooperative",
+    "PromotionCosts": [
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 350
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 400
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 450
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 500
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 550
+      }
+    ],
     "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
@@ -6829,6 +7643,28 @@
     "Description": "Cara\u0027s curiosity leads her to so many adventures that her friends started calling her Indiana. Indiana is a lead survivor that provides increased power in the Training Team squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsCurious",
+    "PromotionCosts": [
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 350
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 400
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 450
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 500
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 550
+      }
+    ],
     "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
@@ -6972,6 +7808,28 @@
     "Description": "A passionate coffee and yoga enthusiast, Michelle opened the world\u2019s first Hot Coffee Yoga studio, Yoglattes. The studio closed following multiple yoglawsuits. Yoglattes is a lead survivor that provides increased power in the Training Team squad.",
     "LevelToXPRow": "Manager_SuperRare",
     "Personality": "IsCompetitive",
+    "PromotionCosts": [
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 350
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 400
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 450
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 500
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 550
+      }
+    ],
     "Rarity": "Mythic",
     "RecycleRecipe": {
       "Amount": 225,
@@ -7217,6 +8075,28 @@
     "SubType": "Trainer",
     "Description": "A lead survivor that provides increased power when assigned to the Training Team squad. Assign to a squad with survivors of the same personality to increase the power they provide!",
     "LevelToXPRow": "Manager_VeryRare",
+    "PromotionCosts": [
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 350
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 400
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 450
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 500
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 550
+      }
+    ],
     "Rarity": "Legendary",
     "RecycleRecipe": {
       "Amount": 225,
@@ -7685,6 +8565,28 @@
     "DisplayName": "Husky",
     "Description": "One of the winners from this year\u0027s Husk Costume Party! You don\u0027t know why they\u0027re still wearing their costume, but they\u0027re good at their jobs!",
     "LevelToXPRow": "VeryRare",
+    "PromotionCosts": [
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 350
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 400
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 450
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 500
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 550
+      }
+    ],
     "Rarity": "Epic",
     "RecycleRecipe": {
       "Amount": 100,
@@ -7921,6 +8823,28 @@
     "DisplayName": "Lobber",
     "Description": "One of the winners from this year\u0027s Husk Costume Party! You don\u0027t know why they\u0027re still wearing their costume, but they\u0027re good at their jobs!",
     "LevelToXPRow": "SuperRare",
+    "PromotionCosts": [
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 350
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 400
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 450
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 500
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 550
+      }
+    ],
     "Rarity": "Legendary",
     "RecycleRecipe": {
       "Amount": 225,
@@ -8054,6 +8978,28 @@
     "DisplayName": "Lobber",
     "Description": "One of the winners from this year\u0027s Husk Costume Party! You don\u0027t know why they\u0027re still wearing their costume, but they\u0027re good at their jobs!",
     "LevelToXPRow": "VeryRare",
+    "PromotionCosts": [
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 350
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 400
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 450
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 500
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 550
+      }
+    ],
     "Rarity": "Epic",
     "RecycleRecipe": {
       "Amount": 100,
@@ -8406,6 +9352,28 @@
     "DisplayName": "Smasher",
     "Description": "One of the winners from this year\u0027s Husk Costume Party! You don\u0027t know why they\u0027re still wearing their costume, but they\u0027re good at their jobs!",
     "LevelToXPRow": "SuperRare",
+    "PromotionCosts": [
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 350
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 400
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 450
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 500
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 550
+      }
+    ],
     "Rarity": "Legendary",
     "RecycleRecipe": {
       "Amount": 225,
@@ -8539,6 +9507,28 @@
     "DisplayName": "Troll",
     "Description": "One of the winners from this year\u0027s Husk Costume Party! You don\u0027t know why they\u0027re still wearing their costume, but they\u0027re good at their jobs!",
     "LevelToXPRow": "SuperRare",
+    "PromotionCosts": [
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 350
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 400
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 450
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 500
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 550
+      }
+    ],
     "Rarity": "Legendary",
     "RecycleRecipe": {
       "Amount": 225,
@@ -8672,6 +9662,28 @@
     "DisplayName": "Troll",
     "Description": "One of the winners from this year\u0027s Husk Costume Party! You don\u0027t know why they\u0027re still wearing their costume, but they\u0027re good at their jobs!",
     "LevelToXPRow": "VeryRare",
+    "PromotionCosts": [
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 350
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 400
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 450
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 500
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 550
+      }
+    ],
     "Rarity": "Epic",
     "RecycleRecipe": {
       "Amount": 100,
@@ -8790,6 +9802,28 @@
     "Description": "Joel is beloved by the survivors of Homebase for his humor, unbelievable stories, and stubbornly joyful approach to life.",
     "IsPermanent": true,
     "Personality": "IsDreamer",
+    "PromotionCosts": [
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 350
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 400
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 450
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 500
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 550
+      }
+    ],
     "Rarity": "Mythic",
     "Tier": 5,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/worker_joel_ur_t05.uasset",
@@ -8903,6 +9937,28 @@
     "Description": "Karolina is beloved by the survivors of Homebase for her passion, bravery, and uncompromising badassery. ",
     "IsPermanent": true,
     "Personality": "IsAdventurous",
+    "PromotionCosts": [
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 350
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 400
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 450
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 500
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 550
+      }
+    ],
     "Rarity": "Mythic",
     "Tier": 5,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/workers/worker_karolina_ur_t05.uasset",
@@ -9031,6 +10087,28 @@
     "DisplayName": "Leprechaun",
     "Description": "Is that Wee Crumblesnacks O\u0027Plenty?! Nope, it\u0027s the winner of this year\u0027s Spring It On! Leprechaun costume contest.",
     "LevelToXPRow": "VeryRare",
+    "PromotionCosts": [
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 350
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 400
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 450
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 500
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 550
+      }
+    ],
     "Rarity": "Epic",
     "RecycleRecipe": {
       "Amount": 100,
@@ -9310,6 +10388,28 @@
     "DisplayName": "Survivor",
     "Description": "Assign this Survivor to a Squad to increase Squad power and gain Fortitude, Offense, Resistance or Tech. Assign {Gender}|gender(him, her) to a squad where the Lead Survivor is [Worker.Personality] to gain more power. Match set bonuses with other Survivors to gain [Worker.SetBonus.Buff].",
     "LevelToXPRow": "SuperRare",
+    "PromotionCosts": [
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 350
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 400
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 450
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 500
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 550
+      }
+    ],
     "Rarity": "Legendary",
     "RecycleRecipe": {
       "Amount": 225,
@@ -9516,6 +10616,28 @@
     "DisplayName": "Survivor",
     "Description": "Assign this Survivor to a Squad to increase Squad power and gain Fortitude, Offense, Resistance or Tech. Assign {Gender}|gender(him, her) to a squad where the Lead Survivor is [Worker.Personality] to gain more power. Match set bonuses with other Survivors to gain [Worker.SetBonus.Buff].",
     "LevelToXPRow": "VeryRare",
+    "PromotionCosts": [
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 350
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 400
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 450
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 500
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 550
+      }
+    ],
     "Rarity": "Epic",
     "RecycleRecipe": {
       "Amount": 100,
@@ -9928,6 +11050,28 @@
     "DisplayName": "Smasher",
     "Description": "One of the winners from this year\u0027s Husk Costume Party! You don\u0027t know why they\u0027re still wearing their costume, but they\u0027re good at their jobs!",
     "LevelToXPRow": "SuperRare",
+    "PromotionCosts": [
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 350
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 400
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 450
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 500
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 550
+      }
+    ],
     "Rarity": "Legendary",
     "RecycleRecipe": {
       "Amount": 225,
@@ -10134,6 +11278,28 @@
     "DisplayName": "Lobber",
     "Description": "One of the winners from this year\u0027s Husk Costume Party! You don\u0027t know why they\u0027re still wearing their costume, but they\u0027re good at their jobs!",
     "LevelToXPRow": "VeryRare",
+    "PromotionCosts": [
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 350
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 400
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 450
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 500
+      },
+      {
+        "AccountResource:reagent_promotion_survivors": 1,
+        "AccountResource:reagent_people": 550
+      }
+    ],
     "Rarity": "Epic",
     "RecycleRecipe": {
       "Amount": 100,

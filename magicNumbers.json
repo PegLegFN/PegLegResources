@@ -37,6 +37,23 @@
       "Quest:cannyvalleyquest_filler_2_d1"
     ]
   },
+  "powerHourSchedule":{
+    "anchor": "2026-06-13T00:00:00.000Z",
+    "utcTimeslots":[
+      16,
+      24
+    ],
+    "durationHours":2,
+    "alwaysModifiers":[
+      "GameplayModifier:GM_Chrysus_EnemyMod"
+    ],
+    "weeks":[
+      ["GameplayModifier:GM_Phoenix_SuperHeroic"],
+      ["GameplayModifier:GM_Phoenix_SuperConstructor"],
+      ["GameplayModifier:GM_Phoenix_SuperOutlander"],
+      ["GameplayModifier:GM_Phoenix_SuperNinja"]
+    ]
+  },
   "powerHourPrediction":{
     "expires":"2026-06-10T00:00:00.000Z",
     "modifiers":[

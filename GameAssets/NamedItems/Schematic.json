@@ -8116,6 +8116,354 @@
       "LargePreview": "ExportedImages\\T-Icon-Weapons-SK-ProtoAssault-L.png"
     }
   },
+  "Schematic:sid_assault_chaosexploder_rifle_sr_crystal_t04": {
+    "Type": "Schematic",
+    "Name": "SID_Assault_ChaosExploder_Rifle_SR_Crystal_T04",
+    "DisplayName": "Chaos Exploder",
+    "SubType": "Assault",
+    "AlterationLoadoutRow": "SlotLoadout.Explicit.DV.ChaosExploder",
+    "AlterationNamedExclusions": [
+      "Impact"
+    ],
+    "Category": "Ranged",
+    "CraftingCost": {
+      "Ingredient:ingredient_crystal_quartz": 13,
+      "Ingredient:ingredient_mechanical_parts_t04": 30,
+      "Ingredient:ingredient_rare_powercell": 1,
+      "Ingredient:ingredient_crystal_shadowshard": 11
+    },
+    "CraftingResult": "Weapon:wid_assault_chaosexploder_rifle_sr_crystal_t04",
+    "Description": "A self-reloading heavy assault rifle that is a favored weapon of the Dark Voyager\u0027s forces. It fires small explosive cubes that detonate on impact, being specially effective against structures.",
+    "DisplayTier": "Shadowshard",
+    "EvoType": "crystal",
+    "LevelToXPRow": "SuperRare",
+    "Rarity": "Legendary",
+    "RecycleRecipe": {
+      "Amount": 225,
+      "Cost": {},
+      "Result": "AccountResource:reagent_schematic"
+    },
+    "Tier": 4,
+    "TierUpRecipe": {
+      "Cost": {
+        "AccountResource:schematicxp": 13750,
+        "AccountResource:reagent_c_t01": 80,
+        "AccountResource:reagent_schematic": 450,
+        "AccountResource:reagent_c_t02": 33,
+        "AccountResource:reagent_c_t03": 22,
+        "AccountResource:reagent_c_t04": 11
+      },
+      "Result": "Schematic:sid_assault_chaosexploder_rifle_sr_crystal_t05"
+    },
+    "TriggerType": "OnPress",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/schematics/ranged/assault/chaosexploder/sid_assault_chaosexploder_rifle_sr_crystal_t04.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_Weapons_Rifle_ChaosExploder_ui.png",
+      "LargePreview": "ExportedImages\\T_Icon_Weapons_Rifle_ChaosExploder_ui_L.png"
+    }
+  },
+  "Schematic:sid_assault_chaosexploder_rifle_sr_crystal_t05": {
+    "Type": "Schematic",
+    "Name": "SID_Assault_ChaosExploder_Rifle_SR_Crystal_T05",
+    "DisplayName": "Chaos Exploder",
+    "SubType": "Assault",
+    "AlterationLoadoutRow": "SlotLoadout.Explicit.DV.ChaosExploder",
+    "AlterationNamedExclusions": [
+      "Impact"
+    ],
+    "Category": "Ranged",
+    "CraftingCost": {
+      "Ingredient:ingredient_crystal_quartz": 13,
+      "Ingredient:ingredient_mechanical_parts_t05": 30,
+      "Ingredient:ingredient_rare_powercell": 1,
+      "Ingredient:ingredient_crystal_sunbeam": 11
+    },
+    "CraftingResult": "Weapon:wid_assault_chaosexploder_rifle_sr_crystal_t05",
+    "Description": "A self-reloading heavy assault rifle that is a favored weapon of the Dark Voyager\u0027s forces. It fires small explosive cubes that detonate on impact, being specially effective against structures.",
+    "DisplayTier": "Sunbeam",
+    "EvoType": "crystal",
+    "LevelToXPRow": "SuperRare",
+    "PromotionCosts": [
+      {
+        "AccountResource:reagent_promotion_weapons": 1,
+        "AccountResource:reagent_schematic": 350
+      },
+      {
+        "AccountResource:reagent_promotion_weapons": 1,
+        "AccountResource:reagent_schematic": 400
+      },
+      {
+        "AccountResource:reagent_promotion_weapons": 1,
+        "AccountResource:reagent_schematic": 450
+      },
+      {
+        "AccountResource:reagent_promotion_weapons": 1,
+        "AccountResource:reagent_schematic": 500
+      },
+      {
+        "AccountResource:reagent_promotion_weapons": 1,
+        "AccountResource:reagent_schematic": 550
+      }
+    ],
+    "Rarity": "Legendary",
+    "RecycleRecipe": {
+      "Amount": 225,
+      "Cost": {},
+      "Result": "AccountResource:reagent_schematic"
+    },
+    "Tier": 5,
+    "TriggerType": "OnPress",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/schematics/ranged/assault/chaosexploder/sid_assault_chaosexploder_rifle_sr_crystal_t05.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_Weapons_Rifle_ChaosExploder_ui.png",
+      "LargePreview": "ExportedImages\\T_Icon_Weapons_Rifle_ChaosExploder_ui_L.png"
+    }
+  },
+  "Schematic:sid_assault_chaosexploder_rifle_sr_ore_t01": {
+    "Type": "Schematic",
+    "Name": "SID_Assault_ChaosExploder_Rifle_SR_Ore_T01",
+    "DisplayName": "Chaos Exploder",
+    "SubType": "Assault",
+    "AlterationLoadoutRow": "SlotLoadout.Explicit.DV.ChaosExploder",
+    "AlterationNamedExclusions": [
+      "Impact"
+    ],
+    "Category": "Ranged",
+    "CraftingCost": {
+      "Ingredient:ingredient_blastpowder": 15,
+      "Ingredient:ingredient_mechanical_parts_t01": 30,
+      "Ingredient:ingredient_rare_powercell": 1,
+      "Ingredient:ingredient_ore_copper": 11
+    },
+    "CraftingResult": "Weapon:wid_assault_chaosexploder_rifle_sr_ore_t01",
+    "Description": "A self-reloading heavy assault rifle that is a favored weapon of the Dark Voyager\u0027s forces. It fires small explosive cubes that detonate on impact, being specially effective against structures.",
+    "DisplayTier": "Copper",
+    "EvoType": "ore",
+    "LevelToXPRow": "SuperRare",
+    "Rarity": "Legendary",
+    "RecycleRecipe": {
+      "Amount": 225,
+      "Cost": {},
+      "Result": "AccountResource:reagent_schematic"
+    },
+    "Tier": 1,
+    "TierUpRecipe": {
+      "Cost": {
+        "AccountResource:schematicxp": 2500,
+        "AccountResource:reagent_c_t01": 20,
+        "AccountResource:reagent_schematic": 75
+      },
+      "Result": "Schematic:sid_assault_chaosexploder_rifle_sr_ore_t02"
+    },
+    "TriggerType": "OnPress",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/schematics/ranged/assault/chaosexploder/sid_assault_chaosexploder_rifle_sr_ore_t01.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_Weapons_Rifle_ChaosExploder_ui.png",
+      "LargePreview": "ExportedImages\\T_Icon_Weapons_Rifle_ChaosExploder_ui_L.png"
+    }
+  },
+  "Schematic:sid_assault_chaosexploder_rifle_sr_ore_t02": {
+    "Type": "Schematic",
+    "Name": "SID_Assault_ChaosExploder_Rifle_SR_Ore_T02",
+    "DisplayName": "Chaos Exploder",
+    "SubType": "Assault",
+    "AlterationLoadoutRow": "SlotLoadout.Explicit.DV.ChaosExploder",
+    "AlterationNamedExclusions": [
+      "Impact"
+    ],
+    "Category": "Ranged",
+    "CraftingCost": {
+      "Ingredient:ingredient_blastpowder": 15,
+      "Ingredient:ingredient_mechanical_parts_t02": 30,
+      "Ingredient:ingredient_rare_powercell": 1,
+      "Ingredient:ingredient_ore_silver": 11
+    },
+    "CraftingResult": "Weapon:wid_assault_chaosexploder_rifle_sr_ore_t02",
+    "Description": "A self-reloading heavy assault rifle that is a favored weapon of the Dark Voyager\u0027s forces. It fires small explosive cubes that detonate on impact, being specially effective against structures.",
+    "DisplayTier": "Silver",
+    "EvoType": "ore",
+    "LevelToXPRow": "SuperRare",
+    "Rarity": "Legendary",
+    "RecycleRecipe": {
+      "Amount": 225,
+      "Cost": {},
+      "Result": "AccountResource:reagent_schematic"
+    },
+    "Tier": 2,
+    "TierUpRecipe": {
+      "Cost": {
+        "AccountResource:schematicxp": 6250,
+        "AccountResource:reagent_c_t01": 40,
+        "AccountResource:reagent_schematic": 200,
+        "AccountResource:reagent_c_t02": 11
+      },
+      "Result": "Schematic:sid_assault_chaosexploder_rifle_sr_ore_t03"
+    },
+    "TriggerType": "OnPress",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/schematics/ranged/assault/chaosexploder/sid_assault_chaosexploder_rifle_sr_ore_t02.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_Weapons_Rifle_ChaosExploder_ui.png",
+      "LargePreview": "ExportedImages\\T_Icon_Weapons_Rifle_ChaosExploder_ui_L.png"
+    }
+  },
+  "Schematic:sid_assault_chaosexploder_rifle_sr_ore_t03": {
+    "Type": "Schematic",
+    "Name": "SID_Assault_ChaosExploder_Rifle_SR_Ore_T03",
+    "DisplayName": "Chaos Exploder",
+    "SubType": "Assault",
+    "AlterationLoadoutRow": "SlotLoadout.Explicit.DV.ChaosExploder",
+    "AlterationNamedExclusions": [
+      "Impact"
+    ],
+    "AlternateTierUpRecipe": {
+      "Cost": {
+        "AccountResource:schematicxp": 10000,
+        "AccountResource:reagent_c_t01": 60,
+        "AccountResource:reagent_schematic": 325,
+        "AccountResource:reagent_c_t02": 22,
+        "AccountResource:reagent_c_t03": 11
+      },
+      "Result": "Schematic:sid_assault_chaosexploder_rifle_sr_crystal_t04"
+    },
+    "Category": "Ranged",
+    "CraftingCost": {
+      "Ingredient:ingredient_blastpowder": 15,
+      "Ingredient:ingredient_mechanical_parts_t03": 30,
+      "Ingredient:ingredient_rare_powercell": 1,
+      "Ingredient:ingredient_ore_malachite": 11
+    },
+    "CraftingResult": "Weapon:wid_assault_chaosexploder_rifle_sr_ore_t03",
+    "Description": "A self-reloading heavy assault rifle that is a favored weapon of the Dark Voyager\u0027s forces. It fires small explosive cubes that detonate on impact, being specially effective against structures.",
+    "DisplayTier": "Malachite",
+    "EvoType": "ore",
+    "LevelToXPRow": "SuperRare",
+    "Rarity": "Legendary",
+    "RecycleRecipe": {
+      "Amount": 225,
+      "Cost": {},
+      "Result": "AccountResource:reagent_schematic"
+    },
+    "Tier": 3,
+    "TierUpRecipe": {
+      "Cost": {
+        "AccountResource:schematicxp": 10000,
+        "AccountResource:reagent_c_t01": 60,
+        "AccountResource:reagent_schematic": 325,
+        "AccountResource:reagent_c_t02": 22,
+        "AccountResource:reagent_c_t03": 11
+      },
+      "Result": "Schematic:sid_assault_chaosexploder_rifle_sr_ore_t04"
+    },
+    "TriggerType": "OnPress",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/schematics/ranged/assault/chaosexploder/sid_assault_chaosexploder_rifle_sr_ore_t03.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_Weapons_Rifle_ChaosExploder_ui.png",
+      "LargePreview": "ExportedImages\\T_Icon_Weapons_Rifle_ChaosExploder_ui_L.png"
+    }
+  },
+  "Schematic:sid_assault_chaosexploder_rifle_sr_ore_t04": {
+    "Type": "Schematic",
+    "Name": "SID_Assault_ChaosExploder_Rifle_SR_Ore_T04",
+    "DisplayName": "Chaos Exploder",
+    "SubType": "Assault",
+    "AlterationLoadoutRow": "SlotLoadout.Explicit.DV.ChaosExploder",
+    "AlterationNamedExclusions": [
+      "Impact"
+    ],
+    "Category": "Ranged",
+    "CraftingCost": {
+      "Ingredient:ingredient_blastpowder": 15,
+      "Ingredient:ingredient_mechanical_parts_t04": 30,
+      "Ingredient:ingredient_rare_powercell": 1,
+      "Ingredient:ingredient_ore_obsidian": 11
+    },
+    "CraftingResult": "Weapon:wid_assault_chaosexploder_rifle_sr_ore_t04",
+    "Description": "A self-reloading heavy assault rifle that is a favored weapon of the Dark Voyager\u0027s forces. It fires small explosive cubes that detonate on impact, being specially effective against structures.",
+    "DisplayTier": "Obsidian",
+    "EvoType": "ore",
+    "LevelToXPRow": "SuperRare",
+    "Rarity": "Legendary",
+    "RecycleRecipe": {
+      "Amount": 225,
+      "Cost": {},
+      "Result": "AccountResource:reagent_schematic"
+    },
+    "Tier": 4,
+    "TierUpRecipe": {
+      "Cost": {
+        "AccountResource:schematicxp": 13750,
+        "AccountResource:reagent_c_t01": 80,
+        "AccountResource:reagent_schematic": 450,
+        "AccountResource:reagent_c_t02": 33,
+        "AccountResource:reagent_c_t03": 22,
+        "AccountResource:reagent_c_t04": 11
+      },
+      "Result": "Schematic:sid_assault_chaosexploder_rifle_sr_ore_t05"
+    },
+    "TriggerType": "OnPress",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/schematics/ranged/assault/chaosexploder/sid_assault_chaosexploder_rifle_sr_ore_t04.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_Weapons_Rifle_ChaosExploder_ui.png",
+      "LargePreview": "ExportedImages\\T_Icon_Weapons_Rifle_ChaosExploder_ui_L.png"
+    }
+  },
+  "Schematic:sid_assault_chaosexploder_rifle_sr_ore_t05": {
+    "Type": "Schematic",
+    "Name": "SID_Assault_ChaosExploder_Rifle_SR_Ore_T05",
+    "DisplayName": "Chaos Exploder",
+    "SubType": "Assault",
+    "AlterationLoadoutRow": "SlotLoadout.Explicit.DV.ChaosExploder",
+    "AlterationNamedExclusions": [
+      "Impact"
+    ],
+    "Category": "Ranged",
+    "CraftingCost": {
+      "Ingredient:ingredient_blastpowder": 15,
+      "Ingredient:ingredient_mechanical_parts_t05": 30,
+      "Ingredient:ingredient_rare_powercell": 1,
+      "Ingredient:ingredient_ore_brightcore": 11
+    },
+    "CraftingResult": "Weapon:wid_assault_chaosexploder_rifle_sr_ore_t05",
+    "Description": "A self-reloading heavy assault rifle that is a favored weapon of the Dark Voyager\u0027s forces. It fires small explosive cubes that detonate on impact, being specially effective against structures.",
+    "DisplayTier": "Brightcore",
+    "EvoType": "ore",
+    "LevelToXPRow": "SuperRare",
+    "PromotionCosts": [
+      {
+        "AccountResource:reagent_promotion_weapons": 1,
+        "AccountResource:reagent_schematic": 350
+      },
+      {
+        "AccountResource:reagent_promotion_weapons": 1,
+        "AccountResource:reagent_schematic": 400
+      },
+      {
+        "AccountResource:reagent_promotion_weapons": 1,
+        "AccountResource:reagent_schematic": 450
+      },
+      {
+        "AccountResource:reagent_promotion_weapons": 1,
+        "AccountResource:reagent_schematic": 500
+      },
+      {
+        "AccountResource:reagent_promotion_weapons": 1,
+        "AccountResource:reagent_schematic": 550
+      }
+    ],
+    "Rarity": "Legendary",
+    "RecycleRecipe": {
+      "Amount": 225,
+      "Cost": {},
+      "Result": "AccountResource:reagent_schematic"
+    },
+    "Tier": 5,
+    "TriggerType": "OnPress",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/schematics/ranged/assault/chaosexploder/sid_assault_chaosexploder_rifle_sr_ore_t05.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_Weapons_Rifle_ChaosExploder_ui.png",
+      "LargePreview": "ExportedImages\\T_Icon_Weapons_Rifle_ChaosExploder_ui_L.png"
+    }
+  },
   "Schematic:sid_assault_doubleshot_sr_crystal_t04": {
     "Type": "Schematic",
     "Name": "SID_Assault_Doubleshot_SR_Crystal_T04",

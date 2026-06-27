@@ -3919,6 +3919,15 @@
     "Tier": 1,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/standstill_stackbuff_grantshield/aid_g_standstill_stackbuff_grantshield.uasset"
   },
+  "Alteration:aid_g_static_autoreload": {
+    "Type": "Alteration",
+    "Name": "AID_G_Static_AutoReload",
+    "DisplayName": "Reloads 2 rounds per second automatically when not firing.",
+    "IsPermanent": true,
+    "Rarity": "Legendary",
+    "Tier": 1,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/gameplayalterations/static_autoreload/aid_g_static_autoreload.uasset"
+  },
   "Alteration:aid_g_stormkinglaunchercharge": {
     "Type": "Alteration",
     "Name": "AID_G_StormKingLauncherCharge",

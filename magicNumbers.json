@@ -39,7 +39,7 @@
   },
   "powerHourSchedule":{
     "anchor": "2026-06-13T00:00:00.000Z",
-    "utcTimeslots":[
+    "timeslotHours":[
       16,
       24
     ],
@@ -47,7 +47,7 @@
     "alwaysModifiers":[
       "GameplayModifier:GM_Chrysus_EnemyMod"
     ],
-    "weeks":[
+    "weeklyModifiers":[
       ["GameplayModifier:GM_Phoenix_SuperHeroic"],
       ["GameplayModifier:GM_Phoenix_SuperConstructor"],
       ["GameplayModifier:GM_Phoenix_SuperOutlander"],
@@ -62,8 +62,9 @@
     ]
   },
   "cosmo":{
-    "version":"40.41",
-    "key": "N9X0xYQZe74po4fNeCQxwTTGlKVpTzjr9QE1E8SMrEU=",
+    "version":"41.10",
+    "key": "vHckCP9oI+pW5prHTYaMbXiC1YVJ2w4yRBtGUQzmYMY=",
+    "baseUrl": "https://cosmo.fdeb.live.use1a.on.epicgames.com/v1/item/",
     "comment": "TODO: Make this auto-extracted, seems to change every update and would be annoying to update manually"
   }
 }

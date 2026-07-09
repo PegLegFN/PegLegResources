@@ -8155,7 +8155,7 @@
       },
       "Result": "Schematic:sid_assault_chaosexploder_rifle_sr_crystal_t05"
     },
-    "TriggerType": "OnPress",
+    "TriggerType": "Automatic",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/schematics/ranged/assault/chaosexploder/sid_assault_chaosexploder_rifle_sr_crystal_t04.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T_Icon_Weapons_Rifle_ChaosExploder_ui.png",
@@ -8212,7 +8212,7 @@
       "Result": "AccountResource:reagent_schematic"
     },
     "Tier": 5,
-    "TriggerType": "OnPress",
+    "TriggerType": "Automatic",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/schematics/ranged/assault/chaosexploder/sid_assault_chaosexploder_rifle_sr_crystal_t05.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T_Icon_Weapons_Rifle_ChaosExploder_ui.png",
@@ -8255,7 +8255,7 @@
       },
       "Result": "Schematic:sid_assault_chaosexploder_rifle_sr_ore_t02"
     },
-    "TriggerType": "OnPress",
+    "TriggerType": "Automatic",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/schematics/ranged/assault/chaosexploder/sid_assault_chaosexploder_rifle_sr_ore_t01.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T_Icon_Weapons_Rifle_ChaosExploder_ui.png",
@@ -8299,7 +8299,7 @@
       },
       "Result": "Schematic:sid_assault_chaosexploder_rifle_sr_ore_t03"
     },
-    "TriggerType": "OnPress",
+    "TriggerType": "Automatic",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/schematics/ranged/assault/chaosexploder/sid_assault_chaosexploder_rifle_sr_ore_t02.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T_Icon_Weapons_Rifle_ChaosExploder_ui.png",
@@ -8354,7 +8354,7 @@
       },
       "Result": "Schematic:sid_assault_chaosexploder_rifle_sr_ore_t04"
     },
-    "TriggerType": "OnPress",
+    "TriggerType": "Automatic",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/schematics/ranged/assault/chaosexploder/sid_assault_chaosexploder_rifle_sr_ore_t03.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T_Icon_Weapons_Rifle_ChaosExploder_ui.png",
@@ -8400,7 +8400,7 @@
       },
       "Result": "Schematic:sid_assault_chaosexploder_rifle_sr_ore_t05"
     },
-    "TriggerType": "OnPress",
+    "TriggerType": "Automatic",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/schematics/ranged/assault/chaosexploder/sid_assault_chaosexploder_rifle_sr_ore_t04.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T_Icon_Weapons_Rifle_ChaosExploder_ui.png",
@@ -8457,7 +8457,7 @@
       "Result": "AccountResource:reagent_schematic"
     },
     "Tier": 5,
-    "TriggerType": "OnPress",
+    "TriggerType": "Automatic",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/schematics/ranged/assault/chaosexploder/sid_assault_chaosexploder_rifle_sr_ore_t05.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T_Icon_Weapons_Rifle_ChaosExploder_ui.png",

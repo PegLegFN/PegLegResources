@@ -8,6 +8,8 @@
       "exclude": [
         "Quest:MaydayQuest_2019_Daily_Complete",
         "Quest:MaydayQuest_2019_Strangelands",
+        "Quest:maydayquest_2019_novehicledamage",
+        "Quest:maydayquest_2019_novehicledamage_endgame",
         {
           "startsWith": "maydayquest_2019_complete",
           "exclude": "Quest:maydayquest_2019_completesubmissions"

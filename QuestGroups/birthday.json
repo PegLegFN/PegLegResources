@@ -1,15 +1,23 @@
 {
   "birthday": {
-    "displayName": "Birthday Llamas",
+    "displayName": "Daily Birthday Llamas",
+    "sequence": true,
+    "showProgress": false,
+    "timer": "Daily",
     "predicate": {
-      "union": [
-        {
-          "startsWith": "birthday_quest_"
-        },
-        {
-          "startsWith": "anniversaryquest_"
-        }
+      "union":[
+        "Quest:birthday_quest_collectflamingos",
+        "Quest:birthday_quest_lightfireworks",
+        "Quest:birthday_quest_rescuesurvivors",
+        "Quest:birthday_quest_mistmonsters",
+        "Quest:birthday_quest_collectice",
+        "Quest:birthday_quest_collecttowels",
+        "Quest:birthday_quest_harvestac"
       ]
     }
+  },
+  "week_birthday": {
+    "displayName": "Birthday Week Llama",
+    "predicate": "Quest:anniversaryquest_2020_kill_cake_sploders"
   }
 }

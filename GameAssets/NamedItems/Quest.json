@@ -9310,12 +9310,12 @@
     "Name": "CannyValley_Mechanical_Constructor",
     "DisplayName": "Just Build",
     "Category": "MainQuests",
-    "Description": "With all the sharp-shooting husks in Canny Valley, it\u0027s time to brush up on combat building. Build 100 structures in a successful mission.",
+    "Description": "With all the sharp-shooting husks in Canny Valley, it\u0027s time to brush up on combat building. Build 50 structures in a successful mission.",
     "IsPermanent": true,
     "Objectives": [
       {
         "BackendName": "cannyvalley_mechanical_constructor",
-        "Count": 100,
+        "Count": 50,
         "Description": "Build Structures in a 52\u002B zone",
         "HudShortDescription": "Structures built",
         "ZonePowerLevel": 52
@@ -9711,7 +9711,7 @@
     "Objectives": [
       {
         "BackendName": "cannyvalley_reactive_clocks",
-        "Count": 50,
+        "Count": 35,
         "Description": "Collect clock parts in a 70\u002B zone",
         "HudShortDescription": "Clock parts collected",
         "ZonePowerLevel": 70
@@ -10137,7 +10137,7 @@
     "Objectives": [
       {
         "BackendName": "cannyvalley_reactive_mainframes",
-        "Count": 30,
+        "Count": 18,
         "Description": "Collect Circuit Boards by destroying servers in a 70\u002B zone",
         "HudShortDescription": "Circuit Boards collected",
         "ZonePowerLevel": 70
@@ -10413,7 +10413,7 @@
     "Objectives": [
       {
         "BackendName": "cannyvalley_reactive_oldmaps",
-        "Count": 50,
+        "Count": 35,
         "Description": "Destroy covered wagons in a 70\u002B zone",
         "HudShortDescription": "Map parts collected",
         "ZonePowerLevel": 70
@@ -11526,7 +11526,7 @@
     "Objectives": [
       {
         "BackendName": "cannyvalley_reactive_vacuum",
-        "Count": 30,
+        "Count": 18,
         "Description": "Collect Vacuum Parts in a 70\u002B Thunder Route 99 zone",
         "HudShortDescription": "Vacuum Parts found",
         "ZonePowerLevel": 70

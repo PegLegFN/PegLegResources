@@ -331,10 +331,12 @@
           "Hero:hid_constructor_027_dinoconstructor_sr_t01"
         ],
         [
-          "Hero:hid_ninja_039_dino_ninja_sr_t01"
+          "Hero:hid_ninja_039_dino_ninja_sr_t01",
+          "Schematic:sid_assault_chaosexploder_rifle_sr_ore_t01"
         ],
         [
-          "Hero:hid_outlander_zoneharvest_blockbuster_sr_t01"
+          "Hero:hid_outlander_zoneharvest_blockbuster_sr_t01",
+          "Schematic:sid_sniper_primal_flamebow_sr_ore_t01"
         ],
         [
           "Schematic:sid_blunt_hammer_boombox_sr_ore_t01",

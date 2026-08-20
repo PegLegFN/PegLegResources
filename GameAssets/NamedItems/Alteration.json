@@ -137,6 +137,18 @@
     "Type": "Alteration",
     "Name": "AID_Att_CoolingRate_T01",
     "DisplayName": "\u002B25% Cooling Rate",
+    "BasicModifiers": [
+      {
+        "operand": 1.25,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "WeaponOverheatCoolingMultiplier"
+      },
+      {
+        "operand": 1.25,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "WeaponOverheatCooldownMultiplier"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Common",
     "RarityUpRecipe": {
@@ -152,6 +164,18 @@
     "Type": "Alteration",
     "Name": "AID_Att_CoolingRate_T02",
     "DisplayName": "\u002B38% Cooling Rate",
+    "BasicModifiers": [
+      {
+        "operand": 1.38,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "WeaponOverheatCoolingMultiplier"
+      },
+      {
+        "operand": 1.38,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "WeaponOverheatCooldownMultiplier"
+      }
+    ],
     "IsPermanent": true,
     "RarityUpRecipe": {
       "Cost": {
@@ -166,6 +190,18 @@
     "Type": "Alteration",
     "Name": "AID_Att_CoolingRate_T03",
     "DisplayName": "\u002B50% Cooling Rate",
+    "BasicModifiers": [
+      {
+        "operand": 1.5,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "WeaponOverheatCoolingMultiplier"
+      },
+      {
+        "operand": 1.5,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "WeaponOverheatCooldownMultiplier"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Rare",
     "RarityUpRecipe": {
@@ -181,6 +217,18 @@
     "Type": "Alteration",
     "Name": "AID_Att_CoolingRate_T04",
     "DisplayName": "\u002B63% Cooling Rate",
+    "BasicModifiers": [
+      {
+        "operand": 1.63,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "WeaponOverheatCoolingMultiplier"
+      },
+      {
+        "operand": 1.63,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "WeaponOverheatCooldownMultiplier"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Epic",
     "RarityUpRecipe": {
@@ -196,6 +244,18 @@
     "Type": "Alteration",
     "Name": "AID_Att_CoolingRate_T05",
     "DisplayName": "\u002B75% Cooling Rate",
+    "BasicModifiers": [
+      {
+        "operand": 1.75,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "WeaponOverheatCoolingMultiplier"
+      },
+      {
+        "operand": 1.75,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "WeaponOverheatCooldownMultiplier"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/coolingrate/aid_att_coolingrate_t05.uasset"
@@ -204,6 +264,13 @@
     "Type": "Alteration",
     "Name": "AID_Att_CritChance_T01",
     "DisplayName": "\u002B10 Critical Rating",
+    "BasicModifiers": [
+      {
+        "operand": 10.0,
+        "operatorMode": "Additive",
+        "targetAttribute": "CritRating"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Common",
     "RarityUpRecipe": {
@@ -219,6 +286,13 @@
     "Type": "Alteration",
     "Name": "AID_Att_CritChance_T02",
     "DisplayName": "\u002B15 Critical Rating",
+    "BasicModifiers": [
+      {
+        "operand": 15.0,
+        "operatorMode": "Additive",
+        "targetAttribute": "CritRating"
+      }
+    ],
     "IsPermanent": true,
     "RarityUpRecipe": {
       "Cost": {
@@ -233,6 +307,13 @@
     "Type": "Alteration",
     "Name": "AID_Att_CritChance_T03",
     "DisplayName": "\u002B20 Critical Rating",
+    "BasicModifiers": [
+      {
+        "operand": 20.0,
+        "operatorMode": "Additive",
+        "targetAttribute": "CritRating"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Rare",
     "RarityUpRecipe": {
@@ -248,6 +329,13 @@
     "Type": "Alteration",
     "Name": "AID_Att_CritChance_T04",
     "DisplayName": "\u002B25 Critical Rating",
+    "BasicModifiers": [
+      {
+        "operand": 25.0,
+        "operatorMode": "Additive",
+        "targetAttribute": "CritRating"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Epic",
     "RarityUpRecipe": {
@@ -263,6 +351,13 @@
     "Type": "Alteration",
     "Name": "AID_Att_CritChance_T05",
     "DisplayName": "\u002B30 Critical Rating",
+    "BasicModifiers": [
+      {
+        "operand": 30.0,
+        "operatorMode": "Additive",
+        "targetAttribute": "CritRating"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/critchance/aid_att_critchance_t05.uasset"
@@ -271,6 +366,13 @@
     "Type": "Alteration",
     "Name": "AID_Att_CritDamage_T01",
     "DisplayName": "\u002B45% Crit Damage",
+    "BasicModifiers": [
+      {
+        "operand": 0.45,
+        "operatorMode": "Additive",
+        "targetAttribute": "DiceCritMultiplier"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Common",
     "RarityUpRecipe": {
@@ -286,6 +388,13 @@
     "Type": "Alteration",
     "Name": "AID_Att_CritDamage_T02",
     "DisplayName": "\u002B68% Crit Damage",
+    "BasicModifiers": [
+      {
+        "operand": 0.675,
+        "operatorMode": "Additive",
+        "targetAttribute": "DiceCritMultiplier"
+      }
+    ],
     "IsPermanent": true,
     "RarityUpRecipe": {
       "Cost": {
@@ -300,6 +409,13 @@
     "Type": "Alteration",
     "Name": "AID_Att_CritDamage_T03",
     "DisplayName": "\u002B90% Crit Damage",
+    "BasicModifiers": [
+      {
+        "operand": 0.9,
+        "operatorMode": "Additive",
+        "targetAttribute": "DiceCritMultiplier"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Rare",
     "RarityUpRecipe": {
@@ -315,6 +431,13 @@
     "Type": "Alteration",
     "Name": "AID_Att_CritDamage_T04",
     "DisplayName": "\u002B113% Crit Damage",
+    "BasicModifiers": [
+      {
+        "operand": 1.125,
+        "operatorMode": "Additive",
+        "targetAttribute": "DiceCritMultiplier"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Epic",
     "RarityUpRecipe": {
@@ -330,6 +453,13 @@
     "Type": "Alteration",
     "Name": "AID_Att_CritDamage_T05",
     "DisplayName": "\u002B135% Crit Damage",
+    "BasicModifiers": [
+      {
+        "operand": 1.35,
+        "operatorMode": "Additive",
+        "targetAttribute": "DiceCritMultiplier"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/critdamage/aid_att_critdamage_t05.uasset"
@@ -341,6 +471,13 @@
     "AdditionalRespecCost": {
       "AccountResource:Reagent_Alteration_Generic": 1500
     },
+    "BasicModifiers": [
+      {
+        "operand": 1.1999999,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "OutgoingAbilityDamage"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Common",
     "RarityUpRecipe": {
@@ -363,6 +500,13 @@
     "AdditionalRespecCost": {
       "AccountResource:Reagent_Alteration_Generic": 1500
     },
+    "BasicModifiers": [
+      {
+        "operand": 1.26,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "OutgoingAbilityDamage"
+      }
+    ],
     "IsPermanent": true,
     "RarityUpRecipe": {
       "Cost": {
@@ -384,6 +528,13 @@
     "AdditionalRespecCost": {
       "AccountResource:Reagent_Alteration_Generic": 1500
     },
+    "BasicModifiers": [
+      {
+        "operand": 1.32,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "OutgoingAbilityDamage"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Rare",
     "RarityUpRecipe": {
@@ -406,6 +557,13 @@
     "AdditionalRespecCost": {
       "AccountResource:Reagent_Alteration_Generic": 1500
     },
+    "BasicModifiers": [
+      {
+        "operand": 1.38,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "OutgoingAbilityDamage"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Epic",
     "RarityUpRecipe": {
@@ -428,6 +586,13 @@
     "AdditionalRespecCost": {
       "AccountResource:Reagent_Alteration_Generic": 1500
     },
+    "BasicModifiers": [
+      {
+        "operand": 1.44,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "OutgoingAbilityDamage"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/physical/aid_att_damage_physical_t05.uasset",
@@ -440,6 +605,13 @@
     "Type": "Alteration",
     "Name": "AID_Att_Damage_T01",
     "DisplayName": "\u002B10% Damage",
+    "BasicModifiers": [
+      {
+        "operand": 1.1,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "OutgoingAbilityDamage"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Common",
     "RarityUpRecipe": {
@@ -455,6 +627,13 @@
     "Type": "Alteration",
     "Name": "AID_Att_Damage_T02",
     "DisplayName": "\u002B15% Damage",
+    "BasicModifiers": [
+      {
+        "operand": 1.15,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "OutgoingAbilityDamage"
+      }
+    ],
     "IsPermanent": true,
     "RarityUpRecipe": {
       "Cost": {
@@ -469,6 +648,13 @@
     "Type": "Alteration",
     "Name": "AID_Att_Damage_T03",
     "DisplayName": "\u002B20% Damage",
+    "BasicModifiers": [
+      {
+        "operand": 1.2,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "OutgoingAbilityDamage"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Rare",
     "RarityUpRecipe": {
@@ -484,6 +670,13 @@
     "Type": "Alteration",
     "Name": "AID_Att_Damage_T04",
     "DisplayName": "\u002B25% Damage",
+    "BasicModifiers": [
+      {
+        "operand": 1.25,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "OutgoingAbilityDamage"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Epic",
     "RarityUpRecipe": {
@@ -499,6 +692,13 @@
     "Type": "Alteration",
     "Name": "AID_Att_Damage_T05",
     "DisplayName": "\u002B30% Damage",
+    "BasicModifiers": [
+      {
+        "operand": 1.3,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "OutgoingAbilityDamage"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/damage/aid_att_damage_t05.uasset"
@@ -507,6 +707,13 @@
     "Type": "Alteration",
     "Name": "AID_Att_DamageResistance_T01",
     "DisplayName": "\u002B13 Armor",
+    "BasicModifiers": [
+      {
+        "operand": 13.0,
+        "operatorMode": "Additive",
+        "targetAttribute": "Armor"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Common",
     "RarityUpRecipe": {
@@ -522,6 +729,13 @@
     "Type": "Alteration",
     "Name": "AID_Att_DamageResistance_T02",
     "DisplayName": "\u002B20 Armor",
+    "BasicModifiers": [
+      {
+        "operand": 20.0,
+        "operatorMode": "Additive",
+        "targetAttribute": "Armor"
+      }
+    ],
     "IsPermanent": true,
     "RarityUpRecipe": {
       "Cost": {
@@ -536,6 +750,13 @@
     "Type": "Alteration",
     "Name": "AID_Att_DamageResistance_T03",
     "DisplayName": "\u002B27 Armor",
+    "BasicModifiers": [
+      {
+        "operand": 27.0,
+        "operatorMode": "Additive",
+        "targetAttribute": "Armor"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Rare",
     "RarityUpRecipe": {
@@ -551,6 +772,13 @@
     "Type": "Alteration",
     "Name": "AID_Att_DamageResistance_T04",
     "DisplayName": "\u002B33 Armor",
+    "BasicModifiers": [
+      {
+        "operand": 33.0,
+        "operatorMode": "Additive",
+        "targetAttribute": "Armor"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Epic",
     "RarityUpRecipe": {
@@ -566,6 +794,13 @@
     "Type": "Alteration",
     "Name": "AID_Att_DamageResistance_T05",
     "DisplayName": "\u002B40 Armor",
+    "BasicModifiers": [
+      {
+        "operand": 40.0,
+        "operatorMode": "Additive",
+        "targetAttribute": "Armor"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/damageresistance/aid_att_damageresistance_t05.uasset"
@@ -644,6 +879,13 @@
     "Type": "Alteration",
     "Name": "AID_Att_Def_MoveSpeed",
     "DisplayName": "Increases movement speed by 12%",
+    "BasicModifiers": [
+      {
+        "operand": 0.0,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "LandSpeedMultiplier"
+      }
+    ],
     "IsPermanent": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/defenders/melee/aid_att_def_movespeed.uasset"
   },
@@ -742,6 +984,18 @@
     "Type": "Alteration",
     "Name": "AID_Att_EffectDuration_T01",
     "DisplayName": "\u002B10% Effect Duration",
+    "BasicModifiers": [
+      {
+        "operand": 1.1,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "OutgoingDuration"
+      },
+      {
+        "operand": 1.1,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "StunTime"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Common",
     "RarityUpRecipe": {
@@ -757,6 +1011,18 @@
     "Type": "Alteration",
     "Name": "AID_Att_EffectDuration_T02",
     "DisplayName": "\u002B15% Effect Duration",
+    "BasicModifiers": [
+      {
+        "operand": 1.15,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "OutgoingDuration"
+      },
+      {
+        "operand": 1.15,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "StunTime"
+      }
+    ],
     "IsPermanent": true,
     "RarityUpRecipe": {
       "Cost": {
@@ -771,6 +1037,18 @@
     "Type": "Alteration",
     "Name": "AID_Att_EffectDuration_T03",
     "DisplayName": "\u002B20% Effect Duration",
+    "BasicModifiers": [
+      {
+        "operand": 1.2,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "OutgoingDuration"
+      },
+      {
+        "operand": 1.2,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "StunTime"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Rare",
     "RarityUpRecipe": {
@@ -786,6 +1064,18 @@
     "Type": "Alteration",
     "Name": "AID_Att_EffectDuration_T04",
     "DisplayName": "\u002B25% Effect Duration",
+    "BasicModifiers": [
+      {
+        "operand": 1.25,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "OutgoingDuration"
+      },
+      {
+        "operand": 1.25,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "StunTime"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Epic",
     "RarityUpRecipe": {
@@ -801,6 +1091,18 @@
     "Type": "Alteration",
     "Name": "AID_Att_EffectDuration_T05",
     "DisplayName": "\u002B30% Effect Duration",
+    "BasicModifiers": [
+      {
+        "operand": 1.3,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "OutgoingDuration"
+      },
+      {
+        "operand": 1.3,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "StunTime"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/effectduration/aid_att_effectduration_t05.uasset"
@@ -809,6 +1111,18 @@
     "Type": "Alteration",
     "Name": "AID_Att_FireRate_Melee_T01",
     "DisplayName": "\u002B10% Attack Speed",
+    "BasicModifiers": [
+      {
+        "operand": 1.14,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "WeaponRateOfFire"
+      },
+      {
+        "operand": 1.1,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "WeaponRateOfFire"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Common",
     "RarityUpRecipe": {
@@ -824,6 +1138,18 @@
     "Type": "Alteration",
     "Name": "AID_Att_FireRate_Melee_T02",
     "DisplayName": "\u002B15% Attack Speed",
+    "BasicModifiers": [
+      {
+        "operand": 1.2099999,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "WeaponRateOfFire"
+      },
+      {
+        "operand": 1.15,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "WeaponRateOfFire"
+      }
+    ],
     "IsPermanent": true,
     "RarityUpRecipe": {
       "Cost": {
@@ -838,6 +1164,18 @@
     "Type": "Alteration",
     "Name": "AID_Att_FireRate_Melee_T03",
     "DisplayName": "\u002B20% Attack Speed",
+    "BasicModifiers": [
+      {
+        "operand": 1.28,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "WeaponRateOfFire"
+      },
+      {
+        "operand": 1.2,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "WeaponRateOfFire"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Rare",
     "RarityUpRecipe": {
@@ -853,6 +1191,18 @@
     "Type": "Alteration",
     "Name": "AID_Att_FireRate_Melee_T04",
     "DisplayName": "\u002B25% Attack Speed",
+    "BasicModifiers": [
+      {
+        "operand": 1.3499999,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "WeaponRateOfFire"
+      },
+      {
+        "operand": 1.25,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "WeaponRateOfFire"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Epic",
     "RarityUpRecipe": {
@@ -868,6 +1218,18 @@
     "Type": "Alteration",
     "Name": "AID_Att_FireRate_Melee_T05",
     "DisplayName": "\u002B30% Attack Speed",
+    "BasicModifiers": [
+      {
+        "operand": 1.42,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "WeaponRateOfFire"
+      },
+      {
+        "operand": 1.3,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "WeaponRateOfFire"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/firerate/aid_att_firerate_melee_t05.uasset"
@@ -876,6 +1238,18 @@
     "Type": "Alteration",
     "Name": "AID_Att_FireRate_Ranged_T01",
     "DisplayName": "\u002B14% Fire Rate",
+    "BasicModifiers": [
+      {
+        "operand": 1.14,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "WeaponRateOfFire"
+      },
+      {
+        "operand": 1.1,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "WeaponRateOfFire"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Common",
     "RarityUpRecipe": {
@@ -891,6 +1265,18 @@
     "Type": "Alteration",
     "Name": "AID_Att_FireRate_Ranged_T02",
     "DisplayName": "\u002B21% Fire Rate",
+    "BasicModifiers": [
+      {
+        "operand": 1.2099999,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "WeaponRateOfFire"
+      },
+      {
+        "operand": 1.15,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "WeaponRateOfFire"
+      }
+    ],
     "IsPermanent": true,
     "RarityUpRecipe": {
       "Cost": {
@@ -905,6 +1291,18 @@
     "Type": "Alteration",
     "Name": "AID_Att_FireRate_Ranged_T03",
     "DisplayName": "\u002B28% Fire Rate",
+    "BasicModifiers": [
+      {
+        "operand": 1.28,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "WeaponRateOfFire"
+      },
+      {
+        "operand": 1.2,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "WeaponRateOfFire"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Rare",
     "RarityUpRecipe": {
@@ -920,6 +1318,18 @@
     "Type": "Alteration",
     "Name": "AID_Att_FireRate_Ranged_T04",
     "DisplayName": "\u002B35% Fire Rate",
+    "BasicModifiers": [
+      {
+        "operand": 1.3499999,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "WeaponRateOfFire"
+      },
+      {
+        "operand": 1.25,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "WeaponRateOfFire"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Epic",
     "RarityUpRecipe": {
@@ -935,6 +1345,18 @@
     "Type": "Alteration",
     "Name": "AID_Att_FireRate_Ranged_T05",
     "DisplayName": "\u002B42% Fire Rate",
+    "BasicModifiers": [
+      {
+        "operand": 1.42,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "WeaponRateOfFire"
+      },
+      {
+        "operand": 1.3,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "WeaponRateOfFire"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/firerate/aid_att_firerate_ranged_t05.uasset"
@@ -943,6 +1365,13 @@
     "Type": "Alteration",
     "Name": "AID_Att_HeadshotDamage_T01",
     "DisplayName": "\u002B13% Headshot Damage",
+    "BasicModifiers": [
+      {
+        "operand": 1.13,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "ZoneCritMultiplier"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Common",
     "RarityUpRecipe": {
@@ -958,6 +1387,13 @@
     "Type": "Alteration",
     "Name": "AID_Att_HeadshotDamage_T02",
     "DisplayName": "\u002B20% Headshot Damage",
+    "BasicModifiers": [
+      {
+        "operand": 1.2,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "ZoneCritMultiplier"
+      }
+    ],
     "IsPermanent": true,
     "RarityUpRecipe": {
       "Cost": {
@@ -972,6 +1408,13 @@
     "Type": "Alteration",
     "Name": "AID_Att_HeadshotDamage_T03",
     "DisplayName": "\u002B27% Headshot Damage",
+    "BasicModifiers": [
+      {
+        "operand": 1.27,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "ZoneCritMultiplier"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Rare",
     "RarityUpRecipe": {
@@ -987,6 +1430,13 @@
     "Type": "Alteration",
     "Name": "AID_Att_HeadshotDamage_T04",
     "DisplayName": "\u002B33% Headshot Damage",
+    "BasicModifiers": [
+      {
+        "operand": 1.33,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "ZoneCritMultiplier"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Epic",
     "RarityUpRecipe": {
@@ -1002,6 +1452,13 @@
     "Type": "Alteration",
     "Name": "AID_Att_HeadshotDamage_T05",
     "DisplayName": "\u002B40% Headshot Damage",
+    "BasicModifiers": [
+      {
+        "operand": 1.4,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "ZoneCritMultiplier"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/headshotdamage/aid_att_headshotdamage_t05.uasset"
@@ -1010,6 +1467,13 @@
     "Type": "Alteration",
     "Name": "AID_Att_Healing_T01",
     "DisplayName": "\u002B10% Healing Amount",
+    "BasicModifiers": [
+      {
+        "operand": 1.1,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "HealingSourceBaseMultiplier"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Common",
     "RarityUpRecipe": {
@@ -1025,6 +1489,13 @@
     "Type": "Alteration",
     "Name": "AID_Att_Healing_T02",
     "DisplayName": "\u002B15% Healing Amount",
+    "BasicModifiers": [
+      {
+        "operand": 1.15,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "HealingSourceBaseMultiplier"
+      }
+    ],
     "IsPermanent": true,
     "RarityUpRecipe": {
       "Cost": {
@@ -1039,6 +1510,13 @@
     "Type": "Alteration",
     "Name": "AID_Att_Healing_T03",
     "DisplayName": "\u002B20% Healing Amount",
+    "BasicModifiers": [
+      {
+        "operand": 1.2,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "HealingSourceBaseMultiplier"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Rare",
     "RarityUpRecipe": {
@@ -1054,6 +1532,13 @@
     "Type": "Alteration",
     "Name": "AID_Att_Healing_T04",
     "DisplayName": "\u002B25% Healing Amount",
+    "BasicModifiers": [
+      {
+        "operand": 1.25,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "HealingSourceBaseMultiplier"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Epic",
     "RarityUpRecipe": {
@@ -1069,6 +1554,13 @@
     "Type": "Alteration",
     "Name": "AID_Att_Healing_T05",
     "DisplayName": "\u002B30% Healing Amount",
+    "BasicModifiers": [
+      {
+        "operand": 1.3,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "HealingSourceBaseMultiplier"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/healing/aid_att_healing_t05.uasset"
@@ -1077,6 +1569,13 @@
     "Type": "Alteration",
     "Name": "AID_Att_HeatCapacity_T01",
     "DisplayName": "\u002B25% Heat Capacity",
+    "BasicModifiers": [
+      {
+        "operand": 1.25,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "WeaponOverheatMaxMultiplier"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Common",
     "RarityUpRecipe": {
@@ -1092,6 +1591,13 @@
     "Type": "Alteration",
     "Name": "AID_Att_HeatCapacity_T02",
     "DisplayName": "\u002B38% Heat Capacity",
+    "BasicModifiers": [
+      {
+        "operand": 1.38,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "WeaponOverheatMaxMultiplier"
+      }
+    ],
     "IsPermanent": true,
     "RarityUpRecipe": {
       "Cost": {
@@ -1106,6 +1612,13 @@
     "Type": "Alteration",
     "Name": "AID_Att_HeatCapacity_T03",
     "DisplayName": "\u002B50% Heat Capacity",
+    "BasicModifiers": [
+      {
+        "operand": 1.5,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "WeaponOverheatMaxMultiplier"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Rare",
     "RarityUpRecipe": {
@@ -1121,6 +1634,13 @@
     "Type": "Alteration",
     "Name": "AID_Att_HeatCapacity_T04",
     "DisplayName": "\u002B63% Heat Capacity",
+    "BasicModifiers": [
+      {
+        "operand": 1.63,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "WeaponOverheatMaxMultiplier"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Epic",
     "RarityUpRecipe": {
@@ -1136,6 +1656,13 @@
     "Type": "Alteration",
     "Name": "AID_Att_HeatCapacity_T05",
     "DisplayName": "\u002B75% Heat Capacity",
+    "BasicModifiers": [
+      {
+        "operand": 1.75,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "WeaponOverheatMaxMultiplier"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/heatcapacity/aid_att_heatcapacity_t05.uasset"
@@ -1144,6 +1671,13 @@
     "Type": "Alteration",
     "Name": "AID_Att_HeavyAttackStaminaCost_T01",
     "DisplayName": "\u002B40% Heavy Attack Energy Efficiency",
+    "BasicModifiers": [
+      {
+        "operand": 1.4000001,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "StaminaCost"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Common",
     "RarityUpRecipe": {
@@ -1159,6 +1693,13 @@
     "Type": "Alteration",
     "Name": "AID_Att_HeavyAttackStaminaCost_T02",
     "DisplayName": "\u002B60% Heavy Attack Energy Efficiency",
+    "BasicModifiers": [
+      {
+        "operand": 1.6,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "StaminaCost"
+      }
+    ],
     "IsPermanent": true,
     "RarityUpRecipe": {
       "Cost": {
@@ -1173,6 +1714,13 @@
     "Type": "Alteration",
     "Name": "AID_Att_HeavyAttackStaminaCost_T03",
     "DisplayName": "\u002B80% Heavy Attack Energy Efficiency",
+    "BasicModifiers": [
+      {
+        "operand": 1.8,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "StaminaCost"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Rare",
     "RarityUpRecipe": {
@@ -1188,6 +1736,13 @@
     "Type": "Alteration",
     "Name": "AID_Att_HeavyAttackStaminaCost_T04",
     "DisplayName": "\u002B100% Heavy Attack Energy Efficiency",
+    "BasicModifiers": [
+      {
+        "operand": 2.0,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "StaminaCost"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Epic",
     "RarityUpRecipe": {
@@ -1203,6 +1758,13 @@
     "Type": "Alteration",
     "Name": "AID_Att_HeavyAttackStaminaCost_T05",
     "DisplayName": "\u002B120% Heavy Attack Energy Efficiency",
+    "BasicModifiers": [
+      {
+        "operand": 2.2,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "StaminaCost"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/heavyattackstaminacost/aid_att_heavyattackstaminacost_t05.uasset"
@@ -1211,6 +1773,18 @@
     "Type": "Alteration",
     "Name": "AID_Att_KnockbackImpact_T01",
     "DisplayName": "\u002B5% Impact and Knockback",
+    "BasicModifiers": [
+      {
+        "operand": 1.05,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "KnockbackMagnitude"
+      },
+      {
+        "operand": 1.05,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "OutgoingBaseImpactDamage"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Common",
     "RarityUpRecipe": {
@@ -1226,6 +1800,18 @@
     "Type": "Alteration",
     "Name": "AID_Att_KnockbackImpact_T02",
     "DisplayName": "\u002B7.5% Impact and Knockback",
+    "BasicModifiers": [
+      {
+        "operand": 1.075,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "KnockbackMagnitude"
+      },
+      {
+        "operand": 1.075,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "OutgoingBaseImpactDamage"
+      }
+    ],
     "IsPermanent": true,
     "RarityUpRecipe": {
       "Cost": {
@@ -1240,6 +1826,18 @@
     "Type": "Alteration",
     "Name": "AID_Att_KnockbackImpact_T03",
     "DisplayName": "\u002B10% Impact and Knockback",
+    "BasicModifiers": [
+      {
+        "operand": 1.1,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "KnockbackMagnitude"
+      },
+      {
+        "operand": 1.1,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "OutgoingBaseImpactDamage"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Rare",
     "RarityUpRecipe": {
@@ -1255,6 +1853,18 @@
     "Type": "Alteration",
     "Name": "AID_Att_KnockbackImpact_T04",
     "DisplayName": "\u002B12.5% Impact and Knockback",
+    "BasicModifiers": [
+      {
+        "operand": 1.125,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "KnockbackMagnitude"
+      },
+      {
+        "operand": 1.125,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "OutgoingBaseImpactDamage"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Epic",
     "RarityUpRecipe": {
@@ -1270,6 +1880,18 @@
     "Type": "Alteration",
     "Name": "AID_Att_KnockbackImpact_T05",
     "DisplayName": "\u002B15% Impact and Knockback",
+    "BasicModifiers": [
+      {
+        "operand": 1.15,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "KnockbackMagnitude"
+      },
+      {
+        "operand": 1.15,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "OutgoingBaseImpactDamage"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/impact/aid_att_knockbackimpact_t05.uasset"
@@ -1345,6 +1967,13 @@
     "Type": "Alteration",
     "Name": "AID_Att_MagazineSize_T01",
     "DisplayName": "\u002B25% Magazine Size",
+    "BasicModifiers": [
+      {
+        "operand": 1.25,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "WeaponAmmoClipSize"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Common",
     "RarityUpRecipe": {
@@ -1360,6 +1989,13 @@
     "Type": "Alteration",
     "Name": "AID_Att_MagazineSize_T02",
     "DisplayName": "\u002B38% Magazine Size",
+    "BasicModifiers": [
+      {
+        "operand": 1.38,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "WeaponAmmoClipSize"
+      }
+    ],
     "IsPermanent": true,
     "RarityUpRecipe": {
       "Cost": {
@@ -1374,6 +2010,13 @@
     "Type": "Alteration",
     "Name": "AID_Att_MagazineSize_T03",
     "DisplayName": "\u002B50% Magazine Size",
+    "BasicModifiers": [
+      {
+        "operand": 1.5,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "WeaponAmmoClipSize"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Rare",
     "RarityUpRecipe": {
@@ -1389,6 +2032,13 @@
     "Type": "Alteration",
     "Name": "AID_Att_MagazineSize_T04",
     "DisplayName": "\u002B63% Magazine Size",
+    "BasicModifiers": [
+      {
+        "operand": 1.63,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "WeaponAmmoClipSize"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Epic",
     "RarityUpRecipe": {
@@ -1404,6 +2054,13 @@
     "Type": "Alteration",
     "Name": "AID_Att_MagazineSize_T05",
     "DisplayName": "\u002B75% Magazine Size",
+    "BasicModifiers": [
+      {
+        "operand": 1.75,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "WeaponAmmoClipSize"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/magazinesize/aid_att_magazinesize_t05.uasset"
@@ -1412,6 +2069,13 @@
     "Type": "Alteration",
     "Name": "AID_Att_MaxDurability_T01",
     "DisplayName": "\u002B14% Durability",
+    "BasicModifiers": [
+      {
+        "operand": 1.14,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "CharacterItemDurabilityDecayModifier"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Common",
     "RarityUpRecipe": {
@@ -1427,6 +2091,13 @@
     "Type": "Alteration",
     "Name": "AID_Att_MaxDurability_T02",
     "DisplayName": "\u002B21% Durability",
+    "BasicModifiers": [
+      {
+        "operand": 1.21,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "CharacterItemDurabilityDecayModifier"
+      }
+    ],
     "IsPermanent": true,
     "RarityUpRecipe": {
       "Cost": {
@@ -1441,6 +2112,13 @@
     "Type": "Alteration",
     "Name": "AID_Att_MaxDurability_T03",
     "DisplayName": "\u002B28% Durability",
+    "BasicModifiers": [
+      {
+        "operand": 1.28,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "CharacterItemDurabilityDecayModifier"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Rare",
     "RarityUpRecipe": {
@@ -1456,6 +2134,13 @@
     "Type": "Alteration",
     "Name": "AID_Att_MaxDurability_T04",
     "DisplayName": "\u002B35% Durability",
+    "BasicModifiers": [
+      {
+        "operand": 1.35,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "CharacterItemDurabilityDecayModifier"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Epic",
     "RarityUpRecipe": {
@@ -1471,6 +2156,13 @@
     "Type": "Alteration",
     "Name": "AID_Att_MaxDurability_T05",
     "DisplayName": "\u002B42% Durability",
+    "BasicModifiers": [
+      {
+        "operand": 1.42,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "CharacterItemDurabilityDecayModifier"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/maxdurability/aid_att_maxdurability_t05.uasset"
@@ -1479,6 +2171,13 @@
     "Type": "Alteration",
     "Name": "AID_Att_MaxDurability_Trap_T01",
     "DisplayName": "\u002B14% Durability",
+    "BasicModifiers": [
+      {
+        "operand": 1.14,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "CharacterItemDurabilityDecayModifier"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Common",
     "RarityUpRecipe": {
@@ -1494,6 +2193,13 @@
     "Type": "Alteration",
     "Name": "AID_Att_MaxDurability_Trap_T02",
     "DisplayName": "\u002B21% Durability",
+    "BasicModifiers": [
+      {
+        "operand": 1.21,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "CharacterItemDurabilityDecayModifier"
+      }
+    ],
     "IsPermanent": true,
     "RarityUpRecipe": {
       "Cost": {
@@ -1508,6 +2214,13 @@
     "Type": "Alteration",
     "Name": "AID_Att_MaxDurability_Trap_T03",
     "DisplayName": "\u002B28% Durability",
+    "BasicModifiers": [
+      {
+        "operand": 1.28,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "CharacterItemDurabilityDecayModifier"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Rare",
     "RarityUpRecipe": {
@@ -1523,6 +2236,13 @@
     "Type": "Alteration",
     "Name": "AID_Att_MaxDurability_Trap_T04",
     "DisplayName": "\u002B35% Durability",
+    "BasicModifiers": [
+      {
+        "operand": 1.35,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "CharacterItemDurabilityDecayModifier"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Epic",
     "RarityUpRecipe": {
@@ -1538,6 +2258,13 @@
     "Type": "Alteration",
     "Name": "AID_Att_MaxDurability_Trap_T05",
     "DisplayName": "\u002B42% Durability",
+    "BasicModifiers": [
+      {
+        "operand": 1.42,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "CharacterItemDurabilityDecayModifier"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/maxdurability/aid_att_maxdurability_trap_t05.uasset"
@@ -1546,6 +2273,13 @@
     "Type": "Alteration",
     "Name": "AID_Att_MovementSpeed_T01",
     "DisplayName": "\u002B5% Movement Speed",
+    "BasicModifiers": [
+      {
+        "operand": 1.05,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "LandSpeedMultiplier"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Common",
     "RarityUpRecipe": {
@@ -1561,6 +2295,13 @@
     "Type": "Alteration",
     "Name": "AID_Att_MovementSpeed_T02",
     "DisplayName": "\u002B7% Movement Speed",
+    "BasicModifiers": [
+      {
+        "operand": 1.07,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "LandSpeedMultiplier"
+      }
+    ],
     "IsPermanent": true,
     "RarityUpRecipe": {
       "Cost": {
@@ -1575,6 +2316,13 @@
     "Type": "Alteration",
     "Name": "AID_Att_MovementSpeed_T03",
     "DisplayName": "\u002B10% Movement Speed",
+    "BasicModifiers": [
+      {
+        "operand": 1.1,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "LandSpeedMultiplier"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Rare",
     "RarityUpRecipe": {
@@ -1590,6 +2338,13 @@
     "Type": "Alteration",
     "Name": "AID_Att_MovementSpeed_T04",
     "DisplayName": "\u002B12% Movement Speed",
+    "BasicModifiers": [
+      {
+        "operand": 1.12,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "LandSpeedMultiplier"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Epic",
     "RarityUpRecipe": {
@@ -1605,6 +2360,13 @@
     "Type": "Alteration",
     "Name": "AID_Att_MovementSpeed_T05",
     "DisplayName": "\u002B14% Movement Speed",
+    "BasicModifiers": [
+      {
+        "operand": 1.14,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "LandSpeedMultiplier"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/movementspeed/aid_att_movementspeed_t05.uasset"
@@ -1613,6 +2375,18 @@
     "Type": "Alteration",
     "Name": "AID_Att_ReloadSpeed_Ranged_T01",
     "DisplayName": "\u002B25% Reload Speed",
+    "BasicModifiers": [
+      {
+        "operand": 1.25,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "WeaponReloadSpeed"
+      },
+      {
+        "operand": 1.14,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "TrapReloadSpeed"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Common",
     "RarityUpRecipe": {
@@ -1628,6 +2402,18 @@
     "Type": "Alteration",
     "Name": "AID_Att_ReloadSpeed_Ranged_T02",
     "DisplayName": "\u002B38% Reload Speed",
+    "BasicModifiers": [
+      {
+        "operand": 1.38,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "WeaponReloadSpeed"
+      },
+      {
+        "operand": 1.21,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "TrapReloadSpeed"
+      }
+    ],
     "IsPermanent": true,
     "RarityUpRecipe": {
       "Cost": {
@@ -1642,6 +2428,18 @@
     "Type": "Alteration",
     "Name": "AID_Att_ReloadSpeed_Ranged_T03",
     "DisplayName": "\u002B50% Reload Speed",
+    "BasicModifiers": [
+      {
+        "operand": 1.5,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "WeaponReloadSpeed"
+      },
+      {
+        "operand": 1.28,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "TrapReloadSpeed"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Rare",
     "RarityUpRecipe": {
@@ -1657,6 +2455,18 @@
     "Type": "Alteration",
     "Name": "AID_Att_ReloadSpeed_Ranged_T04",
     "DisplayName": "\u002B63% Reload Speed",
+    "BasicModifiers": [
+      {
+        "operand": 1.63,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "WeaponReloadSpeed"
+      },
+      {
+        "operand": 1.35,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "TrapReloadSpeed"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Epic",
     "RarityUpRecipe": {
@@ -1672,6 +2482,18 @@
     "Type": "Alteration",
     "Name": "AID_Att_ReloadSpeed_Ranged_T05",
     "DisplayName": "\u002B75% Reload Speed",
+    "BasicModifiers": [
+      {
+        "operand": 1.75,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "WeaponReloadSpeed"
+      },
+      {
+        "operand": 1.42,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "TrapReloadSpeed"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/reloadspeed/aid_att_reloadspeed_ranged_t05.uasset"
@@ -1680,6 +2502,18 @@
     "Type": "Alteration",
     "Name": "AID_Att_ReloadSpeed_Trap_T01",
     "DisplayName": "\u002B14% Reload Speed",
+    "BasicModifiers": [
+      {
+        "operand": 1.25,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "WeaponReloadSpeed"
+      },
+      {
+        "operand": 1.14,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "TrapReloadSpeed"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Common",
     "RarityUpRecipe": {
@@ -1695,6 +2529,18 @@
     "Type": "Alteration",
     "Name": "AID_Att_ReloadSpeed_Trap_T02",
     "DisplayName": "\u002B21% Reload Speed",
+    "BasicModifiers": [
+      {
+        "operand": 1.38,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "WeaponReloadSpeed"
+      },
+      {
+        "operand": 1.21,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "TrapReloadSpeed"
+      }
+    ],
     "IsPermanent": true,
     "RarityUpRecipe": {
       "Cost": {
@@ -1709,6 +2555,18 @@
     "Type": "Alteration",
     "Name": "AID_Att_ReloadSpeed_Trap_T03",
     "DisplayName": "\u002B28% Reload Speed",
+    "BasicModifiers": [
+      {
+        "operand": 1.5,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "WeaponReloadSpeed"
+      },
+      {
+        "operand": 1.28,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "TrapReloadSpeed"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Rare",
     "RarityUpRecipe": {
@@ -1724,6 +2582,18 @@
     "Type": "Alteration",
     "Name": "AID_Att_ReloadSpeed_Trap_T04",
     "DisplayName": "\u002B35% Reload Speed",
+    "BasicModifiers": [
+      {
+        "operand": 1.63,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "WeaponReloadSpeed"
+      },
+      {
+        "operand": 1.35,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "TrapReloadSpeed"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Epic",
     "RarityUpRecipe": {
@@ -1739,6 +2609,18 @@
     "Type": "Alteration",
     "Name": "AID_Att_ReloadSpeed_Trap_T05",
     "DisplayName": "\u002B42% Reload Speed",
+    "BasicModifiers": [
+      {
+        "operand": 1.75,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "WeaponReloadSpeed"
+      },
+      {
+        "operand": 1.42,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "TrapReloadSpeed"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/reloadspeed/aid_att_reloadspeed_trap_t05.uasset"
@@ -1747,6 +2629,18 @@
     "Type": "Alteration",
     "Name": "AID_Att_Stability_T01",
     "DisplayName": "\u002B20% Weapon Stability",
+    "BasicModifiers": [
+      {
+        "operand": 1.2,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "WeaponVerticalRecoil"
+      },
+      {
+        "operand": 1.15,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "WeaponHorizontalRecoil"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Common",
     "RarityUpRecipe": {
@@ -1762,6 +2656,18 @@
     "Type": "Alteration",
     "Name": "AID_Att_Stability_T02",
     "DisplayName": "\u002B30% Weapon Stability",
+    "BasicModifiers": [
+      {
+        "operand": 1.3,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "WeaponVerticalRecoil"
+      },
+      {
+        "operand": 1.23,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "WeaponHorizontalRecoil"
+      }
+    ],
     "IsPermanent": true,
     "RarityUpRecipe": {
       "Cost": {
@@ -1776,6 +2682,18 @@
     "Type": "Alteration",
     "Name": "AID_Att_Stability_T03",
     "DisplayName": "\u002B40% Weapon Stability",
+    "BasicModifiers": [
+      {
+        "operand": 1.4,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "WeaponVerticalRecoil"
+      },
+      {
+        "operand": 1.3,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "WeaponHorizontalRecoil"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Rare",
     "RarityUpRecipe": {
@@ -1791,6 +2709,18 @@
     "Type": "Alteration",
     "Name": "AID_Att_Stability_T04",
     "DisplayName": "\u002B50% Weapon Stability",
+    "BasicModifiers": [
+      {
+        "operand": 1.5,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "WeaponVerticalRecoil"
+      },
+      {
+        "operand": 1.38,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "WeaponHorizontalRecoil"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Epic",
     "RarityUpRecipe": {
@@ -1806,6 +2736,18 @@
     "Type": "Alteration",
     "Name": "AID_Att_Stability_T05",
     "DisplayName": "\u002B60% Weapon Stability",
+    "BasicModifiers": [
+      {
+        "operand": 1.5999999,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "WeaponVerticalRecoil"
+      },
+      {
+        "operand": 1.4499999,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "WeaponHorizontalRecoil"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/stability/aid_att_stability_t05.uasset"
@@ -1881,6 +2823,18 @@
     "Type": "Alteration",
     "Name": "AID_Att_WeaponImpact_T01",
     "DisplayName": "\u002B20% Impact",
+    "BasicModifiers": [
+      {
+        "operand": 1.05,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "KnockbackMagnitude"
+      },
+      {
+        "operand": 1.05,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "OutgoingBaseImpactDamage"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Common",
     "RarityUpRecipe": {
@@ -1896,6 +2850,18 @@
     "Type": "Alteration",
     "Name": "AID_Att_WeaponImpact_T02",
     "DisplayName": "\u002B30% Impact",
+    "BasicModifiers": [
+      {
+        "operand": 1.075,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "KnockbackMagnitude"
+      },
+      {
+        "operand": 1.075,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "OutgoingBaseImpactDamage"
+      }
+    ],
     "IsPermanent": true,
     "RarityUpRecipe": {
       "Cost": {
@@ -1910,6 +2876,18 @@
     "Type": "Alteration",
     "Name": "AID_Att_WeaponImpact_T03",
     "DisplayName": "\u002B40% Impact",
+    "BasicModifiers": [
+      {
+        "operand": 1.1,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "KnockbackMagnitude"
+      },
+      {
+        "operand": 1.1,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "OutgoingBaseImpactDamage"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Rare",
     "RarityUpRecipe": {
@@ -1925,6 +2903,18 @@
     "Type": "Alteration",
     "Name": "AID_Att_WeaponImpact_T04",
     "DisplayName": "\u002B50% Impact",
+    "BasicModifiers": [
+      {
+        "operand": 1.125,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "KnockbackMagnitude"
+      },
+      {
+        "operand": 1.125,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "OutgoingBaseImpactDamage"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Epic",
     "RarityUpRecipe": {
@@ -1940,6 +2930,18 @@
     "Type": "Alteration",
     "Name": "AID_Att_WeaponImpact_T05",
     "DisplayName": "\u002B60% Impact",
+    "BasicModifiers": [
+      {
+        "operand": 1.15,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "KnockbackMagnitude"
+      },
+      {
+        "operand": 1.15,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "OutgoingBaseImpactDamage"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/impact/aid_att_weaponimpact_t05.uasset"
@@ -1948,6 +2950,13 @@
     "Type": "Alteration",
     "Name": "AID_Conditional_Afflicted_CritDmg_T01",
     "DisplayName": "\u002B67.5% Crit Damage to afflicted targets",
+    "BasicModifiers": [
+      {
+        "operand": 0.45,
+        "operatorMode": "Additive",
+        "targetAttribute": "DiceCritMultiplier"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Common",
     "RarityUpRecipe": {
@@ -1964,6 +2973,13 @@
     "Type": "Alteration",
     "Name": "AID_Conditional_Afflicted_CritDmg_T02",
     "DisplayName": "\u002B101% Crit Damage to afflicted targets",
+    "BasicModifiers": [
+      {
+        "operand": 0.675,
+        "operatorMode": "Additive",
+        "targetAttribute": "DiceCritMultiplier"
+      }
+    ],
     "IsPermanent": true,
     "RarityUpRecipe": {
       "Cost": {
@@ -1979,6 +2995,13 @@
     "Type": "Alteration",
     "Name": "AID_Conditional_Afflicted_CritDmg_T03",
     "DisplayName": "\u002B135% Crit Damage to afflicted targets",
+    "BasicModifiers": [
+      {
+        "operand": 0.9,
+        "operatorMode": "Additive",
+        "targetAttribute": "DiceCritMultiplier"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Rare",
     "RarityUpRecipe": {
@@ -1995,6 +3018,13 @@
     "Type": "Alteration",
     "Name": "AID_Conditional_Afflicted_CritDmg_T04",
     "DisplayName": "\u002B169% Crit Damage to afflicted targets",
+    "BasicModifiers": [
+      {
+        "operand": 1.125,
+        "operatorMode": "Additive",
+        "targetAttribute": "DiceCritMultiplier"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Epic",
     "RarityUpRecipe": {
@@ -2011,6 +3041,13 @@
     "Type": "Alteration",
     "Name": "AID_Conditional_Afflicted_CritDmg_T05",
     "DisplayName": "\u002B202% Crit Damage to afflicted targets",
+    "BasicModifiers": [
+      {
+        "operand": 1.35,
+        "operatorMode": "Additive",
+        "targetAttribute": "DiceCritMultiplier"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Legendary",
     "Tier": 5,
@@ -2020,6 +3057,13 @@
     "Type": "Alteration",
     "Name": "AID_Conditional_Afflicted_DmgBonus_T01",
     "DisplayName": "\u002B15% Damage to afflicted targets",
+    "BasicModifiers": [
+      {
+        "operand": 1.1,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "OutgoingAbilityDamage"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Common",
     "RarityUpRecipe": {
@@ -2036,6 +3080,13 @@
     "Type": "Alteration",
     "Name": "AID_Conditional_Afflicted_DmgBonus_T02",
     "DisplayName": "\u002B22.5% Damage to afflicted targets",
+    "BasicModifiers": [
+      {
+        "operand": 1.15,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "OutgoingAbilityDamage"
+      }
+    ],
     "IsPermanent": true,
     "RarityUpRecipe": {
       "Cost": {
@@ -2051,6 +3102,13 @@
     "Type": "Alteration",
     "Name": "AID_Conditional_Afflicted_DmgBonus_T03",
     "DisplayName": "\u002B30% Damage to afflicted targets",
+    "BasicModifiers": [
+      {
+        "operand": 1.2,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "OutgoingAbilityDamage"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Rare",
     "RarityUpRecipe": {
@@ -2067,6 +3125,13 @@
     "Type": "Alteration",
     "Name": "AID_Conditional_Afflicted_DmgBonus_T04",
     "DisplayName": "\u002B37.5% Damage to afflicted targets",
+    "BasicModifiers": [
+      {
+        "operand": 1.25,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "OutgoingAbilityDamage"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Epic",
     "RarityUpRecipe": {
@@ -2083,6 +3148,13 @@
     "Type": "Alteration",
     "Name": "AID_Conditional_Afflicted_DmgBonus_T05",
     "DisplayName": "\u002B45% Damage to afflicted targets",
+    "BasicModifiers": [
+      {
+        "operand": 1.3,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "OutgoingAbilityDamage"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Legendary",
     "Tier": 4,
@@ -2092,6 +3164,13 @@
     "Type": "Alteration",
     "Name": "AID_Conditional_Boss_DmgBonus_T01",
     "DisplayName": "\u002B12% Damage to Mist Monsters and Bosses",
+    "BasicModifiers": [
+      {
+        "operand": 1.1,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "OutgoingAbilityDamage"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Common",
     "RarityUpRecipe": {
@@ -2108,6 +3187,13 @@
     "Type": "Alteration",
     "Name": "AID_Conditional_Boss_DmgBonus_T02",
     "DisplayName": "\u002B18% Damage to Mist Monsters and Bosses",
+    "BasicModifiers": [
+      {
+        "operand": 1.15,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "OutgoingAbilityDamage"
+      }
+    ],
     "IsPermanent": true,
     "RarityUpRecipe": {
       "Cost": {
@@ -2123,6 +3209,13 @@
     "Type": "Alteration",
     "Name": "AID_Conditional_Boss_DmgBonus_T03",
     "DisplayName": "\u002B24% Damage to Mist Monsters and Bosses",
+    "BasicModifiers": [
+      {
+        "operand": 1.2,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "OutgoingAbilityDamage"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Rare",
     "RarityUpRecipe": {
@@ -2139,6 +3232,13 @@
     "Type": "Alteration",
     "Name": "AID_Conditional_Boss_DmgBonus_T04",
     "DisplayName": "\u002B30% Damage to Mist Monsters and Bosses",
+    "BasicModifiers": [
+      {
+        "operand": 1.25,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "OutgoingAbilityDamage"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Epic",
     "RarityUpRecipe": {
@@ -2155,6 +3255,13 @@
     "Type": "Alteration",
     "Name": "AID_Conditional_Boss_DmgBonus_T05",
     "DisplayName": "\u002B36% Damage to Mist Monsters and Bosses",
+    "BasicModifiers": [
+      {
+        "operand": 1.3,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "OutgoingAbilityDamage"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Legendary",
     "Tier": 1,
@@ -2231,6 +3338,13 @@
     "Type": "Alteration",
     "Name": "AID_Conditional_Dancing_DmgBonus_T01",
     "DisplayName": "\u002B20% Damage to dancing enemies",
+    "BasicModifiers": [
+      {
+        "operand": 1.1,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "OutgoingAbilityDamage"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Common",
     "RarityUpRecipe": {
@@ -2247,6 +3361,13 @@
     "Type": "Alteration",
     "Name": "AID_Conditional_Dancing_DmgBonus_T02",
     "DisplayName": "\u002B30% Damage to dancing enemies",
+    "BasicModifiers": [
+      {
+        "operand": 1.15,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "OutgoingAbilityDamage"
+      }
+    ],
     "IsPermanent": true,
     "RarityUpRecipe": {
       "Cost": {
@@ -2262,6 +3383,13 @@
     "Type": "Alteration",
     "Name": "AID_Conditional_Dancing_DmgBonus_T03",
     "DisplayName": "\u002B40% Damage to dancing enemies",
+    "BasicModifiers": [
+      {
+        "operand": 1.2,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "OutgoingAbilityDamage"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Rare",
     "RarityUpRecipe": {
@@ -2278,6 +3406,13 @@
     "Type": "Alteration",
     "Name": "AID_Conditional_Dancing_DmgBonus_T04",
     "DisplayName": "\u002B50% Damage to dancing enemies",
+    "BasicModifiers": [
+      {
+        "operand": 1.25,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "OutgoingAbilityDamage"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Epic",
     "RarityUpRecipe": {
@@ -2294,6 +3429,13 @@
     "Type": "Alteration",
     "Name": "AID_Conditional_Dancing_DmgBonus_T05",
     "DisplayName": "\u002B60% Damage to dancing enemies",
+    "BasicModifiers": [
+      {
+        "operand": 1.3,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "OutgoingAbilityDamage"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Legendary",
     "Tier": 1,
@@ -2310,6 +3452,13 @@
     "Type": "Alteration",
     "Name": "AID_Conditional_Slowed_DmgBonus_T01",
     "DisplayName": "\u002B15% Damage to slowed and snared targets.",
+    "BasicModifiers": [
+      {
+        "operand": 1.1,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "OutgoingAbilityDamage"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Common",
     "RarityUpRecipe": {
@@ -2326,6 +3475,13 @@
     "Type": "Alteration",
     "Name": "AID_Conditional_Slowed_DmgBonus_T02",
     "DisplayName": "\u002B22.5% Damage to slowed and snared targets.",
+    "BasicModifiers": [
+      {
+        "operand": 1.15,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "OutgoingAbilityDamage"
+      }
+    ],
     "IsPermanent": true,
     "RarityUpRecipe": {
       "Cost": {
@@ -2341,6 +3497,13 @@
     "Type": "Alteration",
     "Name": "AID_Conditional_Slowed_DmgBonus_T03",
     "DisplayName": "\u002B30% Damage to slowed and snared targets.",
+    "BasicModifiers": [
+      {
+        "operand": 1.2,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "OutgoingAbilityDamage"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Rare",
     "RarityUpRecipe": {
@@ -2357,6 +3520,13 @@
     "Type": "Alteration",
     "Name": "AID_Conditional_Slowed_DmgBonus_T04",
     "DisplayName": "\u002B37.5% Damage to slowed and snared targets.",
+    "BasicModifiers": [
+      {
+        "operand": 1.25,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "OutgoingAbilityDamage"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Epic",
     "RarityUpRecipe": {
@@ -2373,6 +3543,13 @@
     "Type": "Alteration",
     "Name": "AID_Conditional_Slowed_DmgBonus_T05",
     "DisplayName": "\u002B45% Damage to slowed and snared targets.",
+    "BasicModifiers": [
+      {
+        "operand": 1.3,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "OutgoingAbilityDamage"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Legendary",
     "Tier": 5,
@@ -2382,6 +3559,13 @@
     "Type": "Alteration",
     "Name": "AID_Conditional_Stunned_DmgBonus_T01",
     "DisplayName": "\u002B20% Damage to stunned, staggered, frozen, or knocked down targets.",
+    "BasicModifiers": [
+      {
+        "operand": 1.1,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "OutgoingAbilityDamage"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Common",
     "RarityUpRecipe": {
@@ -2398,6 +3582,13 @@
     "Type": "Alteration",
     "Name": "AID_Conditional_Stunned_DmgBonus_T02",
     "DisplayName": "\u002B30% Damage to stunned, staggered, frozen, or knocked down targets.",
+    "BasicModifiers": [
+      {
+        "operand": 1.15,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "OutgoingAbilityDamage"
+      }
+    ],
     "IsPermanent": true,
     "RarityUpRecipe": {
       "Cost": {
@@ -2413,6 +3604,13 @@
     "Type": "Alteration",
     "Name": "AID_Conditional_Stunned_DmgBonus_T03",
     "DisplayName": "\u002B40% Damage to stunned, staggered, frozen, or knocked down targets.",
+    "BasicModifiers": [
+      {
+        "operand": 1.2,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "OutgoingAbilityDamage"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Rare",
     "RarityUpRecipe": {
@@ -2429,6 +3627,13 @@
     "Type": "Alteration",
     "Name": "AID_Conditional_Stunned_DmgBonus_T04",
     "DisplayName": "\u002B50% Damage to stunned, staggered, frozen, or knocked down targets.",
+    "BasicModifiers": [
+      {
+        "operand": 1.25,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "OutgoingAbilityDamage"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Epic",
     "RarityUpRecipe": {
@@ -2445,6 +3650,13 @@
     "Type": "Alteration",
     "Name": "AID_Conditional_Stunned_DmgBonus_T05",
     "DisplayName": "\u002B60% Damage to stunned, staggered, frozen, or knocked down targets.",
+    "BasicModifiers": [
+      {
+        "operand": 1.3,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "OutgoingAbilityDamage"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Legendary",
     "Tier": 5,
@@ -2483,6 +3695,13 @@
       "AccountResource:Reagent_Alteration_Ele_Fire": 600,
       "AccountResource:Reagent_Alteration_Ele_Water": 600
     },
+    "BasicModifiers": [
+      {
+        "operand": 1.05,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "OutgoingAbilityDamage"
+      }
+    ],
     "IsPermanent": true,
     "RarityUpRecipe": {
       "Cost": {
@@ -2506,6 +3725,13 @@
       "AccountResource:Reagent_Alteration_Ele_Fire": 600,
       "AccountResource:Reagent_Alteration_Ele_Water": 600
     },
+    "BasicModifiers": [
+      {
+        "operand": 1.1,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "OutgoingAbilityDamage"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Rare",
     "RarityUpRecipe": {
@@ -2530,6 +3756,13 @@
       "AccountResource:Reagent_Alteration_Ele_Fire": 600,
       "AccountResource:Reagent_Alteration_Ele_Water": 600
     },
+    "BasicModifiers": [
+      {
+        "operand": 1.15,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "OutgoingAbilityDamage"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Epic",
     "RarityUpRecipe": {
@@ -2554,6 +3787,13 @@
       "AccountResource:Reagent_Alteration_Ele_Fire": 600,
       "AccountResource:Reagent_Alteration_Ele_Water": 600
     },
+    "BasicModifiers": [
+      {
+        "operand": 1.2,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "OutgoingAbilityDamage"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/energy/aid_ele_energy_intrin_t05.uasset",
@@ -2595,6 +3835,13 @@
       "AccountResource:Reagent_Alteration_Ele_Fire": 600,
       "AccountResource:Reagent_Alteration_Ele_Water": 600
     },
+    "BasicModifiers": [
+      {
+        "operand": 1.05,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "OutgoingAbilityDamage"
+      }
+    ],
     "IsPermanent": true,
     "RarityUpRecipe": {
       "Cost": {
@@ -2618,6 +3865,13 @@
       "AccountResource:Reagent_Alteration_Ele_Fire": 600,
       "AccountResource:Reagent_Alteration_Ele_Water": 600
     },
+    "BasicModifiers": [
+      {
+        "operand": 1.1,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "OutgoingAbilityDamage"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Rare",
     "RarityUpRecipe": {
@@ -2642,6 +3896,13 @@
       "AccountResource:Reagent_Alteration_Ele_Fire": 600,
       "AccountResource:Reagent_Alteration_Ele_Water": 600
     },
+    "BasicModifiers": [
+      {
+        "operand": 1.15,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "OutgoingAbilityDamage"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Epic",
     "RarityUpRecipe": {
@@ -2666,6 +3927,13 @@
       "AccountResource:Reagent_Alteration_Ele_Fire": 600,
       "AccountResource:Reagent_Alteration_Ele_Water": 600
     },
+    "BasicModifiers": [
+      {
+        "operand": 1.2,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "OutgoingAbilityDamage"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/energy/aid_ele_energy_t05.uasset",
@@ -2703,6 +3971,13 @@
     "AdditionalRespecCost": {
       "AccountResource:Reagent_Alteration_Ele_Fire": 1800
     },
+    "BasicModifiers": [
+      {
+        "operand": 1.05,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "OutgoingAbilityDamage"
+      }
+    ],
     "IsPermanent": true,
     "RarityUpRecipe": {
       "Cost": {
@@ -2724,6 +3999,13 @@
     "AdditionalRespecCost": {
       "AccountResource:Reagent_Alteration_Ele_Fire": 1800
     },
+    "BasicModifiers": [
+      {
+        "operand": 1.1,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "OutgoingAbilityDamage"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Rare",
     "RarityUpRecipe": {
@@ -2746,6 +4028,13 @@
     "AdditionalRespecCost": {
       "AccountResource:Reagent_Alteration_Ele_Fire": 1800
     },
+    "BasicModifiers": [
+      {
+        "operand": 1.15,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "OutgoingAbilityDamage"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Epic",
     "RarityUpRecipe": {
@@ -2768,6 +4057,13 @@
     "AdditionalRespecCost": {
       "AccountResource:Reagent_Alteration_Ele_Fire": 1800
     },
+    "BasicModifiers": [
+      {
+        "operand": 1.2,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "OutgoingAbilityDamage"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/fire/aid_ele_fire_intrin_t05.uasset",
@@ -2805,6 +4101,13 @@
     "AdditionalRespecCost": {
       "AccountResource:Reagent_Alteration_Ele_Fire": 1800
     },
+    "BasicModifiers": [
+      {
+        "operand": 1.05,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "OutgoingAbilityDamage"
+      }
+    ],
     "IsPermanent": true,
     "RarityUpRecipe": {
       "Cost": {
@@ -2826,6 +4129,13 @@
     "AdditionalRespecCost": {
       "AccountResource:Reagent_Alteration_Ele_Fire": 1800
     },
+    "BasicModifiers": [
+      {
+        "operand": 1.1,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "OutgoingAbilityDamage"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Rare",
     "RarityUpRecipe": {
@@ -2848,6 +4158,13 @@
     "AdditionalRespecCost": {
       "AccountResource:Reagent_Alteration_Ele_Fire": 1800
     },
+    "BasicModifiers": [
+      {
+        "operand": 1.15,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "OutgoingAbilityDamage"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Epic",
     "RarityUpRecipe": {
@@ -2870,6 +4187,13 @@
     "AdditionalRespecCost": {
       "AccountResource:Reagent_Alteration_Ele_Fire": 1800
     },
+    "BasicModifiers": [
+      {
+        "operand": 1.2,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "OutgoingAbilityDamage"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/fire/aid_ele_fire_t05.uasset",
@@ -2907,6 +4231,13 @@
     "AdditionalRespecCost": {
       "AccountResource:Reagent_Alteration_Ele_Nature": 1800
     },
+    "BasicModifiers": [
+      {
+        "operand": 1.05,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "OutgoingAbilityDamage"
+      }
+    ],
     "IsPermanent": true,
     "RarityUpRecipe": {
       "Cost": {
@@ -2928,6 +4259,13 @@
     "AdditionalRespecCost": {
       "AccountResource:Reagent_Alteration_Ele_Nature": 1800
     },
+    "BasicModifiers": [
+      {
+        "operand": 1.1,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "OutgoingAbilityDamage"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Rare",
     "RarityUpRecipe": {
@@ -2950,6 +4288,13 @@
     "AdditionalRespecCost": {
       "AccountResource:Reagent_Alteration_Ele_Nature": 1800
     },
+    "BasicModifiers": [
+      {
+        "operand": 1.15,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "OutgoingAbilityDamage"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Epic",
     "RarityUpRecipe": {
@@ -2972,6 +4317,13 @@
     "AdditionalRespecCost": {
       "AccountResource:Reagent_Alteration_Ele_Nature": 1800
     },
+    "BasicModifiers": [
+      {
+        "operand": 1.2,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "OutgoingAbilityDamage"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/nature/aid_ele_nature_intrin_t05.uasset",
@@ -3009,6 +4361,13 @@
     "AdditionalRespecCost": {
       "AccountResource:Reagent_Alteration_Ele_Nature": 1800
     },
+    "BasicModifiers": [
+      {
+        "operand": 1.05,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "OutgoingAbilityDamage"
+      }
+    ],
     "IsPermanent": true,
     "RarityUpRecipe": {
       "Cost": {
@@ -3030,6 +4389,13 @@
     "AdditionalRespecCost": {
       "AccountResource:Reagent_Alteration_Ele_Nature": 1800
     },
+    "BasicModifiers": [
+      {
+        "operand": 1.1,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "OutgoingAbilityDamage"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Rare",
     "RarityUpRecipe": {
@@ -3052,6 +4418,13 @@
     "AdditionalRespecCost": {
       "AccountResource:Reagent_Alteration_Ele_Nature": 1800
     },
+    "BasicModifiers": [
+      {
+        "operand": 1.15,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "OutgoingAbilityDamage"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Epic",
     "RarityUpRecipe": {
@@ -3074,6 +4447,13 @@
     "AdditionalRespecCost": {
       "AccountResource:Reagent_Alteration_Ele_Nature": 1800
     },
+    "BasicModifiers": [
+      {
+        "operand": 1.2,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "OutgoingAbilityDamage"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/nature/aid_ele_nature_t05.uasset",
@@ -3111,6 +4491,13 @@
     "AdditionalRespecCost": {
       "AccountResource:Reagent_Alteration_Ele_Water": 1800
     },
+    "BasicModifiers": [
+      {
+        "operand": 1.05,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "OutgoingAbilityDamage"
+      }
+    ],
     "IsPermanent": true,
     "RarityUpRecipe": {
       "Cost": {
@@ -3132,6 +4519,13 @@
     "AdditionalRespecCost": {
       "AccountResource:Reagent_Alteration_Ele_Water": 1800
     },
+    "BasicModifiers": [
+      {
+        "operand": 1.1,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "OutgoingAbilityDamage"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Rare",
     "RarityUpRecipe": {
@@ -3154,6 +4548,13 @@
     "AdditionalRespecCost": {
       "AccountResource:Reagent_Alteration_Ele_Water": 1800
     },
+    "BasicModifiers": [
+      {
+        "operand": 1.15,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "OutgoingAbilityDamage"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Epic",
     "RarityUpRecipe": {
@@ -3176,6 +4577,13 @@
     "AdditionalRespecCost": {
       "AccountResource:Reagent_Alteration_Ele_Water": 1800
     },
+    "BasicModifiers": [
+      {
+        "operand": 1.2,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "OutgoingAbilityDamage"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/water/aid_ele_water_intrin_t05.uasset",
@@ -3213,6 +4621,13 @@
     "AdditionalRespecCost": {
       "AccountResource:Reagent_Alteration_Ele_Water": 1800
     },
+    "BasicModifiers": [
+      {
+        "operand": 1.05,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "OutgoingAbilityDamage"
+      }
+    ],
     "IsPermanent": true,
     "RarityUpRecipe": {
       "Cost": {
@@ -3234,6 +4649,13 @@
     "AdditionalRespecCost": {
       "AccountResource:Reagent_Alteration_Ele_Water": 1800
     },
+    "BasicModifiers": [
+      {
+        "operand": 1.1,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "OutgoingAbilityDamage"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Rare",
     "RarityUpRecipe": {
@@ -3256,6 +4678,13 @@
     "AdditionalRespecCost": {
       "AccountResource:Reagent_Alteration_Ele_Water": 1800
     },
+    "BasicModifiers": [
+      {
+        "operand": 1.15,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "OutgoingAbilityDamage"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Epic",
     "RarityUpRecipe": {
@@ -3278,6 +4707,13 @@
     "AdditionalRespecCost": {
       "AccountResource:Reagent_Alteration_Ele_Water": 1800
     },
+    "BasicModifiers": [
+      {
+        "operand": 1.2,
+        "operatorMode": "Multiplicitive",
+        "targetAttribute": "OutgoingAbilityDamage"
+      }
+    ],
     "IsPermanent": true,
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alteration_v2/attributealterations/elemental/water/aid_ele_water_t05.uasset",

@@ -10855,7 +10855,7 @@
     "Name": "CannyValley_Reactive_SeeBot",
     "DisplayName": "See You Later",
     "Category": "MainQuests",
-    "Description": "SEE-bot is driving everyone at Homebase insane. Deploy SEE-bot for critical updates. Can be only completed in a desert or Thunder Route 99 zone.",
+    "Description": "SEE-bot is driving everyone at Homebase insane. Deploy SEE-bot for critical updates.",
     "IsPermanent": true,
     "Objectives": [
       {
@@ -11185,13 +11185,13 @@
     "Name": "CannyValley_Reactive_Tinfoil",
     "DisplayName": "Reverse Tinfoil Hats",
     "Category": "MainQuests",
-    "Description": "Foil the Storm King\u0027s mind control scheme by deploying decoy hats mimicking brain waves on Ghost Town Scarecrows.",
+    "Description": "Foil the Storm King\u0027s mind control scheme by deploying decoy hats mimicking brain waves on Scarecrows.",
     "IsPermanent": true,
     "Objectives": [
       {
         "BackendName": "cannyvalley_reactive_tinfoil",
         "Count": 7,
-        "Description": "Deploy decoy hats in a 70\u002B Ghost Town zone",
+        "Description": "Deploy decoy hats in a 70\u002B zones",
         "HudShortDescription": "Decoy Hats deployed",
         "ZonePowerLevel": 70
       }

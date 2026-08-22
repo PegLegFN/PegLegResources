@@ -13,7 +13,6 @@
       "StunTime": 0.0
     },
     "CooldownSeconds": 1.0,
-    "Description": "Throw a grenade which deals 153 energy damage in a 0.5 tile radius.",
     "EnergyCost": 30.0,
     "GrantedTag": "Granted.Ability.Commando.FragGrenade",
     "IsPermanent": true,
@@ -38,7 +37,6 @@
       "StunTime": 0.0
     },
     "CooldownSeconds": 100.0,
-    "Description": "Equip a minigun which deals 23 physical damage per shot and fires 18 shots per second. Lasts 10 seconds.",
     "EnergyCost": 50.0,
     "GrantedTag": "Granted.Ability.Commando.GoinCommando",
     "IsPermanent": true,
@@ -63,7 +61,6 @@
       "StunTime": 0.0
     },
     "CooldownSeconds": 100.0,
-    "Description": "Equip two pistols which deal 60 physical damage per shot and fire 6 shots per second. Lasts 10 seconds.",
     "EnergyCost": 50.0,
     "GrantedTag": "Granted.Ability.Commando.LeftyAndRighty",
     "IsPermanent": true,
@@ -108,7 +105,6 @@
       "StunTime": 0.0
     },
     "CooldownSeconds": 25.0,
-    "Description": "Slam a grenade into the ground, knocking back and dealing 102 energy damage to nearby enemies.",
     "EnergyCost": 30.0,
     "GrantedTag": "Granted.Ability.Commando.Shockwave",
     "IsPermanent": true,
@@ -124,7 +120,6 @@
     "DisplayName": "War Cry",
     "AbilityStats": {},
     "CooldownSeconds": 90.0,
-    "Description": "Shout an inspiring War Cry, granting nearby allies \u002B?% weapon damage, \u002B?% fire rate, and \u002B?% melee attack speed for ? seconds.",
     "EnergyCost": 40.0,
     "GrantedTag": "Granted.Ability.Commando.WarCry",
     "IsPermanent": true,
@@ -148,7 +143,6 @@
       "StunTime": 0.0
     },
     "CooldownSeconds": 15.0,
-    "Description": "Charge forward ? tiles, dealing 104 physical damage to enemies and pushing them away with your shield.",
     "EnergyCost": 20.0,
     "GrantedTag": "Granted.Ability.Constructor.BullRush",
     "IsPermanent": true,
@@ -171,7 +165,6 @@
       "StunTime": 0.0
     },
     "CooldownSeconds": 30.0,
-    "Description": "Deploy a D.E.C.O.Y. which distracts nearby enemies for ? seconds. Does not affect Mist Monsters or Bosses.",
     "EnergyCost": 30.0,
     "GrantedTag": "Granted.Ability.Constructor.Decoy",
     "IsPermanent": true,
@@ -195,7 +188,6 @@
       "StunTime": 3.5
     },
     "CooldownSeconds": 0.0,
-    "Description": "Equip a hammer which deals 314 physical damage per hit and a shield that grants ? Armor, and Taunts nearby enemies while it is raised. Gain ? base armor. Lasts 16 seconds. At the end of the ability, explode, knocking back enemies. ",
     "EnergyCost": 50.0,
     "GrantedTag": "Granted.Ability.Constructor.GoinConstructor",
     "IsPermanent": true,
@@ -219,7 +211,6 @@
       "StunTime": 0.0
     },
     "CooldownSeconds": 120.0,
-    "Description": "Deploy a mountable turret which deals 284 physical damage per shot and fires 0.75 shots per second. R.O.S.I.E. has ? ammo.",
     "EnergyCost": 50.0,
     "GrantedTag": "Granted.Ability.Constructor.MountedTurret",
     "IsPermanent": true,
@@ -243,7 +234,6 @@
       "StunTime": 0.0
     },
     "CooldownSeconds": 120.0,
-    "Description": "Deploy a mountable turret which deals 52 physical damage per shot and fires 7 shots per second. R.O.S.I.E. has ? ammo.",
     "EnergyCost": 50.0,
     "GrantedTag": "Granted.Ability.Constructor.MountedTurret",
     "IsPermanent": true,
@@ -267,7 +257,6 @@
       "StunTime": 0.0
     },
     "CooldownSeconds": 45.0,
-    "Description": "Deploy a device which spews plasma mines for 6 seconds. Each mine deals 46 energy damage.",
     "EnergyCost": 40.0,
     "GrantedTag": "Granted.Ability.Constructor.PlasmaPulse",
     "IsPermanent": true,
@@ -290,7 +279,6 @@
       "StunTime": 2.5
     },
     "CooldownSeconds": 10.0,
-    "Description": "Execute a powerful spin kick which stuns enemies and deals 121 damage.",
     "EnergyCost": 30.0,
     "GrantedTag": "Granted.Ability.Ninja.CrescentKick",
     "IsPermanent": true,
@@ -313,7 +301,6 @@
       "StunTime": 0.0
     },
     "CooldownSeconds": 10.0,
-    "Description": "Dash forward, slashing enemies for 115 damage.",
     "EnergyCost": 50.0,
     "GrantedTag": "Granted.Ability.Ninja.DragonSlash",
     "IsPermanent": true,
@@ -347,7 +334,6 @@
       "StunTime": 0.0
     },
     "CooldownSeconds": 15.0,
-    "Description": "Vault into the air and hurl a barrage of kunai at your enemies. Each kunai deals 184 damage.",
     "EnergyCost": 30.0,
     "GrantedTag": "Granted.Ability.Ninja.KunaiStorm",
     "IsPermanent": true,
@@ -392,7 +378,6 @@
       "StunTime": 0.0
     },
     "CooldownSeconds": 45.0,
-    "Description": "Drop a smoke bomb which slows enemies and deals 52 damage per second.",
     "EnergyCost": 40.0,
     "GrantedTag": "Granted.Ability.Ninja.SmokeBomb",
     "IsPermanent": true,
@@ -415,7 +400,6 @@
       "StunTime": 0.0
     },
     "CooldownSeconds": 10.0,
-    "Description": "Unleash a volley of throwing stars, which deal 87 damage.",
     "EnergyCost": 30.0,
     "GrantedTag": "Granted.Ability.Ninja.ThrowingStars",
     "IsPermanent": true,
@@ -440,7 +424,6 @@
       "StunTime": 0.0
     },
     "CooldownSeconds": 60.0,
-    "Description": "Deploy a husk-crushing robot bear which deals 13 base damage per shot and fires 4 shots per second. T.E.D.D.Y. lasts 15 seconds.",
     "EnergyCost": 30.0,
     "GrantedTag": "Granted.Ability.Outlander.Bear",
     "IsPermanent": true,
@@ -463,7 +446,6 @@
       "StunTime": 0.0
     },
     "CooldownSeconds": 15.0,
-    "Description": "Smash the ground, creating a fissure of energy which deals 114 energy damage to enemies.",
     "EnergyCost": 40.0,
     "GrantedTag": "Granted.Ability.Outlander.GroundWave",
     "IsPermanent": true,
@@ -479,7 +461,6 @@
     "DisplayName": "Phase Shift",
     "AbilityStats": {},
     "CooldownSeconds": 0.5,
-    "Description": "Quickly dash through space, gaining ?% increased movement speed for ? seconds.",
     "EnergyCost": 15.0,
     "GrantedTag": "Granted.Ability.Outlander.PhaseShift",
     "IsPermanent": true,
@@ -502,7 +483,6 @@
       "StunTime": 0.5
     },
     "CooldownSeconds": 20.0,
-    "Description": "Deploy a device which shocks nearby enemies, stunning them and dealing 12 base damage.",
     "EnergyCost": 30.0,
     "GrantedTag": "Granted.Ability.Outlander.ShockTower",
     "IsPermanent": true,

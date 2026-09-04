@@ -66,5 +66,11 @@
     "key": "vHckCP9oI+pW5prHTYaMbXiC1YVJ2w4yRBtGUQzmYMY=",
     "baseUrl": "https://cosmo.fdeb.live.use1a.on.epicgames.com/v1/item/",
     "comment": "TODO: Make this auto-extracted, seems to change every update and would be annoying to update manually"
+  },
+  "sprites":{
+    "modules":{
+      "C7S3":"70329e8f-f377-4a73-90cf-76b7ace87a07",
+      "C7S4":"828c9446-3eb8-497e-a282-d95b92243c14"
+    }
   }
 }

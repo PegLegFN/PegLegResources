@@ -13676,6 +13676,42 @@
       "LargePreview": "ExportedImages\\T-Items-Personnel-L.png"
     }
   },
+  "CardPack:zcp_rth_bonusloot_high": {
+    "Type": "CardPack",
+    "Name": "ZCP_RtH_BonusLoot_High",
+    "DisplayName": "Bonus Loot",
+    "Description": "Here\u0027s what the siphon uncovered!",
+    "IsPermanent": true,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/cardpacks/zonerewards/refuelthehomebase/zcp_rth_bonusloot_high.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T-Icon-BluGloSiphon-128.png",
+      "LargePreview": "ExportedImages\\T-Icon-BluGloSiphon-128.png"
+    }
+  },
+  "CardPack:zcp_rth_bonusloot_low": {
+    "Type": "CardPack",
+    "Name": "ZCP_RtH_BonusLoot_Low",
+    "DisplayName": "Bonus Loot",
+    "Description": "Here\u0027s what the siphon uncovered!",
+    "IsPermanent": true,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/cardpacks/zonerewards/refuelthehomebase/zcp_rth_bonusloot_low.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T-Icon-BluGloSiphon-128.png",
+      "LargePreview": "ExportedImages\\T-Icon-BluGloSiphon-128.png"
+    }
+  },
+  "CardPack:zcp_rth_bonusloot_normal": {
+    "Type": "CardPack",
+    "Name": "ZCP_RtH_BonusLoot_Normal",
+    "DisplayName": "Bonus Loot",
+    "Description": "Here\u0027s what the siphon uncovered!",
+    "IsPermanent": true,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/cardpacks/zonerewards/refuelthehomebase/zcp_rth_bonusloot_normal.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T-Icon-BluGloSiphon-128.png",
+      "LargePreview": "ExportedImages\\T-Icon-BluGloSiphon-128.png"
+    }
+  },
   "CardPack:zcp_schematicxp_t01": {
     "Type": "CardPack",
     "Name": "ZCP_SchematicXP_T01",

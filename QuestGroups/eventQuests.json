@@ -96,6 +96,7 @@
     "sequence": true,
     "predicate": {
       "union": [
+        "Quest:starlightquest_complete_d1_a",
         "Quest:starlightquest_complete_d5science_a",
         "Quest:starlightquest_complete_d5science_b",
         "Quest:starlightquest_complete_d5science_c"
@@ -109,6 +110,7 @@
     "sequence": true,
     "predicate": {
       "union": [
+        "Quest:starlightquest_complete_d1_a",
         "Quest:starlightquest_complete_d2_a",
         "Quest:starlightquest_complete_d2_b",
         "Quest:starlightquest_complete_d2_c"
@@ -122,6 +124,8 @@
     "sequence": true,
     "predicate": {
       "union": [
+        "Quest:starlightquest_complete_d1_a",
+        "Quest:starlightquest_complete_d2_a",
         "Quest:starlightquest_complete_d3_a",
         "Quest:starlightquest_complete_d3_b",
         "Quest:starlightquest_complete_d3_c"
@@ -135,6 +139,9 @@
     "sequence": true,
     "predicate": {
       "union": [
+        "Quest:starlightquest_complete_d1_a",
+        "Quest:starlightquest_complete_d2_a",
+        "Quest:starlightquest_complete_d3_a",
         "Quest:starlightquest_complete_d4_a",
         "Quest:starlightquest_complete_d4_b",
         "Quest:starlightquest_complete_d4_c"

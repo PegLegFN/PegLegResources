@@ -10414,7 +10414,7 @@
       {
         "BackendName": "cannyvalley_reactive_oldmaps",
         "Count": 35,
-        "Description": "Destroy covered wagons in a 70\u002B zone",
+        "Description": "Destroy covered wagons in a 70\u002B Ghost Town zone",
         "HudShortDescription": "Map parts collected",
         "ZonePowerLevel": 70
       }
@@ -88500,13 +88500,13 @@
     "Name": "Welcome_Quest_A01_Destroy",
     "DisplayName": "The Nuts and Bolts",
     "Category": "LTE_Welcome",
-    "Description": "Destroy cars in any hex and gather nuts and bolts to be able to craft ammo.",
+    "Description": "Destroy cars in any hex with a pickaxe to gather nuts and bolts to be able to craft ammo.",
     "IsPermanent": true,
     "Objectives": [
       {
         "BackendName": "Welcome_Quest_A01_Destroy",
         "Count": 6,
-        "Description": "Destroy cars in any hex to gather nuts and bolts for ammo",
+        "Description": "Destroy cars in any hex with a pickaxe to gather nuts and bolts for ammo",
         "HudShortDescription": "Cars destroyed"
       }
     ],

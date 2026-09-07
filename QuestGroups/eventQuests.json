@@ -59,22 +59,43 @@
     }
   },
   "dungeon_daily": {
-    "displayName": "Daily Dungeons",
+    "displayName": "Daily Dungeon",
     "timer": "Daily",
     "eventFlag": "EventFlag.Starlight",
     "predicate": {
       "prefilter": {
         "category": "lte_starlight"
       },
-      "union": [
-        {
-          "startsWith": "starlightquest_daily_complete"
-        },
-        {
-          "startsWith": "starlightquest_complete_dailies"
-        }
-      ]
+      "startsWith": "starlightquest_daily_complete"
     }
+  },
+  "dungeon_daily_progress": {
+    "displayName": "Daily Dungeon Milestones",
+    "timer": "Daily",
+    "eventFlag": "EventFlag.Starlight",
+    "predicate": {
+      "prefilter": {
+        "category": "lte_starlight"
+      },
+      "startsWith": "starlightquest_complete_dailies"
+    }
+  },
+  "dungeon_challenge": {
+    "displayName": "Discover the Dungeons",
+    "eventFlag": "EventFlag.Starlight",
+    "sequence": true,
+    "union": [
+      "Quest:starlightquest_complete_d1_a",
+      "Quest:starlightquest_complete_d2_a",
+      "Quest:starlightquest_complete_d3_a",
+      "Quest:starlightquest_complete_d4_a",
+      "Quest:starlightquest_complete_melee_d1",
+      "Quest:starlightquest_complete_timed_d1",
+      "Quest:starlightquest_complete_timed_d2",
+      "Quest:starlightquest_complete_timed_d3",
+      "Quest:starlightquest_complete_timed_d4",
+      "Quest:starlightquest_complete_melee_timed_d1"
+    ]
   },
   "dungeon_crypts": {
     "displayName": "Crypts Capers",
@@ -153,12 +174,6 @@
     "eventFlag": "EventFlag.Starlight",
     "chain":true,
     "predicate": "Quest:starlightquest_dungeoneer_soldier"
-  },
-  "dungeon_challenge": {
-    "displayName": "Challenges",
-    "eventFlag": "EventFlag.Starlight",
-    "chain":true,
-    "predicate": "Quest:starlightquest_complete_melee_d1"
   },
   "dungeon_elite": {
     "displayName": "Dungeon Checklist",

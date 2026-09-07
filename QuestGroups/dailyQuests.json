@@ -44,19 +44,13 @@
     }
   },
   "dungeon_daily": {
-    "displayName": "Daily Dungeons",
+    "displayName": "Daily Dungeon",
     "eventFlag": "EventFlag.Starlight",
     "predicate": {
-      "union": [
-        {
-          "category": "lte_starlight",
-          "startsWith": "starlightquest_daily_complete"
-        },
-        {
-          "category": "lte_starlight",
-          "startsWith": "starlightquest_complete_dailies"
-        }
-      ]
+      "prefilter": {
+        "category": "lte_starlight"
+      },
+      "startsWith": "starlightquest_complete_dailies"
     }
   },
   "sth_daily": {

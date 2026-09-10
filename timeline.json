@@ -657,7 +657,8 @@
           "Hero:hid_outlander_myth02_sr_t01"
         ],
         [
-          "Hero:hid_ninja_018_sr_t01"
+          "Hero:hid_ninja_018_sr_t01",
+          "Hero:hid_ninja_exercise_sr_t01"
         ],
         [
           "Schematic:sid_edged_sword_blackmetal_sr_ore_t01"

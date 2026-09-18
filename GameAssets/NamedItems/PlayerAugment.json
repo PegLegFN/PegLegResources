@@ -2,9 +2,8 @@
   "PlayerAugment:paid_spriteboons_8bitblaster": {
     "Type": "PlayerAugment",
     "Name": "PAID_SpriteBoons_8BitBlaster",
-    "DisplayName": "8-Bit Sprite",
-    "Description": "Find an 8-Bit Shotgun in your next chest and gain a score multiplier for it.",
-    "IsPermanent": true,
+    "ItemName": "8-Bit Sprite",
+    "ItemDescription": "Find an 8-Bit Shotgun in your next chest and gain a score multiplier for it.",
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7s4/content/gameplay/extractableboons/eightbitblaster/paid_spriteboons_8bitblaster.uasset",
     "ImagePaths": {
@@ -15,9 +14,8 @@
   "PlayerAugment:paid_spriteboons_air": {
     "Type": "PlayerAugment",
     "Name": "PAID_SpriteBoons_Air",
-    "DisplayName": "Wind Vortex",
-    "Description": "Sprinting increases jump height and grants an air dodge",
-    "IsPermanent": true,
+    "ItemName": "Wind Vortex",
+    "ItemDescription": "Sprinting increases jump height and grants an air dodge",
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7s3/content/gameplay/extractableboons/windvortex/paid_spriteboons_air.uasset",
     "ImagePaths": {
@@ -28,18 +26,16 @@
   "PlayerAugment:paid_spriteboons_airspeed": {
     "Type": "PlayerAugment",
     "Name": "PAID_SpriteBoons_AirSpeed",
-    "DisplayName": "Air Speed",
-    "Description": "Increases sprinting speed and sprinting jump height. Also nullifies fall damage.",
-    "IsPermanent": true,
+    "ItemName": "Air Speed",
+    "ItemDescription": "Increases sprinting speed and sprinting jump height. Also nullifies fall damage.",
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7s3/content/gameplay/extractableboons/airspeed/paid_spriteboons_airspeed.uasset"
   },
   "PlayerAugment:paid_spriteboons_ammohoarder": {
     "Type": "PlayerAugment",
     "Name": "PAID_SpriteBoons_AmmoHoarder",
-    "DisplayName": "Ammo Hoarder",
-    "Description": "A percentage of ammo is returned to the reserve when reloading",
-    "IsPermanent": true,
+    "ItemName": "Ammo Hoarder",
+    "ItemDescription": "A percentage of ammo is returned to the reserve when reloading",
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7s3/content/gameplay/extractableboons/ammohoarder/paid_spriteboons_ammohoarder.uasset",
     "ImagePaths": {
@@ -47,12 +43,35 @@
       "LargePreview": "ExportedImages\\T_UI_SpriteExtraction_Perk_AmmoHoarder.png"
     }
   },
+  "PlayerAugment:paid_spriteboons_birthday": {
+    "Type": "PlayerAugment",
+    "Name": "PAID_SpriteBoons_Birthday",
+    "ItemName": "Birthday Sprite",
+    "ItemDescription": "Opening chests has a chance to spawn a piece of cake. Eliminations can spawn cake at max level. ",
+    "Rarity": "Rare",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7s4/content/gameplay/extractableboons/birthday/paid_spriteboons_birthday.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_UI_Bar_Birthday.png",
+      "LargePreview": "ExportedImages\\T_UI_Bar_Birthday.png"
+    }
+  },
+  "PlayerAugment:paid_spriteboons_bodyslam": {
+    "Type": "PlayerAugment",
+    "Name": "PAID_SpriteBoons_BodySlam",
+    "ItemName": "Crash Bandicoot Sprite",
+    "ItemDescription": "(Active - Jump In Air) Triggers a whirlwind attack, damaging and knocking back nearby enemies.",
+    "Rarity": "Rare",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7s4/content/gameplay/extractableboons/bodyslam/paid_spriteboons_bodyslam.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_UI_Bar_Whirlwind.png",
+      "LargePreview": "ExportedImages\\T_UI_Bar_Whirlwind.png"
+    }
+  },
   "PlayerAugment:paid_spriteboons_bosshealth": {
     "Type": "PlayerAugment",
     "Name": "PAID_SpriteBoons_BossHealth",
-    "DisplayName": "Boss Health",
-    "Description": "Grants an increase to your max HP and Shield",
-    "IsPermanent": true,
+    "ItemName": "Boss Health",
+    "ItemDescription": "Grants an increase to your max HP and Shield",
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7s3/content/gameplay/extractableboons/bosshealth/paid_spriteboons_bosshealth.uasset",
     "ImagePaths": {
@@ -63,18 +82,16 @@
   "PlayerAugment:paid_spriteboons_bulwarkbounty": {
     "Type": "PlayerAugment",
     "Name": "PAID_SpriteBoons_BulwarkBounty",
-    "DisplayName": "Bulwark Bounty",
-    "Description": "Upon earning an elimination, slowly replenish shield for you and nearby squad members for a duration",
-    "IsPermanent": true,
+    "ItemName": "Bulwark Bounty",
+    "ItemDescription": "Upon earning an elimination, slowly replenish shield for you and nearby squad members for a duration",
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7s3/content/gameplay/extractableboons/bulwarkbounty/paid_spriteboons_bulwarkbounty.uasset"
   },
   "PlayerAugment:paid_spriteboons_bushranger": {
     "Type": "PlayerAugment",
     "Name": "PAID_SpriteBoons_BushRanger",
-    "DisplayName": "Bush Sprite",
-    "Description": "Grants a bush on you after a duration, gain a bush on elimination at max level.",
-    "IsPermanent": true,
+    "ItemName": "Bush Sprite",
+    "ItemDescription": "Grants a bush on you after a duration, gain a bush on elimination at max level.",
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7s4/content/gameplay/extractableboons/bushranger/paid_spriteboons_bushranger.uasset",
     "ImagePaths": {
@@ -85,9 +102,8 @@
   "PlayerAugment:paid_spriteboons_chaosaura": {
     "Type": "PlayerAugment",
     "Name": "PAID_SpriteBoons_ChaosAura",
-    "DisplayName": "Chaos Rush",
-    "Description": "Regenerate health over time when low. While regenerating, gain Cloak and low gravity!",
-    "IsPermanent": true,
+    "ItemName": "Chaos Rush",
+    "ItemDescription": "Regenerate health over time when low. While regenerating, gain Cloak and low gravity!",
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7s3/content/gameplay/extractableboons/chaosaura/paid_spriteboons_chaosaura.uasset",
     "ImagePaths": {
@@ -98,9 +114,8 @@
   "PlayerAugment:paid_spriteboons_chargedup": {
     "Type": "PlayerAugment",
     "Name": "PAID_SpriteBoons_ChargedUp",
-    "DisplayName": "Charged Up",
-    "Description": "Gain a Shock Rock charge when you deal enough damage to enemies!",
-    "IsPermanent": true,
+    "ItemName": "Charged Up",
+    "ItemDescription": "Gain a Shock Rock charge when you deal enough damage to enemies!",
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7s3/content/gameplay/extractableboons/chargedup/paid_spriteboons_chargedup.uasset",
     "ImagePaths": {
@@ -111,9 +126,8 @@
   "PlayerAugment:paid_spriteboons_collector": {
     "Type": "PlayerAugment",
     "Name": "PAID_SpriteBoons_Collector",
-    "DisplayName": "Collector",
-    "Description": "You have a chance to find additional rare items when opening chests",
-    "IsPermanent": true,
+    "ItemName": "Collector",
+    "ItemDescription": "You have a chance to find additional rare items when opening chests",
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7s3/content/gameplay/extractableboons/collector/paid_spriteboons_collector.uasset",
     "ImagePaths": {
@@ -124,9 +138,8 @@
   "PlayerAugment:paid_spriteboons_comeatme": {
     "Type": "PlayerAugment",
     "Name": "PAID_SpriteBoons_ComeAtMe",
-    "DisplayName": "Come At Me",
-    "Description": "Emits a ping for rare Sprite Variants nearby, but marks you on the map",
-    "IsPermanent": true,
+    "ItemName": "Come At Me",
+    "ItemDescription": "Emits a ping for rare Sprite Variants nearby, but marks you on the map",
     "Rarity": "Epic",
     "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7s3/content/gameplay/extractableboons/comeatme/paid_spriteboons_comeatme.uasset",
     "ImagePaths": {
@@ -134,12 +147,23 @@
       "LargePreview": "ExportedImages\\T_UI_SpriteExtraction_Perk_HydroHealing.png"
     }
   },
+  "PlayerAugment:paid_spriteboons_consumableoverdrive": {
+    "Type": "PlayerAugment",
+    "Name": "PAID_SpriteBoons_ConsumableOverdrive",
+    "ItemName": "Consumable Overdrive",
+    "ItemDescription": "Gain overdrive on drinking a consumable (shield pots, chug jug, etc.)",
+    "Rarity": "Rare",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7s4/content/gameplay/extractableboons/consumableoverdrive/paid_spriteboons_consumableoverdrive.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_UI_Bar_Overdrive.png",
+      "LargePreview": "ExportedImages\\T_UI_Bar_Overdrive.png"
+    }
+  },
   "PlayerAugment:paid_spriteboons_crown": {
     "Type": "PlayerAugment",
     "Name": "PAID_SpriteBoons_Crown",
-    "DisplayName": "Crown Sprite",
-    "Description": "Only levels up by winning matches. Level up faster with Crown Wins. New variants unlocked after mastering!",
-    "IsPermanent": true,
+    "ItemName": "Crown Sprite",
+    "ItemDescription": "Only levels up by winning matches. Level up faster with Crown Wins. New variants unlocked after mastering!",
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7s4/content/gameplay/extractableboons/crown/paid_spriteboons_crown.uasset",
     "ImagePaths": {
@@ -147,21 +171,31 @@
       "LargePreview": "ExportedImages\\T_UI_Bar_Crown.png"
     }
   },
+  "PlayerAugment:paid_spriteboons_cube": {
+    "Type": "PlayerAugment",
+    "Name": "PAID_SpriteBoons_Cube",
+    "ItemName": "Cube",
+    "ItemDescription": "(Ability Not Implemented) Low Gravity",
+    "Rarity": "Rare",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7s4/content/gameplay/extractableboons/cube/paid_spriteboons_cube.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_UI_Bar_LowGravity.png",
+      "LargePreview": "ExportedImages\\T_UI_Bar_LowGravity.png"
+    }
+  },
   "PlayerAugment:paid_spriteboons_darkintel": {
     "Type": "PlayerAugment",
     "Name": "PAID_SpriteBoons_DarkIntel",
-    "DisplayName": "Dark Intel",
-    "Description": "Players who attack you are marked for a duration",
-    "IsPermanent": true,
+    "ItemName": "Dark Intel",
+    "ItemDescription": "Players who attack you are marked for a duration",
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7s3/content/gameplay/extractableboons/darkintel/paid_spriteboons_darkintel.uasset"
   },
   "PlayerAugment:paid_spriteboons_doublejump": {
     "Type": "PlayerAugment",
     "Name": "PAID_SpriteBoons_DoubleJump",
-    "DisplayName": "Jackrabbit Sprite",
-    "Description": "(Active - Jump In Air) Double Jump",
-    "IsPermanent": true,
+    "ItemName": "Jackrabbit Sprite",
+    "ItemDescription": "(Active - Jump In Air) Double Jump",
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7s4/content/gameplay/extractableboons/doublejump/paid_spriteboons_doublejump.uasset",
     "ImagePaths": {
@@ -172,9 +206,8 @@
   "PlayerAugment:paid_spriteboons_dwarf": {
     "Type": "PlayerAugment",
     "Name": "PAID_SpriteBoons_Dwarf",
-    "DisplayName": "Adventure Sprite",
-    "Description": "Upgrades a random item in the player\u0027s inventory with each Level Up!",
-    "IsPermanent": true,
+    "ItemName": "Adventure Sprite",
+    "ItemDescription": "Upgrades a random item in the player\u0027s inventory with each Level Up!",
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7s4/content/gameplay/extractableboons/dwarf/paid_spriteboons_dwarf.uasset",
     "ImagePaths": {
@@ -185,9 +218,8 @@
   "PlayerAugment:paid_spriteboons_emergencyassist": {
     "Type": "PlayerAugment",
     "Name": "PAID_SpriteBoons_EmergencyAssist",
-    "DisplayName": "Midas Splash",
-    "Description": "Looted containers have a chance to splash Gold Rush onto the player",
-    "IsPermanent": true,
+    "ItemName": "Midas Splash",
+    "ItemDescription": "Looted containers have a chance to splash Gold Rush onto the player",
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7s3/content/gameplay/extractableboons/emergencyassist/paid_spriteboons_emergencyassist.uasset",
     "ImagePaths": {
@@ -198,9 +230,8 @@
   "PlayerAugment:paid_spriteboons_extractableexpert": {
     "Type": "PlayerAugment",
     "Name": "PAID_SpriteBoons_ExtractableExpert",
-    "DisplayName": "Extractable Expert",
-    "Description": "5% chance for your squad to find rare Sprite Variants from looting chests",
-    "IsPermanent": true,
+    "ItemName": "Extractable Expert",
+    "ItemDescription": "5% chance for your squad to find rare Sprite Variants from looting chests",
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7s3/content/gameplay/extractableboons/extractableexpert/paid_spriteboons_extractableexpert.uasset",
     "ImagePaths": {
@@ -211,9 +242,8 @@
   "PlayerAugment:paid_spriteboons_fireflyfrenzy": {
     "Type": "PlayerAugment",
     "Name": "PAID_SpriteBoons_FireflyFrenzy",
-    "DisplayName": "Firefly Frenzy",
-    "Description": "Creates a fiery burst when you deal enough damage to an enemy!",
-    "IsPermanent": true,
+    "ItemName": "Firefly Frenzy",
+    "ItemDescription": "Creates a fiery burst when you deal enough damage to an enemy!",
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7s3/content/gameplay/extractableboons/fireflyfrenzy/paid_spriteboons_fireflyfrenzy.uasset",
     "ImagePaths": {
@@ -224,9 +254,8 @@
   "PlayerAugment:paid_spriteboons_fossilmeal": {
     "Type": "PlayerAugment",
     "Name": "PAID_SpriteBoons_FossilMeal",
-    "DisplayName": "Batman Cape",
-    "Description": "Grants the ability to launch in the air and deploy the Bat Cape!",
-    "IsPermanent": true,
+    "ItemName": "Batman Cape",
+    "ItemDescription": "Grants the ability to launch in the air and deploy the Bat Cape!",
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7s3/content/gameplay/extractableboons/fossilmeal/paid_spriteboons_fossilmeal.uasset",
     "ImagePaths": {
@@ -234,12 +263,23 @@
       "LargePreview": "ExportedImages\\T_UI_SpriteExtraction_Perk_InfiniteAmmo.png"
     }
   },
+  "PlayerAugment:paid_spriteboons_ghostdamage": {
+    "Type": "PlayerAugment",
+    "Name": "PAID_SpriteBoons_GhostDamage",
+    "ItemName": "Blinky Sprite",
+    "ItemDescription": "Grants cloak for a duration when you take damage.",
+    "Rarity": "Rare",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7s4/content/gameplay/extractableboons/ghostdamage/paid_spriteboons_ghostdamage.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_UI_Bar_Ghost.png",
+      "LargePreview": "ExportedImages\\T_UI_Bar_Ghost.png"
+    }
+  },
   "PlayerAugment:paid_spriteboons_ghostreload": {
     "Type": "PlayerAugment",
     "Name": "PAID_SpriteBoons_GhostReload",
-    "DisplayName": "Ghost Reload",
-    "Description": "Grants cloak for a duration upon reloading",
-    "IsPermanent": true,
+    "ItemName": "Ghost Reload",
+    "ItemDescription": "Grants cloak for a duration upon reloading",
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7s3/content/gameplay/extractableboons/ghostreload/paid_spriteboons_ghostreload.uasset",
     "ImagePaths": {
@@ -250,18 +290,16 @@
   "PlayerAugment:paid_spriteboons_giganticbagel": {
     "Type": "PlayerAugment",
     "Name": "PAID_SpriteBoons_GiganticBagel",
-    "DisplayName": "Danger Sense",
-    "Description": "Sense targets that are aiming at you",
-    "IsPermanent": true,
+    "ItemName": "Danger Sense",
+    "ItemDescription": "Sense targets that are aiming at you",
     "Rarity": "Mythic",
     "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7s3/content/gameplay/extractableboons/giganticbagel/paid_spriteboons_giganticbagel.uasset"
   },
   "PlayerAugment:paid_spriteboons_goop": {
     "Type": "PlayerAugment",
     "Name": "PAID_SpriteBoons_Goop",
-    "DisplayName": "Goop",
-    "Description": "Goop! When eliminating players, you may find more loot. Sometimes mythic! ",
-    "IsPermanent": true,
+    "ItemName": "Goop",
+    "ItemDescription": "Goop! When eliminating players, you may find more loot. Sometimes mythic! ",
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7s3/content/gameplay/extractableboons/goop/paid_spriteboons_goop.uasset",
     "ImagePaths": {
@@ -272,9 +310,8 @@
   "PlayerAugment:paid_spriteboons_greedy": {
     "Type": "PlayerAugment",
     "Name": "PAID_SpriteBoons_Greedy",
-    "DisplayName": "Greed Boon",
-    "Description": "Your Squad recieves extra Gold Bars from containers and eliminations",
-    "IsPermanent": true,
+    "ItemName": "Greed Boon",
+    "ItemDescription": "Your Squad recieves extra Gold Bars from containers and eliminations",
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7s3/content/gameplay/extractableboons/greedy/paid_spriteboons_greedy.uasset",
     "ImagePaths": {
@@ -285,9 +322,8 @@
   "PlayerAugment:paid_spriteboons_hauntedhelpers": {
     "Type": "PlayerAugment",
     "Name": "PAID_SpriteBoons_HauntedHelpers",
-    "DisplayName": "Haunted Helpers",
-    "Description": "Slowly reload ammo into your equipped Assault or LMG weapon",
-    "IsPermanent": true,
+    "ItemName": "Haunted Helpers",
+    "ItemDescription": "Slowly reload ammo into your equipped Assault or LMG weapon",
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7s3/content/gameplay/extractableboons/hauntedhelpers/paid_spriteboons_hauntedhelpers.uasset",
     "ImagePaths": {
@@ -295,12 +331,35 @@
       "LargePreview": "ExportedImages\\T_UI_SpriteExtraction_Perk_InfiniteAmmo.png"
     }
   },
+  "PlayerAugment:paid_spriteboons_headshot": {
+    "Type": "PlayerAugment",
+    "Name": "PAID_SpriteBoons_Headshot",
+    "ItemName": "Ghost Reload",
+    "ItemDescription": "Grants cloak for a duration upon reloading",
+    "Rarity": "Rare",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7s4/content/gameplay/extractableboons/headshot/paid_spriteboons_headshot.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_UI_Bar_ExtraHeadshotDMG.png",
+      "LargePreview": "ExportedImages\\T_UI_Bar_ExtraHeadshotDMG.png"
+    }
+  },
+  "PlayerAugment:paid_spriteboons_healthsiphon": {
+    "Type": "PlayerAugment",
+    "Name": "PAID_SpriteBoons_HealthSiphon",
+    "ItemName": "Vampire Sprite",
+    "ItemDescription": "Restore white health based on damage dealt - scale % recovery with level",
+    "Rarity": "Rare",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7s4/content/gameplay/extractableboons/healthsiphon/paid_spriteboons_healthsiphon.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_UI_Bar_Klombo.png",
+      "LargePreview": "ExportedImages\\T_UI_Bar_Klombo.png"
+    }
+  },
   "PlayerAugment:paid_spriteboons_improvedslide": {
     "Type": "PlayerAugment",
     "Name": "PAID_SpriteBoons_ImprovedSlide",
-    "DisplayName": "Mega Man Sprite",
-    "Description": "Slip and slide around with reduced friction while Sliding.",
-    "IsPermanent": true,
+    "ItemName": "Mega Man Sprite",
+    "ItemDescription": "Slip and slide around with reduced friction while Sliding.",
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7s4/content/gameplay/extractableboons/improvedslide/paid_spriteboons_improvedslide.uasset",
     "ImagePaths": {
@@ -308,12 +367,23 @@
       "LargePreview": "ExportedImages\\T_UI_Bar_Slide.png"
     }
   },
+  "PlayerAugment:paid_spriteboons_increaseheals": {
+    "Type": "PlayerAugment",
+    "Name": "PAID_SpriteBoons_IncreaseHeals",
+    "ItemName": "Morgana Sprite",
+    "ItemDescription": "Increases the effectiveness of healing items.",
+    "Rarity": "Epic",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7s4/content/gameplay/extractableboons/increaseheals/paid_spriteboons_increaseheals.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_UI_Bar_Klombo.png",
+      "LargePreview": "ExportedImages\\T_UI_Bar_Klombo.png"
+    }
+  },
   "PlayerAugment:paid_spriteboons_infiniteammo": {
     "Type": "PlayerAugment",
     "Name": "PAID_SpriteBoons_InfiniteAmmo",
-    "DisplayName": "Possibly Nothing",
-    "Description": "Possibly nothing... or infinitely something",
-    "IsPermanent": true,
+    "ItemName": "Possibly Nothing",
+    "ItemDescription": "Possibly nothing... or infinitely something",
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7s3/content/gameplay/extractableboons/infiniteammo/paid_spriteboons_infiniteammo.uasset",
     "ImagePaths": {
@@ -324,18 +394,16 @@
   "PlayerAugment:paid_spriteboons_inflated": {
     "Type": "PlayerAugment",
     "Name": "PAID_SpriteBoons_Inflated",
-    "DisplayName": "Inflated",
-    "Description": "Swim speed greatly increased. Taking damage also briefly increases movement speed.",
-    "IsPermanent": true,
+    "ItemName": "Inflated",
+    "ItemDescription": "Swim speed greatly increased. Taking damage also briefly increases movement speed.",
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7s3/content/gameplay/extractableboons/inflated/paid_spriteboons_inflated.uasset"
   },
   "PlayerAugment:paid_spriteboons_jamsession": {
     "Type": "PlayerAugment",
     "Name": "PAID_SpriteBoons_JamSession",
-    "DisplayName": "Jam Session",
-    "Description": "Emoting or Jamming replenishes shields",
-    "IsPermanent": true,
+    "ItemName": "Jam Session",
+    "ItemDescription": "Emoting or Jamming replenishes shields",
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7s3/content/gameplay/extractableboons/jamsession/paid_spriteboons_jamsession.uasset",
     "ImagePaths": {
@@ -346,9 +414,8 @@
   "PlayerAugment:paid_spriteboons_jonesy": {
     "Type": "PlayerAugment",
     "Name": "PAID_SpriteBoons_Jonesy",
-    "DisplayName": "Jonesy Sprite",
-    "Description": "Recover some health or shields after being damaged after a short duration.",
-    "IsPermanent": true,
+    "ItemName": "Jonesy Sprite",
+    "ItemDescription": "Recover some health or shields after being damaged after a short duration.",
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7s4/content/gameplay/extractableboons/jonesy/paid_spriteboons_jonesy.uasset",
     "ImagePaths": {
@@ -359,9 +426,8 @@
   "PlayerAugment:paid_spriteboons_killswitch": {
     "Type": "PlayerAugment",
     "Name": "PAID_SpriteBoons_Killswitch",
-    "DisplayName": "Killswitch Sprite",
-    "Description": "(Active - Aim In Air) Enter Hangtime with improved accuracy",
-    "IsPermanent": true,
+    "ItemName": "Killswitch Sprite",
+    "ItemDescription": "(Active - Aim In Air) Enter Hangtime with improved accuracy",
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7s4/content/gameplay/extractableboons/killswitch/paid_spriteboons_killswitch.uasset",
     "ImagePaths": {
@@ -372,9 +438,8 @@
   "PlayerAugment:paid_spriteboons_klombo": {
     "Type": "PlayerAugment",
     "Name": "PAID_SpriteBoons_Klombo",
-    "DisplayName": "Klombo Sprite",
-    "Description": "Grants random items at each level, only levels up by consuming items.",
-    "IsPermanent": true,
+    "ItemName": "Klombo Sprite",
+    "ItemDescription": "Grants random items at each level, only levels up by consuming items.",
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7s4/content/gameplay/extractableboons/klombo/paid_spriteboons_klombo.uasset",
     "ImagePaths": {
@@ -385,9 +450,8 @@
   "PlayerAugment:paid_spriteboons_maniac": {
     "Type": "PlayerAugment",
     "Name": "PAID_SpriteBoons_Maniac",
-    "DisplayName": "Scepter Smash",
-    "Description": "Your Pickaxe deals more damage ",
-    "IsPermanent": true,
+    "ItemName": "Scepter Smash",
+    "ItemDescription": "Your Pickaxe deals more damage ",
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7s3/content/gameplay/extractableboons/maniac/paid_spriteboons_maniac.uasset",
     "ImagePaths": {
@@ -395,12 +459,23 @@
       "LargePreview": "ExportedImages\\T_UI_SpriteExtraction_Perk_PickaxeManiac.png"
     }
   },
+  "PlayerAugment:paid_spriteboons_meowscles": {
+    "Type": "PlayerAugment",
+    "Name": "PAID_SpriteBoons_Meowscles",
+    "ItemName": "Meowscles",
+    "ItemDescription": "(Ability Not Implemented) Weapon Swap Speed",
+    "Rarity": "Rare",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7s4/content/gameplay/extractableboons/meowscles/paid_spriteboons_meowscles.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_UI_SpriteExtraction_Perk_InfiniteAmmo.png",
+      "LargePreview": "ExportedImages\\T_UI_SpriteExtraction_Perk_InfiniteAmmo.png"
+    }
+  },
   "PlayerAugment:paid_spriteboons_midassplash": {
     "Type": "PlayerAugment",
     "Name": "PAID_SpriteBoons_MidasSplash",
-    "DisplayName": "Midas Splash",
-    "Description": "Looted containers have a chance to splash Gold Rush onto the player",
-    "IsPermanent": true,
+    "ItemName": "Midas Splash",
+    "ItemDescription": "Looted containers have a chance to splash Gold Rush onto the player",
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7s3/content/gameplay/extractableboons/midassplash/paid_spriteboons_midassplash.uasset",
     "ImagePaths": {
@@ -411,9 +486,8 @@
   "PlayerAugment:paid_spriteboons_narrowflea": {
     "Type": "PlayerAugment",
     "Name": "PAID_SpriteBoons_NarrowFlea",
-    "DisplayName": "Sonic Sprite",
-    "Description": "Gotta Go Fast! Sprint faster with each Level Up!",
-    "IsPermanent": true,
+    "ItemName": "Sonic Sprite",
+    "ItemDescription": "Gotta Go Fast! Sprint faster with each Level Up!",
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7s4/content/gameplay/extractableboons/narrowflea/paid_spriteboons_narrowflea.uasset",
     "ImagePaths": {
@@ -421,12 +495,23 @@
       "LargePreview": "ExportedImages\\T_UI_Bar_NarrowFlea.png"
     }
   },
+  "PlayerAugment:paid_spriteboons_narrowfleacollectible": {
+    "Type": "PlayerAugment",
+    "Name": "PAID_SpriteBoons_NarrowFleaCollectible",
+    "ItemName": "Spawn Rings Sprite",
+    "ItemDescription": "Spawn Rings when Shield is Destroyed",
+    "Rarity": "Rare",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7s4/content/gameplay/extractableboons/narrowfleacollectible/paid_spriteboons_narrowfleacollectible.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_UI_SpriteExtraction_Perk_InfiniteAmmo.png",
+      "LargePreview": "ExportedImages\\T_UI_SpriteExtraction_Perk_InfiniteAmmo.png"
+    }
+  },
   "PlayerAugment:paid_spriteboons_narrowfleamonkey": {
     "Type": "PlayerAugment",
     "Name": "PAID_SpriteBoons_NarrowFleaMonkey",
-    "DisplayName": "Tails Sprite",
-    "Description": "(Active - Jump In Air) Hover with the help of Tails!",
-    "IsPermanent": true,
+    "ItemName": "Tails Sprite",
+    "ItemDescription": "(Active - Jump In Air) Hover with the help of Tails!",
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7s4/content/gameplay/extractableboons/narrowfleamonkey/paid_spriteboons_narrowfleamonkey.uasset",
     "ImagePaths": {
@@ -437,11 +522,22 @@
   "PlayerAugment:paid_spriteboons_overdriveparkour": {
     "Type": "PlayerAugment",
     "Name": "PAID_SpriteBoons_OverdriveParkour",
-    "DisplayName": "Overdrive Parkour",
-    "Description": "Gain the Overdrive effect when you Mantle, Hurdle, or Wall Scramble",
-    "IsPermanent": true,
+    "ItemName": "Overdrive Parkour",
+    "ItemDescription": "Gain the Overdrive effect when you Mantle, Hurdle, or Wall Scramble",
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7s3/content/gameplay/extractableboons/overdriveparkour/paid_spriteboons_overdriveparkour.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_UI_SpriteExtraction_Perk_WindParkour.png",
+      "LargePreview": "ExportedImages\\T_UI_SpriteExtraction_Perk_WindParkour.png"
+    }
+  },
+  "PlayerAugment:paid_spriteboons_overdrivereload": {
+    "Type": "PlayerAugment",
+    "Name": "PAID_SpriteBoons_OverdriveReload",
+    "ItemName": "Overdrive Reload Sprite",
+    "ItemDescription": "Grants Overdrive on Reload!",
+    "Rarity": "Rare",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7s4/content/gameplay/extractableboons/overdrivereload/paid_spriteboons_overdrivereload.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T_UI_SpriteExtraction_Perk_WindParkour.png",
       "LargePreview": "ExportedImages\\T_UI_SpriteExtraction_Perk_WindParkour.png"
@@ -450,9 +546,8 @@
   "PlayerAugment:paid_spriteboons_overshield": {
     "Type": "PlayerAugment",
     "Name": "PAID_SpriteBoons_Overshield",
-    "DisplayName": "Overshield Sprite",
-    "Description": "Grants overshield, scaling with level.",
-    "IsPermanent": true,
+    "ItemName": "Overshield Sprite",
+    "ItemDescription": "Grants overshield, scaling with level.",
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7s4/content/gameplay/extractableboons/overshield/paid_spriteboons_overshield.uasset",
     "ImagePaths": {
@@ -460,12 +555,23 @@
       "LargePreview": "ExportedImages\\T_UI_Bar_Overshield.png"
     }
   },
+  "PlayerAugment:paid_spriteboons_phasedash": {
+    "Type": "PlayerAugment",
+    "Name": "PAID_SpriteBoons_PhaseDash",
+    "ItemName": "Phase Dash",
+    "ItemDescription": "Grants Phase Dash charges that recharge over time. Phase Dash allows you to phase through some objects.",
+    "Rarity": "Rare",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7s4/content/gameplay/extractableboons/phasedash/paid_spriteboons_phasedash.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_UI_Bar_PhaseDash.png",
+      "LargePreview": "ExportedImages\\T_UI_Bar_PhaseDash.png"
+    }
+  },
   "PlayerAugment:paid_spriteboons_reloadovertime": {
     "Type": "PlayerAugment",
     "Name": "PAID_SpriteBoons_ReloadOverTime",
-    "DisplayName": "Shadow Sprite",
-    "Description": "Automatically reload unequipped weapons over time. Reloads equipped weapon at max level. ",
-    "IsPermanent": true,
+    "ItemName": "Shadow Sprite",
+    "ItemDescription": "Automatically reload unequipped weapons over time. Reloads equipped weapon at max level. ",
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7s4/content/gameplay/extractableboons/reloadovertime/paid_spriteboons_reloadovertime.uasset",
     "ImagePaths": {
@@ -476,9 +582,8 @@
   "PlayerAugment:paid_spriteboons_riftready": {
     "Type": "PlayerAugment",
     "Name": "PAID_SpriteBoons_RiftReady",
-    "DisplayName": "Rift N\u0027 Ready",
-    "Description": "Your Squad has a chance to spawn a rift nearby at each storm phase",
-    "IsPermanent": true,
+    "ItemName": "Rift N\u0027 Ready",
+    "ItemDescription": "Your Squad has a chance to spawn a rift nearby at each storm phase",
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7s3/content/gameplay/extractableboons/riftready/paid_spriteboons_riftready.uasset",
     "ImagePaths": {
@@ -489,9 +594,8 @@
   "PlayerAugment:paid_spriteboons_royalwins": {
     "Type": "PlayerAugment",
     "Name": "PAID_SpriteBoons_RoyalWins",
-    "DisplayName": "Trophy Catch",
-    "Description": "Grants a small chance to find the Trophy Catch in loot containers!",
-    "IsPermanent": true,
+    "ItemName": "Trophy Catch",
+    "ItemDescription": "Grants a small chance to find the Trophy Catch in loot containers!",
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7s3/content/gameplay/extractableboons/royalwins/paid_spriteboons_royalwins.uasset",
     "ImagePaths": {
@@ -502,9 +606,8 @@
   "PlayerAugment:paid_spriteboons_scout": {
     "Type": "PlayerAugment",
     "Name": "PAID_SpriteBoons_Scout",
-    "DisplayName": "Scout Perk",
-    "Description": "Enemy player foot trails are visible in the world for your Squad",
-    "IsPermanent": true,
+    "ItemName": "Scout Perk",
+    "ItemDescription": "Enemy player foot trails are visible in the world for your Squad",
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7s3/content/gameplay/extractableboons/scout/paid_spriteboons_scout.uasset",
     "ImagePaths": {
@@ -515,9 +618,8 @@
   "PlayerAugment:paid_spriteboons_showboat": {
     "Type": "PlayerAugment",
     "Name": "PAID_SpriteBoons_Showboat",
-    "DisplayName": "Showboat",
-    "Description": "Sprinting for a short time makes your slide destructive. Slidekicking enemies increases rate of fire and reload speed",
-    "IsPermanent": true,
+    "ItemName": "Showboat",
+    "ItemDescription": "Sprinting for a short time makes your slide destructive. Slidekicking enemies increases rate of fire and reload speed",
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7s3/content/gameplay/extractableboons/showboat/paid_spriteboons_showboat.uasset",
     "ImagePaths": {
@@ -528,9 +630,8 @@
   "PlayerAugment:paid_spriteboons_shrapnel": {
     "Type": "PlayerAugment",
     "Name": "PAID_SpriteBoons_Shrapnel",
-    "DisplayName": "Shrapnel",
-    "Description": "Explosives, now with more shrapnel! Bonus damage applied by Explosives",
-    "IsPermanent": true,
+    "ItemName": "Shrapnel",
+    "ItemDescription": "Explosives, now with more shrapnel! Bonus damage applied by Explosives",
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7s3/content/gameplay/extractableboons/shrapnel/paid_spriteboons_shrapnel.uasset",
     "ImagePaths": {
@@ -541,9 +642,8 @@
   "PlayerAugment:paid_spriteboons_siphon": {
     "Type": "PlayerAugment",
     "Name": "PAID_SpriteBoons_Siphon",
-    "DisplayName": "Siphon",
-    "Description": "Siphon some health and shields when you eliminate an opponent",
-    "IsPermanent": true,
+    "ItemName": "Siphon",
+    "ItemDescription": "Siphon some health and shields when you eliminate an opponent",
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7s3/content/gameplay/extractableboons/siphon/paid_spriteboons_siphon.uasset",
     "ImagePaths": {
@@ -551,12 +651,23 @@
       "LargePreview": "ExportedImages\\T_UI_SpriteExtraction_Perk_InfiniteAmmo.png"
     }
   },
+  "PlayerAugment:paid_spriteboons_squibbly": {
+    "Type": "PlayerAugment",
+    "Name": "PAID_SpriteBoons_Squibbly",
+    "ItemName": "Squibbly",
+    "ItemDescription": "(Ability Not Implemented) Diving into a fishing hole fishes it",
+    "Rarity": "Rare",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7s4/content/gameplay/extractableboons/squibbly/paid_spriteboons_squibbly.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_UI_Bar_Squibbly.png",
+      "LargePreview": "ExportedImages\\T_UI_Bar_Squibbly.png"
+    }
+  },
   "PlayerAugment:paid_spriteboons_starterpack": {
     "Type": "PlayerAugment",
     "Name": "PAID_SpriteBoons_StarterPack",
-    "DisplayName": "Loot Pack",
-    "Description": "Grants a random item at each level, exploding with legendary loot at Max Level",
-    "IsPermanent": true,
+    "ItemName": "Loot Pack",
+    "ItemDescription": "Grants a random item at each level, exploding with legendary loot at Max Level",
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7s3/content/gameplay/extractableboons/starterpack/paid_spriteboons_starterpack.uasset",
     "ImagePaths": {
@@ -567,9 +678,8 @@
   "PlayerAugment:paid_spriteboons_stormcaller": {
     "Type": "PlayerAugment",
     "Name": "PAID_SpriteBoons_StormCaller",
-    "DisplayName": "Storm Caller Boon",
-    "Description": "You and Your Squad nearby replenish shields in the storm",
-    "IsPermanent": true,
+    "ItemName": "Storm Caller Boon",
+    "ItemDescription": "You and Your Squad nearby replenish shields in the storm",
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7s3/content/gameplay/extractableboons/stormcaller/paid_spriteboons_stormcaller.uasset",
     "ImagePaths": {
@@ -580,18 +690,16 @@
   "PlayerAugment:paid_spriteboons_stormoverdrive": {
     "Type": "PlayerAugment",
     "Name": "PAID_SpriteBoons_StormOverdrive",
-    "DisplayName": "Storm Overdrive",
-    "Description": "While in the Storm, gain the Overdrive Effect",
-    "IsPermanent": true,
+    "ItemName": "Storm Overdrive",
+    "ItemDescription": "While in the Storm, gain the Overdrive Effect",
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7s3/content/gameplay/variantboons/variantstormoverdrive/paid_spriteboons_stormoverdrive.uasset"
   },
   "PlayerAugment:paid_spriteboons_stormscout": {
     "Type": "PlayerAugment",
     "Name": "PAID_SpriteBoons_StormScout",
-    "DisplayName": "Storm Scout Sprite",
-    "Description": "Applies Overdrive after taking a certain amount of storm damage. Reveals future Storm Circles at max level.",
-    "IsPermanent": true,
+    "ItemName": "Storm Scout Sprite",
+    "ItemDescription": "Applies Overdrive after taking a certain amount of storm damage. Reveals future Storm Circles at max level.",
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7s4/content/gameplay/extractableboons/stormscout/paid_spriteboons_stormscout.uasset",
     "ImagePaths": {
@@ -602,9 +710,8 @@
   "PlayerAugment:paid_spriteboons_supershield": {
     "Type": "PlayerAugment",
     "Name": "PAID_SpriteBoons_SuperShield",
-    "DisplayName": "Super Shield",
-    "Description": "Spawn a Shield Bubble Jr. when you use a healing item on yourself (excluding splashes and grenades)",
-    "IsPermanent": true,
+    "ItemName": "Super Shield",
+    "ItemDescription": "Spawn a Shield Bubble Jr. when you use a healing item on yourself (excluding splashes and grenades)",
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7s3/content/gameplay/extractableboons/supershield/paid_spriteboons_supershield.uasset",
     "ImagePaths": {
@@ -612,12 +719,19 @@
       "LargePreview": "ExportedImages\\T_UI_SpriteExtraction_Perk_InfiniteAmmo.png"
     }
   },
+  "PlayerAugment:paid_spriteboons_supershot": {
+    "Type": "PlayerAugment",
+    "Name": "PAID_SpriteBoons_SuperShot",
+    "ItemName": "Super Shot Sprite",
+    "ItemDescription": "[Ability not implemented] Shooting launches a rocket(s) every xs",
+    "Rarity": "Legendary",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7s4/content/gameplay/extractableboons/supershot/paid_spriteboons_supershot.uasset"
+  },
   "PlayerAugment:paid_spriteboons_trash": {
     "Type": "PlayerAugment",
     "Name": "PAID_SpriteBoons_Trash",
-    "DisplayName": "One Man\u0027s Trash",
-    "Description": "A chance to find Stink Bombs when opening Ammo Boxes, jumping in Flushers, and Dumpsters",
-    "IsPermanent": true,
+    "ItemName": "One Man\u0027s Trash",
+    "ItemDescription": "A chance to find Stink Bombs when opening Ammo Boxes, jumping in Flushers, and Dumpsters",
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7s3/content/gameplay/extractableboons/trash/paid_spriteboons_trash.uasset",
     "ImagePaths": {
@@ -628,18 +742,16 @@
   "PlayerAugment:paid_spriteboons_variant_ammo": {
     "Type": "PlayerAugment",
     "Name": "PAID_SpriteBoons_Variant_Ammo",
-    "DisplayName": "30% Ammo Bonus",
-    "Description": "Gain 30% more Ammo whenever picked up in the world.",
-    "IsPermanent": true,
+    "ItemName": "30% Ammo Bonus",
+    "ItemDescription": "Gain 30% more Ammo whenever picked up in the world.",
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7s3/content/gameplay/variantboons/variantammo/paid_spriteboons_variant_ammo.uasset"
   },
   "PlayerAugment:paid_spriteboons_variant_cheatmaster": {
     "Type": "PlayerAugment",
     "Name": "PAID_SpriteBoons_Variant_CheatMaster",
-    "DisplayName": "Cheat Master",
-    "Description": "Button mash! All inputs are correct when entering cheat codes found in the world.",
-    "IsPermanent": true,
+    "ItemName": "Cheat Master",
+    "ItemDescription": "Button mash! All inputs are correct when entering cheat codes found in the world.",
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7s4/content/gameplay/variantboons/variantcheatmaster/paid_spriteboons_variant_cheatmaster.uasset",
     "ImagePaths": {
@@ -650,36 +762,32 @@
   "PlayerAugment:paid_spriteboons_variant_doublepoints": {
     "Type": "PlayerAugment",
     "Name": "PAID_SpriteBoons_Variant_DoublePoints",
-    "DisplayName": "Double Points",
-    "Description": "Doubles EP when you win the match with this Variant equipped",
-    "IsPermanent": true,
+    "ItemName": "Double Points",
+    "ItemDescription": "Doubles EP when you win the match with this Variant equipped",
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7s3/content/gameplay/variantboons/variantdoubleep/paid_spriteboons_variant_doublepoints.uasset"
   },
   "PlayerAugment:paid_spriteboons_variant_extractionpoints": {
     "Type": "PlayerAugment",
     "Name": "PAID_SpriteBoons_Variant_ExtractionPoints",
-    "DisplayName": "20% Sprite Dust Bonus",
-    "Description": "Gain 20% more Sprite Dust upon Extraction",
-    "IsPermanent": true,
+    "ItemName": "20% Sprite Dust Bonus",
+    "ItemDescription": "Gain 20% more Sprite Dust upon Extraction",
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7s3/content/gameplay/variantboons/variantextractionpoints/paid_spriteboons_variant_extractionpoints.uasset"
   },
   "PlayerAugment:paid_spriteboons_variant_falldamage": {
     "Type": "PlayerAugment",
     "Name": "PAID_SpriteBoons_Variant_FallDamage",
-    "DisplayName": "30% Fall Damage Reduction",
-    "Description": "Take 30% less Fall Damage",
-    "IsPermanent": true,
+    "ItemName": "30% Fall Damage Reduction",
+    "ItemDescription": "Take 30% less Fall Damage",
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7s3/content/gameplay/variantboons/variantfalldamage/paid_spriteboons_variant_falldamage.uasset"
   },
   "PlayerAugment:paid_spriteboons_variant_gold": {
     "Type": "PlayerAugment",
     "Name": "PAID_SpriteBoons_Variant_Gold",
-    "DisplayName": "Bonus Elim XP",
-    "Description": "Gain 3x bonus XP from eliminations",
-    "IsPermanent": true,
+    "ItemName": "Bonus Elim XP",
+    "ItemDescription": "Gain 3x bonus XP from eliminations",
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7s3/content/gameplay/variantboons/variantgold/paid_spriteboons_variant_gold.uasset",
     "ImagePaths": {
@@ -690,9 +798,8 @@
   "PlayerAugment:paid_spriteboons_variant_hacker": {
     "Type": "PlayerAugment",
     "Name": "PAID_SpriteBoons_Variant_Hacker",
-    "DisplayName": "Loot Hacker",
-    "Description": "Increases chances of spawning items from your Loot Hacks.",
-    "IsPermanent": true,
+    "ItemName": "Loot Hacker",
+    "ItemDescription": "Increases chances of spawning items from your Loot Hacks.",
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7s4/content/gameplay/variantboons/varianthacker/paid_spriteboons_variant_hacker.uasset",
     "ImagePaths": {
@@ -703,18 +810,28 @@
   "PlayerAugment:paid_spriteboons_variant_quack": {
     "Type": "PlayerAugment",
     "Name": "PAID_SpriteBoons_Variant_Quack",
-    "DisplayName": "Quack",
-    "Description": "Gives 50% Sprite XP earned to all other Sprites in your inventory",
-    "IsPermanent": true,
+    "ItemName": "Quack",
+    "ItemDescription": "Gives 50% Sprite XP earned to all other Sprites in your inventory",
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7s3/content/gameplay/variantboons/variantquack/paid_spriteboons_variant_quack.uasset"
+  },
+  "PlayerAugment:paid_spriteboons_variant_reaper": {
+    "Type": "PlayerAugment",
+    "Name": "PAID_SpriteBoons_Variant_Reaper",
+    "ItemName": "Bounty Hunter",
+    "ItemDescription": "Chance to find sprites when eliminating opponents. Only gains sprite XP from eliminations, unless sprite has special XP rules.",
+    "Rarity": "Epic",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7s4/content/gameplay/variantboons/variantreaper/paid_spriteboons_variant_reaper.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_UI_Bar_SpriteBoost.png",
+      "LargePreview": "ExportedImages\\T_UI_Bar_SpriteBoost.png"
+    }
   },
   "PlayerAugment:paid_spriteboons_variant_tricktreat": {
     "Type": "PlayerAugment",
     "Name": "PAID_SpriteBoons_Variant_TrickTreat",
-    "DisplayName": "Trick or Treat Bonus",
-    "Description": "Chance to find candy when opening containers",
-    "IsPermanent": true,
+    "ItemName": "Trick or Treat Bonus",
+    "ItemDescription": "Chance to find candy when opening containers",
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7s4/content/gameplay/variantboons/varianttricktreat/paid_spriteboons_variant_tricktreat.uasset",
     "ImagePaths": {
@@ -725,9 +842,8 @@
   "PlayerAugment:paid_spriteboons_void": {
     "Type": "PlayerAugment",
     "Name": "PAID_SpriteBoons_Void",
-    "DisplayName": "Knockdown Revealer",
-    "Description": "Knocking players reveals others nearby",
-    "IsPermanent": true,
+    "ItemName": "Knockdown Revealer",
+    "ItemDescription": "Knocking players reveals others nearby",
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7s3/content/gameplay/extractableboons/void/paid_spriteboons_void.uasset",
     "ImagePaths": {
@@ -738,9 +854,8 @@
   "PlayerAugment:paid_spriteboons_water": {
     "Type": "PlayerAugment",
     "Name": "PAID_SpriteBoons_Water",
-    "DisplayName": "Hydro Healing",
-    "Description": "Replenish shield while in water for you and your nearby Squad!",
-    "IsPermanent": true,
+    "ItemName": "Hydro Healing",
+    "ItemDescription": "Replenish shield while in water for you and your nearby Squad!",
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7s3/content/gameplay/extractableboons/water/paid_spriteboons_water.uasset",
     "ImagePaths": {
@@ -751,18 +866,28 @@
   "PlayerAugment:paid_spriteboons_weaponsmith": {
     "Type": "PlayerAugment",
     "Name": "PAID_SpriteBoons_WeaponSmith",
-    "DisplayName": "WeaponSmith",
-    "Description": "Opening ammo boxes has a chance to grant a weapon upgrade",
-    "IsPermanent": true,
+    "ItemName": "WeaponSmith",
+    "ItemDescription": "Opening ammo boxes has a chance to grant a weapon upgrade",
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7s3/content/gameplay/extractableboons/weaponsmith/paid_spriteboons_weaponsmith.uasset"
+  },
+  "PlayerAugment:paid_spriteboons_winnera": {
+    "Type": "PlayerAugment",
+    "Name": "PAID_SpriteBoons_WinnerA",
+    "ItemName": "Pond Sprite",
+    "ItemDescription": "(Active) - Jump shortly after landing to trigger a Super Jump, if charges are present. Gain charges over time",
+    "Rarity": "Epic",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7s4/content/gameplay/extractableboons/winnera/paid_spriteboons_winnera.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_UI_Bar_Comm01.png",
+      "LargePreview": "ExportedImages\\T_UI_Bar_Comm01.png"
+    }
   },
   "PlayerAugment:paid_spriteboons_winnerb": {
     "Type": "PlayerAugment",
     "Name": "PAID_SpriteBoons_WinnerB",
-    "DisplayName": "X-Ray Sprite",
-    "Description": "Periodically mark enemies in an area around you.",
-    "IsPermanent": true,
+    "ItemName": "X-Ray Sprite",
+    "ItemDescription": "Periodically mark enemies in an area around you.",
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7s4/content/gameplay/extractableboons/winnerb/paid_spriteboons_winnerb.uasset",
     "ImagePaths": {
@@ -773,14 +898,25 @@
   "PlayerAugment:paid_spriteboons_winnerc": {
     "Type": "PlayerAugment",
     "Name": "PAID_SpriteBoons_WinnerC",
-    "DisplayName": "Onigiri Sprite",
-    "Description": "Applies Overdrive after eating or drinking a Consumable.",
-    "IsPermanent": true,
+    "ItemName": "Onigiri Sprite",
+    "ItemDescription": "Applies Overdrive after eating or drinking a Consumable.",
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7s4/content/gameplay/extractableboons/winnerc/paid_spriteboons_winnerc.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T_UI_Bar_Overdrive.png",
       "LargePreview": "ExportedImages\\T_UI_Bar_Overdrive.png"
+    }
+  },
+  "PlayerAugment:paid_spriteboons_winnerd": {
+    "Type": "PlayerAugment",
+    "Name": "PAID_SpriteBoons_WinnerD",
+    "ItemName": "Dumpster Dive Sprite",
+    "ItemDescription": "[Ability not implemented] Find food when jumping into a hideable prop - Food grants bonus healing",
+    "Rarity": "Legendary",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7s4/content/gameplay/extractableboons/winnerd/paid_spriteboons_winnerd.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_UI_Bar_Comm04.png",
+      "LargePreview": "ExportedImages\\T_UI_Bar_Comm04.png"
     }
   }
 }

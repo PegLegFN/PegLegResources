@@ -2,9 +2,8 @@
   "TeamPerk:tpid_bioenergysource": {
     "Type": "TeamPerk",
     "Name": "TPID_BioEnergySource",
-    "DisplayName": "Bio-Energy Source",
-    "Description": "Recover Shield equal to 0.2% of Energy lost.",
-    "IsPermanent": true,
+    "ItemName": "Bio-Energy Source",
+    "ItemDescription": "Recover Shield equal to 0.2% of Energy lost.",
     "ProgressiveBonus": true,
     "SupportRequirements": {
       "Description": "FOR EACH: Hero with 3 or more stars",
@@ -19,9 +18,8 @@
   "TeamPerk:tpid_blakebeardsstash": {
     "Type": "TeamPerk",
     "Name": "TPID_BlakebeardsStash",
-    "DisplayName": "Blakebeard\u0027s Stash",
-    "Description": "Eliminations have a 5% chance to uncover one of Blakebeard\u0027s stashes. Search them to find Peg Legs, Coconuts, and Cannonball Grenades.",
-    "IsPermanent": true,
+    "ItemName": "Blakebeard\u0027s Stash",
+    "ItemDescription": "Eliminations have a 5% chance to uncover one of Blakebeard\u0027s stashes. Search them to find Peg Legs, Coconuts, and Cannonball Grenades.",
     "ProgressiveBonus": false,
     "SupportRequirements": {
       "Description": "REQUIRES: 3 Pirates",
@@ -38,9 +36,8 @@
   "TeamPerk:tpid_blastfromthepast": {
     "Type": "TeamPerk",
     "Name": "TPID_BlastFromThePast",
-    "DisplayName": "Blast from the Past",
-    "Description": "Removes all shield and increases Max Health by 200%.",
-    "IsPermanent": true,
+    "ItemName": "Blast from the Past",
+    "ItemDescription": "Removes all shield and increases Max Health by 200%.",
     "ProgressiveBonus": false,
     "SupportRequirements": {
       "Description": "REQUIRES: 2 Dinosaur heroes",
@@ -57,13 +54,12 @@
   "TeamPerk:tpid_boombase": {
     "Type": "TeamPerk",
     "Name": "TPID_BOOMBASE",
-    "DisplayName": "BOOM-B.A.S.E.",
+    "ItemName": "BOOM-B.A.S.E.",
     "CommanderRequirement": {
       "CommanderSubType": "Constructor",
       "Description": "Requires Constructor as commander."
     },
-    "Description": "B.A.S.E. blasts Steel Wool music, increasing Damage by 12% and Critical Rating by 15 for allies within 5 tiles.",
-    "IsPermanent": true,
+    "ItemDescription": "B.A.S.E. blasts Steel Wool music, increasing Damage by 12% and Critical Rating by 15 for allies within 5 tiles.",
     "ProgressiveBonus": false,
     "SupportRequirements": {
       "Description": "REQUIRES: 2  Band Member heroes",
@@ -80,13 +76,12 @@
   "TeamPerk:tpid_coolcustomer": {
     "Type": "TeamPerk",
     "Name": "TPID_CoolCustomer",
-    "DisplayName": "Cool Customer",
+    "ItemName": "Cool Customer",
     "CommanderRequirement": {
       "CommanderSubType": "Commando",
       "Description": "Requires Soldier as commander."
     },
-    "Description": "With Stay Frosty active, using an ability reduces Cooldown of all abilities by 3 seconds and ends Stay Frosty.",
-    "IsPermanent": true,
+    "ItemDescription": "With Stay Frosty active, using an ability reduces Cooldown of all abilities by 3 seconds and ends Stay Frosty.",
     "ProgressiveBonus": false,
     "SupportRequirements": {
       "Description": "REQUIRES: 5 heroes of Rare or higher rarity",
@@ -101,9 +96,8 @@
   "TeamPerk:tpid_dangerdanger": {
     "Type": "TeamPerk",
     "Name": "TPID_DangerDanger",
-    "DisplayName": "Z.A.P.",
-    "Description": "Z.A.P. has your back, dealing 105 base Energy Damage to a random enemy every 6 seconds.",
-    "IsPermanent": true,
+    "ItemName": "Z.A.P.",
+    "ItemDescription": "Z.A.P. has your back, dealing 105 base Energy Damage to a random enemy every 6 seconds.",
     "ProgressiveBonus": false,
     "SupportRequirements": {
       "Description": "REQUIRES: 2 Space Explorer heroes.",
@@ -120,13 +114,12 @@
   "TeamPerk:tpid_dimmak": {
     "Type": "TeamPerk",
     "Name": "TPID_DimMak",
-    "DisplayName": "Dim Mak",
+    "ItemName": "Dim Mak",
     "CommanderRequirement": {
       "CommanderSubType": "Ninja",
       "Description": "Requires Ninja as commander."
     },
-    "Description": "Shadow Stance regenerates 1.8% Shield per second.",
-    "IsPermanent": true,
+    "ItemDescription": "Shadow Stance regenerates 1.8% Shield per second.",
     "ProgressiveBonus": true,
     "SupportRequirements": {
       "Description": "FOR EACH: Ninja",
@@ -141,13 +134,12 @@
   "TeamPerk:tpid_endlessshadow": {
     "Type": "TeamPerk",
     "Name": "TPID_EndlessShadow",
-    "DisplayName": "Endless Shadow",
+    "ItemName": "Endless Shadow",
     "CommanderRequirement": {
       "CommanderSubType": "Ninja",
       "Description": "Requires Ninja as Commander."
     },
-    "Description": "Increases Shadow Stance Duration by 4 seconds.",
-    "IsPermanent": true,
+    "ItemDescription": "Increases Shadow Stance Duration by 4 seconds.",
     "ProgressiveBonus": true,
     "SupportRequirements": {
       "Description": "FOR EACH: Ninja with 3 or more stars",
@@ -163,9 +155,8 @@
   "TeamPerk:tpid_holidaycheer": {
     "Type": "TeamPerk",
     "Name": "TPID_HolidayCheer",
-    "DisplayName": "Happy Holidays",
-    "Description": "Reduces your Ability cooldowns by 40%. Stacks independently from other cooldown reduction perks.",
-    "IsPermanent": true,
+    "ItemName": "Happy Holidays",
+    "ItemDescription": "Reduces your Ability cooldowns by 40%. Stacks independently from other cooldown reduction perks.",
     "ProgressiveBonus": false,
     "SupportRequirements": {
       "Description": "REQUIRES: 3 Heroes with 2 or more stars",
@@ -180,9 +171,8 @@
   "TeamPerk:tpid_huntersinstinct": {
     "Type": "TeamPerk",
     "Name": "TPID_HuntersInstinct",
-    "DisplayName": "Hunter\u0027s Instinct",
-    "Description": "Eliminations during Evening or Night grant 0.2% Damage and 0.1% Melee Life Leech, up to 40 stacks. These bonuses last until Night ends.",
-    "IsPermanent": true,
+    "ItemName": "Hunter\u0027s Instinct",
+    "ItemDescription": "Eliminations during Evening or Night grant 0.2% Damage and 0.1% Melee Life Leech, up to 40 stacks. These bonuses last until Night ends.",
     "ProgressiveBonus": true,
     "SupportRequirements": {
       "Description": "FOR EACH: Hero of Epic or higher rarity with at least 4 stars",
@@ -198,15 +188,14 @@
   "TeamPerk:tpid_keepout": {
     "Type": "TeamPerk",
     "Name": "TPID_KeepOut",
-    "DisplayName": "Keep Out!!!",
+    "ItemName": "Keep Out!!!",
     "CommanderRequirement": {
       "CommanderTag": [
         "Granted.Ability.Commando.FragGrenade"
       ],
       "Description": "Requires commander with Frag Grenade ability."
     },
-    "Description": "Frag Grenade leaves an energized area dealing 18 base Energy Damage per second for 6 Seconds. Base Radius is 0.375 tiles and increases by 40% with each match.",
-    "IsPermanent": true,
+    "ItemDescription": "Frag Grenade leaves an energized area dealing 18 base Energy Damage per second for 6 Seconds. Base Radius is 0.375 tiles and increases by 40% with each match.",
     "ProgressiveBonus": true,
     "SupportRequirements": {
       "Description": "FOR EACH: Soldier",
@@ -221,13 +210,12 @@
   "TeamPerk:tpid_kineticoverdrive": {
     "Type": "TeamPerk",
     "Name": "TPID_KineticOverdrive",
-    "DisplayName": "Kinetic Overdrive",
+    "ItemName": "Kinetic Overdrive",
     "CommanderRequirement": {
       "CommanderSubType": "Constructor",
       "Description": "Requires Constructor as commander."
     },
-    "Description": "Kinetic Overload occurs an additional time.",
-    "IsPermanent": true,
+    "ItemDescription": "Kinetic Overload occurs an additional time.",
     "ProgressiveBonus": false,
     "SupportRequirements": {
       "Description": "REQUIRES: 3 Constructors with 3 or more stars",
@@ -243,13 +231,12 @@
   "TeamPerk:tpid_longarmofthelaw": {
     "Type": "TeamPerk",
     "Name": "TPID_LongArmOfTheLaw",
-    "DisplayName": "Long Arm of the Law",
+    "ItemName": "Long Arm of the Law",
     "CommanderRequirement": {
       "CommanderSubType": "Outlander",
       "Description": "Requires Outlander as commander."
     },
-    "Description": "Increases Anti-Material Charge Range by 1 tile(s).",
-    "IsPermanent": true,
+    "ItemDescription": "Increases Anti-Material Charge Range by 1 tile(s).",
     "ProgressiveBonus": false,
     "SupportRequirements": {
       "Description": "REQUIRES: 2 Outlanders",
@@ -264,9 +251,8 @@
   "TeamPerk:tpid_nevertellmetheodds": {
     "Type": "TeamPerk",
     "Name": "TPID_NeverTellMeTheOdds",
-    "DisplayName": "Underdog",
-    "Description": "Increases Healing Received by 2.5% for each nearby enemy.",
-    "IsPermanent": true,
+    "ItemName": "Underdog",
+    "ItemDescription": "Increases Healing Received by 2.5% for each nearby enemy.",
     "ProgressiveBonus": true,
     "SupportRequirements": {
       "Description": "FOR EACH: Hero of Epic or higher rarity",
@@ -281,9 +267,8 @@
   "TeamPerk:tpid_onetwopunch": {
     "Type": "TeamPerk",
     "Name": "TPID_OneTwoPunch",
-    "DisplayName": "One-Two Punch",
-    "Description": "Your next Heavy Attack after using an ability costs 20% less Energy.",
-    "IsPermanent": true,
+    "ItemName": "One-Two Punch",
+    "ItemDescription": "Your next Heavy Attack after using an ability costs 20% less Energy.",
     "ProgressiveBonus": true,
     "SupportRequirements": {
       "Description": "FOR EACH: Hero with 2 or more stars",
@@ -298,9 +283,8 @@
   "TeamPerk:tpid_phaseblaster": {
     "Type": "TeamPerk",
     "Name": "TPID_PhaseBlaster",
-    "DisplayName": "Phase Blaster",
-    "Description": "Every 5 seconds, your next shot will fire a Phase Pulse which deals 47 base Energy Damage.",
-    "IsPermanent": true,
+    "ItemName": "Phase Blaster",
+    "ItemDescription": "Every 5 seconds, your next shot will fire a Phase Pulse which deals 47 base Energy Damage.",
     "ProgressiveBonus": false,
     "SupportRequirements": {
       "Description": "REQUIRES: 2 Outlanders of Epic or higher rarity",
@@ -316,9 +300,8 @@
   "TeamPerk:tpid_preemptivestrike": {
     "Type": "TeamPerk",
     "Name": "TPID_PreemptiveStrike",
-    "DisplayName": "Preemptive Strike",
-    "Description": "Increases Damage by 6.5% against full health enemies.",
-    "IsPermanent": true,
+    "ItemName": "Preemptive Strike",
+    "ItemDescription": "Increases Damage by 6.5% against full health enemies.",
     "ProgressiveBonus": true,
     "SupportRequirements": {
       "Description": "FOR EACH: Hero of Epic or higher rarity with at least 4 stars",
@@ -334,13 +317,12 @@
   "TeamPerk:tpid_recycling": {
     "Type": "TeamPerk",
     "Name": "TPID_Recycling",
-    "DisplayName": "Recycling",
+    "ItemName": "Recycling",
     "CommanderRequirement": {
       "CommanderSubType": "Constructor",
       "Description": "Requires Constructor as commander."
     },
-    "Description": "B.A.S.E. generates resources based on affected structures. Higher tier structures generate more resources. Interact with B.A.S.E. to collect.",
-    "IsPermanent": true,
+    "ItemDescription": "B.A.S.E. generates resources based on affected structures. Higher tier structures generate more resources. Interact with B.A.S.E. to collect.",
     "ProgressiveBonus": false,
     "SupportRequirements": {
       "Description": "REQUIRES: 2 Constructors",
@@ -355,15 +337,14 @@
   "TeamPerk:tpid_roundtrip": {
     "Type": "TeamPerk",
     "Name": "TPID_RoundTrip",
-    "DisplayName": "Round Trip",
+    "ItemName": "Round Trip",
     "CommanderRequirement": {
       "CommanderTag": [
         "Granted.Ability.Ninja.ThrowingStars"
       ],
       "Description": "Requires commander with Throwing Stars ability."
     },
-    "Description": "Throwing Stars return to you, dealing their damage again on the way back.",
-    "IsPermanent": true,
+    "ItemDescription": "Throwing Stars return to you, dealing their damage again on the way back.",
     "ProgressiveBonus": false,
     "SupportRequirements": {
       "Description": "REQUIRES: 2 Ninjas of Legendary or higher rarity",
@@ -379,9 +360,8 @@
   "TeamPerk:tpid_shakeitoff": {
     "Type": "TeamPerk",
     "Name": "TPID_ShakeItOff",
-    "DisplayName": "Shake It Off",
-    "Description": "Decreases Duration of elemental status effects by 50%.",
-    "IsPermanent": true,
+    "ItemName": "Shake It Off",
+    "ItemDescription": "Decreases Duration of elemental status effects by 50%.",
     "ProgressiveBonus": false,
     "SupportRequirements": {
       "Description": "REQUIRES: 2 heroes with 4 or more stars",
@@ -396,15 +376,14 @@
   "TeamPerk:tpid_shiftinggears": {
     "Type": "TeamPerk",
     "Name": "TPID_ShiftingGears",
-    "DisplayName": "Shifting Gears",
+    "ItemName": "Shifting Gears",
     "CommanderRequirement": {
       "CommanderTag": [
         "Granted.Ability.Outlander.PhaseShift"
       ],
       "Description": "Requires Outlander as commander."
     },
-    "Description": "Phase Shift has 1 additional charge(s) and Range is decreased by 0.2 tile(s).",
-    "IsPermanent": true,
+    "ItemDescription": "Phase Shift has 1 additional charge(s) and Range is decreased by 0.2 tile(s).",
     "ProgressiveBonus": true,
     "SupportRequirements": {
       "Description": "FOR EACH: Outlander of Epic or higher rarity",
@@ -420,9 +399,8 @@
   "TeamPerk:tpid_slowyourroll": {
     "Type": "TeamPerk",
     "Name": "TPID_SlowYourRoll",
-    "DisplayName": "Slow Your Roll",
-    "Description": "Freeze melee attackers for 2 second(s). Mist Monsters are slowed by 43%.",
-    "IsPermanent": true,
+    "ItemName": "Slow Your Roll",
+    "ItemDescription": "Freeze melee attackers for 2 second(s). Mist Monsters are slowed by 43%.",
     "ProgressiveBonus": false,
     "SupportRequirements": {
       "Description": "REQUIRES: 3 heroes with 3 or more stars.",
@@ -437,13 +415,12 @@
   "TeamPerk:tpid_soaringmantis": {
     "Type": "TeamPerk",
     "Name": "TPID_SoaringMantis",
-    "DisplayName": "Soaring Mantis",
+    "ItemName": "Soaring Mantis",
     "CommanderRequirement": {
       "CommanderSubType": "Ninja",
       "Description": "Requires Ninja as commander."
     },
-    "Description": "Mantis Leap allows 2 additional jump(s).",
-    "IsPermanent": true,
+    "ItemDescription": "Mantis Leap allows 2 additional jump(s).",
     "ProgressiveBonus": false,
     "SupportRequirements": {
       "Description": "REQUIRES: 3 Ninjas",
@@ -458,13 +435,12 @@
   "TeamPerk:tpid_superchargedtraps": {
     "Type": "TeamPerk",
     "Name": "TPID_SuperchargedTraps",
-    "DisplayName": "Supercharged Traps",
+    "ItemName": "Supercharged Traps",
     "CommanderRequirement": {
       "CommanderSubType": "Constructor",
       "Description": "Requires Constructor as commander."
     },
-    "Description": "Increases Damage of traps affected by B.A.S.E. by 8.5%.",
-    "IsPermanent": true,
+    "ItemDescription": "Increases Damage of traps affected by B.A.S.E. by 8.5%.",
     "ProgressiveBonus": true,
     "SupportRequirements": {
       "Description": "FOR EACH: Constructor",
@@ -479,9 +455,8 @@
   "TeamPerk:tpid_totallygnarly": {
     "Type": "TeamPerk",
     "Name": "TPID_TotallyGnarly",
-    "DisplayName": "Totally Rockin\u0027 Out",
-    "Description": "Rockin\u0027 Riff also increases Crit Rating by 160 (decaying over 8 seconds), and Heals 73.8 base health.",
-    "IsPermanent": true,
+    "ItemName": "Totally Rockin\u0027 Out",
+    "ItemDescription": "Rockin\u0027 Riff also increases Crit Rating by 160 (decaying over 8 seconds), and Heals 73.8 base health.",
     "ProgressiveBonus": false,
     "SupportRequirements": {
       "Description": "REQUIRES: 2 Totally Rad heroes",
@@ -498,7 +473,7 @@
   "TeamPerk:tpid_trickandtreat": {
     "Type": "TeamPerk",
     "Name": "TPID_TrickAndTreat",
-    "DisplayName": "Trick and Treat",
+    "ItemName": "Trick and Treat",
     "CommanderRequirement": {
       "CommanderTag": [
         "Granted.Perk.UnearthlyTreat.T01",
@@ -512,8 +487,7 @@
       ],
       "Description": "Requires a commander with a Phantasm Commander Perk."
     },
-    "Description": "50% chance to conjure an extra Phantasm every time you conjure one. In addition, Phantasms have 33% Life Leech.",
-    "IsPermanent": true,
+    "ItemDescription": "50% chance to conjure an extra Phantasm every time you conjure one. In addition, Phantasms have 33% Life Leech.",
     "ProgressiveBonus": false,
     "SupportRequirements": {
       "Description": "REQUIRES: 2 Fortnitemares heroes.",
@@ -530,9 +504,8 @@
   "TeamPerk:tpid_violentinspiration": {
     "Type": "TeamPerk",
     "Name": "TPID_ViolentInspiration",
-    "DisplayName": "Hot Swap",
-    "Description": "Weapon eliminations increase Weapon Damage by 13% for 15 seconds. Each weapon type can only apply one stack of this effect.",
-    "IsPermanent": true,
+    "ItemName": "Hot Swap",
+    "ItemDescription": "Weapon eliminations increase Weapon Damage by 13% for 15 seconds. Each weapon type can only apply one stack of this effect.",
     "ProgressiveBonus": false,
     "SupportRequirements": {
       "Description": "REQUIRES: One hero of each class",

@@ -2,9 +2,8 @@
   "Ingredient:ingredient_bacon": {
     "Type": "Ingredient",
     "Name": "Ingredient_Bacon",
-    "DisplayName": "Bacon",
-    "Description": "Crafting Ingredient. The duct tape of food! Can be found in unique places throughout the world. Crafty farmers have even developed a method of growing it in their fields, in place of... everything.",
-    "IsPermanent": true,
+    "ItemName": "Bacon",
+    "ItemDescription": "Crafting Ingredient. The duct tape of food! Can be found in unique places throughout the world. Crafty farmers have even developed a method of growing it in their fields, in place of... everything.",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_bacon.uasset",
     "ImagePaths": {
@@ -15,9 +14,8 @@
   "Ingredient:ingredient_batteries": {
     "Type": "Ingredient",
     "Name": "Ingredient_Batteries",
-    "DisplayName": "Batteries",
-    "Description": "Crafting ingredient. Used as a component for powered devices. Found in populated areas and appliances.",
-    "IsPermanent": true,
+    "ItemName": "Batteries",
+    "ItemDescription": "Crafting ingredient. Used as a component for powered devices. Found in populated areas and appliances.",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_batteries.uasset",
     "ImagePaths": {
@@ -28,9 +26,8 @@
   "Ingredient:ingredient_blastpowder": {
     "Type": "Ingredient",
     "Name": "Ingredient_Blastpowder",
-    "DisplayName": "Blast Powder",
-    "Description": "Refined crafting ingredient. Used as a base for many gadgets and explosive ammunitions. Made from coal.",
-    "IsPermanent": true,
+    "ItemName": "Blast Powder",
+    "ItemDescription": "Refined crafting ingredient. Used as a base for many gadgets and explosive ammunitions. Made from coal.",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_blastpowder.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-S-Loot-GunPowder.png",
@@ -40,9 +37,8 @@
   "Ingredient:ingredient_crystal_moonglow": {
     "Type": "Ingredient",
     "Name": "Ingredient_Crystal_Moonglow",
-    "DisplayName": "Moonglow Crystal",
-    "Description": "Crafting ingredient. Used to make many quality weapons. Occasionally found in caves and mountains. ",
-    "IsPermanent": true,
+    "ItemName": "Moonglow Crystal",
+    "ItemDescription": "Crafting ingredient. Used to make many quality weapons. Occasionally found in caves and mountains. ",
     "Rarity": "Epic",
     "Tier": 6,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_crystal_moonglow.uasset",
@@ -54,9 +50,8 @@
   "Ingredient:ingredient_crystal_quartz": {
     "Type": "Ingredient",
     "Name": "Ingredient_Crystal_Quartz",
-    "DisplayName": "Quartz Crystal",
-    "Description": "Crafting ingredient. Used to make many quality weapons. Occasionally found in caves and mountains.",
-    "IsPermanent": true,
+    "ItemName": "Quartz Crystal",
+    "ItemDescription": "Crafting ingredient. Used to make many quality weapons. Occasionally found in caves and mountains.",
     "Tier": 1,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_crystal_quartz.uasset",
     "ImagePaths": {
@@ -67,9 +62,8 @@
   "Ingredient:ingredient_crystal_rainbow": {
     "Type": "Ingredient",
     "Name": "Ingredient_Crystal_Rainbow",
-    "DisplayName": "Rainbow Crystal",
-    "Description": "Crafting ingredient. Used to make many quality weapons. Occasionally found in caves and mountains. ",
-    "IsPermanent": true,
+    "ItemName": "Rainbow Crystal",
+    "ItemDescription": "Crafting ingredient. Used to make many quality weapons. Occasionally found in caves and mountains. ",
     "Rarity": "Epic",
     "Tier": 6,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_crystal_rainbow.uasset",
@@ -81,9 +75,8 @@
   "Ingredient:ingredient_crystal_shadowshard": {
     "Type": "Ingredient",
     "Name": "Ingredient_Crystal_ShadowShard",
-    "DisplayName": "Shadowshard Crystal",
-    "Description": "Crafting ingredient. Used to make many quality weapons. Occasionally found in caves and mountains. Common in Twine Peaks and rare in high end Canny Valley.",
-    "IsPermanent": true,
+    "ItemName": "Shadowshard Crystal",
+    "ItemDescription": "Crafting ingredient. Used to make many quality weapons. Occasionally found in caves and mountains. Common in Twine Peaks and rare in high end Canny Valley.",
     "Rarity": "Epic",
     "Tier": 4,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_crystal_shadowshard.uasset",
@@ -95,9 +88,8 @@
   "Ingredient:ingredient_crystal_sunbeam": {
     "Type": "Ingredient",
     "Name": "Ingredient_Crystal_Sunbeam",
-    "DisplayName": "Sunbeam Crystal",
-    "Description": "Crafting ingredient. Used to make many quality weapons. Occasionally found in caves and mountains. Rare in high end Twine Peaks.",
-    "IsPermanent": true,
+    "ItemName": "Sunbeam Crystal",
+    "ItemDescription": "Crafting ingredient. Used to make many quality weapons. Occasionally found in caves and mountains. Rare in high end Twine Peaks.",
     "Rarity": "Epic",
     "Tier": 5,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_crystal_sunbeam.uasset",
@@ -109,9 +101,8 @@
   "Ingredient:ingredient_duct_tape": {
     "Type": "Ingredient",
     "Name": "Ingredient_Duct_Tape",
-    "DisplayName": "Duct Tape",
-    "Description": "Refined crafting ingredient. Can be made with other ingredients, and commonly found in chests.",
-    "IsPermanent": true,
+    "ItemName": "Duct Tape",
+    "ItemDescription": "Refined crafting ingredient. Can be made with other ingredients, and commonly found in chests.",
     "AssetPath": "fortnitegame/content/items/ingredients/ingredient_duct_tape.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-SM-Crafting-Tier1-DuctTape.png",
@@ -121,9 +112,8 @@
   "Ingredient:ingredient_flowers": {
     "Type": "Ingredient",
     "Name": "Ingredient_Flowers",
-    "DisplayName": "Flower Petals",
-    "Description": "Crafting ingredient. Used as a base for crafting healing items. Found in plants and bushes.",
-    "IsPermanent": true,
+    "ItemName": "Flower Petals",
+    "ItemDescription": "Crafting ingredient. Used as a base for crafting healing items. Found in plants and bushes.",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_flowers.uasset",
     "ImagePaths": {
@@ -134,9 +124,8 @@
   "Ingredient:ingredient_herbs": {
     "Type": "Ingredient",
     "Name": "Ingredient_Herbs",
-    "DisplayName": "Fibrous Herbs",
-    "Description": "Crafting ingredient used for healing stations and duct tape. Found by searching bushes, crops and food storage areas.",
-    "IsPermanent": true,
+    "ItemName": "Fibrous Herbs",
+    "ItemDescription": "Crafting ingredient used for healing stations and duct tape. Found by searching bushes, crops and food storage areas.",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_herbs.uasset",
     "ImagePaths": {
@@ -147,9 +136,8 @@
   "Ingredient:ingredient_honey": {
     "Type": "Ingredient",
     "Name": "Ingredient_Honey",
-    "DisplayName": "Honey",
-    "Description": "Crafting ingredient. Found by destroying beehives and searching crops.",
-    "IsPermanent": true,
+    "ItemName": "Honey",
+    "ItemDescription": "Crafting ingredient. Found by destroying beehives and searching crops.",
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_honey.uasset",
     "ImagePaths": {
@@ -160,9 +148,8 @@
   "Ingredient:ingredient_mechanical_parts_t01": {
     "Type": "Ingredient",
     "Name": "Ingredient_Mechanical_Parts_T01",
-    "DisplayName": "Rusty Mechanical Parts",
-    "Description": "Crafting ingredient. Found in toolboxes, crates and by destroying mechanical objects.",
-    "IsPermanent": true,
+    "ItemName": "Rusty Mechanical Parts",
+    "ItemDescription": "Crafting ingredient. Found in toolboxes, crates and by destroying mechanical objects.",
     "Rarity": "Rare",
     "Tier": 1,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_mechanical_parts_t01.uasset",
@@ -174,9 +161,8 @@
   "Ingredient:ingredient_mechanical_parts_t02": {
     "Type": "Ingredient",
     "Name": "Ingredient_Mechanical_Parts_T02",
-    "DisplayName": "Simple Mechanical Parts",
-    "Description": "Crafting ingredient. Found in toolboxes, crates and by destroying mechanical objects.",
-    "IsPermanent": true,
+    "ItemName": "Simple Mechanical Parts",
+    "ItemDescription": "Crafting ingredient. Found in toolboxes, crates and by destroying mechanical objects.",
     "Rarity": "Rare",
     "Tier": 2,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_mechanical_parts_t02.uasset",
@@ -188,9 +174,8 @@
   "Ingredient:ingredient_mechanical_parts_t03": {
     "Type": "Ingredient",
     "Name": "Ingredient_Mechanical_Parts_T03",
-    "DisplayName": "Sturdy Mechanical Parts",
-    "Description": "Crafting ingredient. Found in toolboxes, crates and by destroying mechanical objects.",
-    "IsPermanent": true,
+    "ItemName": "Sturdy Mechanical Parts",
+    "ItemDescription": "Crafting ingredient. Found in toolboxes, crates and by destroying mechanical objects.",
     "Rarity": "Rare",
     "Tier": 3,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_mechanical_parts_t03.uasset",
@@ -202,9 +187,8 @@
   "Ingredient:ingredient_mechanical_parts_t04": {
     "Type": "Ingredient",
     "Name": "Ingredient_Mechanical_Parts_T04",
-    "DisplayName": "Sleek Mechanical Parts",
-    "Description": "Crafting ingredient. Found in toolboxes, crates and by destroying mechanical objects.",
-    "IsPermanent": true,
+    "ItemName": "Sleek Mechanical Parts",
+    "ItemDescription": "Crafting ingredient. Found in toolboxes, crates and by destroying mechanical objects.",
     "Rarity": "Rare",
     "Tier": 4,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_mechanical_parts_t04.uasset",
@@ -216,9 +200,8 @@
   "Ingredient:ingredient_mechanical_parts_t05": {
     "Type": "Ingredient",
     "Name": "Ingredient_Mechanical_Parts_T05",
-    "DisplayName": "Efficient Mechanical Parts",
-    "Description": "Crafting ingredient. Found in toolboxes, crates and by destroying mechanical objects.",
-    "IsPermanent": true,
+    "ItemName": "Efficient Mechanical Parts",
+    "ItemDescription": "Crafting ingredient. Found in toolboxes, crates and by destroying mechanical objects.",
     "Rarity": "Rare",
     "Tier": 5,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_mechanical_parts_t05.uasset",
@@ -230,9 +213,8 @@
   "Ingredient:ingredient_mechanical_parts_t06": {
     "Type": "Ingredient",
     "Name": "Ingredient_Mechanical_Parts_T06",
-    "DisplayName": "Vindertech Mechanical Parts",
-    "Description": "Crafting ingredient. Found in toolboxes, crates and by destroying mechanical objects.",
-    "IsPermanent": true,
+    "ItemName": "Vindertech Mechanical Parts",
+    "ItemDescription": "Crafting ingredient. Found in toolboxes, crates and by destroying mechanical objects.",
     "Rarity": "Rare",
     "Tier": 6,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_mechanical_parts_t06.uasset",
@@ -244,9 +226,8 @@
   "Ingredient:ingredient_mushroomblue": {
     "Type": "Ingredient",
     "Name": "Ingredient_MushroomBlue",
-    "DisplayName": "Blue Mushroom",
-    "Description": "Crafting ingredient. Used to make consumable items with energizing properties. Found in caves.",
-    "IsPermanent": true,
+    "ItemName": "Blue Mushroom",
+    "ItemDescription": "Crafting ingredient. Used to make consumable items with energizing properties. Found in caves.",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_mushroomblue.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-S-Mushroom03-Loot.png",
@@ -256,9 +237,8 @@
   "Ingredient:ingredient_mushroompink": {
     "Type": "Ingredient",
     "Name": "Ingredient_MushroomPink",
-    "DisplayName": "Pink Mushroom",
-    "Description": "Crafting ingredient. Used to make consumable buffs. Found growing on trees and walls.",
-    "IsPermanent": true,
+    "ItemName": "Pink Mushroom",
+    "ItemDescription": "Crafting ingredient. Used to make consumable buffs. Found growing on trees and walls.",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_mushroompink.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-S-Mushroom02-Loot.png",
@@ -268,9 +248,8 @@
   "Ingredient:ingredient_mushroomred": {
     "Type": "Ingredient",
     "Name": "Ingredient_MushroomRed",
-    "DisplayName": "Red Mushroom",
-    "Description": "Crafting ingredient. Used in consumables with healing and strengthening properties. Found in forests.",
-    "IsPermanent": true,
+    "ItemName": "Red Mushroom",
+    "ItemDescription": "Crafting ingredient. Used in consumables with healing and strengthening properties. Found in forests.",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_mushroomred.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-S-Mushroom04-Loot.png",
@@ -280,9 +259,8 @@
   "Ingredient:ingredient_mushroomwhite": {
     "Type": "Ingredient",
     "Name": "Ingredient_MushroomWhite",
-    "DisplayName": "White Mushroom",
-    "Description": "Crafting ingredient. Used to enhance the strength of consumable items. Found in mountains.",
-    "IsPermanent": true,
+    "ItemName": "White Mushroom",
+    "ItemDescription": "Crafting ingredient. Used to enhance the strength of consumable items. Found in mountains.",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_mushroomwhite.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-S-Mushroom05-Loot.png",
@@ -292,9 +270,8 @@
   "Ingredient:ingredient_mushroomyellow": {
     "Type": "Ingredient",
     "Name": "Ingredient_MushroomYellow",
-    "DisplayName": "Yellow Mushroom",
-    "Description": "Crafting ingredient. Valued for its varied properties when combined with other ingredients. Found growing on the ground.",
-    "IsPermanent": true,
+    "ItemName": "Yellow Mushroom",
+    "ItemDescription": "Crafting ingredient. Valued for its varied properties when combined with other ingredients. Found growing on the ground.",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_mushroomyellow.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-S-Mushroom01-Loot.png",
@@ -304,9 +281,8 @@
   "Ingredient:ingredient_nuts_bolts": {
     "Type": "Ingredient",
     "Name": "Ingredient_Nuts_Bolts",
-    "DisplayName": "Nuts \u0027n\u0027 Bolts",
-    "Description": "Crafting ingredient. Found in toolboxes, crates and by destroying mechanical objects.",
-    "IsPermanent": true,
+    "ItemName": "Nuts \u0027n\u0027 Bolts",
+    "ItemDescription": "Crafting ingredient. Found in toolboxes, crates and by destroying mechanical objects.",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/content/items/ingredients/ingredient_nuts_bolts.uasset",
     "ImagePaths": {
@@ -317,9 +293,8 @@
   "Ingredient:ingredient_ore_alloy": {
     "Type": "Ingredient",
     "Name": "Ingredient_Ore_Alloy",
-    "DisplayName": "Rough Ore",
-    "Description": "Crafting ingredient. Used in many common items and traps. Found by destroying rocks.",
-    "IsPermanent": true,
+    "ItemName": "Rough Ore",
+    "ItemDescription": "Crafting ingredient. Used in many common items and traps. Found by destroying rocks.",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_ore_alloy.uasset",
     "ImagePaths": {
@@ -330,9 +305,8 @@
   "Ingredient:ingredient_ore_brightcore": {
     "Type": "Ingredient",
     "Name": "Ingredient_Ore_BrightCore",
-    "DisplayName": "Brightcore Ore",
-    "Description": "Crafting ingredient. Used to make many quality weapons. Found in caves, mountains and occasionally in containers in settled areas. Rare in high end Twine Peaks.",
-    "IsPermanent": true,
+    "ItemName": "Brightcore Ore",
+    "ItemDescription": "Crafting ingredient. Used to make many quality weapons. Found in caves, mountains and occasionally in containers in settled areas. Rare in high end Twine Peaks.",
     "Rarity": "Epic",
     "Tier": 5,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_ore_brightcore.uasset",
@@ -344,9 +318,8 @@
   "Ingredient:ingredient_ore_coal": {
     "Type": "Ingredient",
     "Name": "Ingredient_Ore_Coal",
-    "DisplayName": "Coal",
-    "Description": "Crafting ingredient. Used as a base for explosive ammo and many weapons. Found in caves, mountains and fireplaces.",
-    "IsPermanent": true,
+    "ItemName": "Coal",
+    "ItemDescription": "Crafting ingredient. Used as a base for explosive ammo and many weapons. Found in caves, mountains and fireplaces.",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_ore_coal.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-S-Loot-Metal-Coal.png",
@@ -356,9 +329,8 @@
   "Ingredient:ingredient_ore_copper": {
     "Type": "Ingredient",
     "Name": "Ingredient_Ore_Copper",
-    "DisplayName": "Copper Ore",
-    "Description": "Crafting ingredient. Used to make many quality weapons. Found in caves, mountains and occasionally in containers in settled areas. It is said that the one who controls the copper controls the world.",
-    "IsPermanent": true,
+    "ItemName": "Copper Ore",
+    "ItemDescription": "Crafting ingredient. Used to make many quality weapons. Found in caves, mountains and occasionally in containers in settled areas. It is said that the one who controls the copper controls the world.",
     "Rarity": "Epic",
     "Tier": 1,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_ore_copper.uasset",
@@ -370,9 +342,8 @@
   "Ingredient:ingredient_ore_malachite": {
     "Type": "Ingredient",
     "Name": "Ingredient_Ore_Malachite",
-    "DisplayName": "Malachite Ore",
-    "Description": "Crafting ingredient. Used to make many quality weapons. Found in caves, mountains and occasionally in containers in settled areas. Common in Canny Valley and rare in high end Plankerton.",
-    "IsPermanent": true,
+    "ItemName": "Malachite Ore",
+    "ItemDescription": "Crafting ingredient. Used to make many quality weapons. Found in caves, mountains and occasionally in containers in settled areas. Common in Canny Valley and rare in high end Plankerton.",
     "Rarity": "Epic",
     "Tier": 3,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_ore_malachite.uasset",
@@ -384,9 +355,8 @@
   "Ingredient:ingredient_ore_obsidian": {
     "Type": "Ingredient",
     "Name": "Ingredient_Ore_Obsidian",
-    "DisplayName": "Obsidian Ore",
-    "Description": "Crafting ingredient. Used to make many quality weapons. Found in caves, mountains and occasionally in containers in settled areas. Common in Twine Peaks and rare in high end Canny Valley.",
-    "IsPermanent": true,
+    "ItemName": "Obsidian Ore",
+    "ItemDescription": "Crafting ingredient. Used to make many quality weapons. Found in caves, mountains and occasionally in containers in settled areas. Common in Twine Peaks and rare in high end Canny Valley.",
     "Rarity": "Epic",
     "Tier": 4,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_ore_obsidian.uasset",
@@ -398,9 +368,8 @@
   "Ingredient:ingredient_ore_silver": {
     "Type": "Ingredient",
     "Name": "Ingredient_Ore_Silver",
-    "DisplayName": "Silver Ore",
-    "Description": "Crafting ingredient. Used to make many quality weapons. Found in caves, mountains and occasionally in containers in settled areas. Common in Plankerton and rare in high end Stonewood.",
-    "IsPermanent": true,
+    "ItemName": "Silver Ore",
+    "ItemDescription": "Crafting ingredient. Used to make many quality weapons. Found in caves, mountains and occasionally in containers in settled areas. Common in Plankerton and rare in high end Stonewood.",
     "Rarity": "Epic",
     "Tier": 2,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_ore_silver.uasset",
@@ -412,9 +381,8 @@
   "Ingredient:ingredient_ore_spectrolite": {
     "Type": "Ingredient",
     "Name": "Ingredient_Ore_Spectrolite",
-    "DisplayName": "Spectrolite Ore",
-    "Description": "Crafting ingredient. Used to make many quality weapons. Found in caves, mountains and occasionally in containers in settled areas. ",
-    "IsPermanent": true,
+    "ItemName": "Spectrolite Ore",
+    "ItemDescription": "Crafting ingredient. Used to make many quality weapons. Found in caves, mountains and occasionally in containers in settled areas. ",
     "Rarity": "Epic",
     "Tier": 6,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_ore_spectrolite.uasset",
@@ -426,9 +394,8 @@
   "Ingredient:ingredient_planks": {
     "Type": "Ingredient",
     "Name": "Ingredient_Planks",
-    "DisplayName": "Planks",
-    "Description": "Crafting ingredient. Found by destroying trees.",
-    "IsPermanent": true,
+    "ItemName": "Planks",
+    "ItemDescription": "Crafting ingredient. Found by destroying trees.",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_planks.uasset",
     "ImagePaths": {
@@ -439,9 +406,8 @@
   "Ingredient:ingredient_powder_t01": {
     "Type": "Ingredient",
     "Name": "Ingredient_Powder_T01",
-    "DisplayName": "Rough Mineral Powder",
-    "Description": "Crafting ingredient. Found by destroying rocks.",
-    "IsPermanent": true,
+    "ItemName": "Rough Mineral Powder",
+    "ItemDescription": "Crafting ingredient. Found by destroying rocks.",
     "Rarity": "Common",
     "Tier": 1,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_powder_t01.uasset",
@@ -453,9 +419,8 @@
   "Ingredient:ingredient_powder_t02": {
     "Type": "Ingredient",
     "Name": "Ingredient_Powder_T02",
-    "DisplayName": "Simple Mineral Powder",
-    "Description": "Crafting ingredient. Found by destroying rocks.",
-    "IsPermanent": true,
+    "ItemName": "Simple Mineral Powder",
+    "ItemDescription": "Crafting ingredient. Found by destroying rocks.",
     "Rarity": "Common",
     "Tier": 2,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_powder_t02.uasset",
@@ -467,9 +432,8 @@
   "Ingredient:ingredient_powder_t03": {
     "Type": "Ingredient",
     "Name": "Ingredient_Powder_T03",
-    "DisplayName": "Fine-grain Mineral Powder",
-    "Description": "Crafting ingredient. Found by destroying rocks.",
-    "IsPermanent": true,
+    "ItemName": "Fine-grain Mineral Powder",
+    "ItemDescription": "Crafting ingredient. Found by destroying rocks.",
     "Rarity": "Common",
     "Tier": 3,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_powder_t03.uasset",
@@ -481,9 +445,8 @@
   "Ingredient:ingredient_powder_t04": {
     "Type": "Ingredient",
     "Name": "Ingredient_Powder_T04",
-    "DisplayName": "Char-black Mineral Powder",
-    "Description": "Crafting ingredient. Found by destroying rocks.",
-    "IsPermanent": true,
+    "ItemName": "Char-black Mineral Powder",
+    "ItemDescription": "Crafting ingredient. Found by destroying rocks.",
     "Rarity": "Common",
     "Tier": 4,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_powder_t04.uasset",
@@ -495,9 +458,8 @@
   "Ingredient:ingredient_powder_t05": {
     "Type": "Ingredient",
     "Name": "Ingredient_Powder_T05",
-    "DisplayName": "Oxidized Mineral Powder",
-    "Description": "Crafting ingredient. Found by destroying rocks.",
-    "IsPermanent": true,
+    "ItemName": "Oxidized Mineral Powder",
+    "ItemDescription": "Crafting ingredient. Found by destroying rocks.",
     "Rarity": "Common",
     "Tier": 5,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_powder_t05.uasset",
@@ -509,9 +471,8 @@
   "Ingredient:ingredient_powder_t06": {
     "Type": "Ingredient",
     "Name": "Ingredient_Powder_T06",
-    "DisplayName": "Spectral Mineral Powder",
-    "Description": "Crafting ingredient. Found by destroying rocks.",
-    "IsPermanent": true,
+    "ItemName": "Spectral Mineral Powder",
+    "ItemDescription": "Crafting ingredient. Found by destroying rocks.",
     "Rarity": "Common",
     "Tier": 6,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_powder_t06.uasset",
@@ -523,9 +484,8 @@
   "Ingredient:ingredient_rare_mechanism": {
     "Type": "Ingredient",
     "Name": "Ingredient_Rare_Mechanism",
-    "DisplayName": "Rotating Gizmo",
-    "Description": "Crafting ingredient. Occasionally found in chests and toolboxes.",
-    "IsPermanent": true,
+    "ItemName": "Rotating Gizmo",
+    "ItemDescription": "Crafting ingredient. Occasionally found in chests and toolboxes.",
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_rare_mechanism.uasset",
     "ImagePaths": {
@@ -536,9 +496,8 @@
   "Ingredient:ingredient_rare_powercell": {
     "Type": "Ingredient",
     "Name": "Ingredient_Rare_PowerCell",
-    "DisplayName": "Active Powercell",
-    "Description": "Crafting ingredient. Rarely found in strange places and chests.",
-    "IsPermanent": true,
+    "ItemName": "Active Powercell",
+    "ItemDescription": "Crafting ingredient. Rarely found in strange places and chests.",
     "Rarity": "Epic",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_rare_powercell.uasset",
     "ImagePaths": {
@@ -549,9 +508,8 @@
   "Ingredient:ingredient_resin": {
     "Type": "Ingredient",
     "Name": "Ingredient_Resin",
-    "DisplayName": "Adhesive Resin",
-    "Description": "Crafting ingredient. Found by chopping down trees and searching bushes.",
-    "IsPermanent": true,
+    "ItemName": "Adhesive Resin",
+    "ItemDescription": "Crafting ingredient. Found by chopping down trees and searching bushes.",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_resin.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-S-Resin.png",
@@ -561,9 +519,8 @@
   "Ingredient:ingredient_twine_t01": {
     "Type": "Ingredient",
     "Name": "Ingredient_Twine_T01",
-    "DisplayName": "Stringy Twine",
-    "Description": "Crafting ingredient. Can be found by destroying trees.",
-    "IsPermanent": true,
+    "ItemName": "Stringy Twine",
+    "ItemDescription": "Crafting ingredient. Can be found by destroying trees.",
     "Tier": 1,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_twine_t01.uasset",
     "ImagePaths": {
@@ -574,9 +531,8 @@
   "Ingredient:ingredient_twine_t02": {
     "Type": "Ingredient",
     "Name": "Ingredient_Twine_T02",
-    "DisplayName": "Simple Twine",
-    "Description": "Crafting ingredient. Can be found by destroying trees.",
-    "IsPermanent": true,
+    "ItemName": "Simple Twine",
+    "ItemDescription": "Crafting ingredient. Can be found by destroying trees.",
     "Tier": 2,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_twine_t02.uasset",
     "ImagePaths": {
@@ -587,9 +543,8 @@
   "Ingredient:ingredient_twine_t03": {
     "Type": "Ingredient",
     "Name": "Ingredient_Twine_T03",
-    "DisplayName": "Sturdy Twine",
-    "Description": "Crafting ingredient. Can be found by destroying trees.",
-    "IsPermanent": true,
+    "ItemName": "Sturdy Twine",
+    "ItemDescription": "Crafting ingredient. Can be found by destroying trees.",
     "Tier": 3,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_twine_t03.uasset",
     "ImagePaths": {
@@ -600,9 +555,8 @@
   "Ingredient:ingredient_twine_t04": {
     "Type": "Ingredient",
     "Name": "Ingredient_Twine_T04",
-    "DisplayName": "Peaky Twine",
-    "Description": "Crafting ingredient. Can be found by destroying trees.",
-    "IsPermanent": true,
+    "ItemName": "Peaky Twine",
+    "ItemDescription": "Crafting ingredient. Can be found by destroying trees.",
     "Tier": 4,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_twine_t04.uasset",
     "ImagePaths": {
@@ -613,9 +567,8 @@
   "Ingredient:ingredient_twine_t05": {
     "Type": "Ingredient",
     "Name": "Ingredient_Twine_T05",
-    "DisplayName": "Carved Twine",
-    "Description": "Crafting ingredient. Can be found by destroying trees.",
-    "IsPermanent": true,
+    "ItemName": "Carved Twine",
+    "ItemDescription": "Crafting ingredient. Can be found by destroying trees.",
     "Tier": 5,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_twine_t05.uasset",
     "ImagePaths": {
@@ -626,9 +579,8 @@
   "Ingredient:ingredient_twine_t06": {
     "Type": "Ingredient",
     "Name": "Ingredient_Twine_T06",
-    "DisplayName": "Spectral Twine",
-    "Description": "Crafting ingredient. Can be found by destroying trees.",
-    "IsPermanent": true,
+    "ItemName": "Spectral Twine",
+    "ItemDescription": "Crafting ingredient. Can be found by destroying trees.",
     "Tier": 6,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/ingredients/ingredient_twine_t06.uasset",
     "ImagePaths": {

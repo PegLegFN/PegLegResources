@@ -2,10 +2,9 @@
   "Accolades:accoladeid_stw_badge_building": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Badge_Building",
-    "DisplayName": "Building Badge",
+    "ItemName": "Building Badge",
     "AccoladeXP": 1500,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_badge_building.uasset",
     "ImagePaths": {
@@ -16,10 +15,9 @@
   "Accolades:accoladeid_stw_badge_building_bronze": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Badge_Building_Bronze",
-    "DisplayName": "Building Badge",
+    "ItemName": "Building Badge",
     "AccoladeXP": 500,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_badge_building_bronze.uasset",
     "ImagePaths": {
@@ -30,10 +28,9 @@
   "Accolades:accoladeid_stw_badge_building_gold": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Badge_Building_Gold",
-    "DisplayName": "Building Badge",
+    "ItemName": "Building Badge",
     "AccoladeXP": 2100,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_badge_building_gold.uasset",
     "ImagePaths": {
@@ -44,10 +41,9 @@
   "Accolades:accoladeid_stw_badge_building_platinum": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Badge_Building_Platinum",
-    "DisplayName": "Building Badge",
+    "ItemName": "Building Badge",
     "AccoladeXP": 2300,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_badge_building_platinum.uasset",
     "ImagePaths": {
@@ -58,10 +54,9 @@
   "Accolades:accoladeid_stw_badge_combat": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Badge_Combat",
-    "DisplayName": "Combat Badge",
+    "ItemName": "Combat Badge",
     "AccoladeXP": 1500,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_badge_combat.uasset",
     "ImagePaths": {
@@ -72,10 +67,9 @@
   "Accolades:accoladeid_stw_badge_combat_bronze": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Badge_Combat_Bronze",
-    "DisplayName": "Combat Badge",
+    "ItemName": "Combat Badge",
     "AccoladeXP": 500,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_badge_combat_bronze.uasset",
     "ImagePaths": {
@@ -86,10 +80,9 @@
   "Accolades:accoladeid_stw_badge_combat_gold": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Badge_Combat_Gold",
-    "DisplayName": "Combat Badge",
+    "ItemName": "Combat Badge",
     "AccoladeXP": 2100,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_badge_combat_gold.uasset",
     "ImagePaths": {
@@ -100,10 +93,9 @@
   "Accolades:accoladeid_stw_badge_combat_platinum": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Badge_Combat_Platinum",
-    "DisplayName": "Combat Badge",
+    "ItemName": "Combat Badge",
     "AccoladeXP": 2300,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_badge_combat_platinum.uasset",
     "ImagePaths": {
@@ -114,10 +106,9 @@
   "Accolades:accoladeid_stw_badge_exploration": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Badge_Exploration",
-    "DisplayName": "Exploration Badge",
+    "ItemName": "Exploration Badge",
     "AccoladeXP": 1500,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_badge_exploration.uasset",
     "ImagePaths": {
@@ -128,10 +119,9 @@
   "Accolades:accoladeid_stw_badge_utility": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Badge_Utility",
-    "DisplayName": "Utility Badge",
+    "ItemName": "Utility Badge",
     "AccoladeXP": 1500,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_badge_utility.uasset",
     "ImagePaths": {
@@ -142,10 +132,9 @@
   "Accolades:accoladeid_stw_badge_utility_bronze": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Badge_Utility_Bronze",
-    "DisplayName": "Utility Badge",
+    "ItemName": "Utility Badge",
     "AccoladeXP": 500,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_badge_utility_bronze.uasset",
     "ImagePaths": {
@@ -156,10 +145,9 @@
   "Accolades:accoladeid_stw_badge_utility_gold": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Badge_Utility_Gold",
-    "DisplayName": "Utility Badge",
+    "ItemName": "Utility Badge",
     "AccoladeXP": 2100,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_badge_utility_gold.uasset",
     "ImagePaths": {
@@ -170,10 +158,9 @@
   "Accolades:accoladeid_stw_badge_utility_platinum": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Badge_Utility_Platinum",
-    "DisplayName": "Utility Badge",
+    "ItemName": "Utility Badge",
     "AccoladeXP": 2300,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_badge_utility_platinum.uasset",
     "ImagePaths": {
@@ -184,10 +171,9 @@
   "Accolades:accoladeid_stw_endurance_w01": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Endurance_W01",
-    "DisplayName": "Endurance: Wave 1",
+    "ItemName": "Endurance: Wave 1",
     "AccoladeXP": 2300,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_endurance_w01.uasset",
     "ImagePaths": {
@@ -198,10 +184,9 @@
   "Accolades:accoladeid_stw_endurance_w02": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Endurance_W02",
-    "DisplayName": "Endurance: Wave 2",
+    "ItemName": "Endurance: Wave 2",
     "AccoladeXP": 6900,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_endurance_w02.uasset",
     "ImagePaths": {
@@ -212,10 +197,9 @@
   "Accolades:accoladeid_stw_endurance_w03": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Endurance_W03",
-    "DisplayName": "Endurance: Wave 3",
+    "ItemName": "Endurance: Wave 3",
     "AccoladeXP": 12600,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_endurance_w03.uasset",
     "ImagePaths": {
@@ -226,10 +210,9 @@
   "Accolades:accoladeid_stw_endurance_w04": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Endurance_W04",
-    "DisplayName": "Endurance: Wave 4",
+    "ItemName": "Endurance: Wave 4",
     "AccoladeXP": 20700,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_endurance_w04.uasset",
     "ImagePaths": {
@@ -240,10 +223,9 @@
   "Accolades:accoladeid_stw_endurance_w05": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Endurance_W05",
-    "DisplayName": "Endurance: Wave 5",
+    "ItemName": "Endurance: Wave 5",
     "AccoladeXP": 28700,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_endurance_w05.uasset",
     "ImagePaths": {
@@ -254,10 +236,9 @@
   "Accolades:accoladeid_stw_endurance_w06": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Endurance_W06",
-    "DisplayName": "Endurance: Wave 6",
+    "ItemName": "Endurance: Wave 6",
     "AccoladeXP": 39100,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_endurance_w06.uasset",
     "ImagePaths": {
@@ -268,10 +249,9 @@
   "Accolades:accoladeid_stw_endurance_w07": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Endurance_W07",
-    "DisplayName": "Endurance: Wave 7",
+    "ItemName": "Endurance: Wave 7",
     "AccoladeXP": 46000,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_endurance_w07.uasset",
     "ImagePaths": {
@@ -282,10 +262,9 @@
   "Accolades:accoladeid_stw_endurance_w08": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Endurance_W08",
-    "DisplayName": "Endurance: Wave 8",
+    "ItemName": "Endurance: Wave 8",
     "AccoladeXP": 52900,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_endurance_w08.uasset",
     "ImagePaths": {
@@ -296,10 +275,9 @@
   "Accolades:accoladeid_stw_endurance_w09": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Endurance_W09",
-    "DisplayName": "Endurance: Wave 9",
+    "ItemName": "Endurance: Wave 9",
     "AccoladeXP": 60900,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_endurance_w09.uasset",
     "ImagePaths": {
@@ -310,10 +288,9 @@
   "Accolades:accoladeid_stw_endurance_w10": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Endurance_W10",
-    "DisplayName": "Endurance: Wave 10",
+    "ItemName": "Endurance: Wave 10",
     "AccoladeXP": 69000,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_endurance_w10.uasset",
     "ImagePaths": {
@@ -324,10 +301,9 @@
   "Accolades:accoladeid_stw_endurance_w11": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Endurance_W11",
-    "DisplayName": "Endurance: Wave 11",
+    "ItemName": "Endurance: Wave 11",
     "AccoladeXP": 77000,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_endurance_w11.uasset",
     "ImagePaths": {
@@ -338,10 +314,9 @@
   "Accolades:accoladeid_stw_endurance_w12": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Endurance_W12",
-    "DisplayName": "Endurance: Wave 12",
+    "ItemName": "Endurance: Wave 12",
     "AccoladeXP": 85100,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_endurance_w12.uasset",
     "ImagePaths": {
@@ -352,10 +327,9 @@
   "Accolades:accoladeid_stw_endurance_w13": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Endurance_W13",
-    "DisplayName": "Endurance: Wave 13",
+    "ItemName": "Endurance: Wave 13",
     "AccoladeXP": 95400,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_endurance_w13.uasset",
     "ImagePaths": {
@@ -366,10 +340,9 @@
   "Accolades:accoladeid_stw_endurance_w14": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Endurance_W14",
-    "DisplayName": "Endurance: Wave 14",
+    "ItemName": "Endurance: Wave 14",
     "AccoladeXP": 103500,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_endurance_w14.uasset",
     "ImagePaths": {
@@ -380,10 +353,9 @@
   "Accolades:accoladeid_stw_endurance_w15": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Endurance_W15",
-    "DisplayName": "Endurance: Wave 15",
+    "ItemName": "Endurance: Wave 15",
     "AccoladeXP": 116100,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_endurance_w15.uasset",
     "ImagePaths": {
@@ -394,10 +366,9 @@
   "Accolades:accoladeid_stw_endurance_w16": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Endurance_W16",
-    "DisplayName": "Endurance: Wave 16",
+    "ItemName": "Endurance: Wave 16",
     "AccoladeXP": 121900,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_endurance_w16.uasset",
     "ImagePaths": {
@@ -408,10 +379,9 @@
   "Accolades:accoladeid_stw_endurance_w17": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Endurance_W17",
-    "DisplayName": "Endurance: Wave 17",
+    "ItemName": "Endurance: Wave 17",
     "AccoladeXP": 133400,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_endurance_w17.uasset",
     "ImagePaths": {
@@ -422,10 +392,9 @@
   "Accolades:accoladeid_stw_endurance_w18": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Endurance_W18",
-    "DisplayName": "Endurance: Wave 18",
+    "ItemName": "Endurance: Wave 18",
     "AccoladeXP": 144800,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_endurance_w18.uasset",
     "ImagePaths": {
@@ -436,10 +405,9 @@
   "Accolades:accoladeid_stw_endurance_w19": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Endurance_W19",
-    "DisplayName": "Endurance: Wave 19",
+    "ItemName": "Endurance: Wave 19",
     "AccoladeXP": 155200,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_endurance_w19.uasset",
     "ImagePaths": {
@@ -450,10 +418,9 @@
   "Accolades:accoladeid_stw_endurance_w20": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Endurance_W20",
-    "DisplayName": "Endurance: Wave 20",
+    "ItemName": "Endurance: Wave 20",
     "AccoladeXP": 165500,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_endurance_w20.uasset",
     "ImagePaths": {
@@ -464,10 +431,9 @@
   "Accolades:accoladeid_stw_endurance_w21": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Endurance_W21",
-    "DisplayName": "Endurance: Wave 21",
+    "ItemName": "Endurance: Wave 21",
     "AccoladeXP": 179300,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_endurance_w21.uasset",
     "ImagePaths": {
@@ -478,10 +444,9 @@
   "Accolades:accoladeid_stw_endurance_w22": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Endurance_W22",
-    "DisplayName": "Endurance: Wave 22",
+    "ItemName": "Endurance: Wave 22",
     "AccoladeXP": 186200,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_endurance_w22.uasset",
     "ImagePaths": {
@@ -492,10 +457,9 @@
   "Accolades:accoladeid_stw_endurance_w23": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Endurance_W23",
-    "DisplayName": "Endurance: Wave 23",
+    "ItemName": "Endurance: Wave 23",
     "AccoladeXP": 204600,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_endurance_w23.uasset",
     "ImagePaths": {
@@ -506,10 +470,9 @@
   "Accolades:accoladeid_stw_endurance_w24": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Endurance_W24",
-    "DisplayName": "Endurance: Wave 24",
+    "ItemName": "Endurance: Wave 24",
     "AccoladeXP": 216100,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_endurance_w24.uasset",
     "ImagePaths": {
@@ -520,10 +483,9 @@
   "Accolades:accoladeid_stw_endurance_w25": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Endurance_W25",
-    "DisplayName": "Endurance: Wave 25",
+    "ItemName": "Endurance: Wave 25",
     "AccoladeXP": 228800,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_endurance_w25.uasset",
     "ImagePaths": {
@@ -534,10 +496,9 @@
   "Accolades:accoladeid_stw_endurance_w26": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Endurance_W26",
-    "DisplayName": "Endurance: Wave 26",
+    "ItemName": "Endurance: Wave 26",
     "AccoladeXP": 244900,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_endurance_w26.uasset",
     "ImagePaths": {
@@ -548,10 +509,9 @@
   "Accolades:accoladeid_stw_endurance_w27": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Endurance_W27",
-    "DisplayName": "Endurance: Wave 27",
+    "ItemName": "Endurance: Wave 27",
     "AccoladeXP": 258700,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_endurance_w27.uasset",
     "ImagePaths": {
@@ -562,10 +522,9 @@
   "Accolades:accoladeid_stw_endurance_w28": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Endurance_W28",
-    "DisplayName": "Endurance: Wave 28",
+    "ItemName": "Endurance: Wave 28",
     "AccoladeXP": 272500,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_endurance_w28.uasset",
     "ImagePaths": {
@@ -576,10 +535,9 @@
   "Accolades:accoladeid_stw_endurance_w29": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Endurance_W29",
-    "DisplayName": "Endurance: Wave 29",
+    "ItemName": "Endurance: Wave 29",
     "AccoladeXP": 287400,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_endurance_w29.uasset",
     "ImagePaths": {
@@ -590,10 +548,9 @@
   "Accolades:accoladeid_stw_endurance_w30": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Endurance_W30",
-    "DisplayName": "Endurance: Wave 30",
+    "ItemName": "Endurance: Wave 30",
     "AccoladeXP": 302300,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_endurance_w30.uasset",
     "ImagePaths": {
@@ -604,10 +561,9 @@
   "Accolades:accoladeid_stw_frostnite_w01": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Frostnite_W01",
-    "DisplayName": "Frostnite: Wave 1",
+    "ItemName": "Frostnite: Wave 1",
     "AccoladeXP": 13800,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_frostnite_w01.uasset",
     "ImagePaths": {
@@ -618,10 +574,9 @@
   "Accolades:accoladeid_stw_frostnite_w02": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Frostnite_W02",
-    "DisplayName": "Frostnite: Wave 2",
+    "ItemName": "Frostnite: Wave 2",
     "AccoladeXP": 24100,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_frostnite_w02.uasset",
     "ImagePaths": {
@@ -632,10 +587,9 @@
   "Accolades:accoladeid_stw_frostnite_w03": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Frostnite_W03",
-    "DisplayName": "Frostnite: Wave 3",
+    "ItemName": "Frostnite: Wave 3",
     "AccoladeXP": 37900,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_frostnite_w03.uasset",
     "ImagePaths": {
@@ -646,10 +600,9 @@
   "Accolades:accoladeid_stw_frostnite_w04": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Frostnite_W04",
-    "DisplayName": "Frostnite: Wave 4",
+    "ItemName": "Frostnite: Wave 4",
     "AccoladeXP": 48300,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_frostnite_w04.uasset",
     "ImagePaths": {
@@ -660,10 +613,9 @@
   "Accolades:accoladeid_stw_frostnite_w05": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Frostnite_W05",
-    "DisplayName": "Frostnite: Wave 5",
+    "ItemName": "Frostnite: Wave 5",
     "AccoladeXP": 57500,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_frostnite_w05.uasset",
     "ImagePaths": {
@@ -674,10 +626,9 @@
   "Accolades:accoladeid_stw_frostnite_w06": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Frostnite_W06",
-    "DisplayName": "Frostnite: Wave 6",
+    "ItemName": "Frostnite: Wave 6",
     "AccoladeXP": 67800,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_frostnite_w06.uasset",
     "ImagePaths": {
@@ -688,10 +639,9 @@
   "Accolades:accoladeid_stw_frostnite_w07": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Frostnite_W07",
-    "DisplayName": "Frostnite: Wave 7",
+    "ItemName": "Frostnite: Wave 7",
     "AccoladeXP": 78200,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_frostnite_w07.uasset",
     "ImagePaths": {
@@ -702,10 +652,9 @@
   "Accolades:accoladeid_stw_frostnite_w08": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Frostnite_W08",
-    "DisplayName": "Frostnite: Wave 8",
+    "ItemName": "Frostnite: Wave 8",
     "AccoladeXP": 87400,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_frostnite_w08.uasset",
     "ImagePaths": {
@@ -716,10 +665,9 @@
   "Accolades:accoladeid_stw_frostnite_w09": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Frostnite_W09",
-    "DisplayName": "Frostnite: Wave 9",
+    "ItemName": "Frostnite: Wave 9",
     "AccoladeXP": 96600,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_frostnite_w09.uasset",
     "ImagePaths": {
@@ -730,10 +678,9 @@
   "Accolades:accoladeid_stw_frostnite_w10": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Frostnite_W10",
-    "DisplayName": "Frostnite: Wave 10",
+    "ItemName": "Frostnite: Wave 10",
     "AccoladeXP": 108100,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_frostnite_w10.uasset",
     "ImagePaths": {
@@ -744,10 +691,9 @@
   "Accolades:accoladeid_stw_frostnite_w11": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Frostnite_W11",
-    "DisplayName": "Frostnite: Wave 11",
+    "ItemName": "Frostnite: Wave 11",
     "AccoladeXP": 118400,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_frostnite_w11.uasset",
     "ImagePaths": {
@@ -758,10 +704,9 @@
   "Accolades:accoladeid_stw_frostnite_w12": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Frostnite_W12",
-    "DisplayName": "Frostnite: Wave 12",
+    "ItemName": "Frostnite: Wave 12",
     "AccoladeXP": 129900,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_frostnite_w12.uasset",
     "ImagePaths": {
@@ -772,10 +717,9 @@
   "Accolades:accoladeid_stw_frostnite_w13": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Frostnite_W13",
-    "DisplayName": "Frostnite: Wave 13",
+    "ItemName": "Frostnite: Wave 13",
     "AccoladeXP": 143700,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_frostnite_w13.uasset",
     "ImagePaths": {
@@ -786,10 +730,9 @@
   "Accolades:accoladeid_stw_frostnite_w14": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Frostnite_W14",
-    "DisplayName": "Frostnite: Wave 14",
+    "ItemName": "Frostnite: Wave 14",
     "AccoladeXP": 155200,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_frostnite_w14.uasset",
     "ImagePaths": {
@@ -800,10 +743,9 @@
   "Accolades:accoladeid_stw_frostnite_w15": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Frostnite_W15",
-    "DisplayName": "Frostnite: Wave 15",
+    "ItemName": "Frostnite: Wave 15",
     "AccoladeXP": 167800,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_frostnite_w15.uasset",
     "ImagePaths": {
@@ -814,10 +756,9 @@
   "Accolades:accoladeid_stw_frostnite_w16": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Frostnite_W16",
-    "DisplayName": "Frostnite: Wave 16",
+    "ItemName": "Frostnite: Wave 16",
     "AccoladeXP": 183900,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_frostnite_w16.uasset",
     "ImagePaths": {
@@ -828,10 +769,9 @@
   "Accolades:accoladeid_stw_frostnite_w17": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Frostnite_W17",
-    "DisplayName": "Frostnite: Wave 17",
+    "ItemName": "Frostnite: Wave 17",
     "AccoladeXP": 195400,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_frostnite_w17.uasset",
     "ImagePaths": {
@@ -842,10 +782,9 @@
   "Accolades:accoladeid_stw_frostnite_w18": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Frostnite_W18",
-    "DisplayName": "Frostnite: Wave 18",
+    "ItemName": "Frostnite: Wave 18",
     "AccoladeXP": 218400,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_frostnite_w18.uasset",
     "ImagePaths": {
@@ -856,10 +795,9 @@
   "Accolades:accoladeid_stw_frostnite_w19": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Frostnite_W19",
-    "DisplayName": "Frostnite: Wave 19",
+    "ItemName": "Frostnite: Wave 19",
     "AccoladeXP": 232200,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_frostnite_w19.uasset",
     "ImagePaths": {
@@ -870,10 +808,9 @@
   "Accolades:accoladeid_stw_frostnite_w20": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Frostnite_W20",
-    "DisplayName": "Frostnite: Wave 20",
+    "ItemName": "Frostnite: Wave 20",
     "AccoladeXP": 238000,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_frostnite_w20.uasset",
     "ImagePaths": {
@@ -884,10 +821,9 @@
   "Accolades:accoladeid_stw_hittheroad_prog_bridgeout": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_HitTheRoad_Prog_BridgeOut",
-    "DisplayName": "Hit the Road: Bridge Out",
+    "ItemName": "Hit the Road: Bridge Out",
     "AccoladeXP": 11500,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_hittheroad_prog_bridgeout.uasset",
     "ImagePaths": {
@@ -898,10 +834,9 @@
   "Accolades:accoladeid_stw_hittheroad_prog_bughunt": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_HitTheRoad_Prog_BugHunt",
-    "DisplayName": "Hit the Road: Infestation",
+    "ItemName": "Hit the Road: Infestation",
     "AccoladeXP": 11500,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_hittheroad_prog_bughunt.uasset",
     "ImagePaths": {
@@ -912,10 +847,9 @@
   "Accolades:accoladeid_stw_hittheroad_prog_feelinblu": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_HitTheRoad_Prog_FeelinBlu",
-    "DisplayName": "Hit the Road: Feelin\u0027 Blu",
+    "ItemName": "Hit the Road: Feelin\u0027 Blu",
     "AccoladeXP": 11500,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_hittheroad_prog_feelinblu.uasset",
     "ImagePaths": {
@@ -926,10 +860,9 @@
   "Accolades:accoladeid_stw_hittheroad_prog_minordelay": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_HitTheRoad_Prog_MinorDelay",
-    "DisplayName": "Hit the Road: Minor Delay",
+    "ItemName": "Hit the Road: Minor Delay",
     "AccoladeXP": 11500,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_hittheroad_prog_minordelay.uasset",
     "ImagePaths": {
@@ -940,10 +873,9 @@
   "Accolades:accoladeid_stw_hittheroad_prog_overheat": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_HitTheRoad_Prog_Overheat",
-    "DisplayName": "Hit the Road: Overheat",
+    "ItemName": "Hit the Road: Overheat",
     "AccoladeXP": 11500,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_hittheroad_prog_overheat.uasset",
     "ImagePaths": {
@@ -954,10 +886,9 @@
   "Accolades:accoladeid_stw_hittheroad_prog_partyplanner": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_HitTheRoad_Prog_PartyPlanner",
-    "DisplayName": "Hit the Road: Record Dash",
+    "ItemName": "Hit the Road: Record Dash",
     "AccoladeXP": 11500,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_hittheroad_prog_partyplanner.uasset",
     "ImagePaths": {
@@ -968,10 +899,9 @@
   "Accolades:accoladeid_stw_hittheroad_prog_pitstop": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_HitTheRoad_Prog_PitStop",
-    "DisplayName": "Hit the Road: Pit Stop",
+    "ItemName": "Hit the Road: Pit Stop",
     "AccoladeXP": 11500,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_hittheroad_prog_pitstop.uasset",
     "ImagePaths": {
@@ -982,10 +912,9 @@
   "Accolades:accoladeid_stw_hittheroad_prog_signalboost": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_HitTheRoad_Prog_SignalBoost",
-    "DisplayName": "Hit the Road: Signal Boost",
+    "ItemName": "Hit the Road: Signal Boost",
     "AccoladeXP": 11500,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_hittheroad_prog_signalboost.uasset",
     "ImagePaths": {
@@ -996,10 +925,9 @@
   "Accolades:accoladeid_stw_hittheroad_prog_strangelands": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_HitTheRoad_Prog_Strangelands",
-    "DisplayName": "Hit the Road: Strangelands",
+    "ItemName": "Hit the Road: Strangelands",
     "AccoladeXP": 11500,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_hittheroad_prog_strangelands.uasset",
     "ImagePaths": {
@@ -1010,10 +938,9 @@
   "Accolades:accoladeid_stw_hittheroad_victory": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_HitTheRoad_Victory",
-    "DisplayName": "Hit the Road: Victory",
+    "ItemName": "Hit the Road: Victory",
     "AccoladeXP": 35600,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_hittheroad_victory.uasset",
     "ImagePaths": {
@@ -1024,10 +951,9 @@
   "Accolades:accoladeid_stw_horde_bonus_base1": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Horde_Bonus_Base1",
-    "DisplayName": "Bonus: One Base Survived",
+    "ItemName": "Bonus: One Base Survived",
     "AccoladeXP": 6900,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/stw/stw_horde/content/items/stwaccolades/accolades/accoladeid_stw_horde_bonus_base1.uasset",
     "ImagePaths": {
@@ -1038,10 +964,9 @@
   "Accolades:accoladeid_stw_horde_bonus_base2": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Horde_Bonus_Base2",
-    "DisplayName": "Bonus: Two Bases Survived",
+    "ItemName": "Bonus: Two Bases Survived",
     "AccoladeXP": 9200,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/stw/stw_horde/content/items/stwaccolades/accolades/accoladeid_stw_horde_bonus_base2.uasset",
     "ImagePaths": {
@@ -1052,10 +977,9 @@
   "Accolades:accoladeid_stw_horde_bonus_base3": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Horde_Bonus_Base3",
-    "DisplayName": "Bonus: All Bases Survived",
+    "ItemName": "Bonus: All Bases Survived",
     "AccoladeXP": 11500,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/stw/stw_horde/content/items/stwaccolades/accolades/accoladeid_stw_horde_bonus_base3.uasset",
     "ImagePaths": {
@@ -1066,10 +990,9 @@
   "Accolades:accoladeid_stw_horde_bonus_survive": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Horde_Bonus_Survive",
-    "DisplayName": "Bonus: All Heroes Survived",
+    "ItemName": "Bonus: All Heroes Survived",
     "AccoladeXP": 9200,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/stw/stw_horde/content/items/stwaccolades/accolades/accoladeid_stw_horde_bonus_survive.uasset",
     "ImagePaths": {
@@ -1080,10 +1003,9 @@
   "Accolades:accoladeid_stw_horde_fail": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Horde_Fail",
-    "DisplayName": "Survive the Horde: Defeat",
+    "ItemName": "Survive the Horde: Defeat",
     "AccoladeXP": 1300,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/stw/stw_horde/content/items/stwaccolades/accolades/accoladeid_stw_horde_fail.uasset",
     "ImagePaths": {
@@ -1094,10 +1016,9 @@
   "Accolades:accoladeid_stw_horde_w01": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Horde_W01",
-    "DisplayName": "Survive the Horde: Wave 1",
+    "ItemName": "Survive the Horde: Wave 1",
     "AccoladeXP": 6900,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/stw/stw_horde/content/items/stwaccolades/accolades/accoladeid_stw_horde_w01.uasset",
     "ImagePaths": {
@@ -1108,10 +1029,9 @@
   "Accolades:accoladeid_stw_horde_w02": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Horde_W02",
-    "DisplayName": "Survive the Horde: Wave 2",
+    "ItemName": "Survive the Horde: Wave 2",
     "AccoladeXP": 14900,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/stw/stw_horde/content/items/stwaccolades/accolades/accoladeid_stw_horde_w02.uasset",
     "ImagePaths": {
@@ -1122,10 +1042,9 @@
   "Accolades:accoladeid_stw_horde_w03": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Horde_W03",
-    "DisplayName": "Survive the Horde: Wave 3",
+    "ItemName": "Survive the Horde: Wave 3",
     "AccoladeXP": 25300,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/stw/stw_horde/content/items/stwaccolades/accolades/accoladeid_stw_horde_w03.uasset",
     "ImagePaths": {
@@ -1136,10 +1055,9 @@
   "Accolades:accoladeid_stw_horde_w04": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Horde_W04",
-    "DisplayName": "Survive the Horde: Wave 4",
+    "ItemName": "Survive the Horde: Wave 4",
     "AccoladeXP": 33300,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/stw/stw_horde/content/items/stwaccolades/accolades/accoladeid_stw_horde_w04.uasset",
     "ImagePaths": {
@@ -1150,10 +1068,9 @@
   "Accolades:accoladeid_stw_horde_w05": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Horde_W05",
-    "DisplayName": "Survive the Horde: Wave 5",
+    "ItemName": "Survive the Horde: Wave 5",
     "AccoladeXP": 42500,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/stw/stw_horde/content/items/stwaccolades/accolades/accoladeid_stw_horde_w05.uasset",
     "ImagePaths": {
@@ -1164,10 +1081,9 @@
   "Accolades:accoladeid_stw_horde_w06": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Horde_W06",
-    "DisplayName": "Survive the Horde: Wave 6",
+    "ItemName": "Survive the Horde: Wave 6",
     "AccoladeXP": 51700,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/stw/stw_horde/content/items/stwaccolades/accolades/accoladeid_stw_horde_w06.uasset",
     "ImagePaths": {
@@ -1178,10 +1094,9 @@
   "Accolades:accoladeid_stw_horde_w07": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Horde_W07",
-    "DisplayName": "Survive the Horde: Wave 7",
+    "ItemName": "Survive the Horde: Wave 7",
     "AccoladeXP": 60900,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/stw/stw_horde/content/items/stwaccolades/accolades/accoladeid_stw_horde_w07.uasset",
     "ImagePaths": {
@@ -1192,10 +1107,9 @@
   "Accolades:accoladeid_stw_horde_w08": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Horde_W08",
-    "DisplayName": "Survive the Horde: Wave 8",
+    "ItemName": "Survive the Horde: Wave 8",
     "AccoladeXP": 70100,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/stw/stw_horde/content/items/stwaccolades/accolades/accoladeid_stw_horde_w08.uasset",
     "ImagePaths": {
@@ -1206,10 +1120,9 @@
   "Accolades:accoladeid_stw_horde_w09": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Horde_W09",
-    "DisplayName": "Survive the Horde: Wave 9",
+    "ItemName": "Survive the Horde: Wave 9",
     "AccoladeXP": 79300,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/stw/stw_horde/content/items/stwaccolades/accolades/accoladeid_stw_horde_w09.uasset",
     "ImagePaths": {
@@ -1220,10 +1133,9 @@
   "Accolades:accoladeid_stw_horde_w10": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Horde_W10",
-    "DisplayName": "Survive the Horde: Wave 10",
+    "ItemName": "Survive the Horde: Wave 10",
     "AccoladeXP": 89700,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/stw/stw_horde/content/items/stwaccolades/accolades/accoladeid_stw_horde_w10.uasset",
     "ImagePaths": {
@@ -1234,10 +1146,9 @@
   "Accolades:accoladeid_stw_horde_w11": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Horde_W11",
-    "DisplayName": "Survive the Horde: Wave 11",
+    "ItemName": "Survive the Horde: Wave 11",
     "AccoladeXP": 98900,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/stw/stw_horde/content/items/stwaccolades/accolades/accoladeid_stw_horde_w11.uasset",
     "ImagePaths": {
@@ -1248,10 +1159,9 @@
   "Accolades:accoladeid_stw_horde_w12": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Horde_W12",
-    "DisplayName": "Survive the Horde: Wave 12",
+    "ItemName": "Survive the Horde: Wave 12",
     "AccoladeXP": 109200,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/stw/stw_horde/content/items/stwaccolades/accolades/accoladeid_stw_horde_w12.uasset",
     "ImagePaths": {
@@ -1262,10 +1172,9 @@
   "Accolades:accoladeid_stw_horde_w13": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Horde_W13",
-    "DisplayName": "Survive the Horde: Wave 13",
+    "ItemName": "Survive the Horde: Wave 13",
     "AccoladeXP": 119600,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/stw/stw_horde/content/items/stwaccolades/accolades/accoladeid_stw_horde_w13.uasset",
     "ImagePaths": {
@@ -1276,10 +1185,9 @@
   "Accolades:accoladeid_stw_horde_w14": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Horde_W14",
-    "DisplayName": "Survive the Horde: Wave 14",
+    "ItemName": "Survive the Horde: Wave 14",
     "AccoladeXP": 129900,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/stw/stw_horde/content/items/stwaccolades/accolades/accoladeid_stw_horde_w14.uasset",
     "ImagePaths": {
@@ -1290,10 +1198,9 @@
   "Accolades:accoladeid_stw_horde_w15": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Horde_W15",
-    "DisplayName": "Survive the Horde: Victory!",
+    "ItemName": "Survive the Horde: Victory!",
     "AccoladeXP": 144800,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/stw/stw_horde/content/items/stwaccolades/accolades/accoladeid_stw_horde_w15.uasset",
     "ImagePaths": {
@@ -1304,10 +1211,9 @@
   "Accolades:accoladeid_stw_mission_bonus_speedrun2": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_Bonus_SpeedRun2",
-    "DisplayName": "Speed Run",
+    "ItemName": "Speed Run",
     "AccoladeXP": 3200,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_bonus_speedrun2.uasset",
     "ImagePaths": {
@@ -1318,10 +1224,9 @@
   "Accolades:accoladeid_stw_mission_bonus_speedrun3": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_Bonus_SpeedRun3",
-    "DisplayName": "Speed Run",
+    "ItemName": "Speed Run",
     "AccoladeXP": 3700,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_bonus_speedrun3.uasset",
     "ImagePaths": {
@@ -1332,10 +1237,9 @@
   "Accolades:accoladeid_stw_mission_bonus_speedrun4": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_Bonus_SpeedRun4",
-    "DisplayName": "Speed Run",
+    "ItemName": "Speed Run",
     "AccoladeXP": 4000,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_bonus_speedrun4.uasset",
     "ImagePaths": {
@@ -1346,10 +1250,9 @@
   "Accolades:accoladeid_stw_mission_brt_gold": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_BRT_Gold",
-    "DisplayName": "Build Radar Grid: Gold",
+    "ItemName": "Build Radar Grid: Gold",
     "AccoladeXP": 7400,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_brt_gold.uasset",
     "ImagePaths": {
@@ -1360,10 +1263,9 @@
   "Accolades:accoladeid_stw_mission_brt_participation": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_BRT_Participation",
-    "DisplayName": "Build Radar Grid: Participation",
+    "ItemName": "Build Radar Grid: Participation",
     "AccoladeXP": 14900,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_brt_participation.uasset",
     "ImagePaths": {
@@ -1374,10 +1276,9 @@
   "Accolades:accoladeid_stw_mission_brt_platinum": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_BRT_Platinum",
-    "DisplayName": "Build Radar Grid: Platinum",
+    "ItemName": "Build Radar Grid: Platinum",
     "AccoladeXP": 9200,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_brt_platinum.uasset",
     "ImagePaths": {
@@ -1388,10 +1289,9 @@
   "Accolades:accoladeid_stw_mission_brt_victory": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_BRT_Victory",
-    "DisplayName": "Build Radar Grid: Victory",
+    "ItemName": "Build Radar Grid: Victory",
     "AccoladeXP": 33900,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_brt_victory.uasset",
     "ImagePaths": {
@@ -1402,10 +1302,9 @@
   "Accolades:accoladeid_stw_mission_dtb_bonusfindobjective": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_DTB_BonusFindObjective",
-    "DisplayName": "Deliver The Bomb: Found Objective",
+    "ItemName": "Deliver The Bomb: Found Objective",
     "AccoladeXP": 2000,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_dtb_bonusfindobjective.uasset",
     "ImagePaths": {
@@ -1416,10 +1315,9 @@
   "Accolades:accoladeid_stw_mission_dtb_bonushalfhealth": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_DTB_BonusHalfHealth",
-    "DisplayName": "Deliver The Bomb: Half Health Left",
+    "ItemName": "Deliver The Bomb: Half Health Left",
     "AccoladeXP": 3100,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_dtb_bonushalfhealth.uasset",
     "ImagePaths": {
@@ -1430,10 +1328,9 @@
   "Accolades:accoladeid_stw_mission_dtb_failbomblost": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_DTB_FailBombLost",
-    "DisplayName": "Deliver The Bomb: Bomb Lost",
+    "ItemName": "Deliver The Bomb: Bomb Lost",
     "AccoladeXP": 10200,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_dtb_failbomblost.uasset",
     "ImagePaths": {
@@ -1444,10 +1341,9 @@
   "Accolades:accoladeid_stw_mission_dtb_failfinaldefense": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_DTB_FailFinalDefense",
-    "DisplayName": "Deliver The Bomb: Participation",
+    "ItemName": "Deliver The Bomb: Participation",
     "AccoladeXP": 14300,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_dtb_failfinaldefense.uasset",
     "ImagePaths": {
@@ -1458,10 +1354,9 @@
   "Accolades:accoladeid_stw_mission_dtb_victory": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_DTB_Victory",
-    "DisplayName": "Deliver The Bomb: Victory",
+    "ItemName": "Deliver The Bomb: Victory",
     "AccoladeXP": 14300,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_dtb_victory.uasset",
     "ImagePaths": {
@@ -1472,10 +1367,9 @@
   "Accolades:accoladeid_stw_mission_dte_bronze": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_DTE_Bronze",
-    "DisplayName": "Destroy The Encampments: Camp Crasher",
+    "ItemName": "Destroy The Encampments: Camp Crasher",
     "AccoladeXP": 5700,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_dte_bronze.uasset",
     "ImagePaths": {
@@ -1486,10 +1380,9 @@
   "Accolades:accoladeid_stw_mission_dte_gold": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_DTE_Gold",
-    "DisplayName": "Destroy The Encampments: Encampment Executioner",
+    "ItemName": "Destroy The Encampments: Encampment Executioner",
     "AccoladeXP": 6900,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_dte_gold.uasset",
     "ImagePaths": {
@@ -1500,10 +1393,9 @@
   "Accolades:accoladeid_stw_mission_dte_participation": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_DTE_Participation",
-    "DisplayName": "Destroy The Encampments: Participation",
+    "ItemName": "Destroy The Encampments: Participation",
     "AccoladeXP": 13800,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_dte_participation.uasset",
     "ImagePaths": {
@@ -1514,10 +1406,9 @@
   "Accolades:accoladeid_stw_mission_dte_platinum": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_DTE_Platinum",
-    "DisplayName": "Destroy The Encampments: Annihilator",
+    "ItemName": "Destroy The Encampments: Annihilator",
     "AccoladeXP": 7100,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_dte_platinum.uasset",
     "ImagePaths": {
@@ -1528,10 +1419,9 @@
   "Accolades:accoladeid_stw_mission_dte_silver": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_DTE_Silver",
-    "DisplayName": "Destroy The Encampments: Husk Shucker",
+    "ItemName": "Destroy The Encampments: Husk Shucker",
     "AccoladeXP": 6200,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_dte_silver.uasset",
     "ImagePaths": {
@@ -1542,10 +1432,9 @@
   "Accolades:accoladeid_stw_mission_dte_victory": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_DTE_Victory",
-    "DisplayName": "Destroy The Encampments: Victory",
+    "ItemName": "Destroy The Encampments: Victory",
     "AccoladeXP": 19300,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_dte_victory.uasset",
     "ImagePaths": {
@@ -1556,10 +1445,9 @@
   "Accolades:accoladeid_stw_mission_elimandcollect_bonus1": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_ElimandCollect_Bonus1",
-    "DisplayName": "Eliminate And Collect: Bonus Objective",
+    "ItemName": "Eliminate And Collect: Bonus Objective",
     "AccoladeXP": 1100,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_elimandcollect_bonus1.uasset",
     "ImagePaths": {
@@ -1570,10 +1458,9 @@
   "Accolades:accoladeid_stw_mission_elimandcollect_bronze": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_ElimandCollect_Bronze",
-    "DisplayName": "Eliminate And Collect: Bronze",
+    "ItemName": "Eliminate And Collect: Bronze",
     "AccoladeXP": 16700,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_elimandcollect_bronze.uasset",
     "ImagePaths": {
@@ -1584,10 +1471,9 @@
   "Accolades:accoladeid_stw_mission_elimandcollect_fail": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_ElimandCollect_Fail",
-    "DisplayName": "Eliminate And Collect: Participation",
+    "ItemName": "Eliminate And Collect: Participation",
     "AccoladeXP": 9200,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_elimandcollect_fail.uasset",
     "ImagePaths": {
@@ -1598,10 +1484,9 @@
   "Accolades:accoladeid_stw_mission_elimandcollect_gold": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_ElimandCollect_Gold",
-    "DisplayName": "Eliminate And Collect: Gold",
+    "ItemName": "Eliminate And Collect: Gold",
     "AccoladeXP": 17800,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_elimandcollect_gold.uasset",
     "ImagePaths": {
@@ -1612,10 +1497,9 @@
   "Accolades:accoladeid_stw_mission_elimandcollect_platinum": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_ElimandCollect_Platinum",
-    "DisplayName": "Eliminate And Collect: Platinum",
+    "ItemName": "Eliminate And Collect: Platinum",
     "AccoladeXP": 23000,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_elimandcollect_platinum.uasset",
     "ImagePaths": {
@@ -1626,10 +1510,9 @@
   "Accolades:accoladeid_stw_mission_elimandcollect_resupply_bonus2": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_ElimandCollect_Resupply_Bonus2",
-    "DisplayName": "Bonus Objective",
+    "ItemName": "Bonus Objective",
     "AccoladeXP": 1100,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_elimandcollect_resupply_bonus2.uasset",
     "ImagePaths": {
@@ -1640,10 +1523,9 @@
   "Accolades:accoladeid_stw_mission_elimandcollect_silver": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_ElimandCollect_Silver",
-    "DisplayName": "Eliminate And Collect: Silver",
+    "ItemName": "Eliminate And Collect: Silver",
     "AccoladeXP": 17200,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_elimandcollect_silver.uasset",
     "ImagePaths": {
@@ -1654,10 +1536,9 @@
   "Accolades:accoladeid_stw_mission_etshelter_bonushalfhealth": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_ETShelter_BonusHalfHealth",
-    "DisplayName": "Evacuate the Shelter: Half Health Left",
+    "ItemName": "Evacuate the Shelter: Half Health Left",
     "AccoladeXP": 2300,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_etshelter_bonushalfhealth.uasset",
     "ImagePaths": {
@@ -1668,10 +1549,9 @@
   "Accolades:accoladeid_stw_mission_etshelter_fail": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_ETShelter_Fail",
-    "DisplayName": "Evacuate the Shelter: Participation",
+    "ItemName": "Evacuate the Shelter: Participation",
     "AccoladeXP": 1600,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_etshelter_fail.uasset",
     "ImagePaths": {
@@ -1682,10 +1562,9 @@
   "Accolades:accoladeid_stw_mission_etshelter_victory": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_ETShelter_Victory",
-    "DisplayName": "Evacuate the Shelter: Victory",
+    "ItemName": "Evacuate the Shelter: Victory",
     "AccoladeXP": 33300,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_etshelter_victory.uasset",
     "ImagePaths": {
@@ -1696,10 +1575,9 @@
   "Accolades:accoladeid_stw_mission_fts_bonus": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_FTS_Bonus",
-    "DisplayName": "Bonus Objective",
+    "ItemName": "Bonus Objective",
     "AccoladeXP": 2800,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_fts_bonus.uasset",
     "ImagePaths": {
@@ -1710,10 +1588,9 @@
   "Accolades:accoladeid_stw_mission_fts_fail": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_FTS_Fail",
-    "DisplayName": "Fight the Storm: Participation",
+    "ItemName": "Fight the Storm: Participation",
     "AccoladeXP": 9800,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_fts_fail.uasset",
     "ImagePaths": {
@@ -1724,10 +1601,9 @@
   "Accolades:accoladeid_stw_mission_fts_victory1": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_FTS_Victory1",
-    "DisplayName": "Fight the Storm: Victory",
+    "ItemName": "Fight the Storm: Victory",
     "AccoladeXP": 19700,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_fts_victory1.uasset",
     "ImagePaths": {
@@ -1738,10 +1614,9 @@
   "Accolades:accoladeid_stw_mission_fts_victory2": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_FTS_Victory2",
-    "DisplayName": "Fight the Storm: Double Down",
+    "ItemName": "Fight the Storm: Double Down",
     "AccoladeXP": 33100,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_fts_victory2.uasset",
     "ImagePaths": {
@@ -1752,10 +1627,9 @@
   "Accolades:accoladeid_stw_mission_fts_victory3": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_FTS_Victory3",
-    "DisplayName": "Fight the Storm: Triple Tap",
+    "ItemName": "Fight the Storm: Triple Tap",
     "AccoladeXP": 37200,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_fts_victory3.uasset",
     "ImagePaths": {
@@ -1766,10 +1640,9 @@
   "Accolades:accoladeid_stw_mission_fts_victory4": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_FTS_Victory4",
-    "DisplayName": "Fight the Storm: Four Score",
+    "ItemName": "Fight the Storm: Four Score",
     "AccoladeXP": 37200,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_fts_victory4.uasset",
     "ImagePaths": {
@@ -1780,10 +1653,9 @@
   "Accolades:accoladeid_stw_mission_huntthemonster_fail": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_HuntTheMonster_Fail",
-    "DisplayName": "Hunt the Titan: Participation",
+    "ItemName": "Hunt the Titan: Participation",
     "AccoladeXP": 7500,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_huntthemonster_fail.uasset",
     "ImagePaths": {
@@ -1794,10 +1666,9 @@
   "Accolades:accoladeid_stw_mission_huntthemonster_victory": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_HuntTheMonster_Victory",
-    "DisplayName": "Hunt the Titan: Victory",
+    "ItemName": "Hunt the Titan: Victory",
     "AccoladeXP": 15000,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_huntthemonster_victory.uasset",
     "ImagePaths": {
@@ -1808,10 +1679,9 @@
   "Accolades:accoladeid_stw_mission_huskescape_bonus": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_HuskEscape_Bonus",
-    "DisplayName": "Defense Bonus",
+    "ItemName": "Defense Bonus",
     "AccoladeXP": 2300,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_huskescape_bonus.uasset",
     "ImagePaths": {
@@ -1822,10 +1692,9 @@
   "Accolades:accoladeid_stw_mission_huskescape_bronze": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_HuskEscape_Bronze",
-    "DisplayName": "Bronze Defense",
+    "ItemName": "Bronze Defense",
     "AccoladeXP": 18400,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_huskescape_bronze.uasset",
     "ImagePaths": {
@@ -1836,10 +1705,9 @@
   "Accolades:accoladeid_stw_mission_huskescape_gold": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_HuskEscape_Gold",
-    "DisplayName": "Gold Defense",
+    "ItemName": "Gold Defense",
     "AccoladeXP": 20700,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_huskescape_gold.uasset",
     "ImagePaths": {
@@ -1850,10 +1718,9 @@
   "Accolades:accoladeid_stw_mission_huskescape_participation": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_HuskEscape_Participation",
-    "DisplayName": "Defense Participation",
+    "ItemName": "Defense Participation",
     "AccoladeXP": 11500,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_huskescape_participation.uasset",
     "ImagePaths": {
@@ -1864,10 +1731,9 @@
   "Accolades:accoladeid_stw_mission_huskescape_platinum": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_HuskEscape_Platinum",
-    "DisplayName": "Platinum Defense",
+    "ItemName": "Platinum Defense",
     "AccoladeXP": 21800,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_huskescape_platinum.uasset",
     "ImagePaths": {
@@ -1878,10 +1744,9 @@
   "Accolades:accoladeid_stw_mission_huskescape_silver": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_HuskEscape_Silver",
-    "DisplayName": "Silver Defense",
+    "ItemName": "Silver Defense",
     "AccoladeXP": 19500,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_huskescape_silver.uasset",
     "ImagePaths": {
@@ -1892,10 +1757,9 @@
   "Accolades:accoladeid_stw_mission_lm_br_bonus": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_LM_BR_Bonus",
-    "DisplayName": "Built the Dino Quickly",
+    "ItemName": "Built the Dino Quickly",
     "AccoladeXP": 9000,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_br_bonus.uasset",
     "ImagePaths": {
@@ -1906,10 +1770,9 @@
   "Accolades:accoladeid_stw_mission_lm_br_fail": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_LM_BR_Fail",
-    "DisplayName": "Buildasaurus Rex: Participation",
+    "ItemName": "Buildasaurus Rex: Participation",
     "AccoladeXP": 4600,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_br_fail.uasset",
     "ImagePaths": {
@@ -1920,10 +1783,9 @@
   "Accolades:accoladeid_stw_mission_lm_br_victory": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_LM_BR_Victory",
-    "DisplayName": "Buildasaurus Rex: Victory",
+    "ItemName": "Buildasaurus Rex: Victory",
     "AccoladeXP": 16100,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_br_victory.uasset",
     "ImagePaths": {
@@ -1934,10 +1796,9 @@
   "Accolades:accoladeid_stw_mission_lm_btm_bonus": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_LM_BtM_Bonus",
-    "DisplayName": "Built the Memorial Quickly",
+    "ItemName": "Built the Memorial Quickly",
     "AccoladeXP": 2600,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_btm_bonus.uasset",
     "ImagePaths": {
@@ -1948,10 +1809,9 @@
   "Accolades:accoladeid_stw_mission_lm_btm_fail": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_LM_BtM_Fail",
-    "DisplayName": "Build the Memorial: Participation",
+    "ItemName": "Build the Memorial: Participation",
     "AccoladeXP": 4600,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_btm_fail.uasset",
     "ImagePaths": {
@@ -1962,10 +1822,9 @@
   "Accolades:accoladeid_stw_mission_lm_btm_victory": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_LM_BtM_Victory",
-    "DisplayName": "Build the Memorial: Victory",
+    "ItemName": "Build the Memorial: Victory",
     "AccoladeXP": 16100,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_btm_victory.uasset",
     "ImagePaths": {
@@ -1976,10 +1835,9 @@
   "Accolades:accoladeid_stw_mission_lm_dtm_bonus": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_LM_DtM_Bonus",
-    "DisplayName": "Destroy the Meteor: No Laser Lost",
+    "ItemName": "Destroy the Meteor: No Laser Lost",
     "AccoladeXP": 3200,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_dtm_bonus.uasset",
     "ImagePaths": {
@@ -1990,10 +1848,9 @@
   "Accolades:accoladeid_stw_mission_lm_dtm_fail": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_LM_DtM_Fail",
-    "DisplayName": "Destroy the Meteor: Participation",
+    "ItemName": "Destroy the Meteor: Participation",
     "AccoladeXP": 13200,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_dtm_fail.uasset",
     "ImagePaths": {
@@ -2004,10 +1861,9 @@
   "Accolades:accoladeid_stw_mission_lm_dtm_victory": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_LM_DtM_Victory",
-    "DisplayName": "Destroy the Meteor: Victory",
+    "ItemName": "Destroy the Meteor: Victory",
     "AccoladeXP": 26400,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_dtm_victory.uasset",
     "ImagePaths": {
@@ -2018,10 +1874,9 @@
   "Accolades:accoladeid_stw_mission_lm_dtp_fail": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_LM_DtP_Fail",
-    "DisplayName": "Deploy the Probe: Participation",
+    "ItemName": "Deploy the Probe: Participation",
     "AccoladeXP": 12600,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_dtp_fail.uasset",
     "ImagePaths": {
@@ -2032,10 +1887,9 @@
   "Accolades:accoladeid_stw_mission_lm_dtp_victory": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_LM_DtP_Victory",
-    "DisplayName": "Deploy the Probe: Victory",
+    "ItemName": "Deploy the Probe: Victory",
     "AccoladeXP": 32200,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_dtp_victory.uasset",
     "ImagePaths": {
@@ -2046,10 +1900,9 @@
   "Accolades:accoladeid_stw_mission_lm_ff_bonus": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_LM_FF_Bonus",
-    "DisplayName": "Box the Final Frontier: Built Quick",
+    "ItemName": "Box the Final Frontier: Built Quick",
     "AccoladeXP": 2300,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_ff_bonus.uasset",
     "ImagePaths": {
@@ -2060,10 +1913,9 @@
   "Accolades:accoladeid_stw_mission_lm_ff_fail": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_LM_FF_Fail",
-    "DisplayName": "Box the Final Frontier: Participation",
+    "ItemName": "Box the Final Frontier: Participation",
     "AccoladeXP": 10300,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_ff_fail.uasset",
     "ImagePaths": {
@@ -2074,10 +1926,9 @@
   "Accolades:accoladeid_stw_mission_lm_ff_victory": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_LM_FF_Victory",
-    "DisplayName": "Box the Final Frontier: Victory",
+    "ItemName": "Box the Final Frontier: Victory",
     "AccoladeXP": 24100,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_ff_victory.uasset",
     "ImagePaths": {
@@ -2088,10 +1939,9 @@
   "Accolades:accoladeid_stw_mission_lm_fr_bonus": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_LM_FR_Bonus",
-    "DisplayName": "Final Rehearsal: Perfect Rehearsal",
+    "ItemName": "Final Rehearsal: Perfect Rehearsal",
     "AccoladeXP": 4600,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_fr_bonus.uasset",
     "ImagePaths": {
@@ -2102,10 +1952,9 @@
   "Accolades:accoladeid_stw_mission_lm_fr_fail": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_LM_FR_Fail",
-    "DisplayName": "Final Rehearsal: Participation",
+    "ItemName": "Final Rehearsal: Participation",
     "AccoladeXP": 9200,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_fr_fail.uasset",
     "ImagePaths": {
@@ -2116,10 +1965,9 @@
   "Accolades:accoladeid_stw_mission_lm_fr_victory": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_LM_FR_Victory",
-    "DisplayName": "Final Rehearsal: Victory",
+    "ItemName": "Final Rehearsal: Victory",
     "AccoladeXP": 20700,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_fr_victory.uasset",
     "ImagePaths": {
@@ -2130,10 +1978,9 @@
   "Accolades:accoladeid_stw_mission_lm_ftg_fail": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_LM_FtG_Fail",
-    "DisplayName": "Fight the Gunslinger: Participation",
+    "ItemName": "Fight the Gunslinger: Participation",
     "AccoladeXP": 12600,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_ftg_fail.uasset",
     "ImagePaths": {
@@ -2144,10 +1991,9 @@
   "Accolades:accoladeid_stw_mission_lm_ftg_victory": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_LM_FtG_Victory",
-    "DisplayName": "Fight the Gunslinger: Victory",
+    "ItemName": "Fight the Gunslinger: Victory",
     "AccoladeXP": 6300,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_ftg_victory.uasset",
     "ImagePaths": {
@@ -2158,10 +2004,9 @@
   "Accolades:accoladeid_stw_mission_lm_hh1_fail": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_LM_HH1_Fail",
-    "DisplayName": "Haunted Hotel Night 1: Participation",
+    "ItemName": "Haunted Hotel Night 1: Participation",
     "AccoladeXP": 13800,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_hh1_fail.uasset",
     "ImagePaths": {
@@ -2172,10 +2017,9 @@
   "Accolades:accoladeid_stw_mission_lm_hh1_victory": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_LM_HH1_Victory",
-    "DisplayName": "Haunted Hotel Night 1: Victory",
+    "ItemName": "Haunted Hotel Night 1: Victory",
     "AccoladeXP": 34500,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_hh1_victory.uasset",
     "ImagePaths": {
@@ -2186,10 +2030,9 @@
   "Accolades:accoladeid_stw_mission_lm_hhf_bonus": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_LM_HHF_Bonus",
-    "DisplayName": "Haunted Hotel Final Night: Bonus Objective",
+    "ItemName": "Haunted Hotel Final Night: Bonus Objective",
     "AccoladeXP": 4600,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_hhf_bonus.uasset",
     "ImagePaths": {
@@ -2200,10 +2043,9 @@
   "Accolades:accoladeid_stw_mission_lm_hhf_fail": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_LM_HHF_Fail",
-    "DisplayName": "Haunted Hotel Final Night: Participation",
+    "ItemName": "Haunted Hotel Final Night: Participation",
     "AccoladeXP": 11300,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_hhf_fail.uasset",
     "ImagePaths": {
@@ -2214,10 +2056,9 @@
   "Accolades:accoladeid_stw_mission_lm_hhf_victory": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_LM_HHF_Victory",
-    "DisplayName": "Haunted Hotel Final Night: Victory",
+    "ItemName": "Haunted Hotel Final Night: Victory",
     "AccoladeXP": 20700,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_hhf_victory.uasset",
     "ImagePaths": {
@@ -2228,10 +2069,9 @@
   "Accolades:accoladeid_stw_mission_lm_htr_fail": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_LM_HtR_Fail",
-    "DisplayName": "Hit the Road: Participation",
+    "ItemName": "Hit the Road: Participation",
     "AccoladeXP": 10100,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_htr_fail.uasset",
     "ImagePaths": {
@@ -2242,10 +2082,9 @@
   "Accolades:accoladeid_stw_mission_lm_htr_victory": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_LM_HtR_Victory",
-    "DisplayName": "Hit the Road: Victory",
+    "ItemName": "Hit the Road: Victory",
     "AccoladeXP": 23000,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_htr_victory.uasset",
     "ImagePaths": {
@@ -2256,10 +2095,9 @@
   "Accolades:accoladeid_stw_mission_lm_invendingdoom_fail": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_LM_InvendingDoom_Fail",
-    "DisplayName": "In-Vending Doom: Participation",
+    "ItemName": "In-Vending Doom: Participation",
     "AccoladeXP": 2000,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_invendingdoom_fail.uasset",
     "ImagePaths": {
@@ -2270,10 +2108,9 @@
   "Accolades:accoladeid_stw_mission_lm_invendingdoom_victory": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_LM_InvendingDoom_Victory",
-    "DisplayName": "In-Vending Doom: Victory",
+    "ItemName": "In-Vending Doom: Victory",
     "AccoladeXP": 32200,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_invendingdoom_victory.uasset",
     "ImagePaths": {
@@ -2284,10 +2121,9 @@
   "Accolades:accoladeid_stw_mission_lm_kn_fail": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_LM_KN_Fail",
-    "DisplayName": "Holly Jolly Ransom: Participation",
+    "ItemName": "Holly Jolly Ransom: Participation",
     "AccoladeXP": 13800,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_kn_fail.uasset",
     "ImagePaths": {
@@ -2298,10 +2134,9 @@
   "Accolades:accoladeid_stw_mission_lm_kn_victory": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_LM_KN_Victory",
-    "DisplayName": "Holly Jolly Ransom: Victory",
+    "ItemName": "Holly Jolly Ransom: Victory",
     "AccoladeXP": 29900,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_kn_victory.uasset",
     "ImagePaths": {
@@ -2312,10 +2147,9 @@
   "Accolades:accoladeid_stw_mission_lm_mhm_bonus": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_LM_MHM_Bonus",
-    "DisplayName": "Fright Maze: Bonus",
+    "ItemName": "Fright Maze: Bonus",
     "AccoladeXP": 2300,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_mhm_bonus.uasset",
     "ImagePaths": {
@@ -2326,10 +2160,9 @@
   "Accolades:accoladeid_stw_mission_lm_mhm_fail": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_LM_MHM_Fail",
-    "DisplayName": "Fright Maze: Participation",
+    "ItemName": "Fright Maze: Participation",
     "AccoladeXP": 9200,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_mhm_fail.uasset",
     "ImagePaths": {
@@ -2340,10 +2173,9 @@
   "Accolades:accoladeid_stw_mission_lm_mhm_victory": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_LM_MHM_Victory",
-    "DisplayName": "Fright Maze: Victory",
+    "ItemName": "Fright Maze: Victory",
     "AccoladeXP": 16100,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_mhm_victory.uasset",
     "ImagePaths": {
@@ -2354,10 +2186,9 @@
   "Accolades:accoladeid_stw_mission_lm_pc_fail": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_LM_PC_Fail",
-    "DisplayName": "Pirate\u0027s Cove: Participation",
+    "ItemName": "Pirate\u0027s Cove: Participation",
     "AccoladeXP": 14900,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_pc_fail.uasset",
     "ImagePaths": {
@@ -2368,10 +2199,9 @@
   "Accolades:accoladeid_stw_mission_lm_pc_victory": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_LM_PC_Victory",
-    "DisplayName": "Pirate\u0027s Cove: Victory",
+    "ItemName": "Pirate\u0027s Cove: Victory",
     "AccoladeXP": 29900,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_pc_victory.uasset",
     "ImagePaths": {
@@ -2382,10 +2212,9 @@
   "Accolades:accoladeid_stw_mission_lm_stc_bonus": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_LM_StC_Bonus",
-    "DisplayName": "Scan the Comet: No Scanner Lost",
+    "ItemName": "Scan the Comet: No Scanner Lost",
     "AccoladeXP": 3500,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_stc_bonus.uasset",
     "ImagePaths": {
@@ -2396,10 +2225,9 @@
   "Accolades:accoladeid_stw_mission_lm_stc_fail": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_LM_StC_Fail",
-    "DisplayName": "Scan the Comet: Participation",
+    "ItemName": "Scan the Comet: Participation",
     "AccoladeXP": 11500,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_stc_fail.uasset",
     "ImagePaths": {
@@ -2410,10 +2238,9 @@
   "Accolades:accoladeid_stw_mission_lm_stc_victory": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_LM_StC_Victory",
-    "DisplayName": "Scan the Comet: Victory",
+    "ItemName": "Scan the Comet: Victory",
     "AccoladeXP": 27600,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_stc_victory.uasset",
     "ImagePaths": {
@@ -2424,10 +2251,9 @@
   "Accolades:accoladeid_stw_mission_lm_str_bonus": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_LM_StR_Bonus",
-    "DisplayName": "Stabilize the Rift: No Laser Lost",
+    "ItemName": "Stabilize the Rift: No Laser Lost",
     "AccoladeXP": 2300,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_str_bonus.uasset",
     "ImagePaths": {
@@ -2438,10 +2264,9 @@
   "Accolades:accoladeid_stw_mission_lm_str_fail": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_LM_StR_Fail",
-    "DisplayName": "Stabilize the Rift: Participation",
+    "ItemName": "Stabilize the Rift: Participation",
     "AccoladeXP": 9200,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_str_fail.uasset",
     "ImagePaths": {
@@ -2452,10 +2277,9 @@
   "Accolades:accoladeid_stw_mission_lm_str_victory": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_LM_StR_Victory",
-    "DisplayName": "Stabilize the Rift: Victory",
+    "ItemName": "Stabilize the Rift: Victory",
     "AccoladeXP": 12000,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_str_victory.uasset",
     "ImagePaths": {
@@ -2466,10 +2290,9 @@
   "Accolades:accoladeid_stw_mission_lm_trv_bonus": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_LM_TRV_Bonus",
-    "DisplayName": "Explore the Mist: Perfect Data",
+    "ItemName": "Explore the Mist: Perfect Data",
     "AccoladeXP": 4600,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_trv_bonus.uasset",
     "ImagePaths": {
@@ -2480,10 +2303,9 @@
   "Accolades:accoladeid_stw_mission_lm_trv_fail": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_LM_TRV_Fail",
-    "DisplayName": "Explore the Mist: Participation",
+    "ItemName": "Explore the Mist: Participation",
     "AccoladeXP": 20700,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_trv_fail.uasset",
     "ImagePaths": {
@@ -2494,10 +2316,9 @@
   "Accolades:accoladeid_stw_mission_lm_trv_victory": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_LM_TRV_Victory",
-    "DisplayName": "Explore the Mist: Victory",
+    "ItemName": "Explore the Mist: Victory",
     "AccoladeXP": 43700,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_trv_victory.uasset",
     "ImagePaths": {
@@ -2508,10 +2329,9 @@
   "Accolades:accoladeid_stw_mission_lm_tts_fail": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_LM_TtS_Fail",
-    "DisplayName": "Test the Suit: Suit Destroyed",
+    "ItemName": "Test the Suit: Suit Destroyed",
     "AccoladeXP": 9000,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_tts_fail.uasset",
     "ImagePaths": {
@@ -2522,10 +2342,9 @@
   "Accolades:accoladeid_stw_mission_lm_tts_victory": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_LM_TtS_Victory",
-    "DisplayName": "Test the Suit: Successful Test",
+    "ItemName": "Test the Suit: Successful Test",
     "AccoladeXP": 20700,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_tts_victory.uasset",
     "ImagePaths": {
@@ -2536,10 +2355,9 @@
   "Accolades:accoladeid_stw_mission_lm_vl_bonus": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_LM_VL_Bonus",
-    "DisplayName": "Bonus Objective",
+    "ItemName": "Bonus Objective",
     "AccoladeXP": 4600,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_vl_bonus.uasset",
     "ImagePaths": {
@@ -2550,10 +2368,9 @@
   "Accolades:accoladeid_stw_mission_lm_vl_fail": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_LM_VL_Fail",
-    "DisplayName": "Research Lab: Participation",
+    "ItemName": "Research Lab: Participation",
     "AccoladeXP": 10300,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_vl_fail.uasset",
     "ImagePaths": {
@@ -2564,10 +2381,9 @@
   "Accolades:accoladeid_stw_mission_lm_vl_victory": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_LM_VL_Victory",
-    "DisplayName": "Research Lab: Victory",
+    "ItemName": "Research Lab: Victory",
     "AccoladeXP": 27600,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_vl_victory.uasset",
     "ImagePaths": {
@@ -2578,10 +2394,9 @@
   "Accolades:accoladeid_stw_mission_lm_vm_bonus": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_LM_VM_Bonus",
-    "DisplayName": "Vinderman Mansion: Bonus",
+    "ItemName": "Vinderman Mansion: Bonus",
     "AccoladeXP": 5700,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_vm_bonus.uasset",
     "ImagePaths": {
@@ -2592,10 +2407,9 @@
   "Accolades:accoladeid_stw_mission_lm_vm_fail": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_LM_VM_Fail",
-    "DisplayName": "Vinderman Mansion: Participation",
+    "ItemName": "Vinderman Mansion: Participation",
     "AccoladeXP": 8600,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_vm_fail.uasset",
     "ImagePaths": {
@@ -2606,10 +2420,9 @@
   "Accolades:accoladeid_stw_mission_lm_vm_victory": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_LM_VM_Victory",
-    "DisplayName": "Vinderman Mansion: Victory",
+    "ItemName": "Vinderman Mansion: Victory",
     "AccoladeXP": 32200,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_vm_victory.uasset",
     "ImagePaths": {
@@ -2620,10 +2433,9 @@
   "Accolades:accoladeid_stw_mission_lm_wtp_bonus": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_LM_WtP_Bonus",
-    "DisplayName": "Walk The Plank: Bonus",
+    "ItemName": "Walk The Plank: Bonus",
     "AccoladeXP": 1100,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_wtp_bonus.uasset",
     "ImagePaths": {
@@ -2634,10 +2446,9 @@
   "Accolades:accoladeid_stw_mission_lm_wtp_fail": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_LM_WtP_Fail",
-    "DisplayName": "Walk The Plank: Participation",
+    "ItemName": "Walk The Plank: Participation",
     "AccoladeXP": 11500,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_wtp_fail.uasset",
     "ImagePaths": {
@@ -2648,10 +2459,9 @@
   "Accolades:accoladeid_stw_mission_lm_wtp_victory": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_LM_WtP_Victory",
-    "DisplayName": "Walk The Plank: Victory",
+    "ItemName": "Walk The Plank: Victory",
     "AccoladeXP": 19500,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_wtp_victory.uasset",
     "ImagePaths": {
@@ -2662,10 +2472,9 @@
   "Accolades:accoladeid_stw_mission_lm_yr_fail": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_LM_YR_Fail",
-    "DisplayName": "Yarrr\u0027s Return: Participation",
+    "ItemName": "Yarrr\u0027s Return: Participation",
     "AccoladeXP": 13800,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_yr_fail.uasset",
     "ImagePaths": {
@@ -2676,10 +2485,9 @@
   "Accolades:accoladeid_stw_mission_lm_yr_victory": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_LM_YR_Victory",
-    "DisplayName": "Yarrr\u0027s Return: Victory",
+    "ItemName": "Yarrr\u0027s Return: Victory",
     "AccoladeXP": 27600,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_lm_yr_victory.uasset",
     "ImagePaths": {
@@ -2690,10 +2498,9 @@
   "Accolades:accoladeid_stw_mission_ltr_fail": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_LTR_Fail",
-    "DisplayName": "Launch The Rocket: Participation",
+    "ItemName": "Launch The Rocket: Participation",
     "AccoladeXP": 14900,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_ltr_fail.uasset",
     "ImagePaths": {
@@ -2704,10 +2511,9 @@
   "Accolades:accoladeid_stw_mission_ltr_stage1": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_LTR_Stage1",
-    "DisplayName": "Launch The Rocket: Stage 1",
+    "ItemName": "Launch The Rocket: Stage 1",
     "AccoladeXP": 3400,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_ltr_stage1.uasset",
     "ImagePaths": {
@@ -2718,10 +2524,9 @@
   "Accolades:accoladeid_stw_mission_ltr_stage2": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_LTR_Stage2",
-    "DisplayName": "Launch The Rocket: Stage 2",
+    "ItemName": "Launch The Rocket: Stage 2",
     "AccoladeXP": 4100,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_ltr_stage2.uasset",
     "ImagePaths": {
@@ -2732,10 +2537,9 @@
   "Accolades:accoladeid_stw_mission_ltr_stage3": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_LTR_Stage3",
-    "DisplayName": "Launch The Rocket: Stage 3",
+    "ItemName": "Launch The Rocket: Stage 3",
     "AccoladeXP": 4500,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_ltr_stage3.uasset",
     "ImagePaths": {
@@ -2746,10 +2550,9 @@
   "Accolades:accoladeid_stw_mission_ltr_success": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_LTR_Success",
-    "DisplayName": "Launch The Rocket: Victory",
+    "ItemName": "Launch The Rocket: Victory",
     "AccoladeXP": 24400,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_ltr_success.uasset",
     "ImagePaths": {
@@ -2760,10 +2563,9 @@
   "Accolades:accoladeid_stw_mission_ptp_bronze": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_PTP_Bronze",
-    "DisplayName": "Protect the Presents: Bronze",
+    "ItemName": "Protect the Presents: Bronze",
     "AccoladeXP": 26400,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_ptp_bronze.uasset",
     "ImagePaths": {
@@ -2774,10 +2576,9 @@
   "Accolades:accoladeid_stw_mission_ptp_fail": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_PTP_Fail",
-    "DisplayName": "Protect the Presents: Participation",
+    "ItemName": "Protect the Presents: Participation",
     "AccoladeXP": 11500,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_ptp_fail.uasset",
     "ImagePaths": {
@@ -2788,10 +2589,9 @@
   "Accolades:accoladeid_stw_mission_ptp_gold": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_PTP_Gold",
-    "DisplayName": "Protect the Presents: Gold",
+    "ItemName": "Protect the Presents: Gold",
     "AccoladeXP": 28700,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_ptp_gold.uasset",
     "ImagePaths": {
@@ -2802,10 +2602,9 @@
   "Accolades:accoladeid_stw_mission_ptp_platinum": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_PTP_Platinum",
-    "DisplayName": "Protect the Presents: Platinum",
+    "ItemName": "Protect the Presents: Platinum",
     "AccoladeXP": 29200,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_ptp_platinum.uasset",
     "ImagePaths": {
@@ -2816,10 +2615,9 @@
   "Accolades:accoladeid_stw_mission_ptp_silver": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_PTP_Silver",
-    "DisplayName": "Protect the Presents: Silver",
+    "ItemName": "Protect the Presents: Silver",
     "AccoladeXP": 27600,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_ptp_silver.uasset",
     "ImagePaths": {
@@ -2830,10 +2628,9 @@
   "Accolades:accoladeid_stw_mission_ptr_fail": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_PTR_Fail",
-    "DisplayName": "Repair The Shelter: Participation",
+    "ItemName": "Repair The Shelter: Participation",
     "AccoladeXP": 14700,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_ptr_fail.uasset",
     "ImagePaths": {
@@ -2844,10 +2641,9 @@
   "Accolades:accoladeid_stw_mission_ptr_victory": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_PTR_Victory",
-    "DisplayName": "Repair The Shelter: Victory",
+    "ItemName": "Repair The Shelter: Victory",
     "AccoladeXP": 42600,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_ptr_victory.uasset",
     "ImagePaths": {
@@ -2858,10 +2654,9 @@
   "Accolades:accoladeid_stw_mission_resupply_bonus1": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_Resupply_Bonus1",
-    "DisplayName": "Resupply: Map Type Bonus Objective",
+    "ItemName": "Resupply: Map Type Bonus Objective",
     "AccoladeXP": 1100,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_resupply_bonus1.uasset",
     "ImagePaths": {
@@ -2872,10 +2667,9 @@
   "Accolades:accoladeid_stw_mission_resupply_bronze": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_Resupply_Bronze",
-    "DisplayName": "Resupply: Bronze",
+    "ItemName": "Resupply: Bronze",
     "AccoladeXP": 14200,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_resupply_bronze.uasset",
     "ImagePaths": {
@@ -2886,10 +2680,9 @@
   "Accolades:accoladeid_stw_mission_resupply_fail": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_Resupply_Fail",
-    "DisplayName": "Resupply: Participation",
+    "ItemName": "Resupply: Participation",
     "AccoladeXP": 9000,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_resupply_fail.uasset",
     "ImagePaths": {
@@ -2900,10 +2693,9 @@
   "Accolades:accoladeid_stw_mission_resupply_gold": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_Resupply_Gold",
-    "DisplayName": "Resupply: Gold",
+    "ItemName": "Resupply: Gold",
     "AccoladeXP": 19000,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_resupply_gold.uasset",
     "ImagePaths": {
@@ -2914,10 +2706,9 @@
   "Accolades:accoladeid_stw_mission_resupply_platinum": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_Resupply_Platinum",
-    "DisplayName": "Resupply: Platinum",
+    "ItemName": "Resupply: Platinum",
     "AccoladeXP": 21300,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_resupply_platinum.uasset",
     "ImagePaths": {
@@ -2928,10 +2719,9 @@
   "Accolades:accoladeid_stw_mission_resupply_silver": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_Resupply_Silver",
-    "DisplayName": "Resupply: Silver",
+    "ItemName": "Resupply: Silver",
     "AccoladeXP": 16600,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_resupply_silver.uasset",
     "ImagePaths": {
@@ -2942,10 +2732,9 @@
   "Accolades:accoladeid_stw_mission_resupply_victory": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_Resupply_Victory",
-    "DisplayName": "Resupply: Victory",
+    "ItemName": "Resupply: Victory",
     "AccoladeXP": 23000,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_resupply_victory.uasset",
     "ImagePaths": {
@@ -2956,10 +2745,9 @@
   "Accolades:accoladeid_stw_mission_rftb_bonus": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_RFTB_Bonus",
-    "DisplayName": "Refuel The Homebase: Bonus Objective",
+    "ItemName": "Refuel The Homebase: Bonus Objective",
     "AccoladeXP": 2300,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_rftb_bonus.uasset",
     "ImagePaths": {
@@ -2970,10 +2758,9 @@
   "Accolades:accoladeid_stw_mission_rftb_bronze": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_RFTB_Bronze",
-    "DisplayName": "Refuel The Homebase: Bronze",
+    "ItemName": "Refuel The Homebase: Bronze",
     "AccoladeXP": 23000,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_rftb_bronze.uasset",
     "ImagePaths": {
@@ -2984,10 +2771,9 @@
   "Accolades:accoladeid_stw_mission_rftb_fail": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_RFTB_Fail",
-    "DisplayName": "Refuel The Homebase: Participation",
+    "ItemName": "Refuel The Homebase: Participation",
     "AccoladeXP": 5700,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_rftb_fail.uasset",
     "ImagePaths": {
@@ -2998,10 +2784,9 @@
   "Accolades:accoladeid_stw_mission_rftb_gold": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_RFTB_Gold",
-    "DisplayName": "Refuel The Homebase: Gold",
+    "ItemName": "Refuel The Homebase: Gold",
     "AccoladeXP": 27600,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_rftb_gold.uasset",
     "ImagePaths": {
@@ -3012,10 +2797,9 @@
   "Accolades:accoladeid_stw_mission_rftb_platinum": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_RFTB_Platinum",
-    "DisplayName": "Refuel The Homebase: Platinum",
+    "ItemName": "Refuel The Homebase: Platinum",
     "AccoladeXP": 29900,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_rftb_platinum.uasset",
     "ImagePaths": {
@@ -3026,10 +2810,9 @@
   "Accolades:accoladeid_stw_mission_rftb_silver": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_RFTB_Silver",
-    "DisplayName": "Refuel The Homebase: Silver",
+    "ItemName": "Refuel The Homebase: Silver",
     "AccoladeXP": 25300,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_rftb_silver.uasset",
     "ImagePaths": {
@@ -3040,10 +2823,9 @@
   "Accolades:accoladeid_stw_mission_rtd_bonus": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_RTD_Bonus",
-    "DisplayName": "Found the Landing Zone",
+    "ItemName": "Found the Landing Zone",
     "AccoladeXP": 3600,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_rtd_bonus.uasset",
     "ImagePaths": {
@@ -3054,10 +2836,9 @@
   "Accolades:accoladeid_stw_mission_rtd_fail": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_RTD_Fail",
-    "DisplayName": "Retrieve the Data: Participation",
+    "ItemName": "Retrieve the Data: Participation",
     "AccoladeXP": 7000,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_rtd_fail.uasset",
     "ImagePaths": {
@@ -3068,10 +2849,9 @@
   "Accolades:accoladeid_stw_mission_rtd_victory1": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_RTD_Victory1",
-    "DisplayName": "Retrieve the Data: 25% Files Recovered",
+    "ItemName": "Retrieve the Data: 25% Files Recovered",
     "AccoladeXP": 16100,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_rtd_victory1.uasset",
     "ImagePaths": {
@@ -3082,10 +2862,9 @@
   "Accolades:accoladeid_stw_mission_rtd_victory2": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_RTD_Victory2",
-    "DisplayName": "Retrieve the Data: 50% Files Recovered",
+    "ItemName": "Retrieve the Data: 50% Files Recovered",
     "AccoladeXP": 18400,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_rtd_victory2.uasset",
     "ImagePaths": {
@@ -3096,10 +2875,9 @@
   "Accolades:accoladeid_stw_mission_rtd_victory3": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_RTD_Victory3",
-    "DisplayName": "Retrieve the Data: 75% Files Recovered",
+    "ItemName": "Retrieve the Data: 75% Files Recovered",
     "AccoladeXP": 21800,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_rtd_victory3.uasset",
     "ImagePaths": {
@@ -3110,10 +2888,9 @@
   "Accolades:accoladeid_stw_mission_rtd_victory4": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_RTD_Victory4",
-    "DisplayName": "Retrieve the Data: All Files Recovered",
+    "ItemName": "Retrieve the Data: All Files Recovered",
     "AccoladeXP": 24100,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_rtd_victory4.uasset",
     "ImagePaths": {
@@ -3124,10 +2901,9 @@
   "Accolades:accoladeid_stw_mission_rtl_fail": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_RTL_Fail",
-    "DisplayName": "Ride The Lightning: We Lost the Van!",
+    "ItemName": "Ride The Lightning: We Lost the Van!",
     "AccoladeXP": 9800,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_rtl_fail.uasset",
     "ImagePaths": {
@@ -3138,10 +2914,9 @@
   "Accolades:accoladeid_stw_mission_rtl_stage1": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_RTL_Stage1",
-    "DisplayName": "Ride The Lightning: Van Stage 1",
+    "ItemName": "Ride The Lightning: Van Stage 1",
     "AccoladeXP": 3200,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_rtl_stage1.uasset",
     "ImagePaths": {
@@ -3152,10 +2927,9 @@
   "Accolades:accoladeid_stw_mission_rtl_stage2": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_RTL_Stage2",
-    "DisplayName": "Ride The Lightning: Van Stage 2",
+    "ItemName": "Ride The Lightning: Van Stage 2",
     "AccoladeXP": 4800,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_rtl_stage2.uasset",
     "ImagePaths": {
@@ -3166,10 +2940,9 @@
   "Accolades:accoladeid_stw_mission_rtl_success": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_RTL_Success",
-    "DisplayName": "Ride The Lightning: Van Launched!",
+    "ItemName": "Ride The Lightning: Van Launched!",
     "AccoladeXP": 18400,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_rtl_success.uasset",
     "ImagePaths": {
@@ -3180,10 +2953,9 @@
   "Accolades:accoladeid_stw_mission_rts_bronze": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_RTS_Bronze",
-    "DisplayName": "Rescue the Survivors: Rescue Rookie",
+    "ItemName": "Rescue the Survivors: Rescue Rookie",
     "AccoladeXP": 5900,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_rts_bronze.uasset",
     "ImagePaths": {
@@ -3194,10 +2966,9 @@
   "Accolades:accoladeid_stw_mission_rts_fail": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_RTS_Fail",
-    "DisplayName": "Rescue the Survivors: Participation",
+    "ItemName": "Rescue the Survivors: Participation",
     "AccoladeXP": 9000,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_rts_fail.uasset",
     "ImagePaths": {
@@ -3208,10 +2979,9 @@
   "Accolades:accoladeid_stw_mission_rts_gold": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_RTS_Gold",
-    "DisplayName": "Rescue the Survivors: Humanitarian",
+    "ItemName": "Rescue the Survivors: Humanitarian",
     "AccoladeXP": 6000,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_rts_gold.uasset",
     "ImagePaths": {
@@ -3222,10 +2992,9 @@
   "Accolades:accoladeid_stw_mission_rts_platinum": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_RTS_Platinum",
-    "DisplayName": "Rescue the Survivors: Evacuation Expert",
+    "ItemName": "Rescue the Survivors: Evacuation Expert",
     "AccoladeXP": 6000,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_rts_platinum.uasset",
     "ImagePaths": {
@@ -3236,10 +3005,9 @@
   "Accolades:accoladeid_stw_mission_rts_silver": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_RTS_Silver",
-    "DisplayName": "Rescue the Survivors: Life Preserver",
+    "ItemName": "Rescue the Survivors: Life Preserver",
     "AccoladeXP": 5900,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_rts_silver.uasset",
     "ImagePaths": {
@@ -3250,10 +3018,9 @@
   "Accolades:accoladeid_stw_mission_rts_victory": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_RTS_Victory",
-    "DisplayName": "Rescue the Survivors: Victory",
+    "ItemName": "Rescue the Survivors: Victory",
     "AccoladeXP": 9100,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_rts_victory.uasset",
     "ImagePaths": {
@@ -3264,10 +3031,9 @@
   "Accolades:accoladeid_stw_mission_sk_fail": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_SK_Fail",
-    "DisplayName": "Storm King: Participation",
+    "ItemName": "Storm King: Participation",
     "AccoladeXP": 300,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_sk_fail.uasset",
     "ImagePaths": {
@@ -3278,10 +3044,9 @@
   "Accolades:accoladeid_stw_mission_sk_victory": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_SK_Victory",
-    "DisplayName": "Storm King: Victory",
+    "ItemName": "Storm King: Victory",
     "AccoladeXP": 11200,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_sk_victory.uasset",
     "ImagePaths": {
@@ -3292,10 +3057,9 @@
   "Accolades:accoladeid_stw_mission_stn_eliminatet1": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_STN_EliminateT1",
-    "DisplayName": "Survive the Night: 200 Husks Eliminated!",
+    "ItemName": "Survive the Night: 200 Husks Eliminated!",
     "AccoladeXP": 900,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_stn_eliminatet1.uasset",
     "ImagePaths": {
@@ -3306,10 +3070,9 @@
   "Accolades:accoladeid_stw_mission_stn_eliminatet2": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_STN_EliminateT2",
-    "DisplayName": "Survive the Night: 350 Husks Eliminated!",
+    "ItemName": "Survive the Night: 350 Husks Eliminated!",
     "AccoladeXP": 1100,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_stn_eliminatet2.uasset",
     "ImagePaths": {
@@ -3320,10 +3083,9 @@
   "Accolades:accoladeid_stw_mission_stn_fail": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_STN_Fail",
-    "DisplayName": "Survive the Night: Participation",
+    "ItemName": "Survive the Night: Participation",
     "AccoladeXP": 11500,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_stn_fail.uasset",
     "ImagePaths": {
@@ -3334,10 +3096,9 @@
   "Accolades:accoladeid_stw_mission_stn_hunttakers": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_STN_HuntTakers",
-    "DisplayName": "Survive the Night: Takers Hunted!",
+    "ItemName": "Survive the Night: Takers Hunted!",
     "AccoladeXP": 1100,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_stn_hunttakers.uasset",
     "ImagePaths": {
@@ -3348,10 +3109,9 @@
   "Accolades:accoladeid_stw_mission_stn_nodowns": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_STN_NoDowns",
-    "DisplayName": "Survive the Night: No Downs!",
+    "ItemName": "Survive the Night: No Downs!",
     "AccoladeXP": 900,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_stn_nodowns.uasset",
     "ImagePaths": {
@@ -3362,10 +3122,9 @@
   "Accolades:accoladeid_stw_mission_stn_victory": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_STN_Victory",
-    "DisplayName": "Survive the Night: Night Survived!",
+    "ItemName": "Survive the Night: Night Survived!",
     "AccoladeXP": 15600,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_stn_victory.uasset",
     "ImagePaths": {
@@ -3376,10 +3135,9 @@
   "Accolades:accoladeid_stw_mission_tts_fail": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_TTS_Fail",
-    "DisplayName": "Trap The Storm: Participation",
+    "ItemName": "Trap The Storm: Participation",
     "AccoladeXP": 9500,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_tts_fail.uasset",
     "ImagePaths": {
@@ -3390,10 +3148,9 @@
   "Accolades:accoladeid_stw_mission_tts_victory": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_TTS_Victory",
-    "DisplayName": "Trap The Storm: Storm Successfully Trapped!",
+    "ItemName": "Trap The Storm: Storm Successfully Trapped!",
     "AccoladeXP": 41200,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_tts_victory.uasset",
     "ImagePaths": {
@@ -3404,10 +3161,9 @@
   "Accolades:accoladeid_stw_mission_tutorial_victory": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Mission_Tutorial_Victory",
-    "DisplayName": "Tutorial: Victory",
+    "ItemName": "Tutorial: Victory",
     "AccoladeXP": 28700,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_mission_tutorial_victory.uasset",
     "ImagePaths": {
@@ -3418,10 +3174,9 @@
   "Accolades:accoladeid_stw_quest_dungeon_daily": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Quest_Dungeon_Daily",
-    "DisplayName": "Battle Pass XP",
+    "ItemName": "Battle Pass XP",
     "AccoladeXP": 51000,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_quest_dungeon_daily.uasset",
     "ImagePaths": {
@@ -3432,10 +3187,9 @@
   "Accolades:accoladeid_stw_quest_endurance_daily_w05": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Quest_Endurance_Daily_W05",
-    "DisplayName": "Battle Pass XP",
+    "ItemName": "Battle Pass XP",
     "AccoladeXP": 7000,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_quest_endurance_daily_w05.uasset",
     "ImagePaths": {
@@ -3446,10 +3200,9 @@
   "Accolades:accoladeid_stw_quest_endurance_daily_w10": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Quest_Endurance_Daily_W10",
-    "DisplayName": "Battle Pass XP",
+    "ItemName": "Battle Pass XP",
     "AccoladeXP": 10000,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_quest_endurance_daily_w10.uasset",
     "ImagePaths": {
@@ -3460,10 +3213,9 @@
   "Accolades:accoladeid_stw_quest_endurance_daily_w15": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Quest_Endurance_Daily_W15",
-    "DisplayName": "Battle Pass XP",
+    "ItemName": "Battle Pass XP",
     "AccoladeXP": 10000,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_quest_endurance_daily_w15.uasset",
     "ImagePaths": {
@@ -3474,10 +3226,9 @@
   "Accolades:accoladeid_stw_quest_endurance_daily_w20": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Quest_Endurance_Daily_W20",
-    "DisplayName": "Battle Pass XP",
+    "ItemName": "Battle Pass XP",
     "AccoladeXP": 9000,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_quest_endurance_daily_w20.uasset",
     "ImagePaths": {
@@ -3488,10 +3239,9 @@
   "Accolades:accoladeid_stw_quest_endurance_daily_w25": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Quest_Endurance_Daily_W25",
-    "DisplayName": "Battle Pass XP",
+    "ItemName": "Battle Pass XP",
     "AccoladeXP": 8000,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_quest_endurance_daily_w25.uasset",
     "ImagePaths": {
@@ -3502,10 +3252,9 @@
   "Accolades:accoladeid_stw_quest_endurance_daily_w30": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Quest_Endurance_Daily_W30",
-    "DisplayName": "Battle Pass XP",
+    "ItemName": "Battle Pass XP",
     "AccoladeXP": 7000,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_quest_endurance_daily_w30.uasset",
     "ImagePaths": {
@@ -3516,10 +3265,9 @@
   "Accolades:accoladeid_stw_quest_frostnite_daily": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Quest_Frostnite_Daily",
-    "DisplayName": "Battle Pass XP",
+    "ItemName": "Battle Pass XP",
     "AccoladeXP": 17000,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_quest_frostnite_daily.uasset",
     "ImagePaths": {
@@ -3530,10 +3278,9 @@
   "Accolades:accoladeid_stw_quest_frostnite_weekly": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Quest_Frostnite_Weekly",
-    "DisplayName": "Battle Pass XP",
+    "ItemName": "Battle Pass XP",
     "AccoladeXP": 68000,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_quest_frostnite_weekly.uasset",
     "ImagePaths": {
@@ -3544,10 +3291,9 @@
   "Accolades:accoladeid_stw_quest_general_daily": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Quest_General_Daily",
-    "DisplayName": "Battle Pass XP",
+    "ItemName": "Battle Pass XP",
     "AccoladeXP": 21000,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_quest_general_daily.uasset",
     "ImagePaths": {
@@ -3558,10 +3304,9 @@
   "Accolades:accoladeid_stw_quest_general_weekly": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Quest_General_Weekly",
-    "DisplayName": "Battle Pass XP",
+    "ItemName": "Battle Pass XP",
     "AccoladeXP": 136000,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_quest_general_weekly.uasset",
     "ImagePaths": {
@@ -3572,10 +3317,9 @@
   "Accolades:accoladeid_stw_quest_hittheroad_daily": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Quest_HitTheRoad_Daily",
-    "DisplayName": "Battle Pass XP",
+    "ItemName": "Battle Pass XP",
     "AccoladeXP": 30000,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_quest_hittheroad_daily.uasset",
     "ImagePaths": {
@@ -3586,10 +3330,9 @@
   "Accolades:accoladeid_stw_quest_hittheroad_weekly": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Quest_HitTheRoad_Weekly",
-    "DisplayName": "Battle Pass XP",
+    "ItemName": "Battle Pass XP",
     "AccoladeXP": 49000,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_quest_hittheroad_weekly.uasset",
     "ImagePaths": {
@@ -3600,10 +3343,9 @@
   "Accolades:accoladeid_stw_quest_hordev3_daily_w05": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Quest_HordeV3_Daily_W05",
-    "DisplayName": "Battle Pass XP",
+    "ItemName": "Battle Pass XP",
     "AccoladeXP": 7000,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/stw/stw_horde/content/items/stwaccolades/accolades/accoladeid_stw_quest_hordev3_daily_w05.uasset",
     "ImagePaths": {
@@ -3614,10 +3356,9 @@
   "Accolades:accoladeid_stw_quest_hordev3_daily_w10": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Quest_HordeV3_Daily_W10",
-    "DisplayName": "Battle Pass XP",
+    "ItemName": "Battle Pass XP",
     "AccoladeXP": 9000,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/stw/stw_horde/content/items/stwaccolades/accolades/accoladeid_stw_quest_hordev3_daily_w10.uasset",
     "ImagePaths": {
@@ -3628,10 +3369,9 @@
   "Accolades:accoladeid_stw_quest_hordev3_daily_w15": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Quest_HordeV3_Daily_W15",
-    "DisplayName": "Battle Pass XP",
+    "ItemName": "Battle Pass XP",
     "AccoladeXP": 13000,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/stw/stw_horde/content/items/stwaccolades/accolades/accoladeid_stw_quest_hordev3_daily_w15.uasset",
     "ImagePaths": {
@@ -3642,10 +3382,9 @@
   "Accolades:accoladeid_stw_quest_hordev3_weekly": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Quest_HordeV3_Weekly",
-    "DisplayName": "Battle Pass XP",
+    "ItemName": "Battle Pass XP",
     "AccoladeXP": 51000,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/stw/stw_horde/content/items/stwaccolades/accolades/accoladeid_stw_quest_hordev3_weekly.uasset",
     "ImagePaths": {
@@ -3656,10 +3395,9 @@
   "Accolades:accoladeid_stw_quest_wargames_daily": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Quest_Wargames_Daily",
-    "DisplayName": "Battle Pass XP",
+    "ItemName": "Battle Pass XP",
     "AccoladeXP": 11000,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_quest_wargames_daily.uasset",
     "ImagePaths": {
@@ -3670,10 +3408,9 @@
   "Accolades:accoladeid_stw_quest_wargames_weekly": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Quest_Wargames_Weekly",
-    "DisplayName": "Battle Pass XP",
+    "ItemName": "Battle Pass XP",
     "AccoladeXP": 20000,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_quest_wargames_weekly.uasset",
     "ImagePaths": {
@@ -3684,10 +3421,9 @@
   "Accolades:accoladeid_stw_ssd_t01_bonus": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_SSD_T01_Bonus",
-    "DisplayName": "Storm Shield: Building Health Over 80%",
+    "ItemName": "Storm Shield: Building Health Over 80%",
     "AccoladeXP": 4600,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_ssd_t01_bonus.uasset",
     "ImagePaths": {
@@ -3698,10 +3434,9 @@
   "Accolades:accoladeid_stw_ssd_t01_l01": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_SSD_T01_L01",
-    "DisplayName": "Storm Shield: Defense 1",
+    "ItemName": "Storm Shield: Defense 1",
     "AccoladeXP": 9200,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_ssd_t01_l01.uasset",
     "ImagePaths": {
@@ -3712,10 +3447,9 @@
   "Accolades:accoladeid_stw_ssd_t01_l02": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_SSD_T01_L02",
-    "DisplayName": "Storm Shield: Defense 2",
+    "ItemName": "Storm Shield: Defense 2",
     "AccoladeXP": 18400,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_ssd_t01_l02.uasset",
     "ImagePaths": {
@@ -3726,10 +3460,9 @@
   "Accolades:accoladeid_stw_ssd_t01_l03": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_SSD_T01_L03",
-    "DisplayName": "Storm Shield: Defense 3",
+    "ItemName": "Storm Shield: Defense 3",
     "AccoladeXP": 23000,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_ssd_t01_l03.uasset",
     "ImagePaths": {
@@ -3740,10 +3473,9 @@
   "Accolades:accoladeid_stw_ssd_t01_l04": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_SSD_T01_L04",
-    "DisplayName": "Storm Shield: Defense 4",
+    "ItemName": "Storm Shield: Defense 4",
     "AccoladeXP": 27600,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_ssd_t01_l04.uasset",
     "ImagePaths": {
@@ -3754,10 +3486,9 @@
   "Accolades:accoladeid_stw_ssd_t01_l05": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_SSD_T01_L05",
-    "DisplayName": "Storm Shield: Defense 5",
+    "ItemName": "Storm Shield: Defense 5",
     "AccoladeXP": 32200,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_ssd_t01_l05.uasset",
     "ImagePaths": {
@@ -3768,10 +3499,9 @@
   "Accolades:accoladeid_stw_ssd_t01_l06": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_SSD_T01_L06",
-    "DisplayName": "Storm Shield: Defense 6",
+    "ItemName": "Storm Shield: Defense 6",
     "AccoladeXP": 36800,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_ssd_t01_l06.uasset",
     "ImagePaths": {
@@ -3782,10 +3512,9 @@
   "Accolades:accoladeid_stw_ssd_t01_l07": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_SSD_T01_L07",
-    "DisplayName": "Storm Shield: Defense 7",
+    "ItemName": "Storm Shield: Defense 7",
     "AccoladeXP": 39100,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_ssd_t01_l07.uasset",
     "ImagePaths": {
@@ -3796,10 +3525,9 @@
   "Accolades:accoladeid_stw_ssd_t01_l08": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_SSD_T01_L08",
-    "DisplayName": "Storm Shield: Defense 8",
+    "ItemName": "Storm Shield: Defense 8",
     "AccoladeXP": 41400,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_ssd_t01_l08.uasset",
     "ImagePaths": {
@@ -3810,10 +3538,9 @@
   "Accolades:accoladeid_stw_ssd_t01_l09": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_SSD_T01_L09",
-    "DisplayName": "Storm Shield: Defense 9",
+    "ItemName": "Storm Shield: Defense 9",
     "AccoladeXP": 43700,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_ssd_t01_l09.uasset",
     "ImagePaths": {
@@ -3824,10 +3551,9 @@
   "Accolades:accoladeid_stw_ssd_t01_l10": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_SSD_T01_L10",
-    "DisplayName": "Storm Shield: Defense 10",
+    "ItemName": "Storm Shield: Defense 10",
     "AccoladeXP": 46000,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_ssd_t01_l10.uasset",
     "ImagePaths": {
@@ -3838,10 +3564,9 @@
   "Accolades:accoladeid_stw_ssd_t02_bonus": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_SSD_T02_Bonus",
-    "DisplayName": "Storm Shield: Building Health Over 80%",
+    "ItemName": "Storm Shield: Building Health Over 80%",
     "AccoladeXP": 6400,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_ssd_t02_bonus.uasset",
     "ImagePaths": {
@@ -3852,10 +3577,9 @@
   "Accolades:accoladeid_stw_ssd_t02_l01": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_SSD_T02_L01",
-    "DisplayName": "Storm Shield: Defense 1",
+    "ItemName": "Storm Shield: Defense 1",
     "AccoladeXP": 9200,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_ssd_t02_l01.uasset",
     "ImagePaths": {
@@ -3866,10 +3590,9 @@
   "Accolades:accoladeid_stw_ssd_t02_l02": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_SSD_T02_L02",
-    "DisplayName": "Storm Shield: Defense 2",
+    "ItemName": "Storm Shield: Defense 2",
     "AccoladeXP": 18400,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_ssd_t02_l02.uasset",
     "ImagePaths": {
@@ -3880,10 +3603,9 @@
   "Accolades:accoladeid_stw_ssd_t02_l03": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_SSD_T02_L03",
-    "DisplayName": "Storm Shield: Defense 3",
+    "ItemName": "Storm Shield: Defense 3",
     "AccoladeXP": 23000,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_ssd_t02_l03.uasset",
     "ImagePaths": {
@@ -3894,10 +3616,9 @@
   "Accolades:accoladeid_stw_ssd_t02_l04": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_SSD_T02_L04",
-    "DisplayName": "Storm Shield: Defense 4",
+    "ItemName": "Storm Shield: Defense 4",
     "AccoladeXP": 27600,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_ssd_t02_l04.uasset",
     "ImagePaths": {
@@ -3908,10 +3629,9 @@
   "Accolades:accoladeid_stw_ssd_t02_l05": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_SSD_T02_L05",
-    "DisplayName": "Storm Shield: Defense 5",
+    "ItemName": "Storm Shield: Defense 5",
     "AccoladeXP": 32200,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_ssd_t02_l05.uasset",
     "ImagePaths": {
@@ -3922,10 +3642,9 @@
   "Accolades:accoladeid_stw_ssd_t02_l06": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_SSD_T02_L06",
-    "DisplayName": "Storm Shield: Defense 6",
+    "ItemName": "Storm Shield: Defense 6",
     "AccoladeXP": 36800,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_ssd_t02_l06.uasset",
     "ImagePaths": {
@@ -3936,10 +3655,9 @@
   "Accolades:accoladeid_stw_ssd_t02_l07": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_SSD_T02_L07",
-    "DisplayName": "Storm Shield: Defense 7",
+    "ItemName": "Storm Shield: Defense 7",
     "AccoladeXP": 39100,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_ssd_t02_l07.uasset",
     "ImagePaths": {
@@ -3950,10 +3668,9 @@
   "Accolades:accoladeid_stw_ssd_t02_l08": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_SSD_T02_L08",
-    "DisplayName": "Storm Shield: Defense 8",
+    "ItemName": "Storm Shield: Defense 8",
     "AccoladeXP": 41400,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_ssd_t02_l08.uasset",
     "ImagePaths": {
@@ -3964,10 +3681,9 @@
   "Accolades:accoladeid_stw_ssd_t02_l09": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_SSD_T02_L09",
-    "DisplayName": "Storm Shield: Defense 9",
+    "ItemName": "Storm Shield: Defense 9",
     "AccoladeXP": 43700,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_ssd_t02_l09.uasset",
     "ImagePaths": {
@@ -3978,10 +3694,9 @@
   "Accolades:accoladeid_stw_ssd_t02_l10": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_SSD_T02_L10",
-    "DisplayName": "Storm Shield: Defense 10",
+    "ItemName": "Storm Shield: Defense 10",
     "AccoladeXP": 46000,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_ssd_t02_l10.uasset",
     "ImagePaths": {
@@ -3992,10 +3707,9 @@
   "Accolades:accoladeid_stw_ssd_t03_bonus": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_SSD_T03_Bonus",
-    "DisplayName": "Storm Shield: Building Health Over 80%",
+    "ItemName": "Storm Shield: Building Health Over 80%",
     "AccoladeXP": 6900,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_ssd_t03_bonus.uasset",
     "ImagePaths": {
@@ -4006,10 +3720,9 @@
   "Accolades:accoladeid_stw_ssd_t03_l01": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_SSD_T03_L01",
-    "DisplayName": "Storm Shield: Defense 1",
+    "ItemName": "Storm Shield: Defense 1",
     "AccoladeXP": 9200,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_ssd_t03_l01.uasset",
     "ImagePaths": {
@@ -4020,10 +3733,9 @@
   "Accolades:accoladeid_stw_ssd_t03_l02": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_SSD_T03_L02",
-    "DisplayName": "Storm Shield: Defense 2",
+    "ItemName": "Storm Shield: Defense 2",
     "AccoladeXP": 18400,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_ssd_t03_l02.uasset",
     "ImagePaths": {
@@ -4034,10 +3746,9 @@
   "Accolades:accoladeid_stw_ssd_t03_l03": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_SSD_T03_L03",
-    "DisplayName": "Storm Shield: Defense 3",
+    "ItemName": "Storm Shield: Defense 3",
     "AccoladeXP": 23000,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_ssd_t03_l03.uasset",
     "ImagePaths": {
@@ -4048,10 +3759,9 @@
   "Accolades:accoladeid_stw_ssd_t03_l04": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_SSD_T03_L04",
-    "DisplayName": "Storm Shield: Defense 4",
+    "ItemName": "Storm Shield: Defense 4",
     "AccoladeXP": 27600,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_ssd_t03_l04.uasset",
     "ImagePaths": {
@@ -4062,10 +3772,9 @@
   "Accolades:accoladeid_stw_ssd_t03_l05": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_SSD_T03_L05",
-    "DisplayName": "Storm Shield: Defense 5",
+    "ItemName": "Storm Shield: Defense 5",
     "AccoladeXP": 32200,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_ssd_t03_l05.uasset",
     "ImagePaths": {
@@ -4076,10 +3785,9 @@
   "Accolades:accoladeid_stw_ssd_t03_l06": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_SSD_T03_L06",
-    "DisplayName": "Storm Shield: Defense 6",
+    "ItemName": "Storm Shield: Defense 6",
     "AccoladeXP": 36800,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_ssd_t03_l06.uasset",
     "ImagePaths": {
@@ -4090,10 +3798,9 @@
   "Accolades:accoladeid_stw_ssd_t03_l07": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_SSD_T03_L07",
-    "DisplayName": "Storm Shield: Defense 7",
+    "ItemName": "Storm Shield: Defense 7",
     "AccoladeXP": 39100,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_ssd_t03_l07.uasset",
     "ImagePaths": {
@@ -4104,10 +3811,9 @@
   "Accolades:accoladeid_stw_ssd_t03_l08": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_SSD_T03_L08",
-    "DisplayName": "Storm Shield: Defense 8",
+    "ItemName": "Storm Shield: Defense 8",
     "AccoladeXP": 41400,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_ssd_t03_l08.uasset",
     "ImagePaths": {
@@ -4118,10 +3824,9 @@
   "Accolades:accoladeid_stw_ssd_t03_l09": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_SSD_T03_L09",
-    "DisplayName": "Storm Shield: Defense 9",
+    "ItemName": "Storm Shield: Defense 9",
     "AccoladeXP": 43700,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_ssd_t03_l09.uasset",
     "ImagePaths": {
@@ -4132,10 +3837,9 @@
   "Accolades:accoladeid_stw_ssd_t03_l10": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_SSD_T03_L10",
-    "DisplayName": "Storm Shield: Defense 10",
+    "ItemName": "Storm Shield: Defense 10",
     "AccoladeXP": 46000,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_ssd_t03_l10.uasset",
     "ImagePaths": {
@@ -4146,10 +3850,9 @@
   "Accolades:accoladeid_stw_ssd_t04_bonus": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_SSD_T04_Bonus",
-    "DisplayName": "Storm Shield: Building Health Over 80%",
+    "ItemName": "Storm Shield: Building Health Over 80%",
     "AccoladeXP": 6100,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_ssd_t04_bonus.uasset",
     "ImagePaths": {
@@ -4160,10 +3863,9 @@
   "Accolades:accoladeid_stw_ssd_t04_l01": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_SSD_T04_L01",
-    "DisplayName": "Storm Shield: Defense 1",
+    "ItemName": "Storm Shield: Defense 1",
     "AccoladeXP": 34300,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_ssd_t04_l01.uasset",
     "ImagePaths": {
@@ -4174,10 +3876,9 @@
   "Accolades:accoladeid_stw_ssd_t04_l02": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_SSD_T04_L02",
-    "DisplayName": "Storm Shield: Defense 2",
+    "ItemName": "Storm Shield: Defense 2",
     "AccoladeXP": 36200,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_ssd_t04_l02.uasset",
     "ImagePaths": {
@@ -4188,10 +3889,9 @@
   "Accolades:accoladeid_stw_ssd_t04_l03": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_SSD_T04_L03",
-    "DisplayName": "Storm Shield: Defense 3",
+    "ItemName": "Storm Shield: Defense 3",
     "AccoladeXP": 38100,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_ssd_t04_l03.uasset",
     "ImagePaths": {
@@ -4202,10 +3902,9 @@
   "Accolades:accoladeid_stw_ssd_t04_l04": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_SSD_T04_L04",
-    "DisplayName": "Storm Shield: Defense 4",
+    "ItemName": "Storm Shield: Defense 4",
     "AccoladeXP": 40000,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_ssd_t04_l04.uasset",
     "ImagePaths": {
@@ -4216,10 +3915,9 @@
   "Accolades:accoladeid_stw_ssd_t04_l05": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_SSD_T04_L05",
-    "DisplayName": "Storm Shield: Defense 5",
+    "ItemName": "Storm Shield: Defense 5",
     "AccoladeXP": 43800,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_ssd_t04_l05.uasset",
     "ImagePaths": {
@@ -4230,10 +3928,9 @@
   "Accolades:accoladeid_stw_ssd_t04_l06": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_SSD_T04_L06",
-    "DisplayName": "Storm Shield: Defense 6",
+    "ItemName": "Storm Shield: Defense 6",
     "AccoladeXP": 44700,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_ssd_t04_l06.uasset",
     "ImagePaths": {
@@ -4244,10 +3941,9 @@
   "Accolades:accoladeid_stw_ssd_t04_l07": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_SSD_T04_L07",
-    "DisplayName": "Storm Shield: Defense 7",
+    "ItemName": "Storm Shield: Defense 7",
     "AccoladeXP": 47600,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_ssd_t04_l07.uasset",
     "ImagePaths": {
@@ -4258,10 +3954,9 @@
   "Accolades:accoladeid_stw_ssd_t04_l08": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_SSD_T04_L08",
-    "DisplayName": "Storm Shield: Defense 8",
+    "ItemName": "Storm Shield: Defense 8",
     "AccoladeXP": 53300,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_ssd_t04_l08.uasset",
     "ImagePaths": {
@@ -4272,10 +3967,9 @@
   "Accolades:accoladeid_stw_ssd_t04_l09": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_SSD_T04_L09",
-    "DisplayName": "Storm Shield: Defense 9",
+    "ItemName": "Storm Shield: Defense 9",
     "AccoladeXP": 54300,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_ssd_t04_l09.uasset",
     "ImagePaths": {
@@ -4286,10 +3980,9 @@
   "Accolades:accoladeid_stw_ssd_t04_l10": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_SSD_T04_L10",
-    "DisplayName": "Storm Shield: Defense 10",
+    "ItemName": "Storm Shield: Defense 10",
     "AccoladeXP": 55200,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_ssd_t04_l10.uasset",
     "ImagePaths": {
@@ -4300,10 +3993,9 @@
   "Accolades:accoladeid_stw_starlight_d01_keymaster": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Starlight_D01_Keymaster",
-    "DisplayName": "The Crypts: All Keys Collected",
+    "ItemName": "The Crypts: All Keys Collected",
     "AccoladeXP": 1000,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_starlight_d01_keymaster.uasset",
     "ImagePaths": {
@@ -4314,10 +4006,9 @@
   "Accolades:accoladeid_stw_starlight_d01_progress1": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Starlight_D01_Progress1",
-    "DisplayName": "The Crypts: Upper Floors Completed",
+    "ItemName": "The Crypts: Upper Floors Completed",
     "AccoladeXP": 2400,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_starlight_d01_progress1.uasset",
     "ImagePaths": {
@@ -4328,10 +4019,9 @@
   "Accolades:accoladeid_stw_starlight_d01_progress2": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Starlight_D01_Progress2",
-    "DisplayName": "The Crypts: Middle Floors Completed",
+    "ItemName": "The Crypts: Middle Floors Completed",
     "AccoladeXP": 2600,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_starlight_d01_progress2.uasset",
     "ImagePaths": {
@@ -4342,10 +4032,9 @@
   "Accolades:accoladeid_stw_starlight_d01_progress3": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Starlight_D01_Progress3",
-    "DisplayName": "The Crypts: Lower Floors Completed",
+    "ItemName": "The Crypts: Lower Floors Completed",
     "AccoladeXP": 2800,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_starlight_d01_progress3.uasset",
     "ImagePaths": {
@@ -4356,10 +4045,9 @@
   "Accolades:accoladeid_stw_starlight_d01_victory": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Starlight_D01_Victory",
-    "DisplayName": "The Crypts: Boss Defeated",
+    "ItemName": "The Crypts: Boss Defeated",
     "AccoladeXP": 5500,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_starlight_d01_victory.uasset",
     "ImagePaths": {
@@ -4370,10 +4058,9 @@
   "Accolades:accoladeid_stw_starlight_d02_keymaster": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Starlight_D02_Keymaster",
-    "DisplayName": "Inferno: All Keys Collected",
+    "ItemName": "Inferno: All Keys Collected",
     "AccoladeXP": 1100,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_starlight_d02_keymaster.uasset",
     "ImagePaths": {
@@ -4384,10 +4071,9 @@
   "Accolades:accoladeid_stw_starlight_d02_progress1": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Starlight_D02_Progress1",
-    "DisplayName": "Inferno: Upper Floors Completed",
+    "ItemName": "Inferno: Upper Floors Completed",
     "AccoladeXP": 2700,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_starlight_d02_progress1.uasset",
     "ImagePaths": {
@@ -4398,10 +4084,9 @@
   "Accolades:accoladeid_stw_starlight_d02_progress2": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Starlight_D02_Progress2",
-    "DisplayName": "Inferno: Middle Floors Completed",
+    "ItemName": "Inferno: Middle Floors Completed",
     "AccoladeXP": 3000,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_starlight_d02_progress2.uasset",
     "ImagePaths": {
@@ -4412,10 +4097,9 @@
   "Accolades:accoladeid_stw_starlight_d02_progress3": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Starlight_D02_Progress3",
-    "DisplayName": "Inferno: Lower Floors Completed",
+    "ItemName": "Inferno: Lower Floors Completed",
     "AccoladeXP": 3200,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_starlight_d02_progress3.uasset",
     "ImagePaths": {
@@ -4426,10 +4110,9 @@
   "Accolades:accoladeid_stw_starlight_d02_victory": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Starlight_D02_Victory",
-    "DisplayName": "Inferno: Boss Defeated",
+    "ItemName": "Inferno: Boss Defeated",
     "AccoladeXP": 5000,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_starlight_d02_victory.uasset",
     "ImagePaths": {
@@ -4440,10 +4123,9 @@
   "Accolades:accoladeid_stw_starlight_d03_keymaster": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Starlight_D03_Keymaster",
-    "DisplayName": "The Grotto: All Keys Collected",
+    "ItemName": "The Grotto: All Keys Collected",
     "AccoladeXP": 650,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_starlight_d03_keymaster.uasset",
     "ImagePaths": {
@@ -4454,10 +4136,9 @@
   "Accolades:accoladeid_stw_starlight_d03_progress1": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Starlight_D03_Progress1",
-    "DisplayName": "The Grotto: Upper Floors Completed",
+    "ItemName": "The Grotto: Upper Floors Completed",
     "AccoladeXP": 2400,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_starlight_d03_progress1.uasset",
     "ImagePaths": {
@@ -4468,10 +4149,9 @@
   "Accolades:accoladeid_stw_starlight_d03_progress2": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Starlight_D03_Progress2",
-    "DisplayName": "The Grotto: Middle Floors Completed",
+    "ItemName": "The Grotto: Middle Floors Completed",
     "AccoladeXP": 2400,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_starlight_d03_progress2.uasset",
     "ImagePaths": {
@@ -4482,10 +4162,9 @@
   "Accolades:accoladeid_stw_starlight_d03_progress3": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Starlight_D03_Progress3",
-    "DisplayName": "The Grotto: Lower Floors Completed",
+    "ItemName": "The Grotto: Lower Floors Completed",
     "AccoladeXP": 2500,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_starlight_d03_progress3.uasset",
     "ImagePaths": {
@@ -4496,10 +4175,9 @@
   "Accolades:accoladeid_stw_starlight_d03_victory": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Starlight_D03_Victory",
-    "DisplayName": "The Grotto: Boss Defeated",
+    "ItemName": "The Grotto: Boss Defeated",
     "AccoladeXP": 8600,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_starlight_d03_victory.uasset",
     "ImagePaths": {
@@ -4510,10 +4188,9 @@
   "Accolades:accoladeid_stw_starlight_d04_keymaster": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Starlight_D04_Keymaster",
-    "DisplayName": "Labyrinth: All Keys Collected",
+    "ItemName": "Labyrinth: All Keys Collected",
     "AccoladeXP": 1200,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_starlight_d04_keymaster.uasset",
     "ImagePaths": {
@@ -4524,10 +4201,9 @@
   "Accolades:accoladeid_stw_starlight_d04_progress1": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Starlight_D04_Progress1",
-    "DisplayName": "Labyrinth: Upper Floors Completed",
+    "ItemName": "Labyrinth: Upper Floors Completed",
     "AccoladeXP": 2300,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_starlight_d04_progress1.uasset",
     "ImagePaths": {
@@ -4538,10 +4214,9 @@
   "Accolades:accoladeid_stw_starlight_d04_progress2": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Starlight_D04_Progress2",
-    "DisplayName": "Labyrinth: Middle Floors Completed",
+    "ItemName": "Labyrinth: Middle Floors Completed",
     "AccoladeXP": 2400,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_starlight_d04_progress2.uasset",
     "ImagePaths": {
@@ -4552,10 +4227,9 @@
   "Accolades:accoladeid_stw_starlight_d04_progress3": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Starlight_D04_Progress3",
-    "DisplayName": "Labyrinth: Lower Floors Completed",
+    "ItemName": "Labyrinth: Lower Floors Completed",
     "AccoladeXP": 2600,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_starlight_d04_progress3.uasset",
     "ImagePaths": {
@@ -4566,10 +4240,9 @@
   "Accolades:accoladeid_stw_starlight_d04_victory": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Starlight_D04_Victory",
-    "DisplayName": "Labyrinth: Boss Defeated",
+    "ItemName": "Labyrinth: Boss Defeated",
     "AccoladeXP": 3800,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_starlight_d04_victory.uasset",
     "ImagePaths": {
@@ -4580,10 +4253,9 @@
   "Accolades:accoladeid_stw_starlight_d05_keymaster": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Starlight_D05_Keymaster",
-    "DisplayName": "The Lab: All Keys Collected",
+    "ItemName": "The Lab: All Keys Collected",
     "AccoladeXP": 2500,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_starlight_d05_keymaster.uasset",
     "ImagePaths": {
@@ -4594,10 +4266,9 @@
   "Accolades:accoladeid_stw_starlight_d05_progress1": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Starlight_D05_Progress1",
-    "DisplayName": "The Lab: Upper Floors Completed",
+    "ItemName": "The Lab: Upper Floors Completed",
     "AccoladeXP": 4200,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_starlight_d05_progress1.uasset",
     "ImagePaths": {
@@ -4608,10 +4279,9 @@
   "Accolades:accoladeid_stw_starlight_d05_progress2": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Starlight_D05_Progress2",
-    "DisplayName": "The Lab: Middle Floors Completed",
+    "ItemName": "The Lab: Middle Floors Completed",
     "AccoladeXP": 5000,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_starlight_d05_progress2.uasset",
     "ImagePaths": {
@@ -4622,10 +4292,9 @@
   "Accolades:accoladeid_stw_starlight_d05_progress3": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Starlight_D05_Progress3",
-    "DisplayName": "The Lab: Lower Floors Completed",
+    "ItemName": "The Lab: Lower Floors Completed",
     "AccoladeXP": 5900,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_starlight_d05_progress3.uasset",
     "ImagePaths": {
@@ -4636,10 +4305,9 @@
   "Accolades:accoladeid_stw_starlight_d05_victory": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Starlight_D05_Victory",
-    "DisplayName": "The Lab: Boss Defeated",
+    "ItemName": "The Lab: Boss Defeated",
     "AccoladeXP": 9900,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_starlight_d05_victory.uasset",
     "ImagePaths": {
@@ -4650,10 +4318,9 @@
   "Accolades:accoladeid_stw_wargames_bonus": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Wargames_Bonus",
-    "DisplayName": "Wargames: Challenge Complete",
+    "ItemName": "Wargames: Challenge Complete",
     "AccoladeXP": 3600,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_wargames_bonus.uasset",
     "ImagePaths": {
@@ -4664,10 +4331,9 @@
   "Accolades:accoladeid_stw_wargames_victory": {
     "Type": "Accolades",
     "Name": "Accoladeid_STW_Wargames_Victory",
-    "DisplayName": "Wargames: Victory",
+    "ItemName": "Wargames: Victory",
     "AccoladeXP": 26900,
-    "Description": "Battle Pass XP Earned",
-    "IsPermanent": true,
+    "ItemDescription": "Battle Pass XP Earned",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/stwaccolades/accolades/accoladeid_stw_wargames_victory.uasset",
     "ImagePaths": {

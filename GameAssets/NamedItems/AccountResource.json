@@ -2,9 +2,8 @@
   "AccountResource:athenabattlepassxp": {
     "Type": "AccountResource",
     "Name": "AthenaBattlePassXP",
-    "DisplayName": "Battle Pass XP",
-    "Description": "Collecting Battle Pass XP will unlock higher Tiers in the Battle Pass.",
-    "IsPermanent": true,
+    "ItemName": "Battle Pass XP",
+    "ItemDescription": "Collecting Battle Pass XP will unlock higher Tiers in the Battle Pass.",
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/content/items/persistentresources/athenabattlepassxp.uasset",
     "ImagePaths": {
@@ -15,9 +14,8 @@
   "AccountResource:athenabattlestar": {
     "Type": "AccountResource",
     "Name": "AthenaBattleStar",
-    "DisplayName": "Battle Stars",
-    "Description": "Seasonal Resource used to claim Battle Pass rewards.",
-    "IsPermanent": true,
+    "ItemName": "Battle Stars",
+    "ItemDescription": "Seasonal Resource used to claim Battle Pass rewards.",
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/content/items/persistentresources/athenabattlestar.uasset",
     "ImagePaths": {
@@ -28,9 +26,8 @@
   "AccountResource:athenacategorystar": {
     "Type": "AccountResource",
     "Name": "AthenaCategoryStar",
-    "DisplayName": "Category Stars",
-    "Description": "Seasonal Resource used to unlock Battle Pass reward categories.",
-    "IsPermanent": true,
+    "ItemName": "Category Stars",
+    "ItemDescription": "Seasonal Resource used to unlock Battle Pass reward categories.",
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/content/items/persistentresources/athenacategorystar.uasset",
     "ImagePaths": {
@@ -41,9 +38,8 @@
   "AccountResource:athenalevelup": {
     "Type": "AccountResource",
     "Name": "AthenaLevelUp",
-    "DisplayName": "Level Up",
-    "Description": "Increases your Battle Royale Season Level.",
-    "IsPermanent": true,
+    "ItemName": "Level Up",
+    "ItemDescription": "Increases your Battle Royale Season Level.",
     "AssetPath": "fortnitegame/content/items/persistentresources/athenalevelup.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T_UI_UniversalXP_Icon_LevelUp_Standard_128.png",
@@ -53,9 +49,8 @@
   "AccountResource:athenaseasonalxp": {
     "Type": "AccountResource",
     "Name": "AthenaSeasonalXP",
-    "DisplayName": "Season XP",
-    "Description": "Used to increase the Fortnite Season Level.",
-    "IsPermanent": true,
+    "ItemName": "Season XP",
+    "ItemDescription": "Used to increase the Fortnite Season Level.",
     "AssetPath": "fortnitegame/content/items/persistentresources/athenaseasonalxp.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T_UI_UniversalXP_Icon_Standard_128.png",
@@ -65,9 +60,8 @@
   "AccountResource:athenaseasonalxp_large": {
     "Type": "AccountResource",
     "Name": "AthenaSeasonalXP_Large",
-    "DisplayName": "Season XP",
-    "Description": "Used to increase the Battle Royale Season Level.",
-    "IsPermanent": true,
+    "ItemName": "Season XP",
+    "ItemDescription": "Used to increase the Battle Royale Season Level.",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/content/items/persistentresources/athenaseasonalxp_large.uasset",
     "ImagePaths": {
@@ -78,9 +72,8 @@
   "AccountResource:athenaseasonalxp_med": {
     "Type": "AccountResource",
     "Name": "AthenaSeasonalXP_Med",
-    "DisplayName": "Season XP",
-    "Description": "Used to increase the Battle Royale Season Level.",
-    "IsPermanent": true,
+    "ItemName": "Season XP",
+    "ItemDescription": "Used to increase the Battle Royale Season Level.",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/content/items/persistentresources/athenaseasonalxp_med.uasset",
     "ImagePaths": {
@@ -91,9 +84,8 @@
   "AccountResource:athenasurvivorprestige": {
     "Type": "AccountResource",
     "Name": "AthenaSurvivorPrestige",
-    "DisplayName": "\u003CAthenaSurvivorPrestige\u003E",
-    "Description": "Increases the Battle Royale Survivor Prestige level",
-    "IsPermanent": true,
+    "ItemName": "\u003CAthenaSurvivorPrestige\u003E",
+    "ItemDescription": "Increases the Battle Royale Survivor Prestige level",
     "AssetPath": "fortnitegame/plugins/gamefeatures/battlepasspermanentquests/content/items/persistentresources/athenasurvivorprestige.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T_Items_Survivor_Tier_Arrow1.png",
@@ -103,9 +95,8 @@
   "AccountResource:athenasurvivortier": {
     "Type": "AccountResource",
     "Name": "AthenaSurvivorTier",
-    "DisplayName": "\u003CAthenaSurvivorTier\u003E",
-    "Description": "Increases the Battle Royale Survivor Tier level",
-    "IsPermanent": true,
+    "ItemName": "\u003CAthenaSurvivorTier\u003E",
+    "ItemDescription": "Increases the Battle Royale Survivor Tier level",
     "AssetPath": "fortnitegame/plugins/gamefeatures/battlepasspermanentquests/content/items/persistentresources/athenasurvivortier.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T_Items_Survivor_Tier_Arrow1.png",
@@ -115,9 +106,8 @@
   "AccountResource:athenawellrestedbooster": {
     "Type": "AccountResource",
     "Name": "AthenaWellRestedBooster",
-    "DisplayName": "Well Rested Booster",
-    "Description": "Used to increase the Well Rested amount.",
-    "IsPermanent": true,
+    "ItemName": "Well Rested Booster",
+    "ItemDescription": "Used to increase the Well Rested amount.",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/content/items/persistentresources/athenawellrestedbooster.uasset",
     "ImagePaths": {
@@ -128,9 +118,8 @@
   "AccountResource:campaign_event_currency": {
     "Type": "AccountResource",
     "Name": "Campaign_Event_Currency",
-    "DisplayName": "Campaign Event Currency",
-    "Description": "Given out as part of Save the World Events",
-    "IsPermanent": true,
+    "ItemName": "Campaign Event Currency",
+    "ItemDescription": "Given out as part of Save the World Events",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/campaign_event_currency.uasset",
     "ImagePaths": {
@@ -141,9 +130,8 @@
   "AccountResource:compendiumxp": {
     "Type": "AccountResource",
     "Name": "CompendiumXP",
-    "DisplayName": "Battle Royale Compendium XP",
-    "Description": "Used to rankup the Battle Royale Compendium.",
-    "IsPermanent": true,
+    "ItemName": "Battle Royale Compendium XP",
+    "ItemDescription": "Used to rankup the Battle Royale Compendium.",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/content/items/persistentresources/compendiumxp.uasset",
     "ImagePaths": {
@@ -154,8 +142,7 @@
   "AccountResource:currency_hybrid_mtx_xrayllama": {
     "Type": "AccountResource",
     "Name": "Currency_Hybrid_MTX_XRayLlama",
-    "DisplayName": "V-Bucks and X-Ray Tickets",
-    "IsPermanent": true,
+    "ItemName": "V-Bucks and X-Ray Tickets",
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/currency_hybrid_mtx_xrayllama.uasset",
     "ImagePaths": {
@@ -166,9 +153,8 @@
   "AccountResource:currency_mtxswap": {
     "Type": "AccountResource",
     "Name": "Currency_MtxSwap",
-    "DisplayName": "V-Bucks Voucher",
-    "Description": "Turns into X-Ray Tickets for everyone, and also V-Bucks if you have a Founders account.",
-    "IsPermanent": true,
+    "ItemName": "V-Bucks Voucher",
+    "ItemDescription": "Turns into X-Ray Tickets for everyone, and also V-Bucks if you have a Founders account.",
     "Rarity": "Epic",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/currency_mtxswap.uasset",
     "ImagePaths": {
@@ -179,9 +165,8 @@
   "AccountResource:currency_xrayllama": {
     "Type": "AccountResource",
     "Name": "Currency_XRayLlama",
-    "DisplayName": "X-Ray Tickets",
-    "Description": "Currency earned by completing Daily Quests, Storm Shield Defenses, and some Mission Alerts. Traded for X-Ray Llamas in the Llama Shop.",
-    "IsPermanent": true,
+    "ItemName": "X-Ray Tickets",
+    "ItemDescription": "Currency earned by completing Daily Quests, Storm Shield Defenses, and some Mission Alerts. Traded for X-Ray Llamas in the Llama Shop.",
     "Rarity": "Epic",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/currency_xrayllama.uasset",
     "ImagePaths": {
@@ -192,9 +177,8 @@
   "AccountResource:eventcurrency_adventure": {
     "Type": "AccountResource",
     "Name": "EventCurrency_Adventure",
-    "DisplayName": "Pirate Tickets",
-    "Description": "Currency earned by completing missions and quests during the Scurvy Shoals season. Traded for event Loot Llamas in the Llama Shop.",
-    "IsPermanent": true,
+    "ItemName": "Pirate Tickets",
+    "ItemDescription": "Currency earned by completing missions and quests during the Scurvy Shoals season. Traded for event Loot Llamas in the Llama Shop.",
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/eventcurrency_adventure.uasset",
     "ImagePaths": {
@@ -205,9 +189,8 @@
   "AccountResource:eventcurrency_blockbuster": {
     "Type": "AccountResource",
     "Name": "EventCurrency_Blockbuster",
-    "DisplayName": "Blockbuster Tickets",
-    "Description": "Can be traded for special llamas, only available during the Blockbuster Event!",
-    "IsPermanent": true,
+    "ItemName": "Blockbuster Tickets",
+    "ItemDescription": "Can be traded for special llamas, only available during the Blockbuster Event!",
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/eventcurrency_blockbuster.uasset",
     "ImagePaths": {
@@ -218,9 +201,8 @@
   "AccountResource:eventcurrency_candy": {
     "Type": "AccountResource",
     "Name": "EventCurrency_Candy",
-    "DisplayName": "Candy",
-    "Description": "Currency earned by completing missions, dungeons, and quests during the Fortnitemares season. Traded for event Loot Llamas in the Llama Shop.",
-    "IsPermanent": true,
+    "ItemName": "Candy",
+    "ItemDescription": "Currency earned by completing missions, dungeons, and quests during the Fortnitemares season. Traded for event Loot Llamas in the Llama Shop.",
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/eventcurrency_candy.uasset",
     "ImagePaths": {
@@ -231,9 +213,8 @@
   "AccountResource:eventcurrency_founders": {
     "Type": "AccountResource",
     "Name": "EventCurrency_Founders",
-    "DisplayName": "Founder\u0027s Coins",
-    "Description": "Can be traded for special llamas, only available during Founder\u0027s Month! Found by completing quests and in other llamas.",
-    "IsPermanent": true,
+    "ItemName": "Founder\u0027s Coins",
+    "ItemDescription": "Can be traded for special llamas, only available during Founder\u0027s Month! Found by completing quests and in other llamas.",
     "Rarity": "Epic",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/eventcurrency_founders.uasset",
     "ImagePaths": {
@@ -244,9 +225,8 @@
   "AccountResource:eventcurrency_lunar": {
     "Type": "AccountResource",
     "Name": "EventCurrency_Lunar",
-    "DisplayName": "Lunar Tickets",
-    "Description": "Currency earned by completing missions, dungeons, and quests during the Flannel Falls season. Traded for event Loot Llamas in the Llama Shop.",
-    "IsPermanent": true,
+    "ItemName": "Lunar Tickets",
+    "ItemDescription": "Currency earned by completing missions, dungeons, and quests during the Flannel Falls season. Traded for event Loot Llamas in the Llama Shop.",
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/eventcurrency_lunar.uasset",
     "ImagePaths": {
@@ -257,9 +237,8 @@
   "AccountResource:eventcurrency_pumpkinwarhead": {
     "Type": "AccountResource",
     "Name": "EventCurrency_PumpkinWarhead",
-    "DisplayName": "Material - Pumpkin Warhead",
-    "Description": "Pumpkin Warheads.  These Warheads are necessary to develop the Jack-O-Launcher!",
-    "IsPermanent": true,
+    "ItemName": "Material - Pumpkin Warhead",
+    "ItemDescription": "Pumpkin Warheads.  These Warheads are necessary to develop the Jack-O-Launcher!",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/eventcurrency_pumpkinwarhead.uasset",
     "ImagePaths": {
@@ -270,9 +249,8 @@
   "AccountResource:eventcurrency_roadtrip": {
     "Type": "AccountResource",
     "Name": "EventCurrency_RoadTrip",
-    "DisplayName": "Road Trip Tickets",
-    "Description": "Currency earned by completing missions and quests during the Blasted Badlands season. Traded for event Loot Llamas in the Llama Shop.",
-    "IsPermanent": true,
+    "ItemName": "Road Trip Tickets",
+    "ItemDescription": "Currency earned by completing missions and quests during the Blasted Badlands season. Traded for event Loot Llamas in the Llama Shop.",
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/eventcurrency_roadtrip.uasset",
     "ImagePaths": {
@@ -283,9 +261,8 @@
   "AccountResource:eventcurrency_scaling": {
     "Type": "AccountResource",
     "Name": "EventCurrency_Scaling",
-    "DisplayName": "Gold",
-    "Description": "Special currency earned by completing missions and opening mini llamas. Can be traded for items in the Event Store.",
-    "IsPermanent": true,
+    "ItemName": "Gold",
+    "ItemDescription": "Special currency earned by completing missions and opening mini llamas. Can be traded for items in the Event Store.",
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/eventcurrency_scaling.uasset",
     "ImagePaths": {
@@ -296,9 +273,8 @@
   "AccountResource:eventcurrency_scavenger": {
     "Type": "AccountResource",
     "Name": "EventCurrency_Scavenger",
-    "DisplayName": "Scavenger Tickets",
-    "Description": "Can be traded for special llamas, only available during the Scavenger Event!",
-    "IsPermanent": true,
+    "ItemName": "Scavenger Tickets",
+    "ItemDescription": "Can be traded for special llamas, only available during the Scavenger Event!",
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/eventcurrency_scavenger.uasset",
     "ImagePaths": {
@@ -309,9 +285,8 @@
   "AccountResource:eventcurrency_snowballs": {
     "Type": "AccountResource",
     "Name": "EventCurrency_Snowballs",
-    "DisplayName": "Snowflake Tickets",
-    "Description": "Currency earned by completing missions and quests during the Frozen Fjords season. Traded for event Loot Llamas in the Llama Shop.",
-    "IsPermanent": true,
+    "ItemName": "Snowflake Tickets",
+    "ItemDescription": "Currency earned by completing missions and quests during the Frozen Fjords season. Traded for event Loot Llamas in the Llama Shop.",
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/eventcurrency_snowballs.uasset",
     "ImagePaths": {
@@ -322,9 +297,8 @@
   "AccountResource:eventcurrency_spring": {
     "Type": "AccountResource",
     "Name": "EventCurrency_Spring",
-    "DisplayName": "Spring Tickets",
-    "Description": "Can be traded for special llamas, only available during the Spring Event!",
-    "IsPermanent": true,
+    "ItemName": "Spring Tickets",
+    "ItemDescription": "Can be traded for special llamas, only available during the Spring Event!",
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/eventcurrency_spring.uasset",
     "ImagePaths": {
@@ -335,9 +309,8 @@
   "AccountResource:eventcurrency_stormzone": {
     "Type": "AccountResource",
     "Name": "EventCurrency_StormZone",
-    "DisplayName": "Storm Tickets",
-    "Description": "Can be traded for special llamas, only available during the Storm Event!",
-    "IsPermanent": true,
+    "ItemName": "Storm Tickets",
+    "ItemDescription": "Can be traded for special llamas, only available during the Storm Event!",
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/eventcurrency_stormzone.uasset",
     "ImagePaths": {
@@ -348,9 +321,8 @@
   "AccountResource:eventcurrency_summer": {
     "Type": "AccountResource",
     "Name": "EventCurrency_Summer",
-    "DisplayName": "Summer Tickets",
-    "Description": "Can be traded for special llamas, only available during this event!",
-    "IsPermanent": true,
+    "ItemName": "Summer Tickets",
+    "ItemDescription": "Can be traded for special llamas, only available during this event!",
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/eventcurrency_summer.uasset",
     "ImagePaths": {
@@ -361,9 +333,8 @@
   "AccountResource:heroxp": {
     "Type": "AccountResource",
     "Name": "HeroXP",
-    "DisplayName": "Hero XP",
-    "Description": "Used to level heroes and defenders. Can be found in llamas and by retiring heroes or defenders.",
-    "IsPermanent": true,
+    "ItemName": "Hero XP",
+    "ItemDescription": "Used to level heroes and defenders. Can be found in llamas and by retiring heroes or defenders.",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/heroxp.uasset",
     "ImagePaths": {
@@ -374,9 +345,8 @@
   "AccountResource:peopleresource": {
     "Type": "AccountResource",
     "Name": "PeopleResource",
-    "DisplayName": "People",
-    "Description": "Survivors who have decided to join  your Homebase. Used to Transform Heroes, Survivors, and Defenders.",
-    "IsPermanent": true,
+    "ItemName": "People",
+    "ItemDescription": "Survivors who have decided to join  your Homebase. Used to Transform Heroes, Survivors, and Defenders.",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/peopleresource.uasset",
     "ImagePaths": {
@@ -387,9 +357,8 @@
   "AccountResource:peoplexp": {
     "Type": "AccountResource",
     "Name": "PeopleXP",
-    "DisplayName": "People XP",
-    "Description": "Used to level heroes, defenders and survivors. Can be found in llamas and by retiring heroes, defenders or survivors.",
-    "IsPermanent": true,
+    "ItemName": "People XP",
+    "ItemDescription": "Used to level heroes, defenders and survivors. Can be found in llamas and by retiring heroes, defenders or survivors.",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/peoplexp.uasset",
     "ImagePaths": {
@@ -400,9 +369,8 @@
   "AccountResource:personnelxp": {
     "Type": "AccountResource",
     "Name": "PersonnelXP",
-    "DisplayName": "Survivor XP",
-    "Description": "Used to level survivors. Can be found in llamas and by retiring survivors.",
-    "IsPermanent": true,
+    "ItemName": "Survivor XP",
+    "ItemDescription": "Used to level survivors. Can be found in llamas and by retiring survivors.",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/personnelxp.uasset",
     "ImagePaths": {
@@ -413,9 +381,8 @@
   "AccountResource:phoenixxp": {
     "Type": "AccountResource",
     "Name": "PhoenixXP",
-    "DisplayName": "Venture XP",
-    "Description": "Advances your Venture Level. Earned by completing missions, mission alerts, or challenge quests in a Venture Zone.",
-    "IsPermanent": true,
+    "ItemName": "Venture XP",
+    "ItemDescription": "Advances your Venture Level. Earned by completing missions, mission alerts, or challenge quests in a Venture Zone.",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/phoenixxp.uasset",
     "ImagePaths": {
@@ -426,9 +393,8 @@
   "AccountResource:phoenixxp_reward": {
     "Type": "AccountResource",
     "Name": "PhoenixXP_Reward",
-    "DisplayName": "Venture XP",
-    "Description": "Advances your Venture Level. Earned by completing missions, mission alerts, or challenge quests in a Venture Zone.",
-    "IsPermanent": true,
+    "ItemName": "Venture XP",
+    "ItemDescription": "Advances your Venture Level. Earned by completing missions, mission alerts, or challenge quests in a Venture Zone.",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/phoenixxp_reward.uasset",
     "ImagePaths": {
@@ -439,9 +405,8 @@
   "AccountResource:reagent_alteration_ele_fire": {
     "Type": "AccountResource",
     "Name": "Reagent_Alteration_Ele_Fire",
-    "DisplayName": "FIRE-UP!",
-    "Description": "Used to make items deal fire damage. Found by eliminating fire husks and completing Fire Storm mission alerts.",
-    "IsPermanent": true,
+    "ItemName": "FIRE-UP!",
+    "ItemDescription": "Used to make items deal fire damage. Found by eliminating fire husks and completing Fire Storm mission alerts.",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/reagent_alteration_ele_fire.uasset",
     "ImagePaths": {
@@ -452,9 +417,8 @@
   "AccountResource:reagent_alteration_ele_nature": {
     "Type": "AccountResource",
     "Name": "Reagent_Alteration_Ele_Nature",
-    "DisplayName": "AMP-UP!",
-    "Description": "Used to make items deal nature damage. Found by eliminating nature husks and completing Lightning Storm mission alerts.",
-    "IsPermanent": true,
+    "ItemName": "AMP-UP!",
+    "ItemDescription": "Used to make items deal nature damage. Found by eliminating nature husks and completing Lightning Storm mission alerts.",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/reagent_alteration_ele_nature.uasset",
     "ImagePaths": {
@@ -465,9 +429,8 @@
   "AccountResource:reagent_alteration_ele_water": {
     "Type": "AccountResource",
     "Name": "Reagent_Alteration_Ele_Water",
-    "DisplayName": "FROST-UP!",
-    "Description": "Used to make items deal water damage. Found by eliminating water husks and completing Ice Storm mission alerts.",
-    "IsPermanent": true,
+    "ItemName": "FROST-UP!",
+    "ItemDescription": "Used to make items deal water damage. Found by eliminating water husks and completing Ice Storm mission alerts.",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/reagent_alteration_ele_water.uasset",
     "ImagePaths": {
@@ -478,9 +441,8 @@
   "AccountResource:reagent_alteration_gameplay_generic": {
     "Type": "AccountResource",
     "Name": "Reagent_Alteration_Gameplay_Generic",
-    "DisplayName": "Core RE-PERK!",
-    "Description": "Resource used to modify weapon perks. Earned by gaining Venture Levels.",
-    "IsPermanent": true,
+    "ItemName": "Core RE-PERK!",
+    "ItemDescription": "Resource used to modify weapon perks. Earned by gaining Venture Levels.",
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/reagent_alteration_gameplay_generic.uasset",
     "ImagePaths": {
@@ -491,9 +453,8 @@
   "AccountResource:reagent_alteration_generic": {
     "Type": "AccountResource",
     "Name": "Reagent_Alteration_Generic",
-    "DisplayName": "RE-PERK!",
-    "Description": "Resource used to modify schematic perks. Found in Plankerton and above.",
-    "IsPermanent": true,
+    "ItemName": "RE-PERK!",
+    "ItemDescription": "Resource used to modify schematic perks. Found in Plankerton and above.",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/reagent_alteration_generic.uasset",
     "ImagePaths": {
@@ -504,9 +465,8 @@
   "AccountResource:reagent_alteration_upgrade_r": {
     "Type": "AccountResource",
     "Name": "Reagent_Alteration_Upgrade_R",
-    "DisplayName": "Rare PERK-UP!",
-    "Description": "Resource used to upgrade schematic perks. Found in Canny Valley.",
-    "IsPermanent": true,
+    "ItemName": "Rare PERK-UP!",
+    "ItemDescription": "Resource used to upgrade schematic perks. Found in Canny Valley.",
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/reagent_alteration_upgrade_r.uasset",
     "ImagePaths": {
@@ -517,9 +477,8 @@
   "AccountResource:reagent_alteration_upgrade_sr": {
     "Type": "AccountResource",
     "Name": "Reagent_Alteration_Upgrade_SR",
-    "DisplayName": "Legendary PERK-UP!",
-    "Description": "Resource used to upgrade schematic perks. Found in Twine Peaks.",
-    "IsPermanent": true,
+    "ItemName": "Legendary PERK-UP!",
+    "ItemDescription": "Resource used to upgrade schematic perks. Found in Twine Peaks.",
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/reagent_alteration_upgrade_sr.uasset",
     "ImagePaths": {
@@ -530,9 +489,8 @@
   "AccountResource:reagent_alteration_upgrade_uc": {
     "Type": "AccountResource",
     "Name": "Reagent_Alteration_Upgrade_UC",
-    "DisplayName": "Uncommon PERK-UP!",
-    "Description": "Resource used to upgrade schematic perks. Found in Plankerton and Canny Valley.",
-    "IsPermanent": true,
+    "ItemName": "Uncommon PERK-UP!",
+    "ItemDescription": "Resource used to upgrade schematic perks. Found in Plankerton and Canny Valley.",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/reagent_alteration_upgrade_uc.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Items-WeaponPerkUp-Uncommon.png",
@@ -542,9 +500,8 @@
   "AccountResource:reagent_alteration_upgrade_vr": {
     "Type": "AccountResource",
     "Name": "Reagent_Alteration_Upgrade_VR",
-    "DisplayName": "Epic PERK-UP!",
-    "Description": "Resource used to upgrade schematic perks. Found in Canny Valley and Twine Peaks.",
-    "IsPermanent": true,
+    "ItemName": "Epic PERK-UP!",
+    "ItemDescription": "Resource used to upgrade schematic perks. Found in Canny Valley and Twine Peaks.",
     "Rarity": "Epic",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/reagent_alteration_upgrade_vr.uasset",
     "ImagePaths": {
@@ -555,9 +512,8 @@
   "AccountResource:reagent_c_t01": {
     "Type": "AccountResource",
     "Name": "Reagent_C_T01",
-    "DisplayName": "Pure Drop of Rain",
-    "Description": "Resource used to evolve all types of items.",
-    "IsPermanent": true,
+    "ItemName": "Pure Drop of Rain",
+    "ItemDescription": "Resource used to evolve all types of items.",
     "Rarity": "Epic",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/reagent_c_t01.uasset",
     "ImagePaths": {
@@ -568,9 +524,8 @@
   "AccountResource:reagent_c_t02": {
     "Type": "AccountResource",
     "Name": "Reagent_C_T02",
-    "DisplayName": "Lightning in a Bottle",
-    "Description": "Resource used to evolve all types of items. Found primarily in Plankerton.",
-    "IsPermanent": true,
+    "ItemName": "Lightning in a Bottle",
+    "ItemDescription": "Resource used to evolve all types of items. Found primarily in Plankerton.",
     "Rarity": "Epic",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/reagent_c_t02.uasset",
     "ImagePaths": {
@@ -581,9 +536,8 @@
   "AccountResource:reagent_c_t03": {
     "Type": "AccountResource",
     "Name": "Reagent_C_T03",
-    "DisplayName": "Eye of the Storm",
-    "Description": "Resource used to evolve all types of items. Found primarily in Canny Valley.",
-    "IsPermanent": true,
+    "ItemName": "Eye of the Storm",
+    "ItemDescription": "Resource used to evolve all types of items. Found primarily in Canny Valley.",
     "Rarity": "Epic",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/reagent_c_t03.uasset",
     "ImagePaths": {
@@ -594,9 +548,8 @@
   "AccountResource:reagent_c_t04": {
     "Type": "AccountResource",
     "Name": "Reagent_C_T04",
-    "DisplayName": "Storm Shard",
-    "Description": "Resource used to evolve all types of items. Found primarily in Twine Peaks.",
-    "IsPermanent": true,
+    "ItemName": "Storm Shard",
+    "ItemDescription": "Resource used to evolve all types of items. Found primarily in Twine Peaks.",
     "Rarity": "Epic",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/reagent_c_t04.uasset",
     "ImagePaths": {
@@ -607,9 +560,8 @@
   "AccountResource:reagent_evolverarity_r": {
     "Type": "AccountResource",
     "Name": "Reagent_EvolveRarity_R",
-    "DisplayName": "Rare Flux",
-    "Description": "Collect Rare Flux to upgrade an Uncommon Hero or Schematic to Rare rarity!",
-    "IsPermanent": true,
+    "ItemName": "Rare Flux",
+    "ItemDescription": "Collect Rare Flux to upgrade an Uncommon Hero or Schematic to Rare rarity!",
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/reagent_evolverarity_r.uasset",
     "ImagePaths": {
@@ -620,9 +572,8 @@
   "AccountResource:reagent_evolverarity_sr": {
     "Type": "AccountResource",
     "Name": "Reagent_EvolveRarity_SR",
-    "DisplayName": "Legendary Flux",
-    "Description": "Collect Legendary Flux to upgrade an Epic Hero or Schematic to Legendary rarity!",
-    "IsPermanent": true,
+    "ItemName": "Legendary Flux",
+    "ItemDescription": "Collect Legendary Flux to upgrade an Epic Hero or Schematic to Legendary rarity!",
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/reagent_evolverarity_sr.uasset",
     "ImagePaths": {
@@ -633,9 +584,8 @@
   "AccountResource:reagent_evolverarity_vr": {
     "Type": "AccountResource",
     "Name": "Reagent_EvolveRarity_VR",
-    "DisplayName": "Epic Flux",
-    "Description": "Collect Epic Flux to upgrade a Rare Hero or Schematic to Epic rarity!",
-    "IsPermanent": true,
+    "ItemName": "Epic Flux",
+    "ItemDescription": "Collect Epic Flux to upgrade a Rare Hero or Schematic to Epic rarity!",
     "Rarity": "Epic",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/reagent_evolverarity_vr.uasset",
     "ImagePaths": {
@@ -646,9 +596,8 @@
   "AccountResource:reagent_people": {
     "Type": "AccountResource",
     "Name": "Reagent_People",
-    "DisplayName": "Training Manual",
-    "Description": "Books full of knowledge, used to evolve survivors and heroes. Can be found by retiring survivors and heroes or in mission rewards.",
-    "IsPermanent": true,
+    "ItemName": "Training Manual",
+    "ItemDescription": "Books full of knowledge, used to evolve survivors and heroes. Can be found by retiring survivors and heroes or in mission rewards.",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/reagent_people.uasset",
     "ImagePaths": {
@@ -659,9 +608,8 @@
   "AccountResource:reagent_promotion_heroes": {
     "Type": "AccountResource",
     "Name": "Reagent_Promotion_Heroes",
-    "DisplayName": "Hero Supercharger",
-    "Description": "Used to promote heroes, increasing their max level. Can be earned by gaining Venture Levels.",
-    "IsPermanent": true,
+    "ItemName": "Hero Supercharger",
+    "ItemDescription": "Used to promote heroes, increasing their max level. Can be earned by gaining Venture Levels.",
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/reagent_promotion_heroes.uasset",
     "ImagePaths": {
@@ -672,9 +620,8 @@
   "AccountResource:reagent_promotion_survivors": {
     "Type": "AccountResource",
     "Name": "Reagent_Promotion_Survivors",
-    "DisplayName": "Survivor Supercharger",
-    "Description": "Used to promote Survivors and Leads, increasing their max level. Can be earned by gaining Venture Levels.",
-    "IsPermanent": true,
+    "ItemName": "Survivor Supercharger",
+    "ItemDescription": "Used to promote Survivors and Leads, increasing their max level. Can be earned by gaining Venture Levels.",
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/reagent_promotion_survivors.uasset",
     "ImagePaths": {
@@ -685,9 +632,8 @@
   "AccountResource:reagent_promotion_traps": {
     "Type": "AccountResource",
     "Name": "Reagent_Promotion_Traps",
-    "DisplayName": "Trap Supercharger",
-    "Description": "Used to promote trap schematics, increasing their max level. Can be earned by gaining Venture Levels.",
-    "IsPermanent": true,
+    "ItemName": "Trap Supercharger",
+    "ItemDescription": "Used to promote trap schematics, increasing their max level. Can be earned by gaining Venture Levels.",
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/reagent_promotion_traps.uasset",
     "ImagePaths": {
@@ -698,9 +644,8 @@
   "AccountResource:reagent_promotion_weapons": {
     "Type": "AccountResource",
     "Name": "Reagent_Promotion_Weapons",
-    "DisplayName": "Weapon Supercharger",
-    "Description": "Used to promote weapon schematics, increasing their max level. Can be earned by gaining Venture Levels.",
-    "IsPermanent": true,
+    "ItemName": "Weapon Supercharger",
+    "ItemDescription": "Used to promote weapon schematics, increasing their max level. Can be earned by gaining Venture Levels.",
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/reagent_promotion_weapons.uasset",
     "ImagePaths": {
@@ -711,9 +656,8 @@
   "AccountResource:reagent_schematic": {
     "Type": "AccountResource",
     "Name": "Reagent_Schematic",
-    "DisplayName": "Schematic Manuals",
-    "Description": "Manuals used to evolve weapons or traps. Found by recycling weapons and traps or as mission rewards.",
-    "IsPermanent": true,
+    "ItemName": "Schematic Manuals",
+    "ItemDescription": "Manuals used to evolve weapons or traps. Found by recycling weapons and traps or as mission rewards.",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/reagent_schematic.uasset",
     "ImagePaths": {
@@ -724,9 +668,8 @@
   "AccountResource:reagent_traps": {
     "Type": "AccountResource",
     "Name": "Reagent_Traps",
-    "DisplayName": "Trap Designs",
-    "Description": "Designs used to evolve traps. Found by recycling traps or as mission rewards.",
-    "IsPermanent": true,
+    "ItemName": "Trap Designs",
+    "ItemDescription": "Designs used to evolve traps. Found by recycling traps or as mission rewards.",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/reagent_traps.uasset",
     "ImagePaths": {
@@ -737,9 +680,8 @@
   "AccountResource:reagent_weapons": {
     "Type": "AccountResource",
     "Name": "Reagent_Weapons",
-    "DisplayName": "Weapon Designs",
-    "Description": "Designs used to evolve weapons. Found by recycling weapons or as mission rewards.",
-    "IsPermanent": true,
+    "ItemName": "Weapon Designs",
+    "ItemDescription": "Designs used to evolve weapons. Found by recycling weapons or as mission rewards.",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/reagent_weapons.uasset",
     "ImagePaths": {
@@ -750,8 +692,7 @@
   "AccountResource:s32_rebootpoints": {
     "Type": "AccountResource",
     "Name": "S32_RebootPoints",
-    "DisplayName": "Points",
-    "IsPermanent": true,
+    "ItemName": "Points",
     "AssetPath": "fortnitegame/plugins/gamefeatures/battlepasspermanentquests/content/items/persistentresources/s32_rebootpoints.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T_UI_UniversalXP_Icon_Points_Standard_128.png",
@@ -761,9 +702,8 @@
   "AccountResource:schematicxp": {
     "Type": "AccountResource",
     "Name": "SchematicXP",
-    "DisplayName": "Schematic XP",
-    "Description": "Used to level schematics. Can be found in llamas and by recycling schematics.",
-    "IsPermanent": true,
+    "ItemName": "Schematic XP",
+    "ItemDescription": "Used to level schematics. Can be found in llamas and by recycling schematics.",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/schematicxp.uasset",
     "ImagePaths": {
@@ -774,9 +714,8 @@
   "AccountResource:sparkspack_currency": {
     "Type": "AccountResource",
     "Name": "SparksPack_Currency",
-    "DisplayName": "Festival Points",
-    "Description": "Used to unlock Reward Tiers in the Festival Pass.",
-    "IsPermanent": true,
+    "ItemName": "Festival Points",
+    "ItemDescription": "Used to unlock Reward Tiers in the Festival Pass.",
     "Rarity": "Epic",
     "AssetPath": "fortnitegame/plugins/gamefeatures/fm/sparksquests/sparkspermanentquests/content/items/persistentresources/sparkspack_currency.uasset",
     "ImagePaths": {
@@ -787,9 +726,8 @@
   "AccountResource:sparkspack_currency_granter": {
     "Type": "AccountResource",
     "Name": "SparksPack_Currency_Granter",
-    "DisplayName": "Festival Points",
-    "Description": "Used to unlock Reward Tiers in the Festival Pass.",
-    "IsPermanent": true,
+    "ItemName": "Festival Points",
+    "ItemDescription": "Used to unlock Reward Tiers in the Festival Pass.",
     "Rarity": "Epic",
     "AssetPath": "fortnitegame/plugins/gamefeatures/fm/sparksquests/sparkspermanentquests/content/items/persistentresources/sparkspack_currency_granter.uasset",
     "ImagePaths": {
@@ -800,9 +738,8 @@
   "AccountResource:sparkswristband_currency": {
     "Type": "AccountResource",
     "Name": "SparksWristband_Currency",
-    "DisplayName": "Wristband",
-    "Description": "Used to unlock seasonal Fortnite Festival Rewards.",
-    "IsPermanent": true,
+    "ItemName": "Wristband",
+    "ItemDescription": "Used to unlock seasonal Fortnite Festival Rewards.",
     "Rarity": "Epic",
     "AssetPath": "fortnitegame/plugins/gamefeatures/fm/sparksquests/sparkspermanentquests/content/items/persistentresources/sparkswristband_currency.uasset",
     "ImagePaths": {
@@ -813,9 +750,8 @@
   "AccountResource:sparkswristband_currency_granter": {
     "Type": "AccountResource",
     "Name": "SparksWristband_Currency_Granter",
-    "DisplayName": "Wristband",
-    "Description": "Used to unlock seasonal Fortnite Festival Rewards.",
-    "IsPermanent": true,
+    "ItemName": "Wristband",
+    "ItemDescription": "Used to unlock seasonal Fortnite Festival Rewards.",
     "Rarity": "Epic",
     "AssetPath": "fortnitegame/plugins/gamefeatures/fm/sparksquests/sparkspermanentquests/content/items/persistentresources/sparkswristband_currency_granter.uasset",
     "ImagePaths": {
@@ -826,9 +762,8 @@
   "AccountResource:specialcurrency_daily": {
     "Type": "AccountResource",
     "Name": "SpecialCurrency_Daily",
-    "DisplayName": "Daily Coins",
-    "Description": "Special currency used to purchase items from the Event Store. You can earn this currency by completing Daily Quests.",
-    "IsPermanent": true,
+    "ItemName": "Daily Coins",
+    "ItemDescription": "Special currency used to purchase items from the Event Store. You can earn this currency by completing Daily Quests.",
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/specialcurrency_daily.uasset",
     "ImagePaths": {
@@ -839,9 +774,8 @@
   "AccountResource:voucher_basicpack": {
     "Type": "AccountResource",
     "Name": "Voucher_BasicPack",
-    "DisplayName": "Mini Reward Llama",
-    "Description": "Claim your free reward llama in the Loot tab.",
-    "IsPermanent": true,
+    "ItemName": "Mini Reward Llama",
+    "ItemDescription": "Claim your free reward llama in the Loot tab.",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_basicpack.uasset",
     "ImagePaths": {
@@ -852,9 +786,8 @@
   "AccountResource:voucher_cardpack_2021anniversary": {
     "Type": "AccountResource",
     "Name": "Voucher_CardPack_2021Anniversary",
-    "DisplayName": "2021 Birthday Llama Token",
-    "Description": "Trade in for a 2021 Birthday Llama!",
-    "IsPermanent": true,
+    "ItemName": "2021 Birthday Llama Token",
+    "ItemDescription": "Trade in for a 2021 Birthday Llama!",
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_cardpack_2021anniversary.uasset",
     "ImagePaths": {
@@ -865,9 +798,8 @@
   "AccountResource:voucher_cardpack_bronze": {
     "Type": "AccountResource",
     "Name": "Voucher_CardPack_Bronze",
-    "DisplayName": "Upgrade Llama Token",
-    "Description": "Trade in for an Upgrade Llama!",
-    "IsPermanent": true,
+    "ItemName": "Upgrade Llama Token",
+    "ItemDescription": "Trade in for an Upgrade Llama!",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_cardpack_bronze.uasset",
     "ImagePaths": {
@@ -878,9 +810,8 @@
   "AccountResource:voucher_cardpack_event_founders": {
     "Type": "AccountResource",
     "Name": "Voucher_CardPack_Event_Founders",
-    "DisplayName": "Founder\u0027s Llama Token",
-    "Description": "Trade in for a Founder\u0027s Llama!",
-    "IsPermanent": true,
+    "ItemName": "Founder\u0027s Llama Token",
+    "ItemDescription": "Trade in for a Founder\u0027s Llama!",
     "Rarity": "Epic",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_cardpack_event_founders.uasset",
     "ImagePaths": {
@@ -891,9 +822,8 @@
   "AccountResource:voucher_cardpack_jackpot": {
     "Type": "AccountResource",
     "Name": "Voucher_CardPack_Jackpot",
-    "DisplayName": "Legendary Troll Stash Llama Token",
-    "Description": "Trade in for a Legendary Troll Stash Llama!",
-    "IsPermanent": true,
+    "ItemName": "Legendary Troll Stash Llama Token",
+    "ItemDescription": "Trade in for a Legendary Troll Stash Llama!",
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_cardpack_jackpot.uasset",
     "ImagePaths": {
@@ -904,9 +834,8 @@
   "AccountResource:voucher_cardpack_persistent_anniversary": {
     "Type": "AccountResource",
     "Name": "Voucher_CardPack_Persistent_Anniversary",
-    "DisplayName": "Birthday Llama Token",
-    "Description": "Trade in for a Birthday Llama!",
-    "IsPermanent": true,
+    "ItemName": "Birthday Llama Token",
+    "ItemDescription": "Trade in for a Birthday Llama!",
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_cardpack_persistent_anniversary.uasset",
     "ImagePaths": {
@@ -917,9 +846,8 @@
   "AccountResource:voucher_custom_firecracker_r": {
     "Type": "AccountResource",
     "Name": "Voucher_Custom_Firecracker_R",
-    "DisplayName": "Firecracker Token",
-    "Description": "Trade for a loot llama!",
-    "IsPermanent": true,
+    "ItemName": "Firecracker Token",
+    "ItemDescription": "Trade for a loot llama!",
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_custom_firecracker_r.uasset",
     "ImagePaths": {
@@ -930,9 +858,8 @@
   "AccountResource:voucher_founders_constructor_bundle": {
     "Type": "AccountResource",
     "Name": "Voucher_Founders_Constructor_Bundle",
-    "DisplayName": "Founders Constructor Bundle Token",
-    "Description": "Trade in at the Loot menu to get two Legendary Ninja Heroes and one upgradeable weapon!",
-    "IsPermanent": true,
+    "ItemName": "Founders Constructor Bundle Token",
+    "ItemDescription": "Trade in at the Loot menu to get two Legendary Ninja Heroes and one upgradeable weapon!",
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_founders_constructor_bundle.uasset",
     "ImagePaths": {
@@ -943,9 +870,8 @@
   "AccountResource:voucher_founders_constructor_weapon_sr": {
     "Type": "AccountResource",
     "Name": "Voucher_Founders_Constructor_Weapon_SR",
-    "DisplayName": "Founders Constructor Legendary Weapon Token",
-    "Description": "Trade in at the Loot menu to get two Legendary Ninja Heroes and one upgradeable weapon!",
-    "IsPermanent": true,
+    "ItemName": "Founders Constructor Legendary Weapon Token",
+    "ItemDescription": "Trade in at the Loot menu to get two Legendary Ninja Heroes and one upgradeable weapon!",
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_founders_constructor_weapon_sr.uasset",
     "ImagePaths": {
@@ -956,9 +882,8 @@
   "AccountResource:voucher_founders_constructor_weapon_vr": {
     "Type": "AccountResource",
     "Name": "Voucher_Founders_Constructor_Weapon_VR",
-    "DisplayName": "Founders Constructor Epic Weapon Token",
-    "Description": "Trade in at the Loot menu to get two Legendary Ninja Heroes and one upgradeable weapon!",
-    "IsPermanent": true,
+    "ItemName": "Founders Constructor Epic Weapon Token",
+    "ItemDescription": "Trade in at the Loot menu to get two Legendary Ninja Heroes and one upgradeable weapon!",
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_founders_constructor_weapon_vr.uasset",
     "ImagePaths": {
@@ -969,9 +894,8 @@
   "AccountResource:voucher_founders_ninja_bundle": {
     "Type": "AccountResource",
     "Name": "Voucher_Founders_Ninja_Bundle",
-    "DisplayName": "Founders Ninja Bundle Token",
-    "Description": "Trade in at the Loot menu to get two Legendary Ninja Heroes and one upgradeable weapon!",
-    "IsPermanent": true,
+    "ItemName": "Founders Ninja Bundle Token",
+    "ItemDescription": "Trade in at the Loot menu to get two Legendary Ninja Heroes and one upgradeable weapon!",
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_founders_ninja_bundle.uasset",
     "ImagePaths": {
@@ -982,9 +906,8 @@
   "AccountResource:voucher_founders_ninja_weapon_sr": {
     "Type": "AccountResource",
     "Name": "Voucher_Founders_Ninja_Weapon_SR",
-    "DisplayName": "Founders Ninja Legendary Weapon Token",
-    "Description": "Trade in at the Loot menu to get two Legendary Ninja Heroes and one upgradeable weapon!",
-    "IsPermanent": true,
+    "ItemName": "Founders Ninja Legendary Weapon Token",
+    "ItemDescription": "Trade in at the Loot menu to get two Legendary Ninja Heroes and one upgradeable weapon!",
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_founders_ninja_weapon_sr.uasset",
     "ImagePaths": {
@@ -995,9 +918,8 @@
   "AccountResource:voucher_founders_ninja_weapon_vr": {
     "Type": "AccountResource",
     "Name": "Voucher_Founders_Ninja_Weapon_VR",
-    "DisplayName": "Founders Ninja Epic Weapon Token",
-    "Description": "Trade in at the Loot menu to get two Legendary Ninja Heroes and one upgradeable weapon!",
-    "IsPermanent": true,
+    "ItemName": "Founders Ninja Epic Weapon Token",
+    "ItemDescription": "Trade in at the Loot menu to get two Legendary Ninja Heroes and one upgradeable weapon!",
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_founders_ninja_weapon_vr.uasset",
     "ImagePaths": {
@@ -1008,9 +930,8 @@
   "AccountResource:voucher_founders_outlander_bundle": {
     "Type": "AccountResource",
     "Name": "Voucher_Founders_Outlander_Bundle",
-    "DisplayName": "Founders Outlander Bundle Token",
-    "Description": "Trade in at the Loot menu to get two Legendary Ninja Heroes and one upgradeable weapon!",
-    "IsPermanent": true,
+    "ItemName": "Founders Outlander Bundle Token",
+    "ItemDescription": "Trade in at the Loot menu to get two Legendary Ninja Heroes and one upgradeable weapon!",
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_founders_outlander_bundle.uasset",
     "ImagePaths": {
@@ -1021,9 +942,8 @@
   "AccountResource:voucher_founders_outlander_weapon_sr": {
     "Type": "AccountResource",
     "Name": "Voucher_Founders_Outlander_Weapon_SR",
-    "DisplayName": "Founders Outlander Legendary Weapon Token",
-    "Description": "Trade in at the Loot menu to get two Legendary Ninja Heroes and one upgradeable weapon!",
-    "IsPermanent": true,
+    "ItemName": "Founders Outlander Legendary Weapon Token",
+    "ItemDescription": "Trade in at the Loot menu to get two Legendary Ninja Heroes and one upgradeable weapon!",
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_founders_outlander_weapon_sr.uasset",
     "ImagePaths": {
@@ -1034,9 +954,8 @@
   "AccountResource:voucher_founders_outlander_weapon_vr": {
     "Type": "AccountResource",
     "Name": "Voucher_Founders_Outlander_Weapon_VR",
-    "DisplayName": "Founders Outlander Epic Weapon Token",
-    "Description": "Trade in at the Loot menu to get two Legendary Ninja Heroes and one upgradeable weapon!",
-    "IsPermanent": true,
+    "ItemName": "Founders Outlander Epic Weapon Token",
+    "ItemDescription": "Trade in at the Loot menu to get two Legendary Ninja Heroes and one upgradeable weapon!",
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_founders_outlander_weapon_vr.uasset",
     "ImagePaths": {
@@ -1047,9 +966,8 @@
   "AccountResource:voucher_founders_soldier_bundle": {
     "Type": "AccountResource",
     "Name": "Voucher_Founders_Soldier_Bundle",
-    "DisplayName": "Founders Soldier Bundle Token",
-    "Description": "Trade in at the Loot menu to get two Legendary Ninja Heroes and one upgradeable weapon!",
-    "IsPermanent": true,
+    "ItemName": "Founders Soldier Bundle Token",
+    "ItemDescription": "Trade in at the Loot menu to get two Legendary Ninja Heroes and one upgradeable weapon!",
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_founders_soldier_bundle.uasset",
     "ImagePaths": {
@@ -1060,9 +978,8 @@
   "AccountResource:voucher_founders_soldier_weapon_sr": {
     "Type": "AccountResource",
     "Name": "Voucher_Founders_Soldier_Weapon_SR",
-    "DisplayName": "Founders Soldier Legendary Weapon Token",
-    "Description": "Trade in at the Loot menu to get two Legendary Ninja Heroes and one upgradeable weapon!",
-    "IsPermanent": true,
+    "ItemName": "Founders Soldier Legendary Weapon Token",
+    "ItemDescription": "Trade in at the Loot menu to get two Legendary Ninja Heroes and one upgradeable weapon!",
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_founders_soldier_weapon_sr.uasset",
     "ImagePaths": {
@@ -1073,9 +990,8 @@
   "AccountResource:voucher_founders_soldier_weapon_vr": {
     "Type": "AccountResource",
     "Name": "Voucher_Founders_Soldier_Weapon_VR",
-    "DisplayName": "Founders Soldier Epic Weapon Token",
-    "Description": "Trade in at the Loot menu to get two Legendary Ninja Heroes and one upgradeable weapon!",
-    "IsPermanent": true,
+    "ItemName": "Founders Soldier Epic Weapon Token",
+    "ItemDescription": "Trade in at the Loot menu to get two Legendary Ninja Heroes and one upgradeable weapon!",
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_founders_soldier_weapon_vr.uasset",
     "ImagePaths": {
@@ -1086,9 +1002,8 @@
   "AccountResource:voucher_founders_starterweapons_bundle": {
     "Type": "AccountResource",
     "Name": "Voucher_Founders_StarterWeapons_Bundle",
-    "DisplayName": "Founders Starter Weapons Token",
-    "Description": "Trade in at the Loot menu to get two Legendary Ninja Heroes and one upgradeable weapon!",
-    "IsPermanent": true,
+    "ItemName": "Founders Starter Weapons Token",
+    "ItemDescription": "Trade in at the Loot menu to get two Legendary Ninja Heroes and one upgradeable weapon!",
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_founders_starterweapons_bundle.uasset",
     "ImagePaths": {
@@ -1099,9 +1014,8 @@
   "AccountResource:voucher_generic_defender_r": {
     "Type": "AccountResource",
     "Name": "Voucher_Generic_Defender_R",
-    "DisplayName": "Rare Defender Token",
-    "Description": "Trade for a loot llama!",
-    "IsPermanent": true,
+    "ItemName": "Rare Defender Token",
+    "ItemDescription": "Trade for a loot llama!",
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_generic_defender_r.uasset",
     "ImagePaths": {
@@ -1112,9 +1026,8 @@
   "AccountResource:voucher_generic_defender_sr": {
     "Type": "AccountResource",
     "Name": "Voucher_Generic_Defender_SR",
-    "DisplayName": "Legendary Defender Token",
-    "Description": "Trade for a loot llama!",
-    "IsPermanent": true,
+    "ItemName": "Legendary Defender Token",
+    "ItemDescription": "Trade for a loot llama!",
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_generic_defender_sr.uasset",
     "ImagePaths": {
@@ -1125,9 +1038,8 @@
   "AccountResource:voucher_generic_defender_vr": {
     "Type": "AccountResource",
     "Name": "Voucher_Generic_Defender_VR",
-    "DisplayName": "Epic Defender Token",
-    "Description": "Trade for a loot llama!",
-    "IsPermanent": true,
+    "ItemName": "Epic Defender Token",
+    "ItemDescription": "Trade for a loot llama!",
     "Rarity": "Epic",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_generic_defender_vr.uasset",
     "ImagePaths": {
@@ -1138,9 +1050,8 @@
   "AccountResource:voucher_generic_hero_r": {
     "Type": "AccountResource",
     "Name": "Voucher_Generic_Hero_R",
-    "DisplayName": "Rare Hero Token",
-    "Description": "Trade for a loot llama!",
-    "IsPermanent": true,
+    "ItemName": "Rare Hero Token",
+    "ItemDescription": "Trade for a loot llama!",
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_generic_hero_r.uasset",
     "ImagePaths": {
@@ -1151,9 +1062,8 @@
   "AccountResource:voucher_generic_hero_sr": {
     "Type": "AccountResource",
     "Name": "Voucher_Generic_Hero_SR",
-    "DisplayName": "Legendary Hero Token",
-    "Description": "Trade for a loot llama!",
-    "IsPermanent": true,
+    "ItemName": "Legendary Hero Token",
+    "ItemDescription": "Trade for a loot llama!",
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_generic_hero_sr.uasset",
     "ImagePaths": {
@@ -1164,9 +1074,8 @@
   "AccountResource:voucher_generic_hero_vr": {
     "Type": "AccountResource",
     "Name": "Voucher_Generic_Hero_VR",
-    "DisplayName": "Epic Hero Token",
-    "Description": "Trade for a loot llama!",
-    "IsPermanent": true,
+    "ItemName": "Epic Hero Token",
+    "ItemDescription": "Trade for a loot llama!",
     "Rarity": "Epic",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_generic_hero_vr.uasset",
     "ImagePaths": {
@@ -1177,9 +1086,8 @@
   "AccountResource:voucher_generic_manager_r": {
     "Type": "AccountResource",
     "Name": "Voucher_Generic_Manager_R",
-    "DisplayName": "Rare Lead Survivor Token",
-    "Description": "Trade for a loot llama!",
-    "IsPermanent": true,
+    "ItemName": "Rare Lead Survivor Token",
+    "ItemDescription": "Trade for a loot llama!",
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_generic_manager_r.uasset",
     "ImagePaths": {
@@ -1190,9 +1098,8 @@
   "AccountResource:voucher_generic_manager_sr": {
     "Type": "AccountResource",
     "Name": "Voucher_Generic_Manager_SR",
-    "DisplayName": "Legendary Lead Survivor Token",
-    "Description": "Trade for a loot llama!",
-    "IsPermanent": true,
+    "ItemName": "Legendary Lead Survivor Token",
+    "ItemDescription": "Trade for a loot llama!",
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_generic_manager_sr.uasset",
     "ImagePaths": {
@@ -1203,9 +1110,8 @@
   "AccountResource:voucher_generic_manager_vr": {
     "Type": "AccountResource",
     "Name": "Voucher_Generic_Manager_VR",
-    "DisplayName": "Epic Lead Survivor Token",
-    "Description": "Trade for a loot llama!",
-    "IsPermanent": true,
+    "ItemName": "Epic Lead Survivor Token",
+    "ItemDescription": "Trade for a loot llama!",
     "Rarity": "Epic",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_generic_manager_vr.uasset",
     "ImagePaths": {
@@ -1216,9 +1122,8 @@
   "AccountResource:voucher_generic_melee_r": {
     "Type": "AccountResource",
     "Name": "Voucher_Generic_Melee_R",
-    "DisplayName": "Rare Melee Weapon Token",
-    "Description": "Trade for a loot llama!",
-    "IsPermanent": true,
+    "ItemName": "Rare Melee Weapon Token",
+    "ItemDescription": "Trade for a loot llama!",
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_generic_melee_r.uasset",
     "ImagePaths": {
@@ -1229,9 +1134,8 @@
   "AccountResource:voucher_generic_melee_sr": {
     "Type": "AccountResource",
     "Name": "Voucher_Generic_Melee_SR",
-    "DisplayName": "Legendary Melee Weapon Token",
-    "Description": "Trade for a loot llama!",
-    "IsPermanent": true,
+    "ItemName": "Legendary Melee Weapon Token",
+    "ItemDescription": "Trade for a loot llama!",
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_generic_melee_sr.uasset",
     "ImagePaths": {
@@ -1242,9 +1146,8 @@
   "AccountResource:voucher_generic_melee_vr": {
     "Type": "AccountResource",
     "Name": "Voucher_Generic_Melee_VR",
-    "DisplayName": "Epic Melee Weapon Token",
-    "Description": "Trade for a loot llama!",
-    "IsPermanent": true,
+    "ItemName": "Epic Melee Weapon Token",
+    "ItemDescription": "Trade for a loot llama!",
     "Rarity": "Epic",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_generic_melee_vr.uasset",
     "ImagePaths": {
@@ -1255,9 +1158,8 @@
   "AccountResource:voucher_generic_ranged_r": {
     "Type": "AccountResource",
     "Name": "Voucher_Generic_Ranged_R",
-    "DisplayName": "Rare Ranged Weapon Token",
-    "Description": "Trade for a loot llama!",
-    "IsPermanent": true,
+    "ItemName": "Rare Ranged Weapon Token",
+    "ItemDescription": "Trade for a loot llama!",
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_generic_ranged_r.uasset",
     "ImagePaths": {
@@ -1268,9 +1170,8 @@
   "AccountResource:voucher_generic_ranged_sr": {
     "Type": "AccountResource",
     "Name": "Voucher_Generic_Ranged_SR",
-    "DisplayName": "Legendary Ranged Weapon Token",
-    "Description": "Trade for a loot llama!",
-    "IsPermanent": true,
+    "ItemName": "Legendary Ranged Weapon Token",
+    "ItemDescription": "Trade for a loot llama!",
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_generic_ranged_sr.uasset",
     "ImagePaths": {
@@ -1281,9 +1182,8 @@
   "AccountResource:voucher_generic_ranged_vr": {
     "Type": "AccountResource",
     "Name": "Voucher_Generic_Ranged_VR",
-    "DisplayName": "Epic Ranged Weapon Token",
-    "Description": "Trade for a loot llama!",
-    "IsPermanent": true,
+    "ItemName": "Epic Ranged Weapon Token",
+    "ItemDescription": "Trade for a loot llama!",
     "Rarity": "Epic",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_generic_ranged_vr.uasset",
     "ImagePaths": {
@@ -1294,9 +1194,8 @@
   "AccountResource:voucher_generic_schematic_r": {
     "Type": "AccountResource",
     "Name": "Voucher_Generic_Schematic_R",
-    "DisplayName": "Rare Schematic Token",
-    "Description": "Trade for a loot llama!",
-    "IsPermanent": true,
+    "ItemName": "Rare Schematic Token",
+    "ItemDescription": "Trade for a loot llama!",
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_generic_schematic_r.uasset",
     "ImagePaths": {
@@ -1307,9 +1206,8 @@
   "AccountResource:voucher_generic_schematic_sr": {
     "Type": "AccountResource",
     "Name": "Voucher_Generic_Schematic_SR",
-    "DisplayName": "Legendary Schematic Token",
-    "Description": "Trade for a loot llama!",
-    "IsPermanent": true,
+    "ItemName": "Legendary Schematic Token",
+    "ItemDescription": "Trade for a loot llama!",
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_generic_schematic_sr.uasset",
     "ImagePaths": {
@@ -1320,9 +1218,8 @@
   "AccountResource:voucher_generic_schematic_vr": {
     "Type": "AccountResource",
     "Name": "Voucher_Generic_Schematic_VR",
-    "DisplayName": "Epic Schematic Token",
-    "Description": "Trade for a loot llama!",
-    "IsPermanent": true,
+    "ItemName": "Epic Schematic Token",
+    "ItemDescription": "Trade for a loot llama!",
     "Rarity": "Epic",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_generic_schematic_vr.uasset",
     "ImagePaths": {
@@ -1333,9 +1230,8 @@
   "AccountResource:voucher_generic_trap_r": {
     "Type": "AccountResource",
     "Name": "Voucher_Generic_Trap_R",
-    "DisplayName": "Rare Trap Token",
-    "Description": "Trade for a loot llama!",
-    "IsPermanent": true,
+    "ItemName": "Rare Trap Token",
+    "ItemDescription": "Trade for a loot llama!",
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_generic_trap_r.uasset",
     "ImagePaths": {
@@ -1346,9 +1242,8 @@
   "AccountResource:voucher_generic_trap_sr": {
     "Type": "AccountResource",
     "Name": "Voucher_Generic_Trap_SR",
-    "DisplayName": "Legendary Trap Token",
-    "Description": "Trade for a loot llama!",
-    "IsPermanent": true,
+    "ItemName": "Legendary Trap Token",
+    "ItemDescription": "Trade for a loot llama!",
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_generic_trap_sr.uasset",
     "ImagePaths": {
@@ -1359,9 +1254,8 @@
   "AccountResource:voucher_generic_trap_vr": {
     "Type": "AccountResource",
     "Name": "Voucher_Generic_Trap_VR",
-    "DisplayName": "Epic Trap Token",
-    "Description": "Trade for a loot llama!",
-    "IsPermanent": true,
+    "ItemName": "Epic Trap Token",
+    "ItemDescription": "Trade for a loot llama!",
     "Rarity": "Epic",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_generic_trap_vr.uasset",
     "ImagePaths": {
@@ -1372,9 +1266,8 @@
   "AccountResource:voucher_generic_weapon_r": {
     "Type": "AccountResource",
     "Name": "Voucher_Generic_Weapon_R",
-    "DisplayName": "Rare Weapon Token",
-    "Description": "Trade for a loot llama!",
-    "IsPermanent": true,
+    "ItemName": "Rare Weapon Token",
+    "ItemDescription": "Trade for a loot llama!",
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_generic_weapon_r.uasset",
     "ImagePaths": {
@@ -1385,9 +1278,8 @@
   "AccountResource:voucher_generic_weapon_sr": {
     "Type": "AccountResource",
     "Name": "Voucher_Generic_Weapon_SR",
-    "DisplayName": "Legendary Weapon Token",
-    "Description": "Trade for a loot llama!",
-    "IsPermanent": true,
+    "ItemName": "Legendary Weapon Token",
+    "ItemDescription": "Trade for a loot llama!",
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_generic_weapon_sr.uasset",
     "ImagePaths": {
@@ -1398,9 +1290,8 @@
   "AccountResource:voucher_generic_weapon_vr": {
     "Type": "AccountResource",
     "Name": "Voucher_Generic_Weapon_VR",
-    "DisplayName": "Epic Weapon Token",
-    "Description": "Trade for a loot llama!",
-    "IsPermanent": true,
+    "ItemName": "Epic Weapon Token",
+    "ItemDescription": "Trade for a loot llama!",
     "Rarity": "Epic",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_generic_weapon_vr.uasset",
     "ImagePaths": {
@@ -1411,9 +1302,8 @@
   "AccountResource:voucher_generic_worker_r": {
     "Type": "AccountResource",
     "Name": "Voucher_Generic_Worker_R",
-    "DisplayName": "Rare Survivor Token",
-    "Description": "Trade for a loot llama!",
-    "IsPermanent": true,
+    "ItemName": "Rare Survivor Token",
+    "ItemDescription": "Trade for a loot llama!",
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_generic_worker_r.uasset",
     "ImagePaths": {
@@ -1424,9 +1314,8 @@
   "AccountResource:voucher_generic_worker_sr": {
     "Type": "AccountResource",
     "Name": "Voucher_Generic_Worker_SR",
-    "DisplayName": "Legendary Survivor Token",
-    "Description": "Trade for a loot llama!",
-    "IsPermanent": true,
+    "ItemName": "Legendary Survivor Token",
+    "ItemDescription": "Trade for a loot llama!",
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_generic_worker_sr.uasset",
     "ImagePaths": {
@@ -1437,9 +1326,8 @@
   "AccountResource:voucher_generic_worker_vr": {
     "Type": "AccountResource",
     "Name": "Voucher_Generic_Worker_VR",
-    "DisplayName": "Epic Survivor Token",
-    "Description": "Trade for a loot llama!",
-    "IsPermanent": true,
+    "ItemName": "Epic Survivor Token",
+    "ItemDescription": "Trade for a loot llama!",
     "Rarity": "Epic",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_generic_worker_vr.uasset",
     "ImagePaths": {
@@ -1450,9 +1338,8 @@
   "AccountResource:voucher_herobuyback": {
     "Type": "AccountResource",
     "Name": "Voucher_HeroBuyback",
-    "DisplayName": "Hero Recruitment Voucher",
-    "Description": "This token can be redeemed for Legendary or Mythic event Heroes in the Collection Book!",
-    "IsPermanent": true,
+    "ItemName": "Hero Recruitment Voucher",
+    "ItemDescription": "This token can be redeemed for Legendary or Mythic event Heroes in the Collection Book!",
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_herobuyback.uasset",
     "ImagePaths": {
@@ -1463,9 +1350,8 @@
   "AccountResource:voucher_item_buyback": {
     "Type": "AccountResource",
     "Name": "Voucher_Item_Buyback",
-    "DisplayName": "Weapon Research Voucher",
-    "Description": "This token can be redeemed for Legendary or Mythic event Weapons in the Collection Book!",
-    "IsPermanent": true,
+    "ItemName": "Weapon Research Voucher",
+    "ItemDescription": "This token can be redeemed for Legendary or Mythic event Weapons in the Collection Book!",
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/persistentresources/voucher_item_buyback.uasset",
     "ImagePaths": {

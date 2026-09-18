@@ -2,8 +2,7 @@
   "HomebaseNode:commanderlevel_rpcollection": {
     "Type": "HomebaseNode",
     "Name": "CommanderLevel_RPCollection",
-    "DisplayName": "Research Lab Upgrade",
-    "IsPermanent": true,
+    "ItemName": "Research Lab Upgrade",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/commanderlevel_rpcollection.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-Research-128.png",
@@ -13,8 +12,7 @@
   "HomebaseNode:placeholder_defenderslots": {
     "Type": "HomebaseNode",
     "Name": "Placeholder_DefenderSlots",
-    "DisplayName": "Placeholder!!! Defender Slots 123",
-    "IsPermanent": true,
+    "ItemName": "Placeholder!!! Defender Slots 123",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/placeholder_defenderslots.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-ST-Surv-EngineeringSquad-128.png",
@@ -24,8 +22,7 @@
   "HomebaseNode:questreward_buildingresourcecap": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_BuildingResourceCap",
-    "DisplayName": "Increase Building Resource Capacity",
-    "IsPermanent": true,
+    "ItemName": "Increase Building Resource Capacity",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_buildingresourcecap.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\Icon-NH-StarterResource-128.png",
@@ -35,8 +32,7 @@
   "HomebaseNode:questreward_buildingresourcecap2": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_BuildingResourceCap2",
-    "DisplayName": "Increase Building Resource Capacity",
-    "IsPermanent": true,
+    "ItemName": "Increase Building Resource Capacity",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_buildingresourcecap2.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\Icon-NH-StarterResource-128.png",
@@ -46,8 +42,7 @@
   "HomebaseNode:questreward_buildingresourcecap3": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_BuildingResourceCap3",
-    "DisplayName": "Increase Building Resource Capacity",
-    "IsPermanent": true,
+    "ItemName": "Increase Building Resource Capacity",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_buildingresourcecap3.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\Icon-NH-StarterResource-128.png",
@@ -57,8 +52,7 @@
   "HomebaseNode:questreward_buildingupgradelevel": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_BuildingUpgradeLevel",
-    "DisplayName": "Increase Building Upgrade Level",
-    "IsPermanent": true,
+    "ItemName": "Increase Building Upgrade Level",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_buildingupgradelevel.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-BuildingSkill-128.png",
@@ -68,8 +62,7 @@
   "HomebaseNode:questreward_buildingupgradelevel2": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_BuildingUpgradeLevel2",
-    "DisplayName": "Increase Building Upgrade Level",
-    "IsPermanent": true,
+    "ItemName": "Increase Building Upgrade Level",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_buildingupgradelevel2.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-BuildingSkill-128.png",
@@ -79,8 +72,7 @@
   "HomebaseNode:questreward_cannyvalley_squad_ssd1": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_CannyValley_Squad_SSD1",
-    "DisplayName": "Scouting Party Slots 4, 5 and 6",
-    "IsPermanent": true,
+    "ItemName": "Scouting Party Slots 4, 5 and 6",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_cannyvalley_squad_ssd1.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-ST-Surv-ScoutingPartySquad-128.png",
@@ -90,8 +82,7 @@
   "HomebaseNode:questreward_cannyvalley_squad_ssd2": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_CannyValley_Squad_SSD2",
-    "DisplayName": "Fire Team Alpha Slots 4, 5 and 6",
-    "IsPermanent": true,
+    "ItemName": "Fire Team Alpha Slots 4, 5 and 6",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_cannyvalley_squad_ssd2.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-ST-Surv-FireTeamAlphaSquad-128.png",
@@ -101,8 +92,7 @@
   "HomebaseNode:questreward_cannyvalley_squad_ssd3": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_CannyValley_Squad_SSD3",
-    "DisplayName": "EMT Squad Slots 4, 5 and 6",
-    "IsPermanent": true,
+    "ItemName": "EMT Squad Slots 4, 5 and 6",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_cannyvalley_squad_ssd3.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-ST-Surv-EMTSquad-128.png",
@@ -112,8 +102,7 @@
   "HomebaseNode:questreward_cannyvalley_squad_ssd4": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_CannyValley_Squad_SSD4",
-    "DisplayName": "Corps of Engineering Slots 4, 5 and 6",
-    "IsPermanent": true,
+    "ItemName": "Corps of Engineering Slots 4, 5 and 6",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_cannyvalley_squad_ssd4.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-ST-Surv-EngineeringSquad-128.png",
@@ -123,8 +112,7 @@
   "HomebaseNode:questreward_cannyvalley_squad_ssd5": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_CannyValley_Squad_SSD5",
-    "DisplayName": "Scouting Party and Fire Team Alpha Slot 7",
-    "IsPermanent": true,
+    "ItemName": "Scouting Party and Fire Team Alpha Slot 7",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_cannyvalley_squad_ssd5.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-Nav-Squad-128.png",
@@ -134,8 +122,7 @@
   "HomebaseNode:questreward_cannyvalley_squad_ssd6": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_CannyValley_Squad_SSD6",
-    "DisplayName": "EMT Squad and Corps of Engineering Slot 7",
-    "IsPermanent": true,
+    "ItemName": "EMT Squad and Corps of Engineering Slot 7",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_cannyvalley_squad_ssd6.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-Nav-Squad-128.png",
@@ -145,8 +132,7 @@
   "HomebaseNode:questreward_evolution": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_Evolution",
-    "DisplayName": "2-Star Evolution",
-    "IsPermanent": true,
+    "ItemName": "2-Star Evolution",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_evolution.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\Stars-Full-128.png",
@@ -156,8 +142,7 @@
   "HomebaseNode:questreward_evolution2": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_Evolution2",
-    "DisplayName": "3-Star Evolution",
-    "IsPermanent": true,
+    "ItemName": "3-Star Evolution",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_evolution2.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\Stars-Full-128.png",
@@ -167,8 +152,7 @@
   "HomebaseNode:questreward_evolution3": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_Evolution3",
-    "DisplayName": "4-Star Evolution",
-    "IsPermanent": true,
+    "ItemName": "4-Star Evolution",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_evolution3.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\Stars-Full-128.png",
@@ -178,8 +162,7 @@
   "HomebaseNode:questreward_evolution4": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_Evolution4",
-    "DisplayName": "5-Star Evolution",
-    "IsPermanent": true,
+    "ItemName": "5-Star Evolution",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_evolution4.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\Stars-Full-128.png",
@@ -189,8 +172,7 @@
   "HomebaseNode:questreward_expedition_dirtbike": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_Expedition_DirtBike",
-    "DisplayName": "Dirt Bike Slot 1",
-    "IsPermanent": true,
+    "ItemName": "Dirt Bike Slot 1",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_expedition_dirtbike.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-ST-Dirtbike-128.png",
@@ -200,8 +182,7 @@
   "HomebaseNode:questreward_expedition_dirtbike2": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_Expedition_DirtBike2",
-    "DisplayName": "Dirt Bike Slot 2",
-    "IsPermanent": true,
+    "ItemName": "Dirt Bike Slot 2",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_expedition_dirtbike2.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-ST-Dirtbike-128.png",
@@ -211,8 +192,7 @@
   "HomebaseNode:questreward_expedition_dirtbike3": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_Expedition_DirtBike3",
-    "DisplayName": "Dirt Bike Slot 3",
-    "IsPermanent": true,
+    "ItemName": "Dirt Bike Slot 3",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_expedition_dirtbike3.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-ST-Dirtbike-128.png",
@@ -222,8 +202,7 @@
   "HomebaseNode:questreward_expedition_helicopter": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_Expedition_Helicopter",
-    "DisplayName": "Helicopter Slot 1",
-    "IsPermanent": true,
+    "ItemName": "Helicopter Slot 1",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_expedition_helicopter.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-ST-Helicopter-128.png",
@@ -233,8 +212,7 @@
   "HomebaseNode:questreward_expedition_helicopter2": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_Expedition_Helicopter2",
-    "DisplayName": "Helicopter Slot 2",
-    "IsPermanent": true,
+    "ItemName": "Helicopter Slot 2",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_expedition_helicopter2.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-ST-Helicopter-128.png",
@@ -244,8 +222,7 @@
   "HomebaseNode:questreward_expedition_helicopter3": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_Expedition_Helicopter3",
-    "DisplayName": "Helicopter Slot 3",
-    "IsPermanent": true,
+    "ItemName": "Helicopter Slot 3",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_expedition_helicopter3.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-ST-Helicopter-128.png",
@@ -255,8 +232,7 @@
   "HomebaseNode:questreward_expedition_helicopter4": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_Expedition_Helicopter4",
-    "DisplayName": "Helicopter Slot 4",
-    "IsPermanent": true,
+    "ItemName": "Helicopter Slot 4",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_expedition_helicopter4.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-ST-Helicopter-128.png",
@@ -266,8 +242,7 @@
   "HomebaseNode:questreward_expedition_propplane": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_Expedition_PropPlane",
-    "DisplayName": "Prop Plane Slot 1",
-    "IsPermanent": true,
+    "ItemName": "Prop Plane Slot 1",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_expedition_propplane.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-ST-Airplane-128.png",
@@ -277,8 +252,7 @@
   "HomebaseNode:questreward_expedition_propplane2": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_Expedition_PropPlane2",
-    "DisplayName": "Prop Plane Slot 2",
-    "IsPermanent": true,
+    "ItemName": "Prop Plane Slot 2",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_expedition_propplane2.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-ST-Airplane-128.png",
@@ -288,8 +262,7 @@
   "HomebaseNode:questreward_expedition_propplane3": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_Expedition_PropPlane3",
-    "DisplayName": "Prop Plane Slot 3",
-    "IsPermanent": true,
+    "ItemName": "Prop Plane Slot 3",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_expedition_propplane3.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-ST-Airplane-128.png",
@@ -299,8 +272,7 @@
   "HomebaseNode:questreward_expedition_rowboat": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_Expedition_RowBoat",
-    "DisplayName": "Row Boat Slot 1",
-    "IsPermanent": true,
+    "ItemName": "Row Boat Slot 1",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_expedition_rowboat.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-ST-Rowboat-128.png",
@@ -310,8 +282,7 @@
   "HomebaseNode:questreward_expedition_rowboat2": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_Expedition_RowBoat2",
-    "DisplayName": "Row Boat Slot 2",
-    "IsPermanent": true,
+    "ItemName": "Row Boat Slot 2",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_expedition_rowboat2.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-ST-Rowboat-128.png",
@@ -321,8 +292,7 @@
   "HomebaseNode:questreward_expedition_rowboat3": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_Expedition_RowBoat3",
-    "DisplayName": "Row Boat Slot 3",
-    "IsPermanent": true,
+    "ItemName": "Row Boat Slot 3",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_expedition_rowboat3.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-ST-Rowboat-128.png",
@@ -332,8 +302,7 @@
   "HomebaseNode:questreward_expedition_rowboat4": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_Expedition_RowBoat4",
-    "DisplayName": "Row Boat Slot 4",
-    "IsPermanent": true,
+    "ItemName": "Row Boat Slot 4",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_expedition_rowboat4.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-ST-Rowboat-128.png",
@@ -343,8 +312,7 @@
   "HomebaseNode:questreward_expedition_speedboat": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_Expedition_SpeedBoat",
-    "DisplayName": "Speed Boat Slot 1",
-    "IsPermanent": true,
+    "ItemName": "Speed Boat Slot 1",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_expedition_speedboat.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-ST-Speedboat-128.png",
@@ -354,8 +322,7 @@
   "HomebaseNode:questreward_expedition_speedboat2": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_Expedition_SpeedBoat2",
-    "DisplayName": "Speed Boat Slot 2",
-    "IsPermanent": true,
+    "ItemName": "Speed Boat Slot 2",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_expedition_speedboat2.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-ST-Speedboat-128.png",
@@ -365,8 +332,7 @@
   "HomebaseNode:questreward_expedition_speedboat3": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_Expedition_SpeedBoat3",
-    "DisplayName": "Speed Boat Slot 3",
-    "IsPermanent": true,
+    "ItemName": "Speed Boat Slot 3",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_expedition_speedboat3.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-ST-Speedboat-128.png",
@@ -376,8 +342,7 @@
   "HomebaseNode:questreward_expedition_speedboat4": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_Expedition_SpeedBoat4",
-    "DisplayName": "Speed Boat Slot 4",
-    "IsPermanent": true,
+    "ItemName": "Speed Boat Slot 4",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_expedition_speedboat4.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-ST-Speedboat-128.png",
@@ -387,8 +352,7 @@
   "HomebaseNode:questreward_expedition_speedboat5": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_Expedition_SpeedBoat5",
-    "DisplayName": "Speed Boat Slot 5",
-    "IsPermanent": true,
+    "ItemName": "Speed Boat Slot 5",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_expedition_speedboat5.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-ST-Speedboat-128.png",
@@ -398,8 +362,7 @@
   "HomebaseNode:questreward_expedition_truck": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_Expedition_Truck",
-    "DisplayName": "Truck Slot 1",
-    "IsPermanent": true,
+    "ItemName": "Truck Slot 1",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_expedition_truck.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-ST-Struck-128.png",
@@ -409,8 +372,7 @@
   "HomebaseNode:questreward_expedition_truck2": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_Expedition_Truck2",
-    "DisplayName": "Truck Slot 2",
-    "IsPermanent": true,
+    "ItemName": "Truck Slot 2",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_expedition_truck2.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-ST-Struck-128.png",
@@ -420,8 +382,7 @@
   "HomebaseNode:questreward_expedition_truck3": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_Expedition_Truck3",
-    "DisplayName": "Truck Slot 3",
-    "IsPermanent": true,
+    "ItemName": "Truck Slot 3",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_expedition_truck3.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-ST-Struck-128.png",
@@ -431,8 +392,7 @@
   "HomebaseNode:questreward_expedition_truck4": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_Expedition_Truck4",
-    "DisplayName": "Truck Slot 4",
-    "IsPermanent": true,
+    "ItemName": "Truck Slot 4",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_expedition_truck4.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-ST-Struck-128.png",
@@ -442,8 +402,7 @@
   "HomebaseNode:questreward_expedition_truck5": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_Expedition_Truck5",
-    "DisplayName": "Truck Slot 5",
-    "IsPermanent": true,
+    "ItemName": "Truck Slot 5",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_expedition_truck5.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-ST-Struck-128.png",
@@ -453,8 +412,7 @@
   "HomebaseNode:questreward_feature_defenderlevelup": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_Feature_DefenderLevelUp",
-    "DisplayName": "Level Up: Defenders",
-    "IsPermanent": true,
+    "ItemName": "Level Up: Defenders",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_feature_defenderlevelup.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\Icon-DefenderMelee.png",
@@ -464,8 +422,7 @@
   "HomebaseNode:questreward_feature_herolevelup": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_Feature_HeroLevelUp",
-    "DisplayName": "Level Up: Heroes",
-    "IsPermanent": true,
+    "ItemName": "Level Up: Heroes",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_feature_herolevelup.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-MAJOR.png",
@@ -475,8 +432,7 @@
   "HomebaseNode:questreward_feature_reperk": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_Feature_RePerk",
-    "DisplayName": "Perk Recombobulation",
-    "IsPermanent": true,
+    "ItemName": "Perk Recombobulation",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_feature_reperk.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Items-WeaponPerkUp-Generic.png",
@@ -486,8 +442,7 @@
   "HomebaseNode:questreward_feature_survivorlevelup": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_Feature_SurvivorLevelUp",
-    "DisplayName": "Level Up: Survivors",
-    "IsPermanent": true,
+    "ItemName": "Level Up: Survivors",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_feature_survivorlevelup.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Director.png",
@@ -497,8 +452,7 @@
   "HomebaseNode:questreward_feature_survivorslotting": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_Feature_SurvivorSlotting",
-    "DisplayName": "Survivor Slotting",
-    "IsPermanent": true,
+    "ItemName": "Survivor Slotting",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_feature_survivorslotting.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-Survivor-128.png",
@@ -508,8 +462,7 @@
   "HomebaseNode:questreward_feature_traplevelup": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_Feature_TrapLevelUp",
-    "DisplayName": "Level Up: Trap Schematics",
-    "IsPermanent": true,
+    "ItemName": "Level Up: Trap Schematics",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_feature_traplevelup.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-Traps-128.png",
@@ -519,8 +472,7 @@
   "HomebaseNode:questreward_feature_weaponlevelup": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_Feature_WeaponLevelUp",
-    "DisplayName": "Level Up: Weapon Schematics",
-    "IsPermanent": true,
+    "ItemName": "Level Up: Weapon Schematics",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_feature_weaponlevelup.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Clip.png",
@@ -530,8 +482,7 @@
   "HomebaseNode:questreward_herosupport_slot": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_HeroSupport_Slot",
-    "DisplayName": "Hero Support Operative",
-    "IsPermanent": true,
+    "ItemName": "Hero Support Operative",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_herosupport_slot.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-Support-128.png",
@@ -541,8 +492,7 @@
   "HomebaseNode:questreward_herotactical_slot": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_HeroTactical_Slot",
-    "DisplayName": "Hero Tactical Operative",
-    "IsPermanent": true,
+    "ItemName": "Hero Tactical Operative",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_herotactical_slot.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-Tactical-128.png",
@@ -552,8 +502,7 @@
   "HomebaseNode:questreward_homebase_defender": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_Homebase_Defender",
-    "DisplayName": "Storm Shield Defender 1/5",
-    "IsPermanent": true,
+    "ItemName": "Storm Shield Defender 1/5",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_homebase_defender.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\Drilldown-Icon-SquadSlot-Defenders-XL.png",
@@ -563,8 +512,7 @@
   "HomebaseNode:questreward_homebase_defender2": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_Homebase_Defender2",
-    "DisplayName": "Storm Shield Defender 2/5",
-    "IsPermanent": true,
+    "ItemName": "Storm Shield Defender 2/5",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_homebase_defender2.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\Drilldown-Icon-SquadSlot-Defenders-XL.png",
@@ -574,8 +522,7 @@
   "HomebaseNode:questreward_homebase_defender3": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_Homebase_Defender3",
-    "DisplayName": "Storm Shield Defender 3/5",
-    "IsPermanent": true,
+    "ItemName": "Storm Shield Defender 3/5",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_homebase_defender3.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\Drilldown-Icon-SquadSlot-Defenders-XL.png",
@@ -585,8 +532,7 @@
   "HomebaseNode:questreward_homebase_defender4": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_Homebase_Defender4",
-    "DisplayName": "Storm Shield Defender 4/5",
-    "IsPermanent": true,
+    "ItemName": "Storm Shield Defender 4/5",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_homebase_defender4.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\Drilldown-Icon-SquadSlot-Defenders-XL.png",
@@ -596,8 +542,7 @@
   "HomebaseNode:questreward_homebase_defender5": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_Homebase_Defender5",
-    "DisplayName": "Storm Shield Defender 5/5",
-    "IsPermanent": true,
+    "ItemName": "Storm Shield Defender 5/5",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_homebase_defender5.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\Drilldown-Icon-SquadSlot-Defenders-XL.png",
@@ -607,8 +552,7 @@
   "HomebaseNode:questreward_mission_defender": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_Mission_Defender",
-    "DisplayName": "Mission Defender 1/3",
-    "IsPermanent": true,
+    "ItemName": "Mission Defender 1/3",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_mission_defender.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-Defenders-128.png",
@@ -618,8 +562,7 @@
   "HomebaseNode:questreward_mission_defender2": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_Mission_Defender2",
-    "DisplayName": "Mission Defender 2/3",
-    "IsPermanent": true,
+    "ItemName": "Mission Defender 2/3",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_mission_defender2.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-Defenders-128.png",
@@ -629,8 +572,7 @@
   "HomebaseNode:questreward_mission_defender3": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_Mission_Defender3",
-    "DisplayName": "Mission Defender 3/3",
-    "IsPermanent": true,
+    "ItemName": "Mission Defender 3/3",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_mission_defender3.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-Defenders-128.png",
@@ -640,8 +582,7 @@
   "HomebaseNode:questreward_newfollower1_slot": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_NewFollower1_Slot",
-    "DisplayName": "Hero Team Support 1",
-    "IsPermanent": true,
+    "ItemName": "Hero Team Support 1",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_newfollower1_slot.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-NewSupportSlot-128x.png",
@@ -651,8 +592,7 @@
   "HomebaseNode:questreward_newfollower2_slot": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_NewFollower2_Slot",
-    "DisplayName": "Hero Team Support 2",
-    "IsPermanent": true,
+    "ItemName": "Hero Team Support 2",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_newfollower2_slot.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-NewSupportSlot-128x.png",
@@ -662,8 +602,7 @@
   "HomebaseNode:questreward_newfollower3_slot": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_NewFollower3_Slot",
-    "DisplayName": "Hero Team Support 3",
-    "IsPermanent": true,
+    "ItemName": "Hero Team Support 3",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_newfollower3_slot.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-NewSupportSlot-128x.png",
@@ -673,8 +612,7 @@
   "HomebaseNode:questreward_newfollower4_slot": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_NewFollower4_Slot",
-    "DisplayName": "Hero Team Support 4",
-    "IsPermanent": true,
+    "ItemName": "Hero Team Support 4",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_newfollower4_slot.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-NewSupportSlot-128x.png",
@@ -684,8 +622,7 @@
   "HomebaseNode:questreward_newfollower5_slot": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_NewFollower5_Slot",
-    "DisplayName": "Hero Team Support 5",
-    "IsPermanent": true,
+    "ItemName": "Hero Team Support 5",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_newfollower5_slot.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-NewSupportSlot-128x.png",
@@ -695,8 +632,7 @@
   "HomebaseNode:questreward_newheroloadout2_dummy": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_NewHeroLoadout2_Dummy",
-    "DisplayName": "Hero Loadout",
-    "IsPermanent": true,
+    "ItemName": "Hero Loadout",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_newheroloadout2_dummy.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-NewLoadoutConfiguration-128x.png",
@@ -706,8 +642,7 @@
   "HomebaseNode:questreward_newheroloadout3_dummy": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_NewHeroLoadout3_Dummy",
-    "DisplayName": "Hero Loadout",
-    "IsPermanent": true,
+    "ItemName": "Hero Loadout",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_newheroloadout3_dummy.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-NewLoadoutConfiguration-128x.png",
@@ -717,8 +652,7 @@
   "HomebaseNode:questreward_newheroloadout4_dummy": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_NewHeroLoadout4_Dummy",
-    "DisplayName": "Hero Loadout",
-    "IsPermanent": true,
+    "ItemName": "Hero Loadout",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_newheroloadout4_dummy.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-NewLoadoutConfiguration-128x.png",
@@ -728,8 +662,7 @@
   "HomebaseNode:questreward_newheroloadout5_dummy": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_NewHeroLoadout5_Dummy",
-    "DisplayName": "Hero Loadout",
-    "IsPermanent": true,
+    "ItemName": "Hero Loadout",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_newheroloadout5_dummy.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-NewLoadoutConfiguration-128x.png",
@@ -739,8 +672,7 @@
   "HomebaseNode:questreward_newheroloadout6_dummy": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_NewHeroLoadout6_Dummy",
-    "DisplayName": "Hero Loadout",
-    "IsPermanent": true,
+    "ItemName": "Hero Loadout",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_newheroloadout6_dummy.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-NewLoadoutConfiguration-128x.png",
@@ -750,8 +682,7 @@
   "HomebaseNode:questreward_newheroloadout7_dummy": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_NewHeroLoadout7_Dummy",
-    "DisplayName": "Hero Loadout",
-    "IsPermanent": true,
+    "ItemName": "Hero Loadout",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_newheroloadout7_dummy.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-NewLoadoutConfiguration-128x.png",
@@ -761,8 +692,7 @@
   "HomebaseNode:questreward_newheroloadout8_dummy": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_NewHeroLoadout8_Dummy",
-    "DisplayName": "Hero Loadout",
-    "IsPermanent": true,
+    "ItemName": "Hero Loadout",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_newheroloadout8_dummy.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-NewLoadoutConfiguration-128x.png",
@@ -772,8 +702,7 @@
   "HomebaseNode:questreward_pickaxe": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_Pickaxe",
-    "DisplayName": "Pickaxe Upgrade",
-    "IsPermanent": true,
+    "ItemName": "Pickaxe Upgrade",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_pickaxe.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\Icon-OutpostTab-HarvestOptimizer-L.png",
@@ -783,8 +712,7 @@
   "HomebaseNode:questreward_plankerton_squad_ssd1": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_Plankerton_Squad_SSD1",
-    "DisplayName": "Squad: Gadgeteers",
-    "IsPermanent": true,
+    "ItemName": "Squad: Gadgeteers",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_plankerton_squad_ssd1.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-ST-Surv-Gadgeteers-128.png",
@@ -794,8 +722,7 @@
   "HomebaseNode:questreward_plankerton_squad_ssd2": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_Plankerton_Squad_SSD2",
-    "DisplayName": "Squad: Close Assault Squad",
-    "IsPermanent": true,
+    "ItemName": "Squad: Close Assault Squad",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_plankerton_squad_ssd2.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-ST-Surv-CloseAssaultSquad-128.png",
@@ -805,8 +732,7 @@
   "HomebaseNode:questreward_plankerton_squad_ssd3": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_Plankerton_Squad_SSD3",
-    "DisplayName": "Squad: Training Team",
-    "IsPermanent": true,
+    "ItemName": "Squad: Training Team",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_plankerton_squad_ssd3.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-ST-Surv-TrainingTeamSquad-128.png",
@@ -816,8 +742,7 @@
   "HomebaseNode:questreward_plankerton_squad_ssd4": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_Plankerton_Squad_SSD4",
-    "DisplayName": "Squad: The Think Tank",
-    "IsPermanent": true,
+    "ItemName": "Squad: The Think Tank",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_plankerton_squad_ssd4.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-ST-Surv-ThinkTankSquad-128.png",
@@ -827,8 +752,7 @@
   "HomebaseNode:questreward_plankerton_squad_ssd5": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_Plankerton_Squad_SSD5",
-    "DisplayName": "Gadgeteers and Close Assault Squad Slot 3",
-    "IsPermanent": true,
+    "ItemName": "Gadgeteers and Close Assault Squad Slot 3",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_plankerton_squad_ssd5.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-Nav-Squad-128.png",
@@ -838,8 +762,7 @@
   "HomebaseNode:questreward_plankerton_squad_ssd6": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_Plankerton_Squad_SSD6",
-    "DisplayName": "Training Team and The Think Tank Slot 3",
-    "IsPermanent": true,
+    "ItemName": "Training Team and The Think Tank Slot 3",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_plankerton_squad_ssd6.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-Nav-Squad-128.png",
@@ -849,8 +772,7 @@
   "HomebaseNode:questreward_recyclecollection": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_RecycleCollection",
-    "DisplayName": "Recycling and Collection",
-    "IsPermanent": true,
+    "ItemName": "Recycling and Collection",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_recyclecollection.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-SlotIcon-Recycle-128.png",
@@ -860,8 +782,7 @@
   "HomebaseNode:questreward_stonewood_squad_ssd1": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_Stonewood_Squad_SSD1",
-    "DisplayName": "Squad: Scouting Party",
-    "IsPermanent": true,
+    "ItemName": "Squad: Scouting Party",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_stonewood_squad_ssd1.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-ST-Surv-ScoutingPartySquad-128.png",
@@ -871,8 +792,7 @@
   "HomebaseNode:questreward_stonewood_squad_ssd2": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_Stonewood_Squad_SSD2",
-    "DisplayName": "Scouting Party Lead",
-    "IsPermanent": true,
+    "ItemName": "Scouting Party Lead",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_stonewood_squad_ssd2.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-ST-Surv-ScoutingPartySquad-128.png",
@@ -882,8 +802,7 @@
   "HomebaseNode:questreward_stonewood_squad_ssd3": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_Stonewood_Squad_SSD3",
-    "DisplayName": "Scouting Party Slot 3",
-    "IsPermanent": true,
+    "ItemName": "Scouting Party Slot 3",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_stonewood_squad_ssd3.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-ST-Surv-ScoutingPartySquad-128.png",
@@ -893,8 +812,7 @@
   "HomebaseNode:questreward_stonewood_squad_ssd4": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_Stonewood_Squad_SSD4",
-    "DisplayName": "Squad: Fire Team Alpha",
-    "IsPermanent": true,
+    "ItemName": "Squad: Fire Team Alpha",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_stonewood_squad_ssd4.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-ST-Surv-FireTeamAlphaSquad-128.png",
@@ -904,8 +822,7 @@
   "HomebaseNode:questreward_stonewood_squad_ssd5": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_Stonewood_Squad_SSD5",
-    "DisplayName": "Squad: EMT Squad",
-    "IsPermanent": true,
+    "ItemName": "Squad: EMT Squad",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_stonewood_squad_ssd5.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-ST-Surv-EMTSquad-128.png",
@@ -915,8 +832,7 @@
   "HomebaseNode:questreward_stonewood_squad_ssd6": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_Stonewood_Squad_SSD6",
-    "DisplayName": "Squad: Corps of Engineering",
-    "IsPermanent": true,
+    "ItemName": "Squad: Corps of Engineering",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_stonewood_squad_ssd6.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-ST-Surv-EngineeringSquad-128.png",
@@ -926,8 +842,7 @@
   "HomebaseNode:questreward_teamperk_slot1": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_TeamPerk_Slot1",
-    "DisplayName": "Team Perk",
-    "IsPermanent": true,
+    "ItemName": "Team Perk",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_teamperk_slot1.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-TeamPerkSlot-128x.png",
@@ -937,8 +852,7 @@
   "HomebaseNode:questreward_twinepeaks_squad_ssd1": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_TwinePeaks_Squad_SSD1",
-    "DisplayName": "Gadgeteers Slots 4, 5 and 6",
-    "IsPermanent": true,
+    "ItemName": "Gadgeteers Slots 4, 5 and 6",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_twinepeaks_squad_ssd1.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-ST-Surv-Gadgeteers-128.png",
@@ -948,8 +862,7 @@
   "HomebaseNode:questreward_twinepeaks_squad_ssd2": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_TwinePeaks_Squad_SSD2",
-    "DisplayName": "Close Assault Squad Slots 4, 5 and 6",
-    "IsPermanent": true,
+    "ItemName": "Close Assault Squad Slots 4, 5 and 6",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_twinepeaks_squad_ssd2.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-ST-Surv-CloseAssaultSquad-128.png",
@@ -959,8 +872,7 @@
   "HomebaseNode:questreward_twinepeaks_squad_ssd3": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_TwinePeaks_Squad_SSD3",
-    "DisplayName": "Training Team Slots 4, 5 and 6",
-    "IsPermanent": true,
+    "ItemName": "Training Team Slots 4, 5 and 6",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_twinepeaks_squad_ssd3.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-ST-Surv-TrainingTeamSquad-128.png",
@@ -970,8 +882,7 @@
   "HomebaseNode:questreward_twinepeaks_squad_ssd4": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_TwinePeaks_Squad_SSD4",
-    "DisplayName": "The Think Tank Slots 4, 5 and 6",
-    "IsPermanent": true,
+    "ItemName": "The Think Tank Slots 4, 5 and 6",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_twinepeaks_squad_ssd4.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-ST-Surv-ThinkTankSquad-128.png",
@@ -981,8 +892,7 @@
   "HomebaseNode:questreward_twinepeaks_squad_ssd5": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_TwinePeaks_Squad_SSD5",
-    "DisplayName": "Gadgeteers and Close Assault Squad Slot 7",
-    "IsPermanent": true,
+    "ItemName": "Gadgeteers and Close Assault Squad Slot 7",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_twinepeaks_squad_ssd5.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-Nav-Squad-128.png",
@@ -992,8 +902,7 @@
   "HomebaseNode:questreward_twinepeaks_squad_ssd6": {
     "Type": "HomebaseNode",
     "Name": "QuestReward_TwinePeaks_Squad_SSD6",
-    "DisplayName": "Training Team and The Think Tank Slot 7",
-    "IsPermanent": true,
+    "ItemName": "Training Team and The Think Tank Slot 7",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/questreward_twinepeaks_squad_ssd6.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-Nav-Squad-128.png",
@@ -1003,8 +912,7 @@
   "HomebaseNode:skilltree_adrenalinerush": {
     "Type": "HomebaseNode",
     "Name": "SkillTree_AdrenalineRush",
-    "DisplayName": "Adrenaline Rush",
-    "IsPermanent": true,
+    "ItemName": "Adrenaline Rush",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/skilltree_adrenalinerush.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\Icon-Gadget-AdrenalineRush-128.png",
@@ -1014,8 +922,7 @@
   "HomebaseNode:skilltree_airstrike": {
     "Type": "HomebaseNode",
     "Name": "SkillTree_Airstrike",
-    "DisplayName": "Air Strike",
-    "IsPermanent": true,
+    "ItemName": "Air Strike",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/skilltree_airstrike.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\Icon-Gadget-Airstrike-128.png",
@@ -1025,8 +932,7 @@
   "HomebaseNode:skilltree_backpacksize": {
     "Type": "HomebaseNode",
     "Name": "SkillTree_BackpackSize",
-    "DisplayName": "Backpack Size",
-    "IsPermanent": true,
+    "ItemName": "Backpack Size",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/skilltree_backpacksize.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-Backpack-128.png",
@@ -1036,8 +942,7 @@
   "HomebaseNode:skilltree_banner": {
     "Type": "HomebaseNode",
     "Name": "SkillTree_Banner",
-    "DisplayName": "Banner",
-    "IsPermanent": true,
+    "ItemName": "Banner",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/skilltree_banner.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\Icon-Gadget-Banner-128.png",
@@ -1047,8 +952,7 @@
   "HomebaseNode:skilltree_buildandrepairspeed": {
     "Type": "HomebaseNode",
     "Name": "SkillTree_BuildAndRepairSpeed",
-    "DisplayName": "Build and Repair Speed",
-    "IsPermanent": true,
+    "ItemName": "Build and Repair Speed",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/skilltree_buildandrepairspeed.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-BuildingSpeed-128.png",
@@ -1058,8 +962,7 @@
   "HomebaseNode:skilltree_buildinghealth": {
     "Type": "HomebaseNode",
     "Name": "SkillTree_BuildingHealth",
-    "DisplayName": "Building Health",
-    "IsPermanent": true,
+    "ItemName": "Building Health",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/skilltree_buildinghealth.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-BuildingHealth-128.png",
@@ -1069,8 +972,7 @@
   "HomebaseNode:skilltree_hoverturret": {
     "Type": "HomebaseNode",
     "Name": "SkillTree_HoverTurret",
-    "DisplayName": "Hover Turret",
-    "IsPermanent": true,
+    "ItemName": "Hover Turret",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/skilltree_hoverturret.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\Icon-Gadget-TurretBot-128.png",
@@ -1080,8 +982,7 @@
   "HomebaseNode:skilltree_pickaxe": {
     "Type": "HomebaseNode",
     "Name": "SkillTree_Pickaxe",
-    "DisplayName": "Pickaxe Upgrade",
-    "IsPermanent": true,
+    "ItemName": "Pickaxe Upgrade",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/skilltree_pickaxe.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\Icon-OutpostTab-HarvestOptimizer-L.png",
@@ -1091,8 +992,7 @@
   "HomebaseNode:skilltree_proximitymine": {
     "Type": "HomebaseNode",
     "Name": "SkillTree_ProximityMine",
-    "DisplayName": "Proximity Mine",
-    "IsPermanent": true,
+    "ItemName": "Proximity Mine",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/skilltree_proximitymine.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\Icon-Gadget-ProximityMine-128.png",
@@ -1102,8 +1002,7 @@
   "HomebaseNode:skilltree_slowfield": {
     "Type": "HomebaseNode",
     "Name": "SkillTree_SlowField",
-    "DisplayName": "Slow Field",
-    "IsPermanent": true,
+    "ItemName": "Slow Field",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/skilltree_slowfield.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\Icon-Gadget-Slowfield-128.png",
@@ -1113,8 +1012,7 @@
   "HomebaseNode:skilltree_stormshieldstorage": {
     "Type": "HomebaseNode",
     "Name": "SkillTree_StormShieldStorage",
-    "DisplayName": "Storm Shield Storage Vault",
-    "IsPermanent": true,
+    "ItemName": "Storm Shield Storage Vault",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/skilltree_stormshieldstorage.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\Icon-OutpostTab-Storage-128.png",
@@ -1124,8 +1022,7 @@
   "HomebaseNode:skilltree_supplydrop": {
     "Type": "HomebaseNode",
     "Name": "SkillTree_SupplyDrop",
-    "DisplayName": "Supply Drop",
-    "IsPermanent": true,
+    "ItemName": "Supply Drop",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/skilltree_supplydrop.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\Icon-Gadget-SupplyDrop-128.png",
@@ -1135,8 +1032,7 @@
   "HomebaseNode:skilltree_teleporter": {
     "Type": "HomebaseNode",
     "Name": "SkillTree_Teleporter",
-    "DisplayName": "Teleporter",
-    "IsPermanent": true,
+    "ItemName": "Teleporter",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/skilltree_teleporter.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\Icon-Gadget-Teleporter-128.png",
@@ -1146,8 +1042,7 @@
   "HomebaseNode:startnode_commandcenter": {
     "Type": "HomebaseNode",
     "Name": "StartNode_CommandCenter",
-    "DisplayName": "Command Center",
-    "IsPermanent": true,
+    "ItemName": "Command Center",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/homebasenodes/startnode_commandcenter.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\Icon-Perk-Missing-M.png",

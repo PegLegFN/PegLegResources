@@ -2,10 +2,9 @@
   "Defender:did_defenderassault_basic_c_t00": {
     "Type": "Defender",
     "Name": "DID_DefenderAssault_Basic_C_T00",
-    "DisplayName": "Rifleman Trainee",
+    "ItemName": "Rifleman Trainee",
     "SubType": "Assault Defender",
-    "Description": "A defender trained to fight with assault weapons.",
-    "IsPermanent": true,
+    "ItemDescription": "A defender trained to fight with assault weapons.",
     "Rarity": "Common",
     "Tier": 1,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/defenders/did_defenderassault_basic_c_t00.uasset",
@@ -17,9 +16,9 @@
   "Defender:did_defenderassault_basic_c_t01": {
     "Type": "Defender",
     "Name": "DID_DefenderAssault_Basic_C_T01",
-    "DisplayName": "Common Assault Defender",
+    "ItemName": "Common Assault Defender",
     "SubType": "Assault Defender",
-    "Description": "A defender trained to fight with assault weapons.",
+    "ItemDescription": "A defender trained to fight with assault weapons.",
     "LevelToXPRow": "Defender_Common",
     "Rarity": "Common",
     "RecycleRecipe": {
@@ -43,9 +42,9 @@
   "Defender:did_defenderassault_basic_c_t02": {
     "Type": "Defender",
     "Name": "DID_DefenderAssault_Basic_C_T02",
-    "DisplayName": "Common Assault Defender",
+    "ItemName": "Common Assault Defender",
     "SubType": "Assault Defender",
-    "Description": "A defender trained to fight with assault weapons.",
+    "ItemDescription": "A defender trained to fight with assault weapons.",
     "LevelToXPRow": "Defender_Common",
     "Rarity": "Common",
     "RecycleRecipe": {
@@ -62,9 +61,9 @@
   "Defender:did_defenderassault_basic_m_r_t01": {
     "Type": "Defender",
     "Name": "DID_DefenderAssault_Basic_M_R_T01",
-    "DisplayName": "Rare Assault Defender",
+    "ItemName": "Rare Assault Defender",
     "SubType": "Assault Defender",
-    "Description": "A defender trained to fight with assault weapons.",
+    "ItemDescription": "A defender trained to fight with assault weapons.",
     "LevelToXPRow": "Defender_Rare",
     "Rarity": "Rare",
     "RecycleRecipe": {
@@ -90,9 +89,9 @@
   "Defender:did_defenderassault_basic_m_r_t02": {
     "Type": "Defender",
     "Name": "DID_DefenderAssault_Basic_M_R_T02",
-    "DisplayName": "Rare Assault Defender",
+    "ItemName": "Rare Assault Defender",
     "SubType": "Assault Defender",
-    "Description": "A defender trained to fight with assault weapons.",
+    "ItemDescription": "A defender trained to fight with assault weapons.",
     "LevelToXPRow": "Defender_Rare",
     "Rarity": "Rare",
     "RecycleRecipe": {
@@ -119,9 +118,9 @@
   "Defender:did_defenderassault_basic_m_r_t03": {
     "Type": "Defender",
     "Name": "DID_DefenderAssault_Basic_M_R_T03",
-    "DisplayName": "Rare Assault Defender",
+    "ItemName": "Rare Assault Defender",
     "SubType": "Assault Defender",
-    "Description": "A defender trained to fight with assault weapons.",
+    "ItemDescription": "A defender trained to fight with assault weapons.",
     "LevelToXPRow": "Defender_Rare",
     "Rarity": "Rare",
     "RecycleRecipe": {
@@ -149,9 +148,9 @@
   "Defender:did_defenderassault_basic_m_r_t04": {
     "Type": "Defender",
     "Name": "DID_DefenderAssault_Basic_M_R_T04",
-    "DisplayName": "Rare Assault Defender",
+    "ItemName": "Rare Assault Defender",
     "SubType": "Assault Defender",
-    "Description": "A defender trained to fight with assault weapons.",
+    "ItemDescription": "A defender trained to fight with assault weapons.",
     "LevelToXPRow": "Defender_Rare",
     "Rarity": "Rare",
     "RecycleRecipe": {
@@ -169,9 +168,9 @@
   "Defender:did_defenderassault_basic_m_sr_t01": {
     "Type": "Defender",
     "Name": "DID_DefenderAssault_Basic_M_SR_T01",
-    "DisplayName": "Legendary Assault Defender",
+    "ItemName": "Legendary Assault Defender",
     "SubType": "Assault Defender",
-    "Description": "A defender trained to fight with assault weapons.",
+    "ItemDescription": "A defender trained to fight with assault weapons.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -197,9 +196,9 @@
   "Defender:did_defenderassault_basic_m_sr_t02": {
     "Type": "Defender",
     "Name": "DID_DefenderAssault_Basic_M_SR_T02",
-    "DisplayName": "Legendary Assault Defender",
+    "ItemName": "Legendary Assault Defender",
     "SubType": "Assault Defender",
-    "Description": "A defender trained to fight with assault weapons.",
+    "ItemDescription": "A defender trained to fight with assault weapons.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -226,9 +225,9 @@
   "Defender:did_defenderassault_basic_m_sr_t03": {
     "Type": "Defender",
     "Name": "DID_DefenderAssault_Basic_M_SR_T03",
-    "DisplayName": "Legendary Assault Defender",
+    "ItemName": "Legendary Assault Defender",
     "SubType": "Assault Defender",
-    "Description": "A defender trained to fight with assault weapons.",
+    "ItemDescription": "A defender trained to fight with assault weapons.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -256,9 +255,9 @@
   "Defender:did_defenderassault_basic_m_sr_t04": {
     "Type": "Defender",
     "Name": "DID_DefenderAssault_Basic_M_SR_T04",
-    "DisplayName": "Legendary Assault Defender",
+    "ItemName": "Legendary Assault Defender",
     "SubType": "Assault Defender",
-    "Description": "A defender trained to fight with assault weapons.",
+    "ItemDescription": "A defender trained to fight with assault weapons.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -287,9 +286,9 @@
   "Defender:did_defenderassault_basic_m_sr_t05": {
     "Type": "Defender",
     "Name": "DID_DefenderAssault_Basic_M_SR_T05",
-    "DisplayName": "Legendary Assault Defender",
+    "ItemName": "Legendary Assault Defender",
     "SubType": "Assault Defender",
-    "Description": "A defender trained to fight with assault weapons.",
+    "ItemDescription": "A defender trained to fight with assault weapons.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -307,9 +306,9 @@
   "Defender:did_defenderassault_basic_m_vr_t01": {
     "Type": "Defender",
     "Name": "DID_DefenderAssault_Basic_M_VR_T01",
-    "DisplayName": "Epic Assault Defender",
+    "ItemName": "Epic Assault Defender",
     "SubType": "Assault Defender",
-    "Description": "A defender trained to fight with assault weapons.",
+    "ItemDescription": "A defender trained to fight with assault weapons.",
     "LevelToXPRow": "Defender_VeryRare",
     "Rarity": "Epic",
     "RecycleRecipe": {
@@ -335,9 +334,9 @@
   "Defender:did_defenderassault_basic_m_vr_t02": {
     "Type": "Defender",
     "Name": "DID_DefenderAssault_Basic_M_VR_T02",
-    "DisplayName": "Epic Assault Defender",
+    "ItemName": "Epic Assault Defender",
     "SubType": "Assault Defender",
-    "Description": "A defender trained to fight with assault weapons.",
+    "ItemDescription": "A defender trained to fight with assault weapons.",
     "LevelToXPRow": "Defender_VeryRare",
     "Rarity": "Epic",
     "RecycleRecipe": {
@@ -364,9 +363,9 @@
   "Defender:did_defenderassault_basic_m_vr_t03": {
     "Type": "Defender",
     "Name": "DID_DefenderAssault_Basic_M_VR_T03",
-    "DisplayName": "Epic Assault Defender",
+    "ItemName": "Epic Assault Defender",
     "SubType": "Assault Defender",
-    "Description": "A defender trained to fight with assault weapons.",
+    "ItemDescription": "A defender trained to fight with assault weapons.",
     "LevelToXPRow": "Defender_VeryRare",
     "Rarity": "Epic",
     "RecycleRecipe": {
@@ -394,9 +393,9 @@
   "Defender:did_defenderassault_basic_m_vr_t04": {
     "Type": "Defender",
     "Name": "DID_DefenderAssault_Basic_M_VR_T04",
-    "DisplayName": "Epic Assault Defender",
+    "ItemName": "Epic Assault Defender",
     "SubType": "Assault Defender",
-    "Description": "A defender trained to fight with assault weapons.",
+    "ItemDescription": "A defender trained to fight with assault weapons.",
     "LevelToXPRow": "Defender_VeryRare",
     "Rarity": "Epic",
     "RecycleRecipe": {
@@ -425,9 +424,9 @@
   "Defender:did_defenderassault_basic_m_vr_t05": {
     "Type": "Defender",
     "Name": "DID_DefenderAssault_Basic_M_VR_T05",
-    "DisplayName": "Epic Assault Defender",
+    "ItemName": "Epic Assault Defender",
     "SubType": "Assault Defender",
-    "Description": "A defender trained to fight with assault weapons.",
+    "ItemDescription": "A defender trained to fight with assault weapons.",
     "LevelToXPRow": "Defender_VeryRare",
     "Rarity": "Epic",
     "RecycleRecipe": {
@@ -445,9 +444,9 @@
   "Defender:did_defenderassault_basic_r_t01": {
     "Type": "Defender",
     "Name": "DID_DefenderAssault_Basic_R_T01",
-    "DisplayName": "Rare Assault Defender",
+    "ItemName": "Rare Assault Defender",
     "SubType": "Assault Defender",
-    "Description": "A defender trained to fight with assault weapons.",
+    "ItemDescription": "A defender trained to fight with assault weapons.",
     "LevelToXPRow": "Defender_Rare",
     "Rarity": "Rare",
     "RecycleRecipe": {
@@ -473,9 +472,9 @@
   "Defender:did_defenderassault_basic_r_t02": {
     "Type": "Defender",
     "Name": "DID_DefenderAssault_Basic_R_T02",
-    "DisplayName": "Rare Assault Defender",
+    "ItemName": "Rare Assault Defender",
     "SubType": "Assault Defender",
-    "Description": "A defender trained to fight with assault weapons.",
+    "ItemDescription": "A defender trained to fight with assault weapons.",
     "LevelToXPRow": "Defender_Rare",
     "Rarity": "Rare",
     "RecycleRecipe": {
@@ -502,9 +501,9 @@
   "Defender:did_defenderassault_basic_r_t03": {
     "Type": "Defender",
     "Name": "DID_DefenderAssault_Basic_R_T03",
-    "DisplayName": "Rare Assault Defender",
+    "ItemName": "Rare Assault Defender",
     "SubType": "Assault Defender",
-    "Description": "A defender trained to fight with assault weapons.",
+    "ItemDescription": "A defender trained to fight with assault weapons.",
     "LevelToXPRow": "Defender_Rare",
     "Rarity": "Rare",
     "RecycleRecipe": {
@@ -532,9 +531,9 @@
   "Defender:did_defenderassault_basic_r_t04": {
     "Type": "Defender",
     "Name": "DID_DefenderAssault_Basic_R_T04",
-    "DisplayName": "Rare Assault Defender",
+    "ItemName": "Rare Assault Defender",
     "SubType": "Assault Defender",
-    "Description": "A defender trained to fight with assault weapons.",
+    "ItemDescription": "A defender trained to fight with assault weapons.",
     "LevelToXPRow": "Defender_Rare",
     "Rarity": "Rare",
     "RecycleRecipe": {
@@ -552,9 +551,9 @@
   "Defender:did_defenderassault_basic_sr_t01": {
     "Type": "Defender",
     "Name": "DID_DefenderAssault_Basic_SR_T01",
-    "DisplayName": "Legendary Assault Defender",
+    "ItemName": "Legendary Assault Defender",
     "SubType": "Assault Defender",
-    "Description": "A defender trained to fight with assault weapons.",
+    "ItemDescription": "A defender trained to fight with assault weapons.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -580,9 +579,9 @@
   "Defender:did_defenderassault_basic_sr_t02": {
     "Type": "Defender",
     "Name": "DID_DefenderAssault_Basic_SR_T02",
-    "DisplayName": "Legendary Assault Defender",
+    "ItemName": "Legendary Assault Defender",
     "SubType": "Assault Defender",
-    "Description": "A defender trained to fight with assault weapons.",
+    "ItemDescription": "A defender trained to fight with assault weapons.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -609,9 +608,9 @@
   "Defender:did_defenderassault_basic_sr_t03": {
     "Type": "Defender",
     "Name": "DID_DefenderAssault_Basic_SR_T03",
-    "DisplayName": "Legendary Assault Defender",
+    "ItemName": "Legendary Assault Defender",
     "SubType": "Assault Defender",
-    "Description": "A defender trained to fight with assault weapons.",
+    "ItemDescription": "A defender trained to fight with assault weapons.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -639,9 +638,9 @@
   "Defender:did_defenderassault_basic_sr_t04": {
     "Type": "Defender",
     "Name": "DID_DefenderAssault_Basic_SR_T04",
-    "DisplayName": "Legendary Assault Defender",
+    "ItemName": "Legendary Assault Defender",
     "SubType": "Assault Defender",
-    "Description": "A defender trained to fight with assault weapons.",
+    "ItemDescription": "A defender trained to fight with assault weapons.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -670,9 +669,9 @@
   "Defender:did_defenderassault_basic_sr_t05": {
     "Type": "Defender",
     "Name": "DID_DefenderAssault_Basic_SR_T05",
-    "DisplayName": "Legendary Assault Defender",
+    "ItemName": "Legendary Assault Defender",
     "SubType": "Assault Defender",
-    "Description": "A defender trained to fight with assault weapons.",
+    "ItemDescription": "A defender trained to fight with assault weapons.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -690,9 +689,9 @@
   "Defender:did_defenderassault_basic_uc_t01": {
     "Type": "Defender",
     "Name": "DID_DefenderAssault_Basic_UC_T01",
-    "DisplayName": "Uncommon Assault Defender",
+    "ItemName": "Uncommon Assault Defender",
     "SubType": "Assault Defender",
-    "Description": "A defender trained to fight with assault weapons.",
+    "ItemDescription": "A defender trained to fight with assault weapons.",
     "LevelToXPRow": "Defender_Uncommon",
     "Rarity": "Uncommon",
     "RecycleRecipe": {
@@ -717,9 +716,9 @@
   "Defender:did_defenderassault_basic_uc_t02": {
     "Type": "Defender",
     "Name": "DID_DefenderAssault_Basic_UC_T02",
-    "DisplayName": "Uncommon Assault Defender",
+    "ItemName": "Uncommon Assault Defender",
     "SubType": "Assault Defender",
-    "Description": "A defender trained to fight with assault weapons.",
+    "ItemDescription": "A defender trained to fight with assault weapons.",
     "LevelToXPRow": "Defender_Uncommon",
     "Rarity": "Uncommon",
     "RecycleRecipe": {
@@ -746,9 +745,9 @@
   "Defender:did_defenderassault_basic_uc_t03": {
     "Type": "Defender",
     "Name": "DID_DefenderAssault_Basic_UC_T03",
-    "DisplayName": "Uncommon Assault Defender",
+    "ItemName": "Uncommon Assault Defender",
     "SubType": "Assault Defender",
-    "Description": "A defender trained to fight with assault weapons.",
+    "ItemDescription": "A defender trained to fight with assault weapons.",
     "LevelToXPRow": "Defender_Uncommon",
     "Rarity": "Uncommon",
     "RecycleRecipe": {
@@ -766,9 +765,9 @@
   "Defender:did_defenderassault_basic_vr_t01": {
     "Type": "Defender",
     "Name": "DID_DefenderAssault_Basic_VR_T01",
-    "DisplayName": "Epic Assault Defender",
+    "ItemName": "Epic Assault Defender",
     "SubType": "Assault Defender",
-    "Description": "A defender trained to fight with assault weapons.",
+    "ItemDescription": "A defender trained to fight with assault weapons.",
     "LevelToXPRow": "Defender_VeryRare",
     "Rarity": "Epic",
     "RecycleRecipe": {
@@ -794,9 +793,9 @@
   "Defender:did_defenderassault_basic_vr_t02": {
     "Type": "Defender",
     "Name": "DID_DefenderAssault_Basic_VR_T02",
-    "DisplayName": "Epic Assault Defender",
+    "ItemName": "Epic Assault Defender",
     "SubType": "Assault Defender",
-    "Description": "A defender trained to fight with assault weapons.",
+    "ItemDescription": "A defender trained to fight with assault weapons.",
     "LevelToXPRow": "Defender_VeryRare",
     "Rarity": "Epic",
     "RecycleRecipe": {
@@ -823,9 +822,9 @@
   "Defender:did_defenderassault_basic_vr_t03": {
     "Type": "Defender",
     "Name": "DID_DefenderAssault_Basic_VR_T03",
-    "DisplayName": "Epic Assault Defender",
+    "ItemName": "Epic Assault Defender",
     "SubType": "Assault Defender",
-    "Description": "A defender trained to fight with assault weapons.",
+    "ItemDescription": "A defender trained to fight with assault weapons.",
     "LevelToXPRow": "Defender_VeryRare",
     "Rarity": "Epic",
     "RecycleRecipe": {
@@ -853,9 +852,9 @@
   "Defender:did_defenderassault_basic_vr_t04": {
     "Type": "Defender",
     "Name": "DID_DefenderAssault_Basic_VR_T04",
-    "DisplayName": "Epic Assault Defender",
+    "ItemName": "Epic Assault Defender",
     "SubType": "Assault Defender",
-    "Description": "A defender trained to fight with assault weapons.",
+    "ItemDescription": "A defender trained to fight with assault weapons.",
     "LevelToXPRow": "Defender_VeryRare",
     "Rarity": "Epic",
     "RecycleRecipe": {
@@ -884,9 +883,9 @@
   "Defender:did_defenderassault_basic_vr_t05": {
     "Type": "Defender",
     "Name": "DID_DefenderAssault_Basic_VR_T05",
-    "DisplayName": "Epic Assault Defender",
+    "ItemName": "Epic Assault Defender",
     "SubType": "Assault Defender",
-    "Description": "A defender trained to fight with assault weapons.",
+    "ItemDescription": "A defender trained to fight with assault weapons.",
     "LevelToXPRow": "Defender_VeryRare",
     "Rarity": "Epic",
     "RecycleRecipe": {
@@ -904,10 +903,9 @@
   "Defender:did_defenderassault_founders_vr_t01": {
     "Type": "Defender",
     "Name": "DID_DefenderAssault_Founders_VR_T01",
-    "DisplayName": "Jill",
+    "ItemName": "Jill",
     "SubType": "Assault Defender",
-    "Description": "A defender trained to fight with assault weapons.",
-    "IsPermanent": true,
+    "ItemDescription": "A defender trained to fight with assault weapons.",
     "Rarity": "Epic",
     "Tier": 1,
     "TierUpRecipe": {
@@ -927,10 +925,9 @@
   "Defender:did_defenderassault_founders_vr_t02": {
     "Type": "Defender",
     "Name": "DID_DefenderAssault_Founders_VR_T02",
-    "DisplayName": "Jill",
+    "ItemName": "Jill",
     "SubType": "Assault Defender",
-    "Description": "A defender trained to fight with assault weapons.",
-    "IsPermanent": true,
+    "ItemDescription": "A defender trained to fight with assault weapons.",
     "Rarity": "Epic",
     "Tier": 2,
     "TierUpRecipe": {
@@ -951,10 +948,9 @@
   "Defender:did_defenderassault_founders_vr_t03": {
     "Type": "Defender",
     "Name": "DID_DefenderAssault_Founders_VR_T03",
-    "DisplayName": "Jill",
+    "ItemName": "Jill",
     "SubType": "Assault Defender",
-    "Description": "A defender trained to fight with assault weapons.",
-    "IsPermanent": true,
+    "ItemDescription": "A defender trained to fight with assault weapons.",
     "Rarity": "Epic",
     "Tier": 3,
     "TierUpRecipe": {
@@ -976,10 +972,9 @@
   "Defender:did_defenderassault_founders_vr_t04": {
     "Type": "Defender",
     "Name": "DID_DefenderAssault_Founders_VR_T04",
-    "DisplayName": "Jill",
+    "ItemName": "Jill",
     "SubType": "Assault Defender",
-    "Description": "A defender trained to fight with assault weapons.",
-    "IsPermanent": true,
+    "ItemDescription": "A defender trained to fight with assault weapons.",
     "Rarity": "Epic",
     "Tier": 4,
     "TierUpRecipe": {
@@ -1002,10 +997,9 @@
   "Defender:did_defenderassault_founders_vr_t05": {
     "Type": "Defender",
     "Name": "DID_DefenderAssault_Founders_VR_T05",
-    "DisplayName": "Jill",
+    "ItemName": "Jill",
     "SubType": "Assault Defender",
-    "Description": "A defender trained to fight with assault weapons.",
-    "IsPermanent": true,
+    "ItemDescription": "A defender trained to fight with assault weapons.",
     "Rarity": "Epic",
     "Tier": 5,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/defenders/did_defenderassault_founders_vr_t05.uasset",
@@ -1017,9 +1011,9 @@
   "Defender:did_defendermelee_basic_c_t01": {
     "Type": "Defender",
     "Name": "DID_DefenderMelee_Basic_C_T01",
-    "DisplayName": "Common Melee Defender",
+    "ItemName": "Common Melee Defender",
     "SubType": "Melee Defender",
-    "Description": "A defender trained to fight with melee weapons.",
+    "ItemDescription": "A defender trained to fight with melee weapons.",
     "LevelToXPRow": "Defender_Common",
     "Rarity": "Common",
     "RecycleRecipe": {
@@ -1043,9 +1037,9 @@
   "Defender:did_defendermelee_basic_c_t02": {
     "Type": "Defender",
     "Name": "DID_DefenderMelee_Basic_C_T02",
-    "DisplayName": "Common Melee Defender",
+    "ItemName": "Common Melee Defender",
     "SubType": "Melee Defender",
-    "Description": "A defender trained to fight with melee weapons.",
+    "ItemDescription": "A defender trained to fight with melee weapons.",
     "LevelToXPRow": "Defender_Common",
     "Rarity": "Common",
     "RecycleRecipe": {
@@ -1062,9 +1056,9 @@
   "Defender:did_defendermelee_basic_f_sr_t01": {
     "Type": "Defender",
     "Name": "DID_DefenderMelee_Basic_F_SR_T01",
-    "DisplayName": "Val",
+    "ItemName": "Val",
     "SubType": "Melee Defender",
-    "Description": "A defender trained to fight with melee weapons.",
+    "ItemDescription": "A defender trained to fight with melee weapons.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -1090,9 +1084,9 @@
   "Defender:did_defendermelee_basic_f_sr_t02": {
     "Type": "Defender",
     "Name": "DID_DefenderMelee_Basic_F_SR_T02",
-    "DisplayName": "Val",
+    "ItemName": "Val",
     "SubType": "Melee Defender",
-    "Description": "A defender trained to fight with melee weapons.",
+    "ItemDescription": "A defender trained to fight with melee weapons.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -1119,9 +1113,9 @@
   "Defender:did_defendermelee_basic_f_sr_t03": {
     "Type": "Defender",
     "Name": "DID_DefenderMelee_Basic_F_SR_T03",
-    "DisplayName": "Val",
+    "ItemName": "Val",
     "SubType": "Melee Defender",
-    "Description": "A defender trained to fight with melee weapons.",
+    "ItemDescription": "A defender trained to fight with melee weapons.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -1149,9 +1143,9 @@
   "Defender:did_defendermelee_basic_f_sr_t04": {
     "Type": "Defender",
     "Name": "DID_DefenderMelee_Basic_F_SR_T04",
-    "DisplayName": "Val",
+    "ItemName": "Val",
     "SubType": "Melee Defender",
-    "Description": "A defender trained to fight with melee weapons.",
+    "ItemDescription": "A defender trained to fight with melee weapons.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -1180,9 +1174,9 @@
   "Defender:did_defendermelee_basic_f_sr_t05": {
     "Type": "Defender",
     "Name": "DID_DefenderMelee_Basic_F_SR_T05",
-    "DisplayName": "Val",
+    "ItemName": "Val",
     "SubType": "Melee Defender",
-    "Description": "A defender trained to fight with melee weapons.",
+    "ItemDescription": "A defender trained to fight with melee weapons.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -1200,9 +1194,9 @@
   "Defender:did_defendermelee_basic_r_t01": {
     "Type": "Defender",
     "Name": "DID_DefenderMelee_Basic_R_T01",
-    "DisplayName": "Rare Melee Defender",
+    "ItemName": "Rare Melee Defender",
     "SubType": "Melee Defender",
-    "Description": "A defender trained to fight with melee weapons.",
+    "ItemDescription": "A defender trained to fight with melee weapons.",
     "LevelToXPRow": "Defender_Rare",
     "Rarity": "Rare",
     "RecycleRecipe": {
@@ -1228,9 +1222,9 @@
   "Defender:did_defendermelee_basic_r_t02": {
     "Type": "Defender",
     "Name": "DID_DefenderMelee_Basic_R_T02",
-    "DisplayName": "Rare Melee Defender",
+    "ItemName": "Rare Melee Defender",
     "SubType": "Melee Defender",
-    "Description": "A defender trained to fight with melee weapons.",
+    "ItemDescription": "A defender trained to fight with melee weapons.",
     "LevelToXPRow": "Defender_Rare",
     "Rarity": "Rare",
     "RecycleRecipe": {
@@ -1257,9 +1251,9 @@
   "Defender:did_defendermelee_basic_r_t03": {
     "Type": "Defender",
     "Name": "DID_DefenderMelee_Basic_R_T03",
-    "DisplayName": "Rare Melee Defender",
+    "ItemName": "Rare Melee Defender",
     "SubType": "Melee Defender",
-    "Description": "A defender trained to fight with melee weapons.",
+    "ItemDescription": "A defender trained to fight with melee weapons.",
     "LevelToXPRow": "Defender_Rare",
     "Rarity": "Rare",
     "RecycleRecipe": {
@@ -1287,9 +1281,9 @@
   "Defender:did_defendermelee_basic_r_t04": {
     "Type": "Defender",
     "Name": "DID_DefenderMelee_Basic_R_T04",
-    "DisplayName": "Rare Melee Defender",
+    "ItemName": "Rare Melee Defender",
     "SubType": "Melee Defender",
-    "Description": "A defender trained to fight with melee weapons.",
+    "ItemDescription": "A defender trained to fight with melee weapons.",
     "LevelToXPRow": "Defender_Rare",
     "Rarity": "Rare",
     "RecycleRecipe": {
@@ -1307,9 +1301,9 @@
   "Defender:did_defendermelee_basic_sr_t01": {
     "Type": "Defender",
     "Name": "DID_DefenderMelee_Basic_SR_T01",
-    "DisplayName": "Legendary Melee Defender",
+    "ItemName": "Legendary Melee Defender",
     "SubType": "Melee Defender",
-    "Description": "A defender trained to fight with melee weapons.",
+    "ItemDescription": "A defender trained to fight with melee weapons.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -1335,9 +1329,9 @@
   "Defender:did_defendermelee_basic_sr_t02": {
     "Type": "Defender",
     "Name": "DID_DefenderMelee_Basic_SR_T02",
-    "DisplayName": "Legendary Melee Defender",
+    "ItemName": "Legendary Melee Defender",
     "SubType": "Melee Defender",
-    "Description": "A defender trained to fight with melee weapons.",
+    "ItemDescription": "A defender trained to fight with melee weapons.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -1364,9 +1358,9 @@
   "Defender:did_defendermelee_basic_sr_t03": {
     "Type": "Defender",
     "Name": "DID_DefenderMelee_Basic_SR_T03",
-    "DisplayName": "Legendary Melee Defender",
+    "ItemName": "Legendary Melee Defender",
     "SubType": "Melee Defender",
-    "Description": "A defender trained to fight with melee weapons.",
+    "ItemDescription": "A defender trained to fight with melee weapons.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -1394,9 +1388,9 @@
   "Defender:did_defendermelee_basic_sr_t04": {
     "Type": "Defender",
     "Name": "DID_DefenderMelee_Basic_SR_T04",
-    "DisplayName": "Legendary Melee Defender",
+    "ItemName": "Legendary Melee Defender",
     "SubType": "Melee Defender",
-    "Description": "A defender trained to fight with melee weapons.",
+    "ItemDescription": "A defender trained to fight with melee weapons.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -1425,9 +1419,9 @@
   "Defender:did_defendermelee_basic_sr_t05": {
     "Type": "Defender",
     "Name": "DID_DefenderMelee_Basic_SR_T05",
-    "DisplayName": "Legendary Melee Defender",
+    "ItemName": "Legendary Melee Defender",
     "SubType": "Melee Defender",
-    "Description": "A defender trained to fight with melee weapons.",
+    "ItemDescription": "A defender trained to fight with melee weapons.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -1445,9 +1439,9 @@
   "Defender:did_defendermelee_basic_uc_t01": {
     "Type": "Defender",
     "Name": "DID_DefenderMelee_Basic_UC_T01",
-    "DisplayName": "Uncommon Melee Defender",
+    "ItemName": "Uncommon Melee Defender",
     "SubType": "Melee Defender",
-    "Description": "A defender trained to fight with melee weapons.",
+    "ItemDescription": "A defender trained to fight with melee weapons.",
     "LevelToXPRow": "Defender_Uncommon",
     "Rarity": "Uncommon",
     "RecycleRecipe": {
@@ -1472,9 +1466,9 @@
   "Defender:did_defendermelee_basic_uc_t02": {
     "Type": "Defender",
     "Name": "DID_DefenderMelee_Basic_UC_T02",
-    "DisplayName": "Uncommon Melee Defender",
+    "ItemName": "Uncommon Melee Defender",
     "SubType": "Melee Defender",
-    "Description": "A defender trained to fight with melee weapons.",
+    "ItemDescription": "A defender trained to fight with melee weapons.",
     "LevelToXPRow": "Defender_Uncommon",
     "Rarity": "Uncommon",
     "RecycleRecipe": {
@@ -1501,9 +1495,9 @@
   "Defender:did_defendermelee_basic_uc_t03": {
     "Type": "Defender",
     "Name": "DID_DefenderMelee_Basic_UC_T03",
-    "DisplayName": "Uncommon Melee Defender",
+    "ItemName": "Uncommon Melee Defender",
     "SubType": "Melee Defender",
-    "Description": "A defender trained to fight with melee weapons.",
+    "ItemDescription": "A defender trained to fight with melee weapons.",
     "LevelToXPRow": "Defender_Uncommon",
     "Rarity": "Uncommon",
     "RecycleRecipe": {
@@ -1521,9 +1515,9 @@
   "Defender:did_defendermelee_basic_vr_t01": {
     "Type": "Defender",
     "Name": "DID_DefenderMelee_Basic_VR_T01",
-    "DisplayName": "Epic Melee Defender",
+    "ItemName": "Epic Melee Defender",
     "SubType": "Melee Defender",
-    "Description": "A defender trained to fight with melee weapons.",
+    "ItemDescription": "A defender trained to fight with melee weapons.",
     "LevelToXPRow": "Defender_VeryRare",
     "Rarity": "Epic",
     "RecycleRecipe": {
@@ -1549,9 +1543,9 @@
   "Defender:did_defendermelee_basic_vr_t02": {
     "Type": "Defender",
     "Name": "DID_DefenderMelee_Basic_VR_T02",
-    "DisplayName": "Epic Melee Defender",
+    "ItemName": "Epic Melee Defender",
     "SubType": "Melee Defender",
-    "Description": "A defender trained to fight with melee weapons.",
+    "ItemDescription": "A defender trained to fight with melee weapons.",
     "LevelToXPRow": "Defender_VeryRare",
     "Rarity": "Epic",
     "RecycleRecipe": {
@@ -1578,9 +1572,9 @@
   "Defender:did_defendermelee_basic_vr_t03": {
     "Type": "Defender",
     "Name": "DID_DefenderMelee_Basic_VR_T03",
-    "DisplayName": "Epic Melee Defender",
+    "ItemName": "Epic Melee Defender",
     "SubType": "Melee Defender",
-    "Description": "A defender trained to fight with melee weapons.",
+    "ItemDescription": "A defender trained to fight with melee weapons.",
     "LevelToXPRow": "Defender_VeryRare",
     "Rarity": "Epic",
     "RecycleRecipe": {
@@ -1608,9 +1602,9 @@
   "Defender:did_defendermelee_basic_vr_t04": {
     "Type": "Defender",
     "Name": "DID_DefenderMelee_Basic_VR_T04",
-    "DisplayName": "Epic Melee Defender",
+    "ItemName": "Epic Melee Defender",
     "SubType": "Melee Defender",
-    "Description": "A defender trained to fight with melee weapons.",
+    "ItemDescription": "A defender trained to fight with melee weapons.",
     "LevelToXPRow": "Defender_VeryRare",
     "Rarity": "Epic",
     "RecycleRecipe": {
@@ -1639,9 +1633,9 @@
   "Defender:did_defendermelee_basic_vr_t05": {
     "Type": "Defender",
     "Name": "DID_DefenderMelee_Basic_VR_T05",
-    "DisplayName": "Epic Melee Defender",
+    "ItemName": "Epic Melee Defender",
     "SubType": "Melee Defender",
-    "Description": "A defender trained to fight with melee weapons.",
+    "ItemDescription": "A defender trained to fight with melee weapons.",
     "LevelToXPRow": "Defender_VeryRare",
     "Rarity": "Epic",
     "RecycleRecipe": {
@@ -1659,9 +1653,9 @@
   "Defender:did_defenderpistol_basic_c_t01": {
     "Type": "Defender",
     "Name": "DID_DefenderPistol_Basic_C_T01",
-    "DisplayName": "Common Pistol Defender",
+    "ItemName": "Common Pistol Defender",
     "SubType": "Pistol Defender",
-    "Description": "A defender trained to fight with pistols.",
+    "ItemDescription": "A defender trained to fight with pistols.",
     "LevelToXPRow": "Defender_Common",
     "Rarity": "Common",
     "RecycleRecipe": {
@@ -1685,9 +1679,9 @@
   "Defender:did_defenderpistol_basic_c_t02": {
     "Type": "Defender",
     "Name": "DID_DefenderPistol_Basic_C_T02",
-    "DisplayName": "Common Pistol Defender",
+    "ItemName": "Common Pistol Defender",
     "SubType": "Pistol Defender",
-    "Description": "A defender trained to fight with pistols.",
+    "ItemDescription": "A defender trained to fight with pistols.",
     "LevelToXPRow": "Defender_Common",
     "Rarity": "Common",
     "RecycleRecipe": {
@@ -1704,9 +1698,9 @@
   "Defender:did_defenderpistol_basic_f_r_t01": {
     "Type": "Defender",
     "Name": "DID_DefenderPistol_Basic_F_R_T01",
-    "DisplayName": "Rare Pistol Defender",
+    "ItemName": "Rare Pistol Defender",
     "SubType": "Pistol Defender",
-    "Description": "A defender trained to fight with pistols.",
+    "ItemDescription": "A defender trained to fight with pistols.",
     "LevelToXPRow": "Defender_Rare",
     "Rarity": "Rare",
     "RecycleRecipe": {
@@ -1732,9 +1726,9 @@
   "Defender:did_defenderpistol_basic_f_r_t02": {
     "Type": "Defender",
     "Name": "DID_DefenderPistol_Basic_F_R_T02",
-    "DisplayName": "Rare Pistol Defender",
+    "ItemName": "Rare Pistol Defender",
     "SubType": "Pistol Defender",
-    "Description": "A defender trained to fight with pistols.",
+    "ItemDescription": "A defender trained to fight with pistols.",
     "LevelToXPRow": "Defender_Rare",
     "Rarity": "Rare",
     "RecycleRecipe": {
@@ -1761,9 +1755,9 @@
   "Defender:did_defenderpistol_basic_f_r_t03": {
     "Type": "Defender",
     "Name": "DID_DefenderPistol_Basic_F_R_T03",
-    "DisplayName": "Rare Pistol Defender",
+    "ItemName": "Rare Pistol Defender",
     "SubType": "Pistol Defender",
-    "Description": "A defender trained to fight with pistols.",
+    "ItemDescription": "A defender trained to fight with pistols.",
     "LevelToXPRow": "Defender_Rare",
     "Rarity": "Rare",
     "RecycleRecipe": {
@@ -1791,9 +1785,9 @@
   "Defender:did_defenderpistol_basic_f_r_t04": {
     "Type": "Defender",
     "Name": "DID_DefenderPistol_Basic_F_R_T04",
-    "DisplayName": "Rare Pistol Defender",
+    "ItemName": "Rare Pistol Defender",
     "SubType": "Pistol Defender",
-    "Description": "A defender trained to fight with pistols.",
+    "ItemDescription": "A defender trained to fight with pistols.",
     "LevelToXPRow": "Defender_Rare",
     "Rarity": "Rare",
     "RecycleRecipe": {
@@ -1811,9 +1805,9 @@
   "Defender:did_defenderpistol_basic_f_sr_t01": {
     "Type": "Defender",
     "Name": "DID_DefenderPistol_Basic_F_SR_T01",
-    "DisplayName": "Legendary Pistol Defender",
+    "ItemName": "Legendary Pistol Defender",
     "SubType": "Pistol Defender",
-    "Description": "A defender trained to fight with pistols.",
+    "ItemDescription": "A defender trained to fight with pistols.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -1839,9 +1833,9 @@
   "Defender:did_defenderpistol_basic_f_sr_t02": {
     "Type": "Defender",
     "Name": "DID_DefenderPistol_Basic_F_SR_T02",
-    "DisplayName": "Legendary Pistol Defender",
+    "ItemName": "Legendary Pistol Defender",
     "SubType": "Pistol Defender",
-    "Description": "A defender trained to fight with pistols.",
+    "ItemDescription": "A defender trained to fight with pistols.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -1868,9 +1862,9 @@
   "Defender:did_defenderpistol_basic_f_sr_t03": {
     "Type": "Defender",
     "Name": "DID_DefenderPistol_Basic_F_SR_T03",
-    "DisplayName": "Legendary Pistol Defender",
+    "ItemName": "Legendary Pistol Defender",
     "SubType": "Pistol Defender",
-    "Description": "A defender trained to fight with pistols.",
+    "ItemDescription": "A defender trained to fight with pistols.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -1898,9 +1892,9 @@
   "Defender:did_defenderpistol_basic_f_sr_t04": {
     "Type": "Defender",
     "Name": "DID_DefenderPistol_Basic_F_SR_T04",
-    "DisplayName": "Legendary Pistol Defender",
+    "ItemName": "Legendary Pistol Defender",
     "SubType": "Pistol Defender",
-    "Description": "A defender trained to fight with pistols.",
+    "ItemDescription": "A defender trained to fight with pistols.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -1929,9 +1923,9 @@
   "Defender:did_defenderpistol_basic_f_sr_t05": {
     "Type": "Defender",
     "Name": "DID_DefenderPistol_Basic_F_SR_T05",
-    "DisplayName": "Legendary Pistol Defender",
+    "ItemName": "Legendary Pistol Defender",
     "SubType": "Pistol Defender",
-    "Description": "A defender trained to fight with pistols.",
+    "ItemDescription": "A defender trained to fight with pistols.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -1949,9 +1943,9 @@
   "Defender:did_defenderpistol_basic_f_vr_t01": {
     "Type": "Defender",
     "Name": "DID_DefenderPistol_Basic_F_VR_T01",
-    "DisplayName": "Epic Pistol Defender",
+    "ItemName": "Epic Pistol Defender",
     "SubType": "Pistol Defender",
-    "Description": "A defender trained to fight with pistols.",
+    "ItemDescription": "A defender trained to fight with pistols.",
     "LevelToXPRow": "Defender_VeryRare",
     "Rarity": "Epic",
     "RecycleRecipe": {
@@ -1977,9 +1971,9 @@
   "Defender:did_defenderpistol_basic_f_vr_t02": {
     "Type": "Defender",
     "Name": "DID_DefenderPistol_Basic_F_VR_T02",
-    "DisplayName": "Epic Pistol Defender",
+    "ItemName": "Epic Pistol Defender",
     "SubType": "Pistol Defender",
-    "Description": "A defender trained to fight with pistols.",
+    "ItemDescription": "A defender trained to fight with pistols.",
     "LevelToXPRow": "Defender_VeryRare",
     "Rarity": "Epic",
     "RecycleRecipe": {
@@ -2006,9 +2000,9 @@
   "Defender:did_defenderpistol_basic_f_vr_t03": {
     "Type": "Defender",
     "Name": "DID_DefenderPistol_Basic_F_VR_T03",
-    "DisplayName": "Epic Pistol Defender",
+    "ItemName": "Epic Pistol Defender",
     "SubType": "Pistol Defender",
-    "Description": "A defender trained to fight with pistols.",
+    "ItemDescription": "A defender trained to fight with pistols.",
     "LevelToXPRow": "Defender_VeryRare",
     "Rarity": "Epic",
     "RecycleRecipe": {
@@ -2036,9 +2030,9 @@
   "Defender:did_defenderpistol_basic_f_vr_t04": {
     "Type": "Defender",
     "Name": "DID_DefenderPistol_Basic_F_VR_T04",
-    "DisplayName": "Epic Pistol Defender",
+    "ItemName": "Epic Pistol Defender",
     "SubType": "Pistol Defender",
-    "Description": "A defender trained to fight with pistols.",
+    "ItemDescription": "A defender trained to fight with pistols.",
     "LevelToXPRow": "Defender_VeryRare",
     "Rarity": "Epic",
     "RecycleRecipe": {
@@ -2067,9 +2061,9 @@
   "Defender:did_defenderpistol_basic_f_vr_t05": {
     "Type": "Defender",
     "Name": "DID_DefenderPistol_Basic_F_VR_T05",
-    "DisplayName": "Epic Pistol Defender",
+    "ItemName": "Epic Pistol Defender",
     "SubType": "Pistol Defender",
-    "Description": "A defender trained to fight with pistols.",
+    "ItemDescription": "A defender trained to fight with pistols.",
     "LevelToXPRow": "Defender_VeryRare",
     "Rarity": "Epic",
     "RecycleRecipe": {
@@ -2087,9 +2081,9 @@
   "Defender:did_defenderpistol_basic_r_t01": {
     "Type": "Defender",
     "Name": "DID_DefenderPistol_Basic_R_T01",
-    "DisplayName": "Rare Pistol Defender",
+    "ItemName": "Rare Pistol Defender",
     "SubType": "Pistol Defender",
-    "Description": "A defender trained to fight with pistols.",
+    "ItemDescription": "A defender trained to fight with pistols.",
     "LevelToXPRow": "Defender_Rare",
     "Rarity": "Rare",
     "RecycleRecipe": {
@@ -2115,9 +2109,9 @@
   "Defender:did_defenderpistol_basic_r_t02": {
     "Type": "Defender",
     "Name": "DID_DefenderPistol_Basic_R_T02",
-    "DisplayName": "Rare Pistol Defender",
+    "ItemName": "Rare Pistol Defender",
     "SubType": "Pistol Defender",
-    "Description": "A defender trained to fight with pistols.",
+    "ItemDescription": "A defender trained to fight with pistols.",
     "LevelToXPRow": "Defender_Rare",
     "Rarity": "Rare",
     "RecycleRecipe": {
@@ -2144,9 +2138,9 @@
   "Defender:did_defenderpistol_basic_r_t03": {
     "Type": "Defender",
     "Name": "DID_DefenderPistol_Basic_R_T03",
-    "DisplayName": "Rare Pistol Defender",
+    "ItemName": "Rare Pistol Defender",
     "SubType": "Pistol Defender",
-    "Description": "A defender trained to fight with pistols.",
+    "ItemDescription": "A defender trained to fight with pistols.",
     "LevelToXPRow": "Defender_Rare",
     "Rarity": "Rare",
     "RecycleRecipe": {
@@ -2174,9 +2168,9 @@
   "Defender:did_defenderpistol_basic_r_t04": {
     "Type": "Defender",
     "Name": "DID_DefenderPistol_Basic_R_T04",
-    "DisplayName": "Rare Pistol Defender",
+    "ItemName": "Rare Pistol Defender",
     "SubType": "Pistol Defender",
-    "Description": "A defender trained to fight with pistols.",
+    "ItemDescription": "A defender trained to fight with pistols.",
     "LevelToXPRow": "Defender_Rare",
     "Rarity": "Rare",
     "RecycleRecipe": {
@@ -2194,9 +2188,9 @@
   "Defender:did_defenderpistol_basic_sr_t01": {
     "Type": "Defender",
     "Name": "DID_DefenderPistol_Basic_SR_T01",
-    "DisplayName": "Legendary Pistol Defender",
+    "ItemName": "Legendary Pistol Defender",
     "SubType": "Pistol Defender",
-    "Description": "A defender trained to fight with pistols.",
+    "ItemDescription": "A defender trained to fight with pistols.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -2222,9 +2216,9 @@
   "Defender:did_defenderpistol_basic_sr_t02": {
     "Type": "Defender",
     "Name": "DID_DefenderPistol_Basic_SR_T02",
-    "DisplayName": "Legendary Pistol Defender",
+    "ItemName": "Legendary Pistol Defender",
     "SubType": "Pistol Defender",
-    "Description": "A defender trained to fight with pistols.",
+    "ItemDescription": "A defender trained to fight with pistols.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -2251,9 +2245,9 @@
   "Defender:did_defenderpistol_basic_sr_t03": {
     "Type": "Defender",
     "Name": "DID_DefenderPistol_Basic_SR_T03",
-    "DisplayName": "Legendary Pistol Defender",
+    "ItemName": "Legendary Pistol Defender",
     "SubType": "Pistol Defender",
-    "Description": "A defender trained to fight with pistols.",
+    "ItemDescription": "A defender trained to fight with pistols.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -2281,9 +2275,9 @@
   "Defender:did_defenderpistol_basic_sr_t04": {
     "Type": "Defender",
     "Name": "DID_DefenderPistol_Basic_SR_T04",
-    "DisplayName": "Legendary Pistol Defender",
+    "ItemName": "Legendary Pistol Defender",
     "SubType": "Pistol Defender",
-    "Description": "A defender trained to fight with pistols.",
+    "ItemDescription": "A defender trained to fight with pistols.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -2312,9 +2306,9 @@
   "Defender:did_defenderpistol_basic_sr_t05": {
     "Type": "Defender",
     "Name": "DID_DefenderPistol_Basic_SR_T05",
-    "DisplayName": "Legendary Pistol Defender",
+    "ItemName": "Legendary Pistol Defender",
     "SubType": "Pistol Defender",
-    "Description": "A defender trained to fight with pistols.",
+    "ItemDescription": "A defender trained to fight with pistols.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -2332,9 +2326,9 @@
   "Defender:did_defenderpistol_basic_uc_t01": {
     "Type": "Defender",
     "Name": "DID_DefenderPistol_Basic_UC_T01",
-    "DisplayName": "Uncommon Pistol Defender",
+    "ItemName": "Uncommon Pistol Defender",
     "SubType": "Pistol Defender",
-    "Description": "A defender trained to fight with pistols.",
+    "ItemDescription": "A defender trained to fight with pistols.",
     "LevelToXPRow": "Defender_Uncommon",
     "Rarity": "Uncommon",
     "RecycleRecipe": {
@@ -2359,9 +2353,9 @@
   "Defender:did_defenderpistol_basic_uc_t02": {
     "Type": "Defender",
     "Name": "DID_DefenderPistol_Basic_UC_T02",
-    "DisplayName": "Uncommon Pistol Defender",
+    "ItemName": "Uncommon Pistol Defender",
     "SubType": "Pistol Defender",
-    "Description": "A defender trained to fight with pistols.",
+    "ItemDescription": "A defender trained to fight with pistols.",
     "LevelToXPRow": "Defender_Uncommon",
     "Rarity": "Uncommon",
     "RecycleRecipe": {
@@ -2388,9 +2382,9 @@
   "Defender:did_defenderpistol_basic_uc_t03": {
     "Type": "Defender",
     "Name": "DID_DefenderPistol_Basic_UC_T03",
-    "DisplayName": "Uncommon Pistol Defender",
+    "ItemName": "Uncommon Pistol Defender",
     "SubType": "Pistol Defender",
-    "Description": "A defender trained to fight with pistols.",
+    "ItemDescription": "A defender trained to fight with pistols.",
     "LevelToXPRow": "Defender_Uncommon",
     "Rarity": "Uncommon",
     "RecycleRecipe": {
@@ -2408,9 +2402,9 @@
   "Defender:did_defenderpistol_basic_vr_t01": {
     "Type": "Defender",
     "Name": "DID_DefenderPistol_Basic_VR_T01",
-    "DisplayName": "Epic Pistol Defender",
+    "ItemName": "Epic Pistol Defender",
     "SubType": "Pistol Defender",
-    "Description": "A defender trained to fight with pistols.",
+    "ItemDescription": "A defender trained to fight with pistols.",
     "LevelToXPRow": "Defender_VeryRare",
     "Rarity": "Epic",
     "RecycleRecipe": {
@@ -2436,9 +2430,9 @@
   "Defender:did_defenderpistol_basic_vr_t02": {
     "Type": "Defender",
     "Name": "DID_DefenderPistol_Basic_VR_T02",
-    "DisplayName": "Epic Pistol Defender",
+    "ItemName": "Epic Pistol Defender",
     "SubType": "Pistol Defender",
-    "Description": "A defender trained to fight with pistols.",
+    "ItemDescription": "A defender trained to fight with pistols.",
     "LevelToXPRow": "Defender_VeryRare",
     "Rarity": "Epic",
     "RecycleRecipe": {
@@ -2465,9 +2459,9 @@
   "Defender:did_defenderpistol_basic_vr_t03": {
     "Type": "Defender",
     "Name": "DID_DefenderPistol_Basic_VR_T03",
-    "DisplayName": "Epic Pistol Defender",
+    "ItemName": "Epic Pistol Defender",
     "SubType": "Pistol Defender",
-    "Description": "A defender trained to fight with pistols.",
+    "ItemDescription": "A defender trained to fight with pistols.",
     "LevelToXPRow": "Defender_VeryRare",
     "Rarity": "Epic",
     "RecycleRecipe": {
@@ -2495,9 +2489,9 @@
   "Defender:did_defenderpistol_basic_vr_t04": {
     "Type": "Defender",
     "Name": "DID_DefenderPistol_Basic_VR_T04",
-    "DisplayName": "Epic Pistol Defender",
+    "ItemName": "Epic Pistol Defender",
     "SubType": "Pistol Defender",
-    "Description": "A defender trained to fight with pistols.",
+    "ItemDescription": "A defender trained to fight with pistols.",
     "LevelToXPRow": "Defender_VeryRare",
     "Rarity": "Epic",
     "RecycleRecipe": {
@@ -2526,9 +2520,9 @@
   "Defender:did_defenderpistol_basic_vr_t05": {
     "Type": "Defender",
     "Name": "DID_DefenderPistol_Basic_VR_T05",
-    "DisplayName": "Epic Pistol Defender",
+    "ItemName": "Epic Pistol Defender",
     "SubType": "Pistol Defender",
-    "Description": "A defender trained to fight with pistols.",
+    "ItemDescription": "A defender trained to fight with pistols.",
     "LevelToXPRow": "Defender_VeryRare",
     "Rarity": "Epic",
     "RecycleRecipe": {
@@ -2546,10 +2540,9 @@
   "Defender:did_defenderpistol_founders_vr_t01": {
     "Type": "Defender",
     "Name": "DID_DefenderPistol_Founders_VR_T01",
-    "DisplayName": "Idris",
+    "ItemName": "Idris",
     "SubType": "Pistol Defender",
-    "Description": "A defender trained to fight with pistols.",
-    "IsPermanent": true,
+    "ItemDescription": "A defender trained to fight with pistols.",
     "Rarity": "Epic",
     "Tier": 1,
     "TierUpRecipe": {
@@ -2569,10 +2562,9 @@
   "Defender:did_defenderpistol_founders_vr_t02": {
     "Type": "Defender",
     "Name": "DID_DefenderPistol_Founders_VR_T02",
-    "DisplayName": "Idris",
+    "ItemName": "Idris",
     "SubType": "Pistol Defender",
-    "Description": "A defender trained to fight with pistols.",
-    "IsPermanent": true,
+    "ItemDescription": "A defender trained to fight with pistols.",
     "Rarity": "Epic",
     "Tier": 2,
     "TierUpRecipe": {
@@ -2593,10 +2585,9 @@
   "Defender:did_defenderpistol_founders_vr_t03": {
     "Type": "Defender",
     "Name": "DID_DefenderPistol_Founders_VR_T03",
-    "DisplayName": "Idris",
+    "ItemName": "Idris",
     "SubType": "Pistol Defender",
-    "Description": "A defender trained to fight with pistols.",
-    "IsPermanent": true,
+    "ItemDescription": "A defender trained to fight with pistols.",
     "Rarity": "Epic",
     "Tier": 3,
     "TierUpRecipe": {
@@ -2618,10 +2609,9 @@
   "Defender:did_defenderpistol_founders_vr_t04": {
     "Type": "Defender",
     "Name": "DID_DefenderPistol_Founders_VR_T04",
-    "DisplayName": "Idris",
+    "ItemName": "Idris",
     "SubType": "Pistol Defender",
-    "Description": "A defender trained to fight with pistols.",
-    "IsPermanent": true,
+    "ItemDescription": "A defender trained to fight with pistols.",
     "Rarity": "Epic",
     "Tier": 4,
     "TierUpRecipe": {
@@ -2644,10 +2634,9 @@
   "Defender:did_defenderpistol_founders_vr_t05": {
     "Type": "Defender",
     "Name": "DID_DefenderPistol_Founders_VR_T05",
-    "DisplayName": "Idris",
+    "ItemName": "Idris",
     "SubType": "Pistol Defender",
-    "Description": "A defender trained to fight with pistols.",
-    "IsPermanent": true,
+    "ItemDescription": "A defender trained to fight with pistols.",
     "Rarity": "Epic",
     "Tier": 5,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/defenders/did_defenderpistol_founders_vr_t05.uasset",
@@ -2659,9 +2648,9 @@
   "Defender:did_defendershotgun_basic_c_t01": {
     "Type": "Defender",
     "Name": "DID_DefenderShotgun_Basic_C_T01",
-    "DisplayName": "Common Shotgun Defender",
+    "ItemName": "Common Shotgun Defender",
     "SubType": "Shotgun Defender",
-    "Description": "A defender trained to fight with shotguns.",
+    "ItemDescription": "A defender trained to fight with shotguns.",
     "LevelToXPRow": "Defender_Common",
     "Rarity": "Common",
     "RecycleRecipe": {
@@ -2685,9 +2674,9 @@
   "Defender:did_defendershotgun_basic_c_t02": {
     "Type": "Defender",
     "Name": "DID_DefenderShotgun_Basic_C_T02",
-    "DisplayName": "Common Shotgun Defender",
+    "ItemName": "Common Shotgun Defender",
     "SubType": "Shotgun Defender",
-    "Description": "A defender trained to fight with shotguns.",
+    "ItemDescription": "A defender trained to fight with shotguns.",
     "LevelToXPRow": "Defender_Common",
     "Rarity": "Common",
     "RecycleRecipe": {
@@ -2704,9 +2693,9 @@
   "Defender:did_defendershotgun_basic_f_r_t01": {
     "Type": "Defender",
     "Name": "DID_DefenderShotgun_Basic_F_R_T01",
-    "DisplayName": "Rare Shotgun Defender",
+    "ItemName": "Rare Shotgun Defender",
     "SubType": "Shotgun Defender",
-    "Description": "A defender trained to fight with shotguns.",
+    "ItemDescription": "A defender trained to fight with shotguns.",
     "LevelToXPRow": "Defender_Rare",
     "Rarity": "Rare",
     "RecycleRecipe": {
@@ -2732,9 +2721,9 @@
   "Defender:did_defendershotgun_basic_f_r_t02": {
     "Type": "Defender",
     "Name": "DID_DefenderShotgun_Basic_F_R_T02",
-    "DisplayName": "Rare Shotgun Defender",
+    "ItemName": "Rare Shotgun Defender",
     "SubType": "Shotgun Defender",
-    "Description": "A defender trained to fight with shotguns.",
+    "ItemDescription": "A defender trained to fight with shotguns.",
     "LevelToXPRow": "Defender_Rare",
     "Rarity": "Rare",
     "RecycleRecipe": {
@@ -2761,9 +2750,9 @@
   "Defender:did_defendershotgun_basic_f_r_t03": {
     "Type": "Defender",
     "Name": "DID_DefenderShotgun_Basic_F_R_T03",
-    "DisplayName": "Rare Shotgun Defender",
+    "ItemName": "Rare Shotgun Defender",
     "SubType": "Shotgun Defender",
-    "Description": "A defender trained to fight with shotguns.",
+    "ItemDescription": "A defender trained to fight with shotguns.",
     "LevelToXPRow": "Defender_Rare",
     "Rarity": "Rare",
     "RecycleRecipe": {
@@ -2791,9 +2780,9 @@
   "Defender:did_defendershotgun_basic_f_r_t04": {
     "Type": "Defender",
     "Name": "DID_DefenderShotgun_Basic_F_R_T04",
-    "DisplayName": "Rare Shotgun Defender",
+    "ItemName": "Rare Shotgun Defender",
     "SubType": "Shotgun Defender",
-    "Description": "A defender trained to fight with shotguns.",
+    "ItemDescription": "A defender trained to fight with shotguns.",
     "LevelToXPRow": "Defender_Rare",
     "Rarity": "Rare",
     "RecycleRecipe": {
@@ -2811,9 +2800,9 @@
   "Defender:did_defendershotgun_basic_f_sr_t01": {
     "Type": "Defender",
     "Name": "DID_DefenderShotgun_Basic_F_SR_T01",
-    "DisplayName": "Legendary Shotgun Defender",
+    "ItemName": "Legendary Shotgun Defender",
     "SubType": "Shotgun Defender",
-    "Description": "A defender trained to fight with shotguns.",
+    "ItemDescription": "A defender trained to fight with shotguns.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -2839,9 +2828,9 @@
   "Defender:did_defendershotgun_basic_f_sr_t02": {
     "Type": "Defender",
     "Name": "DID_DefenderShotgun_Basic_F_SR_T02",
-    "DisplayName": "Legendary Shotgun Defender",
+    "ItemName": "Legendary Shotgun Defender",
     "SubType": "Shotgun Defender",
-    "Description": "A defender trained to fight with shotguns.",
+    "ItemDescription": "A defender trained to fight with shotguns.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -2868,9 +2857,9 @@
   "Defender:did_defendershotgun_basic_f_sr_t03": {
     "Type": "Defender",
     "Name": "DID_DefenderShotgun_Basic_F_SR_T03",
-    "DisplayName": "Legendary Shotgun Defender",
+    "ItemName": "Legendary Shotgun Defender",
     "SubType": "Shotgun Defender",
-    "Description": "A defender trained to fight with shotguns.",
+    "ItemDescription": "A defender trained to fight with shotguns.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -2898,9 +2887,9 @@
   "Defender:did_defendershotgun_basic_f_sr_t04": {
     "Type": "Defender",
     "Name": "DID_DefenderShotgun_Basic_F_SR_T04",
-    "DisplayName": "Legendary Shotgun Defender",
+    "ItemName": "Legendary Shotgun Defender",
     "SubType": "Shotgun Defender",
-    "Description": "A defender trained to fight with shotguns.",
+    "ItemDescription": "A defender trained to fight with shotguns.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -2929,9 +2918,9 @@
   "Defender:did_defendershotgun_basic_f_sr_t05": {
     "Type": "Defender",
     "Name": "DID_DefenderShotgun_Basic_F_SR_T05",
-    "DisplayName": "Legendary Shotgun Defender",
+    "ItemName": "Legendary Shotgun Defender",
     "SubType": "Shotgun Defender",
-    "Description": "A defender trained to fight with shotguns.",
+    "ItemDescription": "A defender trained to fight with shotguns.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -2949,9 +2938,9 @@
   "Defender:did_defendershotgun_basic_f_vr_t01": {
     "Type": "Defender",
     "Name": "DID_DefenderShotgun_Basic_F_VR_T01",
-    "DisplayName": "Epic Shotgun Defender",
+    "ItemName": "Epic Shotgun Defender",
     "SubType": "Shotgun Defender",
-    "Description": "A defender trained to fight with shotguns.",
+    "ItemDescription": "A defender trained to fight with shotguns.",
     "LevelToXPRow": "Defender_VeryRare",
     "Rarity": "Epic",
     "RecycleRecipe": {
@@ -2977,9 +2966,9 @@
   "Defender:did_defendershotgun_basic_f_vr_t02": {
     "Type": "Defender",
     "Name": "DID_DefenderShotgun_Basic_F_VR_T02",
-    "DisplayName": "Epic Shotgun Defender",
+    "ItemName": "Epic Shotgun Defender",
     "SubType": "Shotgun Defender",
-    "Description": "A defender trained to fight with shotguns.",
+    "ItemDescription": "A defender trained to fight with shotguns.",
     "LevelToXPRow": "Defender_VeryRare",
     "Rarity": "Epic",
     "RecycleRecipe": {
@@ -3006,9 +2995,9 @@
   "Defender:did_defendershotgun_basic_f_vr_t03": {
     "Type": "Defender",
     "Name": "DID_DefenderShotgun_Basic_F_VR_T03",
-    "DisplayName": "Epic Shotgun Defender",
+    "ItemName": "Epic Shotgun Defender",
     "SubType": "Shotgun Defender",
-    "Description": "A defender trained to fight with shotguns.",
+    "ItemDescription": "A defender trained to fight with shotguns.",
     "LevelToXPRow": "Defender_VeryRare",
     "Rarity": "Epic",
     "RecycleRecipe": {
@@ -3036,9 +3025,9 @@
   "Defender:did_defendershotgun_basic_f_vr_t04": {
     "Type": "Defender",
     "Name": "DID_DefenderShotgun_Basic_F_VR_T04",
-    "DisplayName": "Epic Shotgun Defender",
+    "ItemName": "Epic Shotgun Defender",
     "SubType": "Shotgun Defender",
-    "Description": "A defender trained to fight with shotguns.",
+    "ItemDescription": "A defender trained to fight with shotguns.",
     "LevelToXPRow": "Defender_VeryRare",
     "Rarity": "Epic",
     "RecycleRecipe": {
@@ -3067,9 +3056,9 @@
   "Defender:did_defendershotgun_basic_f_vr_t05": {
     "Type": "Defender",
     "Name": "DID_DefenderShotgun_Basic_F_VR_T05",
-    "DisplayName": "Epic Shotgun Defender",
+    "ItemName": "Epic Shotgun Defender",
     "SubType": "Shotgun Defender",
-    "Description": "A defender trained to fight with shotguns.",
+    "ItemDescription": "A defender trained to fight with shotguns.",
     "LevelToXPRow": "Defender_VeryRare",
     "Rarity": "Epic",
     "RecycleRecipe": {
@@ -3087,9 +3076,9 @@
   "Defender:did_defendershotgun_basic_r_t01": {
     "Type": "Defender",
     "Name": "DID_DefenderShotgun_Basic_R_T01",
-    "DisplayName": "Rare Shotgun Defender",
+    "ItemName": "Rare Shotgun Defender",
     "SubType": "Shotgun Defender",
-    "Description": "A defender trained to fight with shotguns.",
+    "ItemDescription": "A defender trained to fight with shotguns.",
     "LevelToXPRow": "Defender_Rare",
     "Rarity": "Rare",
     "RecycleRecipe": {
@@ -3115,9 +3104,9 @@
   "Defender:did_defendershotgun_basic_r_t02": {
     "Type": "Defender",
     "Name": "DID_DefenderShotgun_Basic_R_T02",
-    "DisplayName": "Rare Shotgun Defender",
+    "ItemName": "Rare Shotgun Defender",
     "SubType": "Shotgun Defender",
-    "Description": "A defender trained to fight with shotguns.",
+    "ItemDescription": "A defender trained to fight with shotguns.",
     "LevelToXPRow": "Defender_Rare",
     "Rarity": "Rare",
     "RecycleRecipe": {
@@ -3144,9 +3133,9 @@
   "Defender:did_defendershotgun_basic_r_t03": {
     "Type": "Defender",
     "Name": "DID_DefenderShotgun_Basic_R_T03",
-    "DisplayName": "Rare Shotgun Defender",
+    "ItemName": "Rare Shotgun Defender",
     "SubType": "Shotgun Defender",
-    "Description": "A defender trained to fight with shotguns.",
+    "ItemDescription": "A defender trained to fight with shotguns.",
     "LevelToXPRow": "Defender_Rare",
     "Rarity": "Rare",
     "RecycleRecipe": {
@@ -3174,9 +3163,9 @@
   "Defender:did_defendershotgun_basic_r_t04": {
     "Type": "Defender",
     "Name": "DID_DefenderShotgun_Basic_R_T04",
-    "DisplayName": "Rare Shotgun Defender",
+    "ItemName": "Rare Shotgun Defender",
     "SubType": "Shotgun Defender",
-    "Description": "A defender trained to fight with shotguns.",
+    "ItemDescription": "A defender trained to fight with shotguns.",
     "LevelToXPRow": "Defender_Rare",
     "Rarity": "Rare",
     "RecycleRecipe": {
@@ -3194,9 +3183,9 @@
   "Defender:did_defendershotgun_basic_sr_t01": {
     "Type": "Defender",
     "Name": "DID_DefenderShotgun_Basic_SR_T01",
-    "DisplayName": "Legendary Shotgun Defender",
+    "ItemName": "Legendary Shotgun Defender",
     "SubType": "Shotgun Defender",
-    "Description": "A defender trained to fight with shotguns.",
+    "ItemDescription": "A defender trained to fight with shotguns.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -3222,9 +3211,9 @@
   "Defender:did_defendershotgun_basic_sr_t02": {
     "Type": "Defender",
     "Name": "DID_DefenderShotgun_Basic_SR_T02",
-    "DisplayName": "Legendary Shotgun Defender",
+    "ItemName": "Legendary Shotgun Defender",
     "SubType": "Shotgun Defender",
-    "Description": "A defender trained to fight with shotguns.",
+    "ItemDescription": "A defender trained to fight with shotguns.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -3251,9 +3240,9 @@
   "Defender:did_defendershotgun_basic_sr_t03": {
     "Type": "Defender",
     "Name": "DID_DefenderShotgun_Basic_SR_T03",
-    "DisplayName": "Legendary Shotgun Defender",
+    "ItemName": "Legendary Shotgun Defender",
     "SubType": "Shotgun Defender",
-    "Description": "A defender trained to fight with shotguns.",
+    "ItemDescription": "A defender trained to fight with shotguns.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -3281,9 +3270,9 @@
   "Defender:did_defendershotgun_basic_sr_t04": {
     "Type": "Defender",
     "Name": "DID_DefenderShotgun_Basic_SR_T04",
-    "DisplayName": "Legendary Shotgun Defender",
+    "ItemName": "Legendary Shotgun Defender",
     "SubType": "Shotgun Defender",
-    "Description": "A defender trained to fight with shotguns.",
+    "ItemDescription": "A defender trained to fight with shotguns.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -3312,9 +3301,9 @@
   "Defender:did_defendershotgun_basic_sr_t05": {
     "Type": "Defender",
     "Name": "DID_DefenderShotgun_Basic_SR_T05",
-    "DisplayName": "Legendary Shotgun Defender",
+    "ItemName": "Legendary Shotgun Defender",
     "SubType": "Shotgun Defender",
-    "Description": "A defender trained to fight with shotguns.",
+    "ItemDescription": "A defender trained to fight with shotguns.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -3332,9 +3321,9 @@
   "Defender:did_defendershotgun_basic_uc_t01": {
     "Type": "Defender",
     "Name": "DID_DefenderShotgun_Basic_UC_T01",
-    "DisplayName": "Uncommon Shotgun Defender",
+    "ItemName": "Uncommon Shotgun Defender",
     "SubType": "Shotgun Defender",
-    "Description": "A defender trained to fight with shotguns.",
+    "ItemDescription": "A defender trained to fight with shotguns.",
     "LevelToXPRow": "Defender_Uncommon",
     "Rarity": "Uncommon",
     "RecycleRecipe": {
@@ -3359,9 +3348,9 @@
   "Defender:did_defendershotgun_basic_uc_t02": {
     "Type": "Defender",
     "Name": "DID_DefenderShotgun_Basic_UC_T02",
-    "DisplayName": "Uncommon Shotgun Defender",
+    "ItemName": "Uncommon Shotgun Defender",
     "SubType": "Shotgun Defender",
-    "Description": "A defender trained to fight with shotguns.",
+    "ItemDescription": "A defender trained to fight with shotguns.",
     "LevelToXPRow": "Defender_Uncommon",
     "Rarity": "Uncommon",
     "RecycleRecipe": {
@@ -3388,9 +3377,9 @@
   "Defender:did_defendershotgun_basic_uc_t03": {
     "Type": "Defender",
     "Name": "DID_DefenderShotgun_Basic_UC_T03",
-    "DisplayName": "Uncommon Shotgun Defender",
+    "ItemName": "Uncommon Shotgun Defender",
     "SubType": "Shotgun Defender",
-    "Description": "A defender trained to fight with shotguns.",
+    "ItemDescription": "A defender trained to fight with shotguns.",
     "LevelToXPRow": "Defender_Uncommon",
     "Rarity": "Uncommon",
     "RecycleRecipe": {
@@ -3408,9 +3397,9 @@
   "Defender:did_defendershotgun_basic_vr_t01": {
     "Type": "Defender",
     "Name": "DID_DefenderShotgun_Basic_VR_T01",
-    "DisplayName": "Epic Shotgun Defender",
+    "ItemName": "Epic Shotgun Defender",
     "SubType": "Shotgun Defender",
-    "Description": "A defender trained to fight with shotguns.",
+    "ItemDescription": "A defender trained to fight with shotguns.",
     "LevelToXPRow": "Defender_VeryRare",
     "Rarity": "Epic",
     "RecycleRecipe": {
@@ -3436,9 +3425,9 @@
   "Defender:did_defendershotgun_basic_vr_t02": {
     "Type": "Defender",
     "Name": "DID_DefenderShotgun_Basic_VR_T02",
-    "DisplayName": "Epic Shotgun Defender",
+    "ItemName": "Epic Shotgun Defender",
     "SubType": "Shotgun Defender",
-    "Description": "A defender trained to fight with shotguns.",
+    "ItemDescription": "A defender trained to fight with shotguns.",
     "LevelToXPRow": "Defender_VeryRare",
     "Rarity": "Epic",
     "RecycleRecipe": {
@@ -3465,9 +3454,9 @@
   "Defender:did_defendershotgun_basic_vr_t03": {
     "Type": "Defender",
     "Name": "DID_DefenderShotgun_Basic_VR_T03",
-    "DisplayName": "Epic Shotgun Defender",
+    "ItemName": "Epic Shotgun Defender",
     "SubType": "Shotgun Defender",
-    "Description": "A defender trained to fight with shotguns.",
+    "ItemDescription": "A defender trained to fight with shotguns.",
     "LevelToXPRow": "Defender_VeryRare",
     "Rarity": "Epic",
     "RecycleRecipe": {
@@ -3495,9 +3484,9 @@
   "Defender:did_defendershotgun_basic_vr_t04": {
     "Type": "Defender",
     "Name": "DID_DefenderShotgun_Basic_VR_T04",
-    "DisplayName": "Epic Shotgun Defender",
+    "ItemName": "Epic Shotgun Defender",
     "SubType": "Shotgun Defender",
-    "Description": "A defender trained to fight with shotguns.",
+    "ItemDescription": "A defender trained to fight with shotguns.",
     "LevelToXPRow": "Defender_VeryRare",
     "Rarity": "Epic",
     "RecycleRecipe": {
@@ -3526,9 +3515,9 @@
   "Defender:did_defendershotgun_basic_vr_t05": {
     "Type": "Defender",
     "Name": "DID_DefenderShotgun_Basic_VR_T05",
-    "DisplayName": "Epic Shotgun Defender",
+    "ItemName": "Epic Shotgun Defender",
     "SubType": "Shotgun Defender",
-    "Description": "A defender trained to fight with shotguns.",
+    "ItemDescription": "A defender trained to fight with shotguns.",
     "LevelToXPRow": "Defender_VeryRare",
     "Rarity": "Epic",
     "RecycleRecipe": {
@@ -3546,9 +3535,9 @@
   "Defender:did_defendersniper_basic_c_t01": {
     "Type": "Defender",
     "Name": "DID_DefenderSniper_Basic_C_T01",
-    "DisplayName": "Common Sniper Defender",
+    "ItemName": "Common Sniper Defender",
     "SubType": "Sniper Defender",
-    "Description": "A defender trained to fight with sniper rifles.",
+    "ItemDescription": "A defender trained to fight with sniper rifles.",
     "LevelToXPRow": "Defender_Common",
     "Rarity": "Common",
     "RecycleRecipe": {
@@ -3572,9 +3561,9 @@
   "Defender:did_defendersniper_basic_c_t02": {
     "Type": "Defender",
     "Name": "DID_DefenderSniper_Basic_C_T02",
-    "DisplayName": "Common Sniper Defender",
+    "ItemName": "Common Sniper Defender",
     "SubType": "Sniper Defender",
-    "Description": "A defender trained to fight with sniper rifles.",
+    "ItemDescription": "A defender trained to fight with sniper rifles.",
     "LevelToXPRow": "Defender_Common",
     "Rarity": "Common",
     "RecycleRecipe": {
@@ -3591,9 +3580,9 @@
   "Defender:did_defendersniper_basic_m_r_t01": {
     "Type": "Defender",
     "Name": "DID_DefenderSniper_Basic_M_R_T01",
-    "DisplayName": "Rare Sniper Defender",
+    "ItemName": "Rare Sniper Defender",
     "SubType": "Sniper Defender",
-    "Description": "A defender trained to fight with sniper rifles.",
+    "ItemDescription": "A defender trained to fight with sniper rifles.",
     "LevelToXPRow": "Defender_Rare",
     "Rarity": "Rare",
     "RecycleRecipe": {
@@ -3619,9 +3608,9 @@
   "Defender:did_defendersniper_basic_m_r_t02": {
     "Type": "Defender",
     "Name": "DID_DefenderSniper_Basic_M_R_T02",
-    "DisplayName": "Rare Sniper Defender",
+    "ItemName": "Rare Sniper Defender",
     "SubType": "Sniper Defender",
-    "Description": "A defender trained to fight with sniper rifles.",
+    "ItemDescription": "A defender trained to fight with sniper rifles.",
     "LevelToXPRow": "Defender_Rare",
     "Rarity": "Rare",
     "RecycleRecipe": {
@@ -3648,9 +3637,9 @@
   "Defender:did_defendersniper_basic_m_r_t03": {
     "Type": "Defender",
     "Name": "DID_DefenderSniper_Basic_M_R_T03",
-    "DisplayName": "Rare Sniper Defender",
+    "ItemName": "Rare Sniper Defender",
     "SubType": "Sniper Defender",
-    "Description": "A defender trained to fight with sniper rifles.",
+    "ItemDescription": "A defender trained to fight with sniper rifles.",
     "LevelToXPRow": "Defender_Rare",
     "Rarity": "Rare",
     "RecycleRecipe": {
@@ -3678,9 +3667,9 @@
   "Defender:did_defendersniper_basic_m_r_t04": {
     "Type": "Defender",
     "Name": "DID_DefenderSniper_Basic_M_R_T04",
-    "DisplayName": "Rare Sniper Defender",
+    "ItemName": "Rare Sniper Defender",
     "SubType": "Sniper Defender",
-    "Description": "A defender trained to fight with sniper rifles.",
+    "ItemDescription": "A defender trained to fight with sniper rifles.",
     "LevelToXPRow": "Defender_Rare",
     "Rarity": "Rare",
     "RecycleRecipe": {
@@ -3698,9 +3687,9 @@
   "Defender:did_defendersniper_basic_m_sr_t01": {
     "Type": "Defender",
     "Name": "DID_DefenderSniper_Basic_M_SR_T01",
-    "DisplayName": "Legendary Sniper Defender",
+    "ItemName": "Legendary Sniper Defender",
     "SubType": "Sniper Defender",
-    "Description": "A defender trained to fight with sniper rifles.",
+    "ItemDescription": "A defender trained to fight with sniper rifles.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -3726,9 +3715,9 @@
   "Defender:did_defendersniper_basic_m_sr_t02": {
     "Type": "Defender",
     "Name": "DID_DefenderSniper_Basic_M_SR_T02",
-    "DisplayName": "Legendary Sniper Defender",
+    "ItemName": "Legendary Sniper Defender",
     "SubType": "Sniper Defender",
-    "Description": "A defender trained to fight with sniper rifles.",
+    "ItemDescription": "A defender trained to fight with sniper rifles.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -3755,9 +3744,9 @@
   "Defender:did_defendersniper_basic_m_sr_t03": {
     "Type": "Defender",
     "Name": "DID_DefenderSniper_Basic_M_SR_T03",
-    "DisplayName": "Legendary Sniper Defender",
+    "ItemName": "Legendary Sniper Defender",
     "SubType": "Sniper Defender",
-    "Description": "A defender trained to fight with sniper rifles.",
+    "ItemDescription": "A defender trained to fight with sniper rifles.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -3785,9 +3774,9 @@
   "Defender:did_defendersniper_basic_m_sr_t04": {
     "Type": "Defender",
     "Name": "DID_DefenderSniper_Basic_M_SR_T04",
-    "DisplayName": "Legendary Sniper Defender",
+    "ItemName": "Legendary Sniper Defender",
     "SubType": "Sniper Defender",
-    "Description": "A defender trained to fight with sniper rifles.",
+    "ItemDescription": "A defender trained to fight with sniper rifles.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -3816,9 +3805,9 @@
   "Defender:did_defendersniper_basic_m_sr_t05": {
     "Type": "Defender",
     "Name": "DID_DefenderSniper_Basic_M_SR_T05",
-    "DisplayName": "Legendary Sniper Defender",
+    "ItemName": "Legendary Sniper Defender",
     "SubType": "Sniper Defender",
-    "Description": "A defender trained to fight with sniper rifles.",
+    "ItemDescription": "A defender trained to fight with sniper rifles.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -3836,9 +3825,9 @@
   "Defender:did_defendersniper_basic_m_vr_t01": {
     "Type": "Defender",
     "Name": "DID_DefenderSniper_Basic_M_VR_T01",
-    "DisplayName": "Epic Sniper Defender",
+    "ItemName": "Epic Sniper Defender",
     "SubType": "Sniper Defender",
-    "Description": "A defender trained to fight with sniper rifles.",
+    "ItemDescription": "A defender trained to fight with sniper rifles.",
     "LevelToXPRow": "Defender_VeryRare",
     "Rarity": "Epic",
     "RecycleRecipe": {
@@ -3864,9 +3853,9 @@
   "Defender:did_defendersniper_basic_m_vr_t02": {
     "Type": "Defender",
     "Name": "DID_DefenderSniper_Basic_M_VR_T02",
-    "DisplayName": "Epic Sniper Defender",
+    "ItemName": "Epic Sniper Defender",
     "SubType": "Sniper Defender",
-    "Description": "A defender trained to fight with sniper rifles.",
+    "ItemDescription": "A defender trained to fight with sniper rifles.",
     "LevelToXPRow": "Defender_VeryRare",
     "Rarity": "Epic",
     "RecycleRecipe": {
@@ -3893,9 +3882,9 @@
   "Defender:did_defendersniper_basic_m_vr_t03": {
     "Type": "Defender",
     "Name": "DID_DefenderSniper_Basic_M_VR_T03",
-    "DisplayName": "Epic Sniper Defender",
+    "ItemName": "Epic Sniper Defender",
     "SubType": "Sniper Defender",
-    "Description": "A defender trained to fight with sniper rifles.",
+    "ItemDescription": "A defender trained to fight with sniper rifles.",
     "LevelToXPRow": "Defender_VeryRare",
     "Rarity": "Epic",
     "RecycleRecipe": {
@@ -3923,9 +3912,9 @@
   "Defender:did_defendersniper_basic_m_vr_t04": {
     "Type": "Defender",
     "Name": "DID_DefenderSniper_Basic_M_VR_T04",
-    "DisplayName": "Epic Sniper Defender",
+    "ItemName": "Epic Sniper Defender",
     "SubType": "Sniper Defender",
-    "Description": "A defender trained to fight with sniper rifles.",
+    "ItemDescription": "A defender trained to fight with sniper rifles.",
     "LevelToXPRow": "Defender_VeryRare",
     "Rarity": "Epic",
     "RecycleRecipe": {
@@ -3954,9 +3943,9 @@
   "Defender:did_defendersniper_basic_m_vr_t05": {
     "Type": "Defender",
     "Name": "DID_DefenderSniper_Basic_M_VR_T05",
-    "DisplayName": "Epic Sniper Defender",
+    "ItemName": "Epic Sniper Defender",
     "SubType": "Sniper Defender",
-    "Description": "A defender trained to fight with sniper rifles.",
+    "ItemDescription": "A defender trained to fight with sniper rifles.",
     "LevelToXPRow": "Defender_VeryRare",
     "Rarity": "Epic",
     "RecycleRecipe": {
@@ -3974,9 +3963,9 @@
   "Defender:did_defendersniper_basic_r_t01": {
     "Type": "Defender",
     "Name": "DID_DefenderSniper_Basic_R_T01",
-    "DisplayName": "Rare Sniper Defender",
+    "ItemName": "Rare Sniper Defender",
     "SubType": "Sniper Defender",
-    "Description": "A defender trained to fight with sniper rifles.",
+    "ItemDescription": "A defender trained to fight with sniper rifles.",
     "LevelToXPRow": "Defender_Rare",
     "Rarity": "Rare",
     "RecycleRecipe": {
@@ -4002,9 +3991,9 @@
   "Defender:did_defendersniper_basic_r_t02": {
     "Type": "Defender",
     "Name": "DID_DefenderSniper_Basic_R_T02",
-    "DisplayName": "Rare Sniper Defender",
+    "ItemName": "Rare Sniper Defender",
     "SubType": "Sniper Defender",
-    "Description": "A defender trained to fight with sniper rifles.",
+    "ItemDescription": "A defender trained to fight with sniper rifles.",
     "LevelToXPRow": "Defender_Rare",
     "Rarity": "Rare",
     "RecycleRecipe": {
@@ -4031,9 +4020,9 @@
   "Defender:did_defendersniper_basic_r_t03": {
     "Type": "Defender",
     "Name": "DID_DefenderSniper_Basic_R_T03",
-    "DisplayName": "Rare Sniper Defender",
+    "ItemName": "Rare Sniper Defender",
     "SubType": "Sniper Defender",
-    "Description": "A defender trained to fight with sniper rifles.",
+    "ItemDescription": "A defender trained to fight with sniper rifles.",
     "LevelToXPRow": "Defender_Rare",
     "Rarity": "Rare",
     "RecycleRecipe": {
@@ -4061,9 +4050,9 @@
   "Defender:did_defendersniper_basic_r_t04": {
     "Type": "Defender",
     "Name": "DID_DefenderSniper_Basic_R_T04",
-    "DisplayName": "Rare Sniper Defender",
+    "ItemName": "Rare Sniper Defender",
     "SubType": "Sniper Defender",
-    "Description": "A defender trained to fight with sniper rifles.",
+    "ItemDescription": "A defender trained to fight with sniper rifles.",
     "LevelToXPRow": "Defender_Rare",
     "Rarity": "Rare",
     "RecycleRecipe": {
@@ -4081,9 +4070,9 @@
   "Defender:did_defendersniper_basic_sr_t01": {
     "Type": "Defender",
     "Name": "DID_DefenderSniper_Basic_SR_T01",
-    "DisplayName": "Legendary Sniper Defender",
+    "ItemName": "Legendary Sniper Defender",
     "SubType": "Sniper Defender",
-    "Description": "A defender trained to fight with sniper rifles.",
+    "ItemDescription": "A defender trained to fight with sniper rifles.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -4109,9 +4098,9 @@
   "Defender:did_defendersniper_basic_sr_t02": {
     "Type": "Defender",
     "Name": "DID_DefenderSniper_Basic_SR_T02",
-    "DisplayName": "Legendary Sniper Defender",
+    "ItemName": "Legendary Sniper Defender",
     "SubType": "Sniper Defender",
-    "Description": "A defender trained to fight with sniper rifles.",
+    "ItemDescription": "A defender trained to fight with sniper rifles.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -4138,9 +4127,9 @@
   "Defender:did_defendersniper_basic_sr_t03": {
     "Type": "Defender",
     "Name": "DID_DefenderSniper_Basic_SR_T03",
-    "DisplayName": "Legendary Sniper Defender",
+    "ItemName": "Legendary Sniper Defender",
     "SubType": "Sniper Defender",
-    "Description": "A defender trained to fight with sniper rifles.",
+    "ItemDescription": "A defender trained to fight with sniper rifles.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -4168,9 +4157,9 @@
   "Defender:did_defendersniper_basic_sr_t04": {
     "Type": "Defender",
     "Name": "DID_DefenderSniper_Basic_SR_T04",
-    "DisplayName": "Legendary Sniper Defender",
+    "ItemName": "Legendary Sniper Defender",
     "SubType": "Sniper Defender",
-    "Description": "A defender trained to fight with sniper rifles.",
+    "ItemDescription": "A defender trained to fight with sniper rifles.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -4199,9 +4188,9 @@
   "Defender:did_defendersniper_basic_sr_t05": {
     "Type": "Defender",
     "Name": "DID_DefenderSniper_Basic_SR_T05",
-    "DisplayName": "Legendary Sniper Defender",
+    "ItemName": "Legendary Sniper Defender",
     "SubType": "Sniper Defender",
-    "Description": "A defender trained to fight with sniper rifles.",
+    "ItemDescription": "A defender trained to fight with sniper rifles.",
     "LevelToXPRow": "Defender_SuperRare",
     "Rarity": "Legendary",
     "RecycleRecipe": {
@@ -4219,9 +4208,9 @@
   "Defender:did_defendersniper_basic_uc_t01": {
     "Type": "Defender",
     "Name": "DID_DefenderSniper_Basic_UC_T01",
-    "DisplayName": "Uncommon Sniper Defender",
+    "ItemName": "Uncommon Sniper Defender",
     "SubType": "Sniper Defender",
-    "Description": "A defender trained to fight with sniper rifles.",
+    "ItemDescription": "A defender trained to fight with sniper rifles.",
     "LevelToXPRow": "Defender_Uncommon",
     "Rarity": "Uncommon",
     "RecycleRecipe": {
@@ -4246,9 +4235,9 @@
   "Defender:did_defendersniper_basic_uc_t02": {
     "Type": "Defender",
     "Name": "DID_DefenderSniper_Basic_UC_T02",
-    "DisplayName": "Uncommon Sniper Defender",
+    "ItemName": "Uncommon Sniper Defender",
     "SubType": "Sniper Defender",
-    "Description": "A defender trained to fight with sniper rifles.",
+    "ItemDescription": "A defender trained to fight with sniper rifles.",
     "LevelToXPRow": "Defender_Uncommon",
     "Rarity": "Uncommon",
     "RecycleRecipe": {
@@ -4275,9 +4264,9 @@
   "Defender:did_defendersniper_basic_uc_t03": {
     "Type": "Defender",
     "Name": "DID_DefenderSniper_Basic_UC_T03",
-    "DisplayName": "Uncommon Sniper Defender",
+    "ItemName": "Uncommon Sniper Defender",
     "SubType": "Sniper Defender",
-    "Description": "A defender trained to fight with sniper rifles.",
+    "ItemDescription": "A defender trained to fight with sniper rifles.",
     "LevelToXPRow": "Defender_Uncommon",
     "Rarity": "Uncommon",
     "RecycleRecipe": {
@@ -4295,9 +4284,9 @@
   "Defender:did_defendersniper_basic_vr_t01": {
     "Type": "Defender",
     "Name": "DID_DefenderSniper_Basic_VR_T01",
-    "DisplayName": "Epic Sniper Defender",
+    "ItemName": "Epic Sniper Defender",
     "SubType": "Sniper Defender",
-    "Description": "A defender trained to fight with sniper rifles.",
+    "ItemDescription": "A defender trained to fight with sniper rifles.",
     "LevelToXPRow": "Defender_VeryRare",
     "Rarity": "Epic",
     "RecycleRecipe": {
@@ -4323,9 +4312,9 @@
   "Defender:did_defendersniper_basic_vr_t02": {
     "Type": "Defender",
     "Name": "DID_DefenderSniper_Basic_VR_T02",
-    "DisplayName": "Epic Sniper Defender",
+    "ItemName": "Epic Sniper Defender",
     "SubType": "Sniper Defender",
-    "Description": "A defender trained to fight with sniper rifles.",
+    "ItemDescription": "A defender trained to fight with sniper rifles.",
     "LevelToXPRow": "Defender_VeryRare",
     "Rarity": "Epic",
     "RecycleRecipe": {
@@ -4352,9 +4341,9 @@
   "Defender:did_defendersniper_basic_vr_t03": {
     "Type": "Defender",
     "Name": "DID_DefenderSniper_Basic_VR_T03",
-    "DisplayName": "Epic Sniper Defender",
+    "ItemName": "Epic Sniper Defender",
     "SubType": "Sniper Defender",
-    "Description": "A defender trained to fight with sniper rifles.",
+    "ItemDescription": "A defender trained to fight with sniper rifles.",
     "LevelToXPRow": "Defender_VeryRare",
     "Rarity": "Epic",
     "RecycleRecipe": {
@@ -4382,9 +4371,9 @@
   "Defender:did_defendersniper_basic_vr_t04": {
     "Type": "Defender",
     "Name": "DID_DefenderSniper_Basic_VR_T04",
-    "DisplayName": "Epic Sniper Defender",
+    "ItemName": "Epic Sniper Defender",
     "SubType": "Sniper Defender",
-    "Description": "A defender trained to fight with sniper rifles.",
+    "ItemDescription": "A defender trained to fight with sniper rifles.",
     "LevelToXPRow": "Defender_VeryRare",
     "Rarity": "Epic",
     "RecycleRecipe": {
@@ -4413,9 +4402,9 @@
   "Defender:did_defendersniper_basic_vr_t05": {
     "Type": "Defender",
     "Name": "DID_DefenderSniper_Basic_VR_T05",
-    "DisplayName": "Epic Sniper Defender",
+    "ItemName": "Epic Sniper Defender",
     "SubType": "Sniper Defender",
-    "Description": "A defender trained to fight with sniper rifles.",
+    "ItemDescription": "A defender trained to fight with sniper rifles.",
     "LevelToXPRow": "Defender_VeryRare",
     "Rarity": "Epic",
     "RecycleRecipe": {

@@ -2,9 +2,8 @@
   "WorldItem:golditemdata": {
     "Type": "WorldItem",
     "Name": "GoldItemData",
-    "DisplayName": "Gold",
-    "Description": "Basic resource found throughout the world.",
-    "IsPermanent": true,
+    "ItemName": "Gold",
+    "ItemDescription": "Basic resource found throughout the world.",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/content/items/resourcepickups/golditemdata.uasset",
     "ImagePaths": {
@@ -15,9 +14,8 @@
   "WorldItem:metalitemdata": {
     "Type": "WorldItem",
     "Name": "MetalItemData",
-    "DisplayName": "Metal",
-    "Description": "Basic resource found throughout the world.",
-    "IsPermanent": true,
+    "ItemName": "Metal",
+    "ItemDescription": "Basic resource found throughout the world.",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/content/items/resourcepickups/metalitemdata.uasset",
     "ImagePaths": {
@@ -28,9 +26,8 @@
   "WorldItem:permaniteitemdata": {
     "Type": "WorldItem",
     "Name": "PermaniteItemData",
-    "DisplayName": "Permanite",
-    "Description": "Permanent resource used to build core of the Keep",
-    "IsPermanent": true,
+    "ItemName": "Permanite",
+    "ItemDescription": "Permanent resource used to build core of the Keep",
     "AssetPath": "fortnitegame/content/items/resourcepickups/permaniteitemdata.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\Icon_Permanite.png",
@@ -40,9 +37,8 @@
   "WorldItem:stoneitemdata": {
     "Type": "WorldItem",
     "Name": "StoneItemData",
-    "DisplayName": "Stone",
-    "Description": "Basic resource found throughout the world.",
-    "IsPermanent": true,
+    "ItemName": "Stone",
+    "ItemDescription": "Basic resource found throughout the world.",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/content/items/resourcepickups/stoneitemdata.uasset",
     "ImagePaths": {
@@ -53,9 +49,8 @@
   "WorldItem:survivoritemdata": {
     "Type": "WorldItem",
     "Name": "SurvivorItemData",
-    "DisplayName": "Survivor",
-    "Description": "A human being worth saving",
-    "IsPermanent": true,
+    "ItemName": "Survivor",
+    "ItemDescription": "A human being worth saving",
     "Rarity": "Mythic",
     "AssetPath": "fortnitegame/content/items/resourcepickups/survivoritemdata.uasset",
     "ImagePaths": {
@@ -66,9 +61,8 @@
   "WorldItem:wooditemdata": {
     "Type": "WorldItem",
     "Name": "WoodItemData",
-    "DisplayName": "Wood",
-    "Description": "Basic resource found throughout the world.",
-    "IsPermanent": true,
+    "ItemName": "Wood",
+    "ItemDescription": "Basic resource found throughout the world.",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/content/items/resourcepickups/wooditemdata.uasset",
     "ImagePaths": {

@@ -2149,6 +2149,7 @@
     "Type": "Alteration",
     "Name": "AID_Att_Melee_CritChance",
     "ItemName": "\u002B14% Crit Chance",
+    "Legacy": true,
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_melee_critchance.uasset"
   },
@@ -2156,12 +2157,14 @@
     "Type": "Alteration",
     "Name": "AID_Att_Melee_CritChance_Alt1",
     "ItemName": "\u002B21% Crit Chance",
+    "Legacy": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_melee_critchance_alt1.uasset"
   },
   "Alteration:aid_att_melee_critchance_alt2": {
     "Type": "Alteration",
     "Name": "AID_Att_Melee_CritChance_Alt2",
     "ItemName": "\u002B28% Crit Chance",
+    "Legacy": true,
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_melee_critchance_alt2.uasset"
   },
@@ -2169,6 +2172,7 @@
     "Type": "Alteration",
     "Name": "AID_Att_Melee_CritDamage",
     "ItemName": "\u002B45% Crit Damage",
+    "Legacy": true,
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_melee_critdamage.uasset"
   },
@@ -2176,12 +2180,14 @@
     "Type": "Alteration",
     "Name": "AID_Att_Melee_CritDamage_Alt1",
     "ItemName": "\u002B67.5% Crit Damage",
+    "Legacy": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_melee_critdamage_alt1.uasset"
   },
   "Alteration:aid_att_melee_critdamage_alt2": {
     "Type": "Alteration",
     "Name": "AID_Att_Melee_CritDamage_Alt2",
     "ItemName": "\u002B90% Crit Damage",
+    "Legacy": true,
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_melee_critdamage_alt2.uasset"
   },
@@ -2189,6 +2195,7 @@
     "Type": "Alteration",
     "Name": "AID_Att_Melee_Damage",
     "ItemName": "\u002B10% Damage",
+    "Legacy": true,
     "Rarity": "Common",
     "Tier": 2,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_melee_damage.uasset"
@@ -2197,6 +2204,7 @@
     "Type": "Alteration",
     "Name": "AID_Att_Melee_Damage_Alt1",
     "ItemName": "\u002B15% Damage",
+    "Legacy": true,
     "Tier": 2,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_melee_damage_alt1.uasset"
   },
@@ -2204,6 +2212,7 @@
     "Type": "Alteration",
     "Name": "AID_Att_Melee_Damage_Alt2",
     "ItemName": "\u002B20% Damage",
+    "Legacy": true,
     "Rarity": "Rare",
     "Tier": 3,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_melee_damage_alt2.uasset"
@@ -2212,6 +2221,7 @@
     "Type": "Alteration",
     "Name": "AID_Att_Melee_DurabilityDecay",
     "ItemName": "\u002B14% Durability",
+    "Legacy": true,
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_melee_durabilitydecay.uasset"
   },
@@ -2219,12 +2229,14 @@
     "Type": "Alteration",
     "Name": "AID_Att_Melee_DurabilityDecay_Alt1",
     "ItemName": "\u002B21% Durability",
+    "Legacy": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_melee_durabilitydecay_alt1.uasset"
   },
   "Alteration:aid_att_melee_durabilitydecay_alt2": {
     "Type": "Alteration",
     "Name": "AID_Att_Melee_DurabilityDecay_Alt2",
     "ItemName": "\u002B28% Durability",
+    "Legacy": true,
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_melee_durabilitydecay_alt2.uasset"
   },
@@ -2232,6 +2244,7 @@
     "Type": "Alteration",
     "Name": "AID_Att_Melee_StaminaCostReduction",
     "ItemName": "\u002B10% Heavy Attack Stamina Efficiency",
+    "Legacy": true,
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_melee_staminacostreduction.uasset"
   },
@@ -2239,12 +2252,14 @@
     "Type": "Alteration",
     "Name": "AID_Att_Melee_StaminaCostReduction_Alt1",
     "ItemName": "\u002B15% Heavy Attack Stamina Efficiency",
+    "Legacy": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_melee_staminacostreduction_alt1.uasset"
   },
   "Alteration:aid_att_melee_staminacostreduction_alt2": {
     "Type": "Alteration",
     "Name": "AID_Att_Melee_StaminaCostReduction_Alt2",
     "ItemName": "\u002B20% Heavy Attack Stamina Efficiency",
+    "Legacy": true,
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_melee_staminacostreduction_alt2.uasset"
   },
@@ -2349,6 +2364,7 @@
     "Type": "Alteration",
     "Name": "AID_Att_Ranged_ClipSize",
     "ItemName": "\u002B25% Magazine Size",
+    "Legacy": true,
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_ranged_clipsize.uasset"
   },
@@ -2356,12 +2372,14 @@
     "Type": "Alteration",
     "Name": "AID_Att_Ranged_ClipSize_Alt1",
     "ItemName": "\u002B38% Magazine Size",
+    "Legacy": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_ranged_clipsize_alt1.uasset"
   },
   "Alteration:aid_att_ranged_clipsize_alt2": {
     "Type": "Alteration",
     "Name": "AID_Att_Ranged_ClipSize_Alt2",
     "ItemName": "\u002B50% Magazine Size",
+    "Legacy": true,
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_ranged_clipsize_alt2.uasset"
   },
@@ -2369,6 +2387,7 @@
     "Type": "Alteration",
     "Name": "AID_Att_Ranged_CritChance",
     "ItemName": "\u002B14% Crit Chance",
+    "Legacy": true,
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_ranged_critchance.uasset"
   },
@@ -2376,12 +2395,14 @@
     "Type": "Alteration",
     "Name": "AID_Att_Ranged_CritChance_Alt1",
     "ItemName": "\u002B21% Crit Chance",
+    "Legacy": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_ranged_critchance_alt1.uasset"
   },
   "Alteration:aid_att_ranged_critchance_alt2": {
     "Type": "Alteration",
     "Name": "AID_Att_Ranged_CritChance_Alt2",
     "ItemName": "\u002B28% Crit Chance",
+    "Legacy": true,
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_ranged_critchance_alt2.uasset"
   },
@@ -2389,6 +2410,7 @@
     "Type": "Alteration",
     "Name": "AID_Att_Ranged_CritDamage",
     "ItemName": "\u002B45% Crit Damage",
+    "Legacy": true,
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_ranged_critdamage.uasset"
   },
@@ -2396,12 +2418,14 @@
     "Type": "Alteration",
     "Name": "AID_Att_Ranged_CritDamage_Alt1",
     "ItemName": "\u002B67.5% Crit Damage",
+    "Legacy": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_ranged_critdamage_alt1.uasset"
   },
   "Alteration:aid_att_ranged_critdamage_alt2": {
     "Type": "Alteration",
     "Name": "AID_Att_Ranged_CritDamage_Alt2",
     "ItemName": "\u002B90% Crit Damage",
+    "Legacy": true,
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_ranged_critdamage_alt2.uasset"
   },
@@ -2409,6 +2433,7 @@
     "Type": "Alteration",
     "Name": "AID_Att_Ranged_Damage",
     "ItemName": "\u002B10% Damage",
+    "Legacy": true,
     "Rarity": "Common",
     "Tier": 2,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_ranged_damage.uasset"
@@ -2417,6 +2442,7 @@
     "Type": "Alteration",
     "Name": "AID_Att_Ranged_Damage_Alt1",
     "ItemName": "\u002B15% Damage",
+    "Legacy": true,
     "Tier": 2,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_ranged_damage_alt1.uasset"
   },
@@ -2424,6 +2450,7 @@
     "Type": "Alteration",
     "Name": "AID_Att_Ranged_Damage_Alt2",
     "ItemName": "\u002B20% Damage",
+    "Legacy": true,
     "Rarity": "Rare",
     "Tier": 3,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_ranged_damage_alt2.uasset"
@@ -2432,6 +2459,7 @@
     "Type": "Alteration",
     "Name": "AID_Att_Ranged_DurabilityDecay",
     "ItemName": "\u002B14% Durability",
+    "Legacy": true,
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_ranged_durabilitydecay.uasset"
   },
@@ -2439,12 +2467,14 @@
     "Type": "Alteration",
     "Name": "AID_Att_Ranged_DurabilityDecay_Alt1",
     "ItemName": "\u002B21% Durability",
+    "Legacy": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_ranged_durabilitydecay_alt1.uasset"
   },
   "Alteration:aid_att_ranged_durabilitydecay_alt2": {
     "Type": "Alteration",
     "Name": "AID_Att_Ranged_DurabilityDecay_Alt2",
     "ItemName": "\u002B28% Durability",
+    "Legacy": true,
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_ranged_durabilitydecay_alt2.uasset"
   },
@@ -2452,6 +2482,7 @@
     "Type": "Alteration",
     "Name": "AID_Att_Ranged_FireRate",
     "ItemName": "\u002B14% Fire Rate",
+    "Legacy": true,
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_ranged_firerate.uasset"
   },
@@ -2459,12 +2490,14 @@
     "Type": "Alteration",
     "Name": "AID_Att_Ranged_FireRate_Alt1",
     "ItemName": "\u002B21% Fire Rate",
+    "Legacy": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_ranged_firerate_alt1.uasset"
   },
   "Alteration:aid_att_ranged_firerate_alt2": {
     "Type": "Alteration",
     "Name": "AID_Att_Ranged_FireRate_Alt2",
     "ItemName": "\u002B28% Fire Rate",
+    "Legacy": true,
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_ranged_firerate_alt2.uasset"
   },
@@ -2472,6 +2505,7 @@
     "Type": "Alteration",
     "Name": "AID_Att_Ranged_HeadshotDamage",
     "ItemName": "\u002B13% Headshot Damage",
+    "Legacy": true,
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_ranged_headshotdamage.uasset"
   },
@@ -2479,12 +2513,14 @@
     "Type": "Alteration",
     "Name": "AID_Att_Ranged_HeadshotDamage_Alt1",
     "ItemName": "\u002B20% Headshot Damage",
+    "Legacy": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_ranged_headshotdamage_alt1.uasset"
   },
   "Alteration:aid_att_ranged_headshotdamage_alt2": {
     "Type": "Alteration",
     "Name": "AID_Att_Ranged_HeadshotDamage_Alt2",
     "ItemName": "\u002B27% Headshot Damage",
+    "Legacy": true,
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_ranged_headshotdamage_alt2.uasset"
   },
@@ -2492,6 +2528,7 @@
     "Type": "Alteration",
     "Name": "AID_Att_Ranged_Recoil",
     "ItemName": "\u002B20% Weapon Stability",
+    "Legacy": true,
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_ranged_recoil.uasset"
   },
@@ -2499,12 +2536,14 @@
     "Type": "Alteration",
     "Name": "AID_Att_Ranged_Recoil_Alt1",
     "ItemName": "\u002B30% Weapon Stability",
+    "Legacy": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_ranged_recoil_alt1.uasset"
   },
   "Alteration:aid_att_ranged_recoil_alt2": {
     "Type": "Alteration",
     "Name": "AID_Att_Ranged_Recoil_Alt2",
     "ItemName": "\u002B40% Weapon Stability",
+    "Legacy": true,
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_ranged_recoil_alt2.uasset"
   },
@@ -2512,6 +2551,7 @@
     "Type": "Alteration",
     "Name": "AID_Att_Ranged_ReloadSpeed",
     "ItemName": "\u002B25% Reload Speed",
+    "Legacy": true,
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_ranged_reloadspeed.uasset"
   },
@@ -2519,12 +2559,14 @@
     "Type": "Alteration",
     "Name": "AID_Att_Ranged_ReloadSpeed_Alt1",
     "ItemName": "\u002B38% Reload Speed",
+    "Legacy": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_ranged_reloadspeed_alt1.uasset"
   },
   "Alteration:aid_att_ranged_reloadspeed_alt2": {
     "Type": "Alteration",
     "Name": "AID_Att_Ranged_ReloadSpeed_Alt2",
     "ItemName": "\u002B50% Reload Speed",
+    "Legacy": true,
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_ranged_reloadspeed_alt2.uasset"
   },
@@ -2898,6 +2940,7 @@
     "Type": "Alteration",
     "Name": "AID_Att_Trap_CoreDamage_T02",
     "ItemName": "\u002B10% Damage",
+    "Legacy": true,
     "Rarity": "Common",
     "Tier": 2,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_trap_coredamage_t02.uasset"
@@ -2906,6 +2949,7 @@
     "Type": "Alteration",
     "Name": "AID_Att_Trap_CoreDamage_T03",
     "ItemName": "\u002B15% Damage",
+    "Legacy": true,
     "Tier": 3,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_trap_coredamage_t03.uasset"
   },
@@ -2913,6 +2957,7 @@
     "Type": "Alteration",
     "Name": "AID_Att_Trap_CoreDamage_T05",
     "ItemName": "\u002B20% Damage",
+    "Legacy": true,
     "Rarity": "Rare",
     "Tier": 5,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_trap_coredamage_t05.uasset"
@@ -2921,6 +2966,7 @@
     "Type": "Alteration",
     "Name": "AID_Att_Trap_CritChance",
     "ItemName": "\u002B14% Crit Chance",
+    "Legacy": true,
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_trap_critchance.uasset"
   },
@@ -2928,12 +2974,14 @@
     "Type": "Alteration",
     "Name": "AID_Att_Trap_CritChance_Alt1",
     "ItemName": "\u002B21% Crit Chance",
+    "Legacy": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_trap_critchance_alt1.uasset"
   },
   "Alteration:aid_att_trap_critchance_alt2": {
     "Type": "Alteration",
     "Name": "AID_Att_Trap_CritChance_Alt2",
     "ItemName": "\u002B28% Crit Chance",
+    "Legacy": true,
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_trap_critchance_alt2.uasset"
   },
@@ -2941,6 +2989,7 @@
     "Type": "Alteration",
     "Name": "AID_Att_Trap_CritDamage",
     "ItemName": "\u002B45% Crit Damage",
+    "Legacy": true,
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_trap_critdamage.uasset"
   },
@@ -2948,12 +2997,14 @@
     "Type": "Alteration",
     "Name": "AID_Att_Trap_CritDamage_Alt1",
     "ItemName": "\u002B67.5% Crit Damage",
+    "Legacy": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_trap_critdamage_alt1.uasset"
   },
   "Alteration:aid_att_trap_critdamage_alt2": {
     "Type": "Alteration",
     "Name": "AID_Att_Trap_CritDamage_Alt2",
     "ItemName": "\u002B90% Crit Damage",
+    "Legacy": true,
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_trap_critdamage_alt2.uasset"
   },
@@ -2961,6 +3012,7 @@
     "Type": "Alteration",
     "Name": "AID_Att_Trap_HealAmount",
     "ItemName": "\u002B10% Healing Amount",
+    "Legacy": true,
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_trap_healamount.uasset"
   },
@@ -2968,12 +3020,14 @@
     "Type": "Alteration",
     "Name": "AID_Att_Trap_HealAmount_Alt1",
     "ItemName": "\u002B15% Healing Amount",
+    "Legacy": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_trap_healamount_alt1.uasset"
   },
   "Alteration:aid_att_trap_healamount_alt2": {
     "Type": "Alteration",
     "Name": "AID_Att_Trap_HealAmount_Alt2",
     "ItemName": "\u002B20% Healing Amount",
+    "Legacy": true,
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_trap_healamount_alt2.uasset"
   },
@@ -2981,6 +3035,7 @@
     "Type": "Alteration",
     "Name": "AID_Att_Trap_Knockback_Impact",
     "ItemName": "\u002B5% Impact and Knockback",
+    "Legacy": true,
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_trap_knockback_impact.uasset"
   },
@@ -2988,12 +3043,14 @@
     "Type": "Alteration",
     "Name": "AID_Att_Trap_Knockback_Impact_Alt1",
     "ItemName": "\u002B7.5% Impact and Knockback",
+    "Legacy": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_trap_knockback_impact_alt1.uasset"
   },
   "Alteration:aid_att_trap_knockback_impact_alt2": {
     "Type": "Alteration",
     "Name": "AID_Att_Trap_Knockback_Impact_Alt2",
     "ItemName": "\u002B10% Impact and Knockback",
+    "Legacy": true,
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_trap_knockback_impact_alt2.uasset"
   },
@@ -3001,6 +3058,7 @@
     "Type": "Alteration",
     "Name": "AID_Att_Trap_MaxDurability",
     "ItemName": "\u002B14% Durability",
+    "Legacy": true,
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_trap_maxdurability.uasset"
   },
@@ -3008,12 +3066,14 @@
     "Type": "Alteration",
     "Name": "AID_Att_Trap_MaxDurability_Alt1",
     "ItemName": "\u002B21% Durability",
+    "Legacy": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_trap_maxdurability_alt1.uasset"
   },
   "Alteration:aid_att_trap_maxdurability_alt2": {
     "Type": "Alteration",
     "Name": "AID_Att_Trap_MaxDurability_Alt2",
     "ItemName": "\u002B28% Durability",
+    "Legacy": true,
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_trap_maxdurability_alt2.uasset"
   },
@@ -3021,6 +3081,7 @@
     "Type": "Alteration",
     "Name": "AID_Att_Trap_ReloadSpeed",
     "ItemName": "\u002B14% Reload Speed",
+    "Legacy": true,
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_trap_reloadspeed.uasset"
   },
@@ -3028,12 +3089,14 @@
     "Type": "Alteration",
     "Name": "AID_Att_Trap_ReloadSpeed_Alt1",
     "ItemName": "\u002B21% Reload Speed",
+    "Legacy": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_trap_reloadspeed_alt1.uasset"
   },
   "Alteration:aid_att_trap_reloadspeed_alt2": {
     "Type": "Alteration",
     "Name": "AID_Att_Trap_ReloadSpeed_Alt2",
     "ItemName": "\u002B28% Reload Speed",
+    "Legacy": true,
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_trap_reloadspeed_alt2.uasset"
   },
@@ -3041,6 +3104,7 @@
     "Type": "Alteration",
     "Name": "AID_Att_Trap_StunDuration",
     "ItemName": "\u002B0.2s Stun Time",
+    "Legacy": true,
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_trap_stunduration.uasset"
   },
@@ -3048,12 +3112,14 @@
     "Type": "Alteration",
     "Name": "AID_Att_Trap_StunDuration_Alt1",
     "ItemName": "\u002B0.3s Stun Time",
+    "Legacy": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_trap_stunduration_alt1.uasset"
   },
   "Alteration:aid_att_trap_stunduration_alt2": {
     "Type": "Alteration",
     "Name": "AID_Att_Trap_StunDuration_Alt2",
     "ItemName": "\u002B0.4s Stun Time",
+    "Legacy": true,
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_trap_stunduration_alt2.uasset"
   },
@@ -3123,6 +3189,7 @@
     "Type": "Alteration",
     "Name": "AID_Att_Weapon_Afflicted_CritDmg",
     "ItemName": "\u002B67.5% Crit Damage to afflicted targets",
+    "Legacy": true,
     "Rarity": "Common",
     "Tier": 1,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_weapon_afflicted_critdmg.uasset"
@@ -3131,6 +3198,7 @@
     "Type": "Alteration",
     "Name": "AID_Att_Weapon_Afflicted_CritDmg_Alt1",
     "ItemName": "\u002B101% Crit Damage to afflicted targets",
+    "Legacy": true,
     "Tier": 2,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_weapon_afflicted_critdmg_alt1.uasset"
   },
@@ -3138,6 +3206,7 @@
     "Type": "Alteration",
     "Name": "AID_Att_Weapon_Afflicted_CritDmg_Alt2",
     "ItemName": "\u002B135% Crit Damage to afflicted targets",
+    "Legacy": true,
     "Rarity": "Rare",
     "Tier": 3,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_weapon_afflicted_critdmg_alt2.uasset"
@@ -3146,6 +3215,7 @@
     "Type": "Alteration",
     "Name": "AID_Att_Weapon_Afflicted_DmgBonus",
     "ItemName": "\u002B15% Damage to afflicted targets",
+    "Legacy": true,
     "Rarity": "Common",
     "Tier": 1,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_weapon_afflicted_dmgbonus.uasset"
@@ -3154,6 +3224,7 @@
     "Type": "Alteration",
     "Name": "AID_Att_Weapon_Afflicted_DmgBonus_Alt1",
     "ItemName": "\u002B22.5% Damage to afflicted targets",
+    "Legacy": true,
     "Tier": 2,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_weapon_afflicted_dmgbonus_alt1.uasset"
   },
@@ -3161,6 +3232,7 @@
     "Type": "Alteration",
     "Name": "AID_Att_Weapon_Afflicted_DmgBonus_Alt2",
     "ItemName": "\u002B30% Damage to afflicted targets",
+    "Legacy": true,
     "Rarity": "Rare",
     "Tier": 3,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_weapon_afflicted_dmgbonus_alt2.uasset"
@@ -3169,6 +3241,7 @@
     "Type": "Alteration",
     "Name": "AID_Att_Weapon_Slowed_DmgBonus",
     "ItemName": "\u002B15% Damage to slowed and snared targets.",
+    "Legacy": true,
     "Rarity": "Common",
     "Tier": 1,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_weapon_slowed_dmgbonus.uasset"
@@ -3177,6 +3250,7 @@
     "Type": "Alteration",
     "Name": "AID_Att_Weapon_Slowed_DmgBonus_Alt1",
     "ItemName": "\u002B22.5% Damage to slowed and snared targets.",
+    "Legacy": true,
     "Tier": 2,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_weapon_slowed_dmgbonus_alt1.uasset"
   },
@@ -3184,6 +3258,7 @@
     "Type": "Alteration",
     "Name": "AID_Att_Weapon_Slowed_DmgBonus_Alt2",
     "ItemName": "\u002B30% Damage to slowed and snared targets.",
+    "Legacy": true,
     "Rarity": "Rare",
     "Tier": 3,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_weapon_slowed_dmgbonus_alt2.uasset"
@@ -3192,6 +3267,7 @@
     "Type": "Alteration",
     "Name": "AID_Att_Weapon_Stunned_DmgBonus",
     "ItemName": "\u002B15% Damage to stunned, staggered, and knocked down targets.",
+    "Legacy": true,
     "Rarity": "Common",
     "Tier": 1,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_weapon_stunned_dmgbonus.uasset"
@@ -3200,6 +3276,7 @@
     "Type": "Alteration",
     "Name": "AID_Att_Weapon_Stunned_DmgBonus_Alt1",
     "ItemName": "\u002B22.5% Damage to stunned, staggered, and knocked down targets.",
+    "Legacy": true,
     "Tier": 2,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_weapon_stunned_dmgbonus_alt1.uasset"
   },
@@ -3207,6 +3284,7 @@
     "Type": "Alteration",
     "Name": "AID_Att_Weapon_Stunned_DmgBonus_Alt2",
     "ItemName": "\u002B30% Damage to stunned, staggered, and knocked down targets.",
+    "Legacy": true,
     "Rarity": "Rare",
     "Tier": 3,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_weapon_stunned_dmgbonus_alt2.uasset"
@@ -3215,6 +3293,7 @@
     "Type": "Alteration",
     "Name": "AID_Att_Weapon_VsBlasters_DmgBonus",
     "ItemName": "\u002B20% Damage to Blasters",
+    "Legacy": true,
     "Rarity": "Common",
     "Tier": 1,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_weapon_vsblasters_dmgbonus.uasset"
@@ -3223,6 +3302,7 @@
     "Type": "Alteration",
     "Name": "AID_Att_Weapon_VsBlasters_DmgBonusAlt1",
     "ItemName": "\u002B30% Damage to Blasters",
+    "Legacy": true,
     "Tier": 2,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_weapon_vsblasters_dmgbonusalt1.uasset"
   },
@@ -3230,6 +3310,7 @@
     "Type": "Alteration",
     "Name": "AID_Att_Weapon_VsBlasters_DmgBonusAlt2",
     "ItemName": "\u002B40% Damage to Blasters",
+    "Legacy": true,
     "Rarity": "Rare",
     "Tier": 3,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_weapon_vsblasters_dmgbonusalt2.uasset"
@@ -3238,6 +3319,7 @@
     "Type": "Alteration",
     "Name": "AID_Att_Weapon_VsDwarf_DmgBonus",
     "ItemName": "\u002B15% Damage to Dwarf Husks",
+    "Legacy": true,
     "Rarity": "Common",
     "Tier": 1,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_weapon_vsdwarf_dmgbonus.uasset"
@@ -3246,6 +3328,7 @@
     "Type": "Alteration",
     "Name": "AID_Att_Weapon_VsDwarf_DmgBonus_Alt1",
     "ItemName": "\u002B22.5% Damage to Dwarf Husks",
+    "Legacy": true,
     "Tier": 2,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_weapon_vsdwarf_dmgbonus_alt1.uasset"
   },
@@ -3253,6 +3336,7 @@
     "Type": "Alteration",
     "Name": "AID_Att_Weapon_VsDwarf_DmgBonus_Alt2",
     "ItemName": "\u002B30% Damage to Dwarf Husks",
+    "Legacy": true,
     "Rarity": "Rare",
     "Tier": 3,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_weapon_vsdwarf_dmgbonus_alt2.uasset"
@@ -3261,6 +3345,7 @@
     "Type": "Alteration",
     "Name": "AID_Att_Weapon_VsFlingers_DmgBonus",
     "ItemName": "\u002B20% Damage to Flingers",
+    "Legacy": true,
     "Rarity": "Common",
     "Tier": 1,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_weapon_vsflingers_dmgbonus.uasset"
@@ -3269,6 +3354,7 @@
     "Type": "Alteration",
     "Name": "AID_Att_Weapon_VsFlingers_DmgBonus_Alt1",
     "ItemName": "\u002B30% Damage to Flingers",
+    "Legacy": true,
     "Tier": 2,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_weapon_vsflingers_dmgbonus_alt1.uasset"
   },
@@ -3276,6 +3362,7 @@
     "Type": "Alteration",
     "Name": "AID_Att_Weapon_VsFlingers_DmgBonus_Alt2",
     "ItemName": "\u002B40% Damage to Flingers",
+    "Legacy": true,
     "Rarity": "Rare",
     "Tier": 3,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_weapon_vsflingers_dmgbonus_alt2.uasset"
@@ -3284,6 +3371,7 @@
     "Type": "Alteration",
     "Name": "AID_Att_Weapon_VsHusks_DmgBonus",
     "ItemName": "\u002B15% Damage to Husks",
+    "Legacy": true,
     "Rarity": "Common",
     "Tier": 1,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_weapon_vshusks_dmgbonus.uasset"
@@ -3292,6 +3380,7 @@
     "Type": "Alteration",
     "Name": "AID_Att_Weapon_VsHusks_DmgBonus_Alt1",
     "ItemName": "\u002B22.5% Damage to Husks",
+    "Legacy": true,
     "Tier": 2,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_weapon_vshusks_dmgbonus_alt1.uasset"
   },
@@ -3299,6 +3388,7 @@
     "Type": "Alteration",
     "Name": "AID_Att_Weapon_VsHusks_DmgBonus_Alt2",
     "ItemName": "\u002B30% Damage to Husks",
+    "Legacy": true,
     "Rarity": "Rare",
     "Tier": 3,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_weapon_vshusks_dmgbonus_alt2.uasset"
@@ -3307,6 +3397,7 @@
     "Type": "Alteration",
     "Name": "AID_Att_Weapon_VsHusky_DmgBonus",
     "ItemName": "\u002B15% Damage to Husky Husks",
+    "Legacy": true,
     "Rarity": "Common",
     "Tier": 1,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_weapon_vshusky_dmgbonus.uasset"
@@ -3315,6 +3406,7 @@
     "Type": "Alteration",
     "Name": "AID_Att_Weapon_VsHusky_DmgBonus_Alt1",
     "ItemName": "\u002B22.5% Damage to Husky Husks",
+    "Legacy": true,
     "Tier": 2,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_weapon_vshusky_dmgbonus_alt1.uasset"
   },
@@ -3322,6 +3414,7 @@
     "Type": "Alteration",
     "Name": "AID_Att_Weapon_VsHusky_DmgBonus_Alt2",
     "ItemName": "\u002B30% Damage to Husky Husks",
+    "Legacy": true,
     "Rarity": "Rare",
     "Tier": 3,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_weapon_vshusky_dmgbonus_alt2.uasset"
@@ -3330,6 +3423,7 @@
     "Type": "Alteration",
     "Name": "AID_Att_Weapon_VsLobbers_DmgBonus",
     "ItemName": "\u002B15% Damage to Lobbers",
+    "Legacy": true,
     "Rarity": "Common",
     "Tier": 1,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_weapon_vslobbers_dmgbonus.uasset"
@@ -3338,6 +3432,7 @@
     "Type": "Alteration",
     "Name": "AID_Att_Weapon_VsLobbers_DmgBonus_Alt1",
     "ItemName": "\u002B22.5% Damage to Lobbers",
+    "Legacy": true,
     "Tier": 2,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_weapon_vslobbers_dmgbonus_alt1.uasset"
   },
@@ -3345,6 +3440,7 @@
     "Type": "Alteration",
     "Name": "AID_Att_Weapon_VsLobbers_DmgBonus_Alt2",
     "ItemName": "\u002B30% Damage to Lobbers",
+    "Legacy": true,
     "Rarity": "Rare",
     "Tier": 3,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_weapon_vslobbers_dmgbonus_alt2.uasset"
@@ -3353,6 +3449,7 @@
     "Type": "Alteration",
     "Name": "AID_Att_Weapon_VsPitcher_DmgBonus",
     "ItemName": "\u002B15% Damage to Pitchers",
+    "Legacy": true,
     "Rarity": "Common",
     "Tier": 1,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_weapon_vspitcher_dmgbonus.uasset"
@@ -3361,6 +3458,7 @@
     "Type": "Alteration",
     "Name": "AID_Att_Weapon_VsPitcher_DmgBonus_Alt1",
     "ItemName": "\u002B22.5% Damage to Pitchers",
+    "Legacy": true,
     "Tier": 2,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_weapon_vspitcher_dmgbonus_alt1.uasset"
   },
@@ -3368,6 +3466,7 @@
     "Type": "Alteration",
     "Name": "AID_Att_Weapon_VsPitcher_DmgBonus_Alt2",
     "ItemName": "\u002B30% Damage to Pitchers",
+    "Legacy": true,
     "Rarity": "Rare",
     "Tier": 3,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_weapon_vspitcher_dmgbonus_alt2.uasset"
@@ -3376,6 +3475,7 @@
     "Type": "Alteration",
     "Name": "AID_Att_Weapon_VsSmashers_DmgBonus",
     "ItemName": "\u002B20% Damage to Smashers",
+    "Legacy": true,
     "Rarity": "Common",
     "Tier": 1,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_weapon_vssmashers_dmgbonus.uasset"
@@ -3384,6 +3484,7 @@
     "Type": "Alteration",
     "Name": "AID_Att_Weapon_VsSmashers_DmgBonus_Alt1",
     "ItemName": "\u002B30% Damage to Smashers",
+    "Legacy": true,
     "Tier": 2,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_weapon_vssmashers_dmgbonus_alt1.uasset"
   },
@@ -3391,6 +3492,7 @@
     "Type": "Alteration",
     "Name": "AID_Att_Weapon_VsSmashers_DmgBonus_Alt2",
     "ItemName": "\u002B40% Damage to Smashers",
+    "Legacy": true,
     "Rarity": "Rare",
     "Tier": 3,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_weapon_vssmashers_dmgbonus_alt2.uasset"
@@ -3399,6 +3501,7 @@
     "Type": "Alteration",
     "Name": "AID_Att_Weapon_VsTakers_DmgBonus",
     "ItemName": "\u002B20% Damage to Takers",
+    "Legacy": true,
     "Rarity": "Common",
     "Tier": 1,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_weapon_vstakers_dmgbonus.uasset"
@@ -3407,6 +3510,7 @@
     "Type": "Alteration",
     "Name": "AID_Att_Weapon_VsTakers_DmgBonus_Alt1",
     "ItemName": "\u002B30% Damage to Takers",
+    "Legacy": true,
     "Tier": 2,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_weapon_vstakers_dmgbonus_alt1.uasset"
   },
@@ -3414,6 +3518,7 @@
     "Type": "Alteration",
     "Name": "AID_Att_Weapon_VsTakers_DmgBonus_Alt2",
     "ItemName": "\u002B40% Damage to Takers",
+    "Legacy": true,
     "Rarity": "Rare",
     "Tier": 3,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_att_weapon_vstakers_dmgbonus_alt2.uasset"
@@ -5251,6 +5356,7 @@
     "Type": "Alteration",
     "Name": "AID_G_Melee_Affliction",
     "ItemName": "\u002B10% Weapon Damage. Causes Affliction damage for 6 seconds.",
+    "Legacy": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/gameplay/aid_g_melee_affliction.uasset"
   },
   "Alteration:aid_g_melee_affliction_v2": {
@@ -5264,6 +5370,7 @@
     "Type": "Alteration",
     "Name": "AID_G_Melee_Cryo",
     "ItemName": "Element: Water and 10% Weapon Damage",
+    "Legacy": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/gameplay/aid_g_melee_cryo.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-Element-Water.png",
@@ -5274,6 +5381,7 @@
     "Type": "Alteration",
     "Name": "AID_G_Melee_CryoAffliction",
     "ItemName": "Element: Water and 10% Weapon Damage. Causes Affliction damage for 6 seconds.",
+    "Legacy": true,
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/gameplay/aid_g_melee_cryoaffliction.uasset",
     "ImagePaths": {
@@ -5285,6 +5393,7 @@
     "Type": "Alteration",
     "Name": "AID_G_Melee_Electrical",
     "ItemName": "Element: Nature and 10% Weapon Damage",
+    "Legacy": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/gameplay/aid_g_melee_electrical.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-Element-Nature.png",
@@ -5295,6 +5404,7 @@
     "Type": "Alteration",
     "Name": "AID_G_Melee_ElectricalAffliction",
     "ItemName": "Element: Nature and 10% Weapon Damage. Causes Affliction damage for 6 seconds.",
+    "Legacy": true,
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/gameplay/aid_g_melee_electricalaffliction.uasset",
     "ImagePaths": {
@@ -5306,6 +5416,7 @@
     "Type": "Alteration",
     "Name": "AID_G_Melee_Energy",
     "ItemName": "Element: Energy and 10% Weapon Damage",
+    "Legacy": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/gameplay/aid_g_melee_energy.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-Element-Energy.png",
@@ -5316,6 +5427,7 @@
     "Type": "Alteration",
     "Name": "AID_G_Melee_EnergyAffliction",
     "ItemName": "Element: Energy and 10% Weapon Damage. Causes Affliction damage for 6 seconds.",
+    "Legacy": true,
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/gameplay/aid_g_melee_energyaffliction.uasset",
     "ImagePaths": {
@@ -5327,6 +5439,7 @@
     "Type": "Alteration",
     "Name": "AID_G_Melee_ExplodeOnCrit",
     "ItemName": "Critical hits cause an explosion, damaging enemies within 0.5 tiles for 20% weapon damage.",
+    "Legacy": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/gameplay/aid_g_melee_explodeoncrit.uasset"
   },
   "Alteration:aid_g_melee_explodeoncrit_v2": {
@@ -5347,6 +5460,7 @@
     "Type": "Alteration",
     "Name": "AID_G_Melee_Incendiary",
     "ItemName": "Element: Fire and 10% Weapon Damage",
+    "Legacy": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/gameplay/aid_g_melee_incendiary.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-Element-Fire.png",
@@ -5357,6 +5471,7 @@
     "Type": "Alteration",
     "Name": "AID_G_Melee_IncendiaryAffliction",
     "ItemName": "Element: Fire and 10% Weapon Damage. Causes Affliction damage for 6 seconds.",
+    "Legacy": true,
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/gameplay/aid_g_melee_incendiaryaffliction.uasset",
     "ImagePaths": {
@@ -5368,6 +5483,7 @@
     "Type": "Alteration",
     "Name": "AID_G_Melee_OnDamageDealt_IncreaseDamage",
     "ItemName": "Hitting multiple enemies in a single swing increases damage.",
+    "Legacy": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/gameplay/aid_g_melee_ondamagedealt_increasedamage.uasset"
   },
   "Alteration:aid_g_melee_ondamagedealt_increasedamage_v2": {
@@ -5803,6 +5919,7 @@
     "Type": "Alteration",
     "Name": "AID_G_Ranged_Affliction",
     "ItemName": "\u002B10% Weapon Damage. Causes Affliction damage for 6 seconds.",
+    "Legacy": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/gameplay/aid_g_ranged_affliction.uasset"
   },
   "Alteration:aid_g_ranged_affliction_v2": {
@@ -5824,6 +5941,7 @@
     "Type": "Alteration",
     "Name": "AID_G_Ranged_Cryo",
     "ItemName": "Element: Water and 10% Weapon Damage",
+    "Legacy": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/gameplay/aid_g_ranged_cryo.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-Element-Water.png",
@@ -5834,6 +5952,7 @@
     "Type": "Alteration",
     "Name": "AID_G_Ranged_CryoAffliction",
     "ItemName": "Element: Water and 10% Weapon Damage. Causes Affliction damage for 6 seconds.",
+    "Legacy": true,
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/gameplay/aid_g_ranged_cryoaffliction.uasset",
     "ImagePaths": {
@@ -5845,12 +5964,14 @@
     "Type": "Alteration",
     "Name": "AID_G_Ranged_CryoHeadShotStreak_DmgBonus",
     "ItemName": "Water Headshot Streak: \u002B10% Weapon Damage. Changes damage type to Water. Getting 5 headshots in a row increases ranged weapon damage \u002B30% for 10 seconds.",
+    "Legacy": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/gameplay/aid_g_ranged_cryoheadshotstreak_dmgbonus.uasset"
   },
   "Alteration:aid_g_ranged_electrical": {
     "Type": "Alteration",
     "Name": "AID_G_Ranged_Electrical",
     "ItemName": "Element: Nature and 10% Weapon Damage",
+    "Legacy": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/gameplay/aid_g_ranged_electrical.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-Element-Nature.png",
@@ -5861,6 +5982,7 @@
     "Type": "Alteration",
     "Name": "AID_G_Ranged_ElectricalAffliction",
     "ItemName": "Element: Nature and 10% Weapon Damage. Causes Affliction damage for 6 seconds.",
+    "Legacy": true,
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/gameplay/aid_g_ranged_electricalaffliction.uasset",
     "ImagePaths": {
@@ -5872,6 +5994,7 @@
     "Type": "Alteration",
     "Name": "AID_G_Ranged_Energy",
     "ItemName": "Element: Energy and 10% Weapon Damage",
+    "Legacy": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/gameplay/aid_g_ranged_energy.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-Element-Energy.png",
@@ -5882,6 +6005,7 @@
     "Type": "Alteration",
     "Name": "AID_G_Ranged_EnergyAffliction",
     "ItemName": "Element: Energy and 10% Weapon Damage. Causes Affliction damage for 6 seconds.",
+    "Legacy": true,
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/gameplay/aid_g_ranged_energyaffliction.uasset",
     "ImagePaths": {
@@ -5900,6 +6024,7 @@
     "Type": "Alteration",
     "Name": "AID_G_Ranged_HeadShot_ExplodeOnDeath",
     "ItemName": "Headshot eliminations cause an explosion, damaging enemies within 0.5 tiles for 30% weapon damage.",
+    "Legacy": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/gameplay/aid_g_ranged_headshot_explodeondeath.uasset"
   },
   "Alteration:aid_g_ranged_headshot_explodeondeath_v2": {
@@ -5913,6 +6038,7 @@
     "Type": "Alteration",
     "Name": "AID_G_Ranged_HeadShotStreak_DmgBonus",
     "ItemName": "Getting 5 headshots in a row increases ranged weapon damage \u002B30% for 10 seconds.",
+    "Legacy": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/gameplay/aid_g_ranged_headshotstreak_dmgbonus.uasset"
   },
   "Alteration:aid_g_ranged_headshotstreak_dmgbonus_v2": {
@@ -5926,6 +6052,7 @@
     "Type": "Alteration",
     "Name": "AID_G_Ranged_Incendiary",
     "ItemName": "Element: Fire and 10% Weapon Damage",
+    "Legacy": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/gameplay/aid_g_ranged_incendiary.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-Element-Fire.png",
@@ -5936,6 +6063,7 @@
     "Type": "Alteration",
     "Name": "AID_G_Ranged_IncendiaryAffliction",
     "ItemName": "Element: Fire and 10% Weapon Damage. Causes Affliction damage for 6 seconds.",
+    "Legacy": true,
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/gameplay/aid_g_ranged_incendiaryaffliction.uasset",
     "ImagePaths": {
@@ -5947,6 +6075,7 @@
     "Type": "Alteration",
     "Name": "AID_G_Ranged_IsTargeting_DmgBuff",
     "ItemName": "\u002B30% Weapon Damage when aiming down sights",
+    "Legacy": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/gameplay/aid_g_ranged_istargeting_dmgbuff.uasset"
   },
   "Alteration:aid_g_ranged_istargeting_dmgbuff_v2": {
@@ -5960,6 +6089,7 @@
     "Type": "Alteration",
     "Name": "AID_G_Ranged_OnEnemyKilled_FasterReload",
     "ItemName": "\u002B10% Reload Speed per enemy killed, up to a maximum of \u002B50% Reload Speed",
+    "Legacy": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/gameplay/aid_g_ranged_onenemykilled_fasterreload.uasset"
   },
   "Alteration:aid_g_ranged_onenemykilled_fasterreload_v2": {
@@ -6050,6 +6180,7 @@
     "Type": "Alteration",
     "Name": "AID_G_Trap_AttachedBuilding_HealthBuff",
     "ItemName": "\u002B10% Health to structures this trap is placed on",
+    "Legacy": true,
     "Rarity": "Common",
     "Tier": 1,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/attributealterations/aid_g_trap_attachedbuilding_healthbuff.uasset"
@@ -6058,6 +6189,7 @@
     "Type": "Alteration",
     "Name": "AID_G_Trap_Cryo",
     "ItemName": "Element: Water",
+    "Legacy": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/gameplay/aid_g_trap_cryo.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-Element-Water.png",
@@ -6068,6 +6200,7 @@
     "Type": "Alteration",
     "Name": "AID_G_Trap_Electrical",
     "ItemName": "Element: Nature",
+    "Legacy": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/gameplay/aid_g_trap_electrical.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-Element-Nature.png",
@@ -6078,6 +6211,7 @@
     "Type": "Alteration",
     "Name": "AID_G_Trap_Incendiary",
     "ItemName": "Element: Fire",
+    "Legacy": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/gameplay/aid_g_trap_incendiary.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Icon-Element-Fire-L.png",
@@ -6088,6 +6222,7 @@
     "Type": "Alteration",
     "Name": "AID_G_TwoKillStreak_FirePool",
     "ItemName": "If two enemies are killed within 2 seconds of each other a pool of fire spawns on the ground.",
+    "Legacy": true,
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/gameplay/aid_g_twokillstreak_firepool.uasset"
   },
@@ -6102,12 +6237,14 @@
     "Type": "Alteration",
     "Name": "AID_G_Weapon_CryoSnare_DmgBonus",
     "ItemName": "Water Snare: Changes damage type to Water. \u002B10% Weapon Damage. Damage dealt with this weapon snares the target by 30% for 6 seconds.",
+    "Legacy": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/gameplay/aid_g_weapon_cryosnare_dmgbonus.uasset"
   },
   "Alteration:aid_g_weapon_hitstreak_aoe_dmg": {
     "Type": "Alteration",
     "Name": "AID_G_Weapon_HitStreak_AOE_Dmg",
     "ItemName": "Landing 5 hits in a row on a single target causes a small explosion damaging enemies within 0.5 tiles of the target for 30% damage.",
+    "Legacy": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/gameplay/aid_g_weapon_hitstreak_aoe_dmg.uasset"
   },
   "Alteration:aid_g_weapon_hitstreak_aoe_dmg_v2": {
@@ -6121,6 +6258,7 @@
     "Type": "Alteration",
     "Name": "AID_G_Weapon_Knockback_Impact",
     "ItemName": "\u002B25% Impact and \u002B400 Knockback Magnitude",
+    "Legacy": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/gameplay/aid_g_weapon_knockback_impact.uasset"
   },
   "Alteration:aid_g_weapon_knockback_impact_v2": {
@@ -6134,6 +6272,7 @@
     "Type": "Alteration",
     "Name": "AID_G_Weapon_Melee_OnDmgReceived_DmgBuff",
     "ItemName": "5 attacks from enemies give you a 20% melee damage increase on your next attack.",
+    "Legacy": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/gameplay/aid_g_weapon_melee_ondmgreceived_dmgbuff.uasset"
   },
   "Alteration:aid_g_weapon_melee_ondmgreceived_dmgbuff_v2": {
@@ -6147,6 +6286,7 @@
     "Type": "Alteration",
     "Name": "AID_G_Weapon_OnDmg_AfflictedEnemy_KnockbackAOE",
     "ItemName": "Hitting an afflicted target causes a small Knockback AOE around them (5s cooldown).",
+    "Legacy": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/gameplay/aid_g_weapon_ondmg_afflictedenemy_knockbackaoe.uasset"
   },
   "Alteration:aid_g_weapon_ondmg_afflictedenemy_knockbackaoe_v2": {
@@ -6160,6 +6300,7 @@
     "Type": "Alteration",
     "Name": "AID_G_Weapon_OnDmg_ApplySnare",
     "ItemName": "Damage dealt with this weapon snares the target by 30% for 6 seconds.",
+    "Legacy": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/gameplay/aid_g_weapon_ondmg_applysnare.uasset"
   },
   "Alteration:aid_g_weapon_ondmg_applysnare_v2": {
@@ -6173,6 +6314,7 @@
     "Type": "Alteration",
     "Name": "AID_G_Weapon_OnDmgDealt_GiveEnergy",
     "ItemName": "Damage dealt with this weapon recovers 5 energy. This can happen once every 4 seconds.",
+    "Legacy": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/gameplay/aid_g_weapon_ondmgdealt_giveenergy.uasset"
   },
   "Alteration:aid_g_weapon_ondmgdealt_giveenergy_v2": {
@@ -6186,6 +6328,7 @@
     "Type": "Alteration",
     "Name": "AID_G_Weapon_OnDmgDealt_GiveShield",
     "ItemName": "Damage dealt with this weapon recovers 10% of maximum shield. This can happen once every 3 seconds.",
+    "Legacy": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/gameplay/aid_g_weapon_ondmgdealt_giveshield.uasset"
   },
   "Alteration:aid_g_weapon_ondmgdealt_giveshield_v2": {
@@ -6222,6 +6365,7 @@
     "Type": "Alteration",
     "Name": "AID_G_Weapon_OnKill_Spawn_Firework",
     "ItemName": "On kill: Spawn Roman Candle at enemy location (8s cooldown).",
+    "Legacy": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/gameplay/aid_g_weapon_onkill_spawn_firework.uasset"
   },
   "Alteration:aid_g_weapon_onkill_spawn_firework_v2": {
@@ -6273,6 +6417,7 @@
     "Type": "Alteration",
     "Name": "AID_G_Weapon_OnShieldBreak_IncendiaryAOE",
     "ItemName": "Deals Fire damage to nearby enemies when your shield breaks",
+    "Legacy": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/gameplay/aid_g_weapon_onshieldbreak_incendiaryaoe.uasset"
   },
   "Alteration:aid_g_weapon_onshieldbreak_incendiaryaoe_v2": {
@@ -6286,6 +6431,7 @@
     "Type": "Alteration",
     "Name": "AID_G_Weapon_Stun",
     "ItemName": "Stun duration increased by 6s.",
+    "Legacy": true,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/alterations/gameplay/aid_g_weapon_stun.uasset"
   },
   "Alteration:aid_g_weapon_stun_v2": {

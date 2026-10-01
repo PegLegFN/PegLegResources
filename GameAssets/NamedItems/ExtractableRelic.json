@@ -115,6 +115,26 @@
       "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_8BitBlaster_BountyHunter.png"
     }
   },
+  "ExtractableRelic:esd_8bitblastersprite_variant_tricktreat": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_8BitBlasterSprite_Variant_TrickTreat",
+    "ItemName": "Trick or Treat 8-Bit Sprite",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_8bitblaster",
+      "PlayerAugment:paid_spriteboons_variant_tricktreat"
+    ],
+    "Generation": "Ch7S4",
+    "HintText": "Spotted near high and mountainous areas",
+    "ItemDescription": "Find an 8-Bit Shotgun in your first chest and gain a score multiplier for it.",
+    "MappingID": "8BitBlaster_Variant_TrickTreat",
+    "Parent": "ExtractableRelic:esd_8bitblastersprite",
+    "Rarity": "Rare",
+    "SpriteDex": 33,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/eightbitblaster/esd_8bitblastersprite_variant_tricktreat.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_8BitBlaster_TrickTreat.png"
+    }
+  },
   "ExtractableRelic:esd_airsprite": {
     "Type": "ExtractableRelic",
     "Name": "ESD_AirSprite",
@@ -347,6 +367,26 @@
       "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_Birthday_BountyHunter.png"
     }
   },
+  "ExtractableRelic:esd_birthdaysprite_variant_tricktreat": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_BirthdaySprite_Variant_TrickTreat",
+    "ItemName": "Trick or Treat Birthday Sprite",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_birthday",
+      "PlayerAugment:paid_spriteboons_variant_tricktreat"
+    ],
+    "Generation": "Ch7S4",
+    "HintText": "Spotted near high and mountainous areas",
+    "ItemDescription": "Opening chests has a chance to spawn a piece of cake. Eliminations can spawn cake at max level. Chance to spawn cake increases with each Level Up!",
+    "MappingID": "BirthdaySprite_Variant_TrickTreat",
+    "Parent": "ExtractableRelic:esd_birthdaysprite",
+    "Rarity": "Rare",
+    "SpriteDex": 46,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/birthday/esd_birthdaysprite_variant_tricktreat.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_Birthday_TrickTreat.png"
+    }
+  },
   "ExtractableRelic:esd_bodyslamsprite": {
     "Type": "ExtractableRelic",
     "Name": "ESD_BodySlamSprite",
@@ -446,7 +486,7 @@
   "ExtractableRelic:esd_bodyslamsprite_variant_reaper": {
     "Type": "ExtractableRelic",
     "Name": "ESD_BodySlamSprite_Variant_Reaper",
-    "ItemName": "Bounty Hunter Body Slam Sprite",
+    "ItemName": "Bounty Hunter Crash Bandicoot Sprite",
     "Augments": [
       "PlayerAugment:paid_spriteboons_bodyslam",
       "PlayerAugment:paid_spriteboons_variant_reaper"
@@ -461,6 +501,26 @@
     "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/bodyslam/esd_bodyslamsprite_variant_reaper.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_BodySlam_BountyHunter.png"
+    }
+  },
+  "ExtractableRelic:esd_bodyslamsprite_variant_tricktreat": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_BodySlamSprite_Variant_TrickTreat",
+    "ItemName": "Trick or Treat Crash Bandicoot Sprite",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_bodyslam",
+      "PlayerAugment:paid_spriteboons_variant_tricktreat"
+    ],
+    "Generation": "Ch7S4",
+    "HintText": "Spotted near high and mountainous areas",
+    "ItemDescription": "(Active - Jump In Air) Triggers a whirlwind attack, damaging and knocking back nearby enemies. Damage increases and cooldown decreases with each Level Up!",
+    "MappingID": "BodySlamSprite_Variant_TrickTreat",
+    "Parent": "ExtractableRelic:esd_bodyslamsprite",
+    "Rarity": "Legendary",
+    "SpriteDex": 47,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/bodyslam/esd_bodyslamsprite_variant_tricktreat.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_BodySlam_TrickTreat.png"
     }
   },
   "ExtractableRelic:esd_bosssprite": {
@@ -728,6 +788,25 @@
       "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_BushRanger_BountyHunter.png"
     }
   },
+  "ExtractableRelic:esd_bushranger_variant_tricktreat": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_BushRanger_Variant_TrickTreat",
+    "ItemName": "Trick or Treat Bushranger Sprite",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_bushranger",
+      "PlayerAugment:paid_spriteboons_variant_tricktreat"
+    ],
+    "Generation": "Ch7S4",
+    "ItemDescription": "Grants a bush on you after a duration, gain a bush on elimination at max level. Time between bush activating decreases with each Level Up!",
+    "MappingID": "BushRangerSprite_Variant_TrickTreat",
+    "Parent": "ExtractableRelic:esd_bushranger",
+    "Rarity": "Rare",
+    "SpriteDex": 29,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/bushranger/esd_bushranger_variant_tricktreat.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_BushRanger_TrickTreat.png"
+    }
+  },
   "ExtractableRelic:esd_cokeparmesan": {
     "Type": "ExtractableRelic",
     "Name": "ESD_CokeParmesan",
@@ -807,7 +886,7 @@
       "PlayerAugment:paid_spriteboons_crown"
     ],
     "Generation": "Ch7S4",
-    "ItemDescription": "Only levels up by winning matches. Level up faster with Crown Wins. New variants unlocked after mastering!",
+    "ItemDescription": "Only levels up by winning matches while equipped. Mastery with 1 win.  New variants unlocked after mastering!",
     "MappingID": "CrownSprite",
     "Rarity": "Mythic",
     "SpriteDex": 35,
@@ -825,7 +904,7 @@
     ],
     "Generation": "Ch7S4",
     "HintText": "Spotted near high and mountainous areas",
-    "ItemDescription": "Only levels up by winning matches. Level up faster with Crown Wins. New variants unlocked after mastering!",
+    "ItemDescription": "Only levels up by winning matches while equipped. Mastery with 1 win.  New variants unlocked after mastering!",
     "MappingID": "CrownSprite_Variant_A",
     "Parent": "ExtractableRelic:esd_crownsprite",
     "Rarity": "Mythic",
@@ -845,7 +924,7 @@
     ],
     "Generation": "Ch7S4",
     "HintText": "Spotted near high and mountainous areas",
-    "ItemDescription": "Only levels up by winning matches. Level up faster with Crown Wins. New variants unlocked after mastering!",
+    "ItemDescription": "Only levels up by winning matches while equipped. Mastery with 1 win.  New variants unlocked after mastering!",
     "MappingID": "CrownSprite_Variant_CheatMaster",
     "Parent": "ExtractableRelic:esd_crownsprite",
     "Rarity": "Mythic",
@@ -865,7 +944,7 @@
     ],
     "Generation": "Ch7S4",
     "HintText": "Spotted near high and mountainous areas",
-    "ItemDescription": "Only levels up by winning matches. Level up faster with Crown Wins. New variants unlocked after mastering!",
+    "ItemDescription": "Only levels up by winning matches while equipped. Mastery with 1 win.  New variants unlocked after mastering!",
     "MappingID": "CrownSprite_Variant_Gold",
     "Parent": "ExtractableRelic:esd_crownsprite",
     "Rarity": "Mythic",
@@ -885,7 +964,7 @@
     ],
     "Generation": "Ch7S4",
     "HintText": "Spotted near high and mountainous areas",
-    "ItemDescription": "Only levels up by winning matches. Level up faster with Crown Wins. New variants unlocked after mastering!",
+    "ItemDescription": "Only levels up by winning matches while equipped. Mastery with 1 win.  New variants unlocked after mastering!",
     "MappingID": "CrownSprite_Variant_LootHacker",
     "Parent": "ExtractableRelic:esd_crownsprite",
     "Rarity": "Mythic",
@@ -905,7 +984,7 @@
     ],
     "Generation": "Ch7S4",
     "HintText": "Spotted near high and mountainous areas",
-    "ItemDescription": "Only levels up by winning matches. Level up faster with Crown Wins. New variants unlocked after mastering!",
+    "ItemDescription": "Only levels up by winning matches while equipped. Mastery with 1 win.  New variants unlocked after mastering!",
     "MappingID": "CrownSprite_Variant_Reaper",
     "Parent": "ExtractableRelic:esd_crownsprite",
     "Rarity": "Mythic",
@@ -913,6 +992,26 @@
     "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/crown/esd_crownsprite_variant_reaper.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_Crown_BountyHunter.png"
+    }
+  },
+  "ExtractableRelic:esd_crownsprite_variant_tricktreat": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_CrownSprite_Variant_TrickTreat",
+    "ItemName": "Trick or Treat Crown Sprite",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_crown",
+      "PlayerAugment:paid_spriteboons_variant_tricktreat"
+    ],
+    "Generation": "Ch7S4",
+    "HintText": "Spotted near high and mountainous areas",
+    "ItemDescription": "Only levels up by winning matches while equipped. Mastery with 1 win.  New variants unlocked after mastering!",
+    "MappingID": "CrownSprite_Variant_TrickTreat",
+    "Parent": "ExtractableRelic:esd_crownsprite",
+    "Rarity": "Mythic",
+    "SpriteDex": 35,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/crown/esd_crownsprite_variant_tricktreat.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_Crown_TrickTreat.png"
     }
   },
   "ExtractableRelic:esd_demonsprite": {
@@ -1188,17 +1287,19 @@
     "Name": "ESD_DoubleJumpSprite_Variant_TrickTreat",
     "ItemName": "Trick or Treat Jackrabbit Sprite",
     "Augments": [
-      "PlayerAugment:paid_spriteboons_doublejump"
+      "PlayerAugment:paid_spriteboons_doublejump",
+      "PlayerAugment:paid_spriteboons_variant_tricktreat"
     ],
     "Generation": "Ch7S4",
     "HintText": "Spotted near high and mountainous areas",
     "ItemDescription": "(Active - Jump In Air) Double Jump. Cooldown between jumps decreases with each Level Up!",
+    "MappingID": "CosmicThunderDoubleJumpSprite_Variant_TrickTreat",
     "Parent": "ExtractableRelic:esd_doublejumpsprite",
     "Rarity": "Legendary",
     "SpriteDex": 34,
     "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/doublejumpsprite/esd_doublejumpsprite_variant_tricktreat.uasset",
     "ImagePaths": {
-      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_Sleepy_ui.png"
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_DoubleJump_TrickTreat.png"
     }
   },
   "ExtractableRelic:esd_driftersprite": {
@@ -1566,6 +1667,26 @@
     "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/dwarf/esd_dwarfsprite_variant_reaper.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_Dwarf_BountyHunter.png"
+    }
+  },
+  "ExtractableRelic:esd_dwarfsprite_variant_tricktreat": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_DwarfSprite_Variant_TrickTreat",
+    "ItemName": "Trick or Treat Adventure Sprite",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_dwarf",
+      "PlayerAugment:paid_spriteboons_variant_tricktreat"
+    ],
+    "Generation": "Ch7S4",
+    "HintText": "Spotted near high and mountainous areas",
+    "ItemDescription": "Upgrades a random item in the player\u0027s inventory with each Level Up!",
+    "MappingID": "Dwarf_Variant_TrickTreat",
+    "Parent": "ExtractableRelic:esd_dwarfsprite",
+    "Rarity": "Rare",
+    "SpriteDex": 28,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/dwarf/esd_dwarfsprite_variant_tricktreat.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_Dwarf_TrickTreat.png"
     }
   },
   "ExtractableRelic:esd_earthsprite": {
@@ -2138,6 +2259,26 @@
       "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_GhostDamage_BountyHunter.png"
     }
   },
+  "ExtractableRelic:esd_ghostdamagesprite_variant_tricktreat": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_GhostDamageSprite_Variant_TrickTreat",
+    "ItemName": "Trick or Treat Blinky Sprite",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_ghostdamage",
+      "PlayerAugment:paid_spriteboons_variant_tricktreat"
+    ],
+    "Generation": "Ch7S4",
+    "HintText": "Found in the world at nighttime",
+    "ItemDescription": "Grants cloak for a duration when you take damage. Cloak duration increases with each Level Up!",
+    "MappingID": "GhostDamage_Variant_TrickTreat",
+    "Parent": "ExtractableRelic:esd_ghostdamagesprite",
+    "Rarity": "Legendary",
+    "SpriteDex": 44,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/ghostdamage/esd_ghostdamagesprite_variant_tricktreat.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_GhostDamage_TrickTreat.png"
+    }
+  },
   "ExtractableRelic:esd_ghostsprite": {
     "Type": "ExtractableRelic",
     "Name": "ESD_GhostSprite",
@@ -2429,6 +2570,136 @@
       "SmallPreview": "ExportedImages\\T_Icon_BR_GrimReaper_Holofoil.png"
     }
   },
+  "ExtractableRelic:esd_healthsiphonsprite": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_HealthSiphonSprite",
+    "ItemName": "Vampire Sprite",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_healthsiphon"
+    ],
+    "Generation": "Ch7S4",
+    "ItemDescription": "Recover health when damaging an enemy. Health recovered percent increases with each Level Up!",
+    "MappingID": "HealthSiphonSprite",
+    "Rarity": "Legendary",
+    "SpriteDex": 52,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/healthsiphon/esd_healthsiphonsprite.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_HealthSiphon.png"
+    }
+  },
+  "ExtractableRelic:esd_healthsiphonsprite_variant_a": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_HealthSiphonSprite_Variant_A",
+    "ItemName": "Vampire Sprite",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_healthsiphon"
+    ],
+    "Generation": "Ch7S4",
+    "ItemDescription": "Recover health when damaging an enemy. Health recovered percent increases with each Level Up!",
+    "MappingID": "HealthSiphonSprite_Variant_A",
+    "Parent": "ExtractableRelic:esd_healthsiphonsprite",
+    "Rarity": "Legendary",
+    "SpriteDex": 52,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/healthsiphon/esd_healthsiphonsprite_variant_a.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_HealthSiphon.png"
+    }
+  },
+  "ExtractableRelic:esd_healthsiphonsprite_variant_cheatmaster": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_HealthSiphonSprite_Variant_CheatMaster",
+    "ItemName": "Cheatmaster Vampire Sprite",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_healthsiphon",
+      "PlayerAugment:paid_spriteboons_variant_cheatmaster"
+    ],
+    "Generation": "Ch7S4",
+    "ItemDescription": "Recover health when damaging an enemy. Health recovered percent increases with each Level Up!",
+    "MappingID": "HealthSiphonSprite_Variant_CheatMaster",
+    "Parent": "ExtractableRelic:esd_healthsiphonsprite",
+    "Rarity": "Legendary",
+    "SpriteDex": 52,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/healthsiphon/esd_healthsiphonsprite_variant_cheatmaster.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_HealthSiphon_Cheatmaster.png"
+    }
+  },
+  "ExtractableRelic:esd_healthsiphonsprite_variant_gold": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_HealthSiphonSprite_Variant_Gold",
+    "ItemName": "Gold Vampire Sprite",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_healthsiphon",
+      "PlayerAugment:paid_spriteboons_variant_gold"
+    ],
+    "Generation": "Ch7S4",
+    "ItemDescription": "Recover health when damaging an enemy. Health recovered percent increases with each Level Up!",
+    "MappingID": "HealthSiphonSprite_Variant_Gold",
+    "Parent": "ExtractableRelic:esd_healthsiphonsprite",
+    "Rarity": "Legendary",
+    "SpriteDex": 52,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/healthsiphon/esd_healthsiphonsprite_variant_gold.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_HealthSiphon_Gold.png"
+    }
+  },
+  "ExtractableRelic:esd_healthsiphonsprite_variant_loothacker": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_HealthSiphonSprite_Variant_LootHacker",
+    "ItemName": "Loot Hacker Vampire Sprite",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_healthsiphon",
+      "PlayerAugment:paid_spriteboons_variant_hacker"
+    ],
+    "Generation": "Ch7S4",
+    "ItemDescription": "Recover health when damaging an enemy. Health recovered percent increases with each Level Up!",
+    "MappingID": "HealthSiphonSprite_Variant_LootHacker",
+    "Parent": "ExtractableRelic:esd_healthsiphonsprite",
+    "Rarity": "Legendary",
+    "SpriteDex": 52,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/healthsiphon/esd_healthsiphonsprite_variant_loothacker.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_HealthSiphon_Hacker.png"
+    }
+  },
+  "ExtractableRelic:esd_healthsiphonsprite_variant_reaper": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_HealthSiphonSprite_Variant_Reaper",
+    "ItemName": "Bounty Hunter Vampire Sprite",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_healthsiphon",
+      "PlayerAugment:paid_spriteboons_variant_reaper"
+    ],
+    "Generation": "Ch7S4",
+    "ItemDescription": "Recover health when damaging an enemy. Health recovered percent increases with each Level Up!",
+    "MappingID": "HealthSiphonSprite_Variant_Reaper",
+    "Parent": "ExtractableRelic:esd_healthsiphonsprite",
+    "Rarity": "Legendary",
+    "SpriteDex": 52,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/healthsiphon/esd_healthsiphonsprite_variant_reaper.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_HealthSiphon_BountyHunter.png"
+    }
+  },
+  "ExtractableRelic:esd_healthsiphonsprite_variant_tricktreat": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_HealthSiphonSprite_Variant_TrickTreat",
+    "ItemName": "Trick or Treat Vampire Sprite",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_healthsiphon",
+      "PlayerAugment:paid_spriteboons_variant_tricktreat"
+    ],
+    "Generation": "Ch7S4",
+    "ItemDescription": "Recover health when damaging an enemy. Health recovered percent increases with each Level Up!",
+    "MappingID": "HealthSiphonSprite_Variant_TrickTreat",
+    "Parent": "ExtractableRelic:esd_healthsiphonsprite",
+    "Rarity": "Legendary",
+    "SpriteDex": 52,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/healthsiphon/esd_healthsiphonsprite_variant_tricktreat.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_HealthSiphon_TrickTreat.png"
+    }
+  },
   "ExtractableRelic:esd_improvedslidesprite": {
     "Type": "ExtractableRelic",
     "Name": "ESD_ImprovedSlideSprite",
@@ -2520,6 +2791,136 @@
     "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/improvedslide/esd_improvedslidesprite_variant_loothacker.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_ImprovedSlide_Hacker.png"
+    }
+  },
+  "ExtractableRelic:esd_increasedmeleesprite": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_IncreasedMeleeSprite",
+    "ItemName": "The Deer Sprite",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_increasedmelee"
+    ],
+    "Generation": "Ch7S4",
+    "ItemDescription": "Melee attacks deal more damage. Melee attack damage increases with each Level Up!",
+    "MappingID": "IncreasedMeleeSprite",
+    "Rarity": "Legendary",
+    "SpriteDex": 51,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/increasedmelee/esd_increasedmeleesprite.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_IncreasedMelee.png"
+    }
+  },
+  "ExtractableRelic:esd_increasedmeleesprite_variant_a": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_IncreasedMeleeSprite_Variant_A",
+    "ItemName": "The Deer Sprite",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_increasedmelee"
+    ],
+    "Generation": "Ch7S4",
+    "ItemDescription": "Melee attacks deal more damage. Melee attack damage increases with each Level Up!",
+    "MappingID": "IncreasedMeleeSprite_Variant_A",
+    "Parent": "ExtractableRelic:esd_increasedmeleesprite",
+    "Rarity": "Legendary",
+    "SpriteDex": 51,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/increasedmelee/esd_increasedmeleesprite_variant_a.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_IncreasedMelee.png"
+    }
+  },
+  "ExtractableRelic:esd_increasedmeleesprite_variant_cheatmaster": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_IncreasedMeleeSprite_Variant_CheatMaster",
+    "ItemName": "Cheatmaster The Deer Sprite",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_increasedmelee",
+      "PlayerAugment:paid_spriteboons_variant_cheatmaster"
+    ],
+    "Generation": "Ch7S4",
+    "ItemDescription": "Melee attacks deal more damage. Melee attack damage increases with each Level Up!",
+    "MappingID": "IncreasedMeleeSprite_Variant_CheatMaster",
+    "Parent": "ExtractableRelic:esd_increasedmeleesprite",
+    "Rarity": "Legendary",
+    "SpriteDex": 51,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/increasedmelee/esd_increasedmeleesprite_variant_cheatmaster.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_IncreasedMelee_Cheatmaster.png"
+    }
+  },
+  "ExtractableRelic:esd_increasedmeleesprite_variant_gold": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_IncreasedMeleeSprite_Variant_Gold",
+    "ItemName": "Gold The Deer Sprite",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_increasedmelee",
+      "PlayerAugment:paid_spriteboons_variant_gold"
+    ],
+    "Generation": "Ch7S4",
+    "ItemDescription": "Melee attacks deal more damage. Melee attack damage increases with each Level Up!",
+    "MappingID": "IncreasedMeleeSprite_Variant_Gold",
+    "Parent": "ExtractableRelic:esd_increasedmeleesprite",
+    "Rarity": "Legendary",
+    "SpriteDex": 51,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/increasedmelee/esd_increasedmeleesprite_variant_gold.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_IncreasedMelee_Gold.png"
+    }
+  },
+  "ExtractableRelic:esd_increasedmeleesprite_variant_loothacker": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_IncreasedMeleeSprite_Variant_LootHacker",
+    "ItemName": "Loot Hacker The Deer Sprite",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_increasedmelee",
+      "PlayerAugment:paid_spriteboons_variant_hacker"
+    ],
+    "Generation": "Ch7S4",
+    "ItemDescription": "Melee attacks deal more damage. Melee attack damage increases with each Level Up!",
+    "MappingID": "IncreasedMeleeSprite_Variant_LootHacker",
+    "Parent": "ExtractableRelic:esd_increasedmeleesprite",
+    "Rarity": "Legendary",
+    "SpriteDex": 51,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/increasedmelee/esd_increasedmeleesprite_variant_loothacker.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_IncreasedMelee_Hacker.png"
+    }
+  },
+  "ExtractableRelic:esd_increasedmeleesprite_variant_reaper": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_IncreasedMeleeSprite_Variant_Reaper",
+    "ItemName": "Bounty Hunter The Deer Sprite",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_increasedmelee",
+      "PlayerAugment:paid_spriteboons_variant_reaper"
+    ],
+    "Generation": "Ch7S4",
+    "ItemDescription": "Melee attacks deal more damage. Melee attack damage increases with each Level Up!",
+    "MappingID": "IncreasedMeleeSprite_Variant_Reaper",
+    "Parent": "ExtractableRelic:esd_increasedmeleesprite",
+    "Rarity": "Legendary",
+    "SpriteDex": 51,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/increasedmelee/esd_increasedmeleesprite_variant_reaper.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_IncreasedMelee_BountyHunter.png"
+    }
+  },
+  "ExtractableRelic:esd_increasedmeleesprite_variant_tricktreat": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_IncreasedMeleeSprite_Variant_TrickTreat",
+    "ItemName": "Trick or Treat The Deer Sprite",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_increasedmelee",
+      "PlayerAugment:paid_spriteboons_variant_tricktreat"
+    ],
+    "Generation": "Ch7S4",
+    "ItemDescription": "Melee attacks deal more damage. Melee attack damage increases with each Level Up!",
+    "MappingID": "IncreasedMeleeSprite_Variant_TrickTreat",
+    "Parent": "ExtractableRelic:esd_increasedmeleesprite",
+    "Rarity": "Legendary",
+    "SpriteDex": 51,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/increasedmelee/esd_increasedmeleesprite_variant_tricktreat.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_IncreasedMelee_TrickTreat.png"
     }
   },
   "ExtractableRelic:esd_increasehealssprite": {
@@ -2631,6 +3032,25 @@
     "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/increaseheals/esd_increasehealssprite_variant_reaper.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_IncreaseHeals_BountyHunter.png"
+    }
+  },
+  "ExtractableRelic:esd_increasehealssprite_variant_tricktreat": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_IncreaseHealsSprite_Variant_TrickTreat",
+    "ItemName": "Trick or Treat Morgana Sprite",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_increaseheals",
+      "PlayerAugment:paid_spriteboons_variant_tricktreat"
+    ],
+    "Generation": "Ch7S4",
+    "ItemDescription": "Increases the effectiveness of healing items. Healing effectiveness increases with each Level Up!",
+    "MappingID": "IncreaseHealsSprite_Variant_TrickTreat",
+    "Parent": "ExtractableRelic:esd_increasehealssprite",
+    "Rarity": "Epic",
+    "SpriteDex": 48,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/increaseheals/esd_increasehealssprite_variant_tricktreat.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_IncreaseHeals_TrickTreat.png"
     }
   },
   "ExtractableRelic:esd_jonesysprite": {
@@ -2749,6 +3169,26 @@
       "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_Jonesy_BountyHunter.png"
     }
   },
+  "ExtractableRelic:esd_jonesysprite_variant_tricktreat": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_JonesySprite_Variant_TrickTreat",
+    "ItemName": "Trick or Treat Jonesy Sprite",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_jonesy",
+      "PlayerAugment:paid_spriteboons_variant_tricktreat"
+    ],
+    "Generation": "Ch7S4",
+    "HintText": "Spotted near high and mountainous areas",
+    "ItemDescription": "Recover some health or shields after being damaged after a short duration. Increase amount healed with each Level Up!",
+    "MappingID": "Jonesy_Variant_TrickTreat",
+    "Parent": "ExtractableRelic:esd_jonesysprite",
+    "Rarity": "Rare",
+    "SpriteDex": 27,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/jonesy/esd_jonesysprite_variant_tricktreat.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_Jonesy_TrickTreat.png"
+    }
+  },
   "ExtractableRelic:esd_killswitchsprite": {
     "Type": "ExtractableRelic",
     "Name": "ESD_KillswitchSprite",
@@ -2863,6 +3303,26 @@
     "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/killswitch/esd_killswitchsprite_variant_reaper.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_Killswitch_BountyHunter.png"
+    }
+  },
+  "ExtractableRelic:esd_killswitchsprite_variant_tricktreat": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_KillswitchSprite_Variant_TrickTreat",
+    "ItemName": "Trick or Treat Killswitch Sprite",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_killswitch",
+      "PlayerAugment:paid_spriteboons_variant_tricktreat"
+    ],
+    "Generation": "Ch7S4",
+    "HintText": "Found in the world at nighttime",
+    "ItemDescription": "(Active - Aim In Air) Enter Hangtime with improved accuracy. Accuracy increases with each Level Up!",
+    "MappingID": "KillswitchSprite_Variant_TrickTreat",
+    "Parent": "ExtractableRelic:esd_killswitchsprite",
+    "Rarity": "Legendary",
+    "SpriteDex": 36,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/killswitch/esd_killswitchsprite_variant_tricktreat.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_Killswitch_TrickTreat.png"
     }
   },
   "ExtractableRelic:esd_kingsprite": {
@@ -3097,6 +3557,26 @@
       "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_Klombo_BountyHunter.png"
     }
   },
+  "ExtractableRelic:esd_klombosprite_variant_tricktreat": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_KlomboSprite_Variant_TrickTreat",
+    "ItemName": "Trick or Treat Klombo Sprite",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_klombo",
+      "PlayerAugment:paid_spriteboons_variant_tricktreat"
+    ],
+    "Generation": "Ch7S4",
+    "HintText": "Spotted near high and mountainous areas",
+    "ItemDescription": "Grants random items at each level, only levels up by consuming items. Item quality increases with each Level Up!",
+    "MappingID": "Klombo_Variant_TrickTreat",
+    "Parent": "ExtractableRelic:esd_klombosprite",
+    "Rarity": "Mythic",
+    "SpriteDex": 37,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/klombo/esd_klombosprite_variant_tricktreat.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_Klombo_TrickTreat.png"
+    }
+  },
   "ExtractableRelic:esd_llamasprite": {
     "Type": "ExtractableRelic",
     "Name": "ESD_LlamaSprite",
@@ -3329,6 +3809,26 @@
       "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_NarrowFlea_BountyHunter.png"
     }
   },
+  "ExtractableRelic:esd_narrowflea_variant_tricktreat": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_NarrowFlea_Variant_TrickTreat",
+    "ItemName": "Trick or Treat Sonic Sprite",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_narrowflea",
+      "PlayerAugment:paid_spriteboons_variant_tricktreat"
+    ],
+    "Generation": "Ch7S4",
+    "HintText": "Spotted near high and mountainous areas",
+    "ItemDescription": "Gotta Go Fast! Sprint faster with each Level Up!",
+    "MappingID": "NarrowFleaSprite_Variant_TrickTreat",
+    "Parent": "ExtractableRelic:esd_narrowflea",
+    "Rarity": "Epic",
+    "SpriteDex": 30,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/narrowflea/esd_narrowflea_variant_tricktreat.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_NarrowFlea_TrickTreat.png"
+    }
+  },
   "ExtractableRelic:esd_narrowfleamonkeysprite": {
     "Type": "ExtractableRelic",
     "Name": "ESD_NarrowFleaMonkeySprite",
@@ -3445,6 +3945,26 @@
       "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_NarrowFleaMonkey_BountyHunter.png"
     }
   },
+  "ExtractableRelic:esd_narrowfleamonkeysprite_variant_tricktreat": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_NarrowFleaMonkeySprite_Variant_TrickTreat",
+    "ItemName": "Trick or Treat Tails Sprite",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_narrowfleamonkey",
+      "PlayerAugment:paid_spriteboons_variant_tricktreat"
+    ],
+    "Generation": "Ch7S4",
+    "HintText": "Spotted near high and mountainous areas",
+    "ItemDescription": "(Active - Jump In Air) Hover with the help of Tails! Hover speed increased with each Level Up!",
+    "MappingID": "NarrowFleaMonkeySprite_Variant_TrickTreat",
+    "Parent": "ExtractableRelic:esd_narrowfleamonkeysprite",
+    "Rarity": "Epic",
+    "SpriteDex": 31,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/narrowfleamonkey/esd_narrowfleamonkeysprite_variant_tricktreat.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_NarrowFleaMonkey_TrickTreat.png"
+    }
+  },
   "ExtractableRelic:esd_overshieldsprite": {
     "Type": "ExtractableRelic",
     "Name": "ESD_OvershieldSprite",
@@ -3559,6 +4079,26 @@
     "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/overshield/esd_overshieldsprite_variant_reaper.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_Overshield_BountyHunter.png"
+    }
+  },
+  "ExtractableRelic:esd_overshieldsprite_variant_tricktreat": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_OvershieldSprite_Variant_TrickTreat",
+    "ItemName": "Trick or Treat Overshield Sprite",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_overshield",
+      "PlayerAugment:paid_spriteboons_variant_tricktreat"
+    ],
+    "Generation": "Ch7S4",
+    "HintText": "Spotted near high and mountainous areas",
+    "ItemDescription": "Grants overshield, scaling with level.",
+    "MappingID": "OvershieldSprite_Variant_TrickTreat",
+    "Parent": "ExtractableRelic:esd_overshieldsprite",
+    "Rarity": "Epic",
+    "SpriteDex": 39,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/overshield/esd_overshieldsprite_variant_tricktreat.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_Overshield_TrickTreat.png"
     }
   },
   "ExtractableRelic:esd_pedicureantacid": {
@@ -3711,6 +4251,136 @@
     "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s3/content/spritedefinitions/peelysprite/esd_peelysprite_variant_holofoil.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_Peely_Holofoil_ui.png"
+    }
+  },
+  "ExtractableRelic:esd_phasedashsprite": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_PhaseDashSprite",
+    "ItemName": "Spooky Dash Sprite",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_phasedash"
+    ],
+    "Generation": "Ch7S4",
+    "ItemDescription": "(Active - Jump In Air) Spooky Dash lets you phase through some objects. Gain charges over time. Charge cooldown decreases with each Level Up!",
+    "MappingID": "PhaseDashSprite",
+    "Rarity": "Mythic",
+    "SpriteDex": 50,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/phasedashsprite/esd_phasedashsprite.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_PhaseDash.png"
+    }
+  },
+  "ExtractableRelic:esd_phasedashsprite_variant_a": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_PhaseDashSprite_Variant_A",
+    "ItemName": "Spooky Dash Sprite",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_phasedash"
+    ],
+    "Generation": "Ch7S4",
+    "ItemDescription": "(Active - Jump In Air) Spooky Dash lets you phase through some objects. Gain charges over time. Charge cooldown decreases with each Level Up!",
+    "MappingID": "PhaseDashSprite_Variant_A",
+    "Parent": "ExtractableRelic:esd_phasedashsprite",
+    "Rarity": "Mythic",
+    "SpriteDex": 50,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/phasedashsprite/esd_phasedashsprite_variant_a.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_PhaseDash.png"
+    }
+  },
+  "ExtractableRelic:esd_phasedashsprite_variant_cheatmaster": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_PhaseDashSprite_Variant_CheatMaster",
+    "ItemName": "Cheat Master Spooky Dash Sprite",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_phasedash",
+      "PlayerAugment:paid_spriteboons_variant_cheatmaster"
+    ],
+    "Generation": "Ch7S4",
+    "ItemDescription": "(Active - Jump In Air) Spooky Dash lets you phase through some objects. Gain charges over time. Charge cooldown decreases with each Level Up!",
+    "MappingID": "PhaseDashSprite_Variant_CheatMaster",
+    "Parent": "ExtractableRelic:esd_phasedashsprite",
+    "Rarity": "Mythic",
+    "SpriteDex": 50,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/phasedashsprite/esd_phasedashsprite_variant_cheatmaster.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_PhaseDash_Cheatmaster.png"
+    }
+  },
+  "ExtractableRelic:esd_phasedashsprite_variant_gold": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_PhaseDashSprite_Variant_Gold",
+    "ItemName": "Gold Spooky Dash Sprite",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_phasedash",
+      "PlayerAugment:paid_spriteboons_variant_gold"
+    ],
+    "Generation": "Ch7S4",
+    "ItemDescription": "(Active - Jump In Air) Spooky Dash lets you phase through some objects. Gain charges over time. Charge cooldown decreases with each Level Up!",
+    "MappingID": "PhaseDashSprite_Variant_Gold",
+    "Parent": "ExtractableRelic:esd_phasedashsprite",
+    "Rarity": "Mythic",
+    "SpriteDex": 50,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/phasedashsprite/esd_phasedashsprite_variant_gold.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_PhaseDash_Gold.png"
+    }
+  },
+  "ExtractableRelic:esd_phasedashsprite_variant_loothacker": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_PhaseDashSprite_Variant_LootHacker",
+    "ItemName": "Loot Hacker Spooky Dash Sprite",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_phasedash",
+      "PlayerAugment:paid_spriteboons_variant_hacker"
+    ],
+    "Generation": "Ch7S4",
+    "ItemDescription": "(Active - Jump In Air) Spooky Dash lets you phase through some objects. Gain charges over time. Charge cooldown decreases with each Level Up!",
+    "MappingID": "PhaseDashSprite_Variant_LootHacker",
+    "Parent": "ExtractableRelic:esd_phasedashsprite",
+    "Rarity": "Mythic",
+    "SpriteDex": 50,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/phasedashsprite/esd_phasedashsprite_variant_loothacker.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_PhaseDash_Hacker.png"
+    }
+  },
+  "ExtractableRelic:esd_phasedashsprite_variant_reaper": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_PhaseDashSprite_Variant_Reaper",
+    "ItemName": "Bounty Hunter Spooky Dash Sprite",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_phasedash",
+      "PlayerAugment:paid_spriteboons_variant_reaper"
+    ],
+    "Generation": "Ch7S4",
+    "ItemDescription": "(Active - Jump In Air) Spooky Dash lets you phase through some objects. Gain charges over time. Charge cooldown decreases with each Level Up!",
+    "MappingID": "PhaseDashSprite_Variant_Reaper",
+    "Parent": "ExtractableRelic:esd_phasedashsprite",
+    "Rarity": "Mythic",
+    "SpriteDex": 50,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/phasedashsprite/esd_phasedashsprite_variant_reaper.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_PhaseDash_BountyHunter.png"
+    }
+  },
+  "ExtractableRelic:esd_phasedashsprite_variant_tricktreat": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_PhaseDashSprite_Variant_TrickTreat",
+    "ItemName": "Trick or Treat Spooky Dash Sprite",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_phasedash",
+      "PlayerAugment:paid_spriteboons_variant_tricktreat"
+    ],
+    "Generation": "Ch7S4",
+    "ItemDescription": "(Active - Jump In Air) Spooky Dash lets you phase through some objects. Gain charges over time. Charge cooldown decreases with each Level Up!",
+    "MappingID": "PhaseDashSprite_Variant_TrickTreat",
+    "Parent": "ExtractableRelic:esd_phasedashsprite",
+    "Rarity": "Mythic",
+    "SpriteDex": 50,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/phasedashsprite/esd_phasedashsprite_variant_tricktreat.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_PhaseDash_TrickTreat.png"
     }
   },
   "ExtractableRelic:esd_punksprite": {
@@ -3963,6 +4633,26 @@
     "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/reloadovertime/esd_reloadovertimesprite_variant_reaper.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_ReloadOverTime_BountyHunter.png"
+    }
+  },
+  "ExtractableRelic:esd_reloadovertimesprite_variant_tricktreat": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_ReloadOverTimeSprite_Variant_TrickTreat",
+    "ItemName": "Trick or Treat Shadow Sprite",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_reloadovertime",
+      "PlayerAugment:paid_spriteboons_variant_tricktreat"
+    ],
+    "Generation": "Ch7S4",
+    "HintText": "Spotted near high and mountainous areas",
+    "ItemDescription": "Automatically reload unequipped weapons over time. Reloads equipped weapon at max level. Automatic reload gets faster with each Level Up!",
+    "MappingID": "ReloadOverTimeSprite_Variant_TrickTreat",
+    "Parent": "ExtractableRelic:esd_reloadovertimesprite",
+    "Rarity": "Epic",
+    "SpriteDex": 32,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/reloadovertime/esd_reloadovertimesprite_variant_tricktreat.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_ReloadOverTime_TrickTreat.png"
     }
   },
   "ExtractableRelic:esd_sevensprite": {
@@ -4507,6 +5197,135 @@
       "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_Fire_Quack_ui.png"
     }
   },
+  "ExtractableRelic:esd_squibblysprite": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_SquibblySprite",
+    "ItemName": "Squibbly Sprite",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_squibbly"
+    ],
+    "Generation": "Ch7S4",
+    "ItemDescription": "(Ability Not Implemented) Diving into a fishing hole fishes it",
+    "Rarity": "Epic",
+    "SpriteDex": 49,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/squibbly/esd_squibblysprite.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_Fire_Galaxy_ui.png"
+    }
+  },
+  "ExtractableRelic:esd_squibblysprite_variant_a": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_SquibblySprite_Variant_A",
+    "ItemName": "Squibbly Sprite",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_squibbly"
+    ],
+    "Generation": "Ch7S4",
+    "HintText": "Spotted near high and mountainous areas",
+    "ItemDescription": "(Ability Not Implemented) Diving into a fishing hole fishes it",
+    "Parent": "ExtractableRelic:esd_squibblysprite",
+    "Rarity": "Epic",
+    "SpriteDex": 49,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/squibbly/esd_squibblysprite_variant_a.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_Fire_Galaxy_ui.png"
+    }
+  },
+  "ExtractableRelic:esd_squibblysprite_variant_cheatmaster": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_SquibblySprite_Variant_CheatMaster",
+    "ItemName": "Cheat Master Squibbly Sprite",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_squibbly",
+      "PlayerAugment:paid_spriteboons_variant_cheatmaster"
+    ],
+    "Generation": "Ch7S4",
+    "HintText": "Spotted near high and mountainous areas",
+    "ItemDescription": "(Ability Not Implemented) Diving into a fishing hole fishes it",
+    "Parent": "ExtractableRelic:esd_squibblysprite",
+    "Rarity": "Epic",
+    "SpriteDex": 49,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/squibbly/esd_squibblysprite_variant_cheatmaster.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_Fire_Galaxy_ui.png"
+    }
+  },
+  "ExtractableRelic:esd_squibblysprite_variant_gold": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_SquibblySprite_Variant_Gold",
+    "ItemName": "Gold Squibbly Sprite",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_squibbly",
+      "PlayerAugment:paid_spriteboons_variant_gold"
+    ],
+    "Generation": "Ch7S4",
+    "HintText": "Spotted near high and mountainous areas",
+    "ItemDescription": "(Ability Not Implemented) Diving into a fishing hole fishes it",
+    "Parent": "ExtractableRelic:esd_squibblysprite",
+    "Rarity": "Epic",
+    "SpriteDex": 49,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/squibbly/esd_squibblysprite_variant_gold.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_Fire_Galaxy_ui.png"
+    }
+  },
+  "ExtractableRelic:esd_squibblysprite_variant_loothacker": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_SquibblySprite_Variant_LootHacker",
+    "ItemName": "Loot Hacker Squibbly Sprite",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_squibbly",
+      "PlayerAugment:paid_spriteboons_variant_hacker"
+    ],
+    "Generation": "Ch7S4",
+    "HintText": "Spotted near high and mountainous areas",
+    "ItemDescription": "(Ability Not Implemented) Diving into a fishing hole fishes it",
+    "Parent": "ExtractableRelic:esd_squibblysprite",
+    "Rarity": "Epic",
+    "SpriteDex": 49,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/squibbly/esd_squibblysprite_variant_loothacker.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_Fire_Galaxy_ui.png"
+    }
+  },
+  "ExtractableRelic:esd_squibblysprite_variant_reaper": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_SquibblySprite_Variant_Reaper",
+    "ItemName": "Bounty Hunter Squibbly Sprite",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_squibbly",
+      "PlayerAugment:paid_spriteboons_variant_reaper"
+    ],
+    "Generation": "Ch7S4",
+    "HintText": "Spotted near high and mountainous areas",
+    "ItemDescription": "(Ability Not Implemented) Diving into a fishing hole fishes it",
+    "Parent": "ExtractableRelic:esd_squibblysprite",
+    "Rarity": "Epic",
+    "SpriteDex": 49,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/squibbly/esd_squibblysprite_variant_reaper.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_Fire_Galaxy_ui.png"
+    }
+  },
+  "ExtractableRelic:esd_squibblysprite_variant_tricktreat": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_SquibblySprite_Variant_TrickTreat",
+    "ItemName": "Trick or Treat Squibbly Sprite",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_squibbly",
+      "PlayerAugment:paid_spriteboons_variant_tricktreat"
+    ],
+    "Generation": "Ch7S4",
+    "HintText": "Spotted near high and mountainous areas",
+    "ItemDescription": "(Ability Not Implemented) Diving into a fishing hole fishes it",
+    "Parent": "ExtractableRelic:esd_squibblysprite",
+    "Rarity": "Epic",
+    "SpriteDex": 49,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/squibbly/esd_squibblysprite_variant_tricktreat.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_Fire_Galaxy_ui.png"
+    }
+  },
   "ExtractableRelic:esd_stormscoutsprite": {
     "Type": "ExtractableRelic",
     "Name": "ESD_StormScoutSprite",
@@ -4621,6 +5440,26 @@
     "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/stormscout/esd_stormscoutsprite_variant_reaper.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_StormScout_BountyHunter.png"
+    }
+  },
+  "ExtractableRelic:esd_stormscoutsprite_variant_tricktreat": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_StormScoutSprite_Variant_TrickTreat",
+    "ItemName": "Trick or Treat Storm Scout Sprite",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_stormscout",
+      "PlayerAugment:paid_spriteboons_variant_tricktreat"
+    ],
+    "Generation": "Ch7S4",
+    "HintText": "Spotted near high and mountainous areas",
+    "ItemDescription": "Applies Overdrive after taking a certain amount of storm damage. Reveals future Storm Circles at max level. Increases Overdrive duration with each Level Up!",
+    "MappingID": "StormScoutSprite_Variant_TrickTreat",
+    "Parent": "ExtractableRelic:esd_stormscoutsprite",
+    "Rarity": "Rare",
+    "SpriteDex": 43,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/stormscout/esd_stormscoutsprite_variant_tricktreat.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_StormScout_TrickTreat.png"
     }
   },
   "ExtractableRelic:esd_water": {
@@ -4890,6 +5729,25 @@
       "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_WinnerA_BountyHunter.png"
     }
   },
+  "ExtractableRelic:esd_winnerasprite_variant_tricktreat": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_WinnerASprite_Variant_TrickTreat",
+    "ItemName": "Trick or Treat Pond Sprite",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_winnera",
+      "PlayerAugment:paid_spriteboons_variant_tricktreat"
+    ],
+    "Generation": "Ch7S4",
+    "ItemDescription": "(Active) - Jump shortly after landing to trigger a Super Jump, if charges are present. Gain charges over time. Super jump strength increases and cooldown decreases with each Level Up!",
+    "MappingID": "WinnerASprite_Variant_TrickTreat",
+    "Parent": "ExtractableRelic:esd_winnerasprite",
+    "Rarity": "Epic",
+    "SpriteDex": 40,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/winnerasprite/esd_winnerasprite_variant_tricktreat.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_WinnerA_TrickTreat.png"
+    }
+  },
   "ExtractableRelic:esd_winnerbsprite": {
     "Type": "ExtractableRelic",
     "Name": "ESD_WinnerBSprite",
@@ -5001,6 +5859,25 @@
       "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_WinnerB_BountyHunter.png"
     }
   },
+  "ExtractableRelic:esd_winnerbsprite_variant_tricktreat": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_WinnerBSprite_Variant_TrickTreat",
+    "ItemName": "Trick or Treat X-Ray Sprite",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_winnerb",
+      "PlayerAugment:paid_spriteboons_variant_tricktreat"
+    ],
+    "Generation": "Ch7S4",
+    "ItemDescription": "Periodically mark enemies in an area around you. Mark more often with each Level Up!",
+    "MappingID": "WinnerBSprite_Variant_TrickTreat",
+    "Parent": "ExtractableRelic:esd_winnerbsprite",
+    "Rarity": "Legendary",
+    "SpriteDex": 41,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/winnerbsprite/esd_winnerbsprite_variant_tricktreat.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_WinnerB_TrickTreat.png"
+    }
+  },
   "ExtractableRelic:esd_winnercsprite": {
     "Type": "ExtractableRelic",
     "Name": "ESD_WinnerCSprite",
@@ -5110,6 +5987,155 @@
     "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/winnercsprite/esd_winnercsprite_variant_reaper.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_WinnerC_BountyHunter.png"
+    }
+  },
+  "ExtractableRelic:esd_winnercsprite_variant_tricktreat": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_WinnerCSprite_Variant_TrickTreat",
+    "ItemName": "Trick or Treat Onigiri Sprite",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_winnerc",
+      "PlayerAugment:paid_spriteboons_variant_tricktreat"
+    ],
+    "Generation": "Ch7S4",
+    "ItemDescription": "Applies Overdrive after eating or drinking a Consumable. Overdrive lasts longer with each Level Up!",
+    "MappingID": "WinnerCSprite_Variant_TrickTreat",
+    "Parent": "ExtractableRelic:esd_winnercsprite",
+    "Rarity": "Rare",
+    "SpriteDex": 42,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/winnercsprite/esd_winnercsprite_variant_tricktreat.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_WinnerC_TrickTreat.png"
+    }
+  },
+  "ExtractableRelic:esd_winnerdsprite": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_WinnerDSprite",
+    "ItemName": "Dumpster Dive Sprite",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_winnerd"
+    ],
+    "Generation": "Ch7S4",
+    "ItemDescription": "Food provides bonus healing. Find food when jumping out of hiding props, and a small chance when opening containers. Find better food with each Level Up!",
+    "MappingID": "WinnerDSprite",
+    "Rarity": "Epic",
+    "SpriteDex": 17,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/winnerdsprite/esd_winnerdsprite.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_WinnerD.png"
+    }
+  },
+  "ExtractableRelic:esd_winnerdsprite_variant_a": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_WinnerDSprite_Variant_A",
+    "ItemName": "Dumpster Dive Sprite",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_winnerd"
+    ],
+    "Generation": "Ch7S4",
+    "ItemDescription": "Food provides bonus healing. Find food when jumping out of hiding props, and a small chance when opening containers. Find better food with each Level Up!",
+    "MappingID": "WinnerDSprite_Variant_A",
+    "Parent": "ExtractableRelic:esd_winnerdsprite",
+    "Rarity": "Epic",
+    "SpriteDex": 17,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/winnerdsprite/esd_winnerdsprite_variant_a.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_WinnerD.png"
+    }
+  },
+  "ExtractableRelic:esd_winnerdsprite_variant_cheatmaster": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_WinnerDSprite_Variant_CheatMaster",
+    "ItemName": "Cheat Master Dumpster Dive Sprite",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_winnerd",
+      "PlayerAugment:paid_spriteboons_variant_cheatmaster"
+    ],
+    "Generation": "Ch7S4",
+    "ItemDescription": "Food provides bonus healing. Find food when jumping out of hiding props, and a small chance when opening containers. Find better food with each Level Up!",
+    "MappingID": "WinnerDSprite_Variant_CheatMaster",
+    "Parent": "ExtractableRelic:esd_winnerdsprite",
+    "Rarity": "Epic",
+    "SpriteDex": 17,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/winnerdsprite/esd_winnerdsprite_variant_cheatmaster.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_WinnerD_Cheatmaster.png"
+    }
+  },
+  "ExtractableRelic:esd_winnerdsprite_variant_gold": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_WinnerDSprite_Variant_Gold",
+    "ItemName": "Gold Dumpster Dive Sprite",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_winnerd",
+      "PlayerAugment:paid_spriteboons_variant_gold"
+    ],
+    "Generation": "Ch7S4",
+    "ItemDescription": "Food provides bonus healing. Find food when jumping out of hiding props, and a small chance when opening containers. Find better food with each Level Up!",
+    "MappingID": "WinnerDSprite_Variant_Gold",
+    "Parent": "ExtractableRelic:esd_winnerdsprite",
+    "Rarity": "Epic",
+    "SpriteDex": 17,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/winnerdsprite/esd_winnerdsprite_variant_gold.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_WinnerD_Gold.png"
+    }
+  },
+  "ExtractableRelic:esd_winnerdsprite_variant_loothacker": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_WinnerDSprite_Variant_LootHacker",
+    "ItemName": "Loot Hacker Dumpster Dive Sprite",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_winnerd",
+      "PlayerAugment:paid_spriteboons_variant_hacker"
+    ],
+    "Generation": "Ch7S4",
+    "ItemDescription": "Food provides bonus healing. Find food when jumping out of hiding props, and a small chance when opening containers. Find better food with each Level Up!",
+    "MappingID": "WinnerDSprite_Variant_LootHacker",
+    "Parent": "ExtractableRelic:esd_winnerdsprite",
+    "Rarity": "Epic",
+    "SpriteDex": 17,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/winnerdsprite/esd_winnerdsprite_variant_loothacker.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_WinnerD_Hacker.png"
+    }
+  },
+  "ExtractableRelic:esd_winnerdsprite_variant_reaper": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_WinnerDSprite_Variant_Reaper",
+    "ItemName": "Bounty Hunter Dumpster Dive Sprite",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_winnerd",
+      "PlayerAugment:paid_spriteboons_variant_reaper"
+    ],
+    "Generation": "Ch7S4",
+    "ItemDescription": "Food provides bonus healing. Find food when jumping out of hiding props, and a small chance when opening containers. Find better food with each Level Up!",
+    "MappingID": "WinnerDSprite_Variant_Reaper",
+    "Parent": "ExtractableRelic:esd_winnerdsprite",
+    "Rarity": "Epic",
+    "SpriteDex": 17,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/winnerdsprite/esd_winnerdsprite_variant_reaper.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_WinnerD_BountyHunter.png"
+    }
+  },
+  "ExtractableRelic:esd_winnerdsprite_variant_tricktreat": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_WinnerDSprite_Variant_TrickTreat",
+    "ItemName": "Trick or Treat Dumpster Dive Sprite",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_winnerd",
+      "PlayerAugment:paid_spriteboons_variant_tricktreat"
+    ],
+    "Generation": "Ch7S4",
+    "ItemDescription": "Food provides bonus healing. Find food when jumping out of hiding props, and a small chance when opening containers. Find better food with each Level Up!",
+    "MappingID": "WinnerDSprite_Variant_TrickTreat",
+    "Parent": "ExtractableRelic:esd_winnerdsprite",
+    "Rarity": "Epic",
+    "SpriteDex": 17,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/winnerdsprite/esd_winnerdsprite_variant_tricktreat.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_WinnerD_TrickTreat.png"
     }
   },
   "ExtractableRelic:esd_zeropointsprite": {

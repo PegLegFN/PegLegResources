@@ -342,6 +342,29 @@
       "LargePreview": "ExportedImages\\T-HeroXP-L.png"
     }
   },
+  "AccountResource:mash_expertisecurrency_1": {
+    "Type": "AccountResource",
+    "Name": "Mash_ExpertiseCurrency_1",
+    "ItemName": "Hunter Rank Benefit",
+    "Rarity": "Common",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/ltm/smash/content/items/expertisequests/persistentresources/mash_expertisecurrency_1.uasset"
+  },
+  "AccountResource:mash_expertisehrp_currency": {
+    "Type": "AccountResource",
+    "Name": "Mash_ExpertiseHRP_Currency",
+    "ItemName": "Horde Rush Points Expertise Bonus",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/ltm/smash/content/items/expertisequests/persistentresources/mash_expertisehrp_currency.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T-Banners-Icons-S24-StWHordeMode-MVP-Lvl2-L.png",
+      "LargePreview": "ExportedImages\\T-Banners-Icons-S24-StWHordeMode-MVP-Lvl2-L.png"
+    }
+  },
+  "AccountResource:mash_persistentresources": {
+    "Type": "AccountResource",
+    "Name": "Mash_PersistentResources",
+    "ItemName": "\u003CMash_PersistentResources\u003E",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/ltm/smash/content/items/expertisequests/persistentresources/mash_persistentresources.uasset"
+  },
   "AccountResource:peopleresource": {
     "Type": "AccountResource",
     "Name": "PeopleResource",
@@ -697,6 +720,70 @@
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T_UI_UniversalXP_Icon_Points_Standard_128.png",
       "LargePreview": "ExportedImages\\T_UI_UniversalXP_Icon_Points_Standard_128.png"
+    }
+  },
+  "AccountResource:s42_mash_expertise_buff_granter_1": {
+    "Type": "AccountResource",
+    "Name": "S42_Mash_Expertise_Buff_Granter_1",
+    "ItemName": "Hunter Rank",
+    "Rarity": "Common",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/ltm/smash/content/items/expertisequests/persistentresources/s42_mash_expertise_buff_granter_1.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_UI_DailyCreativeQuests.png",
+      "LargePreview": "ExportedImages\\T_UI_DailyCreativeQuests.png"
+    }
+  },
+  "AccountResource:s42_mash_expertise_buff_granter_2": {
+    "Type": "AccountResource",
+    "Name": "S42_Mash_Expertise_Buff_Granter_2",
+    "ItemName": "Hunter Rank",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/ltm/smash/content/items/expertisequests/persistentresources/s42_mash_expertise_buff_granter_2.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_UI_Reward_QuestReward.png",
+      "LargePreview": "ExportedImages\\T_UI_Reward_QuestReward.png"
+    }
+  },
+  "AccountResource:s42_mash_expertise_buff_granter_3": {
+    "Type": "AccountResource",
+    "Name": "S42_Mash_Expertise_Buff_Granter_3",
+    "ItemName": "Hunter Rank",
+    "Rarity": "Rare",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/ltm/smash/content/items/expertisequests/persistentresources/s42_mash_expertise_buff_granter_3.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_UI_Reward_QuestReward.png",
+      "LargePreview": "ExportedImages\\T_UI_Reward_QuestReward.png"
+    }
+  },
+  "AccountResource:s42_mash_expertise_buff_granter_4": {
+    "Type": "AccountResource",
+    "Name": "S42_Mash_Expertise_Buff_Granter_4",
+    "ItemName": "Hunter Rank",
+    "Rarity": "Epic",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/ltm/smash/content/items/expertisequests/persistentresources/s42_mash_expertise_buff_granter_4.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_UI_Reward_QuestReward.png",
+      "LargePreview": "ExportedImages\\T_UI_Reward_QuestReward.png"
+    }
+  },
+  "AccountResource:s42_mash_expertise_buff_granter_5": {
+    "Type": "AccountResource",
+    "Name": "S42_Mash_Expertise_Buff_Granter_5",
+    "ItemName": "Hunter Rank",
+    "Rarity": "Legendary",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/ltm/smash/content/items/expertisequests/persistentresources/s42_mash_expertise_buff_granter_5.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_UI_Reward_QuestReward.png",
+      "LargePreview": "ExportedImages\\T_UI_Reward_QuestReward.png"
+    }
+  },
+  "AccountResource:s42_mash_expertise_hrp_granter": {
+    "Type": "AccountResource",
+    "Name": "S42_Mash_Expertise_HRP_Granter",
+    "ItemName": "Hunter Rank",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/ltm/smash/content/items/expertisequests/persistentresources/s42_mash_expertise_hrp_granter.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_UI_Reward_QuestReward.png",
+      "LargePreview": "ExportedImages\\T_UI_Reward_QuestReward.png"
     }
   },
   "AccountResource:schematicxp": {

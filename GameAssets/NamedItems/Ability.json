@@ -2115,6 +2115,26 @@
       "Icon": "ExportedImages\\Icon_Outlander_GhoulishCackle_128.png"
     }
   },
+  "Ability:kit_perk_h_ghoulslinger_t01": {
+    "Type": "Ability",
+    "Name": "Kit_Perk_H_Ghoulslinger_T01",
+    "ItemName": "Ghoulslinger",
+    "ItemDescription": "Increases Lefty and Righty Crit Rating by 15. Crits have a 40% chance to summon a Phantasm (targets a nearby enemy, dealing 62 base Energy damage in a 0.5 tile radius, 1.5 second cooldown).",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/perks/hero/ghoulslinger/kit_perk_h_ghoulslinger_t01.uasset",
+    "ImagePaths": {
+      "Icon": "ExportedImages\\Icon_Constructor_Gravefeather_129.png"
+    }
+  },
+  "Ability:kit_perk_h_ghoulslinger_t02": {
+    "Type": "Ability",
+    "Name": "Kit_Perk_H_Ghoulslinger_T02",
+    "ItemName": "Ghoulslinger \u002B",
+    "ItemDescription": "Increases Lefty and Righty Crit Rating by 45. Crits have a 40% chance to summon a Phantasm (targets a nearby enemy, dealing 62 base Energy damage in a 0.5 tile radius, 1.5 second cooldown).",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/perks/hero/ghoulslinger/kit_perk_h_ghoulslinger_t02.uasset",
+    "ImagePaths": {
+      "Icon": "ExportedImages\\Icon_Constructor_Gravefeather_129.png"
+    }
+  },
   "Ability:kit_perk_h_gnarlyelimination_t01": {
     "Type": "Ability",
     "Name": "Kit_Perk_H_GnarlyElimination_T01",
@@ -3499,7 +3519,7 @@
     "Type": "Ability",
     "Name": "Kit_Perk_H_PumpMetal_T01",
     "ItemName": "Pump Metal",
-    "ItemDescription": "Lefty and Righty eliminations extend its Duration by 1 second, up to a maximum of 10 eliminations.",
+    "ItemDescription": "Increases Lefty and Righty Duration by 5 seconds.",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/perks/hero/pumpmetal/kit_perk_h_pumpmetal_t01.uasset",
     "ImagePaths": {
       "Icon": "ExportedImages\\Icon-Soldier-PumpMetal-128.png"
@@ -3509,7 +3529,7 @@
     "Type": "Ability",
     "Name": "Kit_Perk_H_PumpMetal_T02",
     "ItemName": "Pump Metal \u002B",
-    "ItemDescription": "Lefty and Righty eliminations extend its Duration by 2 second, up to a maximum of 10 eliminations.",
+    "ItemDescription": "Increases Lefty and Righty Duration by 20 seconds.",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/perks/hero/pumpmetal/kit_perk_h_pumpmetal_t02.uasset",
     "ImagePaths": {
       "Icon": "ExportedImages\\Icon-Soldier-PumpMetal-128.png"
@@ -4579,7 +4599,7 @@
     "Type": "Ability",
     "Name": "Kit_Perk_H_WheresLefty_T01",
     "ItemName": "Where\u0027s Lefty",
-    "ItemDescription": "Every Pistol or SMG elimination decreases Cooldown of Lefty and Righty by 1 second(s).",
+    "ItemDescription": "Decreases Lefty and Righty Cooldown by 30%.",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/perks/hero/whereslefty/kit_perk_h_whereslefty_t01.uasset",
     "ImagePaths": {
       "Icon": "ExportedImages\\Icon-Constructor-WheresLefty-128.png"
@@ -4589,7 +4609,7 @@
     "Type": "Ability",
     "Name": "Kit_Perk_H_WheresLefty_T02",
     "ItemName": "Where\u0027s Lefty \u002B",
-    "ItemDescription": "Every Pistol or SMG elimination decreases Cooldown of Lefty and Righty by 5 second(s).",
+    "ItemDescription": "Decreases Lefty and Righty Cooldown by 66%.",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/perks/hero/whereslefty/kit_perk_h_whereslefty_t02.uasset",
     "ImagePaths": {
       "Icon": "ExportedImages\\Icon-Constructor-WheresLefty-128.png"

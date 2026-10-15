@@ -2680,7 +2680,7 @@
     "Name": "AutumnQuest_ExploreZones_1",
     "ItemName": "Let\u0027s Explore - Stage 1",
     "Category": "LTE_Autumn",
-    "ItemDescription": "Explore the world while completing missions.",
+    "ItemDescription": "Explore the world while completing missions. Note: Cannot be completed in Dungeons.",
     "Objectives": [
       {
         "BackendName": "complete_exploration_1_diff3",
@@ -2721,7 +2721,7 @@
     "Name": "AutumnQuest_ExploreZones_10",
     "ItemName": "Let\u0027s Explore - Stage 10",
     "Category": "LTE_Autumn",
-    "ItemDescription": "Explore the world while completing missions.",
+    "ItemDescription": "Explore the world while completing missions. Note: Cannot be completed in Dungeons.",
     "Objectives": [
       {
         "BackendName": "complete_exploration_3_diff2",
@@ -2756,7 +2756,7 @@
     "Name": "AutumnQuest_ExploreZones_2",
     "ItemName": "Let\u0027s Explore - Stage 2",
     "Category": "LTE_Autumn",
-    "ItemDescription": "Explore the world while completing missions.",
+    "ItemDescription": "Explore the world while completing missions. Note: Cannot be completed in Dungeons.",
     "Objectives": [
       {
         "BackendName": "complete_exploration_1_diff4",
@@ -2797,7 +2797,7 @@
     "Name": "AutumnQuest_ExploreZones_3",
     "ItemName": "Let\u0027s Explore - Stage 3",
     "Category": "LTE_Autumn",
-    "ItemDescription": "Explore the world while completing missions.",
+    "ItemDescription": "Explore the world while completing missions. Note: Cannot be completed in Dungeons.",
     "Objectives": [
       {
         "BackendName": "complete_exploration_1_diff5",
@@ -2838,7 +2838,7 @@
     "Name": "AutumnQuest_ExploreZones_4",
     "ItemName": "Let\u0027s Explore - Stage 4",
     "Category": "LTE_Autumn",
-    "ItemDescription": "Explore the world while completing missions.",
+    "ItemDescription": "Explore the world while completing missions. Note: Cannot be completed in Dungeons.",
     "Objectives": [
       {
         "BackendName": "complete_exploration_2",
@@ -2879,7 +2879,7 @@
     "Name": "AutumnQuest_ExploreZones_5",
     "ItemName": "Let\u0027s Explore - Stage 5",
     "Category": "LTE_Autumn",
-    "ItemDescription": "Explore the world while completing missions.",
+    "ItemDescription": "Explore the world while completing missions. Note: Cannot be completed in Dungeons.",
     "Objectives": [
       {
         "BackendName": "complete_exploration_2_diff2",
@@ -2920,7 +2920,7 @@
     "Name": "AutumnQuest_ExploreZones_6",
     "ItemName": "Let\u0027s Explore - Stage 6",
     "Category": "LTE_Autumn",
-    "ItemDescription": "Explore the world while completing missions.",
+    "ItemDescription": "Explore the world while completing missions. Note: Cannot be completed in Dungeons.",
     "Objectives": [
       {
         "BackendName": "complete_exploration_2_diff3",
@@ -2961,7 +2961,7 @@
     "Name": "AutumnQuest_ExploreZones_7",
     "ItemName": "Let\u0027s Explore - Stage 7",
     "Category": "LTE_Autumn",
-    "ItemDescription": "Explore the world while completing missions.",
+    "ItemDescription": "Explore the world while completing missions. Note: Cannot be completed in Dungeons.",
     "Objectives": [
       {
         "BackendName": "complete_exploration_2_diff4",
@@ -3002,7 +3002,7 @@
     "Name": "AutumnQuest_ExploreZones_8",
     "ItemName": "Let\u0027s Explore - Stage 8",
     "Category": "LTE_Autumn",
-    "ItemDescription": "Explore the world while completing missions.",
+    "ItemDescription": "Explore the world while completing missions. Note: Cannot be completed in Dungeons.",
     "Objectives": [
       {
         "BackendName": "complete_exploration_2_diff5",
@@ -3043,7 +3043,7 @@
     "Name": "AutumnQuest_ExploreZones_9",
     "ItemName": "Let\u0027s Explore - Stage 9",
     "Category": "LTE_Autumn",
-    "ItemDescription": "Explore the world while completing missions.",
+    "ItemDescription": "Explore the world while completing missions. Note: Cannot be completed in Dungeons.",
     "Objectives": [
       {
         "BackendName": "complete_exploration_3",
@@ -36794,6 +36794,154 @@
       "LargePreview": "ExportedImages\\T-Icon-Pylon-Speed.png"
     }
   },
+  "Quest:miniboss_quest_a01_complete": {
+    "Type": "Quest",
+    "Name": "MiniBoss_Quest_A01_Complete",
+    "ItemName": "Portal Combat",
+    "Category": "LTE_MiniBoss",
+    "ItemDescription": "Homebase wants you to check on strange monsters emerging from Rifts.",
+    "Objectives": [
+      {
+        "BackendName": "MiniBoss_Quest_A01_Complete_obj0",
+        "Count": 1,
+        "Description": "Complete 1 Challenge the Rift in any zone.",
+        "HudShortDescription": "Challenge the Rift Completed"
+      }
+    ],
+    "Rewards": [
+      {
+        "Hidden": false,
+        "Item": "AccountResource:eventcurrency_scaling",
+        "Quantity": 100,
+        "Selectable": false
+      },
+      {
+        "Hidden": false,
+        "Item": "AccountResource:reagent_alteration_upgrade_vr",
+        "Quantity": 150,
+        "Selectable": false
+      },
+      {
+        "Hidden": true,
+        "Item": "Quest:miniboss_quest_a02_collect",
+        "Quantity": 1,
+        "Selectable": false
+      }
+    ],
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/quests/events/miniboss/miniboss_quest_a01_complete.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T-Icons-AnomalyRiftsNoFrame-128.png",
+      "LargePreview": "ExportedImages\\T-Icons-AnomalyRiftsNoFrame-128.png"
+    }
+  },
+  "Quest:miniboss_quest_a02_collect": {
+    "Type": "Quest",
+    "Name": "MiniBoss_Quest_A02_Collect",
+    "ItemName": "Storm Chasers",
+    "Category": "LTE_MiniBoss",
+    "ItemDescription": "We need to collect some Storm Energy from the other side of those strange Rifts by eliminating Mini-Bosses.",
+    "Objectives": [
+      {
+        "BackendName": "miniboss_quest_a02_collect_obj0",
+        "Count": 3,
+        "Description": "Eliminate 3 Mini-Bosses and collect Storm Energy in any zone.",
+        "HudShortDescription": "Storm Energy Collected"
+      }
+    ],
+    "Rewards": [
+      {
+        "Hidden": false,
+        "Item": "AccountResource:campaign_event_currency",
+        "Quantity": 250,
+        "Selectable": false
+      },
+      {
+        "Hidden": false,
+        "Item": "AccountResource:reagent_alteration_gameplay_generic",
+        "Quantity": 1,
+        "Selectable": false
+      },
+      {
+        "Hidden": true,
+        "Item": "Quest:miniboss_quest_a03_collect",
+        "Quantity": 1,
+        "Selectable": false
+      }
+    ],
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/quests/events/miniboss/miniboss_quest_a02_collect.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T-Icons-AnomalyRiftsNoFrame-128.png",
+      "LargePreview": "ExportedImages\\T-Icons-AnomalyRiftsNoFrame-128.png"
+    }
+  },
+  "Quest:miniboss_quest_a03_collect": {
+    "Type": "Quest",
+    "Name": "MiniBoss_Quest_A03_Collect",
+    "ItemName": "Birds of a Feather",
+    "Category": "LTE_MiniBoss",
+    "ItemDescription": "These Rifts have started infecting the local chickens in Hexsylvania. We need to collect their feathers and analyze them.",
+    "Objectives": [
+      {
+        "BackendName": "MiniBoss_Quest_A03_Collect_obj0",
+        "Count": 6,
+        "Description": "Eliminate 6 Zombie Chickens and collect Grave Feathers in any zone in Hexsylvania.",
+        "HudShortDescription": "Grave Feathers Collected"
+      }
+    ],
+    "Rewards": [
+      {
+        "Hidden": false,
+        "Item": "AccountResource:eventcurrency_scaling",
+        "Quantity": 100,
+        "Selectable": false
+      },
+      {
+        "Hidden": false,
+        "Item": "AccountResource:peoplexp",
+        "Quantity": 1000,
+        "Selectable": false
+      },
+      {
+        "Hidden": true,
+        "Item": "Quest:miniboss_quest_a04_complete",
+        "Quantity": 1,
+        "Selectable": false
+      }
+    ],
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/quests/events/miniboss/miniboss_quest_a03_collect.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_UI_IconLibrary_chicken_64.png",
+      "LargePreview": "ExportedImages\\T_UI_IconLibrary_chicken_64.png"
+    }
+  },
+  "Quest:miniboss_quest_a04_complete": {
+    "Type": "Quest",
+    "Name": "MiniBoss_Quest_A04_Complete",
+    "ItemName": "Grave Expectations",
+    "Category": "LTE_MiniBoss",
+    "ItemDescription": "Between Homebase\u0027s tech, the Storm Energy, and the infected feathers, we should be able to make ourselves a new ally.",
+    "Objectives": [
+      {
+        "BackendName": "MiniBoss_Quest_A04_Complete_obj0",
+        "Count": 1,
+        "Description": "Complete a Trap the Storm mission in any zone in Hexsylvania. ",
+        "HudShortDescription": "Trap the Storm Completed."
+      }
+    ],
+    "Rewards": [
+      {
+        "Hidden": false,
+        "Item": "Hero:hid_commando_048_darkminion_sr_t01",
+        "Quantity": 1,
+        "Selectable": false
+      }
+    ],
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/quests/events/miniboss/miniboss_quest_a04_complete.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T-Icon-TrapTheStorm-64.png",
+      "LargePreview": "ExportedImages\\T-Icon-TrapTheStorm-64.png"
+    }
+  },
   "Quest:monthrewardquest_getrewards": {
     "Type": "Quest",
     "Name": "MonthRewardQuest_GetRewards",
@@ -41589,8 +41737,8 @@
       {
         "BackendName": "Phoenix_Fetch_Quest_B7",
         "Count": 6,
-        "Description": "Deploy Fires to Guide Carter",
-        "HudShortDescription": "Fires Deployed"
+        "Description": "Light Fires to Guide Carter",
+        "HudShortDescription": "Fires Lit"
       }
     ],
     "Rewards": [
@@ -51958,7 +52106,7 @@
     "Name": "S11_GatherCollect_Quest_C3",
     "ItemName": "What\u0027s a landline?",
     "Category": "LTE_Season11C",
-    "ItemDescription": "A big camp fire is a great place for spooky stories. Destroy campfires to gather marshmallow sticks. Best completed in Shady Acres.",
+    "ItemDescription": "A big camp fire is a great place for spooky stories. Destroy campfires to gather marshmallow sticks. Best completed in Shady Acres. Hint: Cannot be completed in the Haunted Hotel.",
     "Objectives": [
       {
         "BackendName": "s11_gathercollect_quest_c3",

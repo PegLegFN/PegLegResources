@@ -158,6 +158,24 @@
     "ItemName": "\u003CGM_BaseModifier_MiniBoss_DUDEBRO_Smasher\u003E",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/basemodifiers/dudebro/gm_basemodifier_miniboss_dudebro_smasher.uasset"
   },
+  "GameplayModifier:gm_basemodifier_miniboss_showdown_husk": {
+    "Type": "GameplayModifier",
+    "Name": "GM_BaseModifier_MiniBoss_Showdown_Husk",
+    "ItemName": "\u003CGM_BaseModifier_MiniBoss_Showdown_Husk\u003E",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/basemodifiers/gm_basemodifier_miniboss_showdown_husk.uasset"
+  },
+  "GameplayModifier:gm_basemodifier_miniboss_showdown_husky": {
+    "Type": "GameplayModifier",
+    "Name": "GM_BaseModifier_MiniBoss_Showdown_Husky",
+    "ItemName": "\u003CGM_BaseModifier_MiniBoss_Showdown_Husky\u003E",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/basemodifiers/gm_basemodifier_miniboss_showdown_husky.uasset"
+  },
+  "GameplayModifier:gm_basemodifier_miniboss_showdown_smasher": {
+    "Type": "GameplayModifier",
+    "Name": "GM_BaseModifier_MiniBoss_Showdown_Smasher",
+    "ItemName": "\u003CGM_BaseModifier_MiniBoss_Showdown_Smasher\u003E",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/gameplaymodifiers/miniboss/basemodifiers/gm_basemodifier_miniboss_showdown_smasher.uasset"
+  },
   "GameplayModifier:gm_bldg_ondeath_buffenemyenvdmg": {
     "Type": "GameplayModifier",
     "Name": "GM_Bldg_OnDeath_BuffEnemyEnvDmg",

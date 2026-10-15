@@ -99,6 +99,18 @@
       "LargePreview": "ExportedImages\\T_UI_Bar_Bushranger.png"
     }
   },
+  "PlayerAugment:paid_spriteboons_cargolying": {
+    "Type": "PlayerAugment",
+    "Name": "PAID_SpriteBoons_CargoLying",
+    "ItemName": "One Wish Willow Sprite",
+    "ItemDescription": "Extract other players equipped Sprites when eliminating them. Push everything away when damaged. Gets upset when removed and marks you on the map",
+    "Rarity": "Mythic",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7s4/content/gameplay/extractableboons/cargolying/paid_spriteboons_cargolying.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_UI_Bar_Obsession.png",
+      "LargePreview": "ExportedImages\\T_UI_Bar_Obsession.png"
+    }
+  },
   "PlayerAugment:paid_spriteboons_chaosaura": {
     "Type": "PlayerAugment",
     "Name": "PAID_SpriteBoons_ChaosAura",
@@ -663,18 +675,6 @@
       "LargePreview": "ExportedImages\\T_UI_SpriteExtraction_Perk_InfiniteAmmo.png"
     }
   },
-  "PlayerAugment:paid_spriteboons_squibbly": {
-    "Type": "PlayerAugment",
-    "Name": "PAID_SpriteBoons_Squibbly",
-    "ItemName": "Squibbly",
-    "ItemDescription": "(Ability Not Implemented) Diving into a fishing hole fishes it",
-    "Rarity": "Epic",
-    "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7s4/content/gameplay/extractableboons/squibbly/paid_spriteboons_squibbly.uasset",
-    "ImagePaths": {
-      "SmallPreview": "ExportedImages\\T_UI_Bar_Squibbly.png",
-      "LargePreview": "ExportedImages\\T_UI_Bar_Squibbly.png"
-    }
-  },
   "PlayerAugment:paid_spriteboons_starterpack": {
     "Type": "PlayerAugment",
     "Name": "PAID_SpriteBoons_StarterPack",
@@ -933,6 +933,18 @@
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T_UI_Bar_Comm04.png",
       "LargePreview": "ExportedImages\\T_UI_Bar_Comm04.png"
+    }
+  },
+  "PlayerAugment:paid_spriteboons_winnere": {
+    "Type": "PlayerAugment",
+    "Name": "PAID_SpriteBoons_WinnerE",
+    "ItemName": "Honey Sprite",
+    "ItemDescription": "Chance to spawn bees at the hit location upon dealing damage with a ranged weapon",
+    "Rarity": "Rare",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7s4/content/gameplay/extractableboons/winnere/paid_spriteboons_winnere.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_UI_Bar_Comm05.png",
+      "LargePreview": "ExportedImages\\T_UI_Bar_Comm05.png"
     }
   }
 }

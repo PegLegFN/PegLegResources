@@ -287,6 +287,14 @@
       "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_Birthday.png"
     }
   },
+  "ExtractableRelic:esd_birthdaysprite_variant_cheatmaster": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_BirthdaySprite_Variant_Cheatmaster",
+    "ItemName": "\u003CESD_BirthdaySprite_Variant_Cheatmaster\u003E",
+    "Generation": "Ch7S4",
+    "Rarity": "Uncommon",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/birthday/esd_birthdaysprite_variant_cheatmaster.uasset"
+  },
   "ExtractableRelic:esd_birthdaysprite_variant_cm": {
     "Type": "ExtractableRelic",
     "Name": "ESD_BirthdaySprite_Variant_CM",
@@ -769,6 +777,25 @@
       "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_BushRanger_Hacker.png"
     }
   },
+  "ExtractableRelic:esd_bushranger_variant_quack": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_BushRanger_Variant_Quack",
+    "ItemName": "Quack Bush Sprite",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_bushranger",
+      "PlayerAugment:paid_spriteboons_variant_quack"
+    ],
+    "Generation": "Ch7S4",
+    "ItemDescription": "Grants a bush on you after a duration, gain a bush on elimination at max level. Time between bush activating decreases with each Level Up!",
+    "MappingID": "BushRangerSprite_Variant_Quack",
+    "Parent": "ExtractableRelic:esd_bushranger",
+    "Rarity": "Rare",
+    "SpriteDex": 29,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/bushranger/esd_bushranger_variant_quack.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_BushRanger_Quack.png"
+    }
+  },
   "ExtractableRelic:esd_bushranger_variant_reaper": {
     "Type": "ExtractableRelic",
     "Name": "ESD_BushRanger_Variant_Reaper",
@@ -805,6 +832,136 @@
     "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/bushranger/esd_bushranger_variant_tricktreat.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_BushRanger_TrickTreat.png"
+    }
+  },
+  "ExtractableRelic:esd_cargolyingsprite": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_CargoLyingSprite",
+    "ItemName": "One Wish Willow Sprite",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_cargolying"
+    ],
+    "Generation": "Ch7S4",
+    "ItemDescription": "Extract other players equipped Sprites when eliminating them. Push everything away when damaged. Gets upset when removed and marks you on the map",
+    "MappingID": "CargoLyingSprite",
+    "Rarity": "Mythic",
+    "SpriteDex": 54,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/cargolying/esd_cargolyingsprite.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_CargoLying.png"
+    }
+  },
+  "ExtractableRelic:esd_cargolyingsprite_variant_a": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_CargoLyingSprite_Variant_A",
+    "ItemName": "One Wish Willow Sprite",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_cargolying"
+    ],
+    "Generation": "Ch7S4",
+    "ItemDescription": "Extract other players equipped Sprites when eliminating them. Push everything away when damaged. Gets upset when removed and marks you on the map",
+    "MappingID": "CargoLyingSprite_Variant_A",
+    "Parent": "ExtractableRelic:esd_cargolyingsprite",
+    "Rarity": "Mythic",
+    "SpriteDex": 54,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/cargolying/esd_cargolyingsprite_variant_a.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_CargoLying.png"
+    }
+  },
+  "ExtractableRelic:esd_cargolyingsprite_variant_cheatmaster": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_CargoLyingSprite_Variant_CheatMaster",
+    "ItemName": "Cheatmaster One Wish Willow Sprite",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_cargolying",
+      "PlayerAugment:paid_spriteboons_variant_cheatmaster"
+    ],
+    "Generation": "Ch7S4",
+    "ItemDescription": "Extract other players equipped Sprites when eliminating them. Push everything away when damaged. Gets upset when removed and marks you on the map",
+    "MappingID": "CargoLyingSprite_Variant_CheatMaster",
+    "Parent": "ExtractableRelic:esd_cargolyingsprite",
+    "Rarity": "Mythic",
+    "SpriteDex": 54,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/cargolying/esd_cargolyingsprite_variant_cheatmaster.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_CargoLying_Cheatmaster.png"
+    }
+  },
+  "ExtractableRelic:esd_cargolyingsprite_variant_gold": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_CargoLyingSprite_Variant_Gold",
+    "ItemName": "Gold One Wish Willow Sprite",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_cargolying",
+      "PlayerAugment:paid_spriteboons_variant_gold"
+    ],
+    "Generation": "Ch7S4",
+    "ItemDescription": "Extract other players equipped Sprites when eliminating them. Push everything away when damaged. Gets upset when removed and marks you on the map",
+    "MappingID": "CargoLyingSprite_Variant_Gold",
+    "Parent": "ExtractableRelic:esd_cargolyingsprite",
+    "Rarity": "Mythic",
+    "SpriteDex": 54,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/cargolying/esd_cargolyingsprite_variant_gold.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_CargoLying_Gold.png"
+    }
+  },
+  "ExtractableRelic:esd_cargolyingsprite_variant_loothacker": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_CargoLyingSprite_Variant_LootHacker",
+    "ItemName": "Loot Hacker One Wish Willow Sprite",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_cargolying",
+      "PlayerAugment:paid_spriteboons_variant_hacker"
+    ],
+    "Generation": "Ch7S4",
+    "ItemDescription": "Extract other players equipped Sprites when eliminating them. Push everything away when damaged. Gets upset when removed and marks you on the map",
+    "MappingID": "CargoLyingSprite_Variant_LootHacker",
+    "Parent": "ExtractableRelic:esd_cargolyingsprite",
+    "Rarity": "Mythic",
+    "SpriteDex": 54,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/cargolying/esd_cargolyingsprite_variant_loothacker.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_CargoLying_Hacker.png"
+    }
+  },
+  "ExtractableRelic:esd_cargolyingsprite_variant_reaper": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_CargoLyingSprite_Variant_Reaper",
+    "ItemName": "Bounty Hunter One Wish Willow Sprite",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_cargolying",
+      "PlayerAugment:paid_spriteboons_variant_reaper"
+    ],
+    "Generation": "Ch7S4",
+    "ItemDescription": "Extract other players equipped Sprites when eliminating them. Push everything away when damaged. Gets upset when removed and marks you on the map",
+    "MappingID": "CargoLyingSprite_Variant_Reaper",
+    "Parent": "ExtractableRelic:esd_cargolyingsprite",
+    "Rarity": "Mythic",
+    "SpriteDex": 54,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/cargolying/esd_cargolyingsprite_variant_reaper.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_CargoLying_BountyHunter.png"
+    }
+  },
+  "ExtractableRelic:esd_cargolyingsprite_variant_tricktreat": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_CargoLyingSprite_Variant_TrickTreat",
+    "ItemName": "Trick or Treat One Wish Willow Sprite",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_cargolying",
+      "PlayerAugment:paid_spriteboons_variant_tricktreat"
+    ],
+    "Generation": "Ch7S4",
+    "ItemDescription": "Extract other players equipped Sprites when eliminating them. Push everything away when damaged. Gets upset when removed and marks you on the map",
+    "MappingID": "CargoLyingSprite_Variant_TrickTreat",
+    "Parent": "ExtractableRelic:esd_cargolyingsprite",
+    "Rarity": "Mythic",
+    "SpriteDex": 54,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/cargolying/esd_cargolyingsprite_variant_tricktreat.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_CargoLying_TrickTreat.png"
     }
   },
   "ExtractableRelic:esd_cokeparmesan": {
@@ -1647,6 +1804,26 @@
     "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/dwarf/esd_dwarfsprite_variant_loothacker.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_Dwarf_Hacker.png"
+    }
+  },
+  "ExtractableRelic:esd_dwarfsprite_variant_quack": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_DwarfSprite_Variant_Quack",
+    "ItemName": "Quack Adventure Sprite",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_dwarf",
+      "PlayerAugment:paid_spriteboons_variant_quack"
+    ],
+    "Generation": "Ch7S4",
+    "HintText": "Spotted near high and mountainous areas",
+    "ItemDescription": "Upgrades a random item in the player\u0027s inventory with each Level Up!",
+    "MappingID": "Dwarf_Variant_Quack",
+    "Parent": "ExtractableRelic:esd_dwarfsprite",
+    "Rarity": "Rare",
+    "SpriteDex": 28,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/dwarf/esd_dwarfsprite_variant_quack.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_Dwarf_Quack.png"
     }
   },
   "ExtractableRelic:esd_dwarfsprite_variant_reaper": {
@@ -3149,6 +3326,26 @@
       "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_Jonesy_Hacker.png"
     }
   },
+  "ExtractableRelic:esd_jonesysprite_variant_quack": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_JonesySprite_Variant_Quack",
+    "ItemName": "Quack Jonesy Sprite",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_jonesy",
+      "PlayerAugment:paid_spriteboons_variant_quack"
+    ],
+    "Generation": "Ch7S4",
+    "HintText": "Spotted near high and mountainous areas",
+    "ItemDescription": "Recover some health or shields after being damaged after a short duration. Increase amount healed with each Level Up!",
+    "MappingID": "Jonesy_Variant_Quack",
+    "Parent": "ExtractableRelic:esd_jonesysprite",
+    "Rarity": "Rare",
+    "SpriteDex": 27,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/jonesy/esd_jonesysprite_variant_quack.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_Jonesy_Quack.png"
+    }
+  },
   "ExtractableRelic:esd_jonesysprite_variant_reaper": {
     "Type": "ExtractableRelic",
     "Name": "ESD_JonesySprite_Variant_Reaper",
@@ -3535,6 +3732,26 @@
     "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/klombo/esd_klombosprite_variant_loothacker.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_Klombo_Hacker.png"
+    }
+  },
+  "ExtractableRelic:esd_klombosprite_variant_quack": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_KlomboSprite_Variant_Quack",
+    "ItemName": "Quack Klombo Sprite",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_klombo",
+      "PlayerAugment:paid_spriteboons_variant_quack"
+    ],
+    "Generation": "Ch7S4",
+    "HintText": "Spotted near high and mountainous areas",
+    "ItemDescription": "Grants random items at each level, only levels up by consuming items. Item quality increases with each Level Up!",
+    "MappingID": "Klombo_Variant_Quack",
+    "Parent": "ExtractableRelic:esd_klombosprite",
+    "Rarity": "Mythic",
+    "SpriteDex": 37,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/klombo/esd_klombosprite_variant_quack.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_Klombo_Quack.png"
     }
   },
   "ExtractableRelic:esd_klombosprite_variant_reaper": {
@@ -4343,6 +4560,25 @@
     "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/phasedashsprite/esd_phasedashsprite_variant_loothacker.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_PhaseDash_Hacker.png"
+    }
+  },
+  "ExtractableRelic:esd_phasedashsprite_variant_quack": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_PhaseDashSprite_Variant_Quack",
+    "ItemName": "Quack Spooky Dash Sprite",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_phasedash",
+      "PlayerAugment:paid_spriteboons_variant_quack"
+    ],
+    "Generation": "Ch7S4",
+    "ItemDescription": "(Active - Jump In Air) Spooky Dash lets you phase through some objects. Gain charges over time. Charge cooldown decreases with each Level Up!",
+    "MappingID": "PhaseDashSprite_Variant_Quack",
+    "Parent": "ExtractableRelic:esd_phasedashsprite",
+    "Rarity": "Mythic",
+    "SpriteDex": 50,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/phasedashsprite/esd_phasedashsprite_variant_quack.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_PhaseDash_Quack.png"
     }
   },
   "ExtractableRelic:esd_phasedashsprite_variant_reaper": {
@@ -5197,135 +5433,6 @@
       "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_Fire_Quack_ui.png"
     }
   },
-  "ExtractableRelic:esd_squibblysprite": {
-    "Type": "ExtractableRelic",
-    "Name": "ESD_SquibblySprite",
-    "ItemName": "Squibbly Sprite",
-    "Augments": [
-      "PlayerAugment:paid_spriteboons_squibbly"
-    ],
-    "Generation": "Ch7S4",
-    "ItemDescription": "(Ability Not Implemented) Diving into a fishing hole fishes it",
-    "Rarity": "Epic",
-    "SpriteDex": 49,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/squibbly/esd_squibblysprite.uasset",
-    "ImagePaths": {
-      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_Fire_Galaxy_ui.png"
-    }
-  },
-  "ExtractableRelic:esd_squibblysprite_variant_a": {
-    "Type": "ExtractableRelic",
-    "Name": "ESD_SquibblySprite_Variant_A",
-    "ItemName": "Squibbly Sprite",
-    "Augments": [
-      "PlayerAugment:paid_spriteboons_squibbly"
-    ],
-    "Generation": "Ch7S4",
-    "HintText": "Spotted near high and mountainous areas",
-    "ItemDescription": "(Ability Not Implemented) Diving into a fishing hole fishes it",
-    "Parent": "ExtractableRelic:esd_squibblysprite",
-    "Rarity": "Epic",
-    "SpriteDex": 49,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/squibbly/esd_squibblysprite_variant_a.uasset",
-    "ImagePaths": {
-      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_Fire_Galaxy_ui.png"
-    }
-  },
-  "ExtractableRelic:esd_squibblysprite_variant_cheatmaster": {
-    "Type": "ExtractableRelic",
-    "Name": "ESD_SquibblySprite_Variant_CheatMaster",
-    "ItemName": "Cheat Master Squibbly Sprite",
-    "Augments": [
-      "PlayerAugment:paid_spriteboons_squibbly",
-      "PlayerAugment:paid_spriteboons_variant_cheatmaster"
-    ],
-    "Generation": "Ch7S4",
-    "HintText": "Spotted near high and mountainous areas",
-    "ItemDescription": "(Ability Not Implemented) Diving into a fishing hole fishes it",
-    "Parent": "ExtractableRelic:esd_squibblysprite",
-    "Rarity": "Epic",
-    "SpriteDex": 49,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/squibbly/esd_squibblysprite_variant_cheatmaster.uasset",
-    "ImagePaths": {
-      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_Fire_Galaxy_ui.png"
-    }
-  },
-  "ExtractableRelic:esd_squibblysprite_variant_gold": {
-    "Type": "ExtractableRelic",
-    "Name": "ESD_SquibblySprite_Variant_Gold",
-    "ItemName": "Gold Squibbly Sprite",
-    "Augments": [
-      "PlayerAugment:paid_spriteboons_squibbly",
-      "PlayerAugment:paid_spriteboons_variant_gold"
-    ],
-    "Generation": "Ch7S4",
-    "HintText": "Spotted near high and mountainous areas",
-    "ItemDescription": "(Ability Not Implemented) Diving into a fishing hole fishes it",
-    "Parent": "ExtractableRelic:esd_squibblysprite",
-    "Rarity": "Epic",
-    "SpriteDex": 49,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/squibbly/esd_squibblysprite_variant_gold.uasset",
-    "ImagePaths": {
-      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_Fire_Galaxy_ui.png"
-    }
-  },
-  "ExtractableRelic:esd_squibblysprite_variant_loothacker": {
-    "Type": "ExtractableRelic",
-    "Name": "ESD_SquibblySprite_Variant_LootHacker",
-    "ItemName": "Loot Hacker Squibbly Sprite",
-    "Augments": [
-      "PlayerAugment:paid_spriteboons_squibbly",
-      "PlayerAugment:paid_spriteboons_variant_hacker"
-    ],
-    "Generation": "Ch7S4",
-    "HintText": "Spotted near high and mountainous areas",
-    "ItemDescription": "(Ability Not Implemented) Diving into a fishing hole fishes it",
-    "Parent": "ExtractableRelic:esd_squibblysprite",
-    "Rarity": "Epic",
-    "SpriteDex": 49,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/squibbly/esd_squibblysprite_variant_loothacker.uasset",
-    "ImagePaths": {
-      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_Fire_Galaxy_ui.png"
-    }
-  },
-  "ExtractableRelic:esd_squibblysprite_variant_reaper": {
-    "Type": "ExtractableRelic",
-    "Name": "ESD_SquibblySprite_Variant_Reaper",
-    "ItemName": "Bounty Hunter Squibbly Sprite",
-    "Augments": [
-      "PlayerAugment:paid_spriteboons_squibbly",
-      "PlayerAugment:paid_spriteboons_variant_reaper"
-    ],
-    "Generation": "Ch7S4",
-    "HintText": "Spotted near high and mountainous areas",
-    "ItemDescription": "(Ability Not Implemented) Diving into a fishing hole fishes it",
-    "Parent": "ExtractableRelic:esd_squibblysprite",
-    "Rarity": "Epic",
-    "SpriteDex": 49,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/squibbly/esd_squibblysprite_variant_reaper.uasset",
-    "ImagePaths": {
-      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_Fire_Galaxy_ui.png"
-    }
-  },
-  "ExtractableRelic:esd_squibblysprite_variant_tricktreat": {
-    "Type": "ExtractableRelic",
-    "Name": "ESD_SquibblySprite_Variant_TrickTreat",
-    "ItemName": "Trick or Treat Squibbly Sprite",
-    "Augments": [
-      "PlayerAugment:paid_spriteboons_squibbly",
-      "PlayerAugment:paid_spriteboons_variant_tricktreat"
-    ],
-    "Generation": "Ch7S4",
-    "HintText": "Spotted near high and mountainous areas",
-    "ItemDescription": "(Ability Not Implemented) Diving into a fishing hole fishes it",
-    "Parent": "ExtractableRelic:esd_squibblysprite",
-    "Rarity": "Epic",
-    "SpriteDex": 49,
-    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/squibbly/esd_squibblysprite_variant_tricktreat.uasset",
-    "ImagePaths": {
-      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_Fire_Galaxy_ui.png"
-    }
-  },
   "ExtractableRelic:esd_stormscoutsprite": {
     "Type": "ExtractableRelic",
     "Name": "ESD_StormScoutSprite",
@@ -6019,7 +6126,7 @@
     "ItemDescription": "Food provides bonus healing. Find food when jumping out of hiding props, and a small chance when opening containers. Find better food with each Level Up!",
     "MappingID": "WinnerDSprite",
     "Rarity": "Epic",
-    "SpriteDex": 17,
+    "SpriteDex": 45,
     "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/winnerdsprite/esd_winnerdsprite.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_WinnerD.png"
@@ -6037,7 +6144,7 @@
     "MappingID": "WinnerDSprite_Variant_A",
     "Parent": "ExtractableRelic:esd_winnerdsprite",
     "Rarity": "Epic",
-    "SpriteDex": 17,
+    "SpriteDex": 45,
     "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/winnerdsprite/esd_winnerdsprite_variant_a.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_WinnerD.png"
@@ -6056,7 +6163,7 @@
     "MappingID": "WinnerDSprite_Variant_CheatMaster",
     "Parent": "ExtractableRelic:esd_winnerdsprite",
     "Rarity": "Epic",
-    "SpriteDex": 17,
+    "SpriteDex": 45,
     "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/winnerdsprite/esd_winnerdsprite_variant_cheatmaster.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_WinnerD_Cheatmaster.png"
@@ -6075,7 +6182,7 @@
     "MappingID": "WinnerDSprite_Variant_Gold",
     "Parent": "ExtractableRelic:esd_winnerdsprite",
     "Rarity": "Epic",
-    "SpriteDex": 17,
+    "SpriteDex": 45,
     "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/winnerdsprite/esd_winnerdsprite_variant_gold.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_WinnerD_Gold.png"
@@ -6094,7 +6201,7 @@
     "MappingID": "WinnerDSprite_Variant_LootHacker",
     "Parent": "ExtractableRelic:esd_winnerdsprite",
     "Rarity": "Epic",
-    "SpriteDex": 17,
+    "SpriteDex": 45,
     "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/winnerdsprite/esd_winnerdsprite_variant_loothacker.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_WinnerD_Hacker.png"
@@ -6113,7 +6220,7 @@
     "MappingID": "WinnerDSprite_Variant_Reaper",
     "Parent": "ExtractableRelic:esd_winnerdsprite",
     "Rarity": "Epic",
-    "SpriteDex": 17,
+    "SpriteDex": 45,
     "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/winnerdsprite/esd_winnerdsprite_variant_reaper.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_WinnerD_BountyHunter.png"
@@ -6132,10 +6239,140 @@
     "MappingID": "WinnerDSprite_Variant_TrickTreat",
     "Parent": "ExtractableRelic:esd_winnerdsprite",
     "Rarity": "Epic",
-    "SpriteDex": 17,
+    "SpriteDex": 45,
     "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/winnerdsprite/esd_winnerdsprite_variant_tricktreat.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_WinnerD_TrickTreat.png"
+    }
+  },
+  "ExtractableRelic:esd_winneresprite": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_WinnerESprite",
+    "ItemName": "Honey Sprite",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_winnere"
+    ],
+    "Generation": "Ch7S4",
+    "ItemDescription": "Chance to spawn bees at the hit location upon dealing damage with a ranged weapon",
+    "MappingID": "WinnerESprite",
+    "Rarity": "Epic",
+    "SpriteDex": 53,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/winneresprite/esd_winneresprite.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_WinnerE.png"
+    }
+  },
+  "ExtractableRelic:esd_winneresprite_variant_a": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_WinnerESprite_Variant_A",
+    "ItemName": "Honey Sprite",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_winnere"
+    ],
+    "Generation": "Ch7S4",
+    "ItemDescription": "Chance to spawn bees at the hit location upon dealing damage with a ranged weapon",
+    "MappingID": "WinnerE_Variant_A",
+    "Parent": "ExtractableRelic:esd_winneresprite",
+    "Rarity": "Epic",
+    "SpriteDex": 53,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/winneresprite/esd_winneresprite_variant_a.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_WinnerE.png"
+    }
+  },
+  "ExtractableRelic:esd_winneresprite_variant_cheatmaster": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_WinnerESprite_Variant_CheatMaster",
+    "ItemName": "Cheatmaster Honey Sprite",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_winnere",
+      "PlayerAugment:paid_spriteboons_variant_cheatmaster"
+    ],
+    "Generation": "Ch7S4",
+    "ItemDescription": "Chance to spawn bees at the hit location upon dealing damage with a ranged weapon",
+    "MappingID": "WinnerE_Variant_CheatMaster",
+    "Parent": "ExtractableRelic:esd_winneresprite",
+    "Rarity": "Epic",
+    "SpriteDex": 53,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/winneresprite/esd_winneresprite_variant_cheatmaster.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_WinnerE_Cheatmaster.png"
+    }
+  },
+  "ExtractableRelic:esd_winneresprite_variant_gold": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_WinnerESprite_Variant_Gold",
+    "ItemName": "Gold Honey Sprite",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_winnere",
+      "PlayerAugment:paid_spriteboons_variant_gold"
+    ],
+    "Generation": "Ch7S4",
+    "ItemDescription": "Chance to spawn bees at the hit location upon dealing damage with a ranged weapon",
+    "MappingID": "WinnerE_Variant_Gold",
+    "Parent": "ExtractableRelic:esd_winneresprite",
+    "Rarity": "Epic",
+    "SpriteDex": 53,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/winneresprite/esd_winneresprite_variant_gold.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_WinnerE_Gold.png"
+    }
+  },
+  "ExtractableRelic:esd_winneresprite_variant_loothacker": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_WinnerESprite_Variant_LootHacker",
+    "ItemName": "Loot Hacker Honey Sprite",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_winnere",
+      "PlayerAugment:paid_spriteboons_variant_hacker"
+    ],
+    "Generation": "Ch7S4",
+    "ItemDescription": "Chance to spawn bees at the hit location upon dealing damage with a ranged weapon",
+    "MappingID": "WinnerE_Variant_LootHacker",
+    "Parent": "ExtractableRelic:esd_winneresprite",
+    "Rarity": "Epic",
+    "SpriteDex": 53,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/winneresprite/esd_winneresprite_variant_loothacker.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_WinnerE_Hacker.png"
+    }
+  },
+  "ExtractableRelic:esd_winneresprite_variant_reaper": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_WinnerESprite_Variant_Reaper",
+    "ItemName": "Bounty Hunter Honey Sprite",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_winnere",
+      "PlayerAugment:paid_spriteboons_variant_reaper"
+    ],
+    "Generation": "Ch7S4",
+    "ItemDescription": "Chance to spawn bees at the hit location upon dealing damage with a ranged weapon",
+    "MappingID": "WinnerE_Variant_Reaper",
+    "Parent": "ExtractableRelic:esd_winneresprite",
+    "Rarity": "Epic",
+    "SpriteDex": 53,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/winneresprite/esd_winneresprite_variant_reaper.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_WinnerE_BountyHunter.png"
+    }
+  },
+  "ExtractableRelic:esd_winneresprite_variant_tricktreat": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_WinnerESprite_Variant_TrickTreat",
+    "ItemName": "Trick or Treat Honey Sprite",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_winnere",
+      "PlayerAugment:paid_spriteboons_variant_tricktreat"
+    ],
+    "Generation": "Ch7S4",
+    "ItemDescription": "Chance to spawn bees at the hit location upon dealing damage with a ranged weapon",
+    "MappingID": "WinnerE_Variant_TrickTreat",
+    "Parent": "ExtractableRelic:esd_winneresprite",
+    "Rarity": "Epic",
+    "SpriteDex": 53,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/winneresprite/esd_winneresprite_variant_tricktreat.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_WinnerE_TrickTreat.png"
     }
   },
   "ExtractableRelic:esd_zeropointsprite": {

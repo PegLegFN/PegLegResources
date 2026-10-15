@@ -11571,7 +11571,7 @@
     "ItemName": "Double Agent Evelynn",
     "SubType": "Soldier",
     "CommanderPerk": "Where\u0027s Lefty \u002B",
-    "CommanderPerkDescription": "Every Pistol or SMG elimination decreases Cooldown of Lefty and Righty by 5 second(s).",
+    "CommanderPerkDescription": "Decreases Lefty and Righty Cooldown by 66%.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_WheresLefty_T02",
     "HeroAbilities": [
       "Ability:Kit_Commando_LeftyAndRighty",
@@ -11579,7 +11579,7 @@
       "Ability:Kit_Commando_Shockwave"
     ],
     "HeroPerk": "Where\u0027s Lefty",
-    "HeroPerkDescription": "Every Pistol or SMG elimination decreases Cooldown of Lefty and Righty by 1 second(s).",
+    "HeroPerkDescription": "Decreases Lefty and Righty Cooldown by 30%.",
     "HeroPerkRequirement": {
       "CommanderTag": [
         "Granted.Ability.Commando.LeftyAndRighty"
@@ -11624,7 +11624,7 @@
     "ItemName": "Double Agent Evelynn",
     "SubType": "Soldier",
     "CommanderPerk": "Where\u0027s Lefty \u002B",
-    "CommanderPerkDescription": "Every Pistol or SMG elimination decreases Cooldown of Lefty and Righty by 5 second(s).",
+    "CommanderPerkDescription": "Decreases Lefty and Righty Cooldown by 66%.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_WheresLefty_T02",
     "HeroAbilities": [
       "Ability:Kit_Commando_LeftyAndRighty",
@@ -11632,7 +11632,7 @@
       "Ability:Kit_Commando_Shockwave"
     ],
     "HeroPerk": "Where\u0027s Lefty",
-    "HeroPerkDescription": "Every Pistol or SMG elimination decreases Cooldown of Lefty and Righty by 1 second(s).",
+    "HeroPerkDescription": "Decreases Lefty and Righty Cooldown by 30%.",
     "HeroPerkRequirement": {
       "CommanderTag": [
         "Granted.Ability.Commando.LeftyAndRighty"
@@ -11678,7 +11678,7 @@
     "ItemName": "Double Agent Evelynn",
     "SubType": "Soldier",
     "CommanderPerk": "Where\u0027s Lefty \u002B",
-    "CommanderPerkDescription": "Every Pistol or SMG elimination decreases Cooldown of Lefty and Righty by 5 second(s).",
+    "CommanderPerkDescription": "Decreases Lefty and Righty Cooldown by 66%.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_WheresLefty_T02",
     "HeroAbilities": [
       "Ability:Kit_Commando_LeftyAndRighty",
@@ -11686,7 +11686,7 @@
       "Ability:Kit_Commando_Shockwave"
     ],
     "HeroPerk": "Where\u0027s Lefty",
-    "HeroPerkDescription": "Every Pistol or SMG elimination decreases Cooldown of Lefty and Righty by 1 second(s).",
+    "HeroPerkDescription": "Decreases Lefty and Righty Cooldown by 30%.",
     "HeroPerkRequirement": {
       "CommanderTag": [
         "Granted.Ability.Commando.LeftyAndRighty"
@@ -11733,7 +11733,7 @@
     "ItemName": "Double Agent Evelynn",
     "SubType": "Soldier",
     "CommanderPerk": "Where\u0027s Lefty \u002B",
-    "CommanderPerkDescription": "Every Pistol or SMG elimination decreases Cooldown of Lefty and Righty by 5 second(s).",
+    "CommanderPerkDescription": "Decreases Lefty and Righty Cooldown by 66%.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_WheresLefty_T02",
     "HeroAbilities": [
       "Ability:Kit_Commando_LeftyAndRighty",
@@ -11741,7 +11741,7 @@
       "Ability:Kit_Commando_Shockwave"
     ],
     "HeroPerk": "Where\u0027s Lefty",
-    "HeroPerkDescription": "Every Pistol or SMG elimination decreases Cooldown of Lefty and Righty by 1 second(s).",
+    "HeroPerkDescription": "Decreases Lefty and Righty Cooldown by 30%.",
     "HeroPerkRequirement": {
       "CommanderTag": [
         "Granted.Ability.Commando.LeftyAndRighty"
@@ -11789,7 +11789,7 @@
     "ItemName": "Double Agent Evelynn",
     "SubType": "Soldier",
     "CommanderPerk": "Where\u0027s Lefty \u002B",
-    "CommanderPerkDescription": "Every Pistol or SMG elimination decreases Cooldown of Lefty and Righty by 5 second(s).",
+    "CommanderPerkDescription": "Decreases Lefty and Righty Cooldown by 66%.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_WheresLefty_T02",
     "HeroAbilities": [
       "Ability:Kit_Commando_LeftyAndRighty",
@@ -11797,7 +11797,7 @@
       "Ability:Kit_Commando_Shockwave"
     ],
     "HeroPerk": "Where\u0027s Lefty",
-    "HeroPerkDescription": "Every Pistol or SMG elimination decreases Cooldown of Lefty and Righty by 1 second(s).",
+    "HeroPerkDescription": "Decreases Lefty and Righty Cooldown by 30%.",
     "HeroPerkRequirement": {
       "CommanderTag": [
         "Granted.Ability.Commando.LeftyAndRighty"
@@ -11856,7 +11856,7 @@
     "ItemName": "Double Agent Evelynn",
     "SubType": "Soldier",
     "CommanderPerk": "Where\u0027s Lefty \u002B",
-    "CommanderPerkDescription": "Every Pistol or SMG elimination decreases Cooldown of Lefty and Righty by 5 second(s).",
+    "CommanderPerkDescription": "Decreases Lefty and Righty Cooldown by 66%.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_WheresLefty_T02",
     "HeroAbilities": [
       "Ability:Kit_Commando_LeftyAndRighty",
@@ -11864,7 +11864,7 @@
       "Ability:Kit_Commando_Shockwave"
     ],
     "HeroPerk": "Where\u0027s Lefty",
-    "HeroPerkDescription": "Every Pistol or SMG elimination decreases Cooldown of Lefty and Righty by 1 second(s).",
+    "HeroPerkDescription": "Decreases Lefty and Righty Cooldown by 30%.",
     "HeroPerkRequirement": {
       "CommanderTag": [
         "Granted.Ability.Commando.LeftyAndRighty"
@@ -11915,7 +11915,7 @@
     "ItemName": "Double Agent Evelynn",
     "SubType": "Soldier",
     "CommanderPerk": "Where\u0027s Lefty \u002B",
-    "CommanderPerkDescription": "Every Pistol or SMG elimination decreases Cooldown of Lefty and Righty by 5 second(s).",
+    "CommanderPerkDescription": "Decreases Lefty and Righty Cooldown by 66%.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_WheresLefty_T02",
     "HeroAbilities": [
       "Ability:Kit_Commando_LeftyAndRighty",
@@ -11923,7 +11923,7 @@
       "Ability:Kit_Commando_Shockwave"
     ],
     "HeroPerk": "Where\u0027s Lefty",
-    "HeroPerkDescription": "Every Pistol or SMG elimination decreases Cooldown of Lefty and Righty by 1 second(s).",
+    "HeroPerkDescription": "Decreases Lefty and Righty Cooldown by 30%.",
     "HeroPerkRequirement": {
       "CommanderTag": [
         "Granted.Ability.Commando.LeftyAndRighty"
@@ -11977,7 +11977,7 @@
     "ItemName": "Double Agent Evelynn",
     "SubType": "Soldier",
     "CommanderPerk": "Where\u0027s Lefty \u002B",
-    "CommanderPerkDescription": "Every Pistol or SMG elimination decreases Cooldown of Lefty and Righty by 5 second(s).",
+    "CommanderPerkDescription": "Decreases Lefty and Righty Cooldown by 66%.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_WheresLefty_T02",
     "HeroAbilities": [
       "Ability:Kit_Commando_LeftyAndRighty",
@@ -11985,7 +11985,7 @@
       "Ability:Kit_Commando_Shockwave"
     ],
     "HeroPerk": "Where\u0027s Lefty",
-    "HeroPerkDescription": "Every Pistol or SMG elimination decreases Cooldown of Lefty and Righty by 1 second(s).",
+    "HeroPerkDescription": "Decreases Lefty and Righty Cooldown by 30%.",
     "HeroPerkRequirement": {
       "CommanderTag": [
         "Granted.Ability.Commando.LeftyAndRighty"
@@ -12041,7 +12041,7 @@
     "ItemName": "Double Agent Evelynn",
     "SubType": "Soldier",
     "CommanderPerk": "Where\u0027s Lefty \u002B",
-    "CommanderPerkDescription": "Every Pistol or SMG elimination decreases Cooldown of Lefty and Righty by 5 second(s).",
+    "CommanderPerkDescription": "Decreases Lefty and Righty Cooldown by 66%.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_WheresLefty_T02",
     "HeroAbilities": [
       "Ability:Kit_Commando_LeftyAndRighty",
@@ -12049,7 +12049,7 @@
       "Ability:Kit_Commando_Shockwave"
     ],
     "HeroPerk": "Where\u0027s Lefty",
-    "HeroPerkDescription": "Every Pistol or SMG elimination decreases Cooldown of Lefty and Righty by 1 second(s).",
+    "HeroPerkDescription": "Decreases Lefty and Righty Cooldown by 30%.",
     "HeroPerkRequirement": {
       "CommanderTag": [
         "Granted.Ability.Commando.LeftyAndRighty"
@@ -12107,7 +12107,7 @@
     "ItemName": "Double Agent Evelynn",
     "SubType": "Soldier",
     "CommanderPerk": "Where\u0027s Lefty \u002B",
-    "CommanderPerkDescription": "Every Pistol or SMG elimination decreases Cooldown of Lefty and Righty by 5 second(s).",
+    "CommanderPerkDescription": "Decreases Lefty and Righty Cooldown by 66%.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_WheresLefty_T02",
     "HeroAbilities": [
       "Ability:Kit_Commando_LeftyAndRighty",
@@ -12115,7 +12115,7 @@
       "Ability:Kit_Commando_Shockwave"
     ],
     "HeroPerk": "Where\u0027s Lefty",
-    "HeroPerkDescription": "Every Pistol or SMG elimination decreases Cooldown of Lefty and Righty by 1 second(s).",
+    "HeroPerkDescription": "Decreases Lefty and Righty Cooldown by 30%.",
     "HeroPerkRequirement": {
       "CommanderTag": [
         "Granted.Ability.Commando.LeftyAndRighty"
@@ -22719,7 +22719,7 @@
     "ItemName": "Noir",
     "SubType": "Soldier",
     "CommanderPerk": "Pump Metal \u002B",
-    "CommanderPerkDescription": "Lefty and Righty eliminations extend its Duration by 2 second, up to a maximum of 10 eliminations.",
+    "CommanderPerkDescription": "Increases Lefty and Righty Duration by 20 seconds.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_PumpMetal_T02",
     "HeroAbilities": [
       "Ability:Kit_Commando_LeftyAndRighty",
@@ -22727,7 +22727,7 @@
       "Ability:Kit_Commando_WarCry"
     ],
     "HeroPerk": "Pump Metal",
-    "HeroPerkDescription": "Lefty and Righty eliminations extend its Duration by 1 second, up to a maximum of 10 eliminations.",
+    "HeroPerkDescription": "Increases Lefty and Righty Duration by 5 seconds.",
     "HeroPerkRequirement": {
       "CommanderTag": [
         "Granted.Ability.Commando.LeftyAndRighty"
@@ -22772,7 +22772,7 @@
     "ItemName": "Noir",
     "SubType": "Soldier",
     "CommanderPerk": "Pump Metal \u002B",
-    "CommanderPerkDescription": "Lefty and Righty eliminations extend its Duration by 2 second, up to a maximum of 10 eliminations.",
+    "CommanderPerkDescription": "Increases Lefty and Righty Duration by 20 seconds.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_PumpMetal_T02",
     "HeroAbilities": [
       "Ability:Kit_Commando_LeftyAndRighty",
@@ -22780,7 +22780,7 @@
       "Ability:Kit_Commando_WarCry"
     ],
     "HeroPerk": "Pump Metal",
-    "HeroPerkDescription": "Lefty and Righty eliminations extend its Duration by 1 second, up to a maximum of 10 eliminations.",
+    "HeroPerkDescription": "Increases Lefty and Righty Duration by 5 seconds.",
     "HeroPerkRequirement": {
       "CommanderTag": [
         "Granted.Ability.Commando.LeftyAndRighty"
@@ -22826,7 +22826,7 @@
     "ItemName": "Noir",
     "SubType": "Soldier",
     "CommanderPerk": "Pump Metal \u002B",
-    "CommanderPerkDescription": "Lefty and Righty eliminations extend its Duration by 2 second, up to a maximum of 10 eliminations.",
+    "CommanderPerkDescription": "Increases Lefty and Righty Duration by 20 seconds.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_PumpMetal_T02",
     "HeroAbilities": [
       "Ability:Kit_Commando_LeftyAndRighty",
@@ -22834,7 +22834,7 @@
       "Ability:Kit_Commando_WarCry"
     ],
     "HeroPerk": "Pump Metal",
-    "HeroPerkDescription": "Lefty and Righty eliminations extend its Duration by 1 second, up to a maximum of 10 eliminations.",
+    "HeroPerkDescription": "Increases Lefty and Righty Duration by 5 seconds.",
     "HeroPerkRequirement": {
       "CommanderTag": [
         "Granted.Ability.Commando.LeftyAndRighty"
@@ -22881,7 +22881,7 @@
     "ItemName": "Noir",
     "SubType": "Soldier",
     "CommanderPerk": "Pump Metal \u002B",
-    "CommanderPerkDescription": "Lefty and Righty eliminations extend its Duration by 2 second, up to a maximum of 10 eliminations.",
+    "CommanderPerkDescription": "Increases Lefty and Righty Duration by 20 seconds.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_PumpMetal_T02",
     "HeroAbilities": [
       "Ability:Kit_Commando_LeftyAndRighty",
@@ -22889,7 +22889,7 @@
       "Ability:Kit_Commando_WarCry"
     ],
     "HeroPerk": "Pump Metal",
-    "HeroPerkDescription": "Lefty and Righty eliminations extend its Duration by 1 second, up to a maximum of 10 eliminations.",
+    "HeroPerkDescription": "Increases Lefty and Righty Duration by 5 seconds.",
     "HeroPerkRequirement": {
       "CommanderTag": [
         "Granted.Ability.Commando.LeftyAndRighty"
@@ -22937,7 +22937,7 @@
     "ItemName": "Noir",
     "SubType": "Soldier",
     "CommanderPerk": "Pump Metal \u002B",
-    "CommanderPerkDescription": "Lefty and Righty eliminations extend its Duration by 2 second, up to a maximum of 10 eliminations.",
+    "CommanderPerkDescription": "Increases Lefty and Righty Duration by 20 seconds.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_PumpMetal_T02",
     "HeroAbilities": [
       "Ability:Kit_Commando_LeftyAndRighty",
@@ -22945,7 +22945,7 @@
       "Ability:Kit_Commando_WarCry"
     ],
     "HeroPerk": "Pump Metal",
-    "HeroPerkDescription": "Lefty and Righty eliminations extend its Duration by 1 second, up to a maximum of 10 eliminations.",
+    "HeroPerkDescription": "Increases Lefty and Righty Duration by 5 seconds.",
     "HeroPerkRequirement": {
       "CommanderTag": [
         "Granted.Ability.Commando.LeftyAndRighty"
@@ -23004,7 +23004,7 @@
     "ItemName": "Noir",
     "SubType": "Soldier",
     "CommanderPerk": "Pump Metal \u002B",
-    "CommanderPerkDescription": "Lefty and Righty eliminations extend its Duration by 2 second, up to a maximum of 10 eliminations.",
+    "CommanderPerkDescription": "Increases Lefty and Righty Duration by 20 seconds.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_PumpMetal_T02",
     "HeroAbilities": [
       "Ability:Kit_Commando_LeftyAndRighty",
@@ -23012,7 +23012,7 @@
       "Ability:Kit_Commando_WarCry"
     ],
     "HeroPerk": "Pump Metal",
-    "HeroPerkDescription": "Lefty and Righty eliminations extend its Duration by 1 second, up to a maximum of 10 eliminations.",
+    "HeroPerkDescription": "Increases Lefty and Righty Duration by 5 seconds.",
     "HeroPerkRequirement": {
       "CommanderTag": [
         "Granted.Ability.Commando.LeftyAndRighty"
@@ -23063,7 +23063,7 @@
     "ItemName": "Noir",
     "SubType": "Soldier",
     "CommanderPerk": "Pump Metal \u002B",
-    "CommanderPerkDescription": "Lefty and Righty eliminations extend its Duration by 2 second, up to a maximum of 10 eliminations.",
+    "CommanderPerkDescription": "Increases Lefty and Righty Duration by 20 seconds.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_PumpMetal_T02",
     "HeroAbilities": [
       "Ability:Kit_Commando_LeftyAndRighty",
@@ -23071,7 +23071,7 @@
       "Ability:Kit_Commando_WarCry"
     ],
     "HeroPerk": "Pump Metal",
-    "HeroPerkDescription": "Lefty and Righty eliminations extend its Duration by 1 second, up to a maximum of 10 eliminations.",
+    "HeroPerkDescription": "Increases Lefty and Righty Duration by 5 seconds.",
     "HeroPerkRequirement": {
       "CommanderTag": [
         "Granted.Ability.Commando.LeftyAndRighty"
@@ -23125,7 +23125,7 @@
     "ItemName": "Noir",
     "SubType": "Soldier",
     "CommanderPerk": "Pump Metal \u002B",
-    "CommanderPerkDescription": "Lefty and Righty eliminations extend its Duration by 2 second, up to a maximum of 10 eliminations.",
+    "CommanderPerkDescription": "Increases Lefty and Righty Duration by 20 seconds.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_PumpMetal_T02",
     "HeroAbilities": [
       "Ability:Kit_Commando_LeftyAndRighty",
@@ -23133,7 +23133,7 @@
       "Ability:Kit_Commando_WarCry"
     ],
     "HeroPerk": "Pump Metal",
-    "HeroPerkDescription": "Lefty and Righty eliminations extend its Duration by 1 second, up to a maximum of 10 eliminations.",
+    "HeroPerkDescription": "Increases Lefty and Righty Duration by 5 seconds.",
     "HeroPerkRequirement": {
       "CommanderTag": [
         "Granted.Ability.Commando.LeftyAndRighty"
@@ -23189,7 +23189,7 @@
     "ItemName": "Noir",
     "SubType": "Soldier",
     "CommanderPerk": "Pump Metal \u002B",
-    "CommanderPerkDescription": "Lefty and Righty eliminations extend its Duration by 2 second, up to a maximum of 10 eliminations.",
+    "CommanderPerkDescription": "Increases Lefty and Righty Duration by 20 seconds.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_PumpMetal_T02",
     "HeroAbilities": [
       "Ability:Kit_Commando_LeftyAndRighty",
@@ -23197,7 +23197,7 @@
       "Ability:Kit_Commando_WarCry"
     ],
     "HeroPerk": "Pump Metal",
-    "HeroPerkDescription": "Lefty and Righty eliminations extend its Duration by 1 second, up to a maximum of 10 eliminations.",
+    "HeroPerkDescription": "Increases Lefty and Righty Duration by 5 seconds.",
     "HeroPerkRequirement": {
       "CommanderTag": [
         "Granted.Ability.Commando.LeftyAndRighty"
@@ -23255,7 +23255,7 @@
     "ItemName": "Noir",
     "SubType": "Soldier",
     "CommanderPerk": "Pump Metal \u002B",
-    "CommanderPerkDescription": "Lefty and Righty eliminations extend its Duration by 2 second, up to a maximum of 10 eliminations.",
+    "CommanderPerkDescription": "Increases Lefty and Righty Duration by 20 seconds.",
     "CommanderPerkTemplate": "Ability:Kit_Perk_H_PumpMetal_T02",
     "HeroAbilities": [
       "Ability:Kit_Commando_LeftyAndRighty",
@@ -23263,7 +23263,7 @@
       "Ability:Kit_Commando_WarCry"
     ],
     "HeroPerk": "Pump Metal",
-    "HeroPerkDescription": "Lefty and Righty eliminations extend its Duration by 1 second, up to a maximum of 10 eliminations.",
+    "HeroPerkDescription": "Increases Lefty and Righty Duration by 5 seconds.",
     "HeroPerkRequirement": {
       "CommanderTag": [
         "Granted.Ability.Commando.LeftyAndRighty"
@@ -24449,6 +24449,266 @@
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Soldier-HID-383-Athena-Commando-F-Cacti.png",
       "LargePreview": "ExportedImages\\T-Soldier-HID-383-Athena-Commando-F-Cacti-L.png"
+    }
+  },
+  "Hero:hid_commando_048_darkminion_sr_t01": {
+    "Type": "Hero",
+    "Name": "HID_Commando_048_DarkMinion_SR_T01",
+    "ItemName": "Grave Feather",
+    "SubType": "Soldier",
+    "CommanderPerk": "Ghoulslinger \u002B",
+    "CommanderPerkDescription": "Increases Lefty and Righty Crit Rating by 45. Crits have a 40% chance to summon a Phantasm (targets a nearby enemy, dealing 62 base Energy damage in a 0.5 tile radius, 1.5 second cooldown).",
+    "CommanderPerkTemplate": "Ability:Kit_Perk_H_Ghoulslinger_T02",
+    "HeroAbilities": [
+      "Ability:Kit_Commando_LeftyAndRighty",
+      "Ability:Kit_Commando_WarCry",
+      "Ability:Kit_Commando_Shockwave"
+    ],
+    "HeroPerk": "Ghoulslinger",
+    "HeroPerkDescription": "Increases Lefty and Righty Crit Rating by 15. Crits have a 40% chance to summon a Phantasm (targets a nearby enemy, dealing 62 base Energy damage in a 0.5 tile radius, 1.5 second cooldown).",
+    "HeroPerkTemplate": "Ability:Kit_Perk_H_Ghoulslinger_T01",
+    "HeroStatLine": "Balanced",
+    "HeroTags": [
+      "Granted.Perk.Ghoulslinger.T02",
+      "Granted.Perk.Ghoulslinger.T01",
+      "Granted.Ability.Commando.LeftyAndRighty",
+      "Granted.Ability.Commando.WarCry",
+      "Granted.Ability.Commando.Shockwave",
+      "Keyword.Monster"
+    ],
+    "ItemDescription": "Don\u0027t worry... it\u0027s only a nightmare.",
+    "LevelToXPRow": "SuperRare",
+    "Rarity": "Legendary",
+    "RecycleRecipe": {
+      "Amount": 225,
+      "Cost": {},
+      "Result": "AccountResource:reagent_people"
+    },
+    "Tier": 1,
+    "TierUpRecipe": {
+      "Cost": {
+        "AccountResource:peoplexp": 2500,
+        "AccountResource:reagent_c_t01": 20,
+        "AccountResource:reagent_people": 75
+      },
+      "Result": "Hero:hid_commando_048_darkminion_sr_t02"
+    },
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/heroes/commando/itemdefinition/hid_commando_048_darkminion_sr_t01.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T-Soldier-HID-A-043-Athena-Commando-M-DarkMinion.png",
+      "LargePreview": "ExportedImages\\T-Soldier-HID-A-043-Athena-Commando-M-DarkMinion-L.png"
+    }
+  },
+  "Hero:hid_commando_048_darkminion_sr_t02": {
+    "Type": "Hero",
+    "Name": "HID_Commando_048_DarkMinion_SR_T02",
+    "ItemName": "Grave Feather",
+    "SubType": "Soldier",
+    "CommanderPerk": "Ghoulslinger \u002B",
+    "CommanderPerkDescription": "Increases Lefty and Righty Crit Rating by 45. Crits have a 40% chance to summon a Phantasm (targets a nearby enemy, dealing 62 base Energy damage in a 0.5 tile radius, 1.5 second cooldown).",
+    "CommanderPerkTemplate": "Ability:Kit_Perk_H_Ghoulslinger_T02",
+    "HeroAbilities": [
+      "Ability:Kit_Commando_LeftyAndRighty",
+      "Ability:Kit_Commando_WarCry",
+      "Ability:Kit_Commando_Shockwave"
+    ],
+    "HeroPerk": "Ghoulslinger",
+    "HeroPerkDescription": "Increases Lefty and Righty Crit Rating by 15. Crits have a 40% chance to summon a Phantasm (targets a nearby enemy, dealing 62 base Energy damage in a 0.5 tile radius, 1.5 second cooldown).",
+    "HeroPerkTemplate": "Ability:Kit_Perk_H_Ghoulslinger_T01",
+    "HeroStatLine": "Balanced",
+    "HeroTags": [
+      "Granted.Perk.Ghoulslinger.T02",
+      "Granted.Perk.Ghoulslinger.T01",
+      "Granted.Ability.Commando.LeftyAndRighty",
+      "Granted.Ability.Commando.WarCry",
+      "Granted.Ability.Commando.Shockwave",
+      "Keyword.Monster"
+    ],
+    "ItemDescription": "Don\u0027t worry... it\u0027s only a nightmare.",
+    "LevelToXPRow": "SuperRare",
+    "Rarity": "Legendary",
+    "RecycleRecipe": {
+      "Amount": 225,
+      "Cost": {},
+      "Result": "AccountResource:reagent_people"
+    },
+    "Tier": 2,
+    "TierUpRecipe": {
+      "Cost": {
+        "AccountResource:peoplexp": 6250,
+        "AccountResource:reagent_c_t01": 40,
+        "AccountResource:reagent_people": 200,
+        "AccountResource:reagent_c_t02": 11
+      },
+      "Result": "Hero:hid_commando_048_darkminion_sr_t03"
+    },
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/heroes/commando/itemdefinition/hid_commando_048_darkminion_sr_t02.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T-Soldier-HID-A-043-Athena-Commando-M-DarkMinion.png",
+      "LargePreview": "ExportedImages\\T-Soldier-HID-A-043-Athena-Commando-M-DarkMinion-L.png"
+    }
+  },
+  "Hero:hid_commando_048_darkminion_sr_t03": {
+    "Type": "Hero",
+    "Name": "HID_Commando_048_DarkMinion_SR_T03",
+    "ItemName": "Grave Feather",
+    "SubType": "Soldier",
+    "CommanderPerk": "Ghoulslinger \u002B",
+    "CommanderPerkDescription": "Increases Lefty and Righty Crit Rating by 45. Crits have a 40% chance to summon a Phantasm (targets a nearby enemy, dealing 62 base Energy damage in a 0.5 tile radius, 1.5 second cooldown).",
+    "CommanderPerkTemplate": "Ability:Kit_Perk_H_Ghoulslinger_T02",
+    "HeroAbilities": [
+      "Ability:Kit_Commando_LeftyAndRighty",
+      "Ability:Kit_Commando_WarCry",
+      "Ability:Kit_Commando_Shockwave"
+    ],
+    "HeroPerk": "Ghoulslinger",
+    "HeroPerkDescription": "Increases Lefty and Righty Crit Rating by 15. Crits have a 40% chance to summon a Phantasm (targets a nearby enemy, dealing 62 base Energy damage in a 0.5 tile radius, 1.5 second cooldown).",
+    "HeroPerkTemplate": "Ability:Kit_Perk_H_Ghoulslinger_T01",
+    "HeroStatLine": "Balanced",
+    "HeroTags": [
+      "Granted.Perk.Ghoulslinger.T02",
+      "Granted.Perk.Ghoulslinger.T01",
+      "Granted.Ability.Commando.LeftyAndRighty",
+      "Granted.Ability.Commando.WarCry",
+      "Granted.Ability.Commando.Shockwave",
+      "Keyword.Monster"
+    ],
+    "ItemDescription": "Don\u0027t worry... it\u0027s only a nightmare.",
+    "LevelToXPRow": "SuperRare",
+    "Rarity": "Legendary",
+    "RecycleRecipe": {
+      "Amount": 225,
+      "Cost": {},
+      "Result": "AccountResource:reagent_people"
+    },
+    "Tier": 3,
+    "TierUpRecipe": {
+      "Cost": {
+        "AccountResource:peoplexp": 10000,
+        "AccountResource:reagent_c_t01": 60,
+        "AccountResource:reagent_people": 325,
+        "AccountResource:reagent_c_t02": 22,
+        "AccountResource:reagent_c_t03": 11
+      },
+      "Result": "Hero:hid_commando_048_darkminion_sr_t04"
+    },
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/heroes/commando/itemdefinition/hid_commando_048_darkminion_sr_t03.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T-Soldier-HID-A-043-Athena-Commando-M-DarkMinion.png",
+      "LargePreview": "ExportedImages\\T-Soldier-HID-A-043-Athena-Commando-M-DarkMinion-L.png"
+    }
+  },
+  "Hero:hid_commando_048_darkminion_sr_t04": {
+    "Type": "Hero",
+    "Name": "HID_Commando_048_DarkMinion_SR_T04",
+    "ItemName": "Grave Feather",
+    "SubType": "Soldier",
+    "CommanderPerk": "Ghoulslinger \u002B",
+    "CommanderPerkDescription": "Increases Lefty and Righty Crit Rating by 45. Crits have a 40% chance to summon a Phantasm (targets a nearby enemy, dealing 62 base Energy damage in a 0.5 tile radius, 1.5 second cooldown).",
+    "CommanderPerkTemplate": "Ability:Kit_Perk_H_Ghoulslinger_T02",
+    "HeroAbilities": [
+      "Ability:Kit_Commando_LeftyAndRighty",
+      "Ability:Kit_Commando_WarCry",
+      "Ability:Kit_Commando_Shockwave"
+    ],
+    "HeroPerk": "Ghoulslinger",
+    "HeroPerkDescription": "Increases Lefty and Righty Crit Rating by 15. Crits have a 40% chance to summon a Phantasm (targets a nearby enemy, dealing 62 base Energy damage in a 0.5 tile radius, 1.5 second cooldown).",
+    "HeroPerkTemplate": "Ability:Kit_Perk_H_Ghoulslinger_T01",
+    "HeroStatLine": "Balanced",
+    "HeroTags": [
+      "Granted.Perk.Ghoulslinger.T02",
+      "Granted.Perk.Ghoulslinger.T01",
+      "Granted.Ability.Commando.LeftyAndRighty",
+      "Granted.Ability.Commando.WarCry",
+      "Granted.Ability.Commando.Shockwave",
+      "Keyword.Monster"
+    ],
+    "ItemDescription": "Don\u0027t worry... it\u0027s only a nightmare.",
+    "LevelToXPRow": "SuperRare",
+    "Rarity": "Legendary",
+    "RecycleRecipe": {
+      "Amount": 225,
+      "Cost": {},
+      "Result": "AccountResource:reagent_people"
+    },
+    "Tier": 4,
+    "TierUpRecipe": {
+      "Cost": {
+        "AccountResource:peoplexp": 13750,
+        "AccountResource:reagent_c_t01": 80,
+        "AccountResource:reagent_people": 450,
+        "AccountResource:reagent_c_t02": 33,
+        "AccountResource:reagent_c_t03": 22,
+        "AccountResource:reagent_c_t04": 11
+      },
+      "Result": "Hero:hid_commando_048_darkminion_sr_t05"
+    },
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/heroes/commando/itemdefinition/hid_commando_048_darkminion_sr_t04.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T-Soldier-HID-A-043-Athena-Commando-M-DarkMinion.png",
+      "LargePreview": "ExportedImages\\T-Soldier-HID-A-043-Athena-Commando-M-DarkMinion-L.png"
+    }
+  },
+  "Hero:hid_commando_048_darkminion_sr_t05": {
+    "Type": "Hero",
+    "Name": "HID_Commando_048_DarkMinion_SR_T05",
+    "ItemName": "Grave Feather",
+    "SubType": "Soldier",
+    "CommanderPerk": "Ghoulslinger \u002B",
+    "CommanderPerkDescription": "Increases Lefty and Righty Crit Rating by 45. Crits have a 40% chance to summon a Phantasm (targets a nearby enemy, dealing 62 base Energy damage in a 0.5 tile radius, 1.5 second cooldown).",
+    "CommanderPerkTemplate": "Ability:Kit_Perk_H_Ghoulslinger_T02",
+    "HeroAbilities": [
+      "Ability:Kit_Commando_LeftyAndRighty",
+      "Ability:Kit_Commando_WarCry",
+      "Ability:Kit_Commando_Shockwave"
+    ],
+    "HeroPerk": "Ghoulslinger",
+    "HeroPerkDescription": "Increases Lefty and Righty Crit Rating by 15. Crits have a 40% chance to summon a Phantasm (targets a nearby enemy, dealing 62 base Energy damage in a 0.5 tile radius, 1.5 second cooldown).",
+    "HeroPerkTemplate": "Ability:Kit_Perk_H_Ghoulslinger_T01",
+    "HeroStatLine": "Balanced",
+    "HeroTags": [
+      "Granted.Perk.Ghoulslinger.T02",
+      "Granted.Perk.Ghoulslinger.T01",
+      "Granted.Ability.Commando.LeftyAndRighty",
+      "Granted.Ability.Commando.WarCry",
+      "Granted.Ability.Commando.Shockwave",
+      "Keyword.Monster"
+    ],
+    "ItemDescription": "Don\u0027t worry... it\u0027s only a nightmare.",
+    "LevelToXPRow": "SuperRare",
+    "PromotionCosts": [
+      {
+        "AccountResource:reagent_promotion_heroes": 1,
+        "AccountResource:reagent_people": 775
+      },
+      {
+        "AccountResource:reagent_promotion_heroes": 1,
+        "AccountResource:reagent_people": 875
+      },
+      {
+        "AccountResource:reagent_promotion_heroes": 1,
+        "AccountResource:reagent_people": 1000
+      },
+      {
+        "AccountResource:reagent_promotion_heroes": 1,
+        "AccountResource:reagent_people": 1100
+      },
+      {
+        "AccountResource:reagent_promotion_heroes": 1,
+        "AccountResource:reagent_people": 1200
+      }
+    ],
+    "Rarity": "Legendary",
+    "RecycleRecipe": {
+      "Amount": 225,
+      "Cost": {},
+      "Result": "AccountResource:reagent_people"
+    },
+    "Tier": 5,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/heroes/commando/itemdefinition/hid_commando_048_darkminion_sr_t05.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T-Soldier-HID-A-043-Athena-Commando-M-DarkMinion.png",
+      "LargePreview": "ExportedImages\\T-Soldier-HID-A-043-Athena-Commando-M-DarkMinion-L.png"
     }
   },
   "Hero:hid_commando_gcgrenade_r_t01": {
@@ -84218,7 +84478,7 @@
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/heroes/ninja/itemdefinition/hid_ninja_exercise_sr_t01.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Soldier-HID-189-Athena-Commando-F-Exercise.png",
-      "LargePreview": "ExportedImages\\T-Soldier-HID-189-Athena-Commando-F-Exercise.png"
+      "LargePreview": "ExportedImages\\T-Soldier-HID-189-Athena-Commando-F-Exercise-L.png"
     }
   },
   "Hero:hid_ninja_exercise_sr_t02": {
@@ -84266,7 +84526,7 @@
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/heroes/ninja/itemdefinition/hid_ninja_exercise_sr_t02.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Soldier-HID-189-Athena-Commando-F-Exercise.png",
-      "LargePreview": "ExportedImages\\T-Soldier-HID-189-Athena-Commando-F-Exercise.png"
+      "LargePreview": "ExportedImages\\T-Soldier-HID-189-Athena-Commando-F-Exercise-L.png"
     }
   },
   "Hero:hid_ninja_exercise_sr_t03": {
@@ -84315,7 +84575,7 @@
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/heroes/ninja/itemdefinition/hid_ninja_exercise_sr_t03.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Soldier-HID-189-Athena-Commando-F-Exercise.png",
-      "LargePreview": "ExportedImages\\T-Soldier-HID-189-Athena-Commando-F-Exercise.png"
+      "LargePreview": "ExportedImages\\T-Soldier-HID-189-Athena-Commando-F-Exercise-L.png"
     }
   },
   "Hero:hid_ninja_exercise_sr_t04": {
@@ -84365,7 +84625,7 @@
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/heroes/ninja/itemdefinition/hid_ninja_exercise_sr_t04.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Soldier-HID-189-Athena-Commando-F-Exercise.png",
-      "LargePreview": "ExportedImages\\T-Soldier-HID-189-Athena-Commando-F-Exercise.png"
+      "LargePreview": "ExportedImages\\T-Soldier-HID-189-Athena-Commando-F-Exercise-L.png"
     }
   },
   "Hero:hid_ninja_exercise_sr_t05": {
@@ -84426,7 +84686,7 @@
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/heroes/ninja/itemdefinition/hid_ninja_exercise_sr_t05.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T-Soldier-HID-189-Athena-Commando-F-Exercise.png",
-      "LargePreview": "ExportedImages\\T-Soldier-HID-189-Athena-Commando-F-Exercise.png"
+      "LargePreview": "ExportedImages\\T-Soldier-HID-189-Athena-Commando-F-Exercise-L.png"
     }
   },
   "Hero:hid_ninja_myth02_sr_t01": {

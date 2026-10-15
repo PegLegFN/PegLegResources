@@ -483,7 +483,8 @@
         "Granted.Perk.OwMyEye.T01",
         "Granted.Perk.HolidaySurprise.T01",
         "Granted.Perk.QuickFingers.T01",
-        "Granted.Perk.BrainFreeze.T01"
+        "Granted.Perk.BrainFreeze.T01",
+        "Granted.Perk.Ghoulslinger.T01"
       ],
       "Description": "Requires a commander with a Phantasm Commander Perk."
     },

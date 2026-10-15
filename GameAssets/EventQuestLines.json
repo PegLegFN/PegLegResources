@@ -345,6 +345,17 @@
       ]
     ]
   },
+  "Portal Combat": {
+    "EventTag": "EventFlag.STWMiniBoss",
+    "QuestPages": [
+      [
+        "Quest:MiniBoss_Quest_A01_Complete",
+        "Quest:MiniBoss_Quest_A02_Collect",
+        "Quest:MiniBoss_Quest_A03_Collect",
+        "Quest:MiniBoss_Quest_A04_Complete"
+      ]
+    ]
+  },
   "Red Willow\u0027s Eve": {
     "EventTag": "EventFlag.Phoenix.Winterfest.GhostOfChristmas",
     "QuestPages": [

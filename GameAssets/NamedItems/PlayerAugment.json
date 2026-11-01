@@ -43,6 +43,30 @@
       "LargePreview": "ExportedImages\\T_UI_SpriteExtraction_Perk_AmmoHoarder.png"
     }
   },
+  "PlayerAugment:paid_spriteboons_ammosteal": {
+    "Type": "PlayerAugment",
+    "Name": "PAID_SpriteBoons_AmmoSteal",
+    "ItemName": "Ammo Steal Sprite",
+    "ItemDescription": "Damaging an enemy steals random ammo from them",
+    "Rarity": "Rare",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7ms/content/gameplay/extractableboons/ammosteal/paid_spriteboons_ammosteal.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_UI_SpriteExtraction_Perk_LootPack.png",
+      "LargePreview": "ExportedImages\\T_UI_SpriteExtraction_Perk_LootPack.png"
+    }
+  },
+  "PlayerAugment:paid_spriteboons_barreloffish": {
+    "Type": "PlayerAugment",
+    "Name": "PAID_SpriteBoons_BarrelOfFish",
+    "ItemName": "Baarry O\u0027Fish",
+    "ItemDescription": "Reduces tactical sprint stamina drain when in water. Gain Slap at max level!",
+    "Rarity": "Rare",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7ms/content/gameplay/extractableboons/barreloffish/paid_spriteboons_barreloffish.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_UI_Bar_BarrelOfFish.png",
+      "LargePreview": "ExportedImages\\T_UI_Bar_BarrelOfFish.png"
+    }
+  },
   "PlayerAugment:paid_spriteboons_birthday": {
     "Type": "PlayerAugment",
     "Name": "PAID_SpriteBoons_Birthday",
@@ -99,6 +123,18 @@
       "LargePreview": "ExportedImages\\T_UI_Bar_Bushranger.png"
     }
   },
+  "PlayerAugment:paid_spriteboons_cannonball": {
+    "Type": "PlayerAugment",
+    "Name": "PAID_SpriteBoons_CannonBall",
+    "ItemName": "Cannon Ball",
+    "ItemDescription": "The first shot of your clip has a chance to spawn a cannon ball projectile",
+    "Rarity": "Rare",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7ms/content/gameplay/extractableboons/cannonball/paid_spriteboons_cannonball.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_UI_SpriteExtraction_Perk_ShrapnelDamage.png",
+      "LargePreview": "ExportedImages\\T_UI_SpriteExtraction_Perk_ShrapnelDamage.png"
+    }
+  },
   "PlayerAugment:paid_spriteboons_cargolying": {
     "Type": "PlayerAugment",
     "Name": "PAID_SpriteBoons_CargoLying",
@@ -135,6 +171,18 @@
       "LargePreview": "ExportedImages\\T_UI_SpriteExtraction_Perk_InfiniteAmmo.png"
     }
   },
+  "PlayerAugment:paid_spriteboons_coinpile": {
+    "Type": "PlayerAugment",
+    "Name": "PAID_SpriteBoons_CoinPile",
+    "ItemName": "Plundarrgh",
+    "ItemDescription": "Opening Chest grants increased pickaxe speed and movement speed.",
+    "Rarity": "Mythic",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7ms/content/gameplay/extractableboons/coinpile/paid_spriteboons_coinpile.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_UI_Bar_CoinPile.png",
+      "LargePreview": "ExportedImages\\T_UI_Bar_CoinPile.png"
+    }
+  },
   "PlayerAugment:paid_spriteboons_collector": {
     "Type": "PlayerAugment",
     "Name": "PAID_SpriteBoons_Collector",
@@ -159,6 +207,18 @@
       "LargePreview": "ExportedImages\\T_UI_SpriteExtraction_Perk_HydroHealing.png"
     }
   },
+  "PlayerAugment:paid_spriteboons_compass": {
+    "Type": "PlayerAugment",
+    "Name": "PAID_SpriteBoons_Compass",
+    "ItemName": "Wayfinder",
+    "ItemDescription": "Reveals Sprites nearby and grants more items when opening Buried Chests. Sprite detection radius increases with each Level Up!",
+    "Rarity": "Rare",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7ms/content/gameplay/extractableboons/compass/paid_spriteboons_compass.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_UI_Bar_Compass.png",
+      "LargePreview": "ExportedImages\\T_UI_Bar_Compass.png"
+    }
+  },
   "PlayerAugment:paid_spriteboons_consumableoverdrive": {
     "Type": "PlayerAugment",
     "Name": "PAID_SpriteBoons_ConsumableOverdrive",
@@ -169,6 +229,18 @@
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T_UI_Bar_Overdrive.png",
       "LargePreview": "ExportedImages\\T_UI_Bar_Overdrive.png"
+    }
+  },
+  "PlayerAugment:paid_spriteboons_containerreveal": {
+    "Type": "PlayerAugment",
+    "Name": "PAID_SpriteBoons_ContainerReveal",
+    "ItemName": "Container Reveal",
+    "ItemDescription": "Periodically reveals nearby containers",
+    "Rarity": "Rare",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7ms/content/gameplay/extractableboons/containerreveal/paid_spriteboons_containerreveal.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_UI_SpriteExtraction_Perk_LootPack.png",
+      "LargePreview": "ExportedImages\\T_UI_SpriteExtraction_Perk_LootPack.png"
     }
   },
   "PlayerAugment:paid_spriteboons_crown": {
@@ -251,6 +323,18 @@
       "LargePreview": "ExportedImages\\T_UI_SpriteExtraction_Perk_ExtractableExpert.png"
     }
   },
+  "PlayerAugment:paid_spriteboons_feedjet": {
+    "Type": "PlayerAugment",
+    "Name": "PAID_SpriteBoons_FeedJet",
+    "ItemName": "Transponder Snail",
+    "ItemDescription": "Grants extra resources on pickup, with Teammates who also have this Sprite equipped receiving some extra resources as well! Increased amount of resources received at each Level Up!",
+    "Rarity": "Legendary",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7ms/content/gameplay/extractableboons/feedjet/paid_spriteboons_feedjet.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_UI_Bar_FeedJet.png",
+      "LargePreview": "ExportedImages\\T_UI_Bar_FeedJet.png"
+    }
+  },
   "PlayerAugment:paid_spriteboons_fireflyfrenzy": {
     "Type": "PlayerAugment",
     "Name": "PAID_SpriteBoons_FireflyFrenzy",
@@ -261,6 +345,18 @@
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T_UI_SpriteExtraction_Perk_FireflyFrenzy.png",
       "LargePreview": "ExportedImages\\T_UI_SpriteExtraction_Perk_FireflyFrenzy.png"
+    }
+  },
+  "PlayerAugment:paid_spriteboons_flowberrymist": {
+    "Type": "PlayerAugment",
+    "Name": "PAID_SpriteBoons_FlowberryMist",
+    "ItemName": "Flowberry Mist",
+    "ItemDescription": "Spawn a Flowberry Mist Cloud when your shield is broken",
+    "Rarity": "Rare",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7ms/content/gameplay/extractableboons/flowberrymist/paid_spriteboons_flowberrymist.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_UI_SpriteExtraction_Perk_ShrapnelDamage.png",
+      "LargePreview": "ExportedImages\\T_UI_SpriteExtraction_Perk_ShrapnelDamage.png"
     }
   },
   "PlayerAugment:paid_spriteboons_fossilmeal": {
@@ -355,6 +451,18 @@
       "LargePreview": "ExportedImages\\T_UI_Bar_ExtraHeadshotDMG.png"
     }
   },
+  "PlayerAugment:paid_spriteboons_healamp": {
+    "Type": "PlayerAugment",
+    "Name": "PAID_SpriteBoons_HealAmp",
+    "ItemName": "Heal Amp",
+    "ItemDescription": "When restoring health or shields, also apply to the other",
+    "Rarity": "Rare",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7ms/content/gameplay/extractableboons/healamp/paid_spriteboons_healamp.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_UI_SpriteExtraction_Perk_ShrapnelDamage.png",
+      "LargePreview": "ExportedImages\\T_UI_SpriteExtraction_Perk_ShrapnelDamage.png"
+    }
+  },
   "PlayerAugment:paid_spriteboons_healthsiphon": {
     "Type": "PlayerAugment",
     "Name": "PAID_SpriteBoons_HealthSiphon",
@@ -365,6 +473,18 @@
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T_UI_Bar_BulletHeal.png",
       "LargePreview": "ExportedImages\\T_UI_Bar_BulletHeal.png"
+    }
+  },
+  "PlayerAugment:paid_spriteboons_hook": {
+    "Type": "PlayerAugment",
+    "Name": "PAID_SpriteBoons_Hook",
+    "ItemName": "Heal Amp",
+    "ItemDescription": "When restoring health or shields, also apply to the other",
+    "Rarity": "Rare",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7ms/content/gameplay/extractableboons/hook/paid_spriteboons_hook.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_UI_SpriteExtraction_Perk_ShrapnelDamage.png",
+      "LargePreview": "ExportedImages\\T_UI_SpriteExtraction_Perk_ShrapnelDamage.png"
     }
   },
   "PlayerAugment:paid_spriteboons_improvedslide": {
@@ -471,6 +591,18 @@
       "LargePreview": "ExportedImages\\T_UI_Bar_Klombo.png"
     }
   },
+  "PlayerAugment:paid_spriteboons_lastshotdamage": {
+    "Type": "PlayerAugment",
+    "Name": "PAID_SpriteBoons_LastShotDamage",
+    "ItemName": "Last Shot Damage",
+    "ItemDescription": "The last shot of your weapon deals increased damage",
+    "Rarity": "Rare",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7ms/content/gameplay/extractableboons/lastshotdamage/paid_spriteboons_lastshotdamage.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_UI_SpriteExtraction_Perk_ShrapnelDamage.png",
+      "LargePreview": "ExportedImages\\T_UI_SpriteExtraction_Perk_ShrapnelDamage.png"
+    }
+  },
   "PlayerAugment:paid_spriteboons_maniac": {
     "Type": "PlayerAugment",
     "Name": "PAID_SpriteBoons_Maniac",
@@ -505,6 +637,18 @@
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T_UI_SpriteExtraction_Perk_MidasSplash.png",
       "LargePreview": "ExportedImages\\T_UI_SpriteExtraction_Perk_MidasSplash.png"
+    }
+  },
+  "PlayerAugment:paid_spriteboons_mimic": {
+    "Type": "PlayerAugment",
+    "Name": "PAID_SpriteBoons_Mimic",
+    "ItemName": "Mimic",
+    "ItemDescription": "Devour a random item for Sprite Dush or Upgrade one !",
+    "Rarity": "Rare",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7ms/content/gameplay/extractableboons/mimic/paid_spriteboons_mimic.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_UI_SpriteExtraction_Perk_ShrapnelDamage.png",
+      "LargePreview": "ExportedImages\\T_UI_SpriteExtraction_Perk_ShrapnelDamage.png"
     }
   },
   "PlayerAugment:paid_spriteboons_narrowflea": {
@@ -579,6 +723,30 @@
       "LargePreview": "ExportedImages\\T_UI_Bar_Overshield.png"
     }
   },
+  "PlayerAugment:paid_spriteboons_parrot": {
+    "Type": "PlayerAugment",
+    "Name": "PAID_SpriteBoons_Parrot",
+    "ItemName": "Re-Pete",
+    "ItemDescription": "Increases reload speed, with a chance that reloading refunds ammo. Reload faster and higher chance of ammo refunds with each Level Up!",
+    "Rarity": "Rare",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7ms/content/gameplay/extractableboons/parrot/paid_spriteboons_parrot.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_UI_Bar_Parrot.png",
+      "LargePreview": "ExportedImages\\T_UI_Bar_Parrot.png"
+    }
+  },
+  "PlayerAugment:paid_spriteboons_peelybone": {
+    "Type": "PlayerAugment",
+    "Name": "PAID_SpriteBoons_PeelyBone",
+    "ItemName": "Halfpeel\u0027d",
+    "ItemDescription": "Marks eliminations on the map. Effect radius increases with each level up!",
+    "Rarity": "Rare",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7ms/content/gameplay/extractableboons/peelybones/paid_spriteboons_peelybone.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_UI_Bar_PeelyBones.png",
+      "LargePreview": "ExportedImages\\T_UI_Bar_PeelyBones.png"
+    }
+  },
   "PlayerAugment:paid_spriteboons_phasedash": {
     "Type": "PlayerAugment",
     "Name": "PAID_SpriteBoons_PhaseDash",
@@ -589,6 +757,30 @@
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T_UI_Bar_PhaseDash.png",
       "LargePreview": "ExportedImages\\T_UI_Bar_PhaseDash.png"
+    }
+  },
+  "PlayerAugment:paid_spriteboons_playmakerbrewery": {
+    "Type": "PlayerAugment",
+    "Name": "PAID_SpriteBoons_PlaymakerBrewery",
+    "ItemName": "Lil\u0027 Flacko",
+    "ItemDescription": "Creates a small shockwave on landing, knocking back enemies. Increased knockback strength with each Level Up!",
+    "Rarity": "Legendary",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7ms/content/gameplay/extractableboons/playmakerbrewery/paid_spriteboons_playmakerbrewery.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_UI_Bar_PlaymakerBrewery.png",
+      "LargePreview": "ExportedImages\\T_UI_Bar_PlaymakerBrewery.png"
+    }
+  },
+  "PlayerAugment:paid_spriteboons_plunder": {
+    "Type": "PlayerAugment",
+    "Name": "PAID_SpriteBoons_Plunder",
+    "ItemName": "Plunder",
+    "ItemDescription": "Pickaxe damage heals you and give more material too !",
+    "Rarity": "Rare",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7ms/content/gameplay/extractableboons/plunder/paid_spriteboons_plunder.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_UI_SpriteExtraction_Perk_ShrapnelDamage.png",
+      "LargePreview": "ExportedImages\\T_UI_SpriteExtraction_Perk_ShrapnelDamage.png"
     }
   },
   "PlayerAugment:paid_spriteboons_reloadovertime": {
@@ -613,6 +805,18 @@
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T_UI_SpriteExtraction_Perk_RiftNReady.png",
       "LargePreview": "ExportedImages\\T_UI_SpriteExtraction_Perk_RiftNReady.png"
+    }
+  },
+  "PlayerAugment:paid_spriteboons_rookgecko": {
+    "Type": "PlayerAugment",
+    "Name": "PAID_SpriteBoons_RookGecko",
+    "ItemName": "Lil\u0027 Uzi Vert Jr.",
+    "ItemDescription": "Generates a Chug Splash effect when restoring shields. Decreased cooldown with each Level Up!",
+    "Rarity": "Legendary",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7ms/content/gameplay/extractableboons/rookgecko/paid_spriteboons_rookgecko.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_UI_Bar_RookGecko.png",
+      "LargePreview": "ExportedImages\\T_UI_Bar_RookGecko.png"
     }
   },
   "PlayerAugment:paid_spriteboons_royalwins": {
@@ -673,6 +877,54 @@
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T_UI_SpriteExtraction_Perk_InfiniteAmmo.png",
       "LargePreview": "ExportedImages\\T_UI_SpriteExtraction_Perk_InfiniteAmmo.png"
+    }
+  },
+  "PlayerAugment:paid_spriteboons_solargranny": {
+    "Type": "PlayerAugment",
+    "Name": "PAID_SpriteBoons_SolarGranny",
+    "ItemName": "Solar Granny",
+    "ItemDescription": "When down, will protect you as long at it can",
+    "Rarity": "Rare",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7ms/content/gameplay/extractableboons/solargranny/paid_spriteboons_solargranny.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_UI_SpriteExtraction_Perk_Scout.png",
+      "LargePreview": "ExportedImages\\T_UI_SpriteExtraction_Perk_Scout.png"
+    }
+  },
+  "PlayerAugment:paid_spriteboons_sprintjumpexplosion": {
+    "Type": "PlayerAugment",
+    "Name": "PAID_SpriteBoons_SprintJumpExplosion",
+    "ItemName": "Sprint Jump Explosion",
+    "ItemDescription": "Your Sprint Jump is greatly enhanced and consumes all of your Stamina. Landing triggers an explosion",
+    "Rarity": "Rare",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7ms/content/gameplay/extractableboons/sprintjumpexplosion/paid_spriteboons_sprintjumpexplosion.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_UI_SpriteExtraction_Perk_LootPack.png",
+      "LargePreview": "ExportedImages\\T_UI_SpriteExtraction_Perk_LootPack.png"
+    }
+  },
+  "PlayerAugment:paid_spriteboons_squibbly": {
+    "Type": "PlayerAugment",
+    "Name": "PAID_SpriteBoons_Squibbly",
+    "ItemName": "Squibbly",
+    "ItemDescription": "Jumping into a fishing hole fishes it and gives some bonus loot. Get more loot as you level up.",
+    "Rarity": "Epic",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7ms/content/gameplay/extractableboons/squibbly/paid_spriteboons_squibbly.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_UI_Bar_Squibbly.png",
+      "LargePreview": "ExportedImages\\T_UI_Bar_Squibbly.png"
+    }
+  },
+  "PlayerAugment:paid_spriteboons_starlight": {
+    "Type": "PlayerAugment",
+    "Name": "PAID_SpriteBoons_StarLight",
+    "ItemName": "Sweet Dreams",
+    "ItemDescription": "Grants a random item at each level, exploding with Mythic loot at Max Level. Loot value increases at each Level Up!",
+    "Rarity": "Mythic",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7ms/content/gameplay/extractableboons/starlight/paid_spriteboons_starlight.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_UI_Bar_StarLight.png",
+      "LargePreview": "ExportedImages\\T_UI_Bar_StarLight.png"
     }
   },
   "PlayerAugment:paid_spriteboons_starterpack": {
@@ -739,6 +991,30 @@
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7s4/content/gameplay/extractableboons/supershot/paid_spriteboons_supershot.uasset"
   },
+  "PlayerAugment:paid_spriteboons_susbird": {
+    "Type": "PlayerAugment",
+    "Name": "PAID_SpriteBoons_SusBird",
+    "ItemName": "SusBird Sprite",
+    "ItemDescription": "On double jump, give an extra boost and open up the glider.",
+    "Rarity": "Rare",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7ms/content/gameplay/extractableboons/susbird/paid_spriteboons_susbird.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_UI_Bar_JazzJackrabbit.png",
+      "LargePreview": "ExportedImages\\T_UI_Bar_JazzJackrabbit.png"
+    }
+  },
+  "PlayerAugment:paid_spriteboons_tnt": {
+    "Type": "PlayerAugment",
+    "Name": "PAID_SpriteBoons_TNT",
+    "ItemName": "TNT",
+    "ItemDescription": "Periodically gain Dynamite",
+    "Rarity": "Rare",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7ms/content/gameplay/extractableboons/tnt/paid_spriteboons_tnt.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_UI_SpriteExtraction_Perk_LootPack.png",
+      "LargePreview": "ExportedImages\\T_UI_SpriteExtraction_Perk_LootPack.png"
+    }
+  },
   "PlayerAugment:paid_spriteboons_trash": {
     "Type": "PlayerAugment",
     "Name": "PAID_SpriteBoons_Trash",
@@ -749,6 +1025,54 @@
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T_UI_SpriteExtraction_Perk_OneMansTrash.png",
       "LargePreview": "ExportedImages\\T_UI_SpriteExtraction_Perk_OneMansTrash.png"
+    }
+  },
+  "PlayerAugment:paid_spriteboons_treasurechest": {
+    "Type": "PlayerAugment",
+    "Name": "PAID_SpriteBoons_TreasureChest",
+    "ItemName": "Chester",
+    "ItemDescription": "Grants a chance to spawn extra loot from Treasure Chests and nullifies fall damage. Increased chance of spawning an extra loot item with each Level Up!",
+    "Rarity": "Epic",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7ms/content/gameplay/extractableboons/treasurechest/paid_spriteboons_treasurechest.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_UI_Bar_TreasureChest.png",
+      "LargePreview": "ExportedImages\\T_UI_Bar_TreasureChest.png"
+    }
+  },
+  "PlayerAugment:paid_spriteboons_treasuremap": {
+    "Type": "PlayerAugment",
+    "Name": "PAID_SpriteBoons_TreasureMap",
+    "ItemName": "Exmarks",
+    "ItemDescription": "Reveals Treasure Maps and Wanted Posters. Spawns a Treasure Map at Max Level!",
+    "Rarity": "Epic",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7ms/content/gameplay/extractableboons/treasuremap/paid_spriteboons_treasuremap.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_UI_Bar_TreasureMap.png",
+      "LargePreview": "ExportedImages\\T_UI_Bar_TreasureMap.png"
+    }
+  },
+  "PlayerAugment:paid_spriteboons_uglytracking": {
+    "Type": "PlayerAugment",
+    "Name": "PAID_SpriteBoons_UglyTracking",
+    "ItemName": "UglyTracking",
+    "ItemDescription": "Give speed boost when low hp or carrying a teammate",
+    "Rarity": "Rare",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7ms/content/gameplay/extractableboons/uglytracking/paid_spriteboons_uglytracking.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_UI_SpriteExtraction_Perk_Scout.png",
+      "LargePreview": "ExportedImages\\T_UI_SpriteExtraction_Perk_Scout.png"
+    }
+  },
+  "PlayerAugment:paid_spriteboons_unbotheredfish": {
+    "Type": "PlayerAugment",
+    "Name": "PAID_SpriteBoons_UnbotheredFish",
+    "ItemName": "Kelper",
+    "ItemDescription": "Restores health over time when in water. Increased amount of health with each Level Up!",
+    "Rarity": "Epic",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7ms/content/gameplay/extractableboons/unbotheredfish/paid_spriteboons_unbotheredfish.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_UI_Bar_UnbotheredFish.png",
+      "LargePreview": "ExportedImages\\T_UI_Bar_UnbotheredFish.png"
     }
   },
   "PlayerAugment:paid_spriteboons_variant_ammo": {
@@ -769,6 +1093,18 @@
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T_UI_Bar_Cheatmaster.png",
       "LargePreview": "ExportedImages\\T_UI_Bar_Cheatmaster.png"
+    }
+  },
+  "PlayerAugment:paid_spriteboons_variant_cursed": {
+    "Type": "PlayerAugment",
+    "Name": "PAID_SpriteBoons_Variant_Cursed",
+    "ItemName": "Cursed",
+    "ItemDescription": "Increases chance of rare Sprite variants, water damages you.",
+    "Rarity": "Rare",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7ms/content/gameplay/variantboons/variantcursed/paid_spriteboons_variant_cursed.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_UI_Bar_Cursed.png",
+      "LargePreview": "ExportedImages\\T_UI_Bar_Cursed.png"
     }
   },
   "PlayerAugment:paid_spriteboons_variant_doublepoints": {
@@ -817,6 +1153,18 @@
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T_UI_Bar_LootHacker.png",
       "LargePreview": "ExportedImages\\T_UI_Bar_LootHacker.png"
+    }
+  },
+  "PlayerAugment:paid_spriteboons_variant_jeweled": {
+    "Type": "PlayerAugment",
+    "Name": "PAID_SpriteBoons_Variant_Jeweled",
+    "ItemName": "Fortune",
+    "ItemDescription": "Reveals nearby Chests.",
+    "Rarity": "Rare",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7ms/content/gameplay/variantboons/variantjeweled/paid_spriteboons_variant_jeweled.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_UI_Bar_Jeweled.png",
+      "LargePreview": "ExportedImages\\T_UI_Bar_Jeweled.png"
     }
   },
   "PlayerAugment:paid_spriteboons_variant_quack": {
@@ -877,6 +1225,18 @@
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T_UI_SpriteExtraction_Perk_HydroHealing.png",
       "LargePreview": "ExportedImages\\T_UI_SpriteExtraction_Perk_HydroHealing.png"
+    }
+  },
+  "PlayerAugment:paid_spriteboons_waterjumpheight": {
+    "Type": "PlayerAugment",
+    "Name": "PAID_SpriteBoons_WaterJumpHeight",
+    "ItemName": "Water Jump Height",
+    "ItemDescription": "Gain increased jump strength while in water",
+    "Rarity": "Rare",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7ms/content/gameplay/extractableboons/waterjumpheight/paid_spriteboons_waterjumpheight.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_UI_SpriteExtraction_Perk_LootPack.png",
+      "LargePreview": "ExportedImages\\T_UI_SpriteExtraction_Perk_LootPack.png"
     }
   },
   "PlayerAugment:paid_spriteboons_weaponsmith": {

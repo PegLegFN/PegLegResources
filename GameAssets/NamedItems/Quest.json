@@ -8427,8 +8427,8 @@
       {
         "BackendName": "Brainstorm_Quest_A01_Gather_obj0",
         "Count": 20,
-        "Description": "Search the Haunted Hotel for clues",
-        "HudShortDescription": "Clues Found!"
+        "Description": "Search the Haunted Hotel for Pickle Jars",
+        "HudShortDescription": "Empty pickle jars found!"
       }
     ],
     "Rewards": [
@@ -10399,8 +10399,8 @@
       {
         "BackendName": "cannyvalley_reactive_rifts",
         "Count": 5,
-        "Description": "Find rifts in a 58\u002B zone",
-        "HudShortDescription": "Rifts found",
+        "Description": "Find Beta Rifts in a 58\u002B zone",
+        "HudShortDescription": "Beta Rifts found",
         "ZonePowerLevel": 58
       }
     ],
@@ -36879,12 +36879,12 @@
     "Name": "MiniBoss_Quest_A03_Collect",
     "ItemName": "Birds of a Feather",
     "Category": "LTE_MiniBoss",
-    "ItemDescription": "These Rifts have started infecting the local chickens in Hexsylvania. We need to collect their feathers and analyze them.",
+    "ItemDescription": "These Rifts have started infecting the local chickens. We need to collect their feathers and analyze them.",
     "Objectives": [
       {
         "BackendName": "MiniBoss_Quest_A03_Collect_obj0",
         "Count": 6,
-        "Description": "Eliminate 6 Zombie Chickens and collect Grave Feathers in any zone in Hexsylvania.",
+        "Description": "Eliminate 6 Zombie Chickens and collect Grave Feathers in any zone.",
         "HudShortDescription": "Grave Feathers Collected"
       }
     ],

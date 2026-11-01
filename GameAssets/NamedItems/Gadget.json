@@ -3,6 +3,7 @@
     "Type": "Gadget",
     "Name": "G_AirStrike",
     "ItemName": "AirStrike",
+    "ItemDescription": "Drops [Ability.MaxStacks] bombs on targets.",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/content/abilities/player/generic/gadgets/airstrike/g_airstrike.uasset",
     "ImagePaths": {
@@ -58,6 +59,7 @@
     "Type": "Gadget",
     "Name": "G_Generic_AdrenalineRush",
     "ItemName": "Adrenaline Rush",
+    "ItemDescription": "Instantly restores [instahealamt] health to you and friendly players in a [Ability.AOERadius] tile range. [Purge] [HOTStart]",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/content/abilities/player/generic/gadgets/adrenalinerush/g_generic_adrenalinerush.uasset",
     "ImagePaths": {
@@ -69,6 +71,7 @@
     "Type": "Gadget",
     "Name": "G_Generic_Banner",
     "ItemName": "Banner",
+    "ItemDescription": "Drops a Banner, healing player buildings\u0027 health to [Ability.Line1] for [Ability.Duration] seconds in a [Ability.AOERadius] tile radius. [Ability.Line2] [Ability.Line4]",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/generic/gadgets/banner/g_generic_banner.uasset",
     "ImagePaths": {
@@ -157,6 +160,7 @@
     "Type": "Gadget",
     "Name": "G_Generic_ProximityMines",
     "ItemName": "Proximity Mine",
+    "ItemDescription": "Deploys a Proximity Mine that explodes with a [Range] tile range.",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/generic/gadgets/proximity_mines/g_generic_proximitymines.uasset",
     "ImagePaths": {
@@ -168,6 +172,7 @@
     "Type": "Gadget",
     "Name": "G_Generic_SlowField",
     "ItemName": "Slow Field",
+    "ItemDescription": "Reduces speed of enemies to [SlowAmount]% in a [Radius] tile range for [Duration] seconds.",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/generic/gadgets/slowfield/g_generic_slowfield.uasset",
     "ImagePaths": {
@@ -289,6 +294,7 @@
     "Type": "Gadget",
     "Name": "G_SupplyDrop",
     "ItemName": "Supply Drop",
+    "ItemDescription": "Calls in supply drop of [Ability.Line1], [Ability.Line2][Ability.Line3][Ability.Line4][Ability.Line5][SpecialEnd][SpecialStart][SpecialAmount].",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/generic/gadgets/supplydrop/g_supplydrop.uasset",
     "ImagePaths": {
@@ -300,6 +306,7 @@
     "Type": "Gadget",
     "Name": "G_Teleporter",
     "ItemName": "Teleporter",
+    "ItemDescription": "Deploy two teleportation pads up to [Ability.Line1] away from one another. Arms in [Ability.Line2].",
     "Rarity": "Common",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/generic/gadgets/teleporter/g_teleporter.uasset",
     "ImagePaths": {

@@ -251,6 +251,79 @@
       "SmallPreview": "ExportedImages\\T_Icon_BR_Air_Holo.png"
     }
   },
+  "ExtractableRelic:esd_barreloffishsprite": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_BarrelOfFishSprite",
+    "ItemName": "Barry O\u0027Fish",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_barreloffish"
+    ],
+    "Generation": "Ch7MS",
+    "ItemDescription": "Reduces tactical sprint stamina drain when in water. Gain Slap at max level!",
+    "MappingID": "BarrelOfFish",
+    "Rarity": "Rare",
+    "SpriteDex": 3,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7ms/content/spritedefinitions/barreloffish/esd_barreloffishsprite.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_BarrelOfFish.png"
+    }
+  },
+  "ExtractableRelic:esd_barreloffishsprite_variant_a": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_BarrelOfFishSprite_Variant_A",
+    "ItemName": "Barry O\u0027Fish",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_barreloffish"
+    ],
+    "Generation": "Ch7MS",
+    "ItemDescription": "Reduces tactical sprint stamina drain when in water. Gain Slap at max level!",
+    "MappingID": "BarrelOfFish_Variant_A",
+    "Parent": "ExtractableRelic:esd_barreloffishsprite",
+    "Rarity": "Rare",
+    "SpriteDex": 3,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7ms/content/spritedefinitions/barreloffish/esd_barreloffishsprite_variant_a.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_BarrelOfFish.png"
+    }
+  },
+  "ExtractableRelic:esd_barreloffishsprite_variant_cursed": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_BarrelOfFishSprite_Variant_Cursed",
+    "ItemName": "Cursed Barry O\u0027Fish",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_barreloffish",
+      "PlayerAugment:paid_spriteboons_variant_cursed"
+    ],
+    "Generation": "Ch7MS",
+    "ItemDescription": "Reduces tactical sprint stamina drain when in water. Gain Slap at max level!",
+    "MappingID": "BarrelOfFish_Variant_Cursed",
+    "Parent": "ExtractableRelic:esd_barreloffishsprite",
+    "Rarity": "Rare",
+    "SpriteDex": 3,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7ms/content/spritedefinitions/barreloffish/esd_barreloffishsprite_variant_cursed.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_BarrelOfFish_Cursed.png"
+    }
+  },
+  "ExtractableRelic:esd_barreloffishsprite_variant_jeweled": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_BarrelOfFishSprite_Variant_Jeweled",
+    "ItemName": "Fortune Barry O\u0027Fish",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_barreloffish",
+      "PlayerAugment:paid_spriteboons_variant_jeweled"
+    ],
+    "Generation": "Ch7MS",
+    "ItemDescription": "Reduces tactical sprint stamina drain when in water. Gain Slap at max level!",
+    "MappingID": "BarrelOfFish_Variant_Jeweled",
+    "Parent": "ExtractableRelic:esd_barreloffishsprite",
+    "Rarity": "Rare",
+    "SpriteDex": 3,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7ms/content/spritedefinitions/barreloffish/esd_barreloffishsprite_variant_jeweled.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_BarrelOfFish_Jeweled.png"
+    }
+  },
   "ExtractableRelic:esd_birthdaysprite": {
     "Type": "ExtractableRelic",
     "Name": "ESD_BirthdaySprite",
@@ -964,6 +1037,79 @@
       "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_CargoLying_TrickTreat.png"
     }
   },
+  "ExtractableRelic:esd_coinpilesprite": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_CoinPileSprite",
+    "ItemName": "Plundarrgh",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_coinpile"
+    ],
+    "Generation": "Ch7MS",
+    "ItemDescription": "Opening Chest grants increased pickaxe speed and movement speed.",
+    "MappingID": "CoinPile",
+    "Rarity": "Mythic",
+    "SpriteDex": 14,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7ms/content/spritedefinitions/coinpile/esd_coinpilesprite.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_CoinPile.png"
+    }
+  },
+  "ExtractableRelic:esd_coinpilesprite_variant_a": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_CoinPileSprite_Variant_A",
+    "ItemName": "Plundarrgh",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_coinpile"
+    ],
+    "Generation": "Ch7MS",
+    "ItemDescription": "Opening Chest grants increased pickaxe speed and movement speed.",
+    "MappingID": "CoinPile_Variant_A",
+    "Parent": "ExtractableRelic:esd_coinpilesprite",
+    "Rarity": "Mythic",
+    "SpriteDex": 14,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7ms/content/spritedefinitions/coinpile/esd_coinpilesprite_variant_a.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_CoinPile.png"
+    }
+  },
+  "ExtractableRelic:esd_coinpilesprite_variant_cursed": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_CoinPileSprite_Variant_Cursed",
+    "ItemName": "Cursed Plundarrgh",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_coinpile",
+      "PlayerAugment:paid_spriteboons_variant_cursed"
+    ],
+    "Generation": "Ch7MS",
+    "ItemDescription": "Opening Chest grants increased pickaxe speed and movement speed.",
+    "MappingID": "CoinPile_Variant_Cursed",
+    "Parent": "ExtractableRelic:esd_coinpilesprite",
+    "Rarity": "Mythic",
+    "SpriteDex": 14,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7ms/content/spritedefinitions/coinpile/esd_coinpilesprite_variant_cursed.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_CoinPile_Cursed.png"
+    }
+  },
+  "ExtractableRelic:esd_coinpilesprite_variant_jeweled": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_CoinPileSprite_Variant_Jeweled",
+    "ItemName": "Fortune Plundarrgh",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_coinpile",
+      "PlayerAugment:paid_spriteboons_variant_jeweled"
+    ],
+    "Generation": "Ch7MS",
+    "ItemDescription": "Opening Chest grants increased pickaxe speed and movement speed.",
+    "MappingID": "CoinPile_Variant_Jeweled",
+    "Parent": "ExtractableRelic:esd_coinpilesprite",
+    "Rarity": "Mythic",
+    "SpriteDex": 14,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7ms/content/spritedefinitions/coinpile/esd_coinpilesprite_variant_jeweled.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_CoinPile_Jeweled.png"
+    }
+  },
   "ExtractableRelic:esd_cokeparmesan": {
     "Type": "ExtractableRelic",
     "Name": "ESD_CokeParmesan",
@@ -1033,6 +1179,79 @@
     "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s3/content/spritedefinitions/companystargazer/esd_companystargazer_variant_a.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T_Icon_BR_CompanyStargazer_Default.png"
+    }
+  },
+  "ExtractableRelic:esd_compasssprite": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_CompassSprite",
+    "ItemName": "Wayfinder",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_compass"
+    ],
+    "Generation": "Ch7MS",
+    "ItemDescription": "Reveals Sprites nearby and grants more items when opening Buried Chests. Sprite detection radius increases with each Level Up!",
+    "MappingID": "Compass",
+    "Rarity": "Rare",
+    "SpriteDex": 4,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7ms/content/spritedefinitions/compass/esd_compasssprite.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_Compass.png"
+    }
+  },
+  "ExtractableRelic:esd_compasssprite_variant_a": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_CompassSprite_Variant_A",
+    "ItemName": "Wayfinder",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_compass"
+    ],
+    "Generation": "Ch7MS",
+    "ItemDescription": "Reveals Sprites nearby and grants more items when opening Buried Chests. Sprite detection radius increases with each Level Up!",
+    "MappingID": "Compass_Variant_A",
+    "Parent": "ExtractableRelic:esd_compasssprite",
+    "Rarity": "Rare",
+    "SpriteDex": 4,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7ms/content/spritedefinitions/compass/esd_compasssprite_variant_a.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_Compass.png"
+    }
+  },
+  "ExtractableRelic:esd_compasssprite_variant_cursed": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_CompassSprite_Variant_Cursed",
+    "ItemName": "Cursed Wayfinder",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_compass",
+      "PlayerAugment:paid_spriteboons_variant_cursed"
+    ],
+    "Generation": "Ch7MS",
+    "ItemDescription": "Reveals Sprites nearby and grants more items when opening Buried Chests. Sprite detection radius increases with each Level Up!",
+    "MappingID": "Compass_Variant_Cursed",
+    "Parent": "ExtractableRelic:esd_compasssprite",
+    "Rarity": "Rare",
+    "SpriteDex": 4,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7ms/content/spritedefinitions/compass/esd_compasssprite_variant_cursed.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_Compass_Cursed.png"
+    }
+  },
+  "ExtractableRelic:esd_compasssprite_variant_jeweled": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_CompassSprite_Variant_Jeweled",
+    "ItemName": "Fortune Wayfinder",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_compass",
+      "PlayerAugment:paid_spriteboons_variant_jeweled"
+    ],
+    "Generation": "Ch7MS",
+    "ItemDescription": "Reveals Sprites nearby and grants more items when opening Buried Chests. Sprite detection radius increases with each Level Up!",
+    "MappingID": "Compass_Variant_Jeweled",
+    "Parent": "ExtractableRelic:esd_compasssprite",
+    "Rarity": "Rare",
+    "SpriteDex": 4,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7ms/content/spritedefinitions/compass/esd_compasssprite_variant_jeweled.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_Compass_Jeweled.png"
     }
   },
   "ExtractableRelic:esd_crownsprite": {
@@ -2039,6 +2258,41 @@
     "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s3/content/spritedefinitions/earthsprite/esd_earthsprite_variant_quack.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_Earth_Quack_ui.png"
+    }
+  },
+  "ExtractableRelic:esd_feedjetsprite": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_FeedJetSprite",
+    "ItemName": "Transponder Snail",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_feedjet"
+    ],
+    "Generation": "Ch7MS",
+    "ItemDescription": "Grants extra resources on pickup, with Teammates who also have this Sprite equipped receiving some extra resources as well! Increased amount of resources received at each Level Up!",
+    "MappingID": "FeedJet",
+    "Rarity": "Legendary",
+    "SpriteDex": 10,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7ms/content/spritedefinitions/feedjet/esd_feedjetsprite.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_FeedJet.png"
+    }
+  },
+  "ExtractableRelic:esd_feedjetsprite_variant_a": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_FeedJetSprite_Variant_A",
+    "ItemName": "Transponder Snail",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_feedjet"
+    ],
+    "Generation": "Ch7MS",
+    "ItemDescription": "Grants extra resources on pickup, with Teammates who also have this Sprite equipped receiving some extra resources as well! Increased amount of resources received at each Level Up!",
+    "MappingID": "FeedJet_Variant_A",
+    "Parent": "ExtractableRelic:esd_feedjetsprite",
+    "Rarity": "Legendary",
+    "SpriteDex": 10,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7ms/content/spritedefinitions/feedjet/esd_feedjetsprite_variant_a.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_FeedJet.png"
     }
   },
   "ExtractableRelic:esd_fillergruntsprite": {
@@ -4318,6 +4572,79 @@
       "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_Overshield_TrickTreat.png"
     }
   },
+  "ExtractableRelic:esd_parrotsprite": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_ParrotSprite",
+    "ItemName": "Re-Pete",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_parrot"
+    ],
+    "Generation": "Ch7MS",
+    "ItemDescription": "Increases reload speed, with a chance that reloading refunds ammo. Reload faster and higher chance of ammo refunds with each Level Up!",
+    "MappingID": "Parrot",
+    "Rarity": "Rare",
+    "SpriteDex": 2,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7ms/content/spritedefinitions/parrot/esd_parrotsprite.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_Parrot.png"
+    }
+  },
+  "ExtractableRelic:esd_parrotsprite_variant_a": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_ParrotSprite_Variant_A",
+    "ItemName": "Re-Pete",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_parrot"
+    ],
+    "Generation": "Ch7MS",
+    "ItemDescription": "Increases reload speed, with a chance that reloading refunds ammo. Reload faster and higher chance of ammo refunds with each Level Up!",
+    "MappingID": "Parrot_Variant_A",
+    "Parent": "ExtractableRelic:esd_parrotsprite",
+    "Rarity": "Rare",
+    "SpriteDex": 2,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7ms/content/spritedefinitions/parrot/esd_parrotsprite_variant_a.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_Parrot.png"
+    }
+  },
+  "ExtractableRelic:esd_parrotsprite_variant_cursed": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_ParrotSprite_Variant_Cursed",
+    "ItemName": "Cursed Re-Pete",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_parrot",
+      "PlayerAugment:paid_spriteboons_variant_cursed"
+    ],
+    "Generation": "Ch7MS",
+    "ItemDescription": "Increases reload speed, with a chance that reloading refunds ammo. Reload faster and higher chance of ammo refunds with each Level Up!",
+    "MappingID": "Parrot_Variant_Cursed",
+    "Parent": "ExtractableRelic:esd_parrotsprite",
+    "Rarity": "Rare",
+    "SpriteDex": 2,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7ms/content/spritedefinitions/parrot/esd_parrotsprite_variant_cursed.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_Parrot_Cursed.png"
+    }
+  },
+  "ExtractableRelic:esd_parrotsprite_variant_jeweled": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_ParrotSprite_Variant_Jeweled",
+    "ItemName": "Fortune Re-Pete",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_parrot",
+      "PlayerAugment:paid_spriteboons_variant_jeweled"
+    ],
+    "Generation": "Ch7MS",
+    "ItemDescription": "Increases reload speed, with a chance that reloading refunds ammo. Reload faster and higher chance of ammo refunds with each Level Up!",
+    "MappingID": "Parrot_Variant_Jeweled",
+    "Parent": "ExtractableRelic:esd_parrotsprite",
+    "Rarity": "Rare",
+    "SpriteDex": 2,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7ms/content/spritedefinitions/parrot/esd_parrotsprite_variant_jeweled.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_Parrot_Jeweled.png"
+    }
+  },
   "ExtractableRelic:esd_pedicureantacid": {
     "Type": "ExtractableRelic",
     "Name": "ESD_PedicureAntacid",
@@ -4352,6 +4679,79 @@
     "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s3/content/spritedefinitions/pedicureantacid/esd_pedicureantacid_variant_a.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T_Icon_BR_PedicureAntacid.png"
+    }
+  },
+  "ExtractableRelic:esd_peelybonesprite": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_PeelyBoneSprite",
+    "ItemName": "Halfpeel\u0027d",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_peelybones"
+    ],
+    "Generation": "Ch7MS",
+    "ItemDescription": "Marks eliminations on the map. Effect radius increases with each level up!",
+    "MappingID": "PeelyBones",
+    "Rarity": "Rare",
+    "SpriteDex": 1,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7ms/content/spritedefinitions/peelybones/esd_peelybonesprite.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_PeelyBones.png"
+    }
+  },
+  "ExtractableRelic:esd_peelybonesprite_variant_a": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_PeelyBoneSprite_Variant_A",
+    "ItemName": "Halfpeel\u0027d",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_peelybones"
+    ],
+    "Generation": "Ch7MS",
+    "ItemDescription": "Marks eliminations on the map. Effect radius increases with each level up!",
+    "MappingID": "PeelyBones_Variant_A",
+    "Parent": "ExtractableRelic:esd_peelybonesprite",
+    "Rarity": "Rare",
+    "SpriteDex": 1,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7ms/content/spritedefinitions/peelybones/esd_peelybonesprite_variant_a.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_PeelyBones.png"
+    }
+  },
+  "ExtractableRelic:esd_peelybonesprite_variant_cursed": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_PeelyBoneSprite_Variant_Cursed",
+    "ItemName": "Cursed Halfpeel\u0027d",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_peelybones",
+      "PlayerAugment:paid_spriteboons_variant_cursed"
+    ],
+    "Generation": "Ch7MS",
+    "ItemDescription": "Marks eliminations on the map. Effect radius increases with each level up!",
+    "MappingID": "PeelyBones_Variant_Cursed",
+    "Parent": "ExtractableRelic:esd_peelybonesprite",
+    "Rarity": "Rare",
+    "SpriteDex": 1,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7ms/content/spritedefinitions/peelybones/esd_peelybonesprite_variant_cursed.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_PeelyBones_Cursed.png"
+    }
+  },
+  "ExtractableRelic:esd_peelybonesprite_variant_jeweled": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_PeelyBoneSprite_Variant_Jeweled",
+    "ItemName": "Fortune Halfpeel\u0027d",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_peelybones",
+      "PlayerAugment:paid_spriteboons_variant_jeweled"
+    ],
+    "Generation": "Ch7MS",
+    "ItemDescription": "Marks eliminations on the map. Effect radius increases with each level up!",
+    "MappingID": "PeelyBones_Variant_Jeweled",
+    "Parent": "ExtractableRelic:esd_peelybonesprite",
+    "Rarity": "Rare",
+    "SpriteDex": 1,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7ms/content/spritedefinitions/peelybones/esd_peelybonesprite_variant_jeweled.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_PeelyBones_Jeweled.png"
     }
   },
   "ExtractableRelic:esd_peelysprite": {
@@ -4617,6 +5017,79 @@
     "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/phasedashsprite/esd_phasedashsprite_variant_tricktreat.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_PhaseDash_TrickTreat.png"
+    }
+  },
+  "ExtractableRelic:esd_playmakerbrewerysprite": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_PlaymakerBrewerySprite",
+    "ItemName": "Lil\u0027 Flacko",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_playmakerbrewery"
+    ],
+    "Generation": "Ch7MS",
+    "ItemDescription": "Creates a small shockwave on landing, knocking back enemies. Increased knockback strength with each Level Up!",
+    "MappingID": "PlaymakerBrewery",
+    "Rarity": "Legendary",
+    "SpriteDex": 11,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7ms/content/spritedefinitions/playmakerbrewery/esd_playmakerbrewerysprite.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_PlaymakerBrewery.png"
+    }
+  },
+  "ExtractableRelic:esd_playmakerbrewerysprite_variant_a": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_PlaymakerBrewerySprite_Variant_A",
+    "ItemName": "Lil\u0027 Flacko",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_playmakerbrewery"
+    ],
+    "Generation": "Ch7MS",
+    "ItemDescription": "Creates a small shockwave on landing, knocking back enemies. Increased knockback strength with each Level Up!",
+    "MappingID": "PlaymakerBrewery_Variant_A",
+    "Parent": "ExtractableRelic:esd_playmakerbrewerysprite",
+    "Rarity": "Legendary",
+    "SpriteDex": 11,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7ms/content/spritedefinitions/playmakerbrewery/esd_playmakerbrewerysprite_variant_a.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_PlaymakerBrewery.png"
+    }
+  },
+  "ExtractableRelic:esd_playmakerbrewerysprite_variant_cursed": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_PlaymakerBrewerySprite_Variant_Cursed",
+    "ItemName": "Cursed Lil\u0027 Flacko",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_playmakerbrewery",
+      "PlayerAugment:paid_spriteboons_variant_cursed"
+    ],
+    "Generation": "Ch7MS",
+    "ItemDescription": "Creates a small shockwave on landing, knocking back enemies. Increased knockback strength with each Level Up!",
+    "MappingID": "PlaymakerBrewery_Variant_Cursed",
+    "Parent": "ExtractableRelic:esd_playmakerbrewerysprite",
+    "Rarity": "Legendary",
+    "SpriteDex": 11,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7ms/content/spritedefinitions/playmakerbrewery/esd_playmakerbrewerysprite_variant_cursed.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_PlaymakerBrewery_Cursed.png"
+    }
+  },
+  "ExtractableRelic:esd_playmakerbrewerysprite_variant_jeweled": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_PlaymakerBrewerySprite_Variant_Jeweled",
+    "ItemName": "Fortune Lil\u0027 Flacko",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_playmakerbrewery",
+      "PlayerAugment:paid_spriteboons_variant_jeweled"
+    ],
+    "Generation": "Ch7MS",
+    "ItemDescription": "Creates a small shockwave on landing, knocking back enemies. Increased knockback strength with each Level Up!",
+    "MappingID": "PlaymakerBrewery_Variant_Jeweled",
+    "Parent": "ExtractableRelic:esd_playmakerbrewerysprite",
+    "Rarity": "Legendary",
+    "SpriteDex": 11,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7ms/content/spritedefinitions/playmakerbrewery/esd_playmakerbrewerysprite_variant_jeweled.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_PlaymakerBrewery_Jeweled.png"
     }
   },
   "ExtractableRelic:esd_punksprite": {
@@ -4889,6 +5362,79 @@
     "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/reloadovertime/esd_reloadovertimesprite_variant_tricktreat.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_ReloadOverTime_TrickTreat.png"
+    }
+  },
+  "ExtractableRelic:esd_rookgeckosprite": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_RookGeckoSprite",
+    "ItemName": "Lil\u0027 Uzi Vert Jr.",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_rookgecko"
+    ],
+    "Generation": "Ch7MS",
+    "ItemDescription": "Generates a Chug Splash effect when restoring shields. Decreased cooldown with each Level Up!",
+    "MappingID": "RookGecko",
+    "Rarity": "Legendary",
+    "SpriteDex": 12,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7ms/content/spritedefinitions/rookgecko/esd_rookgeckosprite.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_RookGecko.png"
+    }
+  },
+  "ExtractableRelic:esd_rookgeckosprite_variant_a": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_RookGeckoSprite_Variant_A",
+    "ItemName": "Lil\u0027 Uzi Vert Jr.",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_rookgecko"
+    ],
+    "Generation": "Ch7MS",
+    "ItemDescription": "Generates a Chug Splash effect when restoring shields. Decreased cooldown with each Level Up!",
+    "MappingID": "RookGecko_Variant_A",
+    "Parent": "ExtractableRelic:esd_rookgeckosprite",
+    "Rarity": "Legendary",
+    "SpriteDex": 12,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7ms/content/spritedefinitions/rookgecko/esd_rookgeckosprite_variant_a.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_RookGecko.png"
+    }
+  },
+  "ExtractableRelic:esd_rookgeckosprite_variant_cursed": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_RookGeckoSprite_Variant_Cursed",
+    "ItemName": "Cursed Lil\u0027 Uzi Vert Jr.",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_rookgecko",
+      "PlayerAugment:paid_spriteboons_variant_cursed"
+    ],
+    "Generation": "Ch7MS",
+    "ItemDescription": "Generates a Chug Splash effect when restoring shields. Decreased cooldown with each Level Up!",
+    "MappingID": "RookGecko_Variant_Cursed",
+    "Parent": "ExtractableRelic:esd_rookgeckosprite",
+    "Rarity": "Legendary",
+    "SpriteDex": 12,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7ms/content/spritedefinitions/rookgecko/esd_rookgeckosprite_variant_cursed.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_RookGecko_Cursed.png"
+    }
+  },
+  "ExtractableRelic:esd_rookgeckosprite_variant_jeweled": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_RookGeckoSprite_Variant_Jeweled",
+    "ItemName": "Fortune Lil\u0027 Uzi Vert Jr.",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_rookgecko",
+      "PlayerAugment:paid_spriteboons_variant_jeweled"
+    ],
+    "Generation": "Ch7MS",
+    "ItemDescription": "Generates a Chug Splash effect when restoring shields. Decreased cooldown with each Level Up!",
+    "MappingID": "RookGecko_Variant_Jeweled",
+    "Parent": "ExtractableRelic:esd_rookgeckosprite",
+    "Rarity": "Legendary",
+    "SpriteDex": 12,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7ms/content/spritedefinitions/rookgecko/esd_rookgeckosprite_variant_jeweled.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_RookGecko_Jeweled.png"
     }
   },
   "ExtractableRelic:esd_sevensprite": {
@@ -5433,6 +5979,114 @@
       "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_Fire_Quack_ui.png"
     }
   },
+  "ExtractableRelic:esd_squibblysprite": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_SquibblySprite",
+    "ItemName": "Lil\u0027 Squibbly",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_squibbly"
+    ],
+    "Generation": "Ch7MS",
+    "ItemDescription": "Jumping into a fishing hole fishes it and gives some bonus loot. Get more loot as you level up.",
+    "MappingID": "Squibbly",
+    "Rarity": "Epic",
+    "SpriteDex": 8,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7ms/content/spritedefinitions/squibbly/esd_squibblysprite.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_SquibblySprite.png"
+    }
+  },
+  "ExtractableRelic:esd_squibblysprite_variant_a": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_SquibblySprite_Variant_A",
+    "ItemName": "Lil\u0027 Squibbly",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_squibbly"
+    ],
+    "Generation": "Ch7MS",
+    "ItemDescription": "Jumping into a fishing hole fishes it and gives some bonus loot. Get more loot as you level up.",
+    "MappingID": "Squibbly_Variant_A",
+    "Parent": "ExtractableRelic:esd_squibblysprite",
+    "Rarity": "Epic",
+    "SpriteDex": 8,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7ms/content/spritedefinitions/squibbly/esd_squibblysprite_variant_a.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_SquibblySprite.png"
+    }
+  },
+  "ExtractableRelic:esd_squibblysprite_variant_cursed": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_SquibblySprite_Variant_Cursed",
+    "ItemName": "Cursed Lil\u0027 Squibbly",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_squibbly",
+      "PlayerAugment:paid_spriteboons_variant_cursed"
+    ],
+    "Generation": "Ch7MS",
+    "ItemDescription": "Jumping into a fishing hole fishes it and gives some bonus loot. Get more loot as you level up.",
+    "MappingID": "Squibbly_Variant_Cursed",
+    "Parent": "ExtractableRelic:esd_squibblysprite",
+    "Rarity": "Epic",
+    "SpriteDex": 8,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7ms/content/spritedefinitions/squibbly/esd_squibblysprite_variant_cursed.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_SquibblySprite_Cursed.png"
+    }
+  },
+  "ExtractableRelic:esd_squibblysprite_variant_jeweled": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_SquibblySprite_Variant_Jeweled",
+    "ItemName": "Fortune Lil\u0027 Squibbly",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_squibbly",
+      "PlayerAugment:paid_spriteboons_variant_jeweled"
+    ],
+    "Generation": "Ch7MS",
+    "ItemDescription": "Jumping into a fishing hole fishes it and gives some bonus loot. Get more loot as you level up.",
+    "MappingID": "Squibbly_Variant_Jeweled",
+    "Parent": "ExtractableRelic:esd_squibblysprite",
+    "Rarity": "Epic",
+    "SpriteDex": 8,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7ms/content/spritedefinitions/squibbly/esd_squibblysprite_variant_jeweled.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_SquibblySprite_Jeweled.png"
+    }
+  },
+  "ExtractableRelic:esd_starlightsprite": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_StarLightSprite",
+    "ItemName": "Sweet Dreams",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_starlight"
+    ],
+    "Generation": "Ch7MS",
+    "ItemDescription": "Grants a random item at each level, exploding with Mythic loot at Max Level. Loot value increases at each Level Up!",
+    "MappingID": "StarLight",
+    "Rarity": "Mythic",
+    "SpriteDex": 16,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7ms/content/spritedefinitions/starlight/esd_starlightsprite.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_StarLight.png"
+    }
+  },
+  "ExtractableRelic:esd_starlightsprite_variant_a": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_StarLightSprite_Variant_A",
+    "ItemName": "Sweet Dreams",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_starlight"
+    ],
+    "Generation": "Ch7MS",
+    "ItemDescription": "Grants a random item at each level, exploding with Mythic loot at Max Level. Loot value increases at each Level Up!",
+    "MappingID": "StarLight_Variant_A",
+    "Parent": "ExtractableRelic:esd_starlightsprite",
+    "Rarity": "Mythic",
+    "SpriteDex": 16,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7ms/content/spritedefinitions/starlight/esd_starlightsprite_variant_a.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_StarLight.png"
+    }
+  },
   "ExtractableRelic:esd_stormscoutsprite": {
     "Type": "ExtractableRelic",
     "Name": "ESD_StormScoutSprite",
@@ -5567,6 +6221,225 @@
     "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/stormscout/esd_stormscoutsprite_variant_tricktreat.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_StormScout_TrickTreat.png"
+    }
+  },
+  "ExtractableRelic:esd_treasurechestsprite": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_TreasureChestSprite",
+    "ItemName": "Chester",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_treasurechest"
+    ],
+    "Generation": "Ch7MS",
+    "ItemDescription": "Grants a chance to spawn extra loot from Treasure Chests and nullifies fall damage. Increased chance of spawning an extra loot item with each Level Up!",
+    "MappingID": "TreasureChest",
+    "Rarity": "Epic",
+    "SpriteDex": 5,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7ms/content/spritedefinitions/treasurechest/esd_treasurechestsprite.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_TreasureChest.png"
+    }
+  },
+  "ExtractableRelic:esd_treasurechestsprite_variant_a": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_TreasureChestSprite_Variant_A",
+    "ItemName": "Chester",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_treasurechest"
+    ],
+    "Generation": "Ch7MS",
+    "ItemDescription": "Grants a chance to spawn extra loot from Treasure Chests and nullifies fall damage. Increased chance of spawning an extra loot item with each Level Up!",
+    "MappingID": "TreasureChest_Variant_A",
+    "Parent": "ExtractableRelic:esd_treasurechestsprite",
+    "Rarity": "Epic",
+    "SpriteDex": 5,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7ms/content/spritedefinitions/treasurechest/esd_treasurechestsprite_variant_a.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_TreasureChest.png"
+    }
+  },
+  "ExtractableRelic:esd_treasurechestsprite_variant_cursed": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_TreasureChestSprite_Variant_Cursed",
+    "ItemName": "Cursed Chester",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_treasurechest",
+      "PlayerAugment:paid_spriteboons_variant_cursed"
+    ],
+    "Generation": "Ch7MS",
+    "ItemDescription": "Grants a chance to spawn extra loot from Treasure Chests and nullifies fall damage. Increased chance of spawning an extra loot item with each Level Up!",
+    "MappingID": "TreasureChest_Variant_Cursed",
+    "Parent": "ExtractableRelic:esd_treasurechestsprite",
+    "Rarity": "Epic",
+    "SpriteDex": 5,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7ms/content/spritedefinitions/treasurechest/esd_treasurechestsprite_variant_cursed.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_TreasureChest_Cursed.png"
+    }
+  },
+  "ExtractableRelic:esd_treasurechestsprite_variant_jeweled": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_TreasureChestSprite_Variant_Jeweled",
+    "ItemName": "Fortune Chester",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_treasurechest",
+      "PlayerAugment:paid_spriteboons_variant_jeweled"
+    ],
+    "Generation": "Ch7MS",
+    "ItemDescription": "Grants a chance to spawn extra loot from Treasure Chests and nullifies fall damage. Increased chance of spawning an extra loot item with each Level Up!",
+    "MappingID": "TreasureChest_Variant_Jeweled",
+    "Parent": "ExtractableRelic:esd_treasurechestsprite",
+    "Rarity": "Epic",
+    "SpriteDex": 5,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7ms/content/spritedefinitions/treasurechest/esd_treasurechestsprite_variant_jeweled.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_TreasureChest_Jeweled.png"
+    }
+  },
+  "ExtractableRelic:esd_treasuremapsprite": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_TreasureMapSprite",
+    "ItemName": "Exmarks",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_treasuremap"
+    ],
+    "Generation": "Ch7MS",
+    "ItemDescription": "Reveals Treasure Maps and Wanted Posters. Spawns a Treasure Map at Max Level!",
+    "MappingID": "TreasureMap",
+    "Rarity": "Epic",
+    "SpriteDex": 7,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7ms/content/spritedefinitions/treasuremap/esd_treasuremapsprite.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_TreasureMap.png"
+    }
+  },
+  "ExtractableRelic:esd_treasuremapsprite_variant_a": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_TreasureMapSprite_Variant_A",
+    "ItemName": "Exmarks",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_treasuremap"
+    ],
+    "Generation": "Ch7MS",
+    "ItemDescription": "Reveals Treasure Maps and Wanted Posters. Spawns a Treasure Map at Max Level!",
+    "MappingID": "TreasureMap_Variant_A",
+    "Parent": "ExtractableRelic:esd_treasuremapsprite",
+    "Rarity": "Epic",
+    "SpriteDex": 7,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7ms/content/spritedefinitions/treasuremap/esd_treasuremapsprite_variant_a.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_TreasureMap.png"
+    }
+  },
+  "ExtractableRelic:esd_treasuremapsprite_variant_cursed": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_TreasureMapSprite_Variant_Cursed",
+    "ItemName": "Cursed Exmarks",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_treasuremap",
+      "PlayerAugment:paid_spriteboons_variant_cursed"
+    ],
+    "Generation": "Ch7MS",
+    "ItemDescription": "Reveals Treasure Maps and Wanted Posters. Spawns a Treasure Map at Max Level!",
+    "MappingID": "TreasureMap_Variant_Cursed",
+    "Parent": "ExtractableRelic:esd_treasuremapsprite",
+    "Rarity": "Epic",
+    "SpriteDex": 7,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7ms/content/spritedefinitions/treasuremap/esd_treasuremapsprite_variant_cursed.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_TreasureMap_Cursed.png"
+    }
+  },
+  "ExtractableRelic:esd_treasuremapsprite_variant_jeweled": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_TreasureMapSprite_Variant_Jeweled",
+    "ItemName": "Fortune Exmarks",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_treasuremap",
+      "PlayerAugment:paid_spriteboons_variant_jeweled"
+    ],
+    "Generation": "Ch7MS",
+    "ItemDescription": "Reveals Treasure Maps and Wanted Posters. Spawns a Treasure Map at Max Level!",
+    "MappingID": "TreasureMap_Variant_Jeweled",
+    "Parent": "ExtractableRelic:esd_treasuremapsprite",
+    "Rarity": "Epic",
+    "SpriteDex": 7,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7ms/content/spritedefinitions/treasuremap/esd_treasuremapsprite_variant_jeweled.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_TreasureMap_Jeweled.png"
+    }
+  },
+  "ExtractableRelic:esd_unbotheredfishsprite": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_UnbotheredFishSprite",
+    "ItemName": "Kelper",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_unbotheredfish"
+    ],
+    "Generation": "Ch7MS",
+    "ItemDescription": "Restores health over time when in water. Increased amount of health with each Level Up!",
+    "MappingID": "UnbotheredFish",
+    "Rarity": "Epic",
+    "SpriteDex": 6,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7ms/content/spritedefinitions/unbotheredfish/esd_unbotheredfishsprite.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_UnbotheredFish.png"
+    }
+  },
+  "ExtractableRelic:esd_unbotheredfishsprite_variant_a": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_UnbotheredFishSprite_Variant_A",
+    "ItemName": "Kelper",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_unbotheredfish"
+    ],
+    "Generation": "Ch7MS",
+    "ItemDescription": "Restores health over time when in water. Increased amount of health with each Level Up!",
+    "MappingID": "UnbotheredFish_Variant_A",
+    "Parent": "ExtractableRelic:esd_unbotheredfishsprite",
+    "Rarity": "Epic",
+    "SpriteDex": 6,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7ms/content/spritedefinitions/unbotheredfish/esd_unbotheredfishsprite_variant_a.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_UnbotheredFish.png"
+    }
+  },
+  "ExtractableRelic:esd_unbotheredfishsprite_variant_cursed": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_UnbotheredFishSprite_Variant_Cursed",
+    "ItemName": "Cursed Kelper",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_unbotheredfish",
+      "PlayerAugment:paid_spriteboons_variant_cursed"
+    ],
+    "Generation": "Ch7MS",
+    "ItemDescription": "Restores health over time when in water. Increased amount of health with each Level Up!",
+    "MappingID": "UnbotheredFish_Variant_Cursed",
+    "Parent": "ExtractableRelic:esd_unbotheredfishsprite",
+    "Rarity": "Epic",
+    "SpriteDex": 6,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7ms/content/spritedefinitions/unbotheredfish/esd_unbotheredfishsprite_variant_cursed.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_UnbotheredFish_Cursed.png"
+    }
+  },
+  "ExtractableRelic:esd_unbotheredfishsprite_variant_jeweled": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_UnbotheredFishSprite_Variant_Jeweled",
+    "ItemName": "Fortune Kelper",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_unbotheredfish",
+      "PlayerAugment:paid_spriteboons_variant_jeweled"
+    ],
+    "Generation": "Ch7MS",
+    "ItemDescription": "Restores health over time when in water. Increased amount of health with each Level Up!",
+    "MappingID": "UnbotheredFish_Variant_Jeweled",
+    "Parent": "ExtractableRelic:esd_unbotheredfishsprite",
+    "Rarity": "Epic",
+    "SpriteDex": 6,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7ms/content/spritedefinitions/unbotheredfish/esd_unbotheredfishsprite_variant_jeweled.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_UnbotheredFish_Jeweled.png"
     }
   },
   "ExtractableRelic:esd_water": {

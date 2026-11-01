@@ -48,6 +48,14 @@
       ],
       "questlines": [
         {
+          "eventFlag": "EventFlag.STWMiniBoss",
+          "description": "We're getting strange readings from the Rifts...",
+          "color": "#ea5a53",
+          "keyItems": [
+            "Hero:hid_commando_048_darkminion_sr_t01"
+          ]
+        },
+        {
           "eventFlag": "EventFlag.Blockbuster2018",
           "description": "Ray has gone missing. Investigate the comet and gear up to recruit a team of superheroes. Find Ray and bring her back home!",
           "color": "#545454",
@@ -694,6 +702,14 @@
         ]
       ],
       "questlines": [
+        {
+          "eventFlag": "EventFlag.STWMiniBoss",
+          "description": "We're getting strange readings from the Rifts...",
+          "color": "#ea5a53",
+          "keyItems": [
+            "Hero:hid_commando_048_darkminion_sr_t01"
+          ]
+        },
         {
           "eventFlag": "EventFlag.Phoenix.Fortnitemares.Clip",
           "description": "A nauseating spell in Hexylvania. A gunsmith haunted by a figure from her past. Help Homebase dispel the curse before it's too late!",

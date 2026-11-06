@@ -1,0 +1,226 @@
+{
+  "colors": {
+    "Standard": ["#0073ff", "#e600c3e3", "#aa00ffd4", "#00eaff8f"],
+    "Silver": ["#ababab", "#e6e6e6e3", "#abababd4", "#59595971"],
+    "Gold": ["#ab8c00", "#e6b80081", "#aba500d4", "#b5b50071"],
+    "PinataMiniRewardPack": ["#b82c2c", "#00fffb9c", "#aba500e2", "#ff5c5ce2"],
+    "PinataAnniversaryPack": ["#80ffff", "#f1ff96", "#87ff87", "#ff5cec"],
+    "PinataArtDecoPack": ["#000b3d", "#f2ffa1", "#ebff66", "#e6ff45"],
+    "PinataBlockBusterPack": ["#610000", "#a10000", "#0000008d", "#b013138e"],
+    "PinataEightiesPack": ["#ff0099", "#0015ff", "#ff0004b3", "#6bd8ffaa"],
+    "PinataFlemingPack": ["#1a1a1a", "#6bd8ff", "#ff00d5", "#000000"],
+    "PinataFoundersPack": ["#ff8800", "#00b2ff", "#f6ff52", "#ff8400"],
+    "PinataHalloweenPack": ["#38002e", "#000000", "#ff8400ac", "#f6ff52ba"],
+    "PinataRetroSciFiEventPack": [
+      "#00ccff",
+      "#00ccff",
+      "#00000059",
+      "#ffd000c1"
+    ],
+    "PinataSpringEventPack": ["#ff0000", "#1eff00c1", "#4f3100df", "#eeff00a1"],
+    "PinataWinterEventPack2019": [
+      "#00eeff",
+      "#00eeff",
+      "#ffffffb6",
+      "#00aaffcd"
+    ],
+    "PinataYarrEventPack": ["#00ff15", "#00ff15", "#ffd900", "#00f7ff"]
+  },
+  "contents": {
+    "CardPack:cardpack_event_persistent_fortnitemares": [
+      "Schematic:sid_edged_scythe_blackmetal_vr_ore_t01",
+      "Schematic:sid_piercing_spear_blackmetal_r_ore_t01",
+      "Schematic:sid_assault_singleshot_blackmetal_r_ore_t01",
+      "Schematic:sid_shotgun_burst_blackmetal_r_ore_t01",
+      "Schematic:sid_sniper_blackmetal_vr_ore_t01",
+      "Schematic:sid_sniper_blackmetal_bow_sr_ore_t01",
+
+      "Hero:hid_outlander_zonepistolhw_vr_t01",
+      "Hero:hid_constructor_basehyperhw_vr_t01",
+      "Hero:hid_commando_007hw_vr_t01",
+      "Hero:hid_constructor_007hw_vr_t01",
+      "Hero:hid_ninja_slashbreathhw_vr_t01",
+      "Hero:hid_commando_gunheadshothw_vr_t01",
+      "Hero:hid_commando_gunheadshothw_rs01_sr_t01",
+      "Hero:hid_ninja_starsrainhw_vr_t01",
+
+      "Worker:worker_halloween_husk_c_t01",
+      "Worker:worker_halloween_husk_uc_t01",
+      "Worker:worker_halloween_husk_r_t01",
+      "Worker:worker_halloween_husk_vr_t01",
+
+      "Worker:worker_halloween_husky_c_t01",
+      "Worker:worker_halloween_husky_uc_t01",
+      "Worker:worker_halloween_husky_r_t01",
+      "Worker:worker_halloween_husky_vr_t01",
+      
+      "Worker:worker_halloween_lobber_r_t01",
+      "Worker:worker_halloween_lobber_vr_t01",
+      "Worker:worker_halloween_lobber_sr_t01",
+      
+      "Worker:worker_halloween_troll_vr_t01",
+      "Worker:worker_halloween_troll_sr_t01",
+      
+      "Worker:worker_halloween_smasher_sr_t01"
+    ],
+    "CardPack:cardpack_event_persistent_holiday": [
+        "Schematic:sid_edged_airplane_axe_vr_ore_t01",
+        "Schematic:sid_blunt_boxing_glove_club_r_ore_t01",
+        "Schematic:sid_assault_snowball_vr_ore_t01",
+        "Schematic:sid_shotgun_winter_r_ore_t01",
+        "Schematic:sid_sniper_bbgun_r_ore_t01",
+        
+        "Hero:hid_ninja_013_r_t01",
+        "Hero:hid_commando_013_r_t01",
+        "Hero:hid_outlander_013_vr_t01",
+        "Hero:hid_commando_023_vr_t01",
+        "Hero:hid_commando_024_vr_t01",
+        "Hero:hid_constructor_013_uc_t01"
+    ],
+    "CardPack:cardpack_event_persistent_lunar": [
+        "Schematic:sid_piercing_spear_dragon_vr_ore_t01",
+        "Schematic:sid_edged_sword_dragon_r_ore_t01",
+        "Schematic:sid_shotgun_dragon_drum_vr_ore_t01",
+        "Schematic:sid_shotgun_dragon_vr_ore_t01",
+        "Schematic:sid_sniper_dragon_r_ore_t01",
+        "Schematic:sid_launcher_rocket_dragon_vr_ore_t01",
+        "Schematic:sid_assault_dragon_r_ore_t01",
+
+        "Hero:hid_commando_014_vr_t01",
+        "Hero:hid_commando_014_m_sr_t01",
+        "Hero:hid_constructor_014_r_t01",
+        "Hero:hid_constructor_014_f_sr_t01",
+        "Hero:hid_ninja_014_uc_t01",
+        "Hero:hid_ninja_014_f_sr_t01",
+        "Hero:hid_outlander_014_r_t01",
+        "Hero:hid_outlander_014_m_sr_t01"
+    ],
+    "CardPack:cardpack_event_persistent_pirate": [
+        "Schematic:sid_blunt_hammer_flintlock_vr_ore_t01",
+        "Schematic:sid_edged_scythe_flintlock_vr_ore_t01",
+        "Schematic:sid_blunt_heavy_flintlock_r_ore_t01",
+        "Schematic:sid_shotgun_break_flintlock_vr_ore_t01",
+        "Schematic:sid_pistol_flintlock_r_ore_t01",
+        "Schematic:sid_sniper_flintlock_r_ore_t01",
+        "Schematic:sid_sniper_flintlock_scope_vr_ore_t01",
+        
+        "Hero:hid_commando_041_pirate_02_br_vr_t01",
+        "Hero:hid_outlander_025_pirateoutlander_vr_t01",
+        "Hero:hid_constructor_024_pirateconstructor_vr_t01",
+        "Hero:hid_ninja_025_pirateninja_vr_t01"
+    ],
+    "CardPack:cardpack_event_persistent_rad": [
+        "Schematic:sid_piercing_spear_boombox_vr_ore_t01",
+        "Schematic:sid_blunt_light_boombox_r_ore_t01",
+        "Schematic:sid_assault_boombox_r_ore_t01",
+        "Schematic:sid_sniper_boombox_vr_ore_t01",
+        "Schematic:sid_shotgun_boombox_break_r_ore_t01",
+
+        "Hero:hid_commando_031_radsoldier_vr_t01",
+        "Hero:hid_outlander_030_radoutlander_vr_t01",
+        "Hero:hid_constructor_030_radconstructor_vr_t01",
+        "Hero:hid_ninja_031_radninja_vr_t01"
+    ],
+    "CardPack:cardpack_event_season12": [
+        "Schematic:sid_assault_fleming_vr_ore_t01",
+        "Schematic:sid_shotgun_fleming_vr_ore_t01",
+        "Schematic:sid_smg_fleming_sidefeed_vr_ore_t01",
+        "Schematic:sid_smg_fleming_burstfire_vr_ore_t01",
+        "Schematic:sid_pistol_fleming_tactical_vr_ore_t01",
+        "Schematic:sid_pistol_fleming_scoped_vr_ore_t01",
+        "Schematic:sid_sniper_fleming_vr_ore_t01",
+        "Schematic:sid_sniper_fleming_bow_sr_ore_t01",
+        "Schematic:sid_explosive_fleming_sr_ore_t01",
+
+        "Hero:hid_ninja_myth03_sr_t01",
+        "Hero:hid_outlander_myth03_sr_t01",
+        "Hero:hid_constructor_026_bombsquadconstructor_vr_t01",
+        "Hero:hid_constructor_033_villain_fleming_vr_t01",
+        "Hero:hid_outlander_034_period_fleming_vr_t01"
+    ],
+    "CardPack:cardpack_event_2019_military": [
+        "Schematic:sid_assault_military_surgical_vr_ore_t01",
+        "Schematic:sid_assault_military_silenced_vr_ore_t01",
+        "Schematic:sid_assault_military_burst_vr_ore_t01",
+        "Schematic:sid_assault_lmg_military_vr_ore_t01",
+        "Schematic:sid_shotgun_military_vr_ore_t01",
+        "Schematic:sid_assault_smg_unsilenced_military_r_ore_t01",
+        "Schematic:sid_assault_military_auto_vr_ore_t01",
+        "Schematic:sid_pistol_silenced_military_vr_ore_t01",
+        "Schematic:sid_pistol_handcannon_de_vr_ore_t01",
+        "Schematic:sid_sniper_military_vr_ore_t01",
+        "Schematic:sid_sniper_crossbow_military_vr_ore_t01",
+        "Schematic:sid_explosive_launcher_military_vr_ore_t01",
+        
+        "Hero:hid_outlander_016_f_v1_sr_t01",
+        "Hero:hid_ninja_016_f_v1_sr_t01",
+        "Hero:hid_constructor_016_f_v1_vr_t01",
+        "Hero:hid_commando_016_f_v1_vr_t01",
+        "Hero:hid_ninja_016_m_v1_vr_t01",
+        "Hero:hid_constructor_016_m_v1_sr_t01"
+    ],
+    "CardPack:cardpack_event_2019_season11_ww": [
+        "Schematic:sid_piercing_spear_steampunk_sr_ore_t01",
+        "Schematic:sid_edged_scythe_steampunk_vr_ore_t01",
+        "Schematic:sid_blunt_hammer_steampunk_vr_ore_t01",
+        "Schematic:sid_assault_semiauto_steampunk_vr_ore_t01",
+        "Schematic:sid_assault_steampunk_drum_sr_ore_t01",
+        "Schematic:sid_shotgun_steampunk_vr_ore_t01",
+        "Schematic:sid_pistol_revolver_singleaction_sr_ore_t01",
+        "Schematic:sid_sniper_steampunk_vr_ore_t01",
+        "Schematic:sid_explosive_steampunk_sr_ore_t01",
+
+        "Hero:hid_commando_017_f_v1_r_t01",
+        "Hero:hid_ninja_017_m_v1_r_t01",
+        "Hero:hid_commando_018_sr_t01",
+        "Hero:hid_constructor_017_f_v1_r_t01",
+        "Hero:hid_outlander_017_m_v1_vr_t01"
+    ],
+    "CardPack:cardpack_event_2019_season9": [
+        "Schematic:sid_explosive_retroscifi_sr_ore_t01",
+        "Schematic:sid_shotgun_retroscifi_sr_ore_t01",
+        "Schematic:sid_blunt_hammer_retroscifi_vr_ore_t01",
+        "Schematic:sid_blunt_light_retroscifi_vr_ore_t01",
+        "Schematic:sid_piercing_spear_retroscifi_vr_ore_t01",
+        "Schematic:sid_pistol_retroscifi_vr_ore_t01",
+        "Schematic:sid_sniper_retroscifi_vr_ore_t01",
+        "Schematic:sid_pistol_auto_retroscifi_vr_ore_t01",
+        "Schematic:sid_assault_burst_retroscifi_vr_ore_t01",
+
+        "Hero:hid_outlander_028_retroscifistoryoutlander_sr_t01",
+        "Hero:hid_outlander_029_retroscifioutlander_vr_t01",
+        "Hero:hid_constructor_028_retroscificonstructor_vr_t01",
+        "Hero:hid_commando_030_retroscifisoldier_vr_t01",
+        "Hero:hid_ninja_030_retroscifininja_vr_t01"
+    ],
+    "CardPack:cardpack_event_2020_artdeco": [
+        "Schematic:sid_edged_sword_artdeco_vr_ore_t01",
+        "Schematic:sid_edged_axe_artdeco_vr_ore_t01",
+        "Schematic:sid_blunt_hammer_artdeco_vr_ore_t01",
+        "Schematic:sid_assault_artdeco_vr_ore_t01",
+        "Schematic:sid_shotgun_artdeco_break_vr_ore_t01",
+        "Schematic:sid_shotgun_artdeco_vr_ore_t01",
+        "Schematic:sid_pistol_artdeco_vr_ore_t01",
+        "Schematic:sid_sniper_artdeco_vr_ore_t01",
+        "Schematic:sid_explosive_artdeco_vr_ore_t01",
+        
+        "Hero:hid_commando_044_gumshoe_dark_vr_t01",
+        "Hero:hid_constructor_038_gumshoe_vr_t01",
+        "Hero:hid_ninja_041_deco_vr_t01",
+        "Hero:hid_outlander_039_female_gumshoe_vr_t01"
+    ],
+    "CardPack:cardpack_event_founders": [
+        "Schematic:sid_blunt_hammer_heavy_founders_vr_ore_t01",
+        "Schematic:sid_edged_axe_medium_founders_vr_ore_t01",
+        "Schematic:sid_edged_sword_heavy_founders_vr_ore_t01",
+        "Schematic:sid_edged_sword_light_founders_vr_ore_t01",
+
+        "Schematic:sid_assault_semiauto_founders_vr_ore_t01",
+        "Schematic:sid_shotgun_auto_founders_vr_ore_t01",
+        "Schematic:sid_pistol_handcannon_founders_vr_ore_t01",
+        "Schematic:sid_pistol_semiauto_founders_vr_ore_t01",
+        "Schematic:sid_sniper_standard_founders_vr_ore_t01",
+        "Schematic:sid_sniper_auto_founders_vr_ore_t01"
+    ]
+  }
+}

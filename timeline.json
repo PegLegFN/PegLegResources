@@ -8,7 +8,7 @@
       "venturesModifiers": [
         "GameplayModifier:gm_phoenix_escalation"
       ],
-      "llamaType": "CardPack:cardpack_event_2019_spring",
+      "llamaType": "CardPack:cardpack_event_persistent_lunar",
       "style": "temparate",
       "color": "#ff734d",
       "eventShop": [
@@ -315,7 +315,7 @@
       "venturesModifiers": [
         "GameplayModifier:gm_phoenix_ragemeter"
       ],
-      "llamaType": "CardPack:cardpack_event_2019_season10",
+      "llamaType": "CardPack:cardpack_event_persistent_rad",
       "style": "arid",
       "color": "#ffe666",
       "eventShop": [
@@ -657,7 +657,7 @@
       "venturesModifiers": [
         "GameplayModifier:gm_phoenix_closequarters"
       ],
-      "llamaType": "CardPack:cardpack_event_2019_season11",
+      "llamaType": "CardPack:cardpack_event_persistent_fortnitemares",
       "style": "swamp",
       "color": "#77009c",
       "eventShop": [

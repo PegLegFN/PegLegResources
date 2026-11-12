@@ -20009,12 +20009,18 @@
       "Granted.Ability.Commando.GoinCommando"
     ],
     "ItemDescription": "\u0022This may come as a shock to you.\u0022 - Powerhouse",
+    "LevelToXPRow": "VeryRare",
     "Rarity": "Epic",
     "RarityUpRecipe": {
       "Cost": {
         "AccountResource:reagent_evolverarity_sr": 100
       },
       "Result": "Hero:hid_commando_038_shock_wave_sr_t01"
+    },
+    "RecycleRecipe": {
+      "Amount": 100,
+      "Cost": {},
+      "Result": "AccountResource:reagent_people"
     },
     "Tier": 1,
     "TierUpRecipe": {
@@ -20062,6 +20068,7 @@
       "Granted.Ability.Commando.GoinCommando"
     ],
     "ItemDescription": "\u0022This may come as a shock to you.\u0022 - Powerhouse",
+    "LevelToXPRow": "VeryRare",
     "Rarity": "Epic",
     "RarityUpRecipe": {
       "Cost": {
@@ -20070,6 +20077,11 @@
         "AccountResource:reagent_people": 25
       },
       "Result": "Hero:hid_commando_038_shock_wave_sr_t02"
+    },
+    "RecycleRecipe": {
+      "Amount": 100,
+      "Cost": {},
+      "Result": "AccountResource:reagent_people"
     },
     "Tier": 2,
     "TierUpRecipe": {
@@ -20118,6 +20130,7 @@
       "Granted.Ability.Commando.GoinCommando"
     ],
     "ItemDescription": "\u0022This may come as a shock to you.\u0022 - Powerhouse",
+    "LevelToXPRow": "VeryRare",
     "Rarity": "Epic",
     "RarityUpRecipe": {
       "Cost": {
@@ -20127,6 +20140,11 @@
         "AccountResource:reagent_c_t02": 2
       },
       "Result": "Hero:hid_commando_038_shock_wave_sr_t03"
+    },
+    "RecycleRecipe": {
+      "Amount": 100,
+      "Cost": {},
+      "Result": "AccountResource:reagent_people"
     },
     "Tier": 3,
     "TierUpRecipe": {
@@ -20176,6 +20194,7 @@
       "Granted.Ability.Commando.GoinCommando"
     ],
     "ItemDescription": "\u0022This may come as a shock to you.\u0022 - Powerhouse",
+    "LevelToXPRow": "VeryRare",
     "Rarity": "Epic",
     "RarityUpRecipe": {
       "Cost": {
@@ -20186,6 +20205,11 @@
         "AccountResource:reagent_c_t03": 2
       },
       "Result": "Hero:hid_commando_038_shock_wave_sr_t04"
+    },
+    "RecycleRecipe": {
+      "Amount": 100,
+      "Cost": {},
+      "Result": "AccountResource:reagent_people"
     },
     "Tier": 4,
     "TierUpRecipe": {
@@ -20236,6 +20260,7 @@
       "Granted.Ability.Commando.GoinCommando"
     ],
     "ItemDescription": "\u0022This may come as a shock to you.\u0022 - Powerhouse",
+    "LevelToXPRow": "VeryRare",
     "PromotionCosts": [
       {
         "AccountResource:reagent_promotion_heroes": 1,
@@ -20269,6 +20294,11 @@
         "AccountResource:reagent_c_t04": 2
       },
       "Result": "Hero:hid_commando_038_shock_wave_sr_t05"
+    },
+    "RecycleRecipe": {
+      "Amount": 100,
+      "Cost": {},
+      "Result": "AccountResource:reagent_people"
     },
     "Tier": 5,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/heroes/commando/itemdefinition/hid_commando_038_shock_wave_vr_t05.uasset",
@@ -51235,12 +51265,18 @@
       "Granted.Ability.Constructor.Decoy"
     ],
     "ItemDescription": "\u0022If I can\u0027t build it, it can\u0027t be built.\u0022 - Machinist Mina",
+    "LevelToXPRow": "VeryRare",
     "Rarity": "Epic",
     "RarityUpRecipe": {
       "Cost": {
         "AccountResource:reagent_evolverarity_sr": 100
       },
       "Result": "Hero:hid_constructor_034_mechstructor_sr_t01"
+    },
+    "RecycleRecipe": {
+      "Amount": 100,
+      "Cost": {},
+      "Result": "AccountResource:reagent_people"
     },
     "Tier": 1,
     "TierUpRecipe": {
@@ -51282,6 +51318,7 @@
       "Granted.Ability.Constructor.Decoy"
     ],
     "ItemDescription": "\u0022If I can\u0027t build it, it can\u0027t be built.\u0022 - Machinist Mina",
+    "LevelToXPRow": "VeryRare",
     "Rarity": "Epic",
     "RarityUpRecipe": {
       "Cost": {
@@ -51290,6 +51327,11 @@
         "AccountResource:reagent_people": 25
       },
       "Result": "Hero:hid_constructor_034_mechstructor_sr_t02"
+    },
+    "RecycleRecipe": {
+      "Amount": 100,
+      "Cost": {},
+      "Result": "AccountResource:reagent_people"
     },
     "Tier": 2,
     "TierUpRecipe": {
@@ -51332,6 +51374,7 @@
       "Granted.Ability.Constructor.Decoy"
     ],
     "ItemDescription": "\u0022If I can\u0027t build it, it can\u0027t be built.\u0022 - Machinist Mina",
+    "LevelToXPRow": "VeryRare",
     "Rarity": "Epic",
     "RarityUpRecipe": {
       "Cost": {
@@ -51341,6 +51384,11 @@
         "AccountResource:reagent_c_t02": 2
       },
       "Result": "Hero:hid_constructor_034_mechstructor_sr_t03"
+    },
+    "RecycleRecipe": {
+      "Amount": 100,
+      "Cost": {},
+      "Result": "AccountResource:reagent_people"
     },
     "Tier": 3,
     "TierUpRecipe": {
@@ -51384,6 +51432,7 @@
       "Granted.Ability.Constructor.Decoy"
     ],
     "ItemDescription": "\u0022If I can\u0027t build it, it can\u0027t be built.\u0022 - Machinist Mina",
+    "LevelToXPRow": "VeryRare",
     "Rarity": "Epic",
     "RarityUpRecipe": {
       "Cost": {
@@ -51394,6 +51443,11 @@
         "AccountResource:reagent_c_t03": 2
       },
       "Result": "Hero:hid_constructor_034_mechstructor_sr_t04"
+    },
+    "RecycleRecipe": {
+      "Amount": 100,
+      "Cost": {},
+      "Result": "AccountResource:reagent_people"
     },
     "Tier": 4,
     "TierUpRecipe": {
@@ -51438,6 +51492,7 @@
       "Granted.Ability.Constructor.Decoy"
     ],
     "ItemDescription": "\u0022If I can\u0027t build it, it can\u0027t be built.\u0022 - Machinist Mina",
+    "LevelToXPRow": "VeryRare",
     "PromotionCosts": [
       {
         "AccountResource:reagent_promotion_heroes": 1,
@@ -51471,6 +51526,11 @@
         "AccountResource:reagent_c_t04": 2
       },
       "Result": "Hero:hid_constructor_034_mechstructor_sr_t05"
+    },
+    "RecycleRecipe": {
+      "Amount": 100,
+      "Cost": {},
+      "Result": "AccountResource:reagent_people"
     },
     "Tier": 5,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/heroes/constructor/itemdefinition/hid_constructor_034_mechstructor_vr_t05.uasset",
@@ -54241,12 +54301,18 @@
       "Granted.Ability.Constructor.Decoy"
     ],
     "ItemDescription": "\u0022Yaaay!\u0022 -Lok",
+    "LevelToXPRow": "VeryRare",
     "Rarity": "Epic",
     "RarityUpRecipe": {
       "Cost": {
         "AccountResource:reagent_evolverarity_sr": 100
       },
       "Result": "Hero:hid_constructor_039_assemble_l_sr_t01"
+    },
+    "RecycleRecipe": {
+      "Amount": 100,
+      "Cost": {},
+      "Result": "AccountResource:reagent_people"
     },
     "Tier": 1,
     "TierUpRecipe": {
@@ -54294,6 +54360,7 @@
       "Granted.Ability.Constructor.Decoy"
     ],
     "ItemDescription": "\u0022Yaaay!\u0022 -Lok",
+    "LevelToXPRow": "VeryRare",
     "Rarity": "Epic",
     "RarityUpRecipe": {
       "Cost": {
@@ -54302,6 +54369,11 @@
         "AccountResource:reagent_people": 25
       },
       "Result": "Hero:hid_constructor_039_assemble_l_sr_t02"
+    },
+    "RecycleRecipe": {
+      "Amount": 100,
+      "Cost": {},
+      "Result": "AccountResource:reagent_people"
     },
     "Tier": 2,
     "TierUpRecipe": {
@@ -54350,6 +54422,7 @@
       "Granted.Ability.Constructor.Decoy"
     ],
     "ItemDescription": "\u0022Yaaay!\u0022 -Lok",
+    "LevelToXPRow": "VeryRare",
     "Rarity": "Epic",
     "RarityUpRecipe": {
       "Cost": {
@@ -54359,6 +54432,11 @@
         "AccountResource:reagent_c_t02": 2
       },
       "Result": "Hero:hid_constructor_039_assemble_l_sr_t03"
+    },
+    "RecycleRecipe": {
+      "Amount": 100,
+      "Cost": {},
+      "Result": "AccountResource:reagent_people"
     },
     "Tier": 3,
     "TierUpRecipe": {
@@ -54408,6 +54486,7 @@
       "Granted.Ability.Constructor.Decoy"
     ],
     "ItemDescription": "\u0022Yaaay!\u0022 -Lok",
+    "LevelToXPRow": "VeryRare",
     "Rarity": "Epic",
     "RarityUpRecipe": {
       "Cost": {
@@ -54418,6 +54497,11 @@
         "AccountResource:reagent_c_t03": 2
       },
       "Result": "Hero:hid_constructor_039_assemble_l_sr_t04"
+    },
+    "RecycleRecipe": {
+      "Amount": 100,
+      "Cost": {},
+      "Result": "AccountResource:reagent_people"
     },
     "Tier": 4,
     "TierUpRecipe": {
@@ -54468,6 +54552,7 @@
       "Granted.Ability.Constructor.Decoy"
     ],
     "ItemDescription": "\u0022Yaaay!\u0022 -Lok",
+    "LevelToXPRow": "VeryRare",
     "PromotionCosts": [
       {
         "AccountResource:reagent_promotion_heroes": 1,
@@ -54501,6 +54586,11 @@
         "AccountResource:reagent_c_t04": 2
       },
       "Result": "Hero:hid_constructor_039_assemble_l_sr_t05"
+    },
+    "RecycleRecipe": {
+      "Amount": 100,
+      "Cost": {},
+      "Result": "AccountResource:reagent_people"
     },
     "Tier": 5,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/heroes/constructor/itemdefinition/hid_constructor_039_assemble_l_vr_t05.uasset",
@@ -54807,12 +54897,18 @@
       "Keyword.BandMember"
     ],
     "ItemDescription": "\u0022I need to get back up in those clouds.\u0022 -Lars",
+    "LevelToXPRow": "VeryRare",
     "Rarity": "Epic",
     "RarityUpRecipe": {
       "Cost": {
         "AccountResource:reagent_evolverarity_sr": 100
       },
       "Result": "Hero:hid_constructor_040_lars_sr_t01"
+    },
+    "RecycleRecipe": {
+      "Amount": 100,
+      "Cost": {},
+      "Result": "AccountResource:reagent_people"
     },
     "Tier": 1,
     "TierUpRecipe": {
@@ -54857,6 +54953,7 @@
       "Keyword.BandMember"
     ],
     "ItemDescription": "\u0022I need to get back up in those clouds.\u0022 -Lars",
+    "LevelToXPRow": "VeryRare",
     "Rarity": "Epic",
     "RarityUpRecipe": {
       "Cost": {
@@ -54865,6 +54962,11 @@
         "AccountResource:reagent_people": 25
       },
       "Result": "Hero:hid_constructor_040_lars_sr_t02"
+    },
+    "RecycleRecipe": {
+      "Amount": 100,
+      "Cost": {},
+      "Result": "AccountResource:reagent_people"
     },
     "Tier": 2,
     "TierUpRecipe": {
@@ -54910,6 +55012,7 @@
       "Keyword.BandMember"
     ],
     "ItemDescription": "\u0022I need to get back up in those clouds.\u0022 -Lars",
+    "LevelToXPRow": "VeryRare",
     "Rarity": "Epic",
     "RarityUpRecipe": {
       "Cost": {
@@ -54919,6 +55022,11 @@
         "AccountResource:reagent_c_t02": 2
       },
       "Result": "Hero:hid_constructor_040_lars_sr_t03"
+    },
+    "RecycleRecipe": {
+      "Amount": 100,
+      "Cost": {},
+      "Result": "AccountResource:reagent_people"
     },
     "Tier": 3,
     "TierUpRecipe": {
@@ -54965,6 +55073,7 @@
       "Keyword.BandMember"
     ],
     "ItemDescription": "\u0022I need to get back up in those clouds.\u0022 -Lars",
+    "LevelToXPRow": "VeryRare",
     "Rarity": "Epic",
     "RarityUpRecipe": {
       "Cost": {
@@ -54975,6 +55084,11 @@
         "AccountResource:reagent_c_t03": 2
       },
       "Result": "Hero:hid_constructor_040_lars_sr_t04"
+    },
+    "RecycleRecipe": {
+      "Amount": 100,
+      "Cost": {},
+      "Result": "AccountResource:reagent_people"
     },
     "Tier": 4,
     "TierUpRecipe": {
@@ -55022,6 +55136,7 @@
       "Keyword.BandMember"
     ],
     "ItemDescription": "\u0022I need to get back up in those clouds.\u0022 -Lars",
+    "LevelToXPRow": "VeryRare",
     "PromotionCosts": [
       {
         "AccountResource:reagent_promotion_heroes": 1,
@@ -55055,6 +55170,11 @@
         "AccountResource:reagent_c_t04": 2
       },
       "Result": "Hero:hid_constructor_040_lars_sr_t05"
+    },
+    "RecycleRecipe": {
+      "Amount": 100,
+      "Cost": {},
+      "Result": "AccountResource:reagent_people"
     },
     "Tier": 5,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/heroes/constructor/itemdefinition/hid_constructor_040_lars_vr_t05.uasset",
@@ -79966,12 +80086,18 @@
       "Granted.Ability.Ninja.CrescentKick"
     ],
     "ItemDescription": "A true warrior can make a weapon from whatever\u0027s at hand.",
+    "LevelToXPRow": "VeryRare",
     "Rarity": "Epic",
     "RarityUpRecipe": {
       "Cost": {
         "AccountResource:reagent_evolverarity_sr": 100
       },
       "Result": "Hero:hid_ninja_037_junk_samurai_sr_t01"
+    },
+    "RecycleRecipe": {
+      "Amount": 100,
+      "Cost": {},
+      "Result": "AccountResource:reagent_people"
     },
     "Tier": 1,
     "TierUpRecipe": {
@@ -80013,6 +80139,7 @@
       "Granted.Ability.Ninja.CrescentKick"
     ],
     "ItemDescription": "A true warrior can make a weapon from whatever\u0027s at hand.",
+    "LevelToXPRow": "VeryRare",
     "Rarity": "Epic",
     "RarityUpRecipe": {
       "Cost": {
@@ -80021,6 +80148,11 @@
         "AccountResource:reagent_people": 25
       },
       "Result": "Hero:hid_ninja_037_junk_samurai_sr_t02"
+    },
+    "RecycleRecipe": {
+      "Amount": 100,
+      "Cost": {},
+      "Result": "AccountResource:reagent_people"
     },
     "Tier": 2,
     "TierUpRecipe": {
@@ -80063,6 +80195,7 @@
       "Granted.Ability.Ninja.CrescentKick"
     ],
     "ItemDescription": "A true warrior can make a weapon from whatever\u0027s at hand.",
+    "LevelToXPRow": "VeryRare",
     "Rarity": "Epic",
     "RarityUpRecipe": {
       "Cost": {
@@ -80072,6 +80205,11 @@
         "AccountResource:reagent_c_t02": 2
       },
       "Result": "Hero:hid_ninja_037_junk_samurai_sr_t03"
+    },
+    "RecycleRecipe": {
+      "Amount": 100,
+      "Cost": {},
+      "Result": "AccountResource:reagent_people"
     },
     "Tier": 3,
     "TierUpRecipe": {
@@ -80115,6 +80253,7 @@
       "Granted.Ability.Ninja.CrescentKick"
     ],
     "ItemDescription": "A true warrior can make a weapon from whatever\u0027s at hand.",
+    "LevelToXPRow": "VeryRare",
     "Rarity": "Epic",
     "RarityUpRecipe": {
       "Cost": {
@@ -80125,6 +80264,11 @@
         "AccountResource:reagent_c_t03": 2
       },
       "Result": "Hero:hid_ninja_037_junk_samurai_sr_t04"
+    },
+    "RecycleRecipe": {
+      "Amount": 100,
+      "Cost": {},
+      "Result": "AccountResource:reagent_people"
     },
     "Tier": 4,
     "TierUpRecipe": {
@@ -80169,6 +80313,7 @@
       "Granted.Ability.Ninja.CrescentKick"
     ],
     "ItemDescription": "A true warrior can make a weapon from whatever\u0027s at hand.",
+    "LevelToXPRow": "VeryRare",
     "PromotionCosts": [
       {
         "AccountResource:reagent_promotion_heroes": 1,
@@ -80202,6 +80347,11 @@
         "AccountResource:reagent_c_t04": 2
       },
       "Result": "Hero:hid_ninja_037_junk_samurai_sr_t05"
+    },
+    "RecycleRecipe": {
+      "Amount": 100,
+      "Cost": {},
+      "Result": "AccountResource:reagent_people"
     },
     "Tier": 5,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/heroes/ninja/itemdefinition/hid_ninja_037_junk_samurai_vr_t05.uasset",
@@ -82846,12 +82996,18 @@
       "Granted.Ability.Ninja.KunaiStorm"
     ],
     "ItemDescription": "\u0022When I\u0027m outside Homebase I malf... I work wrong.\u0022 - Robo-Ray",
+    "LevelToXPRow": "VeryRare",
     "Rarity": "Epic",
     "RarityUpRecipe": {
       "Cost": {
         "AccountResource:reagent_evolverarity_sr": 100
       },
       "Result": "Hero:hid_ninja_042_assembler_sr_t01"
+    },
+    "RecycleRecipe": {
+      "Amount": 100,
+      "Cost": {},
+      "Result": "AccountResource:reagent_people"
     },
     "Tier": 1,
     "TierUpRecipe": {
@@ -82893,6 +83049,7 @@
       "Granted.Ability.Ninja.KunaiStorm"
     ],
     "ItemDescription": "\u0022When I\u0027m outside Homebase I malf... I work wrong.\u0022 - Robo-Ray",
+    "LevelToXPRow": "VeryRare",
     "Rarity": "Epic",
     "RarityUpRecipe": {
       "Cost": {
@@ -82901,6 +83058,11 @@
         "AccountResource:reagent_people": 25
       },
       "Result": "Hero:hid_ninja_042_assembler_sr_t02"
+    },
+    "RecycleRecipe": {
+      "Amount": 100,
+      "Cost": {},
+      "Result": "AccountResource:reagent_people"
     },
     "Tier": 2,
     "TierUpRecipe": {
@@ -82943,6 +83105,7 @@
       "Granted.Ability.Ninja.KunaiStorm"
     ],
     "ItemDescription": "\u0022When I\u0027m outside Homebase I malf... I work wrong.\u0022 - Robo-Ray",
+    "LevelToXPRow": "VeryRare",
     "Rarity": "Epic",
     "RarityUpRecipe": {
       "Cost": {
@@ -82952,6 +83115,11 @@
         "AccountResource:reagent_c_t02": 2
       },
       "Result": "Hero:hid_ninja_042_assembler_sr_t03"
+    },
+    "RecycleRecipe": {
+      "Amount": 100,
+      "Cost": {},
+      "Result": "AccountResource:reagent_people"
     },
     "Tier": 3,
     "TierUpRecipe": {
@@ -82995,6 +83163,7 @@
       "Granted.Ability.Ninja.KunaiStorm"
     ],
     "ItemDescription": "\u0022When I\u0027m outside Homebase I malf... I work wrong.\u0022 - Robo-Ray",
+    "LevelToXPRow": "VeryRare",
     "Rarity": "Epic",
     "RarityUpRecipe": {
       "Cost": {
@@ -83005,6 +83174,11 @@
         "AccountResource:reagent_c_t03": 2
       },
       "Result": "Hero:hid_ninja_042_assembler_sr_t04"
+    },
+    "RecycleRecipe": {
+      "Amount": 100,
+      "Cost": {},
+      "Result": "AccountResource:reagent_people"
     },
     "Tier": 4,
     "TierUpRecipe": {
@@ -83049,6 +83223,7 @@
       "Granted.Ability.Ninja.KunaiStorm"
     ],
     "ItemDescription": "\u0022When I\u0027m outside Homebase I malf... I work wrong.\u0022 - Robo-Ray",
+    "LevelToXPRow": "VeryRare",
     "PromotionCosts": [
       {
         "AccountResource:reagent_promotion_heroes": 1,
@@ -83082,6 +83257,11 @@
         "AccountResource:reagent_c_t04": 2
       },
       "Result": "Hero:hid_ninja_042_assembler_sr_t05"
+    },
+    "RecycleRecipe": {
+      "Amount": 100,
+      "Cost": {},
+      "Result": "AccountResource:reagent_people"
     },
     "Tier": 5,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/heroes/ninja/itemdefinition/hid_ninja_042_assembler_vr_t05.uasset",
@@ -110006,12 +110186,18 @@
       "Granted.Ability.Outlander.PhaseShift"
     ],
     "ItemDescription": "\u0022There\u0027s no time to cuddle.\u0022 - Metal Team Leader",
+    "LevelToXPRow": "VeryRare",
     "Rarity": "Epic",
     "RarityUpRecipe": {
       "Cost": {
         "AccountResource:reagent_evolverarity_sr": 100
       },
       "Result": "Hero:hid_outlander_037_fuzzy_bear_teddy_sr_t01"
+    },
+    "RecycleRecipe": {
+      "Amount": 100,
+      "Cost": {},
+      "Result": "AccountResource:reagent_people"
     },
     "Tier": 1,
     "TierUpRecipe": {
@@ -110060,6 +110246,7 @@
       "Granted.Ability.Outlander.PhaseShift"
     ],
     "ItemDescription": "\u0022There\u0027s no time to cuddle.\u0022 - Metal Team Leader",
+    "LevelToXPRow": "VeryRare",
     "Rarity": "Epic",
     "RarityUpRecipe": {
       "Cost": {
@@ -110068,6 +110255,11 @@
         "AccountResource:reagent_people": 25
       },
       "Result": "Hero:hid_outlander_037_fuzzy_bear_teddy_sr_t02"
+    },
+    "RecycleRecipe": {
+      "Amount": 100,
+      "Cost": {},
+      "Result": "AccountResource:reagent_people"
     },
     "Tier": 2,
     "TierUpRecipe": {
@@ -110117,6 +110309,7 @@
       "Granted.Ability.Outlander.PhaseShift"
     ],
     "ItemDescription": "\u0022There\u0027s no time to cuddle.\u0022 - Metal Team Leader",
+    "LevelToXPRow": "VeryRare",
     "Rarity": "Epic",
     "RarityUpRecipe": {
       "Cost": {
@@ -110126,6 +110319,11 @@
         "AccountResource:reagent_c_t02": 2
       },
       "Result": "Hero:hid_outlander_037_fuzzy_bear_teddy_sr_t03"
+    },
+    "RecycleRecipe": {
+      "Amount": 100,
+      "Cost": {},
+      "Result": "AccountResource:reagent_people"
     },
     "Tier": 3,
     "TierUpRecipe": {
@@ -110176,6 +110374,7 @@
       "Granted.Ability.Outlander.PhaseShift"
     ],
     "ItemDescription": "\u0022There\u0027s no time to cuddle.\u0022 - Metal Team Leader",
+    "LevelToXPRow": "VeryRare",
     "Rarity": "Epic",
     "RarityUpRecipe": {
       "Cost": {
@@ -110186,6 +110385,11 @@
         "AccountResource:reagent_c_t03": 2
       },
       "Result": "Hero:hid_outlander_037_fuzzy_bear_teddy_sr_t04"
+    },
+    "RecycleRecipe": {
+      "Amount": 100,
+      "Cost": {},
+      "Result": "AccountResource:reagent_people"
     },
     "Tier": 4,
     "TierUpRecipe": {
@@ -110237,6 +110441,7 @@
       "Granted.Ability.Outlander.PhaseShift"
     ],
     "ItemDescription": "\u0022There\u0027s no time to cuddle.\u0022 - Metal Team Leader",
+    "LevelToXPRow": "VeryRare",
     "PromotionCosts": [
       {
         "AccountResource:reagent_promotion_heroes": 1,
@@ -110270,6 +110475,11 @@
         "AccountResource:reagent_c_t04": 2
       },
       "Result": "Hero:hid_outlander_037_fuzzy_bear_teddy_sr_t05"
+    },
+    "RecycleRecipe": {
+      "Amount": 100,
+      "Cost": {},
+      "Result": "AccountResource:reagent_people"
     },
     "Tier": 5,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/heroes/outlander/itemdefinition/hid_outlander_037_fuzzy_bear_teddy_vr_t05.uasset",
@@ -111782,12 +111992,18 @@
       "Granted.Ability.Outlander.ShockTower"
     ],
     "ItemDescription": " \u0022I HAVE BEEN UPGRADED\u0022 - Kevin",
+    "LevelToXPRow": "VeryRare",
     "Rarity": "Epic",
     "RarityUpRecipe": {
       "Cost": {
         "AccountResource:reagent_evolverarity_sr": 100
       },
       "Result": "Hero:hid_outlander_040_assemblek_sr_t01"
+    },
+    "RecycleRecipe": {
+      "Amount": 100,
+      "Cost": {},
+      "Result": "AccountResource:reagent_people"
     },
     "Tier": 1,
     "TierUpRecipe": {
@@ -111830,6 +112046,7 @@
       "Granted.Ability.Outlander.ShockTower"
     ],
     "ItemDescription": " \u0022I HAVE BEEN UPGRADED\u0022 - Kevin",
+    "LevelToXPRow": "VeryRare",
     "Rarity": "Epic",
     "RarityUpRecipe": {
       "Cost": {
@@ -111838,6 +112055,11 @@
         "AccountResource:reagent_people": 25
       },
       "Result": "Hero:hid_outlander_040_assemblek_sr_t02"
+    },
+    "RecycleRecipe": {
+      "Amount": 100,
+      "Cost": {},
+      "Result": "AccountResource:reagent_people"
     },
     "Tier": 2,
     "TierUpRecipe": {
@@ -111881,6 +112103,7 @@
       "Granted.Ability.Outlander.ShockTower"
     ],
     "ItemDescription": " \u0022I HAVE BEEN UPGRADED\u0022 - Kevin",
+    "LevelToXPRow": "VeryRare",
     "Rarity": "Epic",
     "RarityUpRecipe": {
       "Cost": {
@@ -111890,6 +112113,11 @@
         "AccountResource:reagent_c_t02": 2
       },
       "Result": "Hero:hid_outlander_040_assemblek_sr_t03"
+    },
+    "RecycleRecipe": {
+      "Amount": 100,
+      "Cost": {},
+      "Result": "AccountResource:reagent_people"
     },
     "Tier": 3,
     "TierUpRecipe": {
@@ -111934,6 +112162,7 @@
       "Granted.Ability.Outlander.ShockTower"
     ],
     "ItemDescription": " \u0022I HAVE BEEN UPGRADED\u0022 - Kevin",
+    "LevelToXPRow": "VeryRare",
     "Rarity": "Epic",
     "RarityUpRecipe": {
       "Cost": {
@@ -111944,6 +112173,11 @@
         "AccountResource:reagent_c_t03": 2
       },
       "Result": "Hero:hid_outlander_040_assemblek_sr_t04"
+    },
+    "RecycleRecipe": {
+      "Amount": 100,
+      "Cost": {},
+      "Result": "AccountResource:reagent_people"
     },
     "Tier": 4,
     "TierUpRecipe": {
@@ -111989,6 +112223,7 @@
       "Granted.Ability.Outlander.ShockTower"
     ],
     "ItemDescription": " \u0022I HAVE BEEN UPGRADED\u0022 - Kevin",
+    "LevelToXPRow": "VeryRare",
     "PromotionCosts": [
       {
         "AccountResource:reagent_promotion_heroes": 1,
@@ -112022,6 +112257,11 @@
         "AccountResource:reagent_c_t04": 2
       },
       "Result": "Hero:hid_outlander_040_assemblek_sr_t05"
+    },
+    "RecycleRecipe": {
+      "Amount": 100,
+      "Cost": {},
+      "Result": "AccountResource:reagent_people"
     },
     "Tier": 5,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/heroes/outlander/itemdefinition/hid_outlander_040_assemblek_vr_t05.uasset",

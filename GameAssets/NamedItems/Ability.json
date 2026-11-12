@@ -15,6 +15,7 @@
     "CooldownSeconds": 1.0,
     "EnergyCost": 30.0,
     "GrantedTag": "Granted.Ability.Commando.FragGrenade",
+    "ItemDescription": "Throw a grenade which deals 153 energy damage in a 0.5 tile radius.",
     "PreferredQuickbarSlot": 8,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/commando/actives/fraggrenade/kit_commando_fraggrenade.uasset",
     "ImagePaths": {
@@ -35,8 +36,6 @@
       "ImpactDamage": 20.0,
       "StunTime": 0.0
     },
-    "CooldownSeconds": 100.0,
-    "EnergyCost": 50.0,
     "GrantedTag": "Granted.Ability.Commando.GoinCommando",
     "PreferredQuickbarSlot": 7,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/commando/actives/goincommando/kit_commando_goincommando.uasset",
@@ -52,14 +51,11 @@
       "BaseCritChance": 0.15,
       "BaseCritDamage": 0.75,
       "Damage": 60.0,
-      "Duration": 10.0,
       "EnvDamage": 19.0,
       "FireRate": 6.0,
       "ImpactDamage": 32.0,
       "StunTime": 0.0
     },
-    "CooldownSeconds": 100.0,
-    "EnergyCost": 50.0,
     "GrantedTag": "Granted.Ability.Commando.LeftyAndRighty",
     "PreferredQuickbarSlot": 7,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/commando/actives/leftyandrighty/kit_commando_leftyandrighty.uasset",
@@ -99,8 +95,6 @@
       "ImpactDamage": 1500.0,
       "StunTime": 0.0
     },
-    "CooldownSeconds": 25.0,
-    "EnergyCost": 30.0,
     "GrantedTag": "Granted.Ability.Commando.Shockwave",
     "PreferredQuickbarSlot": 9,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/commando/actives/shockwave/kit_commando_shockwave.uasset",
@@ -116,6 +110,7 @@
     "CooldownSeconds": 90.0,
     "EnergyCost": 40.0,
     "GrantedTag": "Granted.Ability.Commando.WarCry",
+    "ItemDescription": "Shout an inspiring War Cry, granting nearby allies \u002B?% weapon damage, \u002B?% fire rate, and \u002B?% melee attack speed for ? seconds.",
     "PreferredQuickbarSlot": 9,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/commando/actives/warcry/kit_commando_warcry.uasset",
     "ImagePaths": {
@@ -135,8 +130,6 @@
       "ImpactDamage": 800.0,
       "StunTime": 0.0
     },
-    "CooldownSeconds": 15.0,
-    "EnergyCost": 20.0,
     "GrantedTag": "Granted.Ability.Constructor.BullRush",
     "PreferredQuickbarSlot": 7,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/constructor/actives/bullrush/kit_constructor_bullrush.uasset",
@@ -159,6 +152,7 @@
     "CooldownSeconds": 30.0,
     "EnergyCost": 30.0,
     "GrantedTag": "Granted.Ability.Constructor.Decoy",
+    "ItemDescription": "Deploy a D.E.C.O.Y. which distracts nearby enemies for ? seconds. Does not affect Mist Monsters or Bosses.",
     "PreferredQuickbarSlot": 9,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/constructor/actives/decoy/kit_constructor_decoy.uasset",
     "ImagePaths": {
@@ -173,13 +167,10 @@
       "BaseCritChance": 0.0,
       "BaseCritDamage": 0.0,
       "Damage": 314.0,
-      "Duration": 16.0,
       "EnvDamage": 11.0,
       "ImpactDamage": 350.0,
       "StunTime": 3.5
     },
-    "CooldownSeconds": 0.0,
-    "EnergyCost": 50.0,
     "GrantedTag": "Granted.Ability.Constructor.GoinConstructor",
     "PreferredQuickbarSlot": 7,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/constructor/actives/goinconstructor/kit_constructor_goinconstructor.uasset",
@@ -203,6 +194,7 @@
     "CooldownSeconds": 120.0,
     "EnergyCost": 50.0,
     "GrantedTag": "Granted.Ability.Constructor.MountedTurret",
+    "ItemDescription": "Deploy a mountable turret which deals 284 physical damage per shot and fires 0.75 shots per second. R.O.S.I.E. has ? ammo.",
     "PreferredQuickbarSlot": 9,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/constructor/actives/mountedturret/kit_constructor_mountedcannonturret.uasset",
     "ImagePaths": {
@@ -225,6 +217,7 @@
     "CooldownSeconds": 120.0,
     "EnergyCost": 50.0,
     "GrantedTag": "Granted.Ability.Constructor.MountedTurret",
+    "ItemDescription": "Deploy a mountable turret which deals 52 physical damage per shot and fires 7 shots per second. R.O.S.I.E. has ? ammo.",
     "PreferredQuickbarSlot": 9,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/constructor/actives/mountedturret/kit_constructor_mountedturret.uasset",
     "ImagePaths": {
@@ -244,8 +237,6 @@
       "ImpactDamage": 0.0,
       "StunTime": 0.0
     },
-    "CooldownSeconds": 45.0,
-    "EnergyCost": 40.0,
     "GrantedTag": "Granted.Ability.Constructor.PlasmaPulse",
     "PreferredQuickbarSlot": 8,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/constructor/actives/plasmapulse/kit_constructor_plasmapulse.uasset",
@@ -268,6 +259,7 @@
     "CooldownSeconds": 10.0,
     "EnergyCost": 30.0,
     "GrantedTag": "Granted.Ability.Ninja.CrescentKick",
+    "ItemDescription": "Execute a powerful spin kick which stuns enemies and deals 121 damage.",
     "PreferredQuickbarSlot": 9,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/ninja/actives/crescentkick/kit_ninja_crescentkick.uasset",
     "ImagePaths": {
@@ -289,6 +281,7 @@
     "CooldownSeconds": 10.0,
     "EnergyCost": 50.0,
     "GrantedTag": "Granted.Ability.Ninja.DragonSlash",
+    "ItemDescription": "Dash forward, slashing enemies for 115 damage.",
     "PreferredQuickbarSlot": 7,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/ninja/actives/dragonslash/kit_ninja_dragonslash.uasset",
     "ImagePaths": {
@@ -317,8 +310,6 @@
       "ImpactDamage": 0.0,
       "StunTime": 0.0
     },
-    "CooldownSeconds": 15.0,
-    "EnergyCost": 30.0,
     "GrantedTag": "Granted.Ability.Ninja.KunaiStorm",
     "PreferredQuickbarSlot": 9,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/ninja/actives/kunaistorm/kit_ninja_kunaistorm.uasset",
@@ -361,6 +352,7 @@
     "CooldownSeconds": 45.0,
     "EnergyCost": 40.0,
     "GrantedTag": "Granted.Ability.Ninja.SmokeBomb",
+    "ItemDescription": "Drop a smoke bomb which slows enemies and deals 52 damage per second.",
     "PreferredQuickbarSlot": 9,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/ninja/actives/smokebomb/kit_ninja_smokebomb.uasset",
     "ImagePaths": {
@@ -379,8 +371,6 @@
       "ImpactDamage": 0.0,
       "StunTime": 0.0
     },
-    "CooldownSeconds": 10.0,
-    "EnergyCost": 30.0,
     "GrantedTag": "Granted.Ability.Ninja.ThrowingStars",
     "PreferredQuickbarSlot": 8,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/ninja/actives/throwingstars/kit_ninja_throwingstars.uasset",
@@ -405,6 +395,7 @@
     "CooldownSeconds": 60.0,
     "EnergyCost": 30.0,
     "GrantedTag": "Granted.Ability.Outlander.Bear",
+    "ItemDescription": "Deploy a husk-crushing robot bear which deals 13 base damage per shot and fires 4 shots per second. T.E.D.D.Y. lasts 15 seconds.",
     "PreferredQuickbarSlot": 9,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/outlander/actives/fragment/bear/kit_outlander_bearfragment.uasset",
     "ImagePaths": {
@@ -423,8 +414,6 @@
       "ImpactDamage": 900.0,
       "StunTime": 0.0
     },
-    "CooldownSeconds": 15.0,
-    "EnergyCost": 40.0,
     "GrantedTag": "Granted.Ability.Outlander.GroundWave",
     "PreferredQuickbarSlot": 9,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/outlander/actives/groundwave/kit_outlander_groundwave.uasset",
@@ -440,6 +429,7 @@
     "CooldownSeconds": 0.5,
     "EnergyCost": 15.0,
     "GrantedTag": "Granted.Ability.Outlander.PhaseShift",
+    "ItemDescription": "Quickly dash through space, gaining ?% increased movement speed for ? seconds.",
     "PreferredQuickbarSlot": 7,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/outlander/actives/phaseshift/kit_outlander_phaseshift.uasset",
     "ImagePaths": {
@@ -461,6 +451,7 @@
     "CooldownSeconds": 20.0,
     "EnergyCost": 30.0,
     "GrantedTag": "Granted.Ability.Outlander.ShockTower",
+    "ItemDescription": "Deploy a device which shocks nearby enemies, stunning them and dealing 12 base damage.",
     "PreferredQuickbarSlot": 9,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/abilities/player/outlander/actives/fragment/shocktower/kit_outlander_shocktowerfragment.uasset",
     "ImagePaths": {

@@ -324,6 +324,25 @@
       "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_BarrelOfFish_Jeweled.png"
     }
   },
+  "ExtractableRelic:esd_barreloffishsprite_variant_liquidgold": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_BarrelOfFishSprite_Variant_LiquidGold",
+    "ItemName": "Gold Barry O\u0027Fish",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_barreloffish",
+      "PlayerAugment:paid_spriteboons_variant_liquidgold"
+    ],
+    "Generation": "Ch7MS",
+    "ItemDescription": "Reduces tactical sprint stamina drain when in water. Gain Slap at max level!",
+    "MappingID": "BarrelOfFish_Variant_LiquidGold",
+    "Parent": "ExtractableRelic:esd_barreloffishsprite",
+    "Rarity": "Rare",
+    "SpriteDex": 3,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7ms/content/spritedefinitions/barreloffish/esd_barreloffishsprite_variant_liquidgold.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_BarrelOfFish_LiquidGold.png"
+    }
+  },
   "ExtractableRelic:esd_birthdaysprite": {
     "Type": "ExtractableRelic",
     "Name": "ESD_BirthdaySprite",
@@ -1045,7 +1064,7 @@
       "PlayerAugment:paid_spriteboons_coinpile"
     ],
     "Generation": "Ch7MS",
-    "ItemDescription": "Opening Chest grants increased pickaxe speed and movement speed.",
+    "ItemDescription": "Opening Chest grants increased pickaxe speed and movement speed. Increased duration with each Level Up!",
     "MappingID": "CoinPile",
     "Rarity": "Mythic",
     "SpriteDex": 14,
@@ -1062,7 +1081,7 @@
       "PlayerAugment:paid_spriteboons_coinpile"
     ],
     "Generation": "Ch7MS",
-    "ItemDescription": "Opening Chest grants increased pickaxe speed and movement speed.",
+    "ItemDescription": "Opening Chest grants increased pickaxe speed and movement speed. Increased duration with each Level Up!",
     "MappingID": "CoinPile_Variant_A",
     "Parent": "ExtractableRelic:esd_coinpilesprite",
     "Rarity": "Mythic",
@@ -1081,7 +1100,7 @@
       "PlayerAugment:paid_spriteboons_variant_cursed"
     ],
     "Generation": "Ch7MS",
-    "ItemDescription": "Opening Chest grants increased pickaxe speed and movement speed.",
+    "ItemDescription": "Opening Chest grants increased pickaxe speed and movement speed. Increased duration with each Level Up!",
     "MappingID": "CoinPile_Variant_Cursed",
     "Parent": "ExtractableRelic:esd_coinpilesprite",
     "Rarity": "Mythic",
@@ -1100,7 +1119,7 @@
       "PlayerAugment:paid_spriteboons_variant_jeweled"
     ],
     "Generation": "Ch7MS",
-    "ItemDescription": "Opening Chest grants increased pickaxe speed and movement speed.",
+    "ItemDescription": "Opening Chest grants increased pickaxe speed and movement speed. Increased duration with each Level Up!",
     "MappingID": "CoinPile_Variant_Jeweled",
     "Parent": "ExtractableRelic:esd_coinpilesprite",
     "Rarity": "Mythic",
@@ -1108,6 +1127,25 @@
     "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7ms/content/spritedefinitions/coinpile/esd_coinpilesprite_variant_jeweled.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_CoinPile_Jeweled.png"
+    }
+  },
+  "ExtractableRelic:esd_coinpilesprite_variant_liquidgold": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_CoinPileSprite_Variant_LiquidGold",
+    "ItemName": "Gold Plundarrgh",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_coinpile",
+      "PlayerAugment:paid_spriteboons_variant_liquidgold"
+    ],
+    "Generation": "Ch7MS",
+    "ItemDescription": "Opening Chest grants increased pickaxe speed and movement speed. Increased duration with each Level Up!",
+    "MappingID": "CoinPile_Variant_LiquidGold",
+    "Parent": "ExtractableRelic:esd_coinpilesprite",
+    "Rarity": "Mythic",
+    "SpriteDex": 14,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7ms/content/spritedefinitions/coinpile/esd_coinpilesprite_variant_liquidgold.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_CoinPile_LiquidGold.png"
     }
   },
   "ExtractableRelic:esd_cokeparmesan": {
@@ -1254,6 +1292,25 @@
       "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_Compass_Jeweled.png"
     }
   },
+  "ExtractableRelic:esd_compasssprite_variant_liquidgold": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_CompassSprite_Variant_LiquidGold",
+    "ItemName": "Gold Wayfinder",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_compass",
+      "PlayerAugment:paid_spriteboons_variant_liquidgold"
+    ],
+    "Generation": "Ch7MS",
+    "ItemDescription": "Reveals Sprites nearby and grants more items when opening Buried Chests. Sprite detection radius increases with each Level Up!",
+    "MappingID": "Compass_Variant_LiquidGold",
+    "Parent": "ExtractableRelic:esd_compasssprite",
+    "Rarity": "Rare",
+    "SpriteDex": 4,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7ms/content/spritedefinitions/compass/esd_compasssprite_variant_liquidgold.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_Compass_LiquidGold.png"
+    }
+  },
   "ExtractableRelic:esd_crownsprite": {
     "Type": "ExtractableRelic",
     "Name": "ESD_CrownSprite",
@@ -1388,6 +1445,98 @@
     "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/crown/esd_crownsprite_variant_tricktreat.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_Crown_TrickTreat.png"
+    }
+  },
+  "ExtractableRelic:esd_daffodilchurnsprite": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_DaffodilChurnSprite",
+    "ItemName": "Mini Miku",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_daffodilchurn"
+    ],
+    "Generation": "Ch7MS",
+    "ItemDescription": "Grants a Friendship Bubble when emoting with other players. Decreased cooldown with each Level Up!",
+    "MappingID": "DaffodilChurn",
+    "Rarity": "Mythic",
+    "SpriteDex": 15,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7ms/content/spritedefinitions/daffodilchurn/esd_daffodilchurnsprite.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_LushlyZest_ui_v2_1_Alpha.png"
+    }
+  },
+  "ExtractableRelic:esd_daffodilchurnsprite_variant_a": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_DaffodilChurnSprite_Variant_A",
+    "ItemName": "Mini Miku",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_daffodilchurn"
+    ],
+    "Generation": "Ch7MS",
+    "ItemDescription": "Grants a Friendship Bubble when emoting with other players. Decreased cooldown with each Level Up!",
+    "MappingID": "DaffodilChurn_Variant_A",
+    "Parent": "ExtractableRelic:esd_daffodilchurnsprite",
+    "Rarity": "Mythic",
+    "SpriteDex": 15,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7ms/content/spritedefinitions/daffodilchurn/esd_daffodilchurnsprite_variant_a.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_LushlyZest_ui_v2_1_Alpha.png"
+    }
+  },
+  "ExtractableRelic:esd_daffodilchurnsprite_variant_cursed": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_DaffodilChurnSprite_Variant_Cursed",
+    "ItemName": "Cursed Mini Miku",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_daffodilchurn",
+      "PlayerAugment:paid_spriteboons_variant_cursed"
+    ],
+    "Generation": "Ch7MS",
+    "ItemDescription": "Grants a Friendship Bubble when emoting with other players. Decreased cooldown with each Level Up!",
+    "MappingID": "DaffodilChurn_Variant_Cursed",
+    "Parent": "ExtractableRelic:esd_daffodilchurnsprite",
+    "Rarity": "Mythic",
+    "SpriteDex": 15,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7ms/content/spritedefinitions/daffodilchurn/esd_daffodilchurnsprite_variant_cursed.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_LushlyZest_Cursed_ui_v1_1_Alpha.png"
+    }
+  },
+  "ExtractableRelic:esd_daffodilchurnsprite_variant_jeweled": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_DaffodilChurnSprite_Variant_Jeweled",
+    "ItemName": "Fortune Mini Miku",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_daffodilchurn",
+      "PlayerAugment:paid_spriteboons_variant_jeweled"
+    ],
+    "Generation": "Ch7MS",
+    "ItemDescription": "Grants a Friendship Bubble when emoting with other players. Decreased cooldown with each Level Up!",
+    "MappingID": "DaffodilChurn_Variant_Jeweled",
+    "Parent": "ExtractableRelic:esd_daffodilchurnsprite",
+    "Rarity": "Mythic",
+    "SpriteDex": 15,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7ms/content/spritedefinitions/daffodilchurn/esd_daffodilchurnsprite_variant_jeweled.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_LushlyZest_Jeweled_ui_v1_1_Alpha.png"
+    }
+  },
+  "ExtractableRelic:esd_daffodilchurnsprite_variant_liquidgold": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_DaffodilChurnSprite_Variant_LiquidGold",
+    "ItemName": "Gold Mini Miku",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_daffodilchurn",
+      "PlayerAugment:paid_spriteboons_variant_liquidgold"
+    ],
+    "Generation": "Ch7MS",
+    "ItemDescription": "Grants a Friendship Bubble when emoting with other players. Decreased cooldown with each Level Up!",
+    "MappingID": "DaffodilChurn_Variant_LiquidGold",
+    "Parent": "ExtractableRelic:esd_daffodilchurnsprite",
+    "Rarity": "Mythic",
+    "SpriteDex": 15,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7ms/content/spritedefinitions/daffodilchurn/esd_daffodilchurnsprite_variant_liquidgold.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_LushlyZest_LiquidGold_ui_v1_1_Alpha.png"
     }
   },
   "ExtractableRelic:esd_demonsprite": {
@@ -4645,6 +4794,25 @@
       "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_Parrot_Jeweled.png"
     }
   },
+  "ExtractableRelic:esd_parrotsprite_variant_liquidgold": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_ParrotSprite_Variant_LiquidGold",
+    "ItemName": "Gold Re-Pete",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_parrot",
+      "PlayerAugment:paid_spriteboons_variant_liquidgold"
+    ],
+    "Generation": "Ch7MS",
+    "ItemDescription": "Increases reload speed, with a chance that reloading refunds ammo. Reload faster and higher chance of ammo refunds with each Level Up!",
+    "MappingID": "Parrot_Variant_LiquidGold",
+    "Parent": "ExtractableRelic:esd_parrotsprite",
+    "Rarity": "Rare",
+    "SpriteDex": 2,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7ms/content/spritedefinitions/parrot/esd_parrotsprite_variant_liquidgold.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_Parrot_LiquidGold.png"
+    }
+  },
   "ExtractableRelic:esd_pedicureantacid": {
     "Type": "ExtractableRelic",
     "Name": "ESD_PedicureAntacid",
@@ -4752,6 +4920,25 @@
     "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7ms/content/spritedefinitions/peelybones/esd_peelybonesprite_variant_jeweled.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_PeelyBones_Jeweled.png"
+    }
+  },
+  "ExtractableRelic:esd_peelybonesprite_variant_liquidgold": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_PeelyBoneSprite_Variant_LiquidGold",
+    "ItemName": "Gold Halfpeel\u0027d",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_peelybones",
+      "PlayerAugment:paid_spriteboons_variant_liquidgold"
+    ],
+    "Generation": "Ch7MS",
+    "ItemDescription": "Marks eliminations on the map. Effect radius increases with each level up!",
+    "MappingID": "PeelyBones_Variant_LiquidGold",
+    "Parent": "ExtractableRelic:esd_peelybonesprite",
+    "Rarity": "Rare",
+    "SpriteDex": 1,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7ms/content/spritedefinitions/peelybones/esd_peelybonesprite_variant_liquidgold.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_PeelyBones_LiquidGold.png"
     }
   },
   "ExtractableRelic:esd_peelysprite": {
@@ -5019,6 +5206,98 @@
       "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_PhaseDash_TrickTreat.png"
     }
   },
+  "ExtractableRelic:esd_piratecalamarisprite": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_PirateCalamariSprite",
+    "ItemName": "Squiplash",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_piratecalamari"
+    ],
+    "Generation": "Ch7MS",
+    "ItemDescription": "Deploys a Healing Smoke Bomb at low health. Decreased cooldown and increased duration and healing with each Level Up!",
+    "MappingID": "PirateCalamari",
+    "Rarity": "Epic",
+    "SpriteDex": 9,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7ms/content/spritedefinitions/piratecalamari/esd_piratecalamarisprite.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_PirateCalamari.png"
+    }
+  },
+  "ExtractableRelic:esd_piratecalamarisprite_variant_a": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_PirateCalamariSprite_Variant_A",
+    "ItemName": "Squiplash",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_piratecalamari"
+    ],
+    "Generation": "Ch7MS",
+    "ItemDescription": "Deploys a Healing Smoke Bomb at low health. Decreased cooldown and increased duration and healing with each Level Up!",
+    "MappingID": "PirateCalamari_Variant_A",
+    "Parent": "ExtractableRelic:esd_piratecalamarisprite",
+    "Rarity": "Epic",
+    "SpriteDex": 9,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7ms/content/spritedefinitions/piratecalamari/esd_piratecalamarisprite_variant_a.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_PirateCalamari.png"
+    }
+  },
+  "ExtractableRelic:esd_piratecalamarisprite_variant_cursed": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_PirateCalamariSprite_Variant_Cursed",
+    "ItemName": "Cursed Squiplash",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_piratecalamari",
+      "PlayerAugment:paid_spriteboons_variant_cursed"
+    ],
+    "Generation": "Ch7MS",
+    "ItemDescription": "Deploys a Healing Smoke Bomb at low health. Decreased cooldown and increased duration and healing with each Level Up!",
+    "MappingID": "PirateCalamari_Variant_Cursed",
+    "Parent": "ExtractableRelic:esd_piratecalamarisprite",
+    "Rarity": "Epic",
+    "SpriteDex": 9,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7ms/content/spritedefinitions/piratecalamari/esd_piratecalamarisprite_variant_cursed.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_PirateCalamari_Cursed.png"
+    }
+  },
+  "ExtractableRelic:esd_piratecalamarisprite_variant_jeweled": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_PirateCalamariSprite_Variant_Jeweled",
+    "ItemName": "Fortune Squiplash",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_piratecalamari",
+      "PlayerAugment:paid_spriteboons_variant_jeweled"
+    ],
+    "Generation": "Ch7MS",
+    "ItemDescription": "Deploys a Healing Smoke Bomb at low health. Decreased cooldown and increased duration and healing with each Level Up!",
+    "MappingID": "PirateCalamari_Variant_Jeweled",
+    "Parent": "ExtractableRelic:esd_piratecalamarisprite",
+    "Rarity": "Epic",
+    "SpriteDex": 9,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7ms/content/spritedefinitions/piratecalamari/esd_piratecalamarisprite_variant_jeweled.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_PirateCalamari_Jeweled.png"
+    }
+  },
+  "ExtractableRelic:esd_piratecalamarisprite_variant_liquidgold": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_PirateCalamariSprite_Variant_LiquidGold",
+    "ItemName": "Gold Squiplash",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_piratecalamari",
+      "PlayerAugment:paid_spriteboons_variant_liquidgold"
+    ],
+    "Generation": "Ch7MS",
+    "ItemDescription": "Deploys a Healing Smoke Bomb at low health. Decreased cooldown and increased duration and healing with each Level Up!",
+    "MappingID": "PirateCalamari_Variant_LiquidGold",
+    "Parent": "ExtractableRelic:esd_piratecalamarisprite",
+    "Rarity": "Epic",
+    "SpriteDex": 9,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7ms/content/spritedefinitions/piratecalamari/esd_piratecalamarisprite_variant_liquidgold.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_PirateCalamari_LiquidGold.png"
+    }
+  },
   "ExtractableRelic:esd_playmakerbrewerysprite": {
     "Type": "ExtractableRelic",
     "Name": "ESD_PlaymakerBrewerySprite",
@@ -5027,7 +5306,7 @@
       "PlayerAugment:paid_spriteboons_playmakerbrewery"
     ],
     "Generation": "Ch7MS",
-    "ItemDescription": "Creates a small shockwave on landing, knocking back enemies. Increased knockback strength with each Level Up!",
+    "ItemDescription": "Creates a small shockwave on landing knocking back enemies, also nullifies fall damage. Increased knockback strength with each Level Up!",
     "MappingID": "PlaymakerBrewery",
     "Rarity": "Legendary",
     "SpriteDex": 11,
@@ -5044,7 +5323,7 @@
       "PlayerAugment:paid_spriteboons_playmakerbrewery"
     ],
     "Generation": "Ch7MS",
-    "ItemDescription": "Creates a small shockwave on landing, knocking back enemies. Increased knockback strength with each Level Up!",
+    "ItemDescription": "Creates a small shockwave on landing knocking back enemies, also nullifies fall damage. Increased knockback strength with each Level Up!",
     "MappingID": "PlaymakerBrewery_Variant_A",
     "Parent": "ExtractableRelic:esd_playmakerbrewerysprite",
     "Rarity": "Legendary",
@@ -5063,7 +5342,7 @@
       "PlayerAugment:paid_spriteboons_variant_cursed"
     ],
     "Generation": "Ch7MS",
-    "ItemDescription": "Creates a small shockwave on landing, knocking back enemies. Increased knockback strength with each Level Up!",
+    "ItemDescription": "Creates a small shockwave on landing knocking back enemies, also nullifies fall damage. Increased knockback strength with each Level Up!",
     "MappingID": "PlaymakerBrewery_Variant_Cursed",
     "Parent": "ExtractableRelic:esd_playmakerbrewerysprite",
     "Rarity": "Legendary",
@@ -5082,7 +5361,7 @@
       "PlayerAugment:paid_spriteboons_variant_jeweled"
     ],
     "Generation": "Ch7MS",
-    "ItemDescription": "Creates a small shockwave on landing, knocking back enemies. Increased knockback strength with each Level Up!",
+    "ItemDescription": "Creates a small shockwave on landing knocking back enemies, also nullifies fall damage. Increased knockback strength with each Level Up!",
     "MappingID": "PlaymakerBrewery_Variant_Jeweled",
     "Parent": "ExtractableRelic:esd_playmakerbrewerysprite",
     "Rarity": "Legendary",
@@ -5090,6 +5369,25 @@
     "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7ms/content/spritedefinitions/playmakerbrewery/esd_playmakerbrewerysprite_variant_jeweled.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_PlaymakerBrewery_Jeweled.png"
+    }
+  },
+  "ExtractableRelic:esd_playmakerbrewerysprite_variant_liquidgold": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_PlaymakerBrewerySprite_Variant_LiquidGold",
+    "ItemName": "Gold Lil\u0027 Flacko",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_playmakerbrewery",
+      "PlayerAugment:paid_spriteboons_variant_liquidgold"
+    ],
+    "Generation": "Ch7MS",
+    "ItemDescription": "Creates a small shockwave on landing knocking back enemies, also nullifies fall damage. Increased knockback strength with each Level Up!",
+    "MappingID": "PlaymakerBrewery_Variant_LiquidGold",
+    "Parent": "ExtractableRelic:esd_playmakerbrewerysprite",
+    "Rarity": "Legendary",
+    "SpriteDex": 11,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7ms/content/spritedefinitions/playmakerbrewery/esd_playmakerbrewerysprite_variant_liquidgold.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_PlaymakerBrewery_LiquidGold.png"
     }
   },
   "ExtractableRelic:esd_punksprite": {
@@ -5435,6 +5733,25 @@
     "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7ms/content/spritedefinitions/rookgecko/esd_rookgeckosprite_variant_jeweled.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_RookGecko_Jeweled.png"
+    }
+  },
+  "ExtractableRelic:esd_rookgeckosprite_variant_liquidgold": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_RookGeckoSprite_Variant_LiquidGold",
+    "ItemName": "Gold Lil\u0027 Uzi Vert Jr.",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_rookgecko",
+      "PlayerAugment:paid_spriteboons_variant_liquidgold"
+    ],
+    "Generation": "Ch7MS",
+    "ItemDescription": "Generates a Chug Splash effect when restoring shields. Decreased cooldown with each Level Up!",
+    "MappingID": "RookGecko_Variant_LiquidGold",
+    "Parent": "ExtractableRelic:esd_rookgeckosprite",
+    "Rarity": "Legendary",
+    "SpriteDex": 12,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7ms/content/spritedefinitions/rookgecko/esd_rookgeckosprite_variant_liquidgold.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_RookGecko_LiquidGold.png"
     }
   },
   "ExtractableRelic:esd_sevensprite": {
@@ -5987,7 +6304,7 @@
       "PlayerAugment:paid_spriteboons_squibbly"
     ],
     "Generation": "Ch7MS",
-    "ItemDescription": "Jumping into a fishing hole fishes it and gives some bonus loot. Get more loot as you level up.",
+    "ItemDescription": "Fish fishing spots by jumping into them and gain bonus loot. Earn more and better items as you level up!",
     "MappingID": "Squibbly",
     "Rarity": "Epic",
     "SpriteDex": 8,
@@ -6004,7 +6321,7 @@
       "PlayerAugment:paid_spriteboons_squibbly"
     ],
     "Generation": "Ch7MS",
-    "ItemDescription": "Jumping into a fishing hole fishes it and gives some bonus loot. Get more loot as you level up.",
+    "ItemDescription": "Fish fishing spots by jumping into them and gain bonus loot. Earn more and better items as you level up!",
     "MappingID": "Squibbly_Variant_A",
     "Parent": "ExtractableRelic:esd_squibblysprite",
     "Rarity": "Epic",
@@ -6023,7 +6340,7 @@
       "PlayerAugment:paid_spriteboons_variant_cursed"
     ],
     "Generation": "Ch7MS",
-    "ItemDescription": "Jumping into a fishing hole fishes it and gives some bonus loot. Get more loot as you level up.",
+    "ItemDescription": "Fish fishing spots by jumping into them and gain bonus loot. Earn more and better items as you level up!",
     "MappingID": "Squibbly_Variant_Cursed",
     "Parent": "ExtractableRelic:esd_squibblysprite",
     "Rarity": "Epic",
@@ -6042,7 +6359,7 @@
       "PlayerAugment:paid_spriteboons_variant_jeweled"
     ],
     "Generation": "Ch7MS",
-    "ItemDescription": "Jumping into a fishing hole fishes it and gives some bonus loot. Get more loot as you level up.",
+    "ItemDescription": "Fish fishing spots by jumping into them and gain bonus loot. Earn more and better items as you level up!",
     "MappingID": "Squibbly_Variant_Jeweled",
     "Parent": "ExtractableRelic:esd_squibblysprite",
     "Rarity": "Epic",
@@ -6050,6 +6367,25 @@
     "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7ms/content/spritedefinitions/squibbly/esd_squibblysprite_variant_jeweled.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_SquibblySprite_Jeweled.png"
+    }
+  },
+  "ExtractableRelic:esd_squibblysprite_variant_liquidgold": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_SquibblySprite_Variant_LiquidGold",
+    "ItemName": "Gold Lil\u0027 Squibbly",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_squibbly",
+      "PlayerAugment:paid_spriteboons_variant_liquidgold"
+    ],
+    "Generation": "Ch7MS",
+    "ItemDescription": "Fish fishing spots by jumping into them and gain bonus loot. Earn more and better items as you level up!",
+    "MappingID": "Squibbly_Variant_LiquidGold",
+    "Parent": "ExtractableRelic:esd_squibblysprite",
+    "Rarity": "Epic",
+    "SpriteDex": 8,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7ms/content/spritedefinitions/squibbly/esd_squibblysprite_variant_liquidgold.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_Squibbly_LiquidGold_ui_v1_1_Alpha.png"
     }
   },
   "ExtractableRelic:esd_starlightsprite": {
@@ -6296,6 +6632,25 @@
       "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_TreasureChest_Jeweled.png"
     }
   },
+  "ExtractableRelic:esd_treasurechestsprite_variant_liquidgold": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_TreasureChestSprite_Variant_LiquidGold",
+    "ItemName": "Gold Chester",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_treasurechest",
+      "PlayerAugment:paid_spriteboons_variant_liquidgold"
+    ],
+    "Generation": "Ch7MS",
+    "ItemDescription": "Grants a chance to spawn extra loot from Treasure Chests and nullifies fall damage. Increased chance of spawning an extra loot item with each Level Up!",
+    "MappingID": "TreasureChest_Variant_LiquidGold",
+    "Parent": "ExtractableRelic:esd_treasurechestsprite",
+    "Rarity": "Epic",
+    "SpriteDex": 5,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7ms/content/spritedefinitions/treasurechest/esd_treasurechestsprite_variant_liquidgold.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_TreasureChest_LiquidGold.png"
+    }
+  },
   "ExtractableRelic:esd_treasuremapsprite": {
     "Type": "ExtractableRelic",
     "Name": "ESD_TreasureMapSprite",
@@ -6369,6 +6724,25 @@
       "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_TreasureMap_Jeweled.png"
     }
   },
+  "ExtractableRelic:esd_treasuremapsprite_variant_liquidgold": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_TreasureMapSprite_Variant_LiquidGold",
+    "ItemName": "Gold Exmarks",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_treasuremap",
+      "PlayerAugment:paid_spriteboons_variant_liquidgold"
+    ],
+    "Generation": "Ch7MS",
+    "ItemDescription": "Reveals Treasure Maps and Wanted Posters. Spawns a Treasure Map at Max Level!",
+    "MappingID": "TreasureMap_Variant_LiquidGold",
+    "Parent": "ExtractableRelic:esd_treasuremapsprite",
+    "Rarity": "Epic",
+    "SpriteDex": 7,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7ms/content/spritedefinitions/treasuremap/esd_treasuremapsprite_variant_liquidgold.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_TreasureMap_LiquidGold.png"
+    }
+  },
   "ExtractableRelic:esd_unbotheredfishsprite": {
     "Type": "ExtractableRelic",
     "Name": "ESD_UnbotheredFishSprite",
@@ -6440,6 +6814,25 @@
     "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7ms/content/spritedefinitions/unbotheredfish/esd_unbotheredfishsprite_variant_jeweled.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_UnbotheredFish_Jeweled.png"
+    }
+  },
+  "ExtractableRelic:esd_unbotheredfishsprite_variant_liquidgold": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_UnbotheredFishSprite_Variant_LiquidGold",
+    "ItemName": "Gold Kelper",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_unbotheredfish",
+      "PlayerAugment:paid_spriteboons_variant_liquidgold"
+    ],
+    "Generation": "Ch7MS",
+    "ItemDescription": "Restores health over time when in water. Increased amount of health with each Level Up!",
+    "MappingID": "UnbotheredFish_Variant_LiquidGold",
+    "Parent": "ExtractableRelic:esd_unbotheredfishsprite",
+    "Rarity": "Epic",
+    "SpriteDex": 6,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7ms/content/spritedefinitions/unbotheredfish/esd_unbotheredfishsprite_variant_liquidgold.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_UnbotheredFish_LiquidGold.png"
     }
   },
   "ExtractableRelic:esd_water": {
@@ -6596,6 +6989,98 @@
     "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s3/content/spritedefinitions/water/esd_water_variant_quack.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_Water_Quack_ui.png"
+    }
+  },
+  "ExtractableRelic:esd_whitetigersprite": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_WhiteTigerSprite",
+    "ItemName": "Sir Oscar the Second",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_whitetiger"
+    ],
+    "Generation": "Ch7MS",
+    "ItemDescription": "Grants increased Pickaxe damage, also gives a temporary speed boost when your Shield breaks. Increased Pickaxe damage and speed boost with each Level Up!",
+    "MappingID": "WhiteTiger",
+    "Rarity": "Legendary",
+    "SpriteDex": 13,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7ms/content/spritedefinitions/whitetiger/esd_whitetigersprite.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_WhiteTiger.png"
+    }
+  },
+  "ExtractableRelic:esd_whitetigersprite_variant_a": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_WhiteTigerSprite_Variant_A",
+    "ItemName": "Sir Oscar the Second",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_whitetiger"
+    ],
+    "Generation": "Ch7MS",
+    "ItemDescription": "Grants increased Pickaxe damage, also gives a temporary speed boost when your Shield breaks. Increased Pickaxe damage and speed boost with each Level Up!",
+    "MappingID": "WhiteTiger_Variant_A",
+    "Parent": "ExtractableRelic:esd_whitetigersprite",
+    "Rarity": "Legendary",
+    "SpriteDex": 13,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7ms/content/spritedefinitions/whitetiger/esd_whitetigersprite_variant_a.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_WhiteTiger.png"
+    }
+  },
+  "ExtractableRelic:esd_whitetigersprite_variant_cursed": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_WhiteTigerSprite_Variant_Cursed",
+    "ItemName": "Cursed Sir Oscar the Second",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_whitetiger",
+      "PlayerAugment:paid_spriteboons_variant_cursed"
+    ],
+    "Generation": "Ch7MS",
+    "ItemDescription": "Grants increased Pickaxe damage, also gives a temporary speed boost when your Shield breaks. Increased Pickaxe damage and speed boost with each Level Up!",
+    "MappingID": "WhiteTiger_Variant_Cursed",
+    "Parent": "ExtractableRelic:esd_whitetigersprite",
+    "Rarity": "Legendary",
+    "SpriteDex": 13,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7ms/content/spritedefinitions/whitetiger/esd_whitetigersprite_variant_cursed.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_WhiteTiger_Cursed.png"
+    }
+  },
+  "ExtractableRelic:esd_whitetigersprite_variant_jeweled": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_WhiteTigerSprite_Variant_Jeweled",
+    "ItemName": "Fortune Sir Oscar the Second",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_whitetiger",
+      "PlayerAugment:paid_spriteboons_variant_jeweled"
+    ],
+    "Generation": "Ch7MS",
+    "ItemDescription": "Grants increased Pickaxe damage, also gives a temporary speed boost when your Shield breaks. Increased Pickaxe damage and speed boost with each Level Up!",
+    "MappingID": "WhiteTiger_Variant_Jeweled",
+    "Parent": "ExtractableRelic:esd_whitetigersprite",
+    "Rarity": "Legendary",
+    "SpriteDex": 13,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7ms/content/spritedefinitions/whitetiger/esd_whitetigersprite_variant_jeweled.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_WhiteTiger_Jeweled.png"
+    }
+  },
+  "ExtractableRelic:esd_whitetigersprite_variant_liquidgold": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_WhiteTigerSprite_Variant_LiquidGold",
+    "ItemName": "Gold Sir Oscar the Second",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_whitetiger",
+      "PlayerAugment:paid_spriteboons_variant_liquidgold"
+    ],
+    "Generation": "Ch7MS",
+    "ItemDescription": "Grants increased Pickaxe damage, also gives a temporary speed boost when your Shield breaks. Increased Pickaxe damage and speed boost with each Level Up!",
+    "MappingID": "WhiteTiger_Variant_LiquidGold",
+    "Parent": "ExtractableRelic:esd_whitetigersprite",
+    "Rarity": "Legendary",
+    "SpriteDex": 13,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7ms/content/spritedefinitions/whitetiger/esd_whitetigersprite_variant_liquidgold.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_WhiteTiger_LiquidGold.png"
     }
   },
   "ExtractableRelic:esd_winnerasprite": {
@@ -7246,6 +7731,41 @@
     "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7s4/content/spritedefinitions/winneresprite/esd_winneresprite_variant_tricktreat.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_WinnerE_TrickTreat.png"
+    }
+  },
+  "ExtractableRelic:esd_yortmeleesprite": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_YortMeleeSprite",
+    "ItemName": "Zee",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_yortmelee"
+    ],
+    "Generation": "Ch7MS",
+    "ItemDescription": "Grants regenerating Zero Point dash charges. Max charges increase and recharge time decrease with Level Up!",
+    "MappingID": "YortMelee",
+    "Rarity": "Mythic",
+    "SpriteDex": 17,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7ms/content/spritedefinitions/yortmelee/esd_yortmeleesprite.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_ZeroPointPiece_ui_v3_1_Alpha.png"
+    }
+  },
+  "ExtractableRelic:esd_yortmeleesprite_variant_a": {
+    "Type": "ExtractableRelic",
+    "Name": "ESD_YortMeleeSprite_Variant_A",
+    "ItemName": "Zee",
+    "Augments": [
+      "PlayerAugment:paid_spriteboons_yortmelee"
+    ],
+    "Generation": "Ch7MS",
+    "ItemDescription": "Grants regenerating Zero Point dash charges. Max charges increase and recharge time decrease with Level Up!",
+    "MappingID": "YortMelee_Variant_A",
+    "Parent": "ExtractableRelic:esd_yortmeleesprite",
+    "Rarity": "Mythic",
+    "SpriteDex": 17,
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spritelibrary_ch7ms/content/spritedefinitions/yortmelee/esd_yortmeleesprite_variant_a.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_Icon_BR_Creature_Sprite_ZeroPointPiece_ui_v3_1_Alpha.png"
     }
   },
   "ExtractableRelic:esd_zeropointsprite": {

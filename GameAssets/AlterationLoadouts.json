@@ -17808,10 +17808,9 @@
           ]
         },
         {
-          "AID": "Alteration:aid_g_ranged_headshot_explodeondeath_v2",
+          "AID": "Alteration:aid_g_weapon_onreload_explode",
           "ExclusionNames": [
-            "TopLevel.Ranged",
-            "HeadshotDamage"
+            "Damage"
           ]
         },
         {
@@ -25935,11 +25934,10 @@
           ]
         },
         {
-          "AID": "Alteration:aid_g_ranged_headshotstreak_dmgbonus_v2",
+          "AID": "Alteration:aid_g_ranged_chainbullet",
           "ExclusionNames": [
             "TopLevel.Ranged",
-            "Damage",
-            "HeadshotDamage"
+            "Damage"
           ]
         },
         {
@@ -37699,11 +37697,9 @@
           ]
         },
         {
-          "AID": "Alteration:aid_g_ranged_headshotstreak_dmgbonus_v2",
+          "AID": "Alteration:aid_g_weapon_onreload_damagestack",
           "ExclusionNames": [
-            "TopLevel.Ranged",
-            "Damage",
-            "HeadshotDamage"
+            "Damage"
           ]
         },
         {
@@ -51720,10 +51716,10 @@
           ]
         },
         {
-          "AID": "Alteration:aid_g_onmeleekill_regenshields",
+          "AID": "Alteration:aid_g_weapon_onhit_energynova",
           "ExclusionNames": [
             "Damage",
-            "TopLevel.Melee"
+            "Ele_Energy"
           ]
         },
         {
@@ -53635,10 +53631,9 @@
           ]
         },
         {
-          "AID": "Alteration:aid_g_onrangedfire_stackbuff_damage",
+          "AID": "Alteration:aid_g_weapon_onfire_damagestack",
           "ExclusionNames": [
-            "Damage",
-            "TopLevel.Ranged"
+            "Damage"
           ]
         }
       ],
@@ -54094,7 +54089,7 @@
           ]
         },
         {
-          "AID": "Alteration:aid_g_weapon_ondmg_applysnare_v2",
+          "AID": "Alteration:aid_g_weapon_onreload_damagebuff",
           "ExclusionNames": [
             "Damage"
           ]

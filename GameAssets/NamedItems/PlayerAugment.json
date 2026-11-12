@@ -58,7 +58,7 @@
   "PlayerAugment:paid_spriteboons_barreloffish": {
     "Type": "PlayerAugment",
     "Name": "PAID_SpriteBoons_BarrelOfFish",
-    "ItemName": "Baarry O\u0027Fish",
+    "ItemName": "Barry O\u0027Fish",
     "ItemDescription": "Reduces tactical sprint stamina drain when in water. Gain Slap at max level!",
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7ms/content/gameplay/extractableboons/barreloffish/paid_spriteboons_barreloffish.uasset",
@@ -175,7 +175,7 @@
     "Type": "PlayerAugment",
     "Name": "PAID_SpriteBoons_CoinPile",
     "ItemName": "Plundarrgh",
-    "ItemDescription": "Opening Chest grants increased pickaxe speed and movement speed.",
+    "ItemDescription": "Opening Chest grants increased pickaxe speed and movement speed. Increased duration with each Level Up!",
     "Rarity": "Mythic",
     "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7ms/content/gameplay/extractableboons/coinpile/paid_spriteboons_coinpile.uasset",
     "ImagePaths": {
@@ -265,6 +265,18 @@
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T_UI_Bar_LowGravity.png",
       "LargePreview": "ExportedImages\\T_UI_Bar_LowGravity.png"
+    }
+  },
+  "PlayerAugment:paid_spriteboons_daffodilchurn": {
+    "Type": "PlayerAugment",
+    "Name": "PAID_SpriteBoons_DaffodilChurn",
+    "ItemName": "Mini Miku",
+    "ItemDescription": "Grants a Friendship Bubble when emoting with other players. Decreased cooldown with each Level Up!",
+    "Rarity": "Mythic",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7ms/content/gameplay/extractableboons/daffodilchurn/paid_spriteboons_daffodilchurn.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_UI_Bar_DaffodilChurn.png",
+      "LargePreview": "ExportedImages\\T_UI_Bar_DaffodilChurn.png"
     }
   },
   "PlayerAugment:paid_spriteboons_darkintel": {
@@ -759,11 +771,23 @@
       "LargePreview": "ExportedImages\\T_UI_Bar_PhaseDash.png"
     }
   },
+  "PlayerAugment:paid_spriteboons_piratecalamari": {
+    "Type": "PlayerAugment",
+    "Name": "PAID_SpriteBoons_PirateCalamari",
+    "ItemName": "Squiplash",
+    "ItemDescription": "Deploys a Healing Smoke Bomb at low health. Decreased cooldown and increased duration and healing with each Level Up!",
+    "Rarity": "Epic",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7ms/content/gameplay/extractableboons/piratecalamari/paid_spriteboons_piratecalamari.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_UI_Bar_PirateCalamari.png",
+      "LargePreview": "ExportedImages\\T_UI_Bar_PirateCalamari.png"
+    }
+  },
   "PlayerAugment:paid_spriteboons_playmakerbrewery": {
     "Type": "PlayerAugment",
     "Name": "PAID_SpriteBoons_PlaymakerBrewery",
     "ItemName": "Lil\u0027 Flacko",
-    "ItemDescription": "Creates a small shockwave on landing, knocking back enemies. Increased knockback strength with each Level Up!",
+    "ItemDescription": "Creates a small shockwave on landing knocking back enemies, also nullifies fall damage. Increased knockback strength with each Level Up!",
     "Rarity": "Legendary",
     "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7ms/content/gameplay/extractableboons/playmakerbrewery/paid_spriteboons_playmakerbrewery.uasset",
     "ImagePaths": {
@@ -906,8 +930,8 @@
   "PlayerAugment:paid_spriteboons_squibbly": {
     "Type": "PlayerAugment",
     "Name": "PAID_SpriteBoons_Squibbly",
-    "ItemName": "Squibbly",
-    "ItemDescription": "Jumping into a fishing hole fishes it and gives some bonus loot. Get more loot as you level up.",
+    "ItemName": "Lil\u0027 Squibbly",
+    "ItemDescription": "Fish fishing spots by jumping into them and gain bonus loot. Earn more and better items as you level up!",
     "Rarity": "Epic",
     "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7ms/content/gameplay/extractableboons/squibbly/paid_spriteboons_squibbly.uasset",
     "ImagePaths": {
@@ -1099,7 +1123,7 @@
     "Type": "PlayerAugment",
     "Name": "PAID_SpriteBoons_Variant_Cursed",
     "ItemName": "Cursed",
-    "ItemDescription": "Increases chance of rare Sprite variants, water damages you.",
+    "ItemDescription": "Increases chance of rare Sprite variants, water damages you",
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7ms/content/gameplay/variantboons/variantcursed/paid_spriteboons_variant_cursed.uasset",
     "ImagePaths": {
@@ -1159,12 +1183,24 @@
     "Type": "PlayerAugment",
     "Name": "PAID_SpriteBoons_Variant_Jeweled",
     "ItemName": "Fortune",
-    "ItemDescription": "Reveals nearby Chests.",
+    "ItemDescription": "Reveals nearby Chests",
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7ms/content/gameplay/variantboons/variantjeweled/paid_spriteboons_variant_jeweled.uasset",
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T_UI_Bar_Jeweled.png",
       "LargePreview": "ExportedImages\\T_UI_Bar_Jeweled.png"
+    }
+  },
+  "PlayerAugment:paid_spriteboons_variant_liquidgold": {
+    "Type": "PlayerAugment",
+    "Name": "PAID_SpriteBoons_Variant_LiquidGold",
+    "ItemName": "Gold",
+    "ItemDescription": "Gain 3x bonus XP from eliminations",
+    "Rarity": "Rare",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7ms/content/gameplay/variantboons/variantliquidgold/paid_spriteboons_variant_liquidgold.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_UI_Bar_LiquidGold.png",
+      "LargePreview": "ExportedImages\\T_UI_Bar_LiquidGold.png"
     }
   },
   "PlayerAugment:paid_spriteboons_variant_quack": {
@@ -1247,6 +1283,18 @@
     "Rarity": "Rare",
     "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7s3/content/gameplay/extractableboons/weaponsmith/paid_spriteboons_weaponsmith.uasset"
   },
+  "PlayerAugment:paid_spriteboons_whitetiger": {
+    "Type": "PlayerAugment",
+    "Name": "PAID_SpriteBoons_WhiteTiger",
+    "ItemName": "Sir Oscar the Second",
+    "ItemDescription": "Grants increased Pickaxe damage, also gives a temporary speed boost when your Shield breaks. Increased Pickaxe damage and speed boost with each Level Up!",
+    "Rarity": "Legendary",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7ms/content/gameplay/extractableboons/whitetiger/paid_spriteboons_whitetiger.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_UI_Bar_WhiteTiger.png",
+      "LargePreview": "ExportedImages\\T_UI_Bar_WhiteTiger.png"
+    }
+  },
   "PlayerAugment:paid_spriteboons_winnera": {
     "Type": "PlayerAugment",
     "Name": "PAID_SpriteBoons_WinnerA",
@@ -1305,6 +1353,18 @@
     "ImagePaths": {
       "SmallPreview": "ExportedImages\\T_UI_Bar_Comm05.png",
       "LargePreview": "ExportedImages\\T_UI_Bar_Comm05.png"
+    }
+  },
+  "PlayerAugment:paid_spriteboons_yortmelee": {
+    "Type": "PlayerAugment",
+    "Name": "PAID_SpriteBoons_YortMelee",
+    "ItemName": "Zee",
+    "ItemDescription": "Grants regenerating Zero Point dash charges. Max charges increase and recharge time decrease with Level Up!",
+    "Rarity": "Mythic",
+    "AssetPath": "fortnitegame/plugins/gamefeatures/spriteboons_ch7ms/content/gameplay/extractableboons/yortmelee/paid_spriteboons_yortmelee.uasset",
+    "ImagePaths": {
+      "SmallPreview": "ExportedImages\\T_UI_Bar_YortMelee.png",
+      "LargePreview": "ExportedImages\\T_UI_Bar_YortMelee.png"
     }
   }
 }

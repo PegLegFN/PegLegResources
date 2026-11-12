@@ -4286,6 +4286,7 @@
     "DisplayTier": "Shadowshard",
     "EvoType": "crystal",
     "ItemDescription": "SMG: Mid ranged assault weapon with a high capacity magazine and a lateral kick. Its shooting profile makes it ideal for clearing groups of nearby enemies in mobile engagements.",
+    "LevelToXPRow": "VeryRare",
     "Rarity": "Epic",
     "RarityUpRecipe": {
       "Cost": {
@@ -4296,6 +4297,11 @@
         "AccountResource:reagent_c_t03": 2
       },
       "Result": "Schematic:sid_assault_autodrum_teddy_sr_crystal_t04"
+    },
+    "RecycleRecipe": {
+      "Amount": 100,
+      "Cost": {},
+      "Result": "AccountResource:reagent_schematic"
     },
     "Tier": 4,
     "TierUpRecipe": {
@@ -4338,6 +4344,7 @@
     "DisplayTier": "Sunbeam",
     "EvoType": "crystal",
     "ItemDescription": "SMG: Mid ranged assault weapon with a high capacity magazine and a lateral kick. Its shooting profile makes it ideal for clearing groups of nearby enemies in mobile engagements.",
+    "LevelToXPRow": "VeryRare",
     "PromotionCosts": [
       {
         "AccountResource:reagent_promotion_weapons": 1,
@@ -4372,6 +4379,11 @@
       },
       "Result": "Schematic:sid_assault_autodrum_teddy_sr_crystal_t05"
     },
+    "RecycleRecipe": {
+      "Amount": 100,
+      "Cost": {},
+      "Result": "AccountResource:reagent_schematic"
+    },
     "Tier": 5,
     "TriggerType": "Automatic",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/schematics/ranged/assault/autodrum_teddy/sid_assault_autodrum_teddy_vr_crystal_t05.uasset",
@@ -4402,12 +4414,18 @@
     "DisplayTier": "Copper",
     "EvoType": "ore",
     "ItemDescription": "SMG: Mid ranged assault weapon with a high capacity magazine and a lateral kick. Its shooting profile makes it ideal for clearing groups of nearby enemies in mobile engagements.",
+    "LevelToXPRow": "VeryRare",
     "Rarity": "Epic",
     "RarityUpRecipe": {
       "Cost": {
         "AccountResource:reagent_evolverarity_sr": 100
       },
       "Result": "Schematic:sid_assault_autodrum_teddy_sr_ore_t01"
+    },
+    "RecycleRecipe": {
+      "Amount": 100,
+      "Cost": {},
+      "Result": "AccountResource:reagent_schematic"
     },
     "Tier": 1,
     "TierUpRecipe": {
@@ -4447,6 +4465,7 @@
     "DisplayTier": "Silver",
     "EvoType": "ore",
     "ItemDescription": "SMG: Mid ranged assault weapon with a high capacity magazine and a lateral kick. Its shooting profile makes it ideal for clearing groups of nearby enemies in mobile engagements.",
+    "LevelToXPRow": "VeryRare",
     "Rarity": "Epic",
     "RarityUpRecipe": {
       "Cost": {
@@ -4455,6 +4474,11 @@
         "AccountResource:reagent_schematic": 25
       },
       "Result": "Schematic:sid_assault_autodrum_teddy_sr_ore_t02"
+    },
+    "RecycleRecipe": {
+      "Amount": 100,
+      "Cost": {},
+      "Result": "AccountResource:reagent_schematic"
     },
     "Tier": 2,
     "TierUpRecipe": {
@@ -4505,6 +4529,7 @@
     "DisplayTier": "Malachite",
     "EvoType": "ore",
     "ItemDescription": "SMG: Mid ranged assault weapon with a high capacity magazine and a lateral kick. Its shooting profile makes it ideal for clearing groups of nearby enemies in mobile engagements.",
+    "LevelToXPRow": "VeryRare",
     "Rarity": "Epic",
     "RarityUpRecipe": {
       "Cost": {
@@ -4514,6 +4539,11 @@
         "AccountResource:reagent_c_t02": 2
       },
       "Result": "Schematic:sid_assault_autodrum_teddy_sr_ore_t03"
+    },
+    "RecycleRecipe": {
+      "Amount": 100,
+      "Cost": {},
+      "Result": "AccountResource:reagent_schematic"
     },
     "Tier": 3,
     "TierUpRecipe": {
@@ -4555,6 +4585,7 @@
     "DisplayTier": "Obsidian",
     "EvoType": "ore",
     "ItemDescription": "SMG: Mid ranged assault weapon with a high capacity magazine and a lateral kick. Its shooting profile makes it ideal for clearing groups of nearby enemies in mobile engagements.",
+    "LevelToXPRow": "VeryRare",
     "Rarity": "Epic",
     "RarityUpRecipe": {
       "Cost": {
@@ -4565,6 +4596,11 @@
         "AccountResource:reagent_c_t03": 2
       },
       "Result": "Schematic:sid_assault_autodrum_teddy_sr_ore_t04"
+    },
+    "RecycleRecipe": {
+      "Amount": 100,
+      "Cost": {},
+      "Result": "AccountResource:reagent_schematic"
     },
     "Tier": 4,
     "TierUpRecipe": {
@@ -4607,6 +4643,7 @@
     "DisplayTier": "Brightcore",
     "EvoType": "ore",
     "ItemDescription": "SMG: Mid ranged assault weapon with a high capacity magazine and a lateral kick. Its shooting profile makes it ideal for clearing groups of nearby enemies in mobile engagements.",
+    "LevelToXPRow": "VeryRare",
     "PromotionCosts": [
       {
         "AccountResource:reagent_promotion_weapons": 1,
@@ -4640,6 +4677,11 @@
         "AccountResource:reagent_c_t04": 2
       },
       "Result": "Schematic:sid_assault_autodrum_teddy_sr_ore_t05"
+    },
+    "RecycleRecipe": {
+      "Amount": 100,
+      "Cost": {},
+      "Result": "AccountResource:reagent_schematic"
     },
     "Tier": 5,
     "TriggerType": "Automatic",
@@ -27197,6 +27239,7 @@
     "DisplayTier": "Shadowshard",
     "EvoType": "crystal",
     "ItemDescription": "Assault Rifle: Shoots highly accurate energized rounds at a moderate rate for high sustained damage. Deals energy damage, which is fairly effective against all types of elemental enemies.",
+    "LevelToXPRow": "VeryRare",
     "Rarity": "Epic",
     "RarityUpRecipe": {
       "Cost": {
@@ -27207,6 +27250,11 @@
         "AccountResource:reagent_c_t03": 2
       },
       "Result": "Schematic:sid_assault_shockwave_sr_crystal_t04"
+    },
+    "RecycleRecipe": {
+      "Amount": 100,
+      "Cost": {},
+      "Result": "AccountResource:reagent_schematic"
     },
     "Tier": 4,
     "TierUpRecipe": {
@@ -27246,6 +27294,7 @@
     "DisplayTier": "Sunbeam",
     "EvoType": "crystal",
     "ItemDescription": "Assault Rifle: Shoots highly accurate energized rounds at a moderate rate for high sustained damage. Deals energy damage, which is fairly effective against all types of elemental enemies.",
+    "LevelToXPRow": "VeryRare",
     "PromotionCosts": [
       {
         "AccountResource:reagent_promotion_weapons": 1,
@@ -27280,6 +27329,11 @@
       },
       "Result": "Schematic:sid_assault_shockwave_sr_crystal_t05"
     },
+    "RecycleRecipe": {
+      "Amount": 100,
+      "Cost": {},
+      "Result": "AccountResource:reagent_schematic"
+    },
     "Tier": 5,
     "TriggerType": "Automatic",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/schematics/ranged/assault/shockwave/sid_assault_shockwave_vr_crystal_t05.uasset",
@@ -27307,12 +27361,18 @@
     "DisplayTier": "Copper",
     "EvoType": "ore",
     "ItemDescription": "Assault Rifle: Shoots highly accurate energized rounds at a moderate rate for high sustained damage. Deals energy damage, which is fairly effective against all types of elemental enemies.",
+    "LevelToXPRow": "VeryRare",
     "Rarity": "Epic",
     "RarityUpRecipe": {
       "Cost": {
         "AccountResource:reagent_evolverarity_sr": 100
       },
       "Result": "Schematic:sid_assault_shockwave_sr_ore_t01"
+    },
+    "RecycleRecipe": {
+      "Amount": 100,
+      "Cost": {},
+      "Result": "AccountResource:reagent_schematic"
     },
     "Tier": 1,
     "TierUpRecipe": {
@@ -27349,6 +27409,7 @@
     "DisplayTier": "Silver",
     "EvoType": "ore",
     "ItemDescription": "Assault Rifle: Shoots highly accurate energized rounds at a moderate rate for high sustained damage. Deals energy damage, which is fairly effective against all types of elemental enemies.",
+    "LevelToXPRow": "VeryRare",
     "Rarity": "Epic",
     "RarityUpRecipe": {
       "Cost": {
@@ -27357,6 +27418,11 @@
         "AccountResource:reagent_schematic": 25
       },
       "Result": "Schematic:sid_assault_shockwave_sr_ore_t02"
+    },
+    "RecycleRecipe": {
+      "Amount": 100,
+      "Cost": {},
+      "Result": "AccountResource:reagent_schematic"
     },
     "Tier": 2,
     "TierUpRecipe": {
@@ -27404,6 +27470,7 @@
     "DisplayTier": "Malachite",
     "EvoType": "ore",
     "ItemDescription": "Assault Rifle: Shoots highly accurate energized rounds at a moderate rate for high sustained damage. Deals energy damage, which is fairly effective against all types of elemental enemies.",
+    "LevelToXPRow": "VeryRare",
     "Rarity": "Epic",
     "RarityUpRecipe": {
       "Cost": {
@@ -27413,6 +27480,11 @@
         "AccountResource:reagent_c_t02": 2
       },
       "Result": "Schematic:sid_assault_shockwave_sr_ore_t03"
+    },
+    "RecycleRecipe": {
+      "Amount": 100,
+      "Cost": {},
+      "Result": "AccountResource:reagent_schematic"
     },
     "Tier": 3,
     "TierUpRecipe": {
@@ -27451,6 +27523,7 @@
     "DisplayTier": "Obsidian",
     "EvoType": "ore",
     "ItemDescription": "Assault Rifle: Shoots highly accurate energized rounds at a moderate rate for high sustained damage. Deals energy damage, which is fairly effective against all types of elemental enemies.",
+    "LevelToXPRow": "VeryRare",
     "Rarity": "Epic",
     "RarityUpRecipe": {
       "Cost": {
@@ -27461,6 +27534,11 @@
         "AccountResource:reagent_c_t03": 2
       },
       "Result": "Schematic:sid_assault_shockwave_sr_ore_t04"
+    },
+    "RecycleRecipe": {
+      "Amount": 100,
+      "Cost": {},
+      "Result": "AccountResource:reagent_schematic"
     },
     "Tier": 4,
     "TierUpRecipe": {
@@ -27500,6 +27578,7 @@
     "DisplayTier": "Brightcore",
     "EvoType": "ore",
     "ItemDescription": "Assault Rifle: Shoots highly accurate energized rounds at a moderate rate for high sustained damage. Deals energy damage, which is fairly effective against all types of elemental enemies.",
+    "LevelToXPRow": "VeryRare",
     "PromotionCosts": [
       {
         "AccountResource:reagent_promotion_weapons": 1,
@@ -27533,6 +27612,11 @@
         "AccountResource:reagent_c_t04": 2
       },
       "Result": "Schematic:sid_assault_shockwave_sr_ore_t05"
+    },
+    "RecycleRecipe": {
+      "Amount": 100,
+      "Cost": {},
+      "Result": "AccountResource:reagent_schematic"
     },
     "Tier": 5,
     "TriggerType": "Automatic",
@@ -106703,6 +106787,7 @@
     "DisplayTier": "Shadowshard",
     "EvoType": "crystal",
     "ItemDescription": "Spear: A spear that combines a good mix of damage and impact to deliver long range thrusting attacks. Joust: Charge forward, damaging and knocking back smaller enemies in your way.",
+    "LevelToXPRow": "VeryRare",
     "Rarity": "Epic",
     "RarityUpRecipe": {
       "Cost": {
@@ -106713,6 +106798,11 @@
         "AccountResource:reagent_c_t03": 2
       },
       "Result": "Schematic:sid_piercing_junkyard_sr_crystal_t04"
+    },
+    "RecycleRecipe": {
+      "Amount": 100,
+      "Cost": {},
+      "Result": "AccountResource:reagent_schematic"
     },
     "Tier": 4,
     "TierUpRecipe": {
@@ -106752,6 +106842,7 @@
     "DisplayTier": "Sunbeam",
     "EvoType": "crystal",
     "ItemDescription": "Spear: A spear that combines a good mix of damage and impact to deliver long range thrusting attacks. Joust: Charge forward, damaging and knocking back smaller enemies in your way.",
+    "LevelToXPRow": "VeryRare",
     "PromotionCosts": [
       {
         "AccountResource:reagent_promotion_weapons": 1,
@@ -106786,6 +106877,11 @@
       },
       "Result": "Schematic:sid_piercing_junkyard_sr_crystal_t05"
     },
+    "RecycleRecipe": {
+      "Amount": 100,
+      "Cost": {},
+      "Result": "AccountResource:reagent_schematic"
+    },
     "Tier": 5,
     "TriggerType": "Automatic",
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/schematics/melee/piercing/junkyard/sid_piercing_junkyard_vr_crystal_t05.uasset",
@@ -106813,12 +106909,18 @@
     "DisplayTier": "Copper",
     "EvoType": "ore",
     "ItemDescription": "Spear: A spear that combines a good mix of damage and impact to deliver long range thrusting attacks. Joust: Charge forward, damaging and knocking back smaller enemies in your way.",
+    "LevelToXPRow": "VeryRare",
     "Rarity": "Epic",
     "RarityUpRecipe": {
       "Cost": {
         "AccountResource:reagent_evolverarity_sr": 100
       },
       "Result": "Schematic:sid_piercing_junkyard_sr_ore_t01"
+    },
+    "RecycleRecipe": {
+      "Amount": 100,
+      "Cost": {},
+      "Result": "AccountResource:reagent_schematic"
     },
     "Tier": 1,
     "TierUpRecipe": {
@@ -106855,6 +106957,7 @@
     "DisplayTier": "Silver",
     "EvoType": "ore",
     "ItemDescription": "Spear: A spear that combines a good mix of damage and impact to deliver long range thrusting attacks. Joust: Charge forward, damaging and knocking back smaller enemies in your way.",
+    "LevelToXPRow": "VeryRare",
     "Rarity": "Epic",
     "RarityUpRecipe": {
       "Cost": {
@@ -106863,6 +106966,11 @@
         "AccountResource:reagent_schematic": 25
       },
       "Result": "Schematic:sid_piercing_junkyard_sr_ore_t02"
+    },
+    "RecycleRecipe": {
+      "Amount": 100,
+      "Cost": {},
+      "Result": "AccountResource:reagent_schematic"
     },
     "Tier": 2,
     "TierUpRecipe": {
@@ -106910,6 +107018,7 @@
     "DisplayTier": "Malachite",
     "EvoType": "ore",
     "ItemDescription": "Spear: A spear that combines a good mix of damage and impact to deliver long range thrusting attacks. Joust: Charge forward, damaging and knocking back smaller enemies in your way.",
+    "LevelToXPRow": "VeryRare",
     "Rarity": "Epic",
     "RarityUpRecipe": {
       "Cost": {
@@ -106919,6 +107028,11 @@
         "AccountResource:reagent_c_t02": 2
       },
       "Result": "Schematic:sid_piercing_junkyard_sr_ore_t03"
+    },
+    "RecycleRecipe": {
+      "Amount": 100,
+      "Cost": {},
+      "Result": "AccountResource:reagent_schematic"
     },
     "Tier": 3,
     "TierUpRecipe": {
@@ -106957,6 +107071,7 @@
     "DisplayTier": "Obsidian",
     "EvoType": "ore",
     "ItemDescription": "Spear: A spear that combines a good mix of damage and impact to deliver long range thrusting attacks. Joust: Charge forward, damaging and knocking back smaller enemies in your way.",
+    "LevelToXPRow": "VeryRare",
     "Rarity": "Epic",
     "RarityUpRecipe": {
       "Cost": {
@@ -106967,6 +107082,11 @@
         "AccountResource:reagent_c_t03": 2
       },
       "Result": "Schematic:sid_piercing_junkyard_sr_ore_t04"
+    },
+    "RecycleRecipe": {
+      "Amount": 100,
+      "Cost": {},
+      "Result": "AccountResource:reagent_schematic"
     },
     "Tier": 4,
     "TierUpRecipe": {
@@ -107006,6 +107126,7 @@
     "DisplayTier": "Brightcore",
     "EvoType": "ore",
     "ItemDescription": "Spear: A spear that combines a good mix of damage and impact to deliver long range thrusting attacks. Joust: Charge forward, damaging and knocking back smaller enemies in your way.",
+    "LevelToXPRow": "VeryRare",
     "PromotionCosts": [
       {
         "AccountResource:reagent_promotion_weapons": 1,
@@ -107039,6 +107160,11 @@
         "AccountResource:reagent_c_t04": 2
       },
       "Result": "Schematic:sid_piercing_junkyard_sr_ore_t05"
+    },
+    "RecycleRecipe": {
+      "Amount": 100,
+      "Cost": {},
+      "Result": "AccountResource:reagent_schematic"
     },
     "Tier": 5,
     "TriggerType": "Automatic",
@@ -211780,12 +211906,18 @@
       "Result": "Trap:tid_wall_mechstructor_vr_t01"
     },
     "ItemDescription": "Does damage to all enemies in range when trap is triggered.",
+    "LevelToXPRow": "VeryRare",
     "Rarity": "Epic",
     "RarityUpRecipe": {
       "Cost": {
         "AccountResource:reagent_evolverarity_sr": 100
       },
       "Result": "Schematic:sid_wall_mechstructor_sr_t01"
+    },
+    "RecycleRecipe": {
+      "Amount": 100,
+      "Cost": {},
+      "Result": "AccountResource:reagent_schematic"
     },
     "Tier": 1,
     "TierUpRecipe": {
@@ -211822,6 +211954,7 @@
       "Result": "Trap:tid_wall_mechstructor_vr_t02"
     },
     "ItemDescription": "Does damage to all enemies in range when trap is triggered.",
+    "LevelToXPRow": "VeryRare",
     "Rarity": "Epic",
     "RarityUpRecipe": {
       "Cost": {
@@ -211830,6 +211963,11 @@
         "AccountResource:reagent_schematic": 25
       },
       "Result": "Schematic:sid_wall_mechstructor_sr_t02"
+    },
+    "RecycleRecipe": {
+      "Amount": 100,
+      "Cost": {},
+      "Result": "AccountResource:reagent_schematic"
     },
     "Tier": 2,
     "TierUpRecipe": {
@@ -211867,6 +212005,7 @@
       "Result": "Trap:tid_wall_mechstructor_vr_t03"
     },
     "ItemDescription": "Does damage to all enemies in range when trap is triggered.",
+    "LevelToXPRow": "VeryRare",
     "Rarity": "Epic",
     "RarityUpRecipe": {
       "Cost": {
@@ -211876,6 +212015,11 @@
         "AccountResource:reagent_c_t02": 2
       },
       "Result": "Schematic:sid_wall_mechstructor_sr_t03"
+    },
+    "RecycleRecipe": {
+      "Amount": 100,
+      "Cost": {},
+      "Result": "AccountResource:reagent_schematic"
     },
     "Tier": 3,
     "TierUpRecipe": {
@@ -211914,6 +212058,7 @@
       "Result": "Trap:tid_wall_mechstructor_vr_t04"
     },
     "ItemDescription": "Does damage to all enemies in range when trap is triggered.",
+    "LevelToXPRow": "VeryRare",
     "Rarity": "Epic",
     "RarityUpRecipe": {
       "Cost": {
@@ -211924,6 +212069,11 @@
         "AccountResource:reagent_c_t03": 2
       },
       "Result": "Schematic:sid_wall_mechstructor_sr_t04"
+    },
+    "RecycleRecipe": {
+      "Amount": 100,
+      "Cost": {},
+      "Result": "AccountResource:reagent_schematic"
     },
     "Tier": 4,
     "TierUpRecipe": {
@@ -211963,6 +212113,7 @@
       "Result": "Trap:tid_wall_mechstructor_vr_t05"
     },
     "ItemDescription": "Does damage to all enemies in range when trap is triggered.",
+    "LevelToXPRow": "VeryRare",
     "PromotionCosts": [
       {
         "AccountResource:reagent_promotion_traps": 1,
@@ -211996,6 +212147,11 @@
         "AccountResource:reagent_c_t04": 2
       },
       "Result": "Schematic:sid_wall_mechstructor_sr_t05"
+    },
+    "RecycleRecipe": {
+      "Amount": 100,
+      "Cost": {},
+      "Result": "AccountResource:reagent_schematic"
     },
     "Tier": 5,
     "AssetPath": "fortnitegame/plugins/gamefeatures/savetheworld/content/items/schematics/traps/wall/sid_wall_mechstructor_vr_t05.uasset",

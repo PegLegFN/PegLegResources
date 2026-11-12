@@ -878,6 +878,17 @@
       ],
       "events": [
         {
+          "displayName": "Starter Pack Items",
+          "description": "A wave of Starter Pack items are returning to the Event Shop for the season!",
+          "color": "#ff3636",
+          "keyItems": [
+            "Hero:hid_ninja_042_assembler_sr_t01",
+            "Hero:hid_constructor_040_lars_sr_t01",
+            "Schematic:sid_wall_mechstructor_sr_t01"
+          ],
+          "duringWeek": 0
+        },
+        {
           "eventFlag": "EventFlag.Season11.Frostnite",
           "displayName": "Frostnite",
           "description": "Frostnite returns! Get ready to heat things up and fight the cold and deadly storm.",

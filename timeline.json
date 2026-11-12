@@ -882,8 +882,10 @@
           "description": "A wave of Starter Pack items are returning to the Event Shop for the season!",
           "color": "#ff3636",
           "keyItems": [
-            "Hero:hid_ninja_042_assembler_sr_t01",
-            "Hero:hid_constructor_040_lars_sr_t01",
+            "Hero:hid_ninja_042_assembler_vr_t01",
+            "Hero:hid_constructor_040_lars_vr_t01",
+            "Hero:hid_outlander_037_fuzzy_bear_teddy_vr_t01",
+            "Schematic:sid_assault_autodrum_teddy_vr_ore_t01",
             "Schematic:sid_wall_mechstructor_sr_t01"
           ],
           "duringWeek": 0
